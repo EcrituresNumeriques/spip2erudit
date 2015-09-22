@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+   Schema Erudit Unicode
+   Version 1.2.0                                                              
+   Révisé le 2008-10-28                 
+
+        Auteur : Isabelle Spina
+        Fonction : Analyste en gestion de l'information numérique 
+        Courriel : isabelle.spina@umontreal.ca
+
+        Liste de diffusion : http://www.listes.umontreal.ca/wws/info/eruditarticle-dev
+
+        Le partenaire ayant participé à l'élaboration de cette version du modèle de données est Persée.
+        Il est possible de consulter la documentation de développement du modèle de données "Erudit Article" aux adresses
+        suivantes : http://www.listes.umontreal.ca/wws/d_read/eruditarticle-dev/ et http://projet.erudit.org/browse/XSDART/
+
+        « CE PRODUIT INCLUT UN OU PLUSIEURS ÉNONCÉS, INSTRUCTIONS, MODULES OU
+        LOGICIELS LICENCIÉ(S) PAR LE CONSORTIUM ÉRUDIT, S.E.N.C. (http://www.erudit.org) (ci-après,
+        les « LOGICIELS ÉRUDIT »);
+
+        « LES LOGICIELS ÉRUDIT SONT LICENCIÉS CONFORMÉMENT AUX MODALITÉS ET
+        CONDITIONS DE LA CONVENTION DE LICENCE ÉRUDIT DONT LA VERSION COURANTE SE
+        TROUVE À L’ADRESSE SUIVANTE : http://www.erudit.org/licences (ci-après, la « CONVENTION
+        ÉRUDIT »). NOUS VOUS ENJOIGNONS DE CONSULTER LE TEXTE DE LA CONVENTION
+        ÉRUDIT AFIN DE PRENDRE CONNAISSANCE DE TOUTES ET CHACUNE DES CONDITIONS ET
+        RESTRICTIONS RELATIVES À L’UTILISATION, LE DÉVELOPPEMENT ET LA DISTRIBUTION DES
+        LOGICIELS ÉRUDIT ET DE TOUT PRODUIT DISTRIBUÉ AUX TERMES DE LA CONVENTION
+        ÉRUDIT INCLUANT, SANS LIMITER LA PORTÉE DE CE QUI PRÉCÈDE, CE QUI SUIT : 
+
+                    (1)	« VOUS NE POUVEZ UTILISER CE PRODUIT ET LES LOGICIELS ÉRUDIT
+                    AUTREMENT QU’EN CONFORMITÉ AVEC LES DISPOSITIONS DE LA CONVENTION
+                    ÉRUDIT;
+
+                    (2)	LES LOGICIELS ÉRUDIT ET TOUT PRODUIT DISTRIBUÉS AUX TERMES DE LA
+                    CONVENTION ÉRUDIT VOUS SONT FOURNIS « EN L’ÉTAT » (« AS IS ») ET SANS
+                    AUCUNE GARANTIE DE QUELQUE NATURE, EXPRESSE OU TACITE. ».
+-->
+<!--  
+         Namespace = "http://www.erudit.org/xsd/unicode"
+         Schema location = "http://www.erudit.org/xsd/unicode/1.2.0/eruditunicode.xsd"
+-->
+<xs:schema targetNamespace="http://www.erudit.org/xsd/unicode"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:unicode="http://www.erudit.org/xsd/unicode"
+    elementFormDefault="qualified" attributeFormDefault="qualified" version="1.2.0">
+    <!-- ****************************** TYPES NOMMÉS ****************************** -->
+    <!-- ================== types simples ================== -->
+    <!-- ++++++++++++++++++ tableau de caractères (unicode 5.1) ++++++++++++++++++ -->
+    <xs:simpleType name="tabcaractype">
+        <xs:restriction base="xs:token">
+            <!-- Commandes C0 et latin de base -->
+            <xs:enumeration value="0000-007F"/>
+            <!-- Commandes C1 et supplément Latin-1 -->
+            <xs:enumeration value="0080-00FF"/>
+            <!-- Latin étendu A -->
+            <xs:enumeration value="0100-017F"/>
+            <!-- Latin étendu B -->
+            <xs:enumeration value="0180-024F"/>
+            <!-- Alphabet phonétique international -->
+            <xs:enumeration value="0250-02AF"/>
+            <!-- Lettres modificatives avec chasse -->
+            <xs:enumeration value="02B0-02FF"/>
+            <!-- Diacritiques -->
+            <xs:enumeration value="0300-036F"/>
+            <!-- Grec et copte -->
+            <xs:enumeration value="0370-03FF"/>
+            <!-- Cyrillique -->
+            <xs:enumeration value="0400-04FF"/>
+            <!-- Supplément cyrillique -->
+            <xs:enumeration value="0500-052F"/>
+            <!-- Arménien -->
+            <xs:enumeration value="0530-058F"/>
+            <!-- Hébreu -->
+            <xs:enumeration value="0590-05FF"/>
+            <!-- Arabe -->
+            <xs:enumeration value="0600-06FF"/>
+            <!-- Syriaque -->
+            <xs:enumeration value="0700-074F"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Supplément arabe -->
+            <xs:enumeration value="0750-077F"/>
+            <!-- Thâna -->
+            <xs:enumeration value="0780-07BF"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- N'Ko -->
+            <xs:enumeration value="07C0-07FF"/>
+            <!-- Devanâgari -->
+            <xs:enumeration value="0900-097F"/>
+            <!-- Bengali -->
+            <xs:enumeration value="0980-09FF"/>
+            <!-- Gourmoukhî -->
+            <xs:enumeration value="0A00-0A7F"/>
+            <!-- Goudjarati -->
+            <xs:enumeration value="0A80-0AFF"/>
+            <!-- Oriya -->
+            <xs:enumeration value="0B00-0B7F"/>
+            <!-- Tamoul -->
+            <xs:enumeration value="0B80-0BFF"/>
+            <!-- Télougou -->
+            <xs:enumeration value="0C00-0C7F"/>
+            <!-- Kannara -->
+            <xs:enumeration value="0C80-0CFF"/>
+            <!-- Malayalam -->
+            <xs:enumeration value="0D00-0D7F"/>
+            <!-- Singhalais -->
+            <xs:enumeration value="0D80-0DFF"/>
+            <!-- Thaï -->
+            <xs:enumeration value="0E00-0E7F"/>
+            <!-- Lao -->
+            <xs:enumeration value="0E80-0EFF"/>
+            <!-- Tibétain -->
+            <xs:enumeration value="0F00-0FFF"/>
+            <!-- Birman -->
+            <xs:enumeration value="1000-109F"/>
+            <!-- Géorgien -->
+            <xs:enumeration value="10A0-10FF"/>
+            <!-- Jamos hangûl -->
+            <xs:enumeration value="1100-11FF"/>
+            <!-- Éthiopien -->
+            <xs:enumeration value="1200-137F"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Supplément éthiopien -->
+            <xs:enumeration value="1380-139F"/>
+            <!-- Chérokî -->
+            <xs:enumeration value="13A0-13FF"/>
+            <!-- Syllabaires autochtones canadiens -->
+            <xs:enumeration value="1400-167F"/>
+            <!-- Ogam -->
+            <xs:enumeration value="1680-169F"/>
+            <!-- Runes -->
+            <xs:enumeration value="16A0-16FF"/>
+            <!-- Tagal -->
+            <xs:enumeration value="1700-171F"/>
+            <!-- Hanounóo -->
+            <xs:enumeration value="1720-173F"/>
+            <!-- Bouhid -->
+            <xs:enumeration value="1740-175F"/>
+            <!-- Tagbanoua -->
+            <xs:enumeration value="1760-177F"/>
+            <!-- Khmer -->
+            <xs:enumeration value="1780-17FF"/>
+            <!-- Mongol -->
+            <xs:enumeration value="1800-18AF"/>
+            <!-- Limbu -->
+            <xs:enumeration value="1900-194F"/>
+            <!-- Taï-le -->
+            <xs:enumeration value="1950-197F"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Nouveau taï lü -->
+            <xs:enumeration value="1980-19DF"/>
+            <!-- Symboles khmers -->
+            <xs:enumeration value="19E0-19FF"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Bougui -->
+            <xs:enumeration value="1A00-1A1F"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Balinais -->
+            <xs:enumeration value="1B00-1B7F"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Soudanais -->
+            <xs:enumeration value="1B80-1BBF"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Lepcha -->
+            <xs:enumeration value="1C00-1C4F"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Santal -->
+            <xs:enumeration value="1C50-1C7F"/>
+            <!-- Supplément phonétique -->
+            <xs:enumeration value="1D00-1D7F"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Supplément phonétique étendu -->
+            <xs:enumeration value="1D80-1DBF"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Supplément de diacritiques -->
+            <xs:enumeration value="1DC0-1DFF"/>
+            <!-- Latin étendu additionnel -->
+            <xs:enumeration value="1E00-1EFF"/>
+            <!-- Grec étendu -->
+            <xs:enumeration value="1F00-1FFF"/>
+            <!-- Ponctuation générale -->
+            <xs:enumeration value="2000-206F"/>
+            <!-- Exposants et indices -->
+            <xs:enumeration value="2070-209F"/>
+            <!-- Symboles monétaires -->
+            <xs:enumeration value="20A0-20CF"/>
+            <!-- Signes combinatoires pour symboles -->
+            <xs:enumeration value="20D0-20FF"/>
+            <!-- Symboles de type lettre -->
+            <xs:enumeration value="2100-214F"/>
+            <!-- Formes numérales -->
+            <xs:enumeration value="2150-218F"/>
+            <!-- Flèches -->
+            <xs:enumeration value="2190-21FF"/>
+            <!-- Opérateurs mathématiques -->
+            <xs:enumeration value="2200-22FF"/>
+            <!-- Signes techniques divers -->
+            <xs:enumeration value="2300-23FF"/>
+            <!-- Pictogrammes de commande -->
+            <xs:enumeration value="2400-243F"/>
+            <!-- Reconnaissance optique de caractères -->
+            <xs:enumeration value="2440-245F"/>
+            <!-- Alphanumériques cerclés -->
+            <xs:enumeration value="2460-24FF"/>
+            <!-- Filets -->
+            <xs:enumeration value="2500-257F"/>
+            <!-- Pavés -->
+            <xs:enumeration value="2580-259F"/>
+            <!-- Formes géométriques -->
+            <xs:enumeration value="25A0-25FF"/>
+            <!-- Symboles divers -->
+            <xs:enumeration value="2600-26FF"/>
+            <!-- Casseau -->
+            <xs:enumeration value="2700-27BF"/>
+            <!-- Divers symboles mathématiques - A -->
+            <xs:enumeration value="27C0-27EF"/>
+            <!-- Supplément A de flèches -->
+            <xs:enumeration value="27F0-27FF"/>
+            <!-- Combinaisons Braille -->
+            <xs:enumeration value="2800-28FF"/>
+            <!-- Supplément B de flèches -->
+            <xs:enumeration value="2900-297F"/>
+            <!-- Divers symboles mathématiques - B -->
+            <xs:enumeration value="2980-29FF"/>
+            <!-- Opérateurs mathématiques supplémentaires -->
+            <xs:enumeration value="2A00-2AFF"/>
+            <!-- Divers symboles et flèches -->
+            <xs:enumeration value="2B00-2BFF"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Glagolitique -->
+            <xs:enumeration value="2C00-2C5F"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Latin étendu C -->
+            <xs:enumeration value="2C60-2C7F"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Copte -->
+            <xs:enumeration value="2C80-2CFF"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Supplément géorgien -->
+            <xs:enumeration value="2D00-2D2F"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Tifinaghe -->
+            <xs:enumeration value="2D30-2D7F"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Éthiopien étendu -->
+            <xs:enumeration value="2D80-2DDF"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Cyrillique étendu A -->
+            <xs:enumeration value="2DE0-2DFF"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Ponctuation complémentaire -->
+            <xs:enumeration value="2E00-2E7F"/>
+            <!-- Formes supplémentaires des clés CJC -->
+            <xs:enumeration value="2E80-2EFF"/>
+            <!-- Clés chinoises K'ang-hsi -->
+            <xs:enumeration value="2F00-2FDF"/>
+            <!-- Description idéographique -->
+            <xs:enumeration value="2FF0-2FFF"/>
+            <!-- Symboles et ponctuation CJC -->
+            <xs:enumeration value="3000-303F"/>
+            <!-- Hiragana -->
+            <xs:enumeration value="3040-309F"/>
+            <!-- Katakana -->
+            <xs:enumeration value="30A0-30FF"/>
+            <!-- Bopomofo -->
+            <xs:enumeration value="3100-312F"/>
+            <!-- Jamo de compatibilité hangûl -->
+            <xs:enumeration value="3130-318F"/>
+            <!-- Kanboun -->
+            <xs:enumeration value="3190-319F"/>
+            <!-- Bopomofo étendu -->
+            <xs:enumeration value="31A0-31BF"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Traits CJC -->
+            <xs:enumeration value="31C0-31EF"/>
+            <!-- Supplément phonétique katakana -->
+            <xs:enumeration value="31F0-31FF"/>
+            <!-- Lettres et mois CJC cerclés -->
+            <xs:enumeration value="3200-32FF"/>
+            <!-- Compatibilité CJC -->
+            <xs:enumeration value="3300-33FF"/>
+            <!-- Supplément A aux idéogrammes unifiés CJC -->
+            <xs:enumeration value="3400-4DBF"/>
+            <!-- Hexagrammes du Classique des mutations ou Yi-king -->
+            <xs:enumeration value="4DC0-4DFF"/>
+            <!-- Idéogrammes unifiés CJC -->
+            <xs:enumeration value="4E00-9FCF"/>
+            <!-- Syllabaire yi des Monts frais -->
+            <xs:enumeration value="A000-A48F"/>
+            <!-- Clés yi -->
+            <xs:enumeration value="A490-A4CF"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Vaï -->
+            <xs:enumeration value="A500-A63F"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Cyrillique étendu B -->
+            <xs:enumeration value="A640-A69F"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Lettres modificatives de ton -->
+            <xs:enumeration value="A700-A71F"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Latin étendu D -->
+            <xs:enumeration value="A720-A7FF"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Sylotî Nâgrî -->
+            <xs:enumeration value="A800-A82F"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Phags-pa -->
+            <xs:enumeration value="A840-A87F"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Saurashtra -->
+            <xs:enumeration value="A880-A8DF"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Kayah Li -->
+            <xs:enumeration value="A900-A92F "/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Rejang -->
+            <xs:enumeration value="A930-A95F"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Cham -->
+            <xs:enumeration value="AA00-AA5F"/>
+            <!-- Hangûl -->
+            <xs:enumeration value="AC00-D7AF"/>
+            <!-- Idéogrammes de compatibilité CJC -->
+            <xs:enumeration value="F900-FAFF"/>
+            <!-- Formes de présentation alphabétiques -->
+            <xs:enumeration value="FB00-FB4F"/>
+            <!-- Formes A de présentation arabes -->
+            <xs:enumeration value="FB50-FDFF"/>
+            <!-- Sélecteurs de variante -->
+            <xs:enumeration value="FE00-FE0F"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Formes verticales -->
+            <xs:enumeration value="FE10-FE1F"/>
+            <!-- Demi-signes combinatoires -->
+            <xs:enumeration value="FE20-FE2F"/>
+            <!-- Formes de compatibilité CJC -->
+            <xs:enumeration value="FE30-FE4F"/>
+            <!-- Petites variantes de forme -->
+            <xs:enumeration value="FE50-FE6F"/>
+            <!-- Formes B de présentation arabes -->
+            <xs:enumeration value="FE70-FEFF"/>
+            <!-- Formes de demi et pleine chasse -->
+            <xs:enumeration value="FF00-FFEF"/>
+            <!-- Caractères spéciaux -->
+            <xs:enumeration value="FFF0-FFFF"/>
+            <!-- Syllabaire linéaire B -->
+            <xs:enumeration value="10000-1007F"/>
+            <!-- Idéogrammes du linéaire B -->
+            <xs:enumeration value="10080-100FF"/>
+            <!-- Nombres égéens -->
+            <xs:enumeration value="10100-1013F"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Nombres grecs anciens -->
+            <xs:enumeration value="10140-1018F"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Symboles anciens -->
+            <xs:enumeration value="10190-101CF"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Disque de Phaistos -->
+            <xs:enumeration value="101D0-101FF"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Lycien -->
+            <xs:enumeration value="10280-1029F"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Carien -->
+            <xs:enumeration value="102A0-102DF"/>
+            <!-- Alphabet italique -->
+            <xs:enumeration value="10300-1032F"/>
+            <!-- Gotique -->
+            <xs:enumeration value="10330-1034F"/>
+            <!-- Ougaritique -->
+            <xs:enumeration value="10380-1039F"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Vieux perse -->
+            <xs:enumeration value="103A0-103DF"/>
+            <!-- Déséret -->
+            <xs:enumeration value="10400-1044F"/>
+            <!-- Shavien -->
+            <xs:enumeration value="10450-1047F"/>
+            <!-- Osmanya -->
+            <xs:enumeration value="10480-104AF"/>
+            <!-- Syllabaire chypriote -->
+            <xs:enumeration value="10800-1083F"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Phénicien -->
+            <xs:enumeration value="10900-1091F"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Lydien -->
+            <xs:enumeration value="10920-1093F"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Kharochthî -->
+            <xs:enumeration value="10A00-10A5F"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Cunéiforme -->
+            <xs:enumeration value="12000-123FF"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Ponctuation et nombres cunéiformes -->
+            <xs:enumeration value="12400-1247F"/>
+            <!-- Symboles musicaux byzantins -->
+            <xs:enumeration value="1D000-1D0FF"/>
+            <!-- Symboles musicaux occidentaux -->
+            <xs:enumeration value="1D100-1D1FF"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Notation musicale grecque ancienne -->
+            <xs:enumeration value="1D200-1D24F"/>
+            <!-- Symboles du Classique du mystère suprême -->
+            <xs:enumeration value="1D300-1D35F"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Chiffres-bâtonnets chinois -->
+            <xs:enumeration value="1D360-1D37F"/>
+            <!-- Symboles mathématiques alphanumériques -->
+            <xs:enumeration value="1D400-1D7FF"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Tuiles de Mah-jong -->
+            <xs:enumeration value="1F000-1F02F"/>
+            <!-- ajouté le 28 octobre 2008 -->
+            <!-- Tuiles de domino -->
+            <xs:enumeration value="1F030-1F09F"/>
+            <!-- Supplément B aux idéogrammes unifiés CJC -->
+            <xs:enumeration value="20000-2A6DF"/>
+            <!-- Supplément aux idéogrammes de compatibilité CJC -->
+            <xs:enumeration value="2F800-2FA1F"/>
+            <!-- Étiquettes -->
+            <xs:enumeration value="E0000-E007F"/>
+            <!-- Supplément de sélecteurs de variante -->
+            <xs:enumeration value="E0100-E01EF"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

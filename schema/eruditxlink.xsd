@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+   Schema Erudit XLink
+   Version 1.1.0                                                              
+   Révisé le 2008-11-11                  
+
+        Auteur : Isabelle Spina
+        Fonction : Analyste en gestion de l'information numérique 
+        Courriel : isabelle.spina@umontreal.ca 
+
+        Liste de diffusion : http://www.listes.umontreal.ca/wws/info/eruditarticle-dev
+
+        Le partenaire ayant participé à l'élaboration de cette version du modèle de données est Persée.
+        Il est possible de consulter la documentation de développement du modèle de données "Erudit Article" aux adresses
+        suivantes : http://www.listes.umontreal.ca/wws/d_read/eruditarticle-dev/ et http://projet.erudit.org/browse/XSDART/
+
+        « CE PRODUIT INCLUT UN OU PLUSIEURS ÉNONCÉS, INSTRUCTIONS, MODULES OU
+        LOGICIELS LICENCIÉ(S) PAR LE CONSORTIUM ÉRUDIT, S.E.N.C. (http://www.erudit.org) (ci-après,
+        les « LOGICIELS ÉRUDIT »);
+
+        « LES LOGICIELS ÉRUDIT SONT LICENCIÉS CONFORMÉMENT AUX MODALITÉS ET
+        CONDITIONS DE LA CONVENTION DE LICENCE ÉRUDIT DONT LA VERSION COURANTE SE
+        TROUVE À L’ADRESSE SUIVANTE : http://www.erudit.org/licences (ci-après, la « CONVENTION
+        ÉRUDIT »). NOUS VOUS ENJOIGNONS DE CONSULTER LE TEXTE DE LA CONVENTION
+        ÉRUDIT AFIN DE PRENDRE CONNAISSANCE DE TOUTES ET CHACUNE DES CONDITIONS ET
+        RESTRICTIONS RELATIVES À L’UTILISATION, LE DÉVELOPPEMENT ET LA DISTRIBUTION DES
+        LOGICIELS ÉRUDIT ET DE TOUT PRODUIT DISTRIBUÉ AUX TERMES DE LA CONVENTION
+        ÉRUDIT INCLUANT, SANS LIMITER LA PORTÉE DE CE QUI PRÉCÈDE, CE QUI SUIT : 
+
+                    (1)	« VOUS NE POUVEZ UTILISER CE PRODUIT ET LES LOGICIELS ÉRUDIT
+                    AUTREMENT QU’EN CONFORMITÉ AVEC LES DISPOSITIONS DE LA CONVENTION
+                    ÉRUDIT;
+
+                    (2)	LES LOGICIELS ÉRUDIT ET TOUT PRODUIT DISTRIBUÉS AUX TERMES DE LA
+                    CONVENTION ÉRUDIT VOUS SONT FOURNIS « EN L’ÉTAT » (« AS IS ») ET SANS
+                    AUCUNE GARANTIE DE QUELQUE NATURE, EXPRESSE OU TACITE. ».
+-->
+<!--  
+         Namespace = "http://www.w3.org/1999/xlink"
+         Schema location = "http://www.erudit.org/xsd/xlink/1.1.0/eruditxlink.xsd"
+-->
+<xs:schema targetNamespace="http://www.w3.org/1999/xlink"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink"
+    elementFormDefault="qualified" attributeFormDefault="qualified" version="1.1.0">
+    <xs:attribute name="type">
+        <xs:simpleType>
+            <xs:restriction base="xs:NMTOKEN">
+                <xs:enumeration value="simple"/>
+                <xs:enumeration value="extended"/>
+                <xs:enumeration value="locator"/>
+                <xs:enumeration value="arc"/>
+                <xs:enumeration value="resource"/>
+                <xs:enumeration value="title"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:attribute>
+    <!--<xs:attribute name="href" type="xs:anyURI"/>-->
+    <xs:attribute name="role" type="xs:anyURI"/>
+    <xs:attribute name="title" type="xs:token"/>
+    <xs:attribute name="show">
+        <xs:simpleType>
+            <xs:restriction base="xs:NMTOKEN">
+                <xs:enumeration value="new"/>
+                <xs:enumeration value="replace"/>
+                <xs:enumeration value="embed"/>
+                <xs:enumeration value="other"/>
+                <xs:enumeration value="none"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:attribute>
+    <xs:attribute name="label" type="xs:NMTOKEN"/>
+    <xs:attribute name="actuate">
+        <xs:simpleType>
+            <xs:restriction base="xs:NMTOKEN">
+                <xs:enumeration value="onLoad"/>
+                <xs:enumeration value="onRequest"/>
+                <xs:enumeration value="other"/>
+                <xs:enumeration value="none"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:attribute>
+    <xs:attribute name="from" type="xs:NMTOKEN"/>
+    <xs:attribute name="to" type="xs:NMTOKEN"/>
+</xs:schema>

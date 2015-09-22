@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+   Schema Erudit Identifiant
+   Version 1.2.0                                                              
+   Révisé le 2009-01-06                  
+
+        Liste de diffusion : http://www.listes.umontreal.ca/wws/info/eruditarticle-dev
+
+        Le partenaire ayant participé à l'élaboration de cette version du modèle de données est Persée.
+        Il est possible de consulter la documentation de développement du modèle de données "Erudit Article" aux adresses
+        suivantes : http://www.listes.umontreal.ca/wws/d_read/eruditarticle-dev/ et http://projet.erudit.org/browse/XSDART/
+
+        « CE PRODUIT INCLUT UN OU PLUSIEURS ÉNONCÉS, INSTRUCTIONS, MODULES OU
+        LOGICIELS LICENCIÉ(S) PAR LE CONSORTIUM ÉRUDIT, S.E.N.C. (http://www.erudit.org) (ci-après,
+        les « LOGICIELS ÉRUDIT »);
+
+        « LES LOGICIELS ÉRUDIT SONT LICENCIÉS CONFORMÉMENT AUX MODALITÉS ET
+        CONDITIONS DE LA CONVENTION DE LICENCE ÉRUDIT DONT LA VERSION COURANTE SE
+        TROUVE À L’ADRESSE SUIVANTE : http://www.erudit.org/licences (ci-après, la « CONVENTION
+        ÉRUDIT »). NOUS VOUS ENJOIGNONS DE CONSULTER LE TEXTE DE LA CONVENTION
+        ÉRUDIT AFIN DE PRENDRE CONNAISSANCE DE TOUTES ET CHACUNE DES CONDITIONS ET
+        RESTRICTIONS RELATIVES À L’UTILISATION, LE DÉVELOPPEMENT ET LA DISTRIBUTION DES
+        LOGICIELS ÉRUDIT ET DE TOUT PRODUIT DISTRIBUÉ AUX TERMES DE LA CONVENTION
+        ÉRUDIT INCLUANT, SANS LIMITER LA PORTÉE DE CE QUI PRÉCÈDE, CE QUI SUIT : 
+
+                    (1)	« VOUS NE POUVEZ UTILISER CE PRODUIT ET LES LOGICIELS ÉRUDIT
+                    AUTREMENT QU’EN CONFORMITÉ AVEC LES DISPOSITIONS DE LA CONVENTION
+                    ÉRUDIT;
+
+                    (2)	LES LOGICIELS ÉRUDIT ET TOUT PRODUIT DISTRIBUÉS AUX TERMES DE LA
+                    CONVENTION ÉRUDIT VOUS SONT FOURNIS « EN L’ÉTAT » (« AS IS ») ET SANS
+                    AUCUNE GARANTIE DE QUELQUE NATURE, EXPRESSE OU TACITE. ».
+-->
+<!--  
+         Namespace = "http://www.erudit.org/xsd/id"
+         Schema location = "http://www.erudit.org/xsd/id/1.2.0/eruditid.xsd"
+-->
+<xs:schema targetNamespace="http://www.erudit.org/xsd/id"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:id="http://www.erudit.org/xsd/id"
+    elementFormDefault="qualified" attributeFormDefault="qualified" version="1.2.0">
+    <!-- ****************************** TYPES NOMMÉS ****************************** -->
+    <!-- ================== types simples ================== -->
+    <!-- ++++++++++++++++++ isbn ++++++++++++++++++ -->
+    <xs:simpleType name="isbntype">
+        <xs:restriction base="xs:token">
+            <xs:length value="13"/>
+            <xs:pattern value="(\d{1,5}-\d{1,7}-\d{1,6}-[\dxX])|(\d{1,5} \d{1,7} \d{1,6} [\dxX])"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <!-- ++++++++++++++++++ isbn-13 ++++++++++++++++++ -->
+    <xs:simpleType name="isbn13type">
+        <xs:restriction base="xs:token">
+            <xs:length value="17"/>
+            <xs:pattern value="(\d{3}-\d{1,5}-\d{1,7}-\d{1,6}-[\dxX])|(\d{3} \d{1,5} \d{1,7} \d{1,6} [\dxX])"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <!-- ++++++++++++++++++ issn ++++++++++++++++++ -->
+    <xs:simpleType name="issntype">
+        <xs:restriction base="xs:NMTOKEN">
+            <xs:length value="9"/>
+            <xs:pattern value="\d{4}-\d{3}[\dxX]"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

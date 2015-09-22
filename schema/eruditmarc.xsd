@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+   Schema Erudit MARC
+   Version 1.1.0                                                              
+   Révisé le 2006-06-07                  
+
+        Auteur : Isabelle Spina
+        Fonction : Analyste en gestion de l'information numérique 
+        Courriel : isabelle.spina@umontreal.ca 
+
+        Liste de diffusion : http://www.listes.umontreal.ca/wws/info/eruditarticle-dev
+
+        Les partenaires ayant participé à l'élaboration de cette version du modèle de données sont le CENS et Persée.
+        Il est possible de consulter la documentation de développement du modèle de données "Erudit Article" à l'adresse
+        suivante : http://www.listes.umontreal.ca/wws/d_read/eruditarticle-dev/
+
+        « CE PRODUIT INCLUS UN OU PLUSIEURS ÉNONCÉS, INSTRUCTIONS, MODULES OU
+        LOGICIELS LICENCIÉ(S) PAR LE CONSORTIUM ÉRUDIT, S.E.N.C. (http://www.erudit.org) (ci-après,
+        les « LOGICIELS ÉRUDIT »);
+
+        « LES LOGICIELS ÉRUDIT SONT LICENCIÉS CONFORMÉMENT AUX MODALITÉS ET
+        CONDITIONS DE LA CONVENTION DE LICENCE ÉRUDIT DONT LA VERSION COURANTE SE
+        TROUVE À L’ADRESSE SUIVANTE : http://www.erudit.org/licences (ci-après, la « CONVENTION
+        ÉRUDIT »). NOUS VOUS ENJOIGNONS DE CONSULTER LE TEXTE DE LA CONVENTION
+        ÉRUDIT AFIN DE PRENDRE CONNAISSANCE DE TOUTES ET CHACUNE DES CONDITIONS ET
+        RESTRICTIONS RELATIVES À L’UTILISATION, LE DÉVELOPPEMENT ET LA DISTRIBUTION DES
+        LOGICIELS ÉRUDIT ET DE TOUT PRODUIT DISTRIBUÉ AUX TERMES DE LA CONVENTION
+        ÉRUDIT INCLUANT, SANS LIMITER LA PORTÉE DE CE QUI PRÉCÈDE, CE QUI SUIT : 
+
+                    (1)	« VOUS NE POUVEZ UTILISER CE PRODUIT ET LES LOGICIELS ÉRUDIT
+                    AUTREMENT QU’EN CONFORMITÉ AVEC LES DISPOSITIONS DE LA CONVENTION
+                    ÉRUDIT;
+
+                    (2)	LES LOGICIELS ÉRUDIT ET TOUT PRODUIT DISTRIBUÉS AUX TERMES DE LA
+                    CONVENTION ÉRUDIT VOUS SONT FOURNIS « EN L’ÉTAT » (« AS IS ») ET SANS
+                    AUCUNE GARANTIE DE QUELQUE NATURE, EXPRESSE OU TACITE. ».
+-->
+<!--  
+         Namespace = "http://www.erudit.org/xsd/marc"
+         Schema location = "http://www.erudit.org/xsd/marc/1.1.0/eruditmarc.xsd"
+-->
+<xs:schema targetNamespace="http://www.erudit.org/xsd/marc" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:marc="http://www.erudit.org/xsd/marc" elementFormDefault="qualified" attributeFormDefault="qualified" version="1.1.0">
+    <!-- ****************************** TYPES NOMMÉS ****************************** -->
+    <!-- ================== types simples ================== -->
+    <!-- ++++++++++++++++++ code de relation ++++++++++++++++++ -->
+    <xs:simpleType name="coderelationtype">
+        <xs:restriction base="xs:token">
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Copiste d'art -->
+            <xs:enumeration value="acp"/>
+            <!-- Acteur -->
+            <xs:enumeration value="act"/>
+            <!-- Adaptateur -->
+            <xs:enumeration value="adp"/>
+            <!-- Auteur de postface, achevé d'imprimer, etc. -->
+            <xs:enumeration value="aft"/>
+            <!-- Animateur -->
+            <xs:enumeration value="anm"/>
+            <!-- Annotateur -->
+            <xs:enumeration value="ann"/>
+            <!-- Antécédent bibliographique -->
+            <xs:enumeration value="ant"/>
+            <!-- Candidat -->
+            <xs:enumeration value="app"/>
+            <!-- Auteur mentionné dans une citation ou des extraits de textes -->
+            <xs:enumeration value="aqt"/>
+            <!-- Architecte -->
+            <xs:enumeration value="arc"/>
+            <!-- Arrangeur -->
+            <xs:enumeration value="arr"/>
+            <!-- Artiste -->
+            <xs:enumeration value="art"/>
+            <!-- Cessionnaire -->
+            <xs:enumeration value="asg"/>
+            <!-- Nom associé -->
+            <xs:enumeration value="asn"/>
+            <!-- Nom attribué -->
+            <xs:enumeration value="att"/>
+            <!-- Commissaire-priseur -->
+            <xs:enumeration value="auc"/>
+            <!-- Auteur du dialogue -->
+            <xs:enumeration value="aud"/>
+            <!-- Auteur de l'introduction, etc. -->
+            <xs:enumeration value="aui"/>
+            <!-- Auteur d'un scénario, etc. -->
+            <xs:enumeration value="aus"/>
+            <!-- Auteur -->
+            <xs:enumeration value="aut"/>
+            <!-- Concepteur de reliures -->
+            <xs:enumeration value="bdd"/>
+            <!-- Concepteur de jaquettes -->
+            <xs:enumeration value="bjd"/>
+            <!-- Concepteur de livres -->
+            <xs:enumeration value="bkd"/>
+            <!-- Producteur de livres -->
+            <xs:enumeration value="bkp"/>
+            <!-- Relieur -->
+            <xs:enumeration value="bnd"/>
+            <!-- Concepteur d'ex-libris -->
+            <xs:enumeration value="bpd"/>
+            <!-- Libraire -->
+            <xs:enumeration value="bsl"/>
+            <!-- Concepteur -->
+            <xs:enumeration value="ccp"/>
+            <!-- Chorégraphe -->
+            <xs:enumeration value="chr"/>
+            <!-- Collaborateur -->
+            <xs:enumeration value="clb"/>
+            <!-- Client -->
+            <xs:enumeration value="cli"/>
+            <!-- Calligraphe -->
+            <xs:enumeration value="cll"/>
+            <!-- Responsable de la collotypie -->
+            <xs:enumeration value="clt"/>
+            <!-- Commentateur -->
+            <xs:enumeration value="cmm"/>
+            <!-- Compositeur -->
+            <xs:enumeration value="cmp"/>
+            <!-- Compositeur (Imprimerie) -->
+            <xs:enumeration value="cmt"/>
+            <!-- Chef d'orchestre -->
+            <xs:enumeration value="cnd"/>
+            <!-- Cinématogrpahe -->
+            <xs:enumeration value="cng"/>
+            <!-- Censeur -->
+            <xs:enumeration value="cns"/>
+            <!-- Contestant-intimé -->
+            <xs:enumeration value="coe"/>
+            <!-- Collectionneur -->
+            <xs:enumeration value="col"/>
+            <!-- Compilateur -->
+            <xs:enumeration value="com"/>
+            <!-- Contestant -->
+            <xs:enumeration value="cos"/>
+            <!-- Contestant-appelant -->
+            <xs:enumeration value="cot"/>
+            <!-- Demandeur du droit d'auteur -->
+            <xs:enumeration value="cpc"/>
+            <!-- Plaignant-intimé -->
+            <xs:enumeration value="cpe"/>
+            <!-- Titulaire du droit d'auteur -->
+            <xs:enumeration value="cph"/>
+            <!-- Plaignant -->
+            <xs:enumeration value="cpl"/>
+            <!-- Plaignant-appelant -->
+            <xs:enumeration value="cpt"/>
+            <!-- Créateur -->
+            <xs:enumeration value="cre"/>
+            <!-- Correspondant -->
+            <xs:enumeration value="crp"/>
+            <!-- Réviseur -->
+            <xs:enumeration value="crr"/>
+            <!-- Expert conseil -->
+            <xs:enumeration value="csl"/>
+            <!-- Consultant d'un projet -->
+            <xs:enumeration value="csp"/>
+            <!-- Costumier -->
+            <xs:enumeration value="cst"/>
+            <!-- Collaborateur -->
+            <xs:enumeration value="ctb"/>
+            <!-- Contesté-intimé -->
+            <xs:enumeration value="cte"/>
+            <!-- Cartographe -->
+            <xs:enumeration value="ctg"/>
+            <!-- Contractant -->
+            <xs:enumeration value="ctr"/>
+            <!-- Contesté -->
+            <xs:enumeration value="cts"/>
+            <!-- Contesté-appelant -->
+            <xs:enumeration value="ctt"/>
+            <!-- Conservateur d'exposition -->
+            <xs:enumeration value="cur"/>
+            <!-- Commentateur d'un texte écrit -->
+            <xs:enumeration value="cwt"/>
+            <!-- Défendeur -->
+            <xs:enumeration value="dfd"/>
+            <!-- Défendeur-intimé -->
+            <xs:enumeration value="dfe"/>
+            <!-- Défendeur-appelant -->
+            <xs:enumeration value="dft"/>
+            <!-- Responsable de l'attribution des grades -->
+            <xs:enumeration value="dgg"/>
+            <!-- Doctorant -->
+            <xs:enumeration value="dis"/>
+            <!-- Dessinateur -->
+            <xs:enumeration value="dln"/>
+            <!-- Danseur -->
+            <xs:enumeration value="dnc"/>
+            <!-- Donateur -->
+            <xs:enumeration value="dnr"/>
+            <!-- Personne illustrée -->
+            <xs:enumeration value="dpc"/>
+            <!-- Déposant -->
+            <xs:enumeration value="dpt"/>
+            <!-- Dessinateur -->
+            <xs:enumeration value="drm"/>
+            <!-- Directeur -->
+            <xs:enumeration value="drt"/>
+            <!-- Designer -->
+            <xs:enumeration value="dsr"/>
+            <!-- Distributeur -->
+            <xs:enumeration value="dst"/>
+            <!-- Dédicataire -->
+            <xs:enumeration value="dte"/>
+            <!-- Dédicateur -->
+            <xs:enumeration value="dto"/>
+            <!-- Auteur douteux -->
+            <xs:enumeration value="dub"/>
+            <!-- Éditeur intellectuel -->
+            <xs:enumeration value="edt"/>
+            <!-- Graveur -->
+            <xs:enumeration value="egr"/>
+            <!-- Galvanotypeur -->
+            <xs:enumeration value="elt"/>
+            <!-- Ingénieur -->
+            <xs:enumeration value="eng"/>
+            <!-- Aquafortiste -->
+            <xs:enumeration value="etr"/>
+            <!-- Expert -->
+            <xs:enumeration value="exp"/>
+            <!-- Copiste -->
+            <xs:enumeration value="fac"/>
+            <!-- Monteur de film -->
+            <xs:enumeration value="flm"/>
+            <!-- Ancien propriétaire -->
+            <xs:enumeration value="fmo"/>
+            <!-- Bailleur de fonds/Commanditaire -->
+            <xs:enumeration value="fnd"/>
+            <!-- Faussaire -->
+            <xs:enumeration value="frg"/>
+            <!-- Personne honorée -->
+            <xs:enumeration value="hnr"/>
+            <!-- Hôte -->
+            <xs:enumeration value="hst"/>
+            <!-- Illustrateur -->
+            <xs:enumeration value="ill"/>
+            <!-- Enlumineur -->
+            <xs:enumeration value="ilu"/>
+            <!-- Présentateur -->
+            <xs:enumeration value="ins"/>
+            <!-- Inventeur -->
+            <xs:enumeration value="inv"/>
+            <!-- Instrumentiste -->
+            <xs:enumeration value="itr"/>
+            <!-- Personne interrogée -->
+            <xs:enumeration value="ive"/>
+            <!-- Interviewer -->
+            <xs:enumeration value="ivr"/>
+            <!-- Librettiste -->
+            <xs:enumeration value="lbt"/>
+            <!-- Partie adverse-intimé -->
+            <xs:enumeration value="lee"/>
+            <!-- Partie adverse -->
+            <xs:enumeration value="lel"/>
+            <!-- Prêteur -->
+            <xs:enumeration value="len"/>
+            <!-- Partie adverse-appelant -->
+            <xs:enumeration value="let"/>
+            <!-- Éclairagiste -->
+            <xs:enumeration value="lgd"/>
+            <!-- Requérant-intimé -->
+            <xs:enumeration value="lie"/>
+            <!-- Requérant -->
+            <xs:enumeration value="lil"/>
+            <!-- Requérant-appelant -->
+            <xs:enumeration value="lit"/>
+            <!-- Architecte-paysagiste -->
+            <xs:enumeration value="lsa"/>
+            <!-- Preneur de licence -->
+            <xs:enumeration value="lse"/>
+            <!-- Donneur de licence -->
+            <xs:enumeration value="lso"/>
+            <!-- Lithographe -->
+            <xs:enumeration value="ltg"/>
+            <!-- Parolier -->
+            <xs:enumeration value="lyr"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Copiste de musique -->
+            <xs:enumeration value="mcp"/>
+            <!-- Agent de liaison sur les métadonnées -->
+            <xs:enumeration value="mdc"/>
+            <!-- Fabricant -->
+            <xs:enumeration value="mfr"/>
+            <!-- ajouté le 7 juin 2006 -->
+            <!-- Baliseur de données -->
+            <xs:enumeration value="mke"/>
+            <!-- Animateur de débat -->
+            <xs:enumeration value="mod"/>
+            <!-- Moniteur/Contractant -->
+            <xs:enumeration value="mon"/>
+            <!-- Graveur sur métal -->
+            <xs:enumeration value="mte"/>
+            <!-- Musicien -->
+            <xs:enumeration value="mus"/>
+            <!-- Narrateur -->
+            <xs:enumeration value="nrt"/>
+            <!-- Opposant -->
+            <xs:enumeration value="opn"/>
+            <!-- Instigateur -->
+            <xs:enumeration value="org"/>
+            <!-- Organisateur de réunion -->
+            <xs:enumeration value="orm"/>
+            <!-- Autre -->
+            <xs:enumeration value="oth"/>
+            <!-- Propriétaire -->
+            <xs:enumeration value="own"/>
+            <!-- Protecteur -->
+            <xs:enumeration value="pat"/>
+            <!-- Directeur de la publication -->
+            <xs:enumeration value="pbd"/>
+            <!-- Éditeur -->
+            <xs:enumeration value="pbl"/>
+            <!-- Correcteur -->
+            <xs:enumeration value="pfr"/>
+            <!-- Photographe -->
+            <xs:enumeration value="pht"/>
+            <!-- Clicheur -->
+            <xs:enumeration value="plt"/>
+            <!-- Imprimeur de planches -->
+            <xs:enumeration value="pop"/>
+            <!-- Papetier -->
+            <xs:enumeration value="ppm"/>
+            <!-- Marionnettiste -->
+            <xs:enumeration value="ppt"/>
+            <!-- Agent de liaison du processus -->
+            <xs:enumeration value="prc"/>
+            <!-- Personnel de la réalisation -->
+            <xs:enumeration value="prd"/>
+            <!-- Interprète -->
+            <xs:enumeration value="prf"/>
+            <!-- Programmeur -->
+            <xs:enumeration value="prg"/>
+            <!-- Graveur (arts visuels) -->
+            <xs:enumeration value="prm"/>
+            <!-- Producteur -->
+            <xs:enumeration value="pro"/>
+            <!-- Imprimeur -->
+            <xs:enumeration value="prt"/>
+            <!-- Demandeur de brevet -->
+            <xs:enumeration value="pta"/>
+            <!-- Demandeur-intimé -->
+            <xs:enumeration value="pte"/>
+            <!-- Demandeur -->
+            <xs:enumeration value="ptf"/>
+            <!-- Titulaire de brevet -->
+            <xs:enumeration value="pth"/>
+            <!-- Demandeur-appelant -->
+            <xs:enumeration value="ptt"/>
+            <!-- Marqueur de rubriques -->
+            <xs:enumeration value="rbr"/>
+            <!-- Ingénieur du son -->
+            <xs:enumeration value="rce"/>
+            <!-- Destinataire -->
+            <xs:enumeration value="rcp"/>
+            <!-- Rédacteur -->
+            <xs:enumeration value="red"/>
+            <!-- Perspectiviste -->
+            <xs:enumeration value="ren"/>
+            <!-- Chercheur -->
+            <xs:enumeration value="res"/>
+            <!-- Critique -->
+            <xs:enumeration value="rev"/>
+            <!-- Reporteur -->
+            <xs:enumeration value="rpt"/>
+            <!-- Partie responsable -->
+            <xs:enumeration value="rpy"/>
+            <!-- Répondant-intimé -->
+            <xs:enumeration value="rse"/>
+            <!-- Metteur en scène -->
+            <xs:enumeration value="rsg"/>
+            <!-- Répondant -->
+            <xs:enumeration value="rsp"/>
+            <!-- Répondant-appelant -->
+            <xs:enumeration value="rst"/>
+            <!-- Chef d'équipe de chercheur -->
+            <xs:enumeration value="rth"/>
+            <!-- Membre d'équipe de chercheur -->
+            <xs:enumeration value="rtm"/>
+            <!-- Conseiller scientifique -->
+            <xs:enumeration value="sad"/>
+            <!-- Scénariste -->
+            <xs:enumeration value="sce"/>
+            <!-- Sculpteur -->
+            <xs:enumeration value="scl"/>
+            <!-- Scribe -->
+            <xs:enumeration value="scr"/>
+            <!-- Secrétaire -->
+            <xs:enumeration value="sec"/>
+            <!-- Signataire -->
+            <xs:enumeration value="sgn"/>
+            <!-- Chanteur -->
+            <xs:enumeration value="sng"/>
+            <!-- Intervenant -->
+            <xs:enumeration value="spk"/>
+            <!-- Commanditaire -->
+            <xs:enumeration value="spn"/>
+            <!-- Arpenteur -->
+            <xs:enumeration value="srv"/>
+            <!-- Décorateur de scène -->
+            <xs:enumeration value="std"/>
+            <!-- Conteur -->
+            <xs:enumeration value="stl"/>
+            <!-- Organisme de normalisation -->
+            <xs:enumeration value="stn"/>
+            <!-- Stéréotypeur -->
+            <xs:enumeration value="str"/>
+            <!-- Professeur -->
+            <xs:enumeration value="tch"/>
+            <!-- Directeur de thèse -->
+            <xs:enumeration value="ths"/>
+            <!-- Transcripteur -->
+            <xs:enumeration value="trc"/>
+            <!-- Traducteur -->
+            <xs:enumeration value="trl"/>
+            <!-- Concepteur de caractères -->
+            <xs:enumeration value="tyd"/>
+            <!-- Typographe -->
+            <xs:enumeration value="tyg"/>
+            <!-- Vidéaste -->
+            <xs:enumeration value="vdg"/>
+            <!-- Artiste vocale -->
+            <xs:enumeration value="voc"/>
+            <!-- Auteur du matériel d'appoint -->
+            <xs:enumeration value="wam"/>
+            <!-- Xylographe -->
+            <xs:enumeration value="wdc"/>
+            <!-- Graveur sur bois -->
+            <xs:enumeration value="wde"/>
+            <!-- Témoin -->
+            <xs:enumeration value="wit"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>
