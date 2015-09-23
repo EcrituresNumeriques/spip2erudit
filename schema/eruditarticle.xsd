@@ -41,13 +41,14 @@
 	Valeur de l'attribut "xsi:schemaLocation" à utiliser pour les instances XML : 
 	"http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd"
 -->
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:h="http://www.w3.org/1999/xhtml"
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:h="http://www.w3.org/1999/xhtml" 
     xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:id="http://www.erudit.org/xsd/id"
     xmlns:lang="http://www.erudit.org/xsd/lang" xmlns:marc="http://www.erudit.org/xsd/marc"
     xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:mime="http://www.erudit.org/xsd/mime"
     xmlns:unicode="http://www.erudit.org/xsd/unicode" xmlns="http://www.erudit.org/xsd/article"
     targetNamespace="http://www.erudit.org/xsd/article" elementFormDefault="qualified"
     attributeFormDefault="unqualified" version="3.0.0">
+    <xs:import namespace="http://www.w3.org/1999/xlink" schemaLocation="./xlink.xsd"/>
     <!-- ****************************** Annotation général ****************************** -->
     <xs:annotation>
         <xs:documentation xml:lang="fr">

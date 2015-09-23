@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns="http://www.erudit.org/xsd/article" xmlns:xlink="http://www.w3.org/1999/xlink"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" idproprio="009308ar" typeart="autre"
-    lang="fr" qualtraitement="complet"
-    xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd">
+<article xmlns="http://www.erudit.org/xsd/article" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article ./schema/eruditarticle.xsd" qualtraitement="complet" idproprio="009308ar" typeart="autre" lang="fr" ordseq="1">
+<!-- xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" -->
     <admin>
         <infoarticle>
             <idpublic scheme="doi">10.7202/009308ar</idpublic>
