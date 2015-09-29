@@ -26,13 +26,18 @@
                     <nomfamille>Vitali-Rosati</nomfamille>
                 </nompers>
             </directeur>
+            <!-- a remplir/supprimer fonction + contribution -->
             <redacteurchef typerc="invite" sexe="masculin">
+                <fonction lang="fr"></fonction>
+                <contribution></contribution>
                 <nompers>
                     <prenom>Michael</prenom>
                     <nomfamille>Eberley-Sinatra</nomfamille>
                 </nompers>
             </redacteurchef>
             <redacteurchef typerc="invite" sexe="masculin">
+                <fonction lang="fr"></fonction>
+                <contribution></contribution>
                 <nompers>
                     <prenom>Stefan</prenom>
                     <nomfamille>Sinclair</nomfamille>
@@ -74,10 +79,19 @@
             <sstitre>entre linguistique et politique</sstitre>
         </grtitre>
         <grauteur>
-            <auteur id="au1"><nompers>
+            <auteur id="au1">
+                <nompers>
                     <prenom>Henri</prenom>
                     <nomfamille>Boyer</nomfamille>
-                </nompers></auteur>
+                </nompers>
+                <!-- a Remplir -->
+                <affiliation>
+                    <alinea>A remplir</alinea>
+                    </affiliation>
+                <courriel>
+                    <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="lecourriel@domaine.com"></liensimple>
+                </courriel>
+            </auteur>
         </grauteur>
         <resume lang="fr">
             <titre>Résumé</titre>
@@ -148,6 +162,7 @@
                 <!-- Verifier comment on peut noter l'échange, avec des citations ou juste le gras suffit ? -->
                 <alinea><marquage typemarq="gras">Avant toute chose, pouvez-vous nous donner quelques éléments de précision sur la langue catalane elle-même, son origine, son histoire, sa littérature et sa place contemporaine ?</marquage></alinea>
             </para>
+            <!-- Peut ètre qu'un bloccitation serait plus aproprié dans ce cas la -->
             <para id="pa4">
                 <no>4</no>
                 <alinea><citation>Le catalan est une langue romane à part entière, considérée parfois comme minoritaire bien qu’ayant le statut de langue co-officielle, langue d’enseignement et d’administration, ayant su résister à la pression dominatrice du castillan. Depuis la fin du franquisme, devenu « langue propre » de la Catalogne grâce à une politique linguistique officielle conduite par le gouvernement autonome avec détermination dans tous les compartiments de la société. On peut parler de récupération dont est largement responsable un fort sentiment identitaire collectif qui durant les dernières années a évolué dans le sens d’un souverainisme militant.</citation></alinea>
