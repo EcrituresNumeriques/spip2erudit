@@ -398,10 +398,431 @@
     </corps>
     <partiesann>
         <grnote>
-            <note>
-                <no>1</no>
-                <alinea>1ere note</alinea>
+            <note id="note1">
+                <no lang="fr">1</no>
+                <alinea>Cf. P. Ricœur, « Défi et bonheur de la traduction », in P. Ricœur, Sur la traduction, Paris, Bayard, 2004, p. 7-20, spéc. p. 12-13.</alinea>
             </note>
+            <note id="note2">
+                <no lang="fr">2</no>
+                <alinea>Ibid.</alinea>
+            </note>
+            <note id="note3">
+                <no lang="fr">3</no>
+                <alinea>Le langage juridique est un langage spécialisée qui baigne dans la langue commune : cf. T. Mazzarese, « Legal Interpretation as Translation : Three Readings of a Current Analogy », Jahrbuch für juristische Hermeneutik/Journal of legal Hermeneutics, 5/2000, p. 161-188, spéc. p. 179.</alinea>
+            </note>
+            <note id="note4">
+                <no lang="fr">4</no>
+                <alinea>La spécificité ici ébauchée du langage juridique tient probablement à la fois à sa nature prescriptive et constitutive. Par nature constitutive, il faut entendre la capacité du droit à créer son propre monde : v. spéc. H. Kelsen, Théorie générale du droit et de l’État (trad. B. Laroche, V. Faure), Paris, Bruxelles, LGDJ, Bruylant, 1997, p. 217 ; J.-Cl. Gémar, « Traduire le droit. Lettre, esprit et équivalence », in M. Cornu, M. Moreau (dir.), Traduction du droit et droit de la traduction, Paris, Dalloz, CNRS, Juriscope, 2011, p. 129-144, spéc. p. 132.</alinea>
+            </note>
+            <note id="note5">
+                <no lang="fr">5</no>
+                <alinea> E. Cooke, The Modern Law of Estoppel, Oxford, Oxford University Press, 2000.</alinea>
+            </note>
+            <note id="note6">
+                <no lang="fr">6</no>
+                <alinea>Par exemple le Canada (à l’exception du Québec qui dispose d’un droit civil d’inspiration française), l’Inde, la République d’Irlande (Irlande du Sud), Hong Kong, la Nouvelle-Zélande, Singapour ou bien les États des États-Unis (à l’exception de la Louisiane dont le droit civil est d’influence française et espagnole).</alinea>
+            </note>
+            <note id="note7">
+                <no lang="fr">7</no>
+                <alinea>G. Steiner, Après Babel. Une poétique du dire et de la traduction, Paris, Albin Michel, 1998, p. 52 : « Toute langue […] représente le modèle le plus juste qu’on connaisse du principe d’Héraclite ».</alinea>
+            </note>
+            <note id="note8">
+                <no lang="fr">8</no>
+                <alinea>B. Fauvarque-Cosson, « L’estoppel, concept étrange et pénétrant », Rev. contrats 2006, no 4, p. 1279 et s.</alinea>
+            </note>
+            <note id="note9">
+                <no lang="fr">9</no>
+                <alinea>J. Dargent, La doctrine de l’estoppel. Une théorie originale du droit anglais en matière de preuve, Thèse de Doctorat, Tourcoing, Faculté de Droit de Grenoble, Imprimerie Georges Frère, 1943, p. 3.</alinea>
+            </note>
+            <note id="note10">
+                <no lang="fr">10</no>
+                <alinea>Cave v. Mills [1862], H.&amp; N., p. 927.</alinea>
+            </note>
+            <note id="note11">
+                <no lang="fr">11</no>
+                <alinea>Cass. com., 20 sept. 2011, no 10-22.888, P+B ; v. aussi : E. Gaillard, « L’interdiction de se contredire au détriment d’autrui comme principe général du droit du commerce international (principe de l’estoppel dans quelques sentences arbitrales récentes) », Revue de l’arbitrage 1985, p. 241 et s.</alinea>
+            </note>
+            <note id="note12">
+                <no lang="fr">12</no>
+                <alinea> Cass. 1re civ., 3 févr. 2010, no 08-21.288, Bull. civ. I, no 25.</alinea>
+            </note>
+            <note id="note13">
+                <no lang="fr">13</no>
+                <alinea> H.O. Hunter, Modern Law of Contracts (mise à jour Westlaw, mars 2014), spéc. § 6:12. M. Spence, « Australian Estoppel and the Protection of Reliance », (1997), 11 Journal of Contract, p. 203-221.</alinea>
+            </note>
+            <note id="note14">
+                <no lang="fr">14</no>
+                <alinea>V., B. Fauvarque-Cosson, art. préc.</alinea>
+            </note>
+            <note id="note15">
+                <no lang="fr">15</no>
+                <alinea>Cass. 1re civ., 6 juill. 2005, no 01-15912, Bull. civ. 2005, I, no 302, p. 252.</alinea>
+            </note>
+            <note id="note16">
+                <no lang="fr">16</no>
+                <alinea>P. Ricœur, « Défi et bonheur de la traduction », op. cit., p. 12-13.</alinea>
+            </note>
+            <note id="note17">
+                <no lang="fr">17</no>
+                <alinea>Op. cit., p. 12.</alinea>
+            </note>
+            <note id="note18">
+                <no lang="fr">18</no>
+                <alinea>Cf. I. Kitamuru, « Un point de vue japonais », Les Cahiers de droit, vol. 28, no 4, 1987, p. 747-792, spéc. p. 791.</alinea>
+            </note>
+            <note id="note19">
+                <no lang="fr">19</no>
+                <alinea>Le résultat est lors même lorsque le concept peut être traduit mot à mot (par calque), parce que le champ sémantique le permet, sans qu’il y ait pour autant arrimage du sens dans le système juridique. Les juristes anglais l’ont bien compris, eux qui ont refusé si longtemps de rendre la « bonne foi » des juristes continentaux par « good faith » : sur cette question, cf. en tout dernier lieu : Yam Seng Pte Ltd v International Trade Corp Ltd [2013] EWHC 111 (QB) ; [2013] 1 All E.R. (Comm) 1321 (QBD). Adde, S. Bogle, « Disclosing good faith in English contract law », Edin.L.R. 2014, 18(1), 141-145 ; S. Glanert, « Le juriste subverti : réflexions traductologiques à l'heure de l'uniformisation des droits en Europe », Meta : journal des traducteurs, vol. 50, no 4, 2005.</alinea>
+            </note>
+            <note id="note20">
+                <no lang="fr">20</no>
+                <alinea>Cf. l’article classique de P. Legrand, « Issues in the Translability of Law », in S. Bermann, M. Wood (dir.), Nation, Language and the Ethics of Translation, Princeton, Princeton University Press, 2005, p. 30 et s. ; G.R. de Groot, « Translating Legal Information », Jahrbuch für juristische Hermeutik, 5/2000, p. 131-149 ; R. Sacco, « Language and Law », op. cit., p. 113-129 ; J.-Cl. Gémar, « La langage du droit au risqué de la traduction. De l’universel au particulier », Français juridique et science du droit, Bruxelles, Bruylant, 1995, p. 123-154.</alinea>
+            </note>
+            <note id="note21">
+                <no lang="fr">21</no>
+                <alinea>Cf. S. Glanert, De la traductibilité du droit, Paris, Dalloz-Sirey, 2011 ; R. Sacco, « Aperçus historique et philosophiques des relations entre droit et traduction », in M. Cornu, M. Moreau (dir.), op. cit., p. 13-27 ; M. Beaupré, « Introduction », Les Cahiers de droit, vol. 28, no 4, 1987, p. 735-745.</alinea>
+            </note>
+            <note id="note22">
+                <no lang="fr">22</no>
+                <alinea>K. Schmitt, Théologie politique, Paris, Gallimard, 1988.</alinea>
+            </note>
+            <note id="note23">
+                <no lang="fr">23</no>
+                <alinea>V. tout spécialement, sur la querelle entre Schmitt et Blumenberg, J-Cl. Monod, La querelle de la sécularisation, Paris, J. Vrin, 2002, p. 241 et s.</alinea>
+            </note>
+            <note id="note24">
+                <no lang="fr">24</no>
+                <alinea>Saint Augustin, Confessions, Œuvres I, Paris, Gallimard, La Pléiade, 1998, Livre X, XXXV, (55).</alinea>
+            </note>
+            <note id="note25">
+                <no lang="fr">25</no>
+                <alinea>H. Blumenberg, La légitimité des Temps modernes, Paris, Gallimard, 1999, p. 261.</alinea>
+            </note>
+            <note id="note26">
+                <no lang="fr">26</no>
+                <alinea>Sur laquelle on consultera prioritairement L. Kolakowski, La Philosophie positiviste, Paris, Denoël-Gonthier, 1976, p. 13-17.</alinea>
+            </note>
+            <note id="note27">
+                <no lang="fr">27</no>
+                <alinea>J. Grondin, « L’universalisation de l’herméneutique chez Gadamer », in J. Grondin, L’horizon herméneutique de la pensée contemporaine, Paris, J. Vrin, 1993, p. 235-251, spéc. p. 240-241. La raison en est facilement compréhensible : « Ce qui ne répond pas aux critères objectifs des sciences physiques ne bénéficie plus que d’une valeur subjective, laissée au bon vouloir de chacun » (op. cit., p. 241).</alinea>
+            </note>
+            <note id="note28">
+                <no lang="fr">28</no>
+                <alinea>Ce qui a été montré par M. Foucault, Les mots et les choses, Paris, Gallimard, 1966, coll. Tel, p. 231.</alinea>
+            </note>
+            <note id="note29">
+                <no lang="fr">29</no>
+                <alinea>Le principal artisan de cette transformation reste Schleiermacher et son Herméneutique générale (v. infra, no 4).</alinea>
+            </note>
+            <note id="note30">
+                <no lang="fr">30</no>
+                <alinea>Cf. B. Frydman, Le sens des lois. Histoire de l’interprétation et de la raison juridique, 3e éd., Bruxelles, Bruylant, 2011, p. 22-25.</alinea>
+            </note>
+            <note id="note31">
+                <no lang="fr">31</no>
+                <alinea>B. Frydman, op. cit., p. 24.</alinea>
+            </note>
+            <note id="note32">
+                <no lang="fr">32</no>
+                <alinea>S’agissant des liens, en Allemagne, entre l’« herméneutique romantique » et l’École historique du droit, v. A. Dufour, « Droit et langage dans l’École historique du droit », Archives de philosophie du droit, 1974, t. XIX, p. 151-180.</alinea>
+            </note>
+            <note id="note33">
+                <no lang="fr">33</no>
+                <alinea>F. Frydman, op. cit., p. 360 et s. On doit dire, au contraire, que « […] les commentateurs de l’exégèse se comportent tous en historiens lorsque, cherchant la clé du sens dans le secret de son origine, dans le mouvement de sa production, ils traquent la volonté historique du législateur, jusque dans des travaux préparatoires pourtant sujets à fort caution. »</alinea>
+            </note>
+            <note id="note34">
+                <no lang="fr">34</no>
+                <alinea>D. Kennedy, « The Turn to Interpretation », 58 S.Cal.L.Rev. (1985), p. 251-275.</alinea>
+            </note>
+            <note id="note35">
+                <no lang="fr">35</no>
+                <alinea>Sociological jurisprudence et réalisme américain partagent de nombreux très communs. D'abord parce qu'Oliver Wendell Holmes, l'un des plus grands représentants de la Sociological jurisprudence, est également tenu pour l'un des fondateurs du réalisme américain (V., en particulier, « The Path of the Law », Harvard Law Review, Vol. X, 1897, p. 457-478, qui contient la profession de foi du réalisme américain : « La prédiction de ce que feront en fait les tribunaux, et rien de plus extraordinaire, voilà ce que j’appelle le (v., en langue française : F. Michaut, « Le rôle créateur du juge selon l’école de la “sociological jurisprudence” et le mouvement réaliste américain. Le juge et la règle de droit », RIDC 2-1987, p. 343-371).</alinea>
+            </note>
+            <note id="note36">
+                <no lang="fr">36</no>
+                <alinea>H.L.A Hart, The Concept of Law, 2nd ed., Oxford, Clarendon Press, 1994.</alinea>
+            </note>
+            <note id="note37">
+                <no lang="fr">37</no>
+                <alinea>Il y a une théorie à faire de l’impact de l’« herméneutique du soupçon » (celle de Nietzsche, Marx, Freud et aujourd’hui Habermas, cf. P. Ricoeur, « Le conflit des interprétations », P. Ricoeur, De l’interprétation. Essai sur Freud, Paris, Éditions du Seuil, 1965, p. 39 et s., spéc. p. 40-44), sur le tournant interprétatif qu’a connu la théorie du droit au XIXe siècle. V. aussi les remarques de B. Frydman, op. cit., no 206, p. 436 et s. Et v. infra, no 20.</alinea>
+            </note>
+            <note id="note38">
+                <no lang="fr">38</no>
+                <alinea>(H.L.A. Hart, op. cit., p. 123 et p. 136).</alinea>
+            </note>
+            <note id="note39">
+                <no lang="fr">39</no>
+                <alinea>Comme le soutient, par ex., le néo-réalisme français ; cf. M. Troper, V. Champeil-Desplats, Ch. Grzegorczyk (dir.), Théorie des contraintes juridiques, Paris, LGDJ, 2005.</alinea>
+            </note>
+            <note id="note40">
+                <no lang="fr">40</no>
+                <alinea>K. Llewellyn, « A Realistic Jurisprudence — The Next Step », 30 Colum.L.Rev. 431 (1930), spéc. p. 444. C'est la distinction entre « real rules » et « paper rules ». K. Llewellyn, « A Realistic Jurisprudence. The Next Step » in K. Llewellyn, Jurisprudence, Realism in Theory and Practice, Transaction Publishers, New Brunswick, London, 2008, p. 3-41. À laquelle renvoie cette autre distinction de Pound entre « law in action » et « law in the books » (R. Pound, « Law in Books and Law in Action », 44 A.L.Rev. 12 (1910)).</alinea>
+            </note>
+            <note id="note41">
+                <no lang="fr">41</no>
+                <alinea> J.E. Wilhem, « Herméneutique et traduction : la question de “l’appropriation” ou le rapport du “propre” à “l’étranger” », Meta : journal des traducteurs, vol. 49, n° 4, 2004, p. 768-776, spéc. p. 768-769</alinea>
+            </note>
+            <note id="note42">
+                <no lang="fr">42</no>
+                <alinea> Sur le second, v. infra, no 20.</alinea>
+            </note>
+            <note id="note43">
+                <no lang="fr">43</no>
+                <alinea>F. Schleiermacher, Herméneutique, Genève, Labor et Fides, 1987, p. 170 (cité par J.E. Wilhem, op. cit., p. 770).</alinea>
+            </note>
+            <note id="note44">
+                <no lang="fr">44</no>
+                <alinea>J.E. Wilhem, op. cit., loc. cit.</alinea>
+            </note>
+            <note id="note45">
+                <no lang="fr">45</no>
+                <alinea>H.-G. Gadamer, « Langage et compréhension », in H.G. Gadamer, Langage et vérité, Paris, Gallimard, 1995, p. 146-164, spéc. p. 148.</alinea>
+            </note>
+            <note id="note46">
+                <no lang="fr">46</no>
+                <alinea>H.G. Gadamer, op. cit., p. 146. V. aussi H.-G. Gadamer, Vérité et méthode. Les grandes lignes d’une herméneutique philosophique, éd. Intégrale, Paris, Seuil, 1996, spéc. p. 410-411.</alinea>
+            </note>
+            <note id="note47">
+                <no lang="fr">47</no>
+                <alinea>J. Grondin, L’horizon herméneutique de la pensée contemporaine, op. cit., p. 8.</alinea>
+            </note>
+            <note id="note48">
+                <no lang="fr">48</no>
+                <alinea> Ibid.</alinea>
+            </note>
+            <note id="note49">
+                <no lang="fr">49</no>
+                <alinea>V. J. Grondin, « Le passage de l'herméneutique de Heidegger à celle de Gadamer », in J. Grondin, Le tournant herméneutique de la phénoménologie, Paris, PUF, 1993, p. 57-83.</alinea>
+            </note>
+            <note id="note50">
+                <no lang="fr">50</no>
+                <alinea>H.-G. Gadamer, Vérité et méthode, op. cit., p. 11.</alinea>
+            </note>
+            <note id="note51">
+                <no lang="fr">51</no>
+                <alinea> H.-G. Gadamer, op. cit., loc. cit. Il dit aussi ailleurs, de manière particulièrement nette à la fin de l’œuvre (op. cit., p. 501), que « […] le rapport de l’homme au monde est tout simplement et fondamentalement langage et donc compréhension. En ce sens l’herméneutique est, comme nous l’avons vu, un aspect universel de la philosophie et elle ne se réduit pas à la base méthodique de ce que l’on appelle les sciences de l’esprit ».</alinea>
+            </note>
+            <note id="note52">
+                <no lang="fr">52</no>
+                <alinea>H.-G. Gadamer, op. cit., p. 280-285. Cette question en traitée de manière systématique infra, no 17, 19.</alinea>
+            </note>
+            <note id="note53">
+                <no lang="fr">53</no>
+                <alinea>Deux ouvrages méritent sous ce regard une attention particulière : P. Ricoeur, Le conflit des interprétation. Essai d’herméneutique, Paris, Seuil, 2013 ; P. Ricoeur, Du texte à l’action. Essais d’herméneutique II, Paris, Seuil, 1986.</alinea>
+            </note>
+            <note id="note54">
+                <no lang="fr">54</no>
+                <alinea>Le philosophe italien, Domenico Jervolino, a montré qu’il s’agissait là d’un développement naturel de l’œuvre du philosophe français ; v. not., D. Jervolino, « La traduzione come paradigma dell’ermeneutica e le sue implicazioni per un’etica dell’ospitalità », Ars Interpretandi. Annuario di ermeneutica giuridica, p. 57-69 spéc. p. 64 (en version anglaise : « Translation as a Paradigm for Hermeneutics and its Implications for an Ethics of Hospitality », Jahrbuch für juristische Hermeneutik, 5/2000, p. 57-96).</alinea>
+            </note>
+            <note id="note55">
+                <no lang="fr">55</no>
+                <alinea>G. Steiner, Après Babel, op. cit.</alinea>
+            </note>
+            <note id="note56">
+                <no lang="fr">56</no>
+                <alinea> H.-G. Gadamer, « À propos de l’herméneutique », in H.-G. Gadamer, L’art de comprendre. Herméneutique et tradition philosophique, Paris, Aubier, 1982, p. 40-47, spéc. p. 45.</alinea>
+            </note>
+            <note id="note57">
+                <no lang="fr">57</no>
+                <alinea> H.-G. Gadamer, Vérité et méthode, op. cit., p. 407.</alinea>
+            </note>
+            <note id="note58">
+                <no lang="fr">58</no>
+                <alinea>H.-G. Gadamer, op. cit., p. 409.</alinea>
+            </note>
+            <note id="note59">
+                <no lang="fr">59</no>
+                <alinea>A. Berman, L’épreuve de l’étranger, Gallimard, Paris, 1995 ; v. P. Ricœur, « Le paradigme de la traduction », in P. Ricœur, Le juste 2, Esprit, Paris, 2001, p. 125.</alinea>
+            </note>
+            <note id="note60">
+                <no lang="fr">60</no>
+                <alinea>P. Ricœur, op. cit., p. 125.</alinea>
+            </note>
+            <note id="note61">
+                <no lang="fr">61</no>
+                <alinea>R. Jackobson, « On Linguistic Aspects of Translation », in R. Brower (ed.), On Translation, Cambridge, Harvard University Press, 1959, p. 232-239. La traduction intersémiotique — ou transmutation — se situe au niveau de la traduction de signes verbaux en signes non verbaux et inversement (v. aussi : S. Davidson, « Linguistic Hospitality : The Task of Translation in Ricœur and Levinas », Analecta Hermeneutica, vol. 4 (2012), spéc. p. 5).</alinea>
+            </note>
+            <note id="note62">
+                <no lang="fr">62</no>
+                <alinea>C’est nous qui soulignons.</alinea>
+            </note>
+            <note id="note63">
+                <no lang="fr">63</no>
+                <alinea> G. Steiner, Après Babel, op. cit., p. 64-65.</alinea>
+            </note>
+            <note id="note64">
+                <no lang="fr">64</no>
+                <alinea>V., sur cet aspect, M. Robert, Seul, comme Franz Kafka, Paris, Calmann-Lévy, 1979.</alinea>
+            </note>
+            <note id="note65">
+                <no lang="fr">65</no>
+                <alinea>F. Kafka, « Le château », in Œuvres complètes, I, Paris, Gallimard, La Pléiade, 1976, p. 493 et s. Adde, M. Brod, Franz Kafka, Paris, Gallimard, 1972, p. 252 et s.</alinea>
+            </note>
+            <note id="note66">
+                <no lang="fr">66</no>
+                <alinea>F. Kafka, « Le procès », in Œuvres complètes, I, op. cit., p. 259 ; « La colonie pénitentiaire », in Œuvres complètes, II, Paris, Gallimard, La Pléiade, 1980, p. 304 ; « De la question des lois », in La Muraille de Chine, Aux Forges de Vulcain, Paris, 2013, p. 47-49 (« [Au sujet des lois] », in Œuvres complètes, II, op. cit., p. 304).</alinea>
+            </note>
+            <note id="note67">
+                <no lang="fr">67</no>
+                <alinea>Cf., tout spécialement, F. Ost, « Kafka, ou l'en deçà de la loi », in F. Ost et alii (dir.), Lettres et lois. Le droit au miroir de la littérature, Bruxelles, Publications des Facultés universitaires Saint-Louis, 2002, p. 127-186 ; M. Robert, op. cit., chap. V (« Devant la loi »).</alinea>
+            </note>
+            <note id="note68">
+                <no lang="fr">68</no>
+                <alinea>Sur la résistance des Juifs allemands à la tchéquisation, cf. M. Robert, op. cit., p. 65 ; sur le rapport de Kafka au yiddish, M. Robert, op. cit., p. 85 et s.</alinea>
+            </note>
+            <note id="note69">
+                <no lang="fr">69</no>
+                <alinea>V., not., A. Appelfeld, Histoire d'une vie, Paris, L'Olivier, 2004 (Sipur Haim, Keter, 1999).</alinea>
+            </note>
+            <note id="note70">
+                <no lang="fr">70</no>
+                <alinea>G. Steiner, Après Babel, op. cit., p. 110-111.</alinea>
+            </note>
+            <note id="note71">
+                <no lang="fr">71</no>
+                <alinea>F. Kafka, « La construction de la muraille de Chine », in La Muraille de Chine, op. cit., p. 15-33 (« [Lors de la construction de la muraille de Chine] », in Œuvres complètes, II, op. cit., p. 473).</alinea>
+            </note>
+            <note id="note72">
+                <no lang="fr">72</no>
+                <alinea>F. Kafka, « Les Armes de la ville », in La Muraille de Chine, op. cit., p. 77-78 (in Œuvres complètes, II, op. cit., p. 550).</alinea>
+            </note>
+            <note id="note73">
+                <no lang="fr">73</no>
+                <alinea>V. aussi les analyses de G. Steiner, op. cit., p. 111-113 ; sur Borges, v. G. Steiner, op. cit., p. 113-121.</alinea>
+            </note>
+            <note id="note74">
+                <no lang="fr">74</no>
+                <alinea>P. Ricœur, « Le paradigme de la traduction », op. cit., p. 126 « En effet, si l’échange intracommunautaire est assuré par la puissance d’intégration de chaque langue prise séparément, l’échange avec le dehors de la communauté langagière est rendu à la limite impraticable par ce que Steiner nomme une “prodigalité néfaste” » (sur la citation, cf. G. Steiner, op. cit., p. 99).</alinea>
+            </note>
+            <note id="note75">
+                <no lang="fr">75</no>
+                <alinea>P. Ricœur, op. cit., p. 126 : « l’adaptation dans la lutte pour la survie est mise en déroute ».</alinea>
+            </note>
+            <note id="note76">
+                <no lang="fr">76</no>
+                <alinea>G. Steiner, op. cit., p. 92, qui notait également : « […] pourquoi donc ce mammifère appartenant à une espèce uniforme aux individus différenciés n’utilise-t-il pas une seule langue commune ? ».</alinea>
+            </note>
+            <note id="note77">
+                <no lang="fr">77</no>
+                <alinea>G. Steiner, op. cit., p. 19.</alinea>
+            </note>
+            <note id="note78">
+                <no lang="fr">78</no>
+                <alinea>P. Ricœur, « Le paradigme de la traduction », op. cit., p. 131.</alinea>
+            </note>
+            <note id="note79">
+                <no lang="fr">79</no>
+                <alinea>P. Ricœur, op. cit., p. 131-132.</alinea>
+            </note>
+            <note id="note80"><no lang="fr">80</no><alinea>La Bible (trad. et présentation A. Chouraqui), Paris, Desclée de Brouwer, 2003, Genèse XX, 32, 2.</alinea></note>
+            <note id="note81"><no lang="fr">81</no><alinea>P. Ricœur, op. cit., p. 132. On notera que la traduction française de The Human Condition a dû se contenter du titre de Condition de l’homme moderne (Paris, Calmann-Lévy, 1961). Quant à Benjamin, que Ricœur vise au texte, il s’agit bien entendu de Walter Benjamin, l’auteur du célèbre essai : La tâche du traducteur (reproduit in W. Benjamin, Expérience et pauvreté, (trad. C. Cohen Skalli), Paris, Payot & Rivages, 2011).</alinea></note>
+            <note id="note82"><no lang="fr">82</no><alinea>D. Jervolino, « Pour une philosophie de la traduction, à l’école de Ricœur », Revue de métaphysique et de morale 2006/2, no 50, p. 229-238, spéc. p. 231.</alinea></note>
+            <note id="note83"><no lang="fr">83</no><alinea>Fr. Marty, La bénédiction de Babel. Vérité et communication, Paris, Cerf, 1990, spéc. p. 198 ; D. Jervolino, op. cit., note (4), p. 231.</alinea></note>
+            <note id="note84"><no lang="fr">84</no><alinea>H.-G. Gadamer, « La diversité des langues et la compréhension du monde », in J. Poulain (dir.), Penser, Au présent, Paris, Montréal, L’Harmattan, 1998, p. 97-116.</alinea></note>
+            <note id="note85"><no lang="fr">85</no><alinea>H.-G. Gadamer, op. cit., p. 98-99.</alinea></note>
+            <note id="note86"><no lang="fr">86</no><alinea>H.-G. Gadamer, op. cit., p. 99.</alinea></note>
+            <note id="note87"><no lang="fr">87</no><alinea>Ibid.</alinea></note>
+            <note id="note88"><no lang="fr">88</no><alinea>H.-G. Gadamer, op. cit., p. 100.</alinea></note>
+            <note id="note89"><no lang="fr">89</no><alinea>Sur laquelle, J. Grondin, « L’intelligence herméneutique du langage », in J. Grondin, L’horizon herméneutique de la pensée contemporaine, op. cit., p. 253-269, spéc. p. 254-258.</alinea></note>
+            <note id="note90"><no lang="fr">90</no><alinea>J. Grondin, « L’universalisation de l’herméneutique », op. cit., p. 244 (v. aussi p. 246).</alinea></note>
+            <note id="note91"><no lang="fr">91</no><alinea>H.-G. Gadamer, « Langage et compréhension », in Langage et vérité, op. cit., p. 158.</alinea></note>
+            <note id="note92"><no lang="fr">92</no><alinea>H.-G. Gadamer, op. cit., p. 157.</alinea></note>
+            <note id="note93"><no lang="fr">93</no><alinea>H.-G. Gadamer, « La diversité des langues et la compréhension du monde », op. cit., p. 109.</alinea></note>
+            <note id="note94"><no lang="fr">94</no><alinea>H.-G. Gadamer, op. cit., p. 109.</alinea></note>
+            <note id="note95"><no lang="fr">95</no><alinea>H.-G. Gadamer, op. cit., p. 100.</alinea></note>
+            <note id="note96"><no lang="fr">96</no><alinea>H.-G. Gadamer, « Langage et compréhension », op. cit., p. 158.</alinea></note>
+            <note id="note97"><no lang="fr">97</no><alinea>H.-G. Gadamer, op. cit., p. 159.</alinea></note>
+            <note id="note98"><no lang="fr">98</no><alinea>Jean Grondin résume ainsi : « Tout acte de langage, en tant qu’expression de notre finitude, comporte des présuppositions, des raisons qui, elles, restent non dites » (J. Grondin, « L’universalisation de l’herméneutique », op. cit., p. 244).</alinea></note>
+            <note id="note99"><no lang="fr">99</no><alinea>Pour illustrer l’advenir du langage, le venir-ensemble (Zusammenkommen) qui est un commencement sans commencement, Gadamer recourt à la synthèke aristotélicienne, qui est le fait de tomber d’accord, le fait de l’entente dans le langage. (H.-G. Gadamer, « Les limites du langage », in H.-G. Gadamer, La philosophie herméneutique, (trad. J. Grondin), Paris, PUF, 1996, p. 169-184, spéc. p. 174-175).</alinea></note>
+            <note id="note100"><no lang="fr">100</no><alinea>H.-G. Gadamer, « La diversité des langues et la compréhension du monde », op. cit., p. 105.</alinea></note>
+            <note id="note101"><no lang="fr">101</no><alinea>H.-G. Gadamer, op. cit., p. 105.</alinea></note>
+            <note id="note102"><no lang="fr">102</no><alinea>H.-G. Gadamer, op. cit., p. 105. Ainsi que l’indique Jean Grondin, pour logique dialogique « […] toute proposition doit être comprise comme une réponse à une question, laquelle a elle-même été rendue possible par une réponse et une question, issue d’une communauté de dialogue à laquelle nous appartenons » (J. Grondin, « L’universalisation de l’herméneutique », op. cit., p. 245).</alinea></note>
+            <note id="note103"><no lang="fr">103</no><alinea>H.-G. Gadamer, « La diversité des langues et la compréhension du monde », op. cit., p. 111.</alinea></note>
+            <note id="note104"><no lang="fr">104</no><alinea>H-G. Gadamer, op. cit., p. 111.</alinea></note>
+            <note id="note105"><no lang="fr">105</no><alinea>P. Ricœur, « Le paradigme de la traduction », op. cit., p. 133.</alinea></note>
+            <note id="note106"><no lang="fr">106</no><alinea>H.-G. Gadamer, op. cit., p. 112.</alinea></note>
+            <note id="note107"><no lang="fr">107</no><alinea>P. Ricœur, « Le paradigme de la traduction », op. cit., p. 128.</alinea></note>
+            <note id="note108"><no lang="fr">108</no><alinea>P. Ricœur, op. cit., p. 135 ; S. Davidson, « Linguistic Hospitality : The Task of Translation in Ricœur and Levinas », Analta Hermeneutica, vol. 4 (2012), p. 3-4.</alinea></note>
+            <note id="note109"><no lang="fr">109</no><alinea>Cité par P. Ricœur, op. cit., p. 135.</alinea></note>
+            <note id="note110"><no lang="fr">110</no><alinea>P. Ricœur, op. cit., p. 135.</alinea></note>
+            <note id="note111"><no lang="fr">111</no><alinea>P. Ricœur, « Défi et bonheur de la traduction », in P. Ricœur, Sur la traduction, Paris, Bayard, 2004, p. 7-20, spéc. p. 8 ; v. aussi D. Jervolino, « La traduzione come paradigma dell’ermeneutica e le sue implicazioni per un’etica dell’ospitalità », op. cit., p. 66.</alinea></note>
+            <note id="note112"><no lang="fr">112</no><alinea>P. Ricœur, « Le paradigme de la traduction », op. cit., p. 135-136.</alinea></note>
+            <note id="note113"><no lang="fr">113</no><alinea>V. infra, ce paragraphe et le paragraphe suivant.</alinea></note>
+            <note id="note114"><no lang="fr">114</no><alinea>D. Jervolino, op. cit., p. 67. Et v. infra, no 15.</alinea></note>
+            <note id="note115"><no lang="fr">115</no><alinea>J. Benveniste, Le vocabulaire des institutions indo-européennes. 1. économie, parenté, société, Paris, Les Éditions de minuit, 1969, p. 93-94.</alinea></note>
+            <note id="note116"><no lang="fr">116</no><alinea>J. Benveniste, op. cit., p. 95.</alinea></note>
+            <note id="note117"><no lang="fr">117</no><alinea>G. Steiner, Après Babel, op. cit., p. 403.</alinea></note>
+            <note id="note118"><no lang="fr">118</no><alinea>P. Ricœur, « Le paradigme de la traduction », op. cit., p. 136.</alinea></note>
+            <note id="note119"><no lang="fr">119</no><alinea>G. Steiner, op. cit., p. 403.</alinea></note>
+            <note id="note120"><no lang="fr">120</no><alinea>Sur ce débat entre « universalistes » et « monadistes », v. G. Steiner, op. cit., p. 121 et s.</alinea></note>
+            <note id="note121"><no lang="fr">121</no><alinea>G. Steiner, op. cit., p. 403.</alinea></note>
+            <note id="note122"><no lang="fr">122</no><alinea>G. Steiner, op. cit., p. 405.</alinea></note>
+            <note id="note123"><no lang="fr">123</no><alinea>Cf. P. Ricœur, « Introduction », in P. Ricœur, Le juste 2, op. cit., p. 32-40, spéc. p. 33 qui mentionne la partie II, xxvii, de l’Essay Concerning Human Understanding de Locke, intitulé « Of Identity and Diversity » (trad. fr. J. Locke, Identité et différence, (trad. E. Balibar), Paris, Seuil, 1988).</alinea></note>
+            <note id="note124"><no lang="fr">124</no><alinea>G. Steiner, op. cit., p. 405.</alinea></note>
+            <note id="note125"><no lang="fr">125</no><alinea>V. supra, no 5.</alinea></note>
+            <note id="note126"><no lang="fr">126</no><alinea>G. Steiner, op. cit., p. 405. V. aussi P. Ricoeur, « Existence et herméneutique », in P. Ricoeur, Le conflit des interprétations. Essai d’herméneutique, Paris, Seuil, 2013, p. 23-50 spéc. p. 40.</alinea></note>
+            <note id="note127"><no lang="fr">127</no><alinea>H.-G. Gadamer, Vérité et méthode, op. cit., p. 408.</alinea></note>
+            <note id="note128"><no lang="fr">128</no><alinea>Ibid.</alinea></note>
+            <note id="note129"><no lang="fr">129</no><alinea>G. Steiner, Après Babel, op. cit., p. 406.</alinea></note>
+            <note id="note130"><no lang="fr">130</no><alinea>G. Steiner, op. cit., p. 406.</alinea></note>
+            <note id="note131"><no lang="fr">131</no><alinea>V. supra, no 1.</alinea></note>
+            <note id="note132"><no lang="fr">132</no><alinea>Vo Etouper, Le Trésor de la Langue Française informatisé (Centre national de Ressources Textuelles et Lexicales).</alinea></note>
+            <note id="note133"><no lang="fr">133</no><alinea>« Stop » vient du vieux verbe anglais « stoppian » qui semble lui aussi avoir été emprunté au latin stuppare. Cf. Vo Stop, Klein’s Comprehensive Etymological Doctionary of the English Language, Amsterdam, Oxford, New York, Elsevier, 1971. Sur l’utilisation d’une tierce-langue comme le latin dans les traductions juridiques, v. R. Sacco, « Aperçus historique et philosophique des relations entre droit et traduction », in M. Cornu, M. Moreau (dir.), op. cit., p. 13-27, spéc. p. 26.</alinea></note>
+            <note id="note134"><no lang="fr">134</no><alinea>P. Ricœur, « Le paradigme de la traduction », op. cit., p. 137-139.</alinea></note>
+            <note id="note135"><no lang="fr">135</no><alinea>H.-G. Gadamer, Vérité et méthode, op. cit., p. 412-413, et p. 392.</alinea></note>
+            <note id="note136"><no lang="fr">136</no><alinea>V. supra, no 11.</alinea></note>
+            <note id="note137"><no lang="fr">137</no><alinea>Cf. J. Grondin, « L’intelligence herméneutique du langage », op. cit., p. 263-264.</alinea></note>
+            <note id="note138"><no lang="fr">138</no><alinea>J. Grondin, op. cit., p. 255.</alinea></note>
+            <note id="note139"><no lang="fr">139</no><alinea>J. Grondin, op. cit., p. 264.</alinea></note>
+            <note id="note140"><no lang="fr">140</no><alinea>H.-G. Gadamer, Vérité et méthode, op. cit., p. 393 et s.</alinea></note>
+            <note id="note141"><no lang="fr">141</no><alinea>J. Grondin, « L’universalisation de l’herméneutique », op. cit., p. 249.</alinea></note>
+            <note id="note142"><no lang="fr">142</no><alinea>J. Grondin, op. cit., loc. cit.</alinea></note>
+            <note id="note143"><no lang="fr">143</no><alinea>H.-G. Gadamer, op. cit., p. 406.</alinea></note>
+            <note id="note144"><no lang="fr">144</no><alinea>H.-G. Gadamer, op. cit., p. 407.</alinea></note>
+            <note id="note145"><no lang="fr">145</no><alinea>H.-G. Gadamer, op. cit., p. 407.</alinea></note>
+            <note id="note146"><no lang="fr">146</no><alinea>Ibid.</alinea></note>
+            <note id="note147"><no lang="fr">147</no><alinea>H.-G. Gadamer, op. cit., p. 410.</alinea></note>
+            <note id="note148"><no lang="fr">148</no><alinea>E. Benveniste, Le vocabulaire des institutions indo-européennes, op. cit., p. 93-94.</alinea></note>
+            <note id="note149"><no lang="fr">149</no><alinea>P. Ricœur utilisait le doublet : « ta langue est aussi importante que la mienne » ; « ma langue est aussi importante que la tienne » (P. Ricoeur, « Introduction », in P. Ricœur, Le juste 2, op. cit., p. 40).</alinea></note>
+            <note id="note150"><no lang="fr">150</no><alinea>H.-G. Gadamer, Vérité et méthode, op. cit., p. 407.</alinea></note>
+            <note id="note151"><no lang="fr">151</no><alinea>H.-G. Gadamer, op. cit., p. 408 : « Comme toute interprétation, la traduction apporte un excès de clarté (Überhellung), ce dont tout traducteur doit prendre la responsabilité » ; G. Steiner, Après Babel, op. cit., p. 407-408.</alinea></note>
+            <note id="note152"><no lang="fr">152</no><alinea>Sur ce mot, v. H.-G. Gadamer, op. cit., p. 409.</alinea></note>
+            <note id="note153"><no lang="fr">153</no><alinea>H.-G. Gadamer, op. cit., p. 410.</alinea></note>
+            <note id="note154"><no lang="fr">154</no><alinea>Les spécialistes débattent encore de la traduction adéquate — sur cette question, cf. J. Grondin, « La conscience du travail de l’histoire et le problème de la vérité en herméneutique », in J. Grondin, L’horizon herméneutique de la pensée contemporaine, op. cit., p. 213-233, spéc. p. 214. L’on doit la première traduction retenue au texte à Jean Grondin, la seconde à Pierre Fruchon, Jean Grondin et Gilbert Merlio, qui se sont chargés de la nouvelle traduction de Vérité et méthode (op. cit., p. 322).</alinea></note>
+            <note id="note155"><no lang="fr">155</no><alinea>H.-G. Gadamer, Vérité et méthode, op. cit., p. 321.</alinea></note>
+            <note id="note156"><no lang="fr">156</no><alinea>H.-G. Gadamer, op. cit., p. 312.</alinea></note>
+            <note id="note157"><no lang="fr">157</no><alinea>C’est ce que Gadamer appelle la « fusion des horizons » qui permet, après reconnaissance de l’activité médiatrice de l’histoire, d’en assurer le questionnement à partir de l’horizon que nous fournit le présent. (H.-G. Gadamer, Vérité et méthode, op. cit., p. 328).</alinea></note>
+            <note id="note158"><no lang="fr">158</no><alinea>H.-G. Gadamer, Vérité et méthode, op. cit., p. 417.</alinea></note>
+            <note id="note159"><no lang="fr">159</no><alinea>H.-G. Gadamer, op. cit., p. 417.</alinea></note>
+            <note id="note160"><no lang="fr">160</no><alinea>H.-G. Gadamer, op. cit., p. 318. Pour une proposition identique, à propos de la traduction, v. aussi P. Ricœur, « Un “passage” : traduire l’intraduisible », in P. Ricœur, Sur la traduction, op. cit., p. 53-69, spéc. p. 65-66.</alinea></note>
+            <note id="note161"><no lang="fr">161</no><alinea>V. supra, no 2.</alinea></note>
+            <note id="note162"><no lang="fr">162</no><alinea>H.-G. Gadamer, op. cit., p. 318.</alinea></note>
+            <note id="note163"><no lang="fr">163</no><alinea>Ibid.</alinea></note>
+            <note id="note164"><no lang="fr">164</no><alinea>Sur la critique du décisionnisme hartien, par ex., v. en particulier, R. Dworkin, Taking Rights Seriously, Cambridge, Harvard University Press, 1978, p. 46-80. Sur le lien entre le tournant herméneutique européen et la pensée dworkinienne, v. R. Dworkin, Law’s Empire, Londres, Cambridge, Harvard University Press, 1986, spéc. la longue note (15) du chap. 2, p. 419-420.</alinea></note>
+            <note id="note165"><no lang="fr">165</no><alinea>La littérature est considérable et on se contentera de renvoyer à l’ouvrage synthétique, I. Papadopoulos, Pratiques juridiques interprétatives et herméneutique littéraire. Variations autour d’un thème de Ronald Dworkin, Cowansville, Les éditions Yvon Blais, 1998.</alinea></note>
+            <note id="note166"><no lang="fr">166</no><alinea>P. Ricœur, « Interprétation et/ou argumentation », in P. Ricœur, Le Juste, Paris, Esprits, 1995, p. 163-184, spéc. p. 166. V. aussi, B. Frydman, Le sens des lois, op. cit., p. 363-365 qui souligne bien la valeur paradigmatique que prennent les « sources » avec le développement de l’historicisme du romantisme allemand (v. aussi, op. cit., no 187, p. 398 et s.).</alinea></note>
+            <note id="note167"><no lang="fr">167</no><alinea>V., en France, l’article classique de H. Capitant, « L’interprétation des lois d’après les travaux préparatoires », D.H., 1935, chron., p. 77-80 ; aux États-Unis, v. W.N. Eskridge, « Spinning Legislative Supremacy », 78 Geo.L.J. 319 (1989), spéc. p. 323-330.</alinea></note>
+            <note id="note168"><no lang="fr">168</no><alinea>J. Grondin, « L’herméneutique selon Emilio Betti », in J. Grondin, L’horizon herméneutique de la pensée contemporaine, op. cit., p. 155-177, spéc. p. 176.</alinea></note>
+            <note id="note169"><no lang="fr">169</no><alinea>H-G. Gadamer, op. cit., p. 312.</alinea></note>
+            <note id="note170"><no lang="fr">170</no><alinea>H.-G. Gadamer, op. cit., p. 318.</alinea></note>
+            <note id="note171"><no lang="fr">171</no><alinea>H.-G. Gadamer, « Les limites du langage », in H.-G. Gadamer, La philosophie herméneutique, op. cit., p. 183 ; et surtout G. Steiner, Après Babel, op. cit., p. 454-454.</alinea></note>
+            <note id="note172"><no lang="fr">172</no><alinea>V. les remarques de W.N. Eskridge, « Gadamer/Statutory Interpretation », 90 Colum. L. Rev. 609 (1990), spéc. p. 632-633. Ce changement de perspective est, comme le fait remarquer Giuseppe Zaccaria (« Expliquer et comprendre, argumentation et interprétation dans la philosophie du droit de Paul Ricœur », in J.A. Barash, M. Delbraccio (dir.), La sagesse pratique : autour de l'œuvre de Paul Ricœur, Paris, Amiens, CNDP, CRDP, 1997, p. 133-142, spéc. p. 140), une invitation à faire sortir les questions d’interprétation du périmètre de la dogmatique juridique pour les porter au même niveau que l’herméneutique générale.</alinea></note>
+            <note id="note173"><no lang="fr">173</no><alinea>B. Frydman, op. cit., p. 645.</alinea></note>
+            <note id="note174"><no lang="fr">174</no><alinea>J. Grondin, « L’herméneutique selon Emilio Betti », op. cit., p. 176.</alinea></note>
+            <note id="note175"><no lang="fr">175</no><alinea>H.-G. Gadamer, Vérité et méthode, op. cit., p. 303.</alinea></note>
+            <note id="note176"><no lang="fr">176</no><alinea>J. Habermas, Droit et démocratie, Paris, Gallimard, 1997, p. 220 ; B. Frydman, op. cit., p. 650 ; P. Bouretz, « Interprétation, Narrativité et Argumentation », in S. Wesche, V. Zanetti, Dworkin. Un débat/In der Diskussion, debatting Dworking, Bruxelles, Paderborn, éd. Ousta, Mentis Verlag, 1999, p. 129-164, spéc. p. 136.</alinea></note>
+            <note id="note177"><no lang="fr">177</no><alinea>W.N. Eskridge, « Gadamer/Statutory Interpretation », op. cit.</alinea></note>
+            <note id="note178"><no lang="fr">178</no><alinea>V. supra, no 16, la linguisticité.</alinea></note>
+            <note id="note179"><no lang="fr">179</no><alinea>H.-G. Gadamer, « Jusqu’à quel point la langue préforme-t-elle la pensée ? », in E. Castelli (éd.), Démythisation et idéologie, Paris, Aubier, Montaigne, 1973, p. 63-70, p. 68, voir aussi H.-G. Gadamer, « La diversité des langues et la compréhension du monde », op. cit., p. 112.</alinea></note>
+            <note id="note180"><no lang="fr">180</no><alinea>V. J. Habermas, Droit et démocratie, op. cit., p. 230-231. Sur le débat entre Gadamer et Habermas, qui s’étire à partir des années 1960, on consultera en priorité J.M.A. Oraa, Raison critique ou raison herméneutique ?, Paris, Cerf, 1998.</alinea></note>
+            <note id="note181"><no lang="fr">181</no><alinea>P. Ricoeur, « Expliquer et comprendre », P. Ricœur, Du texte à l’action. Essais d’herméneutique II, Paris, Seuil, 1986, p. 179-203, spéc. p. 181 et s.</alinea></note>
+            <note id="note182"><no lang="fr">182</no><alinea>R. Alexy, Theorie des juristischen Argumentation, Francfort/Main, Suhrkamp, 1983 ; trad. anglaise : A Theory of Legal Argumentation, Oxford, Clarendon Press, 1989.</alinea></note>
+            <note id="note183"><no lang="fr">183</no><alinea>P. Ricœur, « Herméneutique et critique des idéologies », in P. Ricœur, Du texte à l’action, op. cit., p. 367-416, spéc. p. 409 ; v. aussi, P. Ricoeur, « Interprétation et/ou argumentation », op. cit.</alinea></note>
+            <note id="note184"><no lang="fr">184</no><alinea>Il s’agit de l’ensemble de règles formelles de discussion qui en garantissent la rectitude. Chez Habermas, ces règles sont destinées à garantir un consensus universel, qui a évidemment un caractère contrefactuel, mais opère comme un idéal régulateur (statut transcendantal). Elles définissent, par exemple, les conditions d’entrée dans le discours, les conditions de son déroulement ou encore de son issue (P. Ricoeur, op. cit., p. 14-175).</alinea></note>
+            <note id="note185"><no lang="fr">185</no><alinea>Ces limites sont évidentes : dans le cadre d’un procès, toutes les questions ne sont pas librement discutables ; une certaine dissymétrie est maintenue, en particulier dans le procès pénal ; la discussion est enfermée dans un temps limité, etc. Cf. G. Zaccaria, « Expliquer et comprendre, argumentation et interprétation dans la philosophie du droit de Paul Ricœur », op. cit., p. 137.</alinea></note>
+            <note id="note186"><no lang="fr">186</no><alinea>G. Zaccaria, op. cit., p. 135.</alinea></note>
+            <note id="note187"><no lang="fr">187</no><alinea>J. Habermas, La technique et la science comme idéologie, Paris, Gallimard, 1990, spéc. p. 58.</alinea></note>
+            <note id="note188"><no lang="fr">188</no><alinea>V. P. Ricoeur, « Herméneutique et critique des idéologies », op. cit., p. 95.</alinea></note>
         </grnote>
         <grbiblio>
             <biblio>
