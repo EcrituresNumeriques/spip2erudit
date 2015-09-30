@@ -89,7 +89,7 @@
                     <alinea>A remplir</alinea>
                     </affiliation>
                 <courriel>
-                    <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="lecourriel@domaine.com"></liensimple>
+                    <liensimple  xlink:type="simple" xlink:show ="none" xlink:actuate="onRequest" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:lecourriel@domaine.com">lecourriel@domaine.com</liensimple>
                 </courriel>
             </auteur>
         </grauteur>

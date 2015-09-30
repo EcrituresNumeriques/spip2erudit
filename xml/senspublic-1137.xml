@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://www.erudit.org/xsd/article" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd" qualtraitement="complet" idproprio="009308ar" typeart="autre" lang="fr" ordseq="1">
+    <!-- xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" -->
+    <admin>
+        <infoarticle>
+            <idpublic scheme="doi">null</idpublic>
+            <nbpara>16</nbpara>
+            <nbmot>1164</nbmot>
+            <nbfig>0</nbfig>
+            <nbtabl>0</nbtabl>
+            <nbimage>0</nbimage>
+            <nbaudio>0</nbaudio>
+            <nbvideo>0</nbvideo>
+            <nbrefbiblio>0</nbrefbiblio>
+            <nbnote>0</nbnote>
+        </infoarticle>
+        <revue lang="fr" id="SPXX">
+            <titrerev>Sens-Public</titrerev>
+            <titrerevabr>SP</titrerevabr>
+            <!-- J'ai trouvé plein de issn différent je ne sais pas lequel mettre -->
+            <idissn>1767-9397</idissn>
+            <idissnnum>2104-3272</idissnnum>
+            <directeur sexe="masculin">
+                <nompers>
+                    <prenom>Marcello</prenom>
+                    <nomfamille>Vitali-Rosati</nomfamille>
+                </nompers>
+            </directeur>
+            <!-- a remplir/supprimer fonction + contribution -->
+            <redacteurchef typerc="invite" sexe="masculin">
+                <fonction lang="fr"></fonction>
+                <contribution></contribution>
+                <nompers>
+                    <prenom>Michael</prenom>
+                    <nomfamille>Eberley-Sinatra</nomfamille>
+                </nompers>
+            </redacteurchef>
+            <redacteurchef typerc="invite" sexe="masculin">
+                <fonction lang="fr"></fonction>
+                <contribution></contribution>
+                <nompers>
+                    <prenom>Stefan</prenom>
+                    <nomfamille>Sinclair</nomfamille>
+                </nompers>
+            </redacteurchef>
+        </revue>
+        <numero id="SPXXX">
+            <!-- Ici en rolling release ca risque de faire des problèmes -->
+            <pub>
+                <annee>2015</annee>
+            </pub>
+            <pubnum>
+                <date>2015-03-02</date>
+            </pubnum>
+            <grtheme>
+                <theme>Langues &amp; Normes</theme>
+            </grtheme>
+        </numero>
+        <!-- Il faudrait clarifier qui est editeur producteur prodnum et diffuseur-->
+        <editeur id="SP00">
+            <nomorg>Sens-Public</nomorg>
+        </editeur>
+        <prod id="SP01">
+            <nomorg>Sens-Public</nomorg>
+        </prod>
+        <prodnum id="SP02">
+            <nomorg>Sens-Public</nomorg>
+        </prodnum>
+        <diffnum id="Erudit">
+            <nomorg>Érudit</nomorg>
+        </diffnum>
+        <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
+        <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>,
+            2015</droitsauteur>
+    </admin>
+    <liminaire>
+        <grtitre>
+            <titre>Prendre langue avec l'Étranger.</titre>
+            <sstitre>La traduction : un modèle pour l'herméneutique juridique ?</sstitre>
+        </grtitre>
+        <grauteur>
+            <auteur id="au1">
+                <nompers>
+                    <prenom>Fabien</prenom>
+                    <nomfamille>girard</nomfamille>
+                </nompers>
+                <!-- a Remplir -->
+                <affiliation>
+                    <alinea>A remplir</alinea>
+                </affiliation>
+                <courriel>
+                    <liensimple  xlink:type="simple" xlink:show ="none" xlink:actuate="onRequest" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:lecourriel@domaine.com">lecourriel@domaine.com</liensimple>
+                </courriel>
+            </auteur>
+        </grauteur>
+        <resume lang="fr">
+            <titre>Résumé</titre>
+            <alinea>La question de l’interprétation juridique occupe une place paradoxale. Elle est à la fois centrale et peu
+                questionnée au-delà de quelques cercles de spécialistes souvent proches de la sociological jurisprudence ou du réalisme
+                américain. Le résultat est une sorte de consensus (qui sert également de principe politique) de la communauté
+                universitaire autour de cette idée d’un rôle subsidiaire de l’activité d’interprétation dans la production normative
+                – production normative qui ressortit donc presque exclusivement au pouvoir législatif. Pourtant, cette idée que seul le
+                législateur crée le droit est contredite par les faits et surtout par une série de travaux de la philosophie de la traduction qui,
+                dans le prolongement du grand tournant herméneutique initié dans la seconde moitié du XXe
+                , met en évidence un tout autre paradigme : l'interprète ne peut être étranger au texte et il faut combattre l'idée selon laquelle il n'ajouterait jamais à
+                ce que l'auteur ou le premier lecteur aurait pu avoir en tête ; le texte doit être replacé au centre du débat de
+                l’interprétation et on ne peut plus en faire un « prétexte » ou un élément secondaire dans la prise de décision du juge.
+                Enfin, la théorie de la traduction condamne de manière ferme le recours à l’intention de l’auteur.
+            </alinea>
+        </resume>
+        <resume lang="en">
+            <titre>Abstract</titre>
+            <alinea>
+                The status of legal construction may at first appear paradoxical. Although essential, matters of legal
+                interpretation are seldom addressed, except by a few specialists often very close to the sociological jurisprudence or the
+                American Realism movements. The result is a kind of general consensus (which equally serves as a political principle) of
+                the academic community upon the subsidiary role of interpretation in the law-making process – whereby the law-making
+                process is deemed to fall almost entirely into the realm of the legislative branch of government. Yet, this idea that the
+                legislative branch is the sole source of law-making is somehow at odds with the facts. This idea is above all contradicted by
+                a set of works drawn from the philosophy of translation which, in the wake of the “hermeneutic turn” dating from the
+                second half of the twentieth century, has brought to light a different paradigm : the interpreter is not alien to the text, and
+                the idea that he could never add to what the author or the first reader could have had in mind should be denounced; the
+                text is not a “pretext” or a secondary concern in the decision-making process and should be taken seriously by legal
+                hermeneutics. Finally, the theory of translation firmly rejects the use of the author’s intention for interpretative purposes.
+            </alinea>
+        </resume>
+        <grmotcle lang="fr">
+            <motcle>Interprétation</motcle>
+            <motcle>herméneutique juridique</motcle>
+            <motcle>Théorie de la traduction</motcle>
+            <motcle>H.-G. Gadamer</motcle>
+            <motcle>P. Ricoeur</motcle>
+            <motcle>G. Steiner</motcle>
+        </grmotcle>
+        <grmotcle lang="en">
+            <motcle>Interpretation</motcle>
+            <motcle>Legal hermeneutics</motcle>
+            <motcle>Theory of translation</motcle>
+            <motcle>H.-G. Gadamer</motcle>
+            <motcle>P. Ricoeur</motcle>
+            <motcle>G. Steiner</motcle>
+        </grmotcle>
+    </liminaire>
+    <corps>
+        <section1 id="s1n1">
+            <no>1</no>
+            <para id="pa1">
+                <no>1</no>
+                <alinea>Comme le traducteur de n’importe quel œuvre de l’esprit, le juriste qui s’astreint par nécessité ou par plaisir à un travail de traduction trouve toujours sur sa route quelque Gundwort — maître-mot1 qui, après l’avoir plongé dans la plus profonde perplexité et obligé à remonter parfois bien loin dans l’histoire du concept d’origine, le contraint à jouer, jusqu’à tout rompre, de l’élasticité de la langue d’accueil. À moins qu’il préfère ne pas traduire pour laisser libre cours à la textualité longue et complexe qui accompagne le mot et l’intertextualité qui se cache en son sein2. La difficulté n’en est pas moins bien réelle dans les deux cas. Comme tout langage spécialisé probablement3, le langage du droit est avant tout catégoriel et classificatoire, et chaque réseau de mots, qui est un réseau de concepts (tropes), dépend entièrement d'une catégorie fonctionnelle4. Traduire, par exemple, un maître-mot comme « estoppel » suppose de remonter le fil du temps pour assister à la naissance du concept au sein de la Curia Regis au XIIe siècle (estoppel by record, estoppel by deed, estoppel by matter in pais, qui étaient essentiellement des règles de preuve), d’en suivre les déploiements subséquents et toutes les ramifications et inflorescences en droit processuel (estoppel by representation), puis en droit des contrats (promissory estoppel), avec le mince espoir de faire jaillir du multiple (il existerait plus d’une douzaine de formes d’estoppel en droit anglais)5 un mot ou groupe de mots qui aurait la même puissance d’évocation, qui dirait autrement la même « chose ». La tâche est encore compliquée par le fait que le droit anglais, qui a formé la matrice des droits de Common Law, a connu des évolutions considérables dans les pays qui, à un moment où un autre de leur histoire, ont été sous l’influence de la Couronne anglaise6, illustrant ainsi particulièrement bien, à travers le medium du langage, le principe héraclitéen du mouvement7 : ici et là — dans le temps comme dans l’espace — le mot n’a plus le même sens, et c’est un obstacle supplémentaire qui se dresse sur le chemin du traducteur, puisqu’il lui faut choisir son horizon de référence.</alinea>
+            </para>
+            <para id="pa2">
+                <no>2</no>
+                <alinea>On peut fort bien se réclamer du traducteur-poète et faire état, en ce cas précis, d’un « concept étrange et pénétrant8 », au moins pour souligner les ressources de créativité qui resteront à mobiliser. Créativité à puiser dans la langue, tout d’abord. Le mot n’est pas complètement étranger à l’histoire française. Il vient du vieux français « estoupe » qui a donné « étoupe », ce qui offre d’utiles indications sur ce qui pourrait former un trait commun à l’institution :</alinea>
+            </para>
+            <para id="pa3">
+                <no>3</no>
+                <bloccitation>
+                    <alinea>De même qu’on utilise un tampon d’étoupe pour obstruer une voie d’eau […] ainsi le plaideur emploie-t-il le moyen de l’estoppel au cours d’un procès judiciaire, comme il mettrait un bâillon aux lèvres de son adversaire, pour lui interdire péremptoirement d’alléguer telle prétention qui serait en contradiction flagrante avec certains faits auxquels s’attache un caractère de vérité incontrovertible […]9.</alinea>
+                    <source>
+                        <renvoi typeref="refbiblio" idref="bib1"></renvoi>
+                    </source>
+                </bloccitation>
+            </para>
+            <para id="pa4">
+                <no>4</no>
+                <alinea>L’image est éloquente et rappelle cette formule d’un vieil arrêt anglais, d’après lequel l’estoppel consiste dans « une interdiction de souffler à la fois le chaud et le froid, d’affirmer d’un côté et de dénier de l’autre10 ». Une traduction se dessine ici qui serait « l’interdiction de se contredire au détriment d’autrui11 » ou le « comportement procédural constitutif d’un changement de position de nature à induire son adversaire en erreur sur ses intentions12 ». Mais la créativité suppose aussi d’avoir fait le deuil d’une reconstitution exacte du monde langagier de l’institution originale. En insistant sur la contradiction, on laisse évidemment de côté la « reliance », confiance donnée et finalement trahie, qui tend pourtant à occuper une place de plus en plus importante au sein des doctrines américaines et australiennes de l’estoppel13. Les dénotations et connotations ne sont plus les mêmes et obliquent vers la « confiance légitime », mieux vers des concepts parfaitement connus du juriste français comme la « bonne foi » ou « l’apparence14 ».</alinea>
+                </para>
+            <para id="pa5">
+                <no>5</no>
+                <alinea>Mais comment mieux faire ? On pourrait préférer ne pas traduire, comme lorsque la Cour de cassation énonce que le demandeur est « irrecevable, en vertu de l’estoppel, à soutenir, par un moyen contraire, que cette juridiction aurait statué sans convention d’arbitrage15 ». Toute la « tradition de pensée » et le « complexe d’hétérogénéité16 », l’union du sens et de la sonorité, du signifiant et du signifié17 sont maintenues au service d’une translation apparemment sans perte, mais qui se paie du prix d’une impénétrabilité pour le non-spécialiste18 — celui qui n’est pas versé dans les deux cultures. Le prix à payer est d’ailleurs plus grand lorsque c’est une juridiction suprême (ou bien le législateur) qui procède ainsi, car l’importation du mot ne peut vraiment se faire sans intégration de l’univers de sens en perpétuel mouvement19 qu’il habite. Signe qu’il est parfois préférable, pour réaliser une bonne acclimatation, d’arracher jusqu’aux racines et de donner un nouveau nom dans la terre de transplantation.</alinea>
+            </para>
+            <para id="pa6">
+                <no>6</no>
+                <alinea>Il y aurait bien des choses à dire sur la traduction juridique, ses possibilités,
+                    ses limites20 et ses canons21, et, dans le sillage des travaux de la traductologie
+                    (ou Translation Studies), une théorie à poursuivre. Mais l’objet du présent article
+                    est différent. Délaissant le domaine de la traduction juridique, nous aimerions montrer
+                    en quoi une certaine théorie de la traduction pourrait servir de modèle ou de paradigme
+                    pour une herméneutique juridique. Une chose s’est perdue avec la révolution scientifique
+                    qui a représenté, comme l'a montré le philosophe allemand Hans Blumenberg, une rupture
+                    aussi importante que celle qui a marqué le passage entre grécité et chrétienté. Loin
+                    d'être un simple continuum — mondanisation de l'apport chrétien d'une « subjectivisation »
+                    et d'une « anthropologisation » comme le soutient Karl Schmitt22 — le passage de l'époque
+                    chrétienne à l'époque moderne23 signe un bouleversement ontologique profond. C'est que
+                    la scolastique nominaliste en particulier, en condamnant la curiosité (la libido scendi
+                    qui nous « fait scruter les secrets d’une nature qui nous dépasse, objets inutiles d’un
+                    savoir uniquement en quête de lui-même ; qui recourt aux techniques magiques, à la
+                    recherche, ici encore, d’un objet de savoir perverti24 »), au profit du seul salut,
+                    aurait provoqué, par une sorte de mécanisme de détente, une « pulsion de connaissance
+                    illimitée25 ». Dans le nouveau rapport au monde qui se déploie, et que symbolise
+                    le télescope de Galilée, la Nature n’est plus objet de compréhension du cosmos,
+                    mais moyen d’observation et de compréhension. On en connaît bien les conséquences
+                    : la diffusion du modèle de l’observation et de l’expérimentation (qui devient celui
+                    des sciences de la nature) à tous les pans de la connaissance — c’est l’avènement
+                    de la philosophie positive26 ; et au-delà un rejet de la tradition qui est vue
+                    comme relevant de l’arbitraire, avec une valorisation corrélative de la raison.
+                    Il y avait, dans la tradition humaniste, comme pré-requis à bildung (formation, culture),
+                    l’éducation aux humanités, ce qui comprenait les notions telles que le goût, le jugement
+                    et le sens commun. Comme le note Gadamer, cette tradition était encore vivante avant Kant.
+                    On assistera ensuite à son déclin sous l’effet, en particulier, d’une « “esthétisation”
+                    des concepts cardinaux de l’humanisme, notamment du goût et du jugement, qui furent
+                    subitement amputés de la fonction de connaissance qui avait toujours été la leur27 ».
+                    Dans le même temps, en réaction à la tentation de la philosophie elle-même de s’édifier
+                    sur des bases « scientifiques », et dans un contexte de redéfinition de l’histoire qui
+                    est élevée au rang de principe premier de la connaissance28, une nouvelle méthodologie
+                    s’affirme au croisement de la philologie et de l’historicisme et que fera rayonner le
+                    romantisme allemand29. Sur le plan herméneutique, le résultat est remarquable : 
+                    l’interprétation, qui relevait de la tradition et de l’autorité depuis le XIIe siècle,
+                    avec la synthèse scolastique de la rhétorique de la culture gréco-latine et de 
+                    l’héritage biblique, se trouve écartée du périmètre de la connaissance véritable
+                    (scientifique) ; au modèle de la disputatio, se substitue un modèle prétendument
+                    mathématique qui, en droit, prend la forme du syllogisme judiciaire30. Et, surtout,
+                    l’objet même de la quête du sens est modifié : ce qui importe désormais c’est de rechercher,
+                    non plus dans le texte la part de vérité que celui-ci peut véhiculer, mais dans l’intention
+                    de celui qui l’a écrit. On retrouve l’un des traits de l’hypostase du législateur,
+                    la surdétermination de sa volonté (supposée) agissante à travers le temps qui s’impose
+                    « non par la force de la raison, mais par l’autorité de son pouvoir31 » et qui marque
+                    tout spécialement la période révolutionnaire et post-révolutionnaire française32.
+                    Benoît Frydman a montré de manière convaincante qu’on ne pouvait séparer l’École
+                    française de l’exégèse et l’École du droit historique allemande dans leur rapport
+                    à l’historicisme. Il est manifestement erroné de soutenir que, en raison de la
+                    codification réalisée en France au XVIIIe siècle, et qui sera différée d’un siècle
+                    en Allemagne, l’École de l’exégèse, toute entière consacrée à l’élaboration d’une
+                    méthode systématique, serait restée insensible aux débats autour de la méthode historique.33
+                </alinea>    
+            </para>
+            <para id="pa7">
+                <no>7</no>
+                <alinea>Bien des choses ont changé depuis le début du XIXe siècle et la théorie du droit a connu sa mue à travers ce qu’on a pu appeler son « tournant interprétatif34 ». On songe évidemment à la Sociological Jurisprudence, au réalisme américain35, au positivisme analytique qui a bénéficié du « linguistic turn » initié à Cambridge36, et par la suite aux Critical Legal Studies. Tous ces courants, doctrines, écoles ont eu quelque chose à dire sur l’interprétation ; mais victimes d’une sorte de désenchantement37 ou d’une foi aveugle dans le modèle scientifique sur lequel ils se sont déployés, ils ont ramené l’interprétation à un décisionnisme, c'est-à-dire à un acte de volonté (et non de connaissance)38, fût-il sous contrainte39, ou ont réduit l’opération herméneutique à une réaction plus ou moins consciente du juge au faits et intérêts en jeu, c'est-à-dire à une raison en tout ou partie sourde à la voix des textes. C'est ainsi que, pour le réalisme, le modèle empiriste et béhavioriste choisi — le modèle stimuli-réponses (« modèle S-R ») — doit conduire à rechercher ce qui, derrière la règle et précisément dans les faits de l'espèce, les données socio-économique et psychologiques qui entourent le litige, a conduit le juge à décider comme il l'a fait. S'il existe des relations entre la règle de droit et le comportement du juge, la nature de cette relation nécessite une étude empirique, car elle ne correspond pas à la logique (le contenu) de la règle40.</alinea>
+            </para>
+            <para id="pa8">
+                <no>8</no>
+                <alinea>La théorie ici choisie de la traduction, qui s’inscrit dans le prolongement du grand tournant herméneutique initié dans la seconde moitié du XXe siècle, offre de nouvelles voies. Les chemins qui se dessinent montrent comment replacer le texte au centre du débat herméneutique, rétablir la distinction fondatrice de l’État de droit moderne du pouvoir législatif et du pouvoir judiciaire et repenser les liens entre théorie du droit et philosophie critique. On peut procéder en quatre étapes : l’examen préparatoire du renouveau herméneutique (I) ; l’étude de l’interprétation sous l’angle de la traduction (II) ; la démonstration de la valeur paradigmatique de la traduction pour l’herméneutique (III) ; enfin, la mise à l’épreuve du paradigme de la traduction au regard de l’herméneutique juridique (IV).</alinea>
+            </para>
+            <section2>
+                <titre>Le renouveau herméneutique</titre>
+                <para id="pa9">
+                    <no>9</no>
+                    <alinea>Discipline de l’interprétation, l’herméneutique a d’abord été mise au service de l’exégèse des textes sacrés. Elle a donc avant tout été conçue comme un art technique portant sur les règles qui préludent à la compréhension d’un texte et, jusqu’au début du XIXe siècle, elle a conservé ce sens de discipline ancillaire dont le service s’est progressivement étendu à des champs distincts, dont la jurisprudence, la théologie et la philologie41. Face aux prétentions de la philosophie elle-même de s’édifier plus fermement en utilisant à son profit les postulats du positivisme (on retrouve ici la figure de Descartes), une réflexion sur l’art de comprendre a été initiée dès la fin du XVIIIe siècle ; et l’idée s’est fait jour, dans un contexte profondément marqué par le romantisme allemand, qu’il serait possible de rendre raison à la notion de vérité dans les sciences humaines en forgeant une méthode adéquate. S’inscrivent, dans ce contexte particulièrement stimulant et important pour l’herméneutique philosophique, les noms de Schleiermacher et de Dilthey42. Il ne faut surtout pas négliger la pensée du premier, à qui l’on doit d’avoir placé au cœur de la philosophie la question :</alinea>
+                </para>
+                <para id="pa10">
+                    <no>10</no>
+                    <alinea>« Qu’est-ce que comprendre ? », et d’avoir fait de l’herméneutique « la compréhension d’un discours étranger43 ». Son apport est sous ce regard tout à fait considérable, car il « trouve le fondement d’une herméneutique générale dans l’acte de compréhension au cœur même de l’interprétation ; il élargit alors le domaine de l’herméneutique, discipline assurant le passage entre deux états de langue, en faisant de tout phénomène linguistique ou de tout signe devenu étranger, en tant qu’objet d’interprétation, l’objet d’une théorie philosophique de cette compréhension44 ».</alinea>
+                </para>
+                <para id="pa11">
+                    <no>11</no>
+                    <alinea>Gadamer, le véritable représentant du renouveau herméneutique, a reconnu sa dette au théologien protestant et traducteur de Platon en plaçant lui aussi au cœur de la compréhension le concept d’étrangeté. Selon sa belle formule « […] tout effet du vouloir comprendre commence par la rencontre de quelque chose qui surgit en face de nous, étrange, provocant, désorientant45 ». Comme chez Schleiermacher, le langage se trouve ramené au premier plan au point d’en faire d’ailleurs un médiateur de l’expérience herméneutique.</alinea>
+                </para>
+                <para id="pa12">
+                    <no>12</no>
+                    <alinea>Gadamer indique avec force que :</alinea>
+                </para>
+                <bloccitation>
+                    <alinea>« […] toute compréhension est un problème de langage, et réussit ou échoue dans le medium de l’élément langagier […]. Tous les phénomènes de la compréhension, du comprendre et du malentendu, qui constituent l’objet de ce que l’on appelle herméneutique, représentent une manifestation langagière46 ».</alinea>
+                    <source><renvoi typeref="refbiblio" idref="note46"></renvoi></source>
+                </bloccitation>
+                <para id="pa13">
+                    <no>13</no>
+                    <alinea>Désormais, et comme l’indique bien l’un des plus grands spécialistes francophones de l’herméneutique contemporaine, l’herméneutique « circonscrit l’horizon de la pensée contemporaine47 », puisque l’interprétation devient le ressort de l’activité cognitive et pratique48. On passerait toutefois à côté de l’apport principal de l’œuvre gadamérienne si l’on ne soulignait pas ce qui représente un tournant herméneutique majeur : le déplacement de l’axe de la réflexion du champ épistémologique vers le champ ontologique. Suivant les pas de son maître, Heidegger49, Gadamer localise la phénoménologie de l’interprétation dans les structures de l’existence.</alinea>
+                </para>
+                <para id="pa14">
+                    <no>14</no>
+                    <alinea>Tout en saluant la résistance opposée par « l’herméneutique romantique » « à la prétention à l’universalité élevée par la méthodologie scientifique, une résistance qui a fait son chemin à l’intérieur même de la science moderne50 », le philosophe allemand reconnaît dès l’introduction de son opus magnum que « [l]a compréhension et l’interprétation des textes ne sont pas seulement affaires de science, mais relèvent bien évidemment de l’expérience générale que l’homme fait du monde51 ». Sur le plan immédiat de l’interprétation, les changements se donnent à voir ainsi : il ne s’agit plus de la découverte du sens supposé du texte (intentio auctoris), pas plus que l’imposition des vues de l’interprète sur le texte (intentio lectoris). L’interprétation devient un moyen d’interaction entre le texte et l’interprète par lequel chacun va accéder à son mode d’être. Gadamer repousse donc avec force cette idée finalement valorisée par les sciences de la nature selon laquelle l’interprète doit être étranger au texte et n’a besoin que d’une méthode pour entrer en connexion avec lui. Tout à l’inverse, texte et interprète sont indéfectiblement liés en tant qu’être-là (Dasein) : le texte forme la part du contexte qui a modelé l’interprète et dont la compréhension lui permet d’accéder à l’être et l’interprète assure au texte sa viabilité continue en le questionnant depuis lieu d’où lui parle la tradition52.</alinea>
+                </para>
+            </section2>
+            <section2>
+                <titre>Interpréter c’est traduire</titre>
+                <para id="pa15">
+                    <no>15</no>
+                    <alinea>Si l’on est prêt à admettre la nodalité de l’interprétation et de la compréhension dans l’expérience du monde, il faut encore franchir un pas supplémentaire avant de pouvoir envisager la valeur paradigmatique de la traduction en donnant quelques indications sur la façon dont la philosophie conçoit les liens entre interprétation et compréhension d’une part, et traduction de l’autre. Il faut redessiner ici toute une topographie qui empruntera bien entendu à Gadamer qui, après Vérité et méthode, a accordé une importance semble-t-il toujours plus grande au phénomène du langage, mais aussi à Ricœur dont les travaux sur l’interprétation53 ont ensuite été portés sur le versant de la traduction54. Il faudra enfin accorder une importance toute particulière à l’ouvrage magistral de George Steiner, Après Babel55, dont s’inspire directement le titre du présent paragraphe.</alinea>
+                </para>
+                <para id="pa16">
+                    <no>16</no>
+                    <alinea>Sur cette carte qui reste à dessiner, Gadamer peut fournir un premier quadrillage. Un texte rédigé en 1968 et intitulé : « À propos de l’herméneutique56 », expose avec une netteté particulière, l’importance de la traduction dans le schéma herméneutique :</alinea>
+                </para>
+                <bloccitation>
+                    <alinea>« Interpréter et comprendre, cela signifie le dire avec mes propres paroles. C’est pourquoi la traduction est le modèle de l’interprétation, parce que traduire nous contraint non pas seulement à trouver un mot mais à reconstruire le sens authentique du texte dans un horizon linguistique tout à fait nouveau ; une traduction véritable implique toujours une compréhension qu’on peut expliquer ».</alinea>
+                </bloccitation>
+                <para id="pa17">
+                    <no>17</no>
+                    <alinea>La formule trouve un écho direct et lapidaire dans Vérité et méthode où la traduction se présente comme un « cas-limite57 » de l’interprétation, et il n’y a pas de différence de nature, mais seulement de « degré entre la tâche du traducteur, qui est de “rendre” le texte, et celle de toute herméneutique générale des textes58 ».</alinea>
+                </para>
+                <para>
+                    <no>18</no>
+                    <alinea>On peut tracer d’autres lignes d’une main ferme après avoir consulté la théorie de la traduction elle-même. Sans doute la « traduction » est-elle d’abord entendue étroitement : « c’est le transfert verbal d’une langue dans une autre », définition dont s’inspire l’un des plus grands germanistes français, Antoine Berman, dans son ouvrage L’épreuve de l’étranger59. Mais il existe aussi une plus large acception qui fait de la traduction, comme le rappelle Ricœur, « l’interprétation de tout ensemble signifiant à l’intérieur de la même communauté linguistique60 ». L’on doit du reste au linguiste Roman Jackobson d’avoir montré qu’il fallait distinguer la traduction « intralinguale », « interlinguale » et « intersémiotique61 ». Le lever topographique doit s’achever avec George Steiner dont l’Après Babel renferme, dans l’intitulé de son chapitre premier, la formule-étendard suivante : « Comprendre c’est traduire62 ». Afin de comprendre l’importance du syntagme, on peut extraire la citation suivante :</alinea>
+                </para>
+                <bloccitation>
+                    <alinea>« Interprète/interpreter veulent très souvent dire traducteur.— C’est là, il me semble, que tout commence. — Dès que le passé, sous forme de langage, frappe les yeux ou les oreilles, que ce soit le Lévitique ou le dernier best-seller, on traduit. Lecteur, acteur, commentateur traduisent une langue qui échappe à l’instant. Dans le modèle de la traduction, un message, émis dans une langue-source, se retrouve dans une langue-cible après avoir subi un processus de transformation. Bien entendu, l’écueil réside dans le fait que les deux langues sont différentes ; pour que le message “passe”, il faut que l’interprétation opère un glissement grâce à deux mécanismes, parfois appelés, à tort, encodage et décodage. Le même modèle, on le souligne trop rarement, fonctionne à l’intérieur d’une langue unique. Mais c’est alors le temps qui sépare la langue-source de la langue-cible. […]63. »</alinea>
+                </bloccitation>
+                <para>
+                   <no>19</no>
+                    <alinea>Interpréter serait donc traduire. Mais avant de décrire le modèle de la traduction et de montrer ce qu’il a d’exemplaire, il faudrait d’abord tenter d’éclairer ce qu’elle représente pour l’humanité. Il y a chez Kafka une angoisse pénétrante dont l’origine se laisse difficilement saisir. Comme maints interprètes l’ont bien perçu, il y a chez lui l’expression d’une désorientation multiple, celle du « Juif errant64 », de celui qui cherche son Dieu (Le château)65, le sens de la loi (Le procès, La Colonie pénitentiaire ou De la question des lois66)67. Mais cette dimension protéiforme de l’œuvre et de l’auteur ne doit toutefois pas dissimuler une autre entrée, qui insiste sur l’homme à la double culture, partagé entre le tchèque et l’allemand, attiré par l’hébreu et le yiddish68. L’inquiétude profonde qui se perçoit derrière toutes les évocations de la langue — et dont les échos sont perceptibles chez le romancier de langue hébraïque, Aharon Appelfed, tiraillé lui aussi entre l’allemand maternel, le yiddish de ses grands-parents et l’hébreu de son art69 — peut être interprétée, comme le suggère George Steiner, du point de vue de l’incapacité de communiquer entre les hommes70. La communication semble à ce point inaccessible que, dans La colonie pénitentiaire, les lettres qui motivent la sentence capitale du condamné doivent venir s’inscrire dans la chair du supplicié au moyen d’une presse d’imprimeur transformée en machine de mort. La Construction de la muraille de Chine, courte nouvelle qui date de 1917, évoque justement cet autre symbole de la communication, la tour Babel qui doit venir prendre place sur la muraille de chine en construction, mais dont le projet, qui paraît guidé d’une main divine, semble si compliqué et si improbable, qu’il fait figure, tout au mieux, d’idéal régulateur71. La brève parabole « Les Armes de la ville », rédigée peu de temps après (1920)72, supporte la même interprétation : le projet est conçu de construire la tour babylonienne. Des brigades d’ouvriers issues de régions diverses affluent dans cette ville où les infrastructures sont déjà développées : les voies de communication sont tracés, les logements sont construits et tout est déjà arrangé jusqu’à la présence de traducteurs. Tout comme dans la Construction de la muraille de Chine, le projet paraît ne jamais devoir être mené à son terme : « L’idée, une fois embrassée dans toute sa grandeur, ne peut plus disparaître ; tant qu’il y aura des hommes, il y aura ce puissant désir de mener à bien la construction de la tour ». Et puis l’on préfère se battre, s’entre-déchirer, chaque région, chaque brigade voulant triompher symboliquement de sa voisine en étalant le luxe et le confort de son quartier. Les périodes de paix, nécessaires à l’avancée des travaux, permettent néanmoins au chantier de bien progresser. Mais la « deuxième ou troisième génération reconnut déjà l’absurdité de construire cette tour touchant le ciel ». Et lorsqu’on aurait pu se séparer, « on était déjà bien trop lié les uns aux autres pour quitter la ville73 ».</alinea>
+                </para>
+                <para>
+                    <no>20</no>
+                    <alinea>Cette diversité des langues, qui définit la condition humaine, tient quelque part de la malédiction. Rien n’est moins conforme à l’économie de l’échange74 et aux lois qui gouvernent l’évolution75 que ces cinq ou six mille langues qui nous obligent à concevoir des stratégies complexes et coûteuses de communication. Il est peu contestable qu’« [à] la lumière des universaux neurophysiologiques et anatomiques, une solution linguistique unique se comprendrait aisément76 ». Rien d’étonnant, sous ce regard, si chaque civilisation dispose de sa propre version funeste du mythe de Babel : tantôt une erreur monstrueuse a été commise, comparable à celle qui a conduit à l’ouverture de la boîte de Pandore, tantôt une punition vient frapper l’arrogance ou l’attitude vindicative de l’homme77. Mais si l’on veut percevoir ce que la traduction a d’exemplaire pour l’herméneutique, il faut surmonter cette interprétation d’ordre eschatologique et dévoiler l’horizon authentique de promesses d’échanges qu’elle comporte pour l’humanité.</alinea>
+                </para>
+                <para>
+                    <no>21</no>
+                    <alinea>Une première relecture ricoeurienne nous met sur la voie. Comme tous les mythes du commencement, Babel se laisse appréhender dans le « constat sans condamnation d’une séparation originaire ». Avec la Genèse, les éléments cosmiques se séparent progressivement du chaos. Si l’expulsion du jardin d’Eden signifie la perte de l’innocence, elle correspond aussi à l’accès à l’adultat, au surgissement de la responsabilité (dont on mesurera l’importance dans l’éthique de la traduction et, plus largement, dans la philosophie gadamérienne)78. Après le fratricide, le meurtre d’Abel, la fraternité « elle-même [devient] un projet éthique et non plus une simple donnée de la nature79 ». Vient alors l’épisode de Babel, dont Ricœur propose de relire la traduction « rugueuse » de Chouraqui80 qui fait en effet bien apparaître que la pluralité des langues n’est qu’une simple donnée factuelle :</alinea>
+                </para>
+                <bloccitation>
+                    <alinea>« Ces versets, dit-il, sont dans le ton des dénombrements où s’exprime la simple curiosité d’un regard bienveillant. La traduction est bien alors une tâche, non au sens d’une obligation contraignante, mais au sens de la chose à faire pour que l’action humaine puisse simplement continuer, pour parler comme Hannah Arendt, l’amie de Benjamin, dans Condition humaine.81 »</alinea>
+                </bloccitation>
+                <para>
+                    <no>22</no>
+                    <alinea>En d’autres termes, et comme le note Domenico Jervolino, « une exégèse plus attentive et plus moderne » montre ainsi que le mythe est celui « de la reconnaissance d’une pluralité essentielle à l’humain en tant que tel82 », et la destruction de la tour non tant une déchéance qu’une bénédiction83.</alinea>
+                </para>
+                <para>
+                    <no>23</no>
+                    <alinea>Mais avant même de s’envisager concrètement les conséquences de cette relecture à l’égard de la tâche du traducteur, il importe de s’attacher à l’interprétation subtile que Gadamer lui-même donne du récit de Babel dans un article peu souvent cité et intitulé : « La diversité du monde et la compréhension du monde84 ». C’est après avoir brièvement évoqué la capacité d’anéantissement presque totale d’elle-même que l’humanité est parvenue à créer par sa science et sa technique, que Gadamer en vient à interroger l’épisode précédant la destruction de la tour et de la dispersion. Il note alors que l’unité et la solidarité d’une seule « langue commune » « constituent ici de toute évidence ce qui en fait l’élément porteur, un élément qui rassemble les énergies indomptables de la volonté humaine et qui incarne une confiance illimitée dans la vocation qui lui est propre, sa vocation à la domination85 ». Pris à rebours, le mythe signifierait aussi bien la nécessité de nous prémunir :</alinea>
+                </para>
+                <bloccitation>
+                    <alinea>« contre la tentation d’exercer notre puissance au-delà de toute mesure86 » — l’unicité apparaît donc comme ce qui nous menace, la multiplicité ce qui nous immunise contre notre désir de toute-puissance87. Gadamer ajoute que cette unicité mortifère serait aujourd’hui représentée par les sciences de la nature, en particulier par les « mathématiques » qui constitueraient la « langue unique des temps modernes88 ».</alinea>
+                </bloccitation>
+                <para>
+                    <no>24</no>
+                    <alinea>C’est sur ce point que l’herméneutique gadamérienne présente la plus grande complexité, mais aussi la plus remarquable profondeur. Elle réside toute entière dans la philosophie de l’énoncé que le jeune Heidegger a pu développer à partir de Platon89 et qui forme la matrice du présent débat.</alinea>
+                </para>
+                <para>
+                   <no>25</no>
+                    <alinea>Dans la logique prédicative (logique de l’énoncé) qui a pour modèle « S est P », le langage vient traduire, dans une forme qui est censée se suffire à elle-même, un état de chose ou de pensée : la proposition « affirme quelque chose (un prédicat) à propos d’un sujet donné : tel sujet est fonction de tel prédicat, assertion dont la rigueur peut faire l’objet d’un contrôle ou d’une vérification90 ». Gadamer indique qu’il s’agit d’une proposition qui est « théorique au sens où elle fait abstraction de tout ce qui n’est pas dit explicitement. Seul l’être de son dit manifeste constitue l’objet de l’analyse et le fondement de la conduite logique91 ». Ce changement, que l’on doit à Aristote et dont Gadamer dit qu’il s’agit de « l’une des décisions les plus lourdes de conséquences pour notre culture occidentale92 », a permis à la science de se développer de la manière que l’on sait ; elle est désormais mesure de faire des connexions entre les Choses dont elle s’assure la vérité au moyen de la méthode93. Mais quel est donc ce lien funeste entre énoncé, unicité et sciences de la nature ? La réponse est le monologue. Les sciences sont « monologiques » nous dit Gadamer94. Prisonnières « d’une abstraction qui n’a d’égards pour rien95 », elles sont incapables de maîtriser les fins en vertu desquelles les connaissances sont mobilisées et appliquées96 :</alinea>
+                </para>
+                <bloccitation>
+                    <alinea>« Il s’agit de reconnaître simultanément que l’isolement de la vérité des énoncés, et la logique construite sur l’énoncé propositionnel de la science moderne, est entièrement légitime — et que cela a néanmoins un prix que la science moderne, conformément à son essence ne saurait nous dispenser de payer : à savoir qu’à l’universalité de ce pouvoir-faire qu’elle établir pour nous, ne correspond aucune limitation du pouvoir-faire par la raison théorique et par les moyens de la science. Il n’y a aucune doute qu’il y a là de “purs” énoncés propositionnels, mais cela signifie qu’en eux se présente un savoir susceptible d’être mis au service de toutes les fins possibles.97 »</alinea>
+                </bloccitation>
+                <para>
+                    <no>26</no>
+                    <alinea>Ce que montre donc le récit de Babel, c’est que le langage véritable n’est pas l’énoncé qui n’est qu’une fiction qui s’abstrait de tout ce qui n’est pas dit : contexte, motivation, visée98. Le langage « est quelque chose qui arrive, c’est un événement99. Le mot qui nous est dit ne peut être représenté par des symboles conceptuels bien qu’on puisse représenter ce qui est dit comme tel sous la forme mathématique d’équations100 ». Il appartient à la praxis des hommes, à leur condition d’êtres qui vivent dans un rapport des uns aux autres101. S’annonce ici la proposition la plus importante pour saisir toute l’épaisseur du changement introduit par Gadamer : le langage appartient au dialogue et il n’est et n’existe que lorsqu’il se fait « question et réponse102 ». Le langage ne s’accomplit pas dans l’énoncé, mais seulement dans le dialogue. Pour Gadamer, c’est l’inverse de cet idéal du dialogue que poursuivaient les bâtisseurs de la tour :</alinea>
+                </para>
+                <bloccitation>
+                    <alinea>« On y lit : “Faisons-nous un nom afin de ne pas être dispersés sur toute l’étendue de la terre”. Quel est ce nom dans lequel nous cherchons à rester unis ? C’est le nom qu’on a et qui permet pour ainsi dire de ne plus écouter l’autre103 ».</alinea>
+                </bloccitation>
+                <para>
+                    <no>27</no>
+                    <alinea>Dans ce cadre, traduire est bien plus qu’un tropisme ou une nécessité qui naîtrait en face de la diversité irréductible des langues. C’est un projet éthique qui engage l’humanité tout entière : il faut combler les distances, franchir les « barrières » de la langue, mais surtout maintenir l’autre — l’étranger — dans ses droits en lui accordant une écoute sans cesse renouvelée104. Le mythe de Babel nous met au-devant de la structure de notre existence même : il nous faut traduire — et donc traduisons105 ; car traduire, c'est-à-dire « interpréter d’une langue à l’autre, voilà ce qui nous rapproche un peu plus du dialogue106 ».</alinea>
+                </para>
+            </section2>
+            <section2>
+                <titre>La valeur paradigmatique de la traduction</titre>
+                <para>
+                    <no>28</no>
+                    <alinea>Si interpréter c’est traduire, c'est-à-dire rendre raison à la nature véritable du langage qui ne vient à la vie que par et dans le dialogue, on doit alors s’interroger plus avant sur ce qui forme la caractéristique générale de la traduction et ses caractères exemplaires pour l’interprétation. Ricœur, qui s’est toujours instruit auprès des grands maîtres de la traduction, l’a bien senti ; la traduction suppose de toujours affronter ce qui s’apparente à une alternative (mais qui n’en est pas vraiment une, on va le voir, mais plutôt une tension) entre la « fidélité » ou la « trahison107 ». Attardons-nous dans un premier temps sur le risque bien connu (« Traduttore, traditore ») de trahison. Comme le dit l’Évangile selon Matthieu, « nul ne peut servir deux maîtres à la fois » (6:24). Or, c’est précisément ce qu’impose la traduction108, ainsi que l’exprime la formule souvent citée de Franz Rosenzweig, selon laquelle il faut tout à la fois « Amener le lecteur à l’auteur » et « Amener l’auteur au lecteur109 ». Tiraillé entre ces deux pôles opposés, le traducteur doit consentir à la perte, ce que Ricœur appelait avec justesse, reprenant le vocabulaire freudien, le travail de deuil, ici « appliqué à renoncer à l’idéal même de traduction parfaite110 ». Le modèle de traduction ébauché en introduction autour du mot d’estoppel le montre bien et tout traducteur en fait l’expérience répétée : le choix s’impose de laisser sur le chemin de la translation une partie du monde de la langue-source.</alinea>
+                </para>
+                <para>
+                    <no>29</no>
+                    <alinea>Si l’on accepte de faire le deuil de la totalité du sens, on peut ainsi percevoir ce que signifie la fidélité dans la traduction. Ce n’est qu’en acceptant la perte que l’on peut rendre raison à l’étrangeté/l’étranger. Un autre travail s’impose alors ou plus exactement une épreuve est proposée (celle de « l’étranger » pour paraphraser Antoine Berman) — épreuve au double sens de « peine endurée » et de « probation111 ». C’est ce que Ricœur proposait d’appeler « l’hospitalité langagière » : « Amener le lecteur à l’auteur, l’auteur au lecteur, au risque de servir deux maîtres, c’est pratiquer […] l’hospitalité langagière.112 »</alinea>
+                </para>
+                <para>
+                    <no>30</no>
+                    <alinea>Le terme « d’hospitalité » mérite qu’on s’y attarde. Selon une tradition que l’on peut, semble-t-il, faire remonter à saint Jérôme et que George Steiner fait sienne113, la traduction a quelque chose à voir avec l’art de la guerre, l’antagonisme dont on ne sort que par la violence. La traduction devient ainsi la capture du prisonnier qui est conduit dans le camp adverse114. L’étymologie d’« hospitalité » autorise pareille comparaison. « Hospitalité » vient en effet du latin hostis, soit l’ennemi ou, selon une analyse plus fine, « l’étranger en tant qu’on lui reconnaît des droits égaux à ceux des citoyens romains », « celui qui est en relations de compensation115 ». Mais il est vrai que l’hospitalité que nous connaissons aujourd’hui (ou que nous essayons de ne pas oublier) nous vient non pas d’hostis (qui nous a légué tout autre chose — l’« hostilité »), mais d’hospes, c'est-à-dire l’étranger que l’on reçoit, l’hôte116.</alinea>
+                </para>
+                <para>
+                    <no>31</no>
+                    <alinea>Il n’en demeure pas moins que ce spectre sémantique, qui peut virtuellement s’étirer de la « chose » à son contraire, éclaire assez bien le modèle de traduction théorisée par George Steiner, et qui paraît lui aussi s’étirer entre les deux pôles apparemment inconciliables de la défiance à la générosité. C’est par une succession de glissements en sens contraires, de mouvements de va-et-vient que se franchissent les quatre étapes identifiées de la traduction que sont l’élan, la pénétration, la mise en forme et la restitution, et qui réalisent « un acte d’annexion » (encore la métaphore guerrière) qui fait jaillir une « signification117 ».</alinea>
+                </para>
+                <para>
+                    <no>32</no>
+                    <alinea>L’élan est le moment de la confiance ou de la « générosité » qui part, comme le dit Ricœur, de ce « fait massif » qui est caractéristique de l’usage des langues : il est toujours possible de dire les choses autrement118. C’est le pari qui s’amorce après la phase de deuil et qui nous fait dire qu’il y a « “là-dedans quelque chose”119 ». Par-delà la pluralité des langues, le monadisme prudent auquel elle invite120, le traducteur est suffisamment ouvert à l’autre pour parier sur la cohérence et la plénitude symbolique du monde121. Et si l’autre est finalement accueilli, c’est qu’il paraît au moins suffisamment même.</alinea>
+                </para>
+                <para>
+                    <no>33</no>
+                    <alinea>À l’élan succède l’agression qui est étape « d’incursion et d’extraction122 ». L’identité (ipséité et hiccéité) se structure ici à travers l’autre qui est saisi et commence à faire sens123. L’étranger se fait en quelque sort ennemi et l’image exacte qui vient à l’esprit du traducteur est celle « de la signification ramenée captive par le traducteur124 ». Le moment de violence est bien rendu par la philosophie du jeune Heidegger qui fait basculer, ainsi qu’on l’a vu125, la compréhension de la méthode vers l’acte. La présence de l’autre fait prendre conscience, avec plus de pesanteur, d’une existence en un lieu déterminé, de « la chose située là », c'est-à-dire du Dasein. Steiner dit ainsi qu’« “être revient à comprendre l’être autre” », ce qui peut se dire de manière plus directe par cet autre axiome : « tout acte de compréhension doit s’annexer une autre entité : on traduit “en” quelque chose126 ». Déjà se met en marche le dialogue véritable avec le texte étranger et c’est ici que, nécessairement, le traducteur commence à prendre conscience, dans la douleur, « de la distance qui le sépare nécessairement de l’original127 ». La fréquentation du « texte comporte elle-même quelque chose de l’effort que l’on fait pour s’entendre dans la conversation. Mais la situation est ici celle d’une entente particulièrement laborieuse, au cours de laquelle on reconnaît que la distance qui sépare ce que veut dire l’autre de ce qu’on veut dire soi-même ne peut être en définitive abolie128 ».</alinea>
+                </para>
+                <para>
+                    <no>34</no>
+                    <alinea>D’hostis on repasse alors à hospes, avec l’espoir de résorber ce que George Steiner appelle une « mine à ciel ouvert qui marque le paysage de cicatrices désolées129 ». C’est l’ambition de la troisième étape, celle de l’incorporation130. Le sens est encore en suspens, comme lorsqu’on s’essaie au mot au mot et que l’on tire sur chacun d’entre eux jusqu’à fixer un premier sens intelligible. D’estoppel on peut par exemple aisément passer au vieux français estouper131 — et le tampon d’étoupe qui sert à « boucher » (le mot nous vient du latin vulgaire stuppare, c'est-à-dire « boucher (avec de l'étoupe)132 »), nous conduit quant à lui, au moins par parophonie, si ce n’est par étymologie133, à « stopper », « arrêter ». On a ici une idée princeps qu’on cherche à arrimer à la langue-cible, mais c’est si peu. Il faudrait aussi cribler sans relâche les trois unités de l’écrit que sont les mots, les phrases et les textes134. Mais encore faut-il être conscient que la naturalisation qui veut s’opérer rencontre la résistance de cette « forme d’auto-aliénation » que représente l’écrit135 en raison de sa logique prédicative136. L’effort doit donc porter sur la « linguisticité » ou « l’élément langagier » (Sprachlichkeit) de notre expérience herméneutique. L’idée est que, en amont de l’énoncé, se trouve une virtualité langagière qui donne une « structure spéculative » au langage137 et qui doit être interrogée. On l’a déjà indiqué : la faiblesse de l’énoncé réside dans le fait qu’il laisse à l’arrière-plan l’expérience herméneutique première qui a motivé sa diction et qui se trouve comme perdue en lui138. Il importe donc de se placer dans l’en-deçà de l’énoncé, là où se positionne la linguisticité qui « en appelle à tout ce qui n’est pas dit dans ce qui est effectivement dit, à toute la sphère du non-dit que laisse “miroiter” […] ou réfléchir le discours effectif139 ». Pour donner corps à la chose, il faut alors recourir à la logique de la question et de la réponse, ainsi que l’appelle Gadamer140, c'est-à-dire rechercher le « dialogue “derrière” tout énoncé141 ». Concrètement, il faut interroger ainsi avec insistance : quelle est la question à laquelle répond l’énoncé ? ; À qui était-il adressé ? ; Pourquoi l’a-t-il été à ce moment précis ? ; etc.142</alinea>
+                </para>
+                <para>
+                    <no>35</no>
+                    <alinea>C’est seulement de cette manière, c'est-à-dire par le dialogue qui rétablit l’entente perturbée, que l’on peut espérer incorporer, transposer le sens à comprendre « dans le contexte où vit l’interlocuteur143 ». Il faut donc réagir à ce que dit l’autre, « que l’on fasse vraiment droit à ses points de vue et que l’on se mette à sa place […]144 ». Mais plus que tout autre, cette formule risque d’être mal comprise, et il convient donc y insister : se mettre à la place de l’autre ne veut pas dire traiter l’autre comme individualité, mais simplement comprendre ce qu’il dit. Gadamer dit bien : « Ce qu’il importe de saisir, c’est le droit de cela même qu’il pense, de sorte que nous puissions nous mettre d’accord sur la chose même. Ce n’est donc pas à lui en tant qu’individu que nous rattachons son opinion, mais à ce que nous pensons et présumons nous-mêmes145 ». Il y a ici incorporation, c'est-à-dire « reprise » et non « co-opération » (Nachbildung) qui serait « simple résurrection du processus psychologique originel » qui a mené au texte146 ou, pour le dire autrement, « compréhension historique » qui reconstruirait ce qui correspond exactement au texte. Ne l’oublions pas, ce que « l’on se propose […] de comprendre, c’est le texte lui-même147 ». En créant ainsi un monde commun (une langue commune ou compromis langagier), la « chose » que le texte montre est ainsi rendue dans la langue d’accueil ; le texte accède à la parole et l’entente est rétablie.</alinea>
+                </para>
+                <para>
+                    <no>36</no>
+                    <alinea>Peut s’amorcer alors l’ultime phase où hostis et hospes tendent à fusionner. L’étranger qui a été accueilli n’est pas appelé à rester. Il a été enrichi et il nous a enrichis148 ; mais il faut songer à se séparer — faire le dernier échange, celui des adieux. Une certaine distanciation149 est désormais nécessaire, car comme le disait Gadamer « [l]’exigence de fidélité imposée à la traduction ne peut supprimer la différence fondamentale des langues150 ». George Steiner s’accorde d’ailleurs pleinement à Gadamer lorsqu’il indique que la traduction entraîne un « excès de clarté151 » qui suppose une restitution (on pourrait dire un « règlement de comptes ») qui est en fait mise à distance. Mais disons-le, le travail de compensation qui s’impose ici nous importe moins que la source de cette surexposition. Il faut se rappeler l’élan initial, cet excès de confiance premier qui fait droit à « l’étrangéreté152 ». Ce qui n’est pas suffisamment décrit, c’est la contribution définitive apportée par le traducteur : « les idées propres à l’interprète participent toujours, elles aussi et dès le début, au réveil du sens du texte153 » et elles en constituent l’horizon indépassable. Traduire, et donc comprendre, ce n’est pas se transposer dans l’esprit de l’autre, franchir les écarts culturels et au besoin temporels. Il faut faire droit à la Wirkungsgeschichte, c'est-à-dire au « travail de l’histoire » ou, selon une autre traduction, à « l’histoire de l’action (ou influence)154 » qui place la compréhension dans le périmètre de l’histoire155. Comprendre, en effet, c’est reconnaître l’insertion « dans le procès de la transmission où se médiatisent constamment le passé et le présent156 », c'est-à-dire reconnaître l’importance de la culture ou de la tradition qui fournit une précompréhension du texte qui s’achève ensuite dans la fusion entre le passé du texte et les attentes de l’interprète157.</alinea>
+                </para>
+            </section2>
+            <section2>
+                <titre>Les enseignements du modèle de la traduction pour l’herméneutique juridique</titre>
+                <para>
+                    <no>37</no>
+                    <alinea>Tout cela pourra paraître bien contre-intuitif à qui a retenu ce canon herméneutique que Gadamer qualifie du reste de « raisonnable » et d’après lequel il ne faut « rien introduire dans un texte que l’auteur ou le premier lecteur n’ait pu avoir en tête158 ». Pourtant, ainsi que le philosophe allemand le dit si bien « [c]omme toute restauration, le rétablissement des conditions originelles est une tentative que l’historicité de notre être voue à l’échec. Ce que l’on a rétabli, la vie que l’on a fait revenir de l’aliénation, n’est pas la vie originelle159 ». Et, finalement, « le sens d’un texte dépasse son auteur, non pas occasionnellement, mais toujours » — ce qui fait de la compréhension, tout comme la traduction, une activité non pas seulement reproductive, « mais aussi et toujours reproductive160 ». L’historicisme de « l’herméneutique romantique », auquel s’est associée la pensée positiviste (spécialement le positivisme juridique)161, a pu faire accroire que la distance historique qui sépare le texte de l’interprète non seulement pouvait mais devait être comblée, afin d’assister à l’éclosion de la pensée qui a porté le texte. Or, le « […] véritable sens d’un texte, tel qu’il s’adresse à l’interprète, ne dépend précisément pas de ces données occasionnelles qui représentent l’auteur et son premier public162 ». On y a déjà insisté, mais répétons-le : c’est bien la situation historique de l’interprète et le cours de l’histoire qui contribuent à déterminer le sens véritable du texte163.</alinea>
+                </para>
+                <para>
+                    <no>38</no>
+                    <alinea>Il ne faut pas négliger l’importance des apports du modèle de la traduction à l’herméneutique juridique. Le premier est aussi le plus simple à formuler : le texte doit être replacé au centre du débat de l’interprétation ; on ne peut plus en faire un « prétexte » ou un élément secondaire dans la prise de décision du juge, spécialement face aux « hard cases » (c'est-à-dire les cas difficiles). C’est la première leçon que Dworkin a pu retirer du présent débat164 dans le prolongement du courant Law and Literature165 aux États-Unis. Le deuxième apport se situe au plan de l’intention, spécifiquement l’intention du législateur telle qu’elle s’exprime dans les travaux préparatoires166. La théorie de la traduction condamne de manière ferme le recours à l’intention de l’auteur (le législateur). Et il ne s’agit pas seulement de mettre en lumière les dévoiements inévitables auxquels conduit cette insistance sur la genèse des textes ou bien encore (les deux idées sont liées) les difficultés pratiques considérables qui s’attachent à l’identification de cette intention première de l’auteur167, mais bien de souligner les conséquences inévitables de l’enracinement de la compréhension dans le « travail de l’histoire » qui fait que la culture, la tradition exposent notre conscience à des préjugés (ces fameux paris, présomptions du traducteur), que l’on doit certes toujours questionner, mais qui « découpent l’horizon à la lumière duquel [le juriste contemporain, par exemple] doit comprendre la loi et l’appliquer à sa situation168 ». Comme, du reste, la « mobilité historique » est non seulement celle de l’événement, mais du comprendre lui-même169 — qui est, on l’a dit, production — « dès qu’on comprend, on comprend autrement170 ». Sans doute est-il possible de parvenir à une interprétation réussie, à un sens véritable. Mais comme en rend compte le concept d’hospitalité langagière dans la traduction, le sens est seulement de passage, appelé à jaillir plus tard autrement171.</alinea>
+                </para>
+                <para>
+                    <no>39</no>
+                    <alinea>Le troisième apport vient éclairer la technique. On ne saurait bien sûr soutenir que la traduction se fait sans technique ; mais l’investigation menée conduit à nuancer très sensiblement l’importance couramment attachée aux techniques d’élucidation du sens dont la dogmatique juridique n’a jamais cessé de chercher la théorie. Traduction et interprétation relèvent de processus très complexes qui tiennent moins aux « technologies » ou à « l’ingénierie » du sens employées par l’interprète qu’à sa posture ou attitude vis-à-vis du texte à interpréter172. C’est ici que se dessine le dernier apport, qui ébauche les caractéristiques de cette « posture » herméneutique et déplace le débat sur le terrain éthique. L’une des forces de la pensée gadamérienne est d’avoir réhabilité la tradition après deux siècles de disgrâce, d’avoir reconnu que l’autorité n’a pas nécessairement à être prise dans son sens moderne de « pouvoir de commandement », mais dans son sens ancien « qui reconnaît au texte une valeur de vérité, laquelle demande à être écoutée, entretenue et servie par l’interprète173 ». Autant dire qu’il est des préjugés positifs qui font autorité (« font jurisprudence174 »), forment la tradition et nous adressent la parole175. Lorsqu’il doit appliquer une règle, le juge est donc pré-orienté — comme tous les membres de la communauté juridique à laquelle il appartient — par une sorte d’éthos du groupe qui est finalement cet horizon « de principes qui ont fait leurs preuves au cours de l’histoire176 ». C’est ici que l’éducation du juriste (dont font partie les canons d’interprétation qui rejaillissent à ce niveau)177, son expérience pratique, vont peser dans la précompréhension. Mais ces facteurs ne sauraient l’emporter sur l’éthique qui régule l’activité du traducteur et dont la signification est fondamentale pour l’herméneutique juridique : l’énoncé qui nous parle doit être questionné pour retrouver le non-dit qui se cache sous lui178. Notre compréhension étant linguistique, elle doit toujours emprunter le schéma du dialogue179, dialogue infini qui, dans le cas du droit, doit signifier une interrogation constante de nos textes et de nos traditions.</alinea>
+                </para>
+                <para>
+                    <no>40</no>
+                    <alinea>Peut-être cela n’est-il pas suffisant pour nous prémunir, comme le dit Jürgen Habermas, des idéologies et des consensus de façade (seulement tenus par la force) qui paraissent être l’horizon de nos sociétés pluralistes modernes180. Mais la structure dialogique de la compréhension, sur laquelle Gadamer ne cessera d’insister après Vérité et méthode, fait signe vers la théorie de l’argumentation et élargit nécessairement le champ de la critique en permettant, comme Ricœur l’a montré, de reformer le lien brisé par Dilthey entre expliquer (sciences de la nature) et comprendre (sciences de l’esprit)181, et de nouer interprétation et discours pratique normatif182 dans une nouvelle dialectique. On retrouverait ici un le couple déjà souligné de l’appropriation, qui est le propre de l’herméneutique gadamérienne de la tradition, et de la distanciation qui est celle de l’herméneutique habermasienne du soupçon183 — hospes et hostis. D’ailleurs, si l’argumentation juridique au sein de la procédure judiciaire présente des limites incontestables au regard, par exemple, de la pragmatique universelle184 du discours185, elle offre aussi la propriété remarquable d’intégrer la figure du tiers (le juge) qui permet de dépasser le modèle dialogique du « je-tu » et d’intégrer structurellement un élément complémentaire de distanciation, « de détachement critique186 ». C’est dans ce rapport triadique du « moi-toi-tiers » que doit s’approfondir le dialogue nécessaire à la traque des préjugés néfastes qui viennent sans cesse contaminer ce qu'Habermas appelle le « monde vécu socio-culturel », c'est-à-dire le cadre institutionnel qui nous assure des interactions médiatisées par le langage187. Si l’on veut échapper à la part d’illusion qui affecte la Sprachlichkeit, la distorsion qu’elle introduit dans la communication188, il faut multiplier les procédures explicatives, susciter l’argumentation et ne pas se contenter de compréhension ; ce que le droit, dans ses grandes ambitions, ne saurait oublier.</alinea>
+                </para>
+            </section2>
+        </section1>
+    </corps>
+    <partiesann>
+        <grnote>
+            <note>
+                <no>1</no>
+                <alinea>1ere note</alinea>
+            </note>
+        </grnote>
+        <grbiblio>
+            <biblio>
+                <titre>rw</titre>
+                <divbiblio>
+                    <refbiblio id="bib1">biblio1</refbiblio>
+                </divbiblio>
+            </biblio>
+        </grbiblio>
+    </partiesann>
+</article>
