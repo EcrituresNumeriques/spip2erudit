@@ -4,6 +4,7 @@
     xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd"
     qualtraitement="complet" idproprio="009308ar" typeart="autre" lang="fr" ordseq="1">
     <!-- xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" -->
+    <!-- todo pointer vers l’url de publication originale de l’article -->
     <admin xmlns:stylo="http://stylo">
         <infoarticle>
             <idpublic scheme="doi">null</idpublic>
@@ -23,9 +24,8 @@
             <nbnote>188</nbnote>
         </infoarticle>
         <revue lang="fr" id="SPXX">
-            <titrerev>Sens Public</titrerev>
+            <titrerev>Sens public</titrerev>
             <titrerevabr>SP</titrerevabr>
-            <!-- J'ai trouvé plein de issn différent je ne sais pas lequel mettre -->
             <idissnnum>2104-3272</idissnnum>
             <directeur sexe="masculin">
                 <nompers>
@@ -65,19 +65,19 @@
         </numero>
         <!-- Il faudrait clarifier qui est editeur producteur prodnum et diffuseur-->
         <editeur id="SP00">
-            <nomorg>Sens-Public</nomorg>
+            <nomorg>Département des littératures de langue française</nomorg>
         </editeur>
         <prod id="SP01">
-            <nomorg>Sens-Public</nomorg>
+            <nomorg>Sens public</nomorg>
         </prod>
         <prodnum id="SP02">
-            <nomorg>Sens-Public</nomorg>
+            <nomorg>Sens sublic</nomorg>
         </prodnum>
         <diffnum id="Erudit">
             <nomorg>Érudit</nomorg>
         </diffnum>
         <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
-        <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+        <droitsauteur>Cette œuvre est mise à disposition selon les termes de la licence Creative Commons Attribution – Pas d’utilisation commerciales – Partage dans les mêmes conditions, 4.0 International (CC BY-NC-SA 4.0). Tous droits réservés <nomorg>Sens public</nomorg>, 2015</droitsauteur>
     </admin>
     <liminaire>
         <grtitre>
@@ -88,11 +88,11 @@
             <auteur id="au1">
                 <nompers>
                     <prenom>Fabien</prenom>
-                    <nomfamille>girard</nomfamille>
+                    <nomfamille>Girard</nomfamille>
                 </nompers>
                 <!-- a Remplir -->
                 <affiliation>
-                    <alinea>A remplir</alinea>
+                    <alinea>Maître de conférences en Droit privé, Faculté de droit de Grenoble</alinea>
                 </affiliation>
                 <courriel>
                     <liensimple xlink:type="simple" xlink:show="none" xlink:actuate="onRequest"
@@ -100,6 +100,9 @@
                         xlink:href="mailto:lecourriel@domaine.com"
                         >lecourriel@domaine.com</liensimple>
                 </courriel>
+                <stylo:id ref="autBnf" url="http://catalogue.bnf.fr/ark:/12148/cb16683098z/">FRBNF16683098</stylo:id>
+                <stylo:id ref="stylo" url="http://stylo.io/person/id0002">id0002</stylo:id>
+                <stylo:id ref="isni" url="http://isni.org/isni/0000000409763688">ISNI 0000 0004 0976 3688</stylo:id>
             </auteur>
         </grauteur>
         <resume lang="fr">
