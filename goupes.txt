@@ -1,59 +1,146 @@
 [en]Gender[it]Genere
+http://catalogue.bnf.fr/ark:/12148/cb16248353h/;FRBNF16248353;
 Barack Obama
+http://catalogue.bnf.fr/ark:/12148/cb15591663c/;FRBNF15591663;
 [fr]Crise financière[en]Financial crisis[it]Crisi economica
+http://catalogue.bnf.fr/ark:/12148/cb15957573q/;FRBNF15957573;Global Financial Crisis, 2008-2009
 [fr]Sports[en]Sports[it]Sport
+http://catalogue.bnf.fr/ark:/12148/cb133188907/;FRBNF13318890;Sports
 [fr]Société de consommation[en]Consumerism[it]Consumismo
+http://catalogue.bnf.fr/ark:/12148/cb12135912x/;FRBNF12135912;
 Milieu politique
+http://catalogue.bnf.fr/ark:/12148/cb13319064q/;FRBNF13319064;Political science
 [fr]Religions[en]Religion[it]Religioni
+http://catalogue.bnf.fr/ark:/12148/cb11963568t/;FRBNF11963568;Religion
 [fr]Pays en développement[en]Developing countries[it]Paesi in via di sviluppo
+http://catalogue.bnf.fr/ark:/12148/cb119456356/;FRBNF11945635;Developing countries
 [fr]Mondialisation[en]Globalization[it]Mondializzazione
+http://catalogue.bnf.fr/ark:/12148/cb125694464/;FRBNF12569446;Globalization
 [fr]Relations internationales[en]International relations[it]Relazioni internazionali
+http://catalogue.bnf.fr/ark:/12148/cb11976886h/;FRBNF11976886; International relations
+World politics
 [fr]Identité[en]Identity[it]Identità
+http://catalogue.bnf.fr/ark:/12148/cb11957159h/;FRBNF11957159;Identity (Psychology)
+http://catalogue.bnf.fr/ark:/12148/cb120917772/;FRBNF12091777; Group identity
+Ethnic identity
+Race identity
 [fr]Nation, nationalisme[en]Nation, nationalism[it]Nazione, nazionalismo
+http://catalogue.bnf.fr/ark:/12148/cb11978918s/;FRBNF11978918;National state
+http://catalogue.bnf.fr/ark:/12148/cb11937474t/;FRBNF11937474;Nationalism
 [fr]Guerre et conflit[en]War and conflict[it]Guerra e conflitto
+http://catalogue.bnf.fr/ark:/12148/cb13318436b/;FRBNF13318436;War
 [fr]Postcolonial[en]Postcolonial[it]Postcoloniale
+http://catalogue.bnf.fr/ark:/12148/cb135350399/;FRBNF13535039;Postcolonialism
 [fr]Démocratie[en]Democracy[it]Democrazia
+http://catalogue.bnf.fr/ark:/12148/cb133185567/;FRBNF13318556;Democracy
 [fr]Espace public[en]Public space[it]Spazio pubblico
-Élections présidentielles
+http://catalogue.bnf.fr/ark:/12148/cb12011791z/;FRBNF12011791;Space
+[fr]Élections présidentielles
+http://catalogue.bnf.fr/ark:/12148/cb120141853/;FRBNF12014185;Election
 [fr]Écologie[en]Ecology[it]Ecologia
-Édition, presse et médias
+http://catalogue.bnf.fr/ark:/12148/cb158291948/;FRBNF15829194;Ecology -- Political aspects
+Human ecology -- Political aspects
+[fr]Édition, presse et médias
+http://catalogue.bnf.fr/ark:/12148/cb13318593f/;FRBNF13318593;Developmental editing
+Editing
+Publishers and publishing
+Publication and distribution
+Publishing
+http://catalogue.bnf.fr/ark:/12148/cb133183691/;FRBNF13318369;Press
+http://catalogue.bnf.fr/ark:/12148/cb119323312/;FRBNF11932331;Mass media
 [fr]Socialisme et Communisme[en]Socialism and Communism[it]Socialismo e Comunismo
+http://catalogue.bnf.fr/ark:/12148/cb12647612n/;FRBNF12647612;Socialism
+http://catalogue.bnf.fr/ark:/12148/cb133408542/;FRBNF13340854;Communism
 [fr]Travail et emploi[en]Work[it]Lavoro
+http://catalogue.bnf.fr/ark:/12148/cb119715347/;FRBNF11971534; Employment
+Labor
+Occupations
+Work
 [fr]Universalisme[en]Universalism[it]Universalismo
+http://catalogue.bnf.fr/ark:/12148/cb125597651/;FRBNF12559765;
 [fr]Droits humains[en]Human rights[it]Diritti umani
+http://catalogue.bnf.fr/ark:/12148/cb13318689g/;FRBNF13318689;Civil rights
+Human rights
 [fr]Image, Iconographie[en]Image, Iconography[it]Immagine, Iconografia
+http://catalogue.bnf.fr/ark:/12148/cb126479296/;FRBNF12647929;Iconicity (Linguistics)
+Picture interpretation
 [fr]Sexualité[en]Sexuality[it]Sessualità
+http://catalogue.bnf.fr/ark:/12148/cb11933266p/;FRBNF11933266;Sex
+Sexual behavior
 [fr]Érotisme[en]Eroticism[it]Erotismo
+http://catalogue.bnf.fr/ark:/12148/cb12650884k/;FRBNF12650884;Erotica
 [fr]Métaphysique[en]Metaphysics[it]Metafisica
+http://catalogue.bnf.fr/ark:/12148/cb11934604g/;FRBNF11934604;First philosophy
+Metaphysics
 [fr]Mouvement social[en]Social movements[it]Movimento sociale
+http://catalogue.bnf.fr/ark:/12148/cb119477578/;FRBNF11947757;Protest movements
+Social movements
 [fr]Psychanalyse[en]Psychoanalysis[it]Psicoanalisi
+http://catalogue.bnf.fr/ark:/12148/cb11932657k/;FRBNF11932657;Psychoanalysis
 [fr]Homosexualité[en]Homosexuality[it]Omosessualità
-Récit, voyage
+http://catalogue.bnf.fr/ark:/12148/cb119320348/;FRBNF11932034;Homosexuality
+[fr]Récit, voyage
+http://catalogue.bnf.fr/ark:/12148/cb119327315/;FRBNF11932731;Travelers'writings
 [fr]Capitalisme[en]Capitalism[it]Capitalismo
+http://catalogue.bnf.fr/ark:/12148/cb119360614/;FRBNF11936061;Capitalism
 [fr]Entreprises[en]Business[it]Imprese
+http://catalogue.bnf.fr/ark:/12148/cb119360614/;FRBNF11936061;Capitalism
 [fr]Multilinguisme[en]Multilingualism[it]Multilinguismo
+http://catalogue.bnf.fr/ark:/12148/cb11936549n/;FRBNF11936549;Multilingualism
 [fr]Francophonie[en]French speaking world[it]Francofonia
+http://catalogue.bnf.fr/ark:/12148/cb11931487q/;FRBNF11931487;French-speaking countries
 [fr]Diversité culturelle[en]Cultural diversity[it]Diversità culturale
+http://catalogue.bnf.fr/ark:/12148/cb11940030m/;FRBNF11940030;Multiculturalism
 [fr]Éducation et enseignement[en]Education[it]Educazione
+http://catalogue.bnf.fr/ark:/12148/cb13318807v/;FRBNF13318807;Education
+http://catalogue.bnf.fr/ark:/12148/cb11934463f/;FRBNF11934463;Teaching
 [fr]Politique mémorielle[en]Politics of memory[it]Politica della memoria
-Société du spectacle
+
+[fr]Société du spectacle
+
 [fr]Phénoménologie[en]Phenomenology[it]Fenomenologia
+http://catalogue.bnf.fr/ark:/12148/cb11933094c/;FRBNF11933094;Existential phenomenology
+Phenomenology
 [fr]Humanisme[en]Humanism[it]Umanismo
+http://catalogue.bnf.fr/ark:/12148/cb11957838g/;FRBNF11957838;Humanism
 [fr]Technologies[en]Technologies[it]Tecnologie
+http://catalogue.bnf.fr/ark:/12148/cb119338890/;FRBNF11933889;Technology
 [fr]Révoltes arabes[en]Arab revolution[it]Rivoluzione araba
+http://catalogue.bnf.fr/ark:/12148/cb16536368c/;FRBNF16536368
 [fr]Internet[en]Internet[it]Internet
+http://catalogue.bnf.fr/ark:/12148/cb12337059x/;FRBNF12337059;Internet
 [fr]Imaginaire[en]Imagination[it]Immaginario
+http://catalogue.bnf.fr/ark:/12148/cb11932093s/;FRBNF11932093;Imagination (Philosophy)
 [fr]Créativité[en]Creativity[it]Creatività
+http://catalogue.bnf.fr/ark:/12148/cb11936171q/;FRBNF11936171;Creative ability
 [fr]Patrimoine[en]Heritage[it]Patrimonio
+http://catalogue.bnf.fr/ark:/12148/cb133190710/;FRBNF13319071;Cultural property
 [fr]Stéréotypes[en]Stereotypes[it]Stereotipi
+http://catalogue.bnf.fr/ark:/12148/cb119781057/;FRBNF11978105;Stereotype (Psychology)
 [fr]Valeurs[en]Values[it]Valori
+http://catalogue.bnf.fr/ark:/12148/cb11936003z/;FRBNF11936003; Values
 [fr]Utopie[en]Utopia[it]Utopia
+http://catalogue.bnf.fr/ark:/12148/cb119337395/;FRBNF11933739;Dystopias
+Utopias
 [fr]Minorités[en]Minorities[it]Minoranze
+http://catalogue.bnf.fr/ark:/12148/cb119325052/;FRBNF11932505;Minorities
 [fr]Sujet[en]Subject[it]Soggetto
-Publicité
-Altérité
-Futur
-Double
-Dédoublement
-Traduction automatique
-MOOC
+http://catalogue.bnf.fr/ark:/12148/cb11956929j/;FRBNF11956929;Subject (Philosophy)
+[fr]Publicité
+http://catalogue.bnf.fr/ark:/12148/cb13318427c/;FRBNF13318427;Advertising
+Publicity
+[fr]Altérité
+http://catalogue.bnf.fr/ark:/12148/cb11959060x/;FRBNF11959060;Other (Philosophy)
+Other minds (Theory of knowledge)
+[fr]Futur
+http://catalogue.bnf.fr/ark:/12148/cb124789914/;FRBNF12478991;Future (Logic)
+[fr]Double
+http://catalogue.bnf.fr/ark:/12148/cb11948554x/;FRBNF11948554;Doubles in art
+Doubles in literature
+Doubles in motion pictures
+[fr]Dédoublement
+
+[fr]Traduction automatique
+http://catalogue.bnf.fr/ark:/12148/cb11947452q/;FRBNF11947452;Machine translating
+[fr]MOOC
+http://catalogue.bnf.fr/ark:/12148/cb16901246n/;FRBNF16901246;MOOCs (Web-based instruction)
