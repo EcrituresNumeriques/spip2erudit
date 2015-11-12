@@ -64,10 +64,10 @@
             </grtheme>
         </numero>
         <!-- Il faudrait clarifier qui est editeur producteur prodnum et diffuseur-->
-        <editeur id="SP00">
+        <editeur id="spxx">
             <nomorg>Département des littératures de langue française</nomorg>
         </editeur>
-        <prod id="SP01">
+        <prod id="spProdxx">
             <nomorg>Sens public</nomorg>
         </prod>
         <prodnum id="SP02">
