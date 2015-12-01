@@ -1,0 +1,366 @@
+
+<list>
+    <entry>
+        <label>[en]Gender[it]Genere</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb16248353h/</url>
+        <id>FRBNF16248353</id>
+    </entry>
+    <entry>
+        <label>Barack Obama</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb15591663c/</url>
+        <id>FRBNF15591663</id>
+    </entry>
+    <entry>
+        <label>[fr]Crise financière[en]Financial crisis[it]Crisi economica</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb15957573q/</url>
+        <id>FRBNF15957573</id>
+        <term>Global Financial Crisis, 2008-2009</term>
+    </entry>
+    <entry>
+        <label>[fr]Sports[en]Sports[it]Sport</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb133188907/</url>
+        <id>FRBNF13318890</id>
+        <term>Sports</term>
+    </entry>
+    <entry>
+        <label>[fr]Société de consommation[en]Consumerism[it]Consumismo</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12135912x/</url>
+        <id>FRBNF12135912</id>
+    </entry>
+    <entry>
+        <label>Milieu politique</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb13319064q/</url>
+        <id>FRBNF13319064</id>
+        <term>Political science</term>
+    </entry>
+    <entry>
+        <label>[fr]Religions[en]Religion[it]Religioni</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11963568t/</url>
+        <id>FRBNF11963568</id>
+        <term>Religion</term>
+    </entry>
+    <entry>
+        <label>[fr]Pays en développement[en]Developing countries[it]Paesi in via di sviluppo</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119456356/</url>
+        <id>FRBNF11945635</id>
+        <term>Developing countries</term>
+    </entry>
+    <entry>
+        <label>[fr]Mondialisation[en]Globalization[it]Mondializzazione</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb125694464/</url>
+        <id>FRBNF12569446</id>
+        <term>Globalization</term>
+    </entry>
+    <entry>
+        <label>[fr]Relations internationales[en]International relations[it]Relazioni
+            internazionali</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11976886h/</url>
+        <id>FRBNF11976886</id>
+        <term>International relations</term>
+        <term>World politics</term>
+    </entry>
+    <entry>
+        <label>[fr]Identité[en]Identity[it]Identità</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11957159h/</url>
+        <id>FRBNF11957159</id>
+        <term>Identity (Psychology)</term>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb120917772/</url>
+        <id>FRBNF12091777</id>
+        <term>Group identity</term>
+        <term>Ethnic identity</term>
+        <term>Race identity</term>
+    </entry>
+    <entry>
+        <label>[fr]Nation, nationalisme[en]Nation, nationalism[it]Nazione, nazionalismo</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11937474t/</url>
+        <id>FRBNF11937474</id>
+        <term>Nationalism</term>
+    </entry>
+    <entry>
+        <label>[fr]Guerre et conflit[en]War and conflict[it]Guerra e conflitto</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb13318436b/</url>
+        <id>FRBNF13318436</id>
+        <term>War</term>
+    </entry>
+    <entry>
+        <label>[fr]Postcolonial[en]Postcolonial[it]Postcoloniale</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb135350399/</url>
+        <id>FRBNF13535039</id>
+        <term>Postcolonialism</term>
+    </entry>
+    <entry>
+        <label>[fr]Démocratie[en]Democracy[it]Democrazia </label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb133185567/</url>
+        <id>FRBNF13318556</id>
+        <term>Democracy</term>
+    </entry>
+    <entry>
+        <label>[fr]Espace public[en]Public space[it]Spazio pubblico</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12011791z/</url>
+        <id>FRBNF12011791</id>
+        <term>Space</term>
+    </entry>
+    <entry>
+        <label>[fr]Élections présidentielles</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb120141853/</url>
+        <id>FRBNF12014185</id>
+        <term>Election</term>
+    </entry>
+    <entry>
+        <label>[fr]Écologie[en]Ecology[it]Ecologia</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb158291948/</url>
+        <id>FRBNF15829194</id>
+        <term>Ecology -- Political aspects</term>
+        <term>Human ecology -- Political aspects</term>
+    </entry>
+    <entry>
+        <label>[fr]Édition, presse et médias</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb13318593f/</url>
+        <id>FRBNF13318593</id>
+        <term>Developmental editing Editing</term>
+    </entry>
+    <entry>
+        <label>Publishers and publishing Publication and distribution Publishing</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb133183691/</url>
+        <id>FRBNF13318369</id>
+        <term>Press</term>
+    </entry>
+    <entry>
+        <label>Publishers and publishing Publication and distribution Publishing</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119323312/</url>
+        <id>FRBNF11932331</id>
+        <term>Mass media</term>
+    </entry>
+    <entry>
+        <label>[fr]Socialisme et Communisme[en]Socialism and Communism[it]Socialismo e
+            Comunismo</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12647612n/</url>
+        <id>FRBNF12647612</id>
+        <term>Socialism</term>
+    </entry>
+    <entry>
+        <label>[fr]Socialisme et Communisme[en]Socialism and Communism[it]Socialismo e
+            Comunismo</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb133408542/</url>
+        <id>FRBNF13340854</id>
+        <term>Communism</term>
+    </entry>
+    <entry>
+        <label>[fr]Travail et emploi[en]Work[it]Lavoro</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119715347/</url>
+        <id>FRBNF11971534</id>
+        <term>Employment</term>
+        <term>Labor</term>
+        <term>Occupations</term>
+        <term>Work</term>
+    </entry>
+    <entry>
+        <label>[fr]Universalisme[en]Universalism[it]Universalismo</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb125597651/</url>
+        <id>FRBNF12559765</id>
+    </entry>
+    <entry><label>[fr]Droits humains[en]Human rights[it]Diritti umani</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb13318689g/</url><id>FRBNF13318689</id><term>Civil
+            rights</term> Human rights</entry>
+    <entry><label>[fr]Image, Iconographie[en]Image, Iconography[it]<term>Immagine,
+                Iconografia</term></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb126479296/</url><id>FRBNF12647929</id><term>Iconicity
+            (Linguistics)</term> Picture interpretation </entry>
+    <entry><label>[fr]Sexualité[en]Sexuality[it]Sessualità</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11933266p/</url><id>FRBNF11933266</id><term>Sex</term>
+        Sexual behavior</entry>
+    <entry>
+        <label>[fr]Érotisme[en]Eroticism[it]Erotismo</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12650884k/</url>
+        <id>FRBNF12650884</id>
+        <term>Erotica</term>
+    </entry>
+    <entry><label>[fr]Métaphysique[en]Metaphysics[it]Metafisica</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11934604g/</url><id>FRBNF11934604</id><term>First
+            philosophy</term> Metaphysics</entry>
+    <entry><label>[fr]Mouvement social[en]Social movements[it]Movimento sociale</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119477578/</url><id>FRBNF11947757</id><term>Protest
+            movements</term> Social movements</entry>
+    <entry>
+        <label>[fr]Psychanalyse[en]Psychoanalysis[it]Psicoanalisi</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11932657k/</url>
+        <id>FRBNF11932657</id>
+        <term>Psychoanalysis</term>
+    </entry>
+    <entry>
+        <label>[fr]Homosexualité[en]Homosexuality[it]Omosessualità</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119320348/</url>
+        <id>FRBNF11932034</id>
+        <term>Homosexuality</term>
+    </entry>
+    <entry>
+        <label>[fr]Récit, voyage</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119327315/</url>
+        <id>FRBNF11932731</id>
+        <term>Travelers'writings</term>
+    </entry>
+    <entry>
+        <label>[fr]Capitalisme[en]Capitalism[it]Capitalismo</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119360614/</url>
+        <id>FRBNF11936061</id>
+        <term>Capitalism</term>
+    </entry>
+    <entry>
+        <label>[fr]Entreprises[en]Business[it]Imprese</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119360614/</url>
+        <id>FRBNF11936061</id>
+        <term>Capitalism</term>
+    </entry>
+    <entry>
+        <label>[fr]Multilinguisme[en]Multilingualism[it]Multilinguismo</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11936549n/</url>
+        <id>FRBNF11936549</id>
+        <term>Multilingualism</term>
+    </entry>
+    <entry>
+        <label>[fr]Francophonie[en]French speaking world[it]Francofonia</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11931487q/</url>
+        <id>FRBNF11931487</id>
+        <term>French-speaking countries</term>
+    </entry>
+    <entry>
+        <label>[fr]Diversité culturelle[en]Cultural diversity[it]Diversità culturale</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11940030m/</url>
+        <id>FRBNF11940030</id>
+        <term>Multiculturalism</term>
+    </entry>
+    <entry>
+        <label>[fr]Éducation et enseignement[en]Education[it]Educazione</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb13318807v/</url>
+        <id>FRBNF13318807</id>
+        <term>Education</term>
+    </entry>
+    <entry>
+        <label>[fr]Éducation et enseignement[en]Education[it]Educazione</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11934463f/</url>
+        <id>FRBNF11934463</id>
+        <term>Teaching</term>
+    </entry>
+    <entry>
+        <label>[fr]Politique mémorielle[en]Politics of memory[it]Politica della memoria</label>
+    </entry>
+    <entry>
+        <label>[fr]Société du spectacle</label>
+    </entry>
+
+    <entry>
+        <label>[fr]Phénoménologie[en]Phenomenology[it]Fenomenologia</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11933094c/</url>
+        <id>FRBNF11933094</id>
+        <term>Existential phenomenology Phenomenology</term>
+    </entry>
+    <entry>
+        <label>[fr]Humanisme[en]Humanism[it]Umanismo</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11957838g/</url>
+        <id>FRBNF11957838</id>
+        <term>Humanism</term>
+    </entry>
+    <entry>
+        <label>[fr]Technologies[en]Technologies[it]Tecnologie</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119338890/</url>
+        <id>FRBNF11933889</id>
+        <term>Technology</term>
+    </entry>
+    <entry>
+        <label>[fr]Révoltes arabes[en]Arab revolution[it]Rivoluzione araba</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb16536368c/</url>
+        <id>FRBNF16536368</id>
+    </entry>
+    <entry>
+        <label>[fr]Internet[en]Internet[it]Internet</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12337059x/</url>
+        <id>FRBNF12337059</id>
+        <term>Internet</term>
+    </entry>
+    <entry>
+        <label>[fr]Imaginaire[en]Imagination[it]Immaginario</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11932093s/</url>
+        <id>FRBNF11932093</id>
+        <term>Imagination (Philosophy)</term>
+    </entry>
+    <entry>
+        <label>[fr]Créativité[en]Creativity[it]Creatività</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11936171q/</url>
+        <id>FRBNF11936171</id>
+        <term>Creative ability</term>
+    </entry>
+    <entry>
+        <label>[fr]Patrimoine[en]Heritage[it]Patrimonio</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb133190710/</url>
+        <id>FRBNF13319071</id>
+        <term>Cultural property</term>
+    </entry>
+    <entry>
+        <label>[fr]Stéréotypes[en]Stereotypes[it]Stereotipi</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119781057/</url>
+        <id>FRBNF11978105</id>
+        <term>Stereotype (Psychology)</term>
+    </entry>
+    <entry>
+        <label>[fr]Valeurs[en]Values[it]Valori</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11936003z/</url>
+        <id>FRBNF11936003</id>
+        <term>Values</term>
+    </entry>
+    <entry>
+        <label>[fr]Utopie[en]Utopia[it]Utopia</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119337395/</url>
+        <id>FRBNF11933739</id>
+        <term>Dystopias</term>
+        <term>Utopias</term>
+    </entry>
+    <entry>[fr]Minorités[en]Minorities[it]Minoranze
+            <url>http://catalogue.bnf.fr/ark:/12148/cb119325052/</url>
+        <id>FRBNF11932505</id>
+        <term>Minorities</term>
+    </entry>
+    <entry>[fr]Sujet[en]Subject[it]Soggetto
+            <url>http://catalogue.bnf.fr/ark:/12148/cb11956929j/</url><id>FRBNF11956929</id><term>Subject</term>
+        (Philosophy)</entry>
+    <entry>
+        <label>[fr]Publicité</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb13318427c/</url>
+        <id>FRBNF13318427</id>
+        <term>Advertising</term>
+        <term>Publicity</term>
+    </entry>
+    <entry>
+        <label>[fr]Altérité</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11959060x/</url>
+        <id>FRBNF11959060</id>
+        <term>Other (Philosophy)</term>
+        <term>Other minds (Theory of knowledge)</term>
+    </entry>
+    <entry>
+        <label>[fr]Futur</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb124789914/</url>
+        <id>FRBNF12478991</id>
+        <term>Future (Logic)</term>
+    </entry>
+    <entry>
+        <label>[fr]Double</label>
+        <label>[fr]Dédoublement</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11948554x/</url>
+        <id>FRBNF11948554</id>
+        <term>Doubles in art</term>
+        <term>Doubles in literature</term>
+        <term>Doubles in motion pictures</term>
+    </entry>
+    <entry>
+        <label>[fr]Traduction automatique</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11947452q/</url>
+        <id>FRBNF11947452</id>
+        <term>Machine translating</term>
+    </entry>
+    <entry>
+        <label>[fr]MOOC</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb16901246n/</url>
+        <id>FRBNF16901246</id>
+        <term>MOOCs (Web-based instruction)</term>
+    </entry>
+</list>

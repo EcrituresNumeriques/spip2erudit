@@ -1,0 +1,19 @@
+<!-- Sens-Public directors by date -->
+<directors>
+  <director>
+    <date from="2012-01-01" to="2020-12-31" />
+    <persName>
+      <forename>Marcello</forename>
+      <surname>Vitali-Rosati</surname>
+    </persName>
+    <sexe>masculin</sexe>
+  </director>
+  <director>
+    <date from="1996-01-01" to="2011-12-31" />
+    <persName>
+      <forename>Gérard</forename>
+      <surname>Wormser</surname>
+    </persName>
+    <sexe>masculin</sexe>
+  </director>
+</directors>
