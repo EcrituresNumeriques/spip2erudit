@@ -115,12 +115,12 @@
           d’hier. On recense, en Allemagne au XVIIe siècle, la première tentative de produire des
           traductions mécaniquement, à l’aide de tables de calcul. Johannes Becher, un moine de
           Speyer, avait conçu un métalangage mathématique décrivant le sens de nombreux mots dans
-          plusieurs langues. Il s&amp;rsquo;agissait, en quelque sorte, d’une tentative de
+          plusieurs langues. Il s’agissait, en quelque sorte, d’une tentative de
           formalisation des langues naturelles et de leurs relations complexes, tentatives qui
           seront reprises plus tard avec quelque succès. Ainsi, une phrase dans n’importe quelle
           langue incluse dans le système de Becher pouvait être traduite mécaniquement en fonction
           de formules préétablies<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi>. Il faudra
-          évidemment attendre que s&amp;rsquo;écoule la première moitié du XXe siècle, avec la
+          évidemment attendre que s’écoule la première moitié du XXe siècle, avec la
           naissance des supers calculateurs et autres cerveaux mécaniques, avant de voir de réelles
           percées (même si elles restent timides) dans le domaine du traitement automatique des
           langues, et particulièrement de la traduction automatique (TA).</alinea>
@@ -135,9 +135,9 @@
       <section1><titre> L’âge d’or</titre>
       <para>
         <alinea> Le milieu du XXe siècle, qui voit la naissance de la TA comme nous la connaissons
-          aujourd’hui, est effervescent à bien des égards. D&amp;rsquo;une part, pour la première
+          aujourd’hui, est effervescent à bien des égards. D’une part, pour la première
           fois de l’histoire, les ordinateurs, ces « cerveaux électroniques », sont suffisamment
-          puissants pour répondre aux rêves d’automatisation des scientifiques. D&amp;rsquo;autre
+          puissants pour répondre aux rêves d’automatisation des scientifiques. D’autre
           part, la Guerre Froide engendre un besoin impérieux pour les Américains d’être au fait des
           activités des Russes et vice-versa. Ainsi, les années 50 et 60 se voient le théâtre d’une
           course effrénée à qui pourra le premier maîtriser à la fois la machine et le langage. Les
@@ -145,11 +145,11 @@
           enfant qui paraît friser la naïveté.</alinea>
       </para>
       <para>
-        <alinea> On s&amp;rsquo;accorde généralement pour attribuer la paternité de la recherche en
+        <alinea> On s’accorde généralement pour attribuer la paternité de la recherche en
           traduction automatique à Warren Weaver, alors à l’emploi de la Rockefeller
             Foundation<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>. Dès 1947, Weaver se
           demande, dans sa correspondance<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>
-          avec Norbert Wiener, le premier cybernéticien, s&amp;rsquo;il est concevable que les
+          avec Norbert Wiener, le premier cybernéticien, s’il est concevable que les
           ordinateurs puissent servir à la traduction de textes rédigés en langues naturelles (par
           opposition à des textes codés dans une « langue artificielle »). Wiener lui répond par la
             négative<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>, mais sa réflexion se
@@ -170,7 +170,7 @@
         <alinea> L’analyse acceptée généralement est que le mémorandum influencera la traduction
           automatique pour les décennies à venir, lui donnant une saveur résolument (et
           négativement) cryptographique, surtout en regard des approches subséquentes.
-          J&amp;rsquo;ai aussi fait mienne cette analyse dans mes recherches précédentes<renvoi
+          J’ai aussi fait mienne cette analyse dans mes recherches précédentes<renvoi
             idref="sdfootnote7sym" typeref="note">7</renvoi>, jusqu’à ce qu’une lecture plus
           attentive me permette de remarquer que Weaver n’était pas aussi ignorant des difficultés
           intrinsèques au traitement automatique des langues (comme la traduction automatique) que
@@ -191,13 +191,13 @@
           >11</renvoi>, ses contemporains et les historiens n’ont retenu du mémorandum que les
           aspects cryptographiques et mathématiques au détriment du reste; les premiers,
           probablement en raison des limites de l’informatique de leur temps, les seconds, puisque
-          c&amp;rsquo;est cette approche qui a tenu le devant de la scène jusque dans les années
+          c’est cette approche qui a tenu le devant de la scène jusque dans les années
           70.</alinea>
       </para>
       <para>
         <alinea> Ainsi, stimulés en grande partie par l’impulsion de Weaver, de nombreux chercheurs
-          des années 50 s&amp;rsquo;emploient à décoder le langage, en vue de dégager une structure
-          universelle qui s&amp;rsquo;appliquerait à toutes les langues. Rapidement, la première
+          des années 50 s’emploient à décoder le langage, en vue de dégager une structure
+          universelle qui s’appliquerait à toutes les langues. Rapidement, la première
           tentative réussie de traduction automatique<renvoi idref="sdfootnote12sym" typeref="note"
             >12</renvoi> a été réalisée, le 7 janvier 1954, du russe vers l’anglais, à l’aide d’un
           dictionnaire de 250 mots et de six règles de transfert syntaxique, dans les laboratoires
@@ -239,12 +239,12 @@
         <alinea> Rapidement, toutefois, l’approche directe laisse entrevoir quelques-unes de ses
           faiblesses. Tout d’abord, le nombre de règles nécessaires au traitement de textes généraux
           dépasse rapidement les capacités des linguistes et des ordinateurs qu’ils utilisent.
-          L’ambig&amp;uuml;ité, notamment, est un problème très criant pour l’approche directe. La
+          L’ambigüité, notamment, est un problème très criant pour l’approche directe. La
           traduction d’expressions imagées ou de métaphores donne souvent des résultats pour le
           moins cocasses<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi>. Par ailleurs,
           cette approche produit des systèmes qui ne fonctionnent qu’avec une seule paire de
           langues, souvent dans une seule direction. On peut tout de suite constater le casse-tête
-          potentiel lorsque l’on s&amp;rsquo;attaquera à un marché du calibre de celui de l’Union
+          potentiel lorsque l’on s’attaquera à un marché du calibre de celui de l’Union
           européenne puisque, comme le souligne plus tard Pierre Isabelle : « pour traduire entre
             <marquage typemarq="italique">n</marquage> langues on a besoin de <marquage
             typemarq="italique">n</marquage>*(<marquage typemarq="italique">n</marquage>-1) modules
@@ -271,7 +271,7 @@
           Amérique du Nord.</alinea>
       </para>
       <para>
-        <alinea> Ce que les historiens relèvent rarement, c&amp;rsquo;est que le <marquage
+        <alinea> Ce que les historiens relèvent rarement, c’est que le <marquage
             typemarq="italique">Black Book</marquage> ne condamne pas d’emblée toute recherche sur
           l’automatisation de la traduction, mais bien les efforts qui visent à atteindre la
           traduction entièrement automatique de haute qualité (TAEHQ) sur texte général sans
@@ -285,14 +285,14 @@
         <alinea> En fait, si les militaires américains abandonnent pour le moment la recherche en
           TA, les gouvernements européens, canadien et japonais, eux, sont toujours de la partie.
             Hutchins<renvoi idref="sdfootnote23sym" typeref="note">23</renvoi> et Somers<renvoi
-            idref="sdfootnote24sym" typeref="note">24</renvoi> s&amp;rsquo;accordent pour dire qu’en
+            idref="sdfootnote24sym" typeref="note">24</renvoi> s’accordent pour dire qu’en
           raison de facteurs sociopolitiques et culturels, la demande en traduction dans ces pays
           n’a jamais diminué. En Europe, les échanges multilingues entre les différents pays
           motivent des entreprises adaptées à cette réalité. La Commission européenne rachète
           SYSTRAN, un système américain de deuxième génération et en poursuit le
             développement<renvoi idref="sdfootnote25sym" typeref="note">25</renvoi>.
-          D&amp;rsquo;autres projets voient le jour en France, en Allemagne et en Italie. Au Canada,
-          c&amp;rsquo;est le bilinguisme législatif qui motive la recherche. Au Japon, ce sont les
+          D’autres projets voient le jour en France, en Allemagne et en Italie. Au Canada,
+          c’est le bilinguisme législatif qui motive la recherche. Au Japon, ce sont les
           avancées informatiques réalisées par les chercheurs en vue de manipuler le système
           d’écriture qui aiguillonne les chercheurs : les succès sont si probants que les
           universités et le secteur privé décident d’appliquer leurs découvertes à la traduction
@@ -309,7 +309,7 @@
           essais contrôlés en laboratoire, la question est peu pertinente, mais si le système vise
           la commercialisation et sera utilisé pour des textes généraux, il est impossible de
           garantir un résultat à tout coup. En outre, les modules d’analyse ont du mal à traiter des
-          ambig&amp;uuml;ités grammaticales qui ne ralentiraient pas un traducteur humain. L’exemple
+          ambigüités grammaticales qui ne ralentiraient pas un traducteur humain. L’exemple
           par excellence<renvoi idref="sdfootnote27sym" typeref="note">27</renvoi> pour illustrer
           les faiblesses de cette génération est « Time flies like an arrow », dont la structure
           pour une machine est très difficile à analyser hors contexte et pourrait ainsi être
@@ -335,7 +335,7 @@
           intégrante des processus de traduction automatique.</alinea>
       </para>
       <para>
-        <alinea> Au cours des années 80, c&amp;rsquo;est l’approche indirecte par transfert qui
+        <alinea> Au cours des années 80, c’est l’approche indirecte par transfert qui
           règne sans conteste sur le paysage de la TA<renvoi idref="sdfootnote28sym" typeref="note"
             >28</renvoi>. En effet, les approches par interlangue ne semblent pas remporter les
           succès attendus, et l’on préfère en conséquence plancher sur des approches moins
@@ -374,7 +374,7 @@
           décennie, explique-t-il, les faiblesses des systèmes de TA sont obligeamment reconnues et
           l’on propose ces derniers, non plus comme un moyen de remplacer les traducteurs, mais bien
           comme des aides à la traduction<renvoi idref="sdfootnote33sym" typeref="note">33</renvoi>.
-          Il n’est donc pas surprenant de constater que nombre de chercheurs s&amp;rsquo;emploient à
+          Il n’est donc pas surprenant de constater que nombre de chercheurs s’emploient à
           développer la TAO et que nombre d’institutions et de grandes organisations qui œuvrent en
           traduction cherchent à l’implanter. Qui plus est, les premiers systèmes commerciaux font
           leur apparition sur le marché. ALPS et Weidner sont les fers de lance du mouvement, mais
@@ -391,9 +391,9 @@
           Theoretical and Methological Issues in Machine Translation : « Each time I fire a
           linguist, my performance goes up »<renvoi idref="sdfootnote35sym" typeref="note"
             >35</renvoi>. La traduction automatique statistique (TAS) est une méthode empirique qui
-          s&amp;rsquo;affranchit complètement des modèles linguistiques rigides et
-          s&amp;rsquo;appuie sur un ensemble de données organisées, le corpus bilingue ou
-          multilingue aligné. Il s&amp;rsquo;agit d’aligner des phrases, des groupes de mots et des
+          s’affranchit complètement des modèles linguistiques rigides et
+          s’appuie sur un ensemble de données organisées, le corpus bilingue ou
+          multilingue aligné. Il s’agit d’aligner des phrases, des groupes de mots et des
           mots individuels de deux textes parallèles pour ensuite calculer la probabilité que
           n’importe quel des mots dans une phrase donnée en langue source corresponde avec un ou des
           mots qui font partie de la phrase qui lui est liée dans le texte en langue cible.
@@ -401,7 +401,7 @@
           avoir un grand nombre de traductions (T) et chacune de ces traductions a une probabilité
           plus ou moins grande d’être adéquate; en théorie, il n’y a pas de traduction « correcte »
           ou « incorrecte »<renvoi idref="sdfootnote36sym" typeref="note">36</renvoi>.
-          C&amp;rsquo;est l’approche qu’utilisent aujourd’hui <marquage typemarq="italique"
+          C’est l’approche qu’utilisent aujourd’hui <marquage typemarq="italique"
             >Google</marquage> et <marquage typemarq="italique">Microsoft</marquage>, notamment,
           avec modifications à l’avenant, bien sûr, et avec le succès que l’on connaît.</alinea>
       </para>
@@ -410,9 +410,9 @@
           est la solution de Jelinek au problème du modèle de langue, solution qui lui permet en
           fait d’éviter la formalisation linguistique<renvoi idref="sdfootnote37sym" typeref="note"
             >37</renvoi>. Les chercheurs en TAS l’ont plus tard adapté à leurs besoins, car Jelinek
-          s&amp;rsquo;était plutôt concentré sur les trigrammes (séquence de trois mots)<renvoi
+          s’était plutôt concentré sur les trigrammes (séquence de trois mots)<renvoi
             idref="sdfootnote38sym" typeref="note">38</renvoi>. Néanmoins, le principe reste
-          inchangé. Il s&amp;rsquo;agit simplement de segmenter automatiquement le corpus unilingue
+          inchangé. Il s’agit simplement de segmenter automatiquement le corpus unilingue
           de langue cible aligné en séquences de <marquage typemarq="italique">n-mots</marquage>.
           Ces séquences sont ensuite compilées et après analyse statistique, le système attribue à
           chacune d’elles une probabilité basée sur sa fréquence d’occurrence. Les séquences, ainsi
@@ -426,10 +426,10 @@
       </para>
       <para>
         <alinea> La TAS offre de nombreux avantages, mais a aussi certains inconvénients.
-          D&amp;rsquo;une part, il est facile d’entraîner les systèmes : il suffit d’ajouter des
+          D’une part, il est facile d’entraîner les systèmes : il suffit d’ajouter des
           textes à leur corpus pour les renforcer. Il en découle aussi qu’ils sont facilement
           adaptables à un domaine en particulier : plus on fournit des textes précis et spécialisés
-          au corpus (qui présentent donc moins d’ambig&amp;uuml;ités), mieux le système apprendra le
+          au corpus (qui présentent donc moins d’ambigüités), mieux le système apprendra le
           nouveau domaine et pourra fournir de bonnes traductions. Ce type d’apprentissage a aussi
           pour conséquence qu’il est relativement peu coûteux (notamment en ce qui concerne les
           ressources humaines) d’entraîner et de modifier ces systèmes. Par ailleurs, la TAS traite
@@ -460,13 +460,13 @@
         <alinea> Traduction GT (07/2013)</alinea>
       </para>
       <para>
-        <alinea> That&amp;rsquo;s another kettle of fish</alinea>
+        <alinea> That’s another kettle of fish</alinea>
       </para>
       <para>
-        <alinea> C&amp;rsquo;est une autre paire de manches</alinea>
+        <alinea> C’est une autre paire de manches</alinea>
       </para>
       <para>
-        <alinea> C&amp;rsquo;est une autre paire de manches</alinea>
+        <alinea> C’est une autre paire de manches</alinea>
       </para>
       <para>
         <alinea> The girl is attractive</alinea>
@@ -507,7 +507,7 @@
           de l’autre. Kuhn indique qu’« un système TABR aurait probablement omis jeune et mis
           attrayante », mais que puisque la traduction de <marquage typemarq="italique">Google
             Translate</marquage> est moins littérale, « La TAS a bien marché ici [sic] »<renvoi
-            idref="sdfootnote43sym" typeref="note">43</renvoi>. Que s&amp;rsquo;est-il passé en
+            idref="sdfootnote43sym" typeref="note">43</renvoi>. Que s’est-il passé en
           trois ans? La jeune fille est restée, mais elle devenue « attrayant », le système
           commettant une erreur qu’il n’avait pas faite au départ. Évidemment, il y a peu de chance
           qu’une telle chose se produise avec un système à base de règles, puisque les ressources
@@ -515,7 +515,7 @@
           illustre bien le prix à payer si l’on veut profiter des avantages qu’offre un système
           malléable : les modifications peuvent aller trop loin. Bien sûr l’exemple présenté ici est
           extrême, puisque <marquage typemarq="italique">Google Translate</marquage>
-          s&amp;rsquo;appuie en partie sur les modifications proposées par ses utilisateurs, mais la
+          s’appuie en partie sur les modifications proposées par ses utilisateurs, mais la
           situation peut facilement se reproduire dans un système implanté en entreprise si des
           mesures ne sont pas prises pour assurer une certaine qualité au corpus d’entraînement. Il
           n’en reste pas moins, que malgré ces accrocs, la TAS reste une approche fiable dont
@@ -525,7 +525,7 @@
       <para>
         <alinea> Qu’en est-il du traducteur, dans tout cela? Depuis les années 50, nous avons vu
           défiler cryptographes, mathématiciens, linguistes, informaticiens, statisticiens, mais pas
-          de traducteurs. Puisqu’il s&amp;rsquo;agissait d’ailleurs au départ de les éliminer, il ne
+          de traducteurs. Puisqu’il s’agissait d’ailleurs au départ de les éliminer, il ne
           faut donc pas se surprendre de constater que la majorité se soit tenue loin de la
           recherche en traduction automatique. Dans « The Proper Place of Men and Machines in
           Language Translation », Martin Kay montre bien le calvaire que les traducteurs, et leurs
@@ -552,13 +552,13 @@
       </para>
       <para>
         <alinea> Il faut malheureusement avouer que la situation a perduré jusqu’à tout récemment.
-          Pour illustrer ce que j&amp;rsquo;entends par là, je vous propose deux exemples
-          relativement récents dont j&amp;rsquo;ai été personnellement témoin.</alinea>
+          Pour illustrer ce que j’entends par là, je vous propose deux exemples
+          relativement récents dont j’ai été personnellement témoin.</alinea>
       </para>
       <para>
         <alinea> Au cours du congrès de l’OTTIAQ en 2008, où Pierre Isabelle, pionnier de la
           recherche en traduction automatique au Canada, venait présenter les résultats d’un banc
-          d’essai du tout dernier système de traduction automatique qui s&amp;rsquo;est tenu au
+          d’essai du tout dernier système de traduction automatique qui s’est tenu au
           Bureau de la traduction (BT). Portage, qui depuis a gagné nombre de compétitions
           internationales, avait très bien performé chez les traducteurs du Bureau de la traduction,
           lesquels ont une réputation de puristes à peu près inégalée. Ces derniers se voyaient
@@ -572,12 +572,12 @@
           d’ouvrage, confondus, est d’avoir espéré (ou craint) ne serait-ce qu’un instant, que la
           machine remplacerait l’humain dans la délicate (et mystérieuse) opération qu’est la
           traduction. Des représentations fictionnelles, comme le <marquage typemarq="italique"
-            >BabelFish</marquage>, que j&amp;rsquo;ai mentionné en introduction, ainsi que des
+            >BabelFish</marquage>, que j’ai mentionné en introduction, ainsi que des
           promesses telles que celles rapportées par les journalistes à l’occasion de la
           démonstration de Georgetown-IBM contribuent à perpétuer cette méprise.</alinea>
       </para>
       <para>
-        <alinea> Quelques années plus tard, en 2011, j&amp;rsquo;ai recueilli les commentaires de
+        <alinea> Quelques années plus tard, en 2011, j’ai recueilli les commentaires de
           quelques traducteurs du BT sur la question des technologies en traduction dans le cadre de
           ma scolarité de maîtrise. Ces traducteurs se sont tous montrés très conscients de la
           différence entre « traduction automatique » (traduction faite entièrement par un
@@ -591,20 +591,20 @@
           permettre de nous &amp;quot;débarrasser&amp;quot; de textes répétitifs en [sic] ennuyeux
           et de nous concentrer sur de réels défis. »<renvoi idref="sdfootnote46sym" typeref="note"
             >46</renvoi> L’avis d’un troisième traducteur est encore plus tranché. Bien qu’il ne
-          s&amp;rsquo;oppose pas à l’utilisation de la traduction automatisée, la traduction
+          s’oppose pas à l’utilisation de la traduction automatisée, la traduction
           automatique le rebute. Il explique : « Tant que ce procédé en sera encore à ses
-          balbutiements, cela ne m&amp;rsquo;intéresse pas et, au contraire, je dois le combattre et
-          m&amp;rsquo;opposer à son utilisation, voire son développement, si je veux sauvegarder mon
+          balbutiements, cela ne m’intéresse pas et, au contraire, je dois le combattre et
+          m’opposer à son utilisation, voire son développement, si je veux sauvegarder mon
           gagne-pain pour quelque temps encore. »<renvoi idref="sdfootnote47sym" typeref="note"
             >47</renvoi>
         </alinea>
       </para>
       <para>
         <alinea> Si ce type de prise de position sans équivoque tend lentement à disparaître,
-          c&amp;rsquo;est surtout parce que les professionnels de la traduction n’ont plus le choix
-          et doivent s&amp;rsquo;adapter. En effet, plus que l’informatisation du poste de travail,
-          qui a débuté dans les années 70 pour les grands cabinets, puis qui s&amp;rsquo;est
-          répandue chez les pigistes avec la montée de l’informatique personnelle, c&amp;rsquo;est
+          c’est surtout parce que les professionnels de la traduction n’ont plus le choix
+          et doivent s’adapter. En effet, plus que l’informatisation du poste de travail,
+          qui a débuté dans les années 70 pour les grands cabinets, puis qui s’est
+          répandue chez les pigistes avec la montée de l’informatique personnelle, c’est
           l’apparition d’une culture numérique à laquelle ils ne peuvent plus se soustraire qui met
           en branle un changement profond dans l’univers de la traduction. Car la localisation, soit
           « the linguistic and cultural adaptation of digital content to the requirements and locale
@@ -615,7 +615,7 @@
       </para>
       <para>
         <alinea> As a result of the digital revolution of the late twentieth century, text has
-          become part of digital content [&amp;hellip;] Underlying the informatics revolution is the
+          become part of digital content […] Underlying the informatics revolution is the
           convertibility, the ultimate translatability, of all content to the binary code of machine
           language. Computers, which initially only received text, now receive sound and images
           (both static and animated). At one level, the problem for the translator schooled in
@@ -623,7 +623,7 @@
           objects.</alinea>
       </para>
       <para>
-        <alinea> En somme, il s&amp;rsquo;agit de considérer la traduction à l’ère numérique, non
+        <alinea> En somme, il s’agit de considérer la traduction à l’ère numérique, non
           plus comme une étape d’un processus à automatiser, mais plutôt comme un processus à
           intégrer dans un contexte numérique. Il y a un peu plus de dix ans, Doug Robinson
           proposait un virage en ce sens : « it may be more fruitful to shift the discussion of
@@ -631,7 +631,7 @@
           of cyborg translation. The motto of this new approach would be: all translators are
             cyborgs. »<renvoi idref="sdfootnote49sym" typeref="note">49</renvoi></alinea>
             <alinea> Le traducteur et la machine, dit-il, forment une entité traduisante complexe et
-              organisée. Il ne s&amp;rsquo;agit pas de simple collaboration, mais de symbiose, l’un
+              organisée. Il ne s’agit pas de simple collaboration, mais de symbiose, l’un
               tirant profit des enseignements de l’autre. « The machine is one of the human’s limbs
               or organs. Together they are a cyborg. »<renvoi idref="sdfootnote50sym" typeref="note"
                 >50</renvoi>
@@ -646,7 +646,7 @@
               recadrer la traduction dans un contexte numérique.</alinea>
           </para>
           <para>
-            <alinea> Le cas de deux fansubbers d’animés japonais, que j&amp;rsquo;ai examiné dans
+            <alinea> Le cas de deux fansubbers d’animés japonais, que j’ai examiné dans
               des travaux précédents<renvoi idref="sdfootnote51sym" typeref="note">51</renvoi>, peut
               mettre en lumière de nouvelles dynamiques d’appropriation et de distribution
               culturelle qui sont soutenues par une relation à la technique exempte des préjugés de
@@ -662,17 +662,17 @@
               la langue de Shakespeare.</alinea>
           </para>
           <para>
-            <alinea> Ce que l’exemple de Berserk démontre par ailleurs c&amp;rsquo;est que les fans
+            <alinea> Ce que l’exemple de Berserk démontre par ailleurs c’est que les fans
               membres de ces communautés agissent à la fois comme commanditaires (même si l’échange
               d’argent est plutôt l’exception), producteurs, traducteurs, distributeurs, critiques
-              et consommateurs de « nouveaux » animés, en s&amp;rsquo;appropriant non seulement
+              et consommateurs de « nouveaux » animés, en s’appropriant non seulement
               toutes les étapes de production, mais aussi le produit en soi, l’adaptant selon une
               éthique qui leur est propre.</alinea>
           </para>
           <para>
             <alinea> En somme, si l’imaginaire traditionnel lié à TA, tant sur le plan de la
               recherche fondamentale, de la recherche appliquée et de l’utilisation professionnelle
-              est « frelaté » comme j&amp;rsquo;ai tenté ici de le démontrer, il est urgent, pour
+              est « frelaté » comme j’ai tenté ici de le démontrer, il est urgent, pour
               favoriser la poursuite des avancées technologiques et pour assurer la survie de la
               profession de traducteur, de recadrer l’utilisation des technologies de traduction
               automatique et automatisée à l’aide de nouvelles représentations plus positives. La
@@ -685,7 +685,7 @@
           <para>
             <alinea> Note finale : Cet article reprend en grande partie mes travaux précédents, mais
               les revisite à la lumière de nouvelles réflexions. Je remercie les éditeurs de
-              m&amp;rsquo;avoir permis de partager ces dernières. Voir la bibliographie pour les
+              m’avoir permis de partager ces dernières. Voir la bibliographie pour les
               références complètes.</alinea>
           </para>
           </section1>
@@ -736,12 +736,12 @@
             typemarq="italique">Concise History of the Language Sciences: from the Sumerians to
             the Cognitivists</marquage>, E. F. K. Koerner et R. E. Asher (dir.), Oxford,
             Pergamon Press, 1995, p. 431-445.</refbiblio>
-          <refbiblio> Hutchins, John, « The Origins of the Translator&amp;rsquo;s Workstation »,
+          <refbiblio> Hutchins, John, « The Origins of the Translator’s Workstation »,
             <marquage typemarq="italique">Machine Translation</marquage>, vol. 13,
             n<exposant>o</exposant> 4, 1998, p. 287-307.</refbiblio>
           <refbiblio> Hutchins, John, « Retrospect and Prospect in Computer-based Translation »,
-            <marquage typemarq="italique">Proceedings of MT Summit VII &amp;ldquo;MT in the
-              great translation era&amp;rdquo;</marquage>, Low Hwee Boon (dir.), Singapour, AAMT,
+            <marquage typemarq="italique">Proceedings of MT Summit VII “MT in the
+              great translation era”</marquage>, Low Hwee Boon (dir.), Singapour, AAMT,
             1999, p. 30-34.</refbiblio>
           <refbiblio> Hutchins, John, « Machine Translation over Fifty Years », <marquage
             typemarq="italique">Histoire Épistémologie Langage</marquage>, tome 23, fascicule 1,
@@ -789,7 +789,7 @@
         <refbiblio> Rosner, Michael, « Machine Translation and Human Translators », Malte,
             <marquage typemarq="italique">Sunday Times</marquage>, 25 avril 2005.</refbiblio>
         <refbiblio> Somers, Harold, <marquage typemarq="italique">Computers and Translation: A
-            Translator&amp;rsquo;s Guide</marquage>, John Benjamin, Amsterdam, 2003.</refbiblio>
+            Translator’s Guide</marquage>, John Benjamin, Amsterdam, 2003.</refbiblio>
         <refbiblio> TAUS, <marquage typemarq="italique">1954 Machine Translation Movie</marquage>
             [en ligne], 2010, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink"
               xlink:type="simple"
@@ -810,7 +810,7 @@
         <refbiblio> Whitecomb, Tony, « Statistical methods gaining ground », <marquage
             typemarq="italique">Language Industry Monitor</marquage>, n<exposant>o</exposant>
             11, Sept-Oct 1992, p. 1-3.</refbiblio>
-        <refbiblio> Zughoul, Muhammad Raji et Awatef Miz&amp;rsquo;Il Abu-Alshaar,
+        <refbiblio> Zughoul, Muhammad Raji et Awatef Miz’Il Abu-Alshaar,
             « English/Arabic/English Machine Translation: A Historical Perspective », <marquage
               typemarq="italique">Meta</marquage>, vol. 50, n<exposant>o</exposant> 3, 2005, p.
             1022-1041.</refbiblio>
@@ -849,11 +849,11 @@
       </note>
       <note id="sdfootnote5sym">
         <no>5</no>
-        <alinea> « [&amp;hellip;] as to the problem of mechanical translation, lui répond-il, I
+        <alinea> « […] as to the problem of mechanical translation, lui répond-il, I
           frankly am afraid the boundaries of words in different languages are too vague and the
           emotional and international connotations are too extensive to make any quasi mechanical
           translation scheme very hopeful. I will admit that basic English seems to indicate that we
-          can go further than we have generally done in the mechanization of speech. [&amp;hellip;]
+          can go further than we have generally done in the mechanization of speech. […]
           At the present time, the mechanization of language, beyond such a stage as the design of
           photoelectric reading opportunities for the blind, seems very premature.  » (Weaver, 1955,
           p. 19) Wiener, pourtant le mieux outillé pour attaquer le problème aux dires de Weaver,
@@ -874,7 +874,7 @@
       </note>
       <note id="sdfootnote8sym">
         <no>8</no>
-        <alinea> Première génération : approche directe (il s&amp;rsquo;agit d’une approche
+        <alinea> Première génération : approche directe (il s’agit d’une approche
           mot-à-mot, utilisant principalement des dictionnaires de correspondance). Weaver la
           mentionne surtout comme l’approche privilégiée dans l’état « actuel » de la recherche.
           (Weaver, <marquage typemarq="italique">op. cit.</marquage>, p. 18-20)</alinea>
@@ -936,8 +936,8 @@
         <alinea> Peter J. Wheeler, dans Machine Translation Today, relate l’anecdote suivante : « if
           it [Systran] did not produce the apocryphal sentence about steak and vodka, [it] certainly
           did translate <marquage typemarq="italique">La Cour de justice envisage la création d’un
-            cinquième poste d’avocat général</marquage> as &amp;ldquo;the yard of justice is
-          considering the creation of a fifth general avocado station&amp;rdquo; » (Peter Wheeler,
+            cinquième poste d’avocat général</marquage> as “the yard of justice is
+          considering the creation of a fifth general avocado station” » (Peter Wheeler,
           « Systran », <marquage typemarq="italique">Machine Translation Today: The State of the
             Art</marquage>, Margaret King (dir.), Édimbourg, Edinburgh University Press, 1987, p.
           192.)Pour les détails concernant « the apocryphal sentence about steak and vodka », ou les
@@ -977,7 +977,7 @@
       <note id="sdfootnote24sym">
         <no>24</no>
         <alinea> Harold Somers, <marquage typemarq="italique">Computers and Translation: A
-            Translator&amp;rsquo;s Guide</marquage>, John Benjamin, Amsterdam, 2003.</alinea>
+            Translator’s Guide</marquage>, John Benjamin, Amsterdam, 2003.</alinea>
       </note>
       <note id="sdfootnote25sym">
         <no>25</no>
@@ -1014,7 +1014,7 @@
       </note>
       <note id="sdfootnote31sym">
         <no>31</no>
-        <alinea> John Hutchins, « The Origins of the Translator&amp;rsquo;s Workstation », <marquage
+        <alinea> John Hutchins, « The Origins of the Translator’s Workstation », <marquage
             typemarq="italique">Machine Translation</marquage>, vol. 13, n<exposant>o</exposant> 4,
           1998, p. 15.</alinea>
       </note>
