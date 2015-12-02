@@ -31,7 +31,7 @@ declare variable $local:groupes := fn:doc('groupes.xml') ;
  :)
 declare function writeArticles($ids) as document-node()* {
   for $article in db:open('sens-public')//spip_articles[id_article = $ids]
-  let $path := 'Documents/udem/sensPublic/xml/'
+  let $path := 'xml/'
   let $file := 'sens-public-' || $article/id_article || '.xml'
   let $article := getArticle($article)
   return file:write($path || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
@@ -177,9 +177,9 @@ let $descripteurs :=
   for $id in db:open('sens-public')//spip_mots_articles[id_article = $article/id_article]/id_mot
     let $mot := db:open('sens-public')//spip_mots[id_mot = $id]
     let $entry := $local:groupes/list/entry
-    return if ( fn:data($mot/titre) = fn:data($entry/label) ) 
-      then <descripteur>{ fn:data($entry[fn:data(label) = fn:data($mot/titre)]/term) }</descripteur> 
-      else ()
+  return if ( fn:data($mot/titre) = fn:data($entry/label) ) 
+    then <descripteur>{ fn:data($entry[fn:data(label) = fn:data($mot/titre)]/term) }</descripteur> 
+    else ()
 return if ($descripteurs) 
   then <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">{$descripteurs}</grdescripteur>
   else ()
@@ -545,7 +545,7 @@ declare function img($node as element(img)+, $options as map(*)) {
 
 (: @todo create alinea :)
 declare function br($node as element(br), $options as map(*)) {
-  <lb/>
+  ()
 };
 
 (:~ 
