@@ -1,0 +1,195 @@
+<article xmlns="http://www.erudit.org/xsd/article" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="???" typeart="autre" lang="fr" ordseq="3">
+    <admin>
+        <infoarticle>
+            <idpublic scheme="doi">article1099</idpublic>
+            <pagination>
+                <ppage>!nonpertinent!</ppage>
+                <dpage>!nonpertinent!</dpage>
+            </pagination>
+        </infoarticle>
+        <revue id="ei50" lang="fr">
+            <titrerev>Sens Public</titrerev>
+            <titrerevabr>sp</titrerevabr>
+            <idissnnum>2104-3272</idissnnum>
+            <directeur sexe="masculin">
+                <fonction lang="fr">Directeur</fonction>
+                <identifiantpers source="3.14159.ninja/pers">MarVital-02091979</identifiantpers>
+                <identifiantpers source="catalogue.bnf.fr/ark:/">12148/cb15021926p</identifiantpers>
+                <nompers>
+                    <prenom>Marcello</prenom>
+                    <nomfamille>Vitali-Rosati</nomfamille>
+                </nompers>
+            </directeur>
+            <redacteurchef typerc="invite" idrefs="th1" sexe="masculin">
+                <fonction lang="fr">Rédacteur invité</fonction>
+                <nompers>
+                    <prenom>Michael</prenom>
+                    <nomfamille>Eberley-Sinatra</nomfamille>
+                </nompers>
+            </redacteurchef>
+            <redacteurchef typerc="invite" idrefs="th1" sexe="masculin">
+                <fonction lang="fr">Rédacteur invité</fonction>
+                <nompers>
+                    <prenom>Stefan</prenom>
+                    <nomfamille>Sinclair</nomfamille>
+                </nompers>
+            </redacteurchef>
+        </revue>
+        <numero id="ei01825">
+            <volume>!nonpertinent!</volume>
+            <nonumero>!nonpertinent!</nonumero>
+            <pub>
+                <periode>Octobre</periode>
+                <annee>2014</annee>
+            </pub>
+            <pubnum>
+                <date typedate="publication">2014-10-03</date>
+            </pubnum>
+            <grtheme id="th1">
+                <theme>Repenser le numérique au 21e siecle</theme>
+                <sstheme>!nonpertinent!</sstheme>
+            </grtheme>
+        </numero>
+        <editeur>
+            <nomorg>Université de Montréal</nomorg>
+        </editeur>
+        <prodnum>
+            <nomorg>Érudit</nomorg>
+        </prodnum>
+        <diffnum>
+            <nomorg>Érudit</nomorg>
+        </diffnum>
+        <schema nom="Erudit Article" version="3.0.0" lang="fr" />
+        <droitsauteur>Tous droits réservés ©
+            <nomorg>Sens Public</nomorg>, 2015</droitsauteur>
+    </admin>
+    <liminaire>
+        <grtitre>
+            <titre>Remediation et interaction dans le milieu textuel</titre>
+            <sstitre>!nonpertinent!</sstitre>
+        </grtitre>
+        <grauteur>
+            <auteur id="au1">
+                <nompers>
+                    <prenom>Elisabeth</prenom>
+                    <nomfamille>Routhier</nomfamille>
+                </nompers>
+
+                <identifiantpers source="3.14159.ninja/pers">EliRouth-87121974</identifiantpers>
+                <identifiantpers source="catalogue.bnf.fr/ark:/">12148/fewfkjkop</identifiantpers>
+                <affiliation>
+                    <alinea>Doctorante, Université de Montréal(
+                        <marquage typemarq="petitecap">UdeM</marquage>)</alinea>
+                </affiliation>
+                <courriel>
+                    <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" id="ls1" xlink:href="mailto:dorion-soulie.manuel_renaud@courrier.uqam.ca" xlink:type="simple">elisabethrouthier@hotmail.com</liensimple>
+                </courriel>
+            </auteur>>
+        </grauteur>
+        <resume typeresume="resume" lang="fr">
+            <alinea> Le texte littéraire est un milieu dans lequel différentes relations intermédiales peuvent prendre forme. En empruntant la notion de remédiation à Bolter et Grusin et en la déplaçant des technologies numériques vers le roman, cet article définit, dans un premier temps, trois procédés par lesquels le texte peut convoquer des modes appartenant conventionnellement à d’autres formes de médiation. Les points de rupture que ces procédés impliquent sont ensuite abordés à partir de théories de la lecture, pour justifier l’hypothèse selon laquelle un roman ayant une forte dynamique intermédiale peut accroître le degré d’activité du lecteur. Le roman Océan mer sert de terrain d’analyse pour expliciter le dynamisme des interactions qui caractérisent une telle production intermédiale</alinea>
+        </resume>
+        <resume typeresume="resume" lang="en">
+            <alinea>A literary text is a milieu in which different intermedial relations can occur. Borrowing on Bolter and Grusin’s notion of remediation and displacing the latter from digital technologies to literature, this article defines three strategies by which a novel can convoke modes that are conventionally related to other forms of mediation. The breaking points and the blanks that result from these intermedial strategies are then discussed from a reader-response perspective, to substantiate the hypothesis that a strong intermedial dynamic in a novel enhances the reader’s activity. Océan mer serves as a ground for an analysis that demonstrates the dynamism of the interactions that characterize such an intermedial object.</alinea>
+        </resume>
+        <grmotcle lang="fr">
+            <motcle>intermedialite</motcle>
+            <motcle>remediation</motcle>
+            <motcle source="http://catalogue.bnf.fr/ark:/" id="12148/cb11977381n">mediation</motcle>
+            <motcle>
+                <identifiantmotcle source="catalogue.bnf.fr/ark:/">12148/cb11977381n/UNIMARC</identifiantmotcle>
+                <valeur>frontières médiatiques</valeur>
+            </motcle>
+            <motcle>acte de lecture</motcle>
+            <motcle>Ocean mer</motcle>
+            <motcle>Alessandro Baricco</motcle>
+        </grmotcle>
+        <grmotcle lang="en">
+            <titre>Keywords</titre>
+            <motcle>Intermediality</motcle>
+            <motcle> Remediation</motcle>
+            <motcle>Mediation</motcle>
+            <motcle>Media borders</motcle>
+            <motcle>Act of reading</motcle>
+            <motcle>Océan Mer</motcle>
+            <motcle>Alessandro Baricco</motcle>
+        </grmotcle>
+    </liminaire>
+    <corps>
+        <section id="s1n1">
+            <no>1</no>
+            <para id="pa1">
+                <no>1</no>
+                <alinea>
+
+                </alinea>
+            </para>
+        </section>
+    </corps>
+    <partiesann lang="fr">
+        <merci>
+            <alinea>!nonpertinent!</alinea>
+        </merci>
+        <grnotebio>
+            <notebio id="nb1" idrefs="au1" lang="fr">
+                <alinea>!nonpertinent!</alinea>
+            </notebio>
+        </grnotebio>
+        <grbiblio>
+            <biblio>
+                <titre>Bibliographie</titre>
+                <refbiblio id="rb1">
+                    <titre>O Canada. Looking North for Economic Inspiration</titre>
+                    <auteur>
+                        <nompers>Barnes</nompers>
+                        <prenompers>Fred</prenompers>
+                        <identifiantpers source="3.14159.ninja/pers">BarnFred-87121974</identifiantpers>
+                        <identifiantpers source="catalogue.bnf.fr/ark:/">12148/fewfkjkop</identifiantpers>
+                    </auteur>
+                    <annee>2010</annee>
+                    <publication>The Weekly Standard</publication>
+                    <plein>
+                        <marquage typemarq="petitecap">Barnes</marquage> Fred, 2010, « O Canada. Looking North for Economic Inspiration »,
+                        <marquage typemarq="italique">The Weekly Standard, </marquage>vol. 15, no  36, 7 juin. </plein>
+                </refbiblio>
+                <refbiblio id="rb2">
+                   <!--
+                    <bib:Book rdf:about="urn:isbn:0472111140%209780472111145">
+                        <z:itemType>book</z:itemType>
+                        <dc:publisher>
+                            <foaf:Organization>
+                                <vcard:adr>
+                                    <vcard:Address>
+                                        <vcard:locality>Ann Arbor, Mich.; Wantage</vcard:locality>
+                                    </vcard:Address>
+                                </vcard:adr>
+                                <foaf:name>University of Michigan Press ; University Presses Marketing</foaf:name>
+                            </foaf:Organization>
+                        </dc:publisher>
+                        <bib:authors>
+                            <rdf:Seq>
+                                <rdf:li>
+                                    <foaf:Person>
+                                        <foaf:surname>Douglas</foaf:surname>
+                                        <foaf:givenname>J. Yellowlees</foaf:givenname>
+                                    </foaf:Person>
+                                </rdf:li>
+                            </rdf:Seq>
+                        </bib:authors>
+                        <dc:title>The end of books or books without end?: reading interactive narratives.</dc:title>
+                        <dc:date>1999</dc:date>
+                        <z:language>English</z:language>
+                        <dc:identifier>ISBN 0472111140 9780472111145</dc:identifier>
+                        <z:shortTitle>The end of books or books without end?</z:shortTitle>
+                        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+                    </bib:Book>
+                    -->
+                    <marquage typemarq="petitecap">Barnes</marquage> Fred, 2011a, « Triumph of the Conservatives »,
+                    <marquage typemarq="italique">The Weekly Standard</marquage>, vol. 16, no 33, 16 mai. </refbiblio>
+                <refbiblio id="rb3">
+                    <marquage typemarq="petitecap">Barnes</marquage> Fred, 2011b, « Lessons From Canada »,
+                    <marquage typemarq="italique">National Affairs</marquage>, été : 77- 90. </refbiblio>
+            </biblio>
+        </grbiblio>
+    </partiesann>
+</article>
