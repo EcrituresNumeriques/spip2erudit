@@ -325,17 +325,17 @@ return
   switch ($match)
   case ($match[fn:contains(fn:group[@nr='1'], "Résumé")]) 
     return <resume lang="fr">
-             <titre>{$match/fn:group[@nr='1']/text()}</titre>
+             (: <titre>{$match/fn:group[@nr='1']/text()}</titre> :)
              <alinea>{$match/fn:group[@nr='2']/text()}</alinea>
            </resume>
   case ($match[fn:contains(fn:group[@nr='1'], "Abstract")]) 
     return <resume lang="en">
-             <titre>{$match/fn:group[@nr='1']/text()}</titre>
+             (: <titre>{$match/fn:group[@nr='1']/text()}</titre> :)
              <alinea>{$match/fn:group[@nr='2']/text()}</alinea>
            </resume>
   case ($match[fn:contains(fn:group[@nr='1'], "Resumen")]) 
     return <resume lang="de">
-             <titre>{$match/fn:group[@nr='1']/text()}</titre>
+             (: <titre>{$match/fn:group[@nr='1']/text()}</titre> :)
              <alinea>{$match/fn:group[@nr='2']/text()}</alinea>
            </resume>
   default return ()
