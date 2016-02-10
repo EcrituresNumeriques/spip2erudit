@@ -515,8 +515,10 @@ declare function strong($node as element(strong)+, $options as map(*)) {
 };
 
 declare function sup($node as element(sup)+, $options as map(*)) {
-  if (fn:normalize-space($node) != '') then <exposant>{ passthru($node, $options) }</exposant>
-  else ()
+  switch ($node)
+  case ($node[fn:contains(@href, 'sym')]) return passthru($node, $options)
+  case (fn:normalize-space($node) != '') return <exposant>{ passthru($node, $options) }</exposant>
+  default return ()
 };
 
 declare function span($node as element(span)+, $options as map(*)) {
