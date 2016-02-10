@@ -32,7 +32,7 @@ declare variable $local:groupes := fn:doc('groupes.xml') ;
 declare function writeArticles($ids) as document-node()* {
   for $article in db:open('sens-public')//spip_articles[id_article = $ids]
   let $path := 'xml/'
-  let $file := 'sens-public-' || $article/id_article || '.xml'
+  let $file := $article/id_article || '-article' || '.xml'
   let $article := getArticle($article)
   return file:write($path || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
 };
@@ -130,7 +130,7 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote ) as 
         <nbrefbiblio>{ fn:count($biblio//refbiblio) }</nbrefbiblio>
         <nbnote>{ fn:count($grnote//note) }</nbnote>
       </infoarticle>
-      <revue lang="fr" id="spxx">
+      <revue lang="fr" id="sp01868">
         <titrerev>Sens public</titrerev>
         <titrerevabr>SP</titrerevabr>
         <idissnnum>2104-3272</idissnnum>
