@@ -29,7 +29,10 @@ declare variable $local:groupes := fn:doc('groupes.xml') ;
  : This function writes the articles files
  : @return for each article write an xml file named with its id prefixed by "sens-public-" in the $path directory
  :)
-declare function writeArticles($ids) as document-node()* {
+declare function writeArticles($refs as map(*)*) as document-node()* {
+  let $ids := 
+    for $ref in $refs
+    return map:get($ref, 'num')
   for $article in db:open('sens-public')//spip_articles[id_article = $ids]
   let $path := 'xml/'
   let $file := $article/id_article || '-article' || '.xml'
@@ -636,8 +639,11 @@ declare function removeNilled($node as node()) as node()? {
   default return $node
 };
 
-let $refs := fn:doc('identifiants.xml')
-let $id1 := ('1133', '1139', '1136' ,'1137', '1135', '1134', '1138') 
-let $id2 := ('1090', '1145', '1099' ,'1164', '1152', '1121', '1020', '1011', '990', '997', '1123' ) 
-let $ids := ($id1, $id2)
-return writeArticles($ids)
+let $refs := for $article in fn:doc('identifiants.xml')//article
+  return map { 
+    'id' : fn:data($article/@id),
+    'num' : fn:data($article),
+    'vol' : fn:data($article/parent::*/@id)
+    }
+
+return writeArticles($refs)
