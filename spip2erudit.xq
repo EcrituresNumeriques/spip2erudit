@@ -30,19 +30,19 @@ declare variable $local:groupes := fn:doc('groupes.xml') ;
  : @return for each article write an xml file named with its id prefixed by "sens-public-" in the $path directory
  :)
 declare function writeArticles($refs as map(*)*) as document-node()* {
-  let $ids := 
-    for $ref in $refs
-    return map:get($ref, 'num')
-  for $article in db:open('sens-public')//spip_articles[id_article = $ids]
-  let $path := 'xml/'
-  let $file := $article/id_article || '-article' || '.xml'
-  let $article := getArticle($article)
-  return file:write($path || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
+  let $path := 'Documents/udem/stylo/xml/'
+  for $ref in $refs
+  return 
+    let $article := db:open('sens-public')//spip_articles[id_article = map:get($ref, 'num')]
+    let $file := map:get($ref, 'id') || '-article' || '.xml'
+    let $article := getArticle($article, $ref)
+    return file:write($path || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
 };
 
 (:~ 
  : This function built the article content
  : @param $article the SPIP article
+ : @param $ref the article references (id, num, vol, n)
  : @return an xml erudit article segment
  :
  : @todo clean the namespaces declaration
@@ -51,7 +51,7 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
 declare 
   %output:method('xml')
   %output:indent('yes')
-function getArticle( $article as element() ) as element() {
+function getArticle( $article as element(), $ref as map(*) ) as element() {
   let $content := getContent($article/texte, map{ '':'' })
   let $corps := <corps>{getRestruct(getCleaned($content))}</corps>
   let $biblio := getBiblio($content)
@@ -61,7 +61,7 @@ function getArticle( $article as element() ) as element() {
   return 
     <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
       xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd"
-      qualtraitement="complet" idproprio="009308ar" typeart="autre" lang="fr" ordseq="1">{ 
+      qualtraitement="complet" idproprio="{map:get($ref, 'id')}" typeart="autre" lang="fr" ordseq="1">{ 
         $admin, 
         $liminaire, 
         $corps,
@@ -147,6 +147,7 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote ) as 
           <date>{ getDate($article, 10) }</date>
         </pubnum>
         <grtheme>
+          (: @todo something :)
           <theme>Langues &amp; Normes</theme>
         </grtheme>
       </numero>
@@ -639,11 +640,16 @@ declare function removeNilled($node as node()) as node()? {
   default return $node
 };
 
+(:~ 
+ : get the articles references
+ : @return a map sequence with the article references from the identifiants.xml file
+ :)
 let $refs := for $article in fn:doc('identifiants.xml')//article
-  return map { 
-    'id' : fn:data($article/@id),
-    'num' : fn:data($article),
-    'vol' : fn:data($article/parent::*/@id)
-    }
+return map { 
+  'id' : fn:data($article/@id),
+  'num' : fn:data($article),
+  'vol' : fn:data($article/parent::*/@id),
+  'n' : fn:data($article/@n)
+  }
 
 return writeArticles($refs)
