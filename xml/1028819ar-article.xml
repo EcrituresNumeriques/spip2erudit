@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd" qualtraitement="complet" idproprio="1028819ar" typeart="autre" lang="fr" ordseq="1">
+  <admin>
+    <infoarticle>
+      <idpublic scheme="doi">null</idpublic>
+      <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
+        <descripteur>Internet</descripteur>
+      </grdescripteur>
+      <nbpara>14</nbpara>
+      <nbmot>2634</nbmot>
+      <nbfig>0</nbfig>
+      <nbtabl>0</nbtabl>
+      <nbimage>0</nbimage>
+      <nbaudio>0</nbaudio>
+      <nbvideo>0</nbvideo>
+      <nbrefbiblio>0</nbrefbiblio>
+      <nbnote>6</nbnote>
+    </infoarticle>
+    <revue id="sp01868" lang="fr">
+      <titrerev>Sens public</titrerev>
+      <titrerevabr>SP</titrerevabr>
+      <idissnnum>2104-3272</idissnnum>
+      <directeur sexe="masculin">
+        <nompers>
+          <prenom>Marcello</prenom>
+          <nomfamille>Vitali-Rosati</nomfamille>
+        </nompers>
+      </directeur>
+      <redacteurchef typerc="invite" sexe="masculin">
+        <fonction lang="fr"/>
+        <nompers>
+          <prenom>Michael E.</prenom>
+          <nomfamille>Sinatra</nomfamille>
+        </nompers>
+      </redacteurchef>
+      <redacteurchef typerc="invite" sexe="masculin">
+        <fonction lang="fr"/>
+        <nompers>
+          <prenom>Stéfan</prenom>
+          <nomfamille>Sinclair</nomfamille>
+        </nompers>
+      </redacteurchef>
+    </revue>
+    <numero id="sp01946">
+      <pub>
+        <annee>2013</annee>
+      </pub>
+      <pubnum type="publication">
+        <date>2013-01-22</date>
+      </pubnum>
+      <grtheme id="">
+        <theme>Langues &amp; Normes</theme>
+      </grtheme>
+    </numero>
+    <editeur>
+      <nomorg>Département des littératures de langue française</nomorg>
+    </editeur>
+    <prod>
+      <nomorg>Sens public</nomorg>
+    </prod>
+    <prodnum>
+      <nomorg>Sens public</nomorg>
+    </prodnum>
+    <diffnum>
+      <nomorg>Sens public</nomorg>
+    </diffnum>
+    <histpapier>
+      <alinea>néant</alinea>
+    </histpapier>
+    <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
+    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+  </admin>
+  <liminaire>
+    <grtitre>
+      <titre>Après le dernier clic : que signifie mourir sur le web ?</titre>
+    </grtitre>
+    <grauteur>
+      <auteur id="spAuthor1010">
+        <nompers>
+          <prenom>Peppe</prenom>
+          <nomfamille>Cavallari</nomfamille>
+        </nompers>
+      </auteur>
+    </grauteur>
+    <resume lang="fr">
+             (: <titre>Résumé</titre> :)
+             <alinea> L’expérience de la mort sur le web révèle un paradoxe évident, celui de sites ou de profils abandonnés par leurs 'propriétaires', des pages qui deviennent alors des cadavres numériques, leur définitive inactivité équivalant à la mort. Il s’agit cependant d’une mort qui ne correspond pas à une disparition. Au contraire, nous sommes devant une mort temporaire, qui continue à être visible même si tout processus d’écriture, l'écriture polymorphe au fondement de notre existence numérique, s’est arrêté.</alinea>
+    </resume>
+    <grmotcle lang="fr">
+      <motcle>Monde numérique</motcle>
+      <motcle>Philosophie</motcle>
+      <motcle>Politique et société</motcle>
+      <motcle>Internet</motcle>
+      <motcle>Écritures numériques et éditorialisation</motcle>
+      <motcle>Repenser le numérique au 21e siècle</motcle>
+    </grmotcle>
+  </liminaire>
+  <corps>
+    <section>
+      <para>
+        <alinea>
+	Le thème de la mort est de plus en plus associé à la réflexion sur le numérique : en octobre dernier à Londres, lors du <marquage typemarq="italique">Digital Death Day</marquage>, dans la conférence <marquage typemarq="italique">Where does your data go when you die?</marquage> (<marquage typemarq="italique">Où vont vos données quand vous mourrez ?</marquage>), a été abordée la question de la survivance numérique face à la mort physique à travers l’étude d’une société américaine (<marquage typemarq="italique">Entrustet</marquage>) spécialisée dans la gestion des comptes Internet des défunts. Facebook, par exemple, comptabilisant environ 5 millions de profils inactifs pour cause de décès &amp;ndash; dont 1,8 million de personnes décédées pendant l’année 2011 &amp;ndash;, va devenir progressivement « le plus grand cimetière de la planète », comme l’écrit Anne-Florence Pasquier. Le sort de nos données <marquage typemarq="italique">post mortem</marquage> a également attiré l’attention de Tristan Mendès France et de Jean-Michel Besnier, qui &amp;ndash; à propos de cette nouvelle éternité et donc, de cette étrange eschatologie numérique &amp;ndash; parlent d’un « retour de l’utopie », c&amp;rsquo;est-à-dire de l’immortalité. Louise Merzeau a quant à elle dénoncé un vide juridique concernant le traitement posthume de nos traces, au centre de la relation entre notre <marquage typemarq="italique">présence</marquage> (ou <marquage typemarq="italique">identité</marquage>,<marquage typemarq="italique"> personne</marquage>) numérique et notre vie, ou, pour mieux dire, notre mort. Ce vide, selon elle, manifeste « le refus de la société de l’information de penser l’oubli autrement qu’en le considérant comme une sorte de <marquage typemarq="italique">bug</marquage> ».</alinea>
+      </para>
+      <para>
+        <alinea>
+	Ce qui réunit ces réflexions (et d’autres) sur la question de la mort dans le monde numérique est, en fait, la prise en compte de la mort physique face à la résistance, plus ou moins passive, de notre existence sur le web. Ainsi, on continue d’attribuer à notre personne numérique une valeur existentielle inférieure à celle de notre personne physique, laquelle, selon cette conception, semble être la seule capable de mourir. De mourir comme tout ce qui existe.</alinea>
+      </para>
+      <para>
+        <alinea>
+	<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href=""/> Contre cette vision qui met le numérique à coté du réel, j&amp;rsquo;essaie de dire ici que : a) si on légitime notre présence numérique comme étant une présence authentiquement humaine, b) si on assume notre être-sur-le-web comme la dernière façon d’habiter le monde et non plus comme l’expérience facultative de l’usager, c) si on accepte l’évidence que notre vie habite toujours plus le web, celui-ci étant désormais la connexion entre tous les objets actuels et possibles de notre réalité, d) en somme, si on adopte la vision de la philosophie qui étudie notre expérience (du) numérique, il faut alors accorder à cette expérience (que nous pouvons appeler, en la considérant dans l’ensemble de ses actes, de ses situations et ses émotions, existence) tous les cas, toutes les circonstances existentielles que nous avons accordés depuis toujours à notre vie avant-numérique, donc à la mort aussi. Sinon, nous continuerons d’observer notre présence numérique comme quelque chose d’éphémère et d’irréel, comme continue à le faire une certaine sociologie qui parle encore du web comme d’un monde irréel et imaginaire, un monde qui n’existe pas. L’objectif de ma réflexion est justement celui de tester les prémisses d’une thanatologie numérique élaborant une théorie de la mort adaptée exclusivement à la spécificité de la réalité numérique. Une réalité qui nous oblige déjà à nous poser des questions éthiques et qui, tôt ou tard, nous suggérera aussi une liste de problèmes et de réflexions bioéthiques : la bioéthique numérique nous attend.</alinea>
+      </para>
+      <titre2>
+	Un objet numérique paradoxal : le surmourant</titre2>
+      <para>
+        <alinea>
+	En naviguant, on tombe souvent sur des blogs, sur des sites d’associations politiques ou culturelles, sur des profils personnels ou de groupes présents sur les réseaux sociaux où l’on voit bien que personne n’exerce plus aucune activité : comme des îles inhabitées, comme des maisons abandonnées, le temps semble s&amp;rsquo;y être arrêté à la dernière mise à jour, à la dernière publication qui remonte à six mois, un an, trois ans. Ces pages oubliées et cependant encore là témoignent d’une envie passée, d’une tentative avortée ; ces pages immobiles, pour lesquelles personne ne <marquage typemarq="italique">fait </marquage>quelque chose, sont la preuve mélancolique de l’échec d’une cause, l’échec d’un projet collectif ou individuel qui a vu le jour et, après, s’est perdu. Elles sont alors les ruines, les restes d’une représentation de soi menée par quelqu’un qui, de toute évidence, s’est arrêté, s’est ennuyé, s’est repenti. Alors, dans les incessantes marées du web, au fil d’une écriture qui se régénère à travers la transmission continue de données, il n’y a pas seulement des formes de vies actuelles et d’activités palpitantes, allumées par la connexion quotidienne : on y trouve aussi des épaves, comme des débris sur les rivages.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Ces épaves sont les morts du web, les cadavres numériques, des morts qui ne meurent pas une fois pour toutes car ils sont encore là, ils ne meurent pas définitivement : ils meurent indéfiniment. Je vais appeler ce qui meurt sur le web le « surmourant », c’est-à-dire celui qui continue à mourir après sa mort, une mort cérébrale certifiée par l’absence d’activité, mais paradoxale, car elle ne procure pas la perte de visibilité.</alinea>
+      </para>
+      <titre2>
+	L’éternité de la visibilité</titre2>
+      <para>
+        <alinea>
+	Le concept de « mort » est lié, depuis toujours, à celui de « disparition », au point que le mot disparition est devenu un euphémisme ambigu&amp;euml; du mot mort dans certaines nécrologies : mourir signifie disparaître, n’être plus là, s’engouffrer dans le noir, ne plus être visible. On peut penser à une personne « disparue », on peut se souvenir d’elle bien sûr, mais on ne peut pas la voir (sauf en rêve), car son corps est ailleurs, hors de la visibilité.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Exister donc signifie être visible, et mourir devenir invisible. Sur le web, cette incontestable dichotomie assume des traits bien différents. Agir et être présent, être-dans-le-monde-numérique (pour employer les tirets chers à Heidegger), signifie se rendre visible, mais aussi lisible. On ne peut pas exister sur le web sans accéder à une visibilité qui n’est pas secondaire à quelque chose d’autre : ce qui existe sur le web existe puisqu’il est visible et lisible, il occupe un espace sur la surface de mon écran, donc il est là. Cette visibilité, qui est la condition de possibilité de notre existence numérique, ne renvoie pas à un <marquage typemarq="italique">ailleurs, </marquage>il n’y a pas quelque chose d’autre, rien qui soit méta-visible : un site web ne cache pas son âme, il est complètement révélé, il est ce qu’il faut qu’il soit et il est là où il faut qu’il se trouve, à son adresse.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Chacun, en tant qu’usager, vise une surface où tout est visible ; chacun agit par sa propre visibilité (la visibilité de son compte, de son accès à la plate-forme) dans une réalité du « tout-visible » qui semble abolir le concept même d’invisibilité : le web transforme tout en objet visible, ce qui n’est pas visible n’existe pas. Sur le web alors, il n’y a que ce qui s’y est révélé avec des signes de reconnaissance simples et fiables, et &amp;ndash; par-dessus tout &amp;ndash; égaux pour tous : l’adresse, le nom, la page d’accueil. En passant de l’invisible (invisible, évidemment, sur notre écran) au visible, de ce côté-là de mon écran l’essentiel est <marquage typemarq="italique">visible</marquage> à mes yeux. Sur le web, nous habitons une visibilité totale, nous bougeons où tout et tous doivent être vus. Dans un espace invisible, nous devenons visibles. Cette visibilité irrépressible, cette techno-physiologique vidéo-dépendance est la structure primordiale de notre existence numérique : donc, si exister (dans-le-monde-numérique) signifie être visible, j’existe (dans-le-monde-numérique) jusqu’au moment où je suis visible indépendamment de mon éventuelle « disparition » physique qui peut se produire de ce côté-ci de l’écran.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Les objets réalisés par cette exceptionnelle visibilité sont éternels dès leur origine, car une grande partie de ce qui, sur le web, se rend visible est quelque chose qui est toujours, pour ainsi dire, déjà passé. Pensons aux photos avec lesquelles chacun construit son corps numérique dans un réseau social. La photo est quelque chose qui survient dans le passé, elle dit que je ne suis plus là et, en même temps, fait de telle façon que je sois toujours là, à travers mon image. Elle crée un moment passé, et s’occupe continuellement de ce moment pour ne pas le faire passer, ne pas le faire passer dans l’invisible, c’est-à-dire pour ne pas le faire mourir. C’est cela que l’on veut dire quand on dit que la photo immortalise : l’immortalité en question est l’immortalité de celui qui, peut-être, est déjà mort en dehors de la photo mais, étant dans la photo, passé devant l’objectif, est visible pour toujours. L’immortalité que la photo rend possible est donc exactement le contraire de l’immortalité de Dieu : celui-ci est immortel car il est invisible, alors que dans la photo c’est justement la visibilité qui nous rend immortels, et c’est notre passé qui nous garantit de pouvoir dire, comme Neruda, « J’avoue avoir vécu ». Étant donné que notre présence numérique est une présence visuelle, elle est une construction de nous-mêmes qui est forcément posthume, donc forcément éternelle.</alinea>
+      </para>
+      <titre2>
+	Le corps écrit</titre2>
+      <para>
+        <alinea>
+	L’unique possibilité que nous avons d’échapper à cette immortalité forcée, l’immortalité du « surmourant », se trouve dans l’écriture. Le web est un espace de regards et de lecture puisqu’il est un espace d’images et d’écriture : mon corps numérique est un corps visible et lisible, il est un corps vidéo-graphique. Avec le mot <marquage typemarq="italique">corpus</marquage>, le latin n’indique pas seulement le corps physique, mais aussi un ensemble d’écrits, comme dans le cas de la compilation des lois, des règles, des normes, bref des écrits &amp;ndash; que l’on appelle <marquage typemarq="italique">Corpus Iuris Civilis </marquage>&amp;ndash; voulus par l’empereur Justinien pour systématiser et mettre à jour les lois de la tradition juridique romaine. Ce <marquage typemarq="italique">Corpus</marquage> était l’incarnation écrite d’un idéal, évidemment l’idéal de justice, et également l’incarnation écrite du <marquage typemarq="italique">civis romanus,</marquage> idéal dans une époque de transition. <marquage typemarq="italique">Corpus</marquage> est ce qui se tient. Dans les musées du monde entier, on garde des écrits qui ont marqué l’histoire et la civilisation comme on le fait des œuvres d’art, et on les offre à la visite des gens comme on le ferait avec un tableau ou une statue. Il n’est pas nécessaire de pouvoir lire chaque mot gravé sur une pierre ou signé sur un papyrus pour en apprécier le sens et ressentir l’éclat de l’avoir là devant nous. C’est le fait d’être visible, même s&amp;rsquo;il n’est pas forcément lisible, qui suffit à notre émotion, comme face au Discobole de Myron ou au masque d’Agamemnon.</alinea>
+      </para>
+      <para>
+        <alinea>
+	L’écriture, pour être possible en tant qu’écriture &amp;ndash; et donc en tant que lecture &amp;ndash;, a besoin d’un support : ce support constitue une partie indispensable, grâce à lui l’écriture se tient en tant que corps. Sur le web, le support est une page excentrique, une page qui n’est presque jamais blanche, qui est déjà écrite ou en train d’être écrite, et sur laquelle on peut également trouver des images : le support est alors le même pour un écrit et une photo, dans une interpénétration vidéo-graphique toujours plus stricte. Notre écriture participe à la physiologie de notre corps numérique, elle est une partie essentielle de sa réification car notre personne numérique se tient grâce à la série de choses que, partout, nous écrivons. Nos écrits mettent à jour notre personne numérique en produisant des contenus qui trompent notre identité avec l’expression de notre pensée. Même l’identité purement numérique, par exemple l’identité artificielle des femmes que l’on peut rencontrer sur des sites pornographiques, a besoin elle aussi d’écrire pour exister : elle use, en fait, d’un programme d’écriture automatique qui crée chez l’interlocuteur l’impression d’une véritable communication, d’une présence authentique, d’une personne réelle. D’ailleurs, notre silhouette numérique a besoin de l’écriture pour construire son intimité, pour retrouver, dans la dimension du « tout-visible », son invisibilité, son intériorité, c’est-à-dire la dimension de la réflexion et de la confidence, du secret que nous ne voulons révéler qu’à une seule personne. Mes photos sont exposées à tous dans la vitrine, mais ce que je peux écrire dans le chat est privé, c’est là le seul endroit privé dans lequel nous pouvons, justement grâce à l’écriture, nous cacher.</alinea>
+      </para>
+      <titre2>
+	L’action de l’écriture</titre2>
+      <para>
+        <alinea>
+	Cette existence forcément vidéo-graphique n’a pas besoin de se traduire directement par des mots et des phrases pour se manifester car, pour publier un lien sur son profil ou exprimer une opinion favorable ou négative (le pouce d’approbation ou de désapprobation selon le symbole utilisé, entre autres, par Youtube), il suffit de cliquer avec la souris. Et ce clic atteint son but à travers un processus d’écriture, l’écriture de codes et de caractères. Bien évidemment, une écriture &amp;ndash; celle-ci alphanumérique &amp;ndash; est de toute façon une écriture qui a un sens, le sens de ce que nous voulons faire : cette écriture est ce dont nous avons besoin pour lire un journal en ligne, pour regarder une vidéo, pour accomplir un simple copier-coller d’une page à une autre.</alinea>
+      </para>
+      <para>
+        <alinea>
+	En somme, si sur le web la vie coïncide avec l’écriture, l’agonie et la mort y sont celles d’une écriture qui n’écrit plus : si le numérique est un flux continu, ce flux reste toujours un flux d’écriture. Exister sur le web signifie justement se faire traverser par cette écriture liquide qui, inévitablement, nous renverse et nous anime : nous tous, étant numériquement vivants, sommes des écrits en plus d’être des écrivains, car quand nous débarquons sur le web nous trouvons ce fleuve qui est déjà là, en train de couler sans cesse, et il faut s’y baigner, il faut se laisser emporter par sa force vivifiante qui nous transforme en corps-texte. C’est exactement le flux d’écriture qui peut nous éclairer : pour être entièrement visible sur le web il faut écrire, et apparaître <marquage typemarq="italique">online</marquage> dans la discussion instantanée signifie être prêt à écrire. Donc, le vivant numérique est celui qui écrit, alors que le « surmourant » est celui qui n’écrit plus, celui qui n’est plus là pour se laisser transformer en écrit, en un corps qui est aussi un corps à écrire, à enregistrer et à lire. Bien que le <marquage typemarq="italique">PageRank</marquage> marginalise les « surmourants », les rétrogradant au fond de notre résultat de recherche, ils sont là cependant, avec leur nom, leur adresse, leur espace dans le stockage des données. Ils sont obligés de « surmourir » devant nous. Le web les retient, les accumule, comme dans une liste funèbre d’ouvrages inaccomplis, comme un carnet d’ébauches d’existences rêvées. Leur présence, due probablement à la paresse quand elle n’est pas due à la « disparition », la mort physique, est un état d’abandon qui nous permet de trouver la profondeur temporelle &amp;ndash; autrement invisible &amp;ndash; du web, où ce que l’on peut appeler « passé » n’est pas quelque chose qui a disparu de notre champ de vision mais ce qui ne suit plus, depuis longtemps, le courant de l’écriture, bien qu’elle soit encore là, visible. Cette image posthume sera à jamais ce que toute personne est selon H&amp;ouml;lderlin, « un signe en attente d’interprétation ».</alinea>
+      </para>
+      <para>
+        <alinea>
+	 </alinea>
+      </para>
+      <grnote>
+        <titre>Notes</titre>
+      </grnote>
+    </section>
+  </corps>
+  <partiesann>
+    <grnote>
+      <titre>Notes</titre>
+      <note id="sdfootnote1sym">
+        <no>1</no>
+        <alinea>
+	 <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.illustre.ch/Facebook-profil-personne-decedee-deces-Facebook-mort-Facebook-profil-mort-Facebook_163198_.html">Voir en ligne.
+	</liensimple>
+        </alinea>
+      </note>
+      <note id="sdfootnote2sym">
+        <no>2</no>
+        <alinea>
+	 </alinea>
+      </note>
+      <note id="sdfootnote3sym">
+        <no>3</no>
+        <alinea>
+	<marquage typemarq="italique"> </marquage>Jean-Michel Besnier,<marquage typemarq="italique"> Demain, les posthumains</marquage>, Paris,<marquage typemarq="italique"> </marquage>Hachette Littératures, 2009.</alinea>
+      </note>
+      <note id="sdfootnote4sym">
+        <no>4</no>
+        <alinea>
+	 Louise Merzeau, <marquage typemarq="italique">Les données post mortem</marquage>, Hermès, n53, 2009.</alinea>
+      </note>
+      <note id="sdfootnote5sym">
+        <no>5</no>
+        <alinea>
+	 Je pense surtout aux ouvrages de Milahd Doueihi, Bernard Stiegler, Michel Serres, Marcello Vitali Rosati, Maurizio Ferraris.</alinea>
+      </note>
+      <note id="sdfootnote6sym">
+        <no>6</no>
+        <alinea>
+	 Les réflexions, entre autres, de Jacqueline Barus-Michel, représentent l’approche théorique prédominante : « Le virtuel permet de voir et d’explorer des espaces inexistants&amp;hellip; Tout voir, même ce qui n’existe pas, ce qui a existé, ce qui pourrait exister, un monde où la réalité est égal à l’imaginaire », Voir (auteur), « Une société sur écrans », in <marquage typemarq="italique">Les tyrannies de la visibilité</marquage>, Toulouse, Éditions Érès, 2011, p. 27.</alinea>
+      </note>
+    </grnote>
+  </partiesann>
+</article>

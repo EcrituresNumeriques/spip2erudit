@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd" qualtraitement="complet" idproprio="1028805ar" typeart="autre" lang="fr" ordseq="1">
+  <admin>
+    <infoarticle>
+      <idpublic scheme="doi">null</idpublic>
+      <nbpara>23</nbpara>
+      <nbmot>1713</nbmot>
+      <nbfig>0</nbfig>
+      <nbtabl>0</nbtabl>
+      <nbimage>0</nbimage>
+      <nbaudio>0</nbaudio>
+      <nbvideo>0</nbvideo>
+      <nbrefbiblio>0</nbrefbiblio>
+      <nbnote>7</nbnote>
+    </infoarticle>
+    <revue id="sp01868" lang="fr">
+      <titrerev>Sens public</titrerev>
+      <titrerevabr>SP</titrerevabr>
+      <idissnnum>2104-3272</idissnnum>
+      <directeur sexe="masculin">
+        <nompers>
+          <prenom>Marcello</prenom>
+          <nomfamille>Vitali-Rosati</nomfamille>
+        </nompers>
+      </directeur>
+    </revue>
+    <numero id="sp01945">
+      <pub>
+        <annee>2015</annee>
+      </pub>
+      <pubnum type="publication">
+        <date>2015-03-02</date>
+      </pubnum>
+      <grtheme id="">
+        <theme>Langues &amp; Normes</theme>
+      </grtheme>
+    </numero>
+    <editeur>
+      <nomorg>Département des littératures de langue française</nomorg>
+    </editeur>
+    <prod>
+      <nomorg>Sens public</nomorg>
+    </prod>
+    <prodnum>
+      <nomorg>Sens public</nomorg>
+    </prodnum>
+    <diffnum>
+      <nomorg>Sens public</nomorg>
+    </diffnum>
+    <histpapier>
+      <alinea>néant</alinea>
+    </histpapier>
+    <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
+    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+  </admin>
+  <liminaire>
+    <grtitre>
+      <titre>Langues &amp; Normes</titre>
+    </grtitre>
+    <grauteur>
+      <auteur id="spAuthor1105">
+        <nompers>
+          <prenom>François</prenom>
+          <nomfamille>Viangalli</nomfamille>
+        </nompers>
+      </auteur>
+    </grauteur>
+    <resume lang="fr">
+             (: <titre>Résumé</titre> :)
+             <alinea> Le dossier {Langues &amp; Normes} est le fruit d’une série d’études réalisée par des spécialistes, linguistes ou juristes, sur la question des rapports entre la langue, le droit et la politique. Initialement présentés sous forme de conférences au cours d’une journée d’études organisée par le Centre d’études sur la sécurité internationale et les coopérations européennes (CESICE) de l’Université de Grenoble-Alpes en 2013, les travaux en question sont ici publiés sous une forme actualisée et définitive.</alinea>
+    </resume>
+    <grmotcle lang="fr">
+      <motcle>focus</motcle>
+      <motcle>Arts et lettres</motcle>
+      <motcle>Histoire</motcle>
+      <motcle>Philosophie</motcle>
+      <motcle>Politique et société</motcle>
+      <motcle>Langues &amp; Normes</motcle>
+    </grmotcle>
+  </liminaire>
+  <corps>
+    <section>
+      <titre2>
+	<marquage typemarq="gras">SOMMAIRE</marquage>
+      </titre2>
+      <para>
+        <alinea>
+	<marquage typemarq="gras">I. ARTICLES</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	<marquage typemarq="gras">
+            <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1134">
+              <marquage typemarq="italique">La norme juridique et la langue: histoire d’une intimité renforcée
+	</marquage>
+            </liensimple>
+          </marquage>
+          <marquage typemarq="gras">François Viangalli
+	</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	<marquage typemarq="gras">
+            <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1135">
+              <marquage typemarq="italique">La notion de pluri-officialité dans les Constitutions nationales. Les exemples espagnol, italien, suisse et belge
+	</marquage>
+            </liensimple>
+          </marquage>
+          <marquage typemarq="gras">Jordane Arlettaz
+	</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	<marquage typemarq="gras">
+            <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1136">
+              <marquage typemarq="italique">Le catalan, entre linguistique et politique
+	</marquage>
+            </liensimple>
+          </marquage>
+          <marquage typemarq="gras">Henri Boyer
+	</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	<marquage typemarq="gras">
+            <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1137">
+              <marquage typemarq="italique">Prendre langue avec l’Étrange. La traduction: un mod</marquage>
+            </liensimple>
+          </marquage>
+          <marquage typemarq="gras">
+            <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article906">
+              <marquage typemarq="italique">èle pour l’herméneutique juridique?
+	</marquage>
+            </liensimple>
+          </marquage>
+          <marquage typemarq="gras">Fabien Girard
+	</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	<marquage typemarq="gras">
+            <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1138">
+              <marquage typemarq="italique">La revitalisation des langues amérindiennes en Amérique latine
+	</marquage>
+            </liensimple>
+          </marquage>
+          <marquage typemarq="gras">Sabine Lavorel
+	</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	<marquage typemarq="gras">
+            <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1139">
+              <marquage typemarq="italique">Plurilinguisme, traduction et droit international des peuples autochtones: en quête de reconnaissance
+	</marquage>
+            </liensimple>
+          </marquage>
+          <marquage typemarq="gras">Albane Geslin
+	</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	 </alinea>
+      </para>
+      <para>
+        <alinea>
+	<marquage typemarq="gras">II. COMPTES RENDUS D’OUVRAGES
+	</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	<marquage typemarq="gras">
+            <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1140">
+              <marquage typemarq="italique">De la domination linguistique: diagnostic, thérapie et enjeux. À propos de l’ouvrage de Romain Colonna: Les Paradoxes de la domination linguistique</marquage>
+            </liensimple>
+          </marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	<marquage typemarq="gras">François Viangalli</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	<marquage typemarq="gras">
+            <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1141">
+              <marquage typemarq="italique">De la linguistique à la politique: les langues et le droit international. À propos de l’ouvrage d’Alexandre Duchêne: Ideologies across Nations, The construction of Linguistic Minorities at the United Nations
+	</marquage>
+            </liensimple>
+          </marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	<marquage typemarq="gras">François Viangalli</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	 </alinea>
+      </para>
+    </section>
+    <section>
+      <titre>
+	Présentation</titre>
+      <para>
+        <alinea>
+	Le dossier <marquage typemarq="italique">Langues &amp;amp; Normes</marquage> est le fruit d’une série d’études réalisée par des spécialistes, linguistes ou juristes, sur la question des rapports entre la langue, le droit et la politique. Initialement présentés sous forme de conférences au cours d’une journée d’études organisée par le Centre d’études sur la sécurité internationale et les coopérations européennes (CESICE) de l’Université de Grenoble-Alpes en 2013, les travaux en question sont ici publiés sous une forme actualisée et définitive.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Le sujet abordé a acquis au cours de la période récente une dimension tout à fait nouvelle, et ce à plusieurs titres.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Au sein de l’Union européenne, le phénomène est incontestable. Avec la montée du nationalisme catalan, en partie fondée sur la langue, et conjuguée à celle, d’inspiration différente, du nationalisme flamand, il apparaît ainsi que la question des langues n’est plus un problème anecdotique cantonné à la traduction, et qui intéresseraient les seuls interprètes ou linguistes spécialisés. La langue, ou plutôt les langues, pourraient bien devenir l’une des données fondamentales de la géopolitique du continent. Si une partie des langues minoritaires viennent à fonder, pour les besoins de leur préservation, une pensée politique qui bouleverse les frontières intérieures de l’UE et aboutit à la création de nouveaux États, dont nul ne sait si ou plutôt comment ils seront membres de l’Union, ou, différemment, au rattachement d’une province à un autre État, alors manifestement les locuteurs de celles-ci auront fait, littéralement, « bouger les lignes ». Bien sûr, ceci n’est pour l’instant qu’un scénario et le but, ici, n’est pas de faire de la politique-fiction. Mais le phénomène est désormais suffisamment important pour être étudié, en tant qu’hypothèse tout au moins. Pour reprendre l’expression du linguiste Jean Louis Calvet, le XXI siècle pourrait bien être celui de la Guerre des langues<marquage typemarq="italique">
+            <renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>
+          </marquage>. Par ailleurs, et au-delà de la question des langues minoritaires et du nationalisme linguistique, il semble aujourd’hui admis que le fonctionnement de l’UE repose tout entier sur un système de traduction efficace, qui revient cher et qui pose surtout le problème fondamental de l’efficacité réelle en la matière de la traduction. Les juristes anglais peuvent-ils réellement communiquer avec leurs homologues allemands ou français et parvenir à un réel accord substantiel dans l’élaboration d’un projet où chacun emploie sa langue et s&amp;rsquo;en remet à sa propre version linguistique ?</alinea>
+      </para>
+      <para>
+        <alinea>
+	C&amp;rsquo;est toute la question du rapport du droit à la langue qui l’exprime qui est ici posé. Et ce problème n’est pas un détail. Il est le cœur même du système, car l’une des différences majeures qui opposent structurellement les États-Unis à l’Union européenne réside précisément dans le fait qu’un Américain peut voyager de New-York à San Francisco sans changer de langue, et ainsi chercher du travail de la côte atlantique à la côte pacifique. Le citoyen européen, quant à lui, ne peut que difficilement quitter Madrid, Rome ou La Valette pour aller travailler en Finlande ou au Luxembourg sans changer de langue et sans, au minimum, une excellente maîtrise de la langue anglaise, laquelle ne le dispensera pas de toute façon, sur le long terme, s&amp;rsquo;il veut réellement s&amp;rsquo;intégrer, de devoir parler la langue du pays. S&amp;rsquo;il y a bien liberté de circulation sur le plan économique, les frontières linguistiques sont toujours là, et personne ne songe ne serait-ce qu’un seul instant à y renoncer. D&amp;rsquo;où la question de leur coexistence, de leur apprentissage et de la traduction.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Au-delà de l’Europe, la question des langues est toute aussi sensible. L’acuité du problème est perceptible à plusieurs niveaux.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Le premier niveau de gravité est celui de la destruction des langues à laquelle l’humanité assiste aujourd’hui. Il existe à ce jour environ 6 000 langues dans le monde. Mais la majorité d’entre elles sont confrontées à l’inquiétant phénomène de la mort des langues, selon l’expression de Claude Hagège<marquage typemarq="italique">
+            <renvoi idref="sdfootnote2sym" typeref="note">2</renvoi>
+          </marquage>. Or ce phénomène n’est nullement un progrès. C&amp;rsquo;est même plutôt un désastre culturel. Une illustration simple permet de s&amp;rsquo;en persuader. Le romaïka, par exemple, est une langue menacée parlée en Turquie dans les zones frontalières avec la Grèce. Parlée par une minorité musulmane vivant dans des villages de montagne proche de la frontière, cette langue s&amp;rsquo;avère aujourd’hui être issue du grec ancien, dont elle conserve étonnamment nombre de structures syntaxiques et d’éléments de grammaire. Ioanna Sitaridou, de l’Université de Cambridge, a ainsi mis en évidence la valeur immense de ce patrimoine linguistique menacé<marquage typemarq="italique">
+            <renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>
+          </marquage>. Le romaika est peut-être le dernier vestige vivant de la langue d’Homère, de Platon et d’Aristote, telle qu’on pouvait la pratiquer à leur époque, et donc le meilleur vecteur pour « entendre » l’Iliade et l’Odyssée pour ce qu’ils étaient : des poèmes chantés, puisant dans la sonorité et la rythme toute leur puissance d’expression. Inutile dans de telles conditions de souligner le trésor que constitue cette langue, qui offre un accès privilégié au patrimoine littéraire de l’humanité. Or de par sa situation de langue menacée, le romaïka ne peut être sauvé que par une politique volontaire destinée à le protéger, à en diffuser l’usage et à en assurer la transmission. On voit ici l’importance du paramètre juridique : sans norme pour leur insuffler une force contemporaine par la définition d’un espace d’usage suffisant et digne, les langues meurent. Et tout le savoir qu’elles véhiculent avec. Détruire ou laisser mourir les langues, c&amp;rsquo;est tuer la pensée. Il y a maintenant quelques années, l’éminent linguiste Joshua Fishman a mis en évidence les capacités de revitalisation des langues menacées ou éteintes dans un ouvrage devenu célèbre : <marquage typemarq="italique">Reversing Language Shift</marquage>
+          <marquage typemarq="italique">
+            <renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>
+          </marquage>. Mais si les exemples de revitalisation réussie sont connus, et on pense notamment à l’hébreu, au gallois, au catalan ou encore au français du Québec, leur réussite ne doit pas occulter la difficulté de l’entreprise ni l’ensemble des moyens juridiques qu’elle implique de mobiliser. Ils ne doivent pas non plus occulter toutes les implications à la fois administratives et constitutionnelles que cela implique. Le cas récent des programmes de revitalisation des langues indiennes en Amérique du Sud est là pour le montrer. Entre l’officialisation et la revitalisation réelle, l’écart peut être grand, car le législateur est à lui seul impuissant par ses seules déclarations à faire renaître une langue à sa juste place et à assurer sa pérennité.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Le second niveau d’analyse est celui de la traduction des textes internationaux portant notamment sur la brevetabilité et les savoir-faire traditionnels. L’Organisation mondiale de la propriété intellectuelle travaille actuellement, depuis le début des années 2000, à la protection des techniques ancestrales des peuples autochtones, dont certaines, et l’on songe notamment aux remèdes médicinaux traditionnels, sont susceptibles d’ouvrir la voie à des dépôts de brevet sur des obtentions végétales ou des molécules par des laboratoires pharmaceutiques. Ce souci de protection n’est ni utopique, ni anecdotique, car de grandes découvertes de la médecine contemporaine sont parfois issues des savoirs traditionnels. La compression thoracique, autrefois appelée massage cardiaque, est par exemple éloquente à ce titre. Officiellement découverte par Kouwenhoven, Jude et Knickerbocker en 1960<marquage typemarq="italique">
+            <renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>
+          </marquage>, cette technique pourrait bien en réalité être directement issue de la médecine des guerres des samouraïs<marquage typemarq="italique">
+            <renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>
+          </marquage>. De la même façon, une plante du Gabon, l’Iboga, utilisée comme un remède traditionnel au cours de cérémonies religieuses tribales, contient en effet une substance psychoactive, l’ibogaïne, qui pourrait peut-être présenter des capacités à soigner la dépendance à des substances telles que la morphine, l’héroïne, la cocaïne, la nicotine ou l’alcool, et ouvrir ainsi la voie à de nouveaux traitements de la toxicomanie, sous réserve d’une expérimentation<marquage typemarq="italique">
+            <renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>
+          </marquage>. Or toute la question qui se pose, eu égard aux enjeux financiers colossaux de la brevetabilité d’une telle connaissance d’une part, et à l’absence d’un inventeur au sens strict d’autre part, est ici précisément de s&amp;rsquo;accorder sur l’entrée ou non dans le domaine public de ces savoir-faire. Et c&amp;rsquo;est alors que le facteur linguistique intervient, car l’expression de domaine public n’est pas traduisible aisément dans les langues des peuples détenteurs desdits savoirs. Comment prévoir dès lors une protection efficace du savoir et de la langue qui y donne accès si l’on doit formuler celle-ci dans un langage issu de notre conception moderne de la propriété intellectuelle ? C&amp;rsquo;est tout l’enjeu de la traduction et de ses implications économiques et politiques, que l’on retrouve ici sous un autre angle.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Si la variété des thèmes abordés dans ce dossier interdit à l’évidence de tendre à l’exhaustivité, elle a en revanche pour mérite d’offrir un panorama large des rapports qu’entretient le droit et la langue, et par là, nous l’espérons, de fournir une base de réflexion pour des recherches futures plus approfondies. Si le droit et la langue ne sont pas une seule et même chose, ils entretiennent en effet une relation étroite de dépendance que tant le linguiste que le juriste gagnerait à étudier de plus près.</alinea>
+      </para>
+      <para>
+        <alinea>
+	 </alinea>
+      </para>
+      <grnote>
+        <titre>Notes</titre>
+      </grnote>
+    </section>
+  </corps>
+  <partiesann>
+    <grnote>
+      <titre>Notes</titre>
+      <note id="sdfootnote1sym">
+        <no>1</no>
+        <alinea>
+	J. L. Calvet, <marquage typemarq="italique">La Guerre des langues et les politiques linguistiques</marquage>, Payot, 1987.</alinea>
+      </note>
+      <note id="sdfootnote2sym">
+        <no>2</no>
+        <alinea>
+	C. Hagège, <marquage typemarq="italique">Halte à la mort des langues</marquage>, Odile Jacob, 2002.</alinea>
+      </note>
+      <note id="sdfootnote3sym">
+        <no>3</no>
+        <alinea>
+	I. Sitaridou, (2013). « Greek-speaking enclaves in Pontus today : The documentation and revitalization of Romeyka », in M. Jones &amp;amp; S. Ogilvie (eds.), <marquage typemarq="italique">Keeping Languages Alive. Language Endangerment : Documentation, Pedagogy and Revitalization</marquage>, Presses Universitaires de Cambridge, 2014 p. 98-112. <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http:// http://www.romeyka.org">Voir en ligne</liensimple>.</alinea>
+      </note>
+      <note id="sdfootnote4sym">
+        <no>4</no>
+        <alinea>
+	J. Fishman, <marquage typemarq="italique">Reversing Language Shift: Theoretical and Empirical Foundations of Assistance to Threatened Languages</marquage>, ed. Multilingual Matters, 1991.</alinea>
+      </note>
+      <note id="sdfootnote5sym">
+        <no>5</no>
+        <alinea>
+	W. B. Kouwenhoven, Dr. Ing. ; James R. Jude, M.D. ; G. Guy Knickerbocker, M.S.E, <marquage typemarq="italique">Close-chest cardiac massage, The Journal of American Medical Association</marquage>, 1960, 173, 1064-1067.</alinea>
+      </note>
+      <note id="sdfootnote6sym">
+        <no>6</no>
+        <alinea>
+	Testée sur des prisonniers de guerre cobayes au cours de la Seconde guerre mondiale, au sein de la sinistre Unité 731, le service d’expérimentation criminelle du régime impérial japonais lors de l’occupation de la Mandchourie, la technique fut redécouverte dans les années 50 par le maître d’arts martiaux français Henry Plée, qui la fit alors connaître en Occident, jusqu’à ce qu’elle soit reprise par les scientifiques et fasse l’objet d’une publication qui leur en attribua la paternité. L’appellation populaire de massage cardiaque est tellement répandue que l’histoire semble avoir effacé l’origine japonaise de ce savoir traditionnel &amp;ndash; l’art de la réanimation manuelle ou kuatsu jitsu &amp;ndash; et son lien avec l’introduction des arts martiaux nippons en France. Voir sur le sujet : H. Plée, <marquage typemarq="italique">L’art sublime et ultime des points de vie</marquage>, éd. Budo, 2003 ; Harris Sheldon, <marquage typemarq="italique">Factories of death</marquage>, Routledge, 2002.</alinea>
+      </note>
+      <note id="sdfootnote7sym">
+        <no>7</no>
+        <alinea>
+	Isabelle M. Maisonneuve &amp;amp; Stanley D. Glick, « Anti-addictive actions of an iboga alkaloid congener : A novel mechanism for a novel treatment », <marquage typemarq="italique">Pharmacology, Biochemistry and Behavior</marquage>, vol. 75(3) 2003. Special Issue : Plants and the Central Nervous System. p. 607-618. Xaver Koenig, Michael Kovar, Stefan Boehm, Walter Sandtner, Karlheinz Hilber, « Anti-addiction drug ibogaine inhibits hERG channels : a cardiac arrhythmia risk », <marquage typemarq="italique">Addiction Biology</marquage>, 2014-2, vol. 19, p. 237-239.</alinea>
+      </note>
+    </grnote>
+  </partiesann>
+</article>
