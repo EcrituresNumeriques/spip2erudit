@@ -57,7 +57,7 @@ function getArticle( $article as element(), $ref as map(*) ) as element() {
   let $biblio := getBiblio($content)
   let $grnote := getNote($content)
   let $liminaire := getLiminaire($article)
-  let $admin := getAdmin($article, $corps, $biblio, $grnote)
+  let $admin := getAdmin($article, $corps, $biblio, $grnote, $ref)
   return 
     <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
       xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd"
@@ -117,8 +117,10 @@ declare function getRestruct($element) {
  : @return the admin xml erudit element
  : 
  : @todo check if word count include notes etc.
+ : @todo add theme id <grtheme id="th1">
+ : @todo add numero id <numero id="approchesind02027">
  :)
-declare function getAdmin( $article as element(), $corps, $biblio, $grnote ) as element() {
+declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref as map(*) ) as element() {
     <admin>
       <infoarticle>
         <idpublic scheme="doi">null</idpublic>
@@ -133,21 +135,20 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote ) as 
         <nbrefbiblio>{ fn:count($biblio//refbiblio) }</nbrefbiblio>
         <nbnote>{ fn:count($grnote//note) }</nbnote>
       </infoarticle>
-      <revue lang="fr" id="sp01868">
+      <revue id="sp01868" lang="fr">
         <titrerev>Sens public</titrerev>
         <titrerevabr>SP</titrerevabr>
         <idissnnum>2104-3272</idissnnum>
         { getDirector($article), getRedacteurchef($article) }
       </revue>
-      <numero>
+      <numero id="{map:get($ref, 'vol')}">
         <pub>
           <annee>{ getDate($article, 4) }</annee>
         </pub>
-        <pubnum>
+        <pubnum type="publication">
           <date>{ getDate($article, 10) }</date>
         </pubnum>
-        <grtheme>
-          (: @todo something :)
+        <grtheme id="">
           <theme>Langues &amp; Normes</theme>
         </grtheme>
       </numero>
@@ -215,6 +216,7 @@ for $director in $directorsByDates/directors/director
  : 
  : @todo factorize with getAuteurs
  : @todo sex and fonction
+ : @todo add link with theme idrefs="th1"
  :)
 declare function getRedacteurchef( $article as element() ) as element()* {
   (: let $id := $article/id_article :)
@@ -227,7 +229,6 @@ declare function getRedacteurchef( $article as element() ) as element()* {
       return 
         <redacteurchef typerc="invite" sexe="masculin">
           <fonction lang="fr"/>
-          <contribution/>
             <nompers>
               <prenom>{ $nom[2] }</prenom>
               <nomfamille>{ $nom[1] }</nomfamille>
