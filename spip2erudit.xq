@@ -3,7 +3,7 @@ xquery version "3.0" ;
 (:~
  : This module transforms SPIP export to erudit XML
  :
- : @version 0.1
+ : @version 0.2
  : @since 2015-11-04 
  : @author emchateau
  :
