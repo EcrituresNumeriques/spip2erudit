@@ -1,10 +1,11 @@
 xquery version "3.0" ;
 
 (:~
- : This module transforms SPIP export to erudit XML
+ : This module transforms SPIP XML export to erudit XML
  :
  : @version 0.2
- : @since 2015-11-04 
+ : @since 2015-11-04
+ : @date 2016-02 
  : @author emchateau
  :
  : @todo br, num structure, titres h2 etc.
@@ -30,7 +31,7 @@ declare variable $local:groupes := fn:doc('groupes.xml') ;
  : @return for each article write an xml file named with its id prefixed by "sens-public-" in the $path directory
  :)
 declare function writeArticles($refs as map(*)*) as document-node()* {
-  let $path := 'Documents/udem/stylo/xml/'
+  let $path := '/Users/emmanuelchateau/Documents/udem/stylo/xml'
   for $ref in $refs
   return 
     let $article := db:open('sens-public')//spip_articles[id_article = map:get($ref, 'num')]
@@ -47,21 +48,31 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
  :
  : @todo clean the namespaces declaration
  : @todo solve the corps direct constructor by working on getRestruct
+ : @note <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd"
+      qualtraitement="complet" idproprio="{map:get($ref, 'id')}" typeart="autre" lang="fr" ordseq="1">
  :)
 declare 
   %output:method('xml')
   %output:indent('yes')
 function getArticle( $article as element(), $ref as map(*) ) as element() {
   let $content := getContent($article/texte, map{ '':'' })
-  let $corps := <corps>{getRestruct(getCleaned($content))}</corps>
+  let $corps := <corps>{ getRestruct(getCleaned($content)) }</corps>
   let $biblio := getBiblio($content)
   let $grnote := getNote($content)
   let $liminaire := getLiminaire($article)
   let $admin := getAdmin($article, $corps, $biblio, $grnote, $ref)
   return 
-    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-      xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd"
-      qualtraitement="complet" idproprio="{map:get($ref, 'id')}" typeart="autre" lang="fr" ordseq="1">{ 
+    <article
+      xmlns="http://www.erudit.org/xsd/article" 
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xmlns:xlink="http://www.w3.org/1999/xlink" 
+      xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" 
+      qualtraitement="complet" 
+      idproprio="{map:get($ref, 'id')}" 
+      typeart="autre" 
+      lang="fr" 
+      ordseq="1">{ 
         $admin, 
         $liminaire, 
         $corps,
@@ -141,7 +152,7 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref
         <idissnnum>2104-3272</idissnnum>
         { getDirector($article), getRedacteurchef($article) }
       </revue>
-      <numero id="{map:get($ref, 'vol')}">
+      <numero id="{ map:get($ref, 'vol') }">
         <pub>
           <annee>{ getDate($article, 4) }</annee>
         </pub>
@@ -222,16 +233,16 @@ declare function getRedacteurchef( $article as element() ) as element()* {
   (: let $id := $article/id_article :)
   let $id := $article/id_article/text()
   let $issue := getIssue($id)
-  for $auteursId in db:open('sens-public')//spip_auteurs_articles[id_article = $issue]/id_auteur
+  for $authorsId in db:open('sens-public')//spip_auteurs_articles[id_article = $issue]/id_auteur
     return
-      for $auteur in db:open('sens-public')//spip_auteurs[id_auteur = $auteursId]/nom
-      let $nom := fn:tokenize($auteur/text(), '\*') 
+      for $author in db:open('sens-public')//spip_auteurs[id_auteur = $authorsId]/nom
+      let $name := fn:tokenize($author/text(), '\*') 
       return 
         <redacteurchef typerc="invite" sexe="masculin">
           <fonction lang="fr"/>
             <nompers>
-              <prenom>{ $nom[2] }</prenom>
-              <nomfamille>{ $nom[1] }</nomfamille>
+              <prenom>{ $name[2] }</prenom>
+              <nomfamille>{ $name[1] }</nomfamille>
             </nompers>
         </redacteurchef>
 };

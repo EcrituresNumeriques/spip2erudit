@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd" qualtraitement="complet" idproprio="1028815ar" typeart="autre" lang="fr" ordseq="1">
-  <admin>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028815ar" typeart="autre" lang="fr" ordseq="1">
+  <admin xmlns="">
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
       <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
@@ -57,7 +57,7 @@
     <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
     <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
   </admin>
-  <liminaire>
+  <liminaire xmlns="">
     <grtitre>
       <titre>Dibutade 2.0 : la « femme-auteur » à l'ère du numérique</titre>
     </grtitre>
@@ -84,7 +84,7 @@
       <motcle>Welby, Victoria</motcle>
     </grmotcle>
   </liminaire>
-  <corps>
+  <corps xmlns="">
     <section>
       <para>
         <alinea>
@@ -98,9 +98,9 @@
 	I. Aux origines de l’art, une fable féministe ? (Dibutade)</titre>
       <para>
         <alinea>
-	<figure id="figid219163">
+	<figure id="figid983223">
             <objetmedia flot="bloc">
-              <image xmlns:xlink="http://www.w3.org/1999/xlink" id="imgid219163" typeimage="figure" xlink:href="/IMG/jpg/dibutade_Chateau_de_Versailles__salon_des_nobles__Dibutade_ou_l_Origine_de_la_peinture__Jean-Baptiste_Regnault.jpg" xlink:title="Jean-Baptiste Regnault, Dibutade ou l’Origine de la peinture" xlink:type="simple" desc=""/>
+              <image id="imgid983223" typeimage="figure" xlink:href="/IMG/jpg/dibutade_Chateau_de_Versailles__salon_des_nobles__Dibutade_ou_l_Origine_de_la_peinture__Jean-Baptiste_Regnault.jpg" xlink:title="Jean-Baptiste Regnault, Dibutade ou l’Origine de la peinture" xlink:type="simple" desc=""/>
             </objetmedia>
           </figure>
         </alinea>
@@ -202,9 +202,9 @@
 	II. Dibutade « 2.0 » : problématique de l’auctorialité féminine sur le web (Anne Archet)</titre>
       <para>
         <alinea>
-	<figure id="figid220415">
+	<figure id="figid984475">
             <objetmedia flot="bloc">
-              <image xmlns:xlink="http://www.w3.org/1999/xlink" id="imgid220415" typeimage="figure" xlink:href="/IMG/jpg/Archet-femme-invisible.jpg" xlink:title="Anne Archet, La Femme invisible" xlink:type="simple" desc=""/>
+              <image id="imgid984475" typeimage="figure" xlink:href="/IMG/jpg/Archet-femme-invisible.jpg" xlink:title="Anne Archet, La Femme invisible" xlink:type="simple" desc=""/>
             </objetmedia>
           </figure>
         </alinea>
@@ -243,9 +243,9 @@
 	III. Profil de la femme auteur : les usages poétiques du réseau social (Victoria Welby)</titre>
       <para>
         <alinea>
-	<figure id="figid221036">
+	<figure id="figid985096">
             <objetmedia flot="bloc">
-              <image xmlns:xlink="http://www.w3.org/1999/xlink" id="imgid221036" typeimage="figure" xlink:href="/IMG/jpg/profil_welby2.jpg" xlink:title="Victoria Welby, photo de profil Facebook" xlink:type="simple" desc=""/>
+              <image id="imgid985096" typeimage="figure" xlink:href="/IMG/jpg/profil_welby2.jpg" xlink:title="Victoria Welby, photo de profil Facebook" xlink:type="simple" desc=""/>
             </objetmedia>
           </figure>
         </alinea>
@@ -307,14 +307,14 @@
 	IV. Les « travailleuses du texte » : littérature, érotisme, pornographie, obscène (Anne Archet)</titre>
       <para>
         <alinea>
-	<figure id="figid222167">
+	<figure id="figid986227">
             <objetmedia flot="bloc">
-              <image xmlns:xlink="http://www.w3.org/1999/xlink" id="imgid222167" typeimage="figure" xlink:href="/IMG/png/Avertissement_AnneArchet.png" xlink:title="Anne Archet, Message d’accueil du blogue Lubricités" xlink:type="simple" desc=""/>
+              <image id="imgid986227" typeimage="figure" xlink:href="/IMG/png/Avertissement_AnneArchet.png" xlink:title="Anne Archet, Message d’accueil du blogue Lubricités" xlink:type="simple" desc=""/>
             </objetmedia>
           </figure>
-          <figure id="figid222213">
+          <figure id="figid986273">
             <objetmedia flot="bloc">
-              <image xmlns:xlink="http://www.w3.org/1999/xlink" id="imgid222213" typeimage="figure" xlink:href="" xlink:title="" xlink:type="simple" desc=""/>
+              <image id="imgid986273" typeimage="figure" xlink:href="" xlink:title="" xlink:type="simple" desc=""/>
             </objetmedia>
           </figure>
         </alinea>
@@ -488,9 +488,9 @@
       </titre>
       <para>
         <alinea>
-	<figure id="figid227650">
+	<figure id="figid991710">
             <objetmedia flot="bloc">
-              <image xmlns:xlink="http://www.w3.org/1999/xlink" id="imgid227650" typeimage="figure" xlink:href="/IMG/jpg/Etant_donnee123.jpg" xlink:title="Cécile Portier, Étant donnée" xlink:type="simple" desc=""/>
+              <image id="imgid991710" typeimage="figure" xlink:href="/IMG/jpg/Etant_donnee123.jpg" xlink:title="Cécile Portier, Étant donnée" xlink:type="simple" desc=""/>
             </objetmedia>
           </figure>
         </alinea>
@@ -539,11 +539,11 @@
       </grbiblio>
       <para>
         <alinea>
-	ARCHET, Anne, <marquage typemarq="italique">Lubricités, Les Cahiers d’Anne Archet</marquage>, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://archet.net/">http://archet.net</liensimple> &amp;gt; (consulté le 1er septembre 2015).</alinea>
+	ARCHET, Anne, <marquage typemarq="italique">Lubricités, Les Cahiers d’Anne Archet</marquage>, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://archet.net/">http://archet.net</liensimple> &amp;gt; (consulté le 1er septembre 2015).</alinea>
       </para>
       <para>
         <alinea>
-	-- <marquage typemarq="italique">Flegmatique, le blogue flegmatique d’Anne Archet</marquage>, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://flegmatique.net/">http://flegmatique.net</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+	-- <marquage typemarq="italique">Flegmatique, le blogue flegmatique d’Anne Archet</marquage>, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://flegmatique.net/">http://flegmatique.net</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </para>
       <para>
         <alinea>
@@ -599,11 +599,11 @@
       </para>
       <para>
         <alinea>
-	-- <marquage typemarq="italique">Petite Racine</marquage>, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://petiteracine.net/wordpress/">http://petiteracine.net/wordpress/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+	-- <marquage typemarq="italique">Petite Racine</marquage>, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://petiteracine.net/wordpress/">http://petiteracine.net/wordpress/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </para>
       <para>
         <alinea>
-	-- <marquage typemarq="italique">Étant Donnée</marquage>, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://etantdonnee.net/">http://etantdonnee.net</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+	-- <marquage typemarq="italique">Étant Donnée</marquage>, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://etantdonnee.net/">http://etantdonnee.net</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </para>
       <para>
         <alinea>
@@ -611,11 +611,11 @@
       </para>
       <para>
         <alinea>
-	VITALI-ROSATI, Marcello, « Voir l’invisible, Gygès et la pornographie Facebook », <marquage typemarq="italique">Sens Public</marquage>, Févier 2012, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article912">http://www.sens-public.org/spip.php?article912</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+	VITALI-ROSATI, Marcello, « Voir l’invisible, Gygès et la pornographie Facebook », <marquage typemarq="italique">Sens Public</marquage>, Févier 2012, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article912">http://www.sens-public.org/spip.php?article912</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </para>
       <para>
         <alinea>
-	WELBY, Victoria, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://victoriawelby.ca/">http://victoriawelby.ca</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+	WELBY, Victoria, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://victoriawelby.ca/">http://victoriawelby.ca</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </para>
       <para>
         <alinea>
@@ -627,187 +627,187 @@
     </section>
   </corps>
   <partiesann>
-    <grbiblio>
-      <biblio>
+    <grbiblio xmlns="" xmlns="http://www.erudit.org/xsd/article">
+      <biblio xmlns="">
         <titre>Bibliographie</titre>
       </biblio>
-      <refbiblio>
-	ARCHET, Anne, <marquage typemarq="italique">Lubricités, Les Cahiers d’Anne Archet</marquage>, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://archet.net/">http://archet.net</liensimple> &amp;gt; (consulté le 1er septembre 2015).</refbiblio>
-      <refbiblio>
-	-- <marquage typemarq="italique">Flegmatique, le blogue flegmatique d’Anne Archet</marquage>, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://flegmatique.net/">http://flegmatique.net</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
+	ARCHET, Anne, <marquage typemarq="italique">Lubricités, Les Cahiers d’Anne Archet</marquage>, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://archet.net/">http://archet.net</liensimple> &amp;gt; (consulté le 1er septembre 2015).</refbiblio>
+      <refbiblio xmlns="">
+	-- <marquage typemarq="italique">Flegmatique, le blogue flegmatique d’Anne Archet</marquage>, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://flegmatique.net/">http://flegmatique.net</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
+      <refbiblio xmlns="">
 	CANDEL Etienne et GOMEZ-MEIJA Gustavo, « Écrire l’auteur : la pratique éditoriale comme construction socioculturelle de la littérarité des textes sur le Web », <marquage typemarq="italique">L’auteur en réseaux, les réseaux de l’auteur</marquage>, DESEILLIGNY Orianne et DUCAS Sylvie (dir.), Paris, Presses Universitaires de Paris Ouest, coll. « orbis litterarum », 2013, p. 49-70.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	DERRIDA Jacques, <marquage typemarq="italique">Mémoires d’aveugle. L’Autoportrait et autres ruines</marquage>, Paris, Réunion des musées nationaux, 1990.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	DOUEIHI Milad, <marquage typemarq="italique">La grande conversion numérique</marquage>, Seuil, Paris, 2008.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	-- <marquage typemarq="italique">Pour un humanisme numérique</marquage>, Seuil, Paris, 2011.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	FRONTISI-DUCROUX, Françoise, « La fille de Dibutade, ou l’inventrice inventée », <marquage typemarq="italique">Cahiers du genre</marquage>, Paris, p. 133-151.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	-- <marquage typemarq="italique">Ouvrages de dames. Ariane, Hélène, Pénélope&amp;hellip;</marquage>, Paris, Seuil, 2009, coll. « La librairie du XXI siècle ».</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	GAILLIARD, Michel, <marquage typemarq="italique">Le langage de l’obscénité, Étude stylistique des romans de Sade : Les Cent Vingt Journées de Sodome, les trois Justine et Histoire de Juliette</marquage>, Paris, Honoré Champion, 2006.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	LE BOUYER de FONTENELLE, François, <marquage typemarq="italique">Œuvres</marquage>, t. V, Paris, Bastien/Servières, 1790.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	MARÉCHAL, Sylvain, <marquage typemarq="italique">Projet d’une loi portant défense d’apprendre à lire aux femmes (1801) suivi des réponses de Marie-Armande Gacon-Dufour et Albertine Clément-Hémery</marquage>, Textes présentés par Bernard Jolibert. Paris, L’Harmattan, 2007.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	MERZEAU, Louise, « Du signe à la trace : l’information sur mesure », <marquage typemarq="italique">Hermes</marquage>, CNRS-Editions, 2009, p. 23-29.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	ORDINE, Nuccio, <marquage typemarq="italique">Le Seuil de l’ombre</marquage>, traduction Luc Hersant, Paris, Les Belles Lettres, 2003.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	PLINE, <marquage typemarq="italique">Histoire naturelle, </marquage>Livre XXXV, chap. 43, traduction Jean-Michel Croisille, 1985.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	PORTIER, Cécile, « <marquage typemarq="italique">Etant donnée</marquage>, Une fable poétique sur le régime de nos traces numériques, sur ce qu’il change à notre façon d’être au monde. », <marquage typemarq="italique">Itinéraires, Littératures, Textes, Cultures </marquage>(à paraître).</refbiblio>
-      <refbiblio>
-	-- <marquage typemarq="italique">Petite Racine</marquage>, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://petiteracine.net/wordpress/">http://petiteracine.net/wordpress/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
-      <refbiblio>
-	-- <marquage typemarq="italique">Étant Donnée</marquage>, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://etantdonnee.net/">http://etantdonnee.net</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
+	-- <marquage typemarq="italique">Petite Racine</marquage>, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://petiteracine.net/wordpress/">http://petiteracine.net/wordpress/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
+      <refbiblio xmlns="">
+	-- <marquage typemarq="italique">Étant Donnée</marquage>, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://etantdonnee.net/">http://etantdonnee.net</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
+      <refbiblio xmlns="">
 	REVOL, Bertrand, « L’image est ses ombres », <marquage typemarq="italique">L’Ombre de l’image, de la falsification à l’infigurable</marquage>, GAGNEBIN M. (dir.), Seyssel, Éditions Champ Vallon, coll. « L’Or d’Atalante », 2003, p. 29-65.</refbiblio>
-      <refbiblio>
-	VITALI-ROSATI, Marcello, « Voir l’invisible, Gygès et la pornographie Facebook », <marquage typemarq="italique">Sens Public</marquage>, Févier 2012, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article912">http://www.sens-public.org/spip.php?article912</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
-      <refbiblio>
-	WELBY, Victoria, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://victoriawelby.ca/">http://victoriawelby.ca</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
+	VITALI-ROSATI, Marcello, « Voir l’invisible, Gygès et la pornographie Facebook », <marquage typemarq="italique">Sens Public</marquage>, Févier 2012, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article912">http://www.sens-public.org/spip.php?article912</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
+      <refbiblio xmlns="">
+	WELBY, Victoria, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://victoriawelby.ca/">http://victoriawelby.ca</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
+      <refbiblio xmlns="">
 	 </refbiblio>
-      <refbiblio>
-	&amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://flegmatique.net/2013/02/21/portrait-de-la-femme-invisible-devant-son-miroir/">http://flegmatique.net/2013/02/21/portrait-de-la-femme-invisible-devant-son-miroir/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
-      <refbiblio>
-	&amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.hebdo.ch/hebdo/culture/detail/«lérotisme-nexiste-plus»">http://www.hebdo.ch/hebdo/culture/detail/%C2%ABl%C3%A9rotisme-nexiste-plus%C2%BB</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
+      <refbiblio xmlns="">
+	&amp;lt;<liensimple xlink:type="simple" xlink:href="http://flegmatique.net/2013/02/21/portrait-de-la-femme-invisible-devant-son-miroir/">http://flegmatique.net/2013/02/21/portrait-de-la-femme-invisible-devant-son-miroir/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
+      <refbiblio xmlns="">
+	&amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.hebdo.ch/hebdo/culture/detail/«lérotisme-nexiste-plus»">http://www.hebdo.ch/hebdo/culture/detail/%C2%ABl%C3%A9rotisme-nexiste-plus%C2%BB</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
     </grbiblio>
-    <grnote>
-      <titre>Notes</titre>
-      <note id="sdfootnote1sym">
+    <grnote xmlns="" xmlns="http://www.erudit.org/xsd/article">
+      <titre xmlns="">Notes</titre>
+      <note xmlns="" id="sdfootnote1sym">
         <no>1</no>
         <alinea>
 	Consulter notamment Milad Doueihi, <marquage typemarq="italique">La grande conversion numérique</marquage>, Seuil : Paris, 2008 et <marquage typemarq="italique">Pour un humanisme numérique</marquage>, Seuil : Paris, 2011. </alinea>
       </note>
-      <note id="sdfootnote2sym">
+      <note xmlns="" id="sdfootnote2sym">
         <no>2</no>
         <alinea>
 	Par exemple, chez Alberti, qui reprend le mythe dans son ouvrage fondateur pour la peinture moderne, <marquage typemarq="italique">De Pictura</marquage>, 1536. Sur le sujet, consulter notamment Victor I Stoichita, <marquage typemarq="italique">Brève histoire de l’ombre</marquage>, Genève : Groz, 2000. Au XVI siècle, Vasari revient lui aussi sur le texte de Pline dans ses écrits sur l’art (voir l’étude que lui consacre Nuccio Ordine, <marquage typemarq="italique">Le Seuil de l’ombre</marquage>, Paris, Les belles lettres, 2003, p. 269 <marquage typemarq="italique">sq</marquage>).</alinea>
       </note>
-      <note id="sdfootnote3sym">
+      <note xmlns="" id="sdfootnote3sym">
         <no>3</no>
         <alinea>
 	Françoise Frontisi-Ducroux, « La fille de Dibutade, ou l’inventrice inventée », <marquage typemarq="italique">Cahiers du genre</marquage>, Paris : L’Harmattan, 2007, n&amp;deg;43 ; <marquage typemarq="italique">Ouvrages de Ariane dames, Ariane, Hélène, Pénélope&amp;hellip;</marquage>, Paris, Seuil, 2009, coll. « La librairie du XXI siècle ».</alinea>
       </note>
-      <note id="sdfootnote4sym">
+      <note xmlns="" id="sdfootnote4sym">
         <no>4</no>
         <alinea>
 	Pline, <marquage typemarq="italique">Histoire naturelle</marquage>, Livre XXXV, chap. 43, traduction Jean-Michel Croisille, 1985 (je souligne).</alinea>
       </note>
-      <note id="sdfootnote5sym">
+      <note xmlns="" id="sdfootnote5sym">
         <no>5</no>
         <alinea>
 	Voir sur le sujet Bertrand Revol, « L’image et ses ombres », <marquage typemarq="italique">in L’Ombre de l’image, de la falsification à l’infigurable</marquage>, dir. Murielle Gagnebin, Seyssel, Éditions Champ Vallon, coll. « L’Or d’Atalante », 2003, p. 39. Ou encore Nuccio Ordine, <marquage typemarq="italique">Le Seuil de l’ombre</marquage>, traduction Luc Hersant, Paris :Les Belles Lettres, 2003.</alinea>
       </note>
-      <note id="sdfootnote6sym">
+      <note xmlns="" id="sdfootnote6sym">
         <no>6</no>
         <alinea>
 	Jacques Derrida, <marquage typemarq="italique">Mémoires d’aveugle, L’Autoportrait et autres ruines</marquage>, Paris, Réunion des musées nationaux, 1990, p. 54.</alinea>
       </note>
-      <note id="sdfootnote7sym">
+      <note xmlns="" id="sdfootnote7sym">
         <no>7</no>
         <alinea>
 	François Le Bouyer de Fontennelle, <marquage typemarq="italique">Œuvres</marquage>, Tome V, Paris : Bastien/Servières, 1790, « Lettres à l’imitation des héroïnes d’Ovide », p. 154.</alinea>
       </note>
-      <note id="sdfootnote8sym">
+      <note xmlns="" id="sdfootnote8sym">
         <no>8</no>
         <alinea>
 	Sylvain Maréchal, <marquage typemarq="italique">Projet d’une loi portant défense d’apprendre à lire aux femmes (1801) suivi des réponses de Marie-Armande Gacon-Dufour et Albertine Clément-Hémery</marquage>, Textes présentés par Bernard Jolibert. Paris : L’Harmattan, 2007.</alinea>
       </note>
-      <note id="sdfootnote9sym">
+      <note xmlns="" id="sdfootnote9sym">
         <no>9</no>
         <alinea>
-	Voir Françoise Frontisi-Ducroux, <marquage typemarq="italique">op</marquage>. <marquage typemarq="italique">cit</marquage>., ainsi que Denise No&amp;euml;l, « Les femmes peintres dans la seconde moitié du XIX siècle », <marquage typemarq="italique">Clio. Femmes, Genre, Histoire</marquage>, 2004, [en ligne] : &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://clio.revues.org/646">http://clio.revues.org/646</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+	Voir Françoise Frontisi-Ducroux, <marquage typemarq="italique">op</marquage>. <marquage typemarq="italique">cit</marquage>., ainsi que Denise No&amp;euml;l, « Les femmes peintres dans la seconde moitié du XIX siècle », <marquage typemarq="italique">Clio. Femmes, Genre, Histoire</marquage>, 2004, [en ligne] : &amp;lt;<liensimple xlink:type="simple" xlink:href="http://clio.revues.org/646">http://clio.revues.org/646</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </note>
-      <note id="sdfootnote10sym">
+      <note xmlns="" id="sdfootnote10sym">
         <no>10</no>
         <alinea>
 	Anne Archet, « Portrait de la femme invisible devant son miroir »,</alinea>
       </note>
-      <note id="sdfootnote11sym">
+      <note xmlns="" id="sdfootnote11sym">
         <no>11</no>
         <alinea>
-	Benoît Bordeleau, « L’auteur est peut-être mort&amp;hellip; », <marquage typemarq="italique">Hoche&amp;rsquo;Elague </marquage>[En ligne]<marquage typemarq="italique">, Espace littéraire et photographique</marquage>, 2 février 2014, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://bbordeleau.wordpress.com/2014/02/02/lauteur-est-peut-etre-mort-lit4810/">https://bbordeleau.wordpress.com/2014/02/02/lauteur-est-peut-etre-mort-lit4810/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+	Benoît Bordeleau, « L’auteur est peut-être mort&amp;hellip; », <marquage typemarq="italique">Hoche&amp;rsquo;Elague </marquage>[En ligne]<marquage typemarq="italique">, Espace littéraire et photographique</marquage>, 2 février 2014, &amp;lt;<liensimple xlink:type="simple" xlink:href="https://bbordeleau.wordpress.com/2014/02/02/lauteur-est-peut-etre-mort-lit4810/">https://bbordeleau.wordpress.com/2014/02/02/lauteur-est-peut-etre-mort-lit4810/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </note>
-      <note id="sdfootnote12sym">
+      <note xmlns="" id="sdfootnote12sym">
         <no>12</no>
         <alinea>
-	Voir aussi Paule Mackrous, « Écriveuses du Web : abondance et remix », <marquage typemarq="italique">Itinéraires</marquage> [En ligne], 2014-1 | 2015, 1er février 2015 &amp;lt;URL : <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://itineraires.revues.org/2276">http://itineraires.revues.org/2276</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+	Voir aussi Paule Mackrous, « Écriveuses du Web : abondance et remix », <marquage typemarq="italique">Itinéraires</marquage> [En ligne], 2014-1 | 2015, 1er février 2015 &amp;lt;URL : <liensimple xlink:type="simple" xlink:href="http://itineraires.revues.org/2276">http://itineraires.revues.org/2276</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </note>
-      <note id="sdfootnote13sym">
+      <note xmlns="" id="sdfootnote13sym">
         <no>13</no>
         <alinea>
 	Sur cette question des connotations, voir notamment Étienne Candel et Gustavo Gomez-Meija, « Écrire l’auteur : la pratique éditoriale comme construction socioculturelle de la littérarité des textes sur le Web », <marquage typemarq="italique">L’auteur en réseaux, les réseaux de l’auteur</marquage>, Orianne Deseilligny et Sylvie Ducas (dir.), Paris : Presses Universitaires de Paris Ouest, 2013, coll. « orbis litterarum ».</alinea>
       </note>
-      <note id="sdfootnote14sym">
+      <note xmlns="" id="sdfootnote14sym">
         <no>14</no>
         <alinea>
-	La page n’existe plus aujourd’hui, vraisemblablement censurée par Kijiji. Victoria Welby en a publié une capture d’écran que l’on peut consulter sur son site, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://victoriawelby.ca/écrivaine-publique-censurée-par-kijiji">http://victoriawelby.ca/écrivaine-publique-censurée-par-kijiji</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+	La page n’existe plus aujourd’hui, vraisemblablement censurée par Kijiji. Victoria Welby en a publié une capture d’écran que l’on peut consulter sur son site, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://victoriawelby.ca/écrivaine-publique-censurée-par-kijiji">http://victoriawelby.ca/écrivaine-publique-censurée-par-kijiji</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </note>
-      <note id="sdfootnote15sym">
+      <note xmlns="" id="sdfootnote15sym">
         <no>15</no>
         <alinea>
-	Victoria Welby, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://victoriawelby.ca/bio">http://victoriawelby.ca/bio</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+	Victoria Welby, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://victoriawelby.ca/bio">http://victoriawelby.ca/bio</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </note>
-      <note id="sdfootnote16sym">
+      <note xmlns="" id="sdfootnote16sym">
         <no>16</no>
         <alinea>
-	Victoria Welby, « Me and you and everyone who reads us », 30 mai 2011, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://victoriawelby.ca/blogue/me-and-you-and-everyone-who-reads-us">http://victoriawelby.ca/blogue/me-and-you-and-everyone-who-reads-us</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+	Victoria Welby, « Me and you and everyone who reads us », 30 mai 2011, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://victoriawelby.ca/blogue/me-and-you-and-everyone-who-reads-us">http://victoriawelby.ca/blogue/me-and-you-and-everyone-who-reads-us</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </note>
-      <note id="sdfootnote17sym">
+      <note xmlns="" id="sdfootnote17sym">
         <no>17</no>
         <alinea>
-	Anne Archet, « Confession de la pornographe », <marquage typemarq="italique">Lubricités </marquage>[en ligne], 22 décembre 2011, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://archet.net/2011/12/confession-de-la-pornographe/">http://archet.net/2011/12/confession-de-la-pornographe/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+	Anne Archet, « Confession de la pornographe », <marquage typemarq="italique">Lubricités </marquage>[en ligne], 22 décembre 2011, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://archet.net/2011/12/confession-de-la-pornographe/">http://archet.net/2011/12/confession-de-la-pornographe/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </note>
-      <note id="sdfootnote18sym">
+      <note xmlns="" id="sdfootnote18sym">
         <no>18</no>
         <alinea>
 	Michel Gailliard, <marquage typemarq="italique">Le langage de l’obscénité, Étude stylistique des romans de Sade : Les Cent Vingt Journées de Sodome, les trois Justine et Histoire de Juliette</marquage>, Paris : Honoré Champion, 2006, p. 441.</alinea>
       </note>
-      <note id="sdfootnote19sym">
+      <note xmlns="" id="sdfootnote19sym">
         <no>19</no>
         <alinea>
-	Marcello Vitali-Rosati, « Voir l’invisible, Gygès et la pornographie Facebook », <marquage typemarq="italique">Sens Public </marquage>[en ligne], Févier 2012, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article912">http://www.sens-public.org/spip.php?article912</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+	Marcello Vitali-Rosati, « Voir l’invisible, Gygès et la pornographie Facebook », <marquage typemarq="italique">Sens Public </marquage>[en ligne], Févier 2012, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article912">http://www.sens-public.org/spip.php?article912</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </note>
-      <note id="sdfootnote20sym">
+      <note xmlns="" id="sdfootnote20sym">
         <no>20</no>
         <alinea>
 	Jean-Jacques Pauvert, <marquage typemarq="italique">Métamorphose du sentiment érotique</marquage>, Paris : JC Lattès, 2011.</alinea>
       </note>
-      <note id="sdfootnote21sym">
+      <note xmlns="" id="sdfootnote21sym">
         <no>21</no>
         <alinea>
 	« Que peut bien être devenue l’image érotique ? Comme le reste des représentations, elle a commencé à se multiplier. Et dès la seconde moitié du XIX siècle, avec les représentations photographiques, la clandestinité de cette multiplication lui gardant encore un reste d’existence. Puis, dans le courant du XX siècle, arrive le cinéma, qui anime la photographie, avec les films pornographiques (toujours clandestins, bien sûr, ce qui en limite encore la diffusion). Ensuite expansion publique de l’érotisme cinématographique, avec les films (érotiques, pornographiques ? en tout cas maintenant au grand jour) de la fin du XX siècle. L’érotisme commence donc à toucher peu à peu les masses, d’abord un peu réticentes, puis gagnées chaque jour davantage par cette promesse de fêtes nouvelles. Et l’érotisme se répand par les images. De plus en plus. Grignotant chaque jour la vie quotidienne. Gagnant au fil des années droit de cité, parmi les multiples droits de cité. Jusqu’à conquérir complètement aujourd’hui les cervelles par une vulgarisation accélérée, innombrable, qui retire à l’image érotique toute la force qu’elle a pu avoir un temps. », Jean-Jacques Pauvert, <marquage typemarq="italique">idem</marquage>, p. 298. </alinea>
       </note>
-      <note id="sdfootnote22sym">
+      <note xmlns="" id="sdfootnote22sym">
         <no>22</no>
         <alinea>
 	Jean-Jacques Pauvert, entretien dans <marquage typemarq="italique">L’Hebdo</marquage>, 23 mai 2001,</alinea>
       </note>
-      <note id="sdfootnote23sym">
+      <note xmlns="" id="sdfootnote23sym">
         <no>23</no>
         <alinea>
 	Cécile Portier, « <marquage typemarq="italique">Etant donnée</marquage>, Une fable poétique sur le régime de nos traces numériques, sur ce qu’il change à notre façon d’être au monde. », <marquage typemarq="italique">Itinéraires, Littératures, Textes, Cultures </marquage>(à paraître).</alinea>
       </note>
-      <note id="sdfootnote24sym">
+      <note xmlns="" id="sdfootnote24sym">
         <no>24</no>
         <alinea>
 	Françoise Frontisi-Ducroux, <marquage typemarq="italique">op. c</marquage>
           <marquage typemarq="italique">it.</marquage>
         </alinea>
       </note>
-      <note id="sdfootnote25sym">
+      <note xmlns="" id="sdfootnote25sym">
         <no>25</no>
         <alinea>
 	Louise Merzeau, « Du signe à la trace : l’information sur mesure », <marquage typemarq="italique">Hermes</marquage>, CNRS-Editions, 2009. </alinea>
       </note>
-      <note id="sdfootnote26sym">
+      <note xmlns="" id="sdfootnote26sym">
         <no>26</no>
         <alinea>
 	Cécile Portier, « <marquage typemarq="italique">Etant donnée</marquage>, Une fable poétique sur le régime de nos traces numériques, sur ce qu’il change à notre façon d’être au monde. », <marquage typemarq="italique">op. c</marquage>

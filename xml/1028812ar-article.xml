@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd" qualtraitement="complet" idproprio="1028812ar" typeart="autre" lang="fr" ordseq="1">
-  <admin>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028812ar" typeart="autre" lang="fr" ordseq="1">
+  <admin xmlns="">
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
       <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
@@ -56,7 +56,7 @@
     <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
     <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
   </admin>
-  <liminaire>
+  <liminaire xmlns="">
     <grtitre>
       <titre>Repenser le numérique au 21ème siècle</titre>
     </grtitre>
@@ -89,7 +89,7 @@
       <motcle>Repenser le numérique au 21e siècle</motcle>
     </grmotcle>
   </liminaire>
-  <corps>
+  <corps xmlns="">
     <section>
       <titre2>
 	<marquage typemarq="gras">Sommaire</marquage>
@@ -102,7 +102,7 @@
       <para>
         <alinea>
 	<marquage typemarq="gras">
-            <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1099">
+            <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1099">
               <marquage typemarq="italique">Remédiation et interaction dans le milieu textuel
 	</marquage>
             </liensimple>
@@ -114,7 +114,7 @@
       <para>
         <alinea>
 	<marquage typemarq="gras">
-            <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1121">
+            <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1121">
               <marquage typemarq="italique">Humanités numériques ou computationelles: Enjeux herméneutiques
 	</marquage>
             </liensimple>
@@ -126,7 +126,7 @@
       <para>
         <alinea>
 	<marquage typemarq="gras">
-            <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1145">
+            <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1145">
               <marquage typemarq="italique">L’Hypertexte et ses prédécesseurs: cartographier un jardin aux sentiers qui bifurquent
 	</marquage>
             </liensimple>
@@ -138,7 +138,7 @@
       <para>
         <alinea>
 	<marquage typemarq="gras">
-            <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1020">
+            <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1020">
               <marquage typemarq="italique">Prométhée et la nouvelle culturel technique numérique
 	</marquage>
             </liensimple>
@@ -150,7 +150,7 @@
       <para>
         <alinea>
 	<marquage typemarq="gras">
-            <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1011">
+            <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1011">
               <marquage typemarq="italique">Après le dernier clic: que signifie mourir sur le web?
 	</marquage>
             </liensimple>
@@ -161,12 +161,12 @@
       </para>
       <para>
         <alinea>
-	<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article990">
+	<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article990">
             <marquage typemarq="gras">
               <marquage typemarq="italique">Source et fuites: du sens des flux de données numériques</marquage>
             </marquage>
           </liensimple>
-          <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article990">
+          <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article990">
             <marquage typemarq="gras">
               <marquage typemarq="italique">
 	</marquage>
@@ -179,7 +179,7 @@
       <para>
         <alinea>
 	<marquage typemarq="gras">
-            <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article997">
+            <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article997">
               <marquage typemarq="italique">Lex Google: les enjeux de la fiscalité du numérique
 	</marquage>
             </liensimple>
@@ -191,7 +191,7 @@
       <para>
         <alinea>
 	<marquage typemarq="gras">
-            <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1023">
+            <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1023">
               <marquage typemarq="italique">Après l’accord Google, le chantier de la fiscalité du numérique reste ouvert
 	</marquage>
             </liensimple>
@@ -210,7 +210,7 @@
       </para>
       <para>
         <alinea>
-	<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1028">
+	<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1028">
             <marquage typemarq="gras">
               <marquage typemarq="italique">L’OE
 	</marquage>
@@ -318,39 +318,39 @@
     </section>
   </corps>
   <partiesann>
-    <grbiblio>
-      <biblio>
+    <grbiblio xmlns="" xmlns="http://www.erudit.org/xsd/article">
+      <biblio xmlns="">
         <titre>Bibliographie</titre>
       </biblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	Besser, Howard, « From Internet to Information Superhighway. » <marquage typemarq="italique">Resisting the Virtual Life: The Culture and Politics of Information</marquage>, eds James Brook and Iain A. Boal. San Francisco: City Lights, 1995, pages 59&amp;ndash;70.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	Birkerts, Sven, <marquage typemarq="italique">The Gutenberg Elegies: The Fate of Heading in an Electronic Age</marquage>, Faber and Faber, 1994.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	Casilli, Antonio A, <marquage typemarq="italique">Les liaisons numériques: Vers une nouvelle sociabilité ? </marquage>Seuil, 2010.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	Compagnon, Antoine, « Un monde sans auteurs ? », dans <marquage typemarq="italique">Où va le livre ?</marquage>, ed. J.-Y. Mollier, La Dispute, 2000. &#x2028;</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	Doueihi, Milad, <marquage typemarq="italique">La grande conversion numérique</marquage>. Seuil, 2008.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	Ferraris, Maurizio, <marquage typemarq="italique">&amp;Acirc;me et iPad</marquage>, Presses de l’Université de Montréal, 2014.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	Fitzpatrick Kathleen, <marquage typemarq="italique">Planned Obsolescence: Publishing, Technology, and the Future of the Academy</marquage>. New York: New York University Press, 2009. </refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	Ferraris, Maurizio, <marquage typemarq="italique">&amp;Acirc;me et iPad</marquage>, Presses de l’Université de Montréal, 2014.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	McAfee, Andrew and Erik Brynjolfsson, « Big Data: The Management Revolution », <marquage typemarq="italique">Harvard Business Review</marquage>. October 2012.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	Merzeau, Louise, « Twitter : une machine à fabriquer de l’autorité », dans <marquage typemarq="italique">Twitter, un monde en tout petit ?</marquage>, ed. Gabriel Gallezot et Nicolas Pélissier, L’Harmattan, 2013.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	Sala&amp;uuml;n, Jean-Michel, <marquage typemarq="italique">Vu, Su, Lu</marquage>, La Découverte, 2012.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	Sinatra, Michael E. et Marcello Vitali-Rosati, « Introduction », dans <marquage typemarq="italique">Pratique de l’édition numérique</marquage>, ed. Michael E. Sinatra et Marcello Vitali-Rosati, Presses de l’Université de Montréal, 2014.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	Sala&amp;uuml;n, Jean-Michel, <marquage typemarq="italique">Vu, Su, Lu</marquage>, La Découverte, 2012.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	Sinatra, Michael E. et Marcello Vitali-Rosati, « Introduction », dans <marquage typemarq="italique">Pratique de l’édition numérique</marquage>, ed. Michael E. Sinatra et Marcello Vitali-Rosati, Presses de l’Université de Montréal, 2014.</refbiblio>
-      <refbiblio>
+      <refbiblio xmlns="">
 	Stiegler, Bernard, <marquage typemarq="italique">La technique et le temps</marquage>, Galilée, 1994.</refbiblio>
     </grbiblio>
   </partiesann>

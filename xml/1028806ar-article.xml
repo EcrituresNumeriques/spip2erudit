@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd" qualtraitement="complet" idproprio="1028806ar" typeart="autre" lang="fr" ordseq="1">
-  <admin>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028806ar" typeart="autre" lang="fr" ordseq="1">
+  <admin xmlns="">
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
       <nbpara>32</nbpara>
@@ -60,7 +60,7 @@
     <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
     <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
   </admin>
-  <liminaire>
+  <liminaire xmlns="">
     <grtitre>
       <titre>Plurilinguisme, traduction et droit international des peuples autochtones: en quête de reconnaissance</titre>
     </grtitre>
@@ -83,7 +83,7 @@
       <motcle>Langues &amp; Normes</motcle>
     </grmotcle>
   </liminaire>
-  <corps>
+  <corps xmlns="">
     <section>
       <para>
         <alinea>
@@ -377,240 +377,240 @@
     </section>
   </corps>
   <partiesann>
-    <grnote>
-      <titre>Notes</titre>
-      <note id="sdfootnote1sym">
+    <grnote xmlns="" xmlns="http://www.erudit.org/xsd/article">
+      <titre xmlns="">Notes</titre>
+      <note xmlns="" id="sdfootnote1sym">
         <no>1</no>
         <alinea>
 	Voir notamment :</alinea>
       </note>
-      <note id="sdfootnote2sym">
+      <note xmlns="" id="sdfootnote2sym">
         <no>2</no>
         <alinea>
 	Convention de Vienne sur le droit des traités entre États, 23 mai 1969, art. 33, &amp;sect; 1. Dans son intégralité, l’article 33 dispose : « 1. Lorsqu’un traité a été authentifié en deux ou plusieurs langues, son texte fait foi dans chacune de ces langues, à moins que le traité ne dispose ou que les Parties ne conviennent qu’en cas de divergence un texte déterminé l’emportera. 2. Une version du traité dans une langue autre que l’une de celles dans lesquelles le texte a été authentifié ne sera considérée comme texte authentique que si le traité le prévoit ou si les Parties en sont convenues. 3. Les termes d’un traité sont présumés avoir le même sens dans tes divers textes authentiques. 4. Sauf le cas où un texte déterminé l’emporte conformément au paragraphe 1, lorsque la comparaison des textes authentiques tait apparaître une différence de sens que l’application des articles 31 et 32 ne permet pas d’éliminer, on adoptera le sens qui, compte tenu de l’objet et du but du traité, concilie le mieux ces textes ».</alinea>
       </note>
-      <note id="sdfootnote3sym">
+      <note xmlns="" id="sdfootnote3sym">
         <no>3</no>
         <alinea>
 	Mis à part dans le travail quotidien des diplomates et agents des organisations internationales.</alinea>
       </note>
-      <note id="sdfootnote4sym">
+      <note xmlns="" id="sdfootnote4sym">
         <no>4</no>
         <alinea>
 	Ainsi, dans le cadre des Nations-Unies, les langues officielles sont l’anglais, l’arabe, le russe, le chinois, l’espagnol et le français, langues officielles de plus la moitié des États du monde.</alinea>
       </note>
-      <note id="sdfootnote5sym">
+      <note xmlns="" id="sdfootnote5sym">
         <no>5</no>
         <alinea>
 	L’on sait déjà la difficulté qu’ont les juristes de culture romano-germanique à affronter les concepts de <marquage typemarq="italique">common law</marquage> (et inversement). Les exemples sont suffisamment connus pour n’avoir pas besoin d’explicitation détaillée ; en effet, comment rendre pleinement les notions de « <marquage typemarq="italique">liability », « responsibility », « accountability » </marquage>avec le seul terme français de « responsabilité » ?</alinea>
       </note>
-      <note id="sdfootnote6sym">
+      <note xmlns="" id="sdfootnote6sym">
         <no>6</no>
         <alinea>
 	« Le Droit est la manière dont l’Occident ordonne les règles que s&amp;rsquo;imposent les hommes », Supio A., <marquage typemarq="italique">Homo juridicus. Essai sur la fonction anthropologique du Droit</marquage>, coll. La couleur des idées, Seuil, 2005, p. 85. Sur la notion de « tradition juridique occidentale », voir cette entrée dans Arnaud A.-J. (dir.), <marquage typemarq="italique">Dictionnaire encyclopédique de théorie et de sociologie du droit</marquage>, LGDJ, 1993, p. 622-624.</alinea>
       </note>
-      <note id="sdfootnote7sym">
+      <note xmlns="" id="sdfootnote7sym">
         <no>7</no>
         <alinea>
 	Assier-Andrieu L., <marquage typemarq="italique">Le droit dans les sociétés humaines</marquage>, coll. Essais et Recherches, Nathan, 1996, notam. p. 101. Voir égal. Geslin A., « La protection internationale des droits des peuples autochtones : de la reconnaissance d’une identité transnationale autochtone à l’interculturalité normative », <marquage typemarq="italique">in Annuaire français de droit international,</marquage> 2010, p. 657-687.</alinea>
       </note>
-      <note id="sdfootnote8sym">
+      <note xmlns="" id="sdfootnote8sym">
         <no>8</no>
         <alinea>
 	Assemblée générale des Nations-Unies, 61 session, 107 et 108 séances plénières, 13 septembre 2007, A/61/PV.107 et A/61/PV.108.</alinea>
       </note>
-      <note id="sdfootnote9sym">
+      <note xmlns="" id="sdfootnote9sym">
         <no>9</no>
         <alinea>
 	Résolution de l’Assemblée générale des Nations-Unies 61/295 portant <marquage typemarq="italique">Déclaration des droits des peuples autochtones</marquage>, A/RES/61/295, 13 septembre 2007.</alinea>
       </note>
-      <note id="sdfootnote10sym">
+      <note xmlns="" id="sdfootnote10sym">
         <no>10</no>
         <alinea>
 	La Convention compte un préambule de 11 alinéas et un dispositif de 44 articles.</alinea>
       </note>
-      <note id="sdfootnote11sym">
+      <note xmlns="" id="sdfootnote11sym">
         <no>11</no>
         <alinea>
 	Déclaration est constituée d’un préambule de 24 alinéas suivi d’un dispositif de 46 articles.</alinea>
       </note>
-      <note id="sdfootnote12sym">
+      <note xmlns="" id="sdfootnote12sym">
         <no>12</no>
         <alinea>
 	Foscaneanu L., <marquage typemarq="italique">op. cit</marquage>., p. 262-263.</alinea>
       </note>
-      <note id="sdfootnote13sym">
+      <note xmlns="" id="sdfootnote13sym">
         <no>13</no>
         <alinea>
 	Ne maîtrisant ni le russe, ni l’arabe, ni le chinois, mon étude comparative est limitée à ces deux versions, mais l’analyse gagnerait à inclure l’ensemble des langues officielles des Nations-Unies.</alinea>
       </note>
-      <note id="sdfootnote14sym">
+      <note xmlns="" id="sdfootnote14sym">
         <no>14</no>
         <alinea>
 	Alinéa 5. Bleu ajouté.</alinea>
       </note>
-      <note id="sdfootnote15sym">
+      <note xmlns="" id="sdfootnote15sym">
         <no>15</no>
         <alinea>
 	BLeu ajouté. Dans la version espagnole, cet aliéna débute par « <marquage typemarq="italique">Reconociendo</marquage>... ».</alinea>
       </note>
-      <note id="sdfootnote16sym">
+      <note xmlns="" id="sdfootnote16sym">
         <no>16</no>
         <alinea>
 	Aliéna 7 du préambule ; voir également l’alinéa 8 : « <marquage typemarq="italique">Recognizing also the urgent need to respect and promote the rights of  indigenous peoples affirmed in treaties, agreements and other constructive arrangements with States </marquage>&amp;raquo; / « Consciente également de la nécessité urgente de respecter et de promouvoir les droits des peuples autochtones affirmés dans les traités, accords et autres arrangements constructifs conclus avec les États ».</alinea>
       </note>
-      <note id="sdfootnote17sym">
+      <note xmlns="" id="sdfootnote17sym">
         <no>17</no>
         <alinea>
 	Alinéa 13 du préambule ; voir également l’aliéna 11 : « <marquage typemarq="italique">Recognizing that respect for indigenous knowledge, cultures and traditional practices contributes</marquage>... » / « Considérant que le respect des savoirs, des cultures et des pratiques traditionnelles autochtones contribue... » ; l’alinéa 22 : « <marquage typemarq="italique">Recognizing and reaffirming that indigenous individuals are entitled without discrimination to all human rights</marquage>... » / « Considérant et réaffirmant que les autochtones sont admis à bénéficier sans aucune discrimination de tous les droits de l’homme » ; et l’alinéa 23 : « <marquage typemarq="italique">Recognizing that the situation of indigenous peoples varies from region to region</marquage>... » / « Considérant que la situation des peuples autochtones n’est pas la même selon les régions... ».</alinea>
       </note>
-      <note id="sdfootnote18sym">
+      <note xmlns="" id="sdfootnote18sym">
         <no>18</no>
         <alinea>
 	Ces documents préparatoires portent, en effet, la mention « Français. Original Anglais ».</alinea>
       </note>
-      <note id="sdfootnote19sym">
+      <note xmlns="" id="sdfootnote19sym">
         <no>19</no>
         <alinea>
 	Voir notamment Commission des droits de l’homme, <marquage typemarq="italique">Questions relatives aux populations autochtones</marquage>, 62 session, 22 mars 2006, E/CN.4/2006/79 ; Conseil des droits de l’homme, <marquage typemarq="italique">Mise en application de la résolution 60/251 de l’Assemblée générale du 15 mars 2006 intitulée « Conseil des droits de l’homme »</marquage>, 1 session, 21 juin 2006, A/HCR/1/L.3, p. 3-19.</alinea>
       </note>
-      <note id="sdfootnote20sym">
+      <note xmlns="" id="sdfootnote20sym">
         <no>20</no>
         <alinea>
 	Conseil des droits de l’homme, Rapport sur sa 1 session, 29 juin 2006, A/61/53.Supp., spéc. p. 19-20.</alinea>
       </note>
-      <note id="sdfootnote21sym">
+      <note xmlns="" id="sdfootnote21sym">
         <no>21</no>
         <alinea>
 	Alinéas 1, 3, 6.</alinea>
       </note>
-      <note id="sdfootnote22sym">
+      <note xmlns="" id="sdfootnote22sym">
         <no>22</no>
         <alinea>
 	Alinéa 6.</alinea>
       </note>
-      <note id="sdfootnote23sym">
+      <note xmlns="" id="sdfootnote23sym">
         <no>23</no>
         <alinea>
-	Il sera à cet égard intéressant de suivre les travaux de l’Organisation mondiale de la propriété intellectuelle, en charge de l’élaboration d’un instrument international sur la protection des savoirs traditionnels (cf <marquage typemarq="italique">infra</marquage>) ; en l’état actuel du projet d’articles (au 28 mars 2014), le préambule, constitué de 9 alinéas, fait référence à six reprises à la « reconnaissance » (La protection des savoirs traditionnels : projet d’articles, 2 juin 2014, WIPO/GRTKF/IC/28/5 <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.wipo.it">Voir en ligne</liensimple>).</alinea>
+	Il sera à cet égard intéressant de suivre les travaux de l’Organisation mondiale de la propriété intellectuelle, en charge de l’élaboration d’un instrument international sur la protection des savoirs traditionnels (cf <marquage typemarq="italique">infra</marquage>) ; en l’état actuel du projet d’articles (au 28 mars 2014), le préambule, constitué de 9 alinéas, fait référence à six reprises à la « reconnaissance » (La protection des savoirs traditionnels : projet d’articles, 2 juin 2014, WIPO/GRTKF/IC/28/5 <liensimple xlink:type="simple" xlink:href="http://www.wipo.it">Voir en ligne</liensimple>).</alinea>
       </note>
-      <note id="sdfootnote24sym">
+      <note xmlns="" id="sdfootnote24sym">
         <no>24</no>
         <alinea>
 	Lazzeri C., « Reconnaissance », <marquage typemarq="italique">in</marquage> Mesure S. et Savidan P., <marquage typemarq="italique">Le dictionnaire des sciences humaines</marquage>, PUF, 2006, p. 972-973.</alinea>
       </note>
-      <note id="sdfootnote25sym">
+      <note xmlns="" id="sdfootnote25sym">
         <no>25</no>
         <alinea>
 	Voir notam. Fraser N., <marquage typemarq="italique">Qu’est-ce que la justice sociale ? Reconnaissance et redistribution</marquage>, La Découverte, 2011, p. 182 ; Fraser N. et Honneth A., Redistribution or Recognition ? A Political-Philosophical Exchange, Verso, 2003, p. 224.</alinea>
       </note>
-      <note id="sdfootnote26sym">
+      <note xmlns="" id="sdfootnote26sym">
         <no>26</no>
         <alinea>
 	Renault E., « Reconnaissance, institutions, injustice », in <marquage typemarq="italique">Revue du Mauss</marquage>, 2004/1, n&amp;deg; 23, p. 184.</alinea>
       </note>
-      <note id="sdfootnote27sym">
+      <note xmlns="" id="sdfootnote27sym">
         <no>27</no>
         <alinea>
 	Alinéa 6.</alinea>
       </note>
-      <note id="sdfootnote28sym">
+      <note xmlns="" id="sdfootnote28sym">
         <no>28</no>
         <alinea>
 	Alinéa 13.</alinea>
       </note>
-      <note id="sdfootnote29sym">
+      <note xmlns="" id="sdfootnote29sym">
         <no>29</no>
         <alinea>
 	Quelles que soient les formes et conséquences sociales de cet aller-vers, qu’il ne s&amp;rsquo;agit pas de discuter ici (voir notam. Geslin A., « De l’entre-soi à l’entre-autre(s). Enjeux et ambiguïtés de la reconnaissance des droits des peuples autochtones » <marquage typemarq="italique">in</marquage> Muir-Watt H. et Tourme-Jouannet E., <marquage typemarq="italique">Droit international et reconnaissance</marquage>, Pedone, à paraître 2015).</alinea>
       </note>
-      <note id="sdfootnote30sym">
+      <note xmlns="" id="sdfootnote30sym">
         <no>30</no>
         <alinea>
 	Politiques d’extermination auxquelles ont succédé des politiques de réduction et d’assimilation, de placement forcé des enfants dans des orphelinats ou des familles d’accueil non-autochtones comme ce fut le cas en Australie et au Canada par exemple.</alinea>
       </note>
-      <note id="sdfootnote31sym">
+      <note xmlns="" id="sdfootnote31sym">
         <no>31</no>
         <alinea>
-	Il a ainsi fallu plus de deux ans et demi pour que la proposition de loi déposée par Christiane Taubira à l’Assemblée nationale, relative à la reconnaissance de la traite et de l’esclavage en tant que crimes contre l’humanité, soit définitivement adoptée (loi n&amp;deg; 2001-434 du 21 mai 2001, JORF, n&amp;deg; 0119, 23 mai 2001, p. 8175). Dans un autre domaine, mais révélateur de difficultés comparables, on peut mentionner les multiples propositions de loi déposées à l’Assemblée nationale et au Sénat depuis 2011, relatives à la reconnaissance de la répression de la manifestation du 17 octobre 1961 (à noter toutefois que le Sénat a adopté une résolution sur cette question le 23 octobre 2012). Il est intéressant de noter que la résolution de l’Assemblée nationale du 18 février 2014 relative aux enfants réunionnais placés en métropole dans les années 1960 et 1970 ne comporte pas le terme « reconnaissance », mais demande à ce que « la connaissance historique de cette affaire soit approfondie et diffusée » (<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.assemblee-nationale.fr/14/ta/ta0300.asp">Voir en ligne</liensimple>).</alinea>
+	Il a ainsi fallu plus de deux ans et demi pour que la proposition de loi déposée par Christiane Taubira à l’Assemblée nationale, relative à la reconnaissance de la traite et de l’esclavage en tant que crimes contre l’humanité, soit définitivement adoptée (loi n&amp;deg; 2001-434 du 21 mai 2001, JORF, n&amp;deg; 0119, 23 mai 2001, p. 8175). Dans un autre domaine, mais révélateur de difficultés comparables, on peut mentionner les multiples propositions de loi déposées à l’Assemblée nationale et au Sénat depuis 2011, relatives à la reconnaissance de la répression de la manifestation du 17 octobre 1961 (à noter toutefois que le Sénat a adopté une résolution sur cette question le 23 octobre 2012). Il est intéressant de noter que la résolution de l’Assemblée nationale du 18 février 2014 relative aux enfants réunionnais placés en métropole dans les années 1960 et 1970 ne comporte pas le terme « reconnaissance », mais demande à ce que « la connaissance historique de cette affaire soit approfondie et diffusée » (<liensimple xlink:type="simple" xlink:href="http://www.assemblee-nationale.fr/14/ta/ta0300.asp">Voir en ligne</liensimple>).</alinea>
       </note>
-      <note id="sdfootnote32sym">
+      <note xmlns="" id="sdfootnote32sym">
         <no>32</no>
         <alinea>
 	Assemblée générale des Nations Unies, 61 session, 108 séance plénière, 13 septembre 2007, A/61/PV.108, p. 11.</alinea>
       </note>
-      <note id="sdfootnote33sym">
+      <note xmlns="" id="sdfootnote33sym">
         <no>33</no>
         <alinea>
 	Flahault F., « Reconnaissance et anthropologie générale », in Caillé A. et Lazzeri C. (dir.), La reconnaissance aujourd’hui, CNRS Éditions, 2009, p. 461.</alinea>
       </note>
-      <note id="sdfootnote34sym">
+      <note xmlns="" id="sdfootnote34sym">
         <no>34</no>
         <alinea>
 	Saillant F., « Pour une anthropologie critique des droits humains », in Saillant F. et Truchon K. (dir.), Droits et cultures en mouvements, PUL, 2013, p. 9.</alinea>
       </note>
-      <note id="sdfootnote35sym">
+      <note xmlns="" id="sdfootnote35sym">
         <no>35</no>
         <alinea>
 	Assier-Andrieu L., <marquage typemarq="italique">Le droit dans les sociétés humaines</marquage>, <marquage typemarq="italique">op. cit</marquage>. p. 101.</alinea>
       </note>
-      <note id="sdfootnote36sym">
+      <note xmlns="" id="sdfootnote36sym">
         <no>36</no>
         <alinea>
 	Certes les langues véhiculaires du droit international ne sont pas radicalement étrangères aux peuples autochtones, puisque la très grande majorité de ces peuples est intégrée à des États dont une des langues officielles est une de ces six principales langues.</alinea>
       </note>
-      <note id="sdfootnote37sym">
+      <note xmlns="" id="sdfootnote37sym">
         <no>37</no>
         <alinea>
-	Le domaine public, dans le cadre des droits de propriété intellectuelle, est définit généralement comme incluant des « objets intangibles qui ne sont pas protégés par des droits de propriété intellectuelle exclusifs et qui sont donc librement utilisables ou exploitables par quiconque » (« Note sur les significations du terme &amp;quot;domaine public&amp;quot; dans le système de la propriété intellectuelle, traitant en particulier de la protection des savoirs traditionnels et des expressions culturelles traditionnelles ou expressions du folklore », 24 nov. 2010, WIPO/GRTKF/IC/17/INF/8, <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.wipo.int">Voir en ligne</liensimple>).</alinea>
+	Le domaine public, dans le cadre des droits de propriété intellectuelle, est définit généralement comme incluant des « objets intangibles qui ne sont pas protégés par des droits de propriété intellectuelle exclusifs et qui sont donc librement utilisables ou exploitables par quiconque » (« Note sur les significations du terme &amp;quot;domaine public&amp;quot; dans le système de la propriété intellectuelle, traitant en particulier de la protection des savoirs traditionnels et des expressions culturelles traditionnelles ou expressions du folklore », 24 nov. 2010, WIPO/GRTKF/IC/17/INF/8, <liensimple xlink:type="simple" xlink:href="http://www.wipo.int">Voir en ligne</liensimple>).</alinea>
       </note>
-      <note id="sdfootnote38sym">
+      <note xmlns="" id="sdfootnote38sym">
         <no>38</no>
         <alinea>
-	5session du Comité intergouvernemental de la propriété intellectuelle relative aux ressources génétiques, aux savoirs traditionnels et au folklore, 7-15 juil. 2003, &amp;sect; 53 WIPO/GRTKF/IC/5/15, <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.wipo.int">Voir en ligne</liensimple>.</alinea>
+	5session du Comité intergouvernemental de la propriété intellectuelle relative aux ressources génétiques, aux savoirs traditionnels et au folklore, 7-15 juil. 2003, &amp;sect; 53 WIPO/GRTKF/IC/5/15, <liensimple xlink:type="simple" xlink:href="http://www.wipo.int">Voir en ligne</liensimple>.</alinea>
       </note>
-      <note id="sdfootnote39sym">
+      <note xmlns="" id="sdfootnote39sym">
         <no>39</no>
         <alinea>
 	<marquage typemarq="italique">« Note sur les significations du terme &amp;ldquo;domaine public&amp;rdquo; dans le système de la propriété intellectuelle, traitant en particulier de la protection des savoirs traditionnels et des expressions culturelles traditionnelles ou expressions du folklore », op. cit., &amp;sect; 5.</marquage>
         </alinea>
       </note>
-      <note id="sdfootnote40sym">
+      <note xmlns="" id="sdfootnote40sym">
         <no>40</no>
         <alinea>
 	<marquage typemarq="italique">Ibid</marquage>.</alinea>
       </note>
-      <note id="sdfootnote41sym">
+      <note xmlns="" id="sdfootnote41sym">
         <no>41</no>
         <alinea>
 	Foucault M., <marquage typemarq="italique">Les mots et les choses. Une archéologie des sciences humaines</marquage>, Tel, Gallimard, 1966, p. 311.</alinea>
       </note>
-      <note id="sdfootnote42sym">
+      <note xmlns="" id="sdfootnote42sym">
         <no>42</no>
         <alinea>
 	Derrida J., <marquage typemarq="italique">Ulysse gramophone</marquage>, Galilée, 1987, p. 44.</alinea>
       </note>
-      <note id="sdfootnote43sym">
+      <note xmlns="" id="sdfootnote43sym">
         <no>43</no>
         <alinea>
 	Foscaneanu L., <marquage typemarq="italique">op. cit</marquage>., p. 258.</alinea>
       </note>
-      <note id="sdfootnote44sym">
+      <note xmlns="" id="sdfootnote44sym">
         <no>44</no>
         <alinea>
 	La protection des savoirs traditionnels : projets d’articles, 2 juin 2014, WIPO/GRTKF/IC/28/5, www.wipo.int. Cette version est très loin d’être définitive, en ce que de nombreuses dispositions sont encore assorties d’options et de variantes.</alinea>
       </note>
-      <note id="sdfootnote45sym">
+      <note xmlns="" id="sdfootnote45sym">
         <no>45</no>
         <alinea>
 	Rapport de l’Atelier d’experts des communautés autochtones sur la propriété intellectuelle relative aux ressources génétiques, aux savoirs traditionnels et aux expressions culturelles traditionnelles, Point VII du Commentaire sur la protection des savoirs traditionnels et des expressions culturelles traditionnelles, 8 mai 2014, WIPO/GRTKF/IC/28/INF/9, point VII, p. 5. En outre, on constate que, fort habilement, les experts autochtones « retournent » la notion de « domaine  » à leur avantage, le commentaire poursuivant en ces termes « [p]ar conséquent, toute utilisation légitime devrait être prévue pour une période convenue et à la condition que tous les droits relatifs au savoir reviennent aux peuples autochtones à l’expiration de cette période ».</alinea>
       </note>
-      <note id="sdfootnote46sym">
+      <note xmlns="" id="sdfootnote46sym">
         <no>46</no>
         <alinea>
 	Article 32 de la <marquage typemarq="italique">Convention de Vienne sur le droit des traités entre États</marquage> : « Il peut être fait appel à des moyens complémentaires d’interprétation, et notamment aux travaux préparatoires et aux circonstances dans lesquelles le traité a été conclu, en vue, soit de confirmer le sens résultant de l’application de l’article 31, soit de déterminer le sens lorsque l’interprétation donnée conformément à l’article 31 : a) laisse le sens ambigu ou obscur ; ou b) conduit à un résultat qui est manifestement absurde ou déraisonnable ».</alinea>
       </note>
-      <note id="sdfootnote47sym">
+      <note xmlns="" id="sdfootnote47sym">
         <no>47</no>
         <alinea>
 	Bonoli L., <marquage typemarq="italique">Lire les cultures. La connaissance de l’altérité culturelle à travers les textes</marquage>, ed. Kimé, 2008, p. 77.1</alinea>

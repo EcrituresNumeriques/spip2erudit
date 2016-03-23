@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd" qualtraitement="complet" idproprio="1028822ar" typeart="autre" lang="fr" ordseq="1">
-  <admin>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028822ar" typeart="autre" lang="fr" ordseq="1">
+  <admin xmlns="">
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
       <nbpara>6</nbpara>
@@ -53,7 +53,7 @@
     <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
     <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
   </admin>
-  <liminaire>
+  <liminaire xmlns="">
     <grtitre>
       <titre>S'amuser avec les images</titre>
     </grtitre>
@@ -74,7 +74,7 @@
       <motcle>Video et son</motcle>
     </grmotcle>
   </liminaire>
-  <corps>
+  <corps xmlns="">
     <section>
       <para>
         <alinea>
@@ -108,12 +108,12 @@
     </section>
   </corps>
   <partiesann>
-    <grnote>
-      <titre>Notes</titre>
-      <note id="sdfootnote1sym">
+    <grnote xmlns="" xmlns="http://www.erudit.org/xsd/article">
+      <titre xmlns="">Notes</titre>
+      <note xmlns="" id="sdfootnote1sym">
         <no>1</no>
         <alinea>
-	Revue <marquage typemarq="italique">Projections</marquage>, numéro 35 : s&amp;rsquo;amuser avec les images, janvier 2014, 124 p. [en ligne] URL : <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://fr.calameo.com/read/00051087895f82ae60a38">http://fr.calameo.com/read/00051087895f82ae60a38</liensimple>
+	Revue <marquage typemarq="italique">Projections</marquage>, numéro 35 : s&amp;rsquo;amuser avec les images, janvier 2014, 124 p. [en ligne] URL : <liensimple xlink:type="simple" xlink:href="http://fr.calameo.com/read/00051087895f82ae60a38">http://fr.calameo.com/read/00051087895f82ae60a38</liensimple>
         </alinea>
       </note>
     </grnote>
