@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd" qualtraitement="complet" idproprio="009308ar" typeart="autre" lang="fr" ordseq="1">
-  <admin>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028816ar" typeart="autre" lang="fr" ordseq="1">
+  <admin xmlns="">
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
       <nbpara>99</nbpara>
@@ -13,7 +13,7 @@
       <nbrefbiblio>0</nbrefbiblio>
       <nbnote>51</nbnote>
     </infoarticle>
-    <revue lang="fr" id="sp01868">
+    <revue id="sp01868" lang="fr">
       <titrerev>Sens public</titrerev>
       <titrerevabr>SP</titrerevabr>
       <idissnnum>2104-3272</idissnnum>
@@ -24,14 +24,14 @@
         </nompers>
       </directeur>
     </revue>
-    <numero>
+    <numero id="sp01946">
       <pub>
         <annee>2015</annee>
       </pub>
-      <pubnum>
+      <pubnum type="publication">
         <date>2015-04-14</date>
       </pubnum>
-      <grtheme>
+      <grtheme id="">
         <theme>Langues &amp; Normes</theme>
       </grtheme>
     </numero>
@@ -53,7 +53,7 @@
     <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
     <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
   </admin>
-  <liminaire>
+  <liminaire xmlns="">
     <grtitre>
       <titre>Le fantasme de la traduction automatique : esquisse d'un imaginaire frelaté</titre>
     </grtitre>
@@ -75,7 +75,7 @@
       <motcle>Traduction automatique</motcle>
     </grmotcle>
   </liminaire>
-  <corps>
+  <corps xmlns="">
     <section>
       <bloccitation>
         <alinea>
@@ -253,9 +253,9 @@
       </para>
       <para>
         <alinea>
-	<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href=""/>
-          <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href=""/>
-          <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href=""/> Tableau comparatif de traductions fournies par Google Translate à trois ans d’intervalle (données 2010<renvoi idref="sdfootnote42sym" typeref="note">42</renvoi>)</alinea>
+	<liensimple xlink:type="simple" xlink:href=""/>
+          <liensimple xlink:type="simple" xlink:href=""/>
+          <liensimple xlink:type="simple" xlink:href=""/> Tableau comparatif de traductions fournies par Google Translate à trois ans d’intervalle (données 2010<renvoi idref="sdfootnote42sym" typeref="note">42</renvoi>)</alinea>
       </para>
       <para>
         <alinea>
@@ -336,7 +336,7 @@
           </para>
 	<para>
             <alinea>
-		Demos, Kristin et Mark Frauenfelder, « Machine Translation’s Past and Future », <marquage typemarq="italique">Wired</marquage> [en ligne], no 8.05, mai 2000. &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.wired.com/wired/archive/8.05/timeline.html">http://www.wired.com/wired/archive/8.05/timeline.html</liensimple>&amp;gt;(page consultée le 5 décembre 2011).</alinea>
+		Demos, Kristin et Mark Frauenfelder, « Machine Translation’s Past and Future », <marquage typemarq="italique">Wired</marquage> [en ligne], no 8.05, mai 2000. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.wired.com/wired/archive/8.05/timeline.html">http://www.wired.com/wired/archive/8.05/timeline.html</liensimple>&amp;gt;(page consultée le 5 décembre 2011).</alinea>
           </para>
 	<para>
             <alinea>
@@ -384,15 +384,15 @@
           </para>
 	<para>
             <alinea>
-		Isabelle, Pierre, <marquage typemarq="italique">Introduction à la traduction automatique par règles </marquage>[en ligne], 2010, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://linguistech.ca/display657">http://linguistech.ca/display657</liensimple> &amp;gt; (page consultée le 20 juin 2013).</alinea>
+		Isabelle, Pierre, <marquage typemarq="italique">Introduction à la traduction automatique par règles </marquage>[en ligne], 2010, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://linguistech.ca/display657">http://linguistech.ca/display657</liensimple> &amp;gt; (page consultée le 20 juin 2013).</alinea>
           </para>
 	<para>
             <alinea>
-		Kay, Martin, <marquage typemarq="italique">The Proper Place of Men and Machines in Language Translation</marquage>, Palo Alto, Xerox Palo Alto Research Center [en ligne], 1980, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.mt-archive.info/Kay-1980.pdf">http://www.mt-archive.info/Kay-1980.pdf</liensimple>&amp;gt; (page consultée le 10 janvier 2013).</alinea>
+		Kay, Martin, <marquage typemarq="italique">The Proper Place of Men and Machines in Language Translation</marquage>, Palo Alto, Xerox Palo Alto Research Center [en ligne], 1980, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.mt-archive.info/Kay-1980.pdf">http://www.mt-archive.info/Kay-1980.pdf</liensimple>&amp;gt; (page consultée le 10 janvier 2013).</alinea>
           </para>
 	<para>
             <alinea>
-		Kuhn, Roland, <marquage typemarq="italique">Introduction à la traduction automatique statistique (TAS)</marquage> [en ligne], 2010, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://linguistech.ca/display658">http://linguistech.ca/display658</liensimple> &amp;gt; (page consultée le 25 juillet 2013).</alinea>
+		Kuhn, Roland, <marquage typemarq="italique">Introduction à la traduction automatique statistique (TAS)</marquage> [en ligne], 2010, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://linguistech.ca/display658">http://linguistech.ca/display658</liensimple> &amp;gt; (page consultée le 25 juillet 2013).</alinea>
           </para>
 	<para>
             <alinea>
@@ -404,7 +404,7 @@
           </para>
 	<para>
             <alinea>
-		Pérez, Celia Rico, « From Novelty to Ubiquity: Computers and Translation at the Close of the Industrial Age », <marquage typemarq="italique">Translation Journal </marquage>[en ligne], vol. 5, n 1, 2001, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://translationjournal.net/journal/15mt2.htm">http://translationjournal.net/journal/15mt2.htm</liensimple>&amp;gt; (page consultée le 28 novembre 2011).</alinea>
+		Pérez, Celia Rico, « From Novelty to Ubiquity: Computers and Translation at the Close of the Industrial Age », <marquage typemarq="italique">Translation Journal </marquage>[en ligne], vol. 5, n 1, 2001, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://translationjournal.net/journal/15mt2.htm">http://translationjournal.net/journal/15mt2.htm</liensimple>&amp;gt; (page consultée le 28 novembre 2011).</alinea>
           </para>
 	<para>
             <alinea>
@@ -412,7 +412,7 @@
           </para>
 	<para>
             <alinea>
-		Robinson, Douglas, « Cyborg Translation » dans Susan Petrilli, (dir.), <marquage typemarq="italique">La traduzione</marquage>. Édition spéciale d’<marquage typemarq="italique">Athanor: Semiotica, Filosofia, Arte, Letteratura </marquage>[en ligne], 10-2, 1999-2000, p. 219-233,  &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://home.olemiss.edu/~djr/pages/writer/articles/print/index.html">http://home.olemiss.edu/~djr/pages/writer/articles/print/index.html</liensimple>&amp;gt; (page consultée le 2 novembre 2014).</alinea>
+		Robinson, Douglas, « Cyborg Translation » dans Susan Petrilli, (dir.), <marquage typemarq="italique">La traduzione</marquage>. Édition spéciale d’<marquage typemarq="italique">Athanor: Semiotica, Filosofia, Arte, Letteratura </marquage>[en ligne], 10-2, 1999-2000, p. 219-233,  &amp;lt;<liensimple xlink:type="simple" xlink:href="http://home.olemiss.edu/~djr/pages/writer/articles/print/index.html">http://home.olemiss.edu/~djr/pages/writer/articles/print/index.html</liensimple>&amp;gt; (page consultée le 2 novembre 2014).</alinea>
           </para>
 	<para>
             <alinea>
@@ -424,7 +424,7 @@
           </para>
 	<para>
             <alinea>
-		TAUS, <marquage typemarq="italique">1954 Machine Translation Movie</marquage> [en ligne], 2010, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.youtube.com/watch?feature=player_embedded&amp;v=K-HfpsHPmvw">http://www.youtube.com/watch?feature=player_embedded&amp;v=K-HfpsHPmvw</liensimple>&amp;gt; (page consultée le 15 mai 2013).</alinea>
+		TAUS, <marquage typemarq="italique">1954 Machine Translation Movie</marquage> [en ligne], 2010, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.youtube.com/watch?feature=player_embedded&amp;v=K-HfpsHPmvw">http://www.youtube.com/watch?feature=player_embedded&amp;v=K-HfpsHPmvw</liensimple>&amp;gt; (page consultée le 15 mai 2013).</alinea>
           </para>
 	<para>
             <alinea>
@@ -460,7 +460,7 @@
 	<note id="sdfootnote1sym">
             <no>1</no>
             <alinea>
-		 Pour la référence originale, voir : <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.bbc.co.uk/cult/hitchhikers/guide/babelfish.shtml">http://www.bbc.co.uk/cult/hitchhikers/guide/babelfish.shtml</liensimple>
+		 Pour la référence originale, voir : <liensimple xlink:type="simple" xlink:href="http://www.bbc.co.uk/cult/hitchhikers/guide/babelfish.shtml">http://www.bbc.co.uk/cult/hitchhikers/guide/babelfish.shtml</liensimple>
             </alinea>
           </note>
 	<note id="sdfootnote2sym">
@@ -479,7 +479,7 @@
           </para>
 	<para>
             <alinea>
-		Kristin Demos et Mark Frauenfelder, « Machine Translation’s Past and Future », <marquage typemarq="italique">Wired</marquage> [en ligne], no 8.05, mai 2000, p. 1, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.wired.com/wired/archive/8.05/timeline.html">http://www.wired.com/wired/archive/8.05/timeline.html</liensimple>&amp;gt;(page consultée le 5 décembre 2011).</alinea>
+		Kristin Demos et Mark Frauenfelder, « Machine Translation’s Past and Future », <marquage typemarq="italique">Wired</marquage> [en ligne], no 8.05, mai 2000, p. 1, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.wired.com/wired/archive/8.05/timeline.html">http://www.wired.com/wired/archive/8.05/timeline.html</liensimple>&amp;gt;(page consultée le 5 décembre 2011).</alinea>
           </para>
 	<para>
             <alinea>
@@ -495,7 +495,7 @@
           </para>
 	<para>
             <alinea>
-		Celia Rico Pérez, « From Novelty to Ubiquity: Computers and Translation at the Close of the Industrial Age », <marquage typemarq="italique">Translation Journal </marquage>[en ligne], vol. 5, n 1, 2001, p.2, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://translationjournal.net/journal/15mt2.htm">http://translationjournal.net/journal/15mt2.htm</liensimple>&amp;gt; (page consultée le 28 novembre 2011).</alinea>
+		Celia Rico Pérez, « From Novelty to Ubiquity: Computers and Translation at the Close of the Industrial Age », <marquage typemarq="italique">Translation Journal </marquage>[en ligne], vol. 5, n 1, 2001, p.2, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://translationjournal.net/journal/15mt2.htm">http://translationjournal.net/journal/15mt2.htm</liensimple>&amp;gt; (page consultée le 28 novembre 2011).</alinea>
           </para>
 	<para>
             <alinea>
@@ -508,7 +508,7 @@
 	<note id="sdfootnote4sym">
             <no>4</no>
             <alinea>
-		 Cette correspondance est reprise dans le Mémorandum de Weaver intitulé <marquage typemarq="italique">Translation</marquage>. Une copie des textes originaux peut être consultée à l’adresse suivante : <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.mt-archive.info/50/Weaver-1947-typescript.pdf">http://www.mt-archive.info/50/Weaver-1947-typescript.pdf</liensimple>.</alinea>
+		 Cette correspondance est reprise dans le Mémorandum de Weaver intitulé <marquage typemarq="italique">Translation</marquage>. Une copie des textes originaux peut être consultée à l’adresse suivante : <liensimple xlink:type="simple" xlink:href="http://www.mt-archive.info/50/Weaver-1947-typescript.pdf">http://www.mt-archive.info/50/Weaver-1947-typescript.pdf</liensimple>.</alinea>
           </note>
 	<note id="sdfootnote5sym">
             <no>5</no>
@@ -597,7 +597,7 @@
 	<note id="sdfootnote20sym">
             <no>20</no>
             <alinea>
-		 Pierre Isabelle, <marquage typemarq="italique">Introduction à la traduction automatique par règles </marquage>[en ligne], 2010, p. 9, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://linguistech.ca/display657">http://linguistech.ca/display657</liensimple> &amp;gt; (page consultée le 20 juin 2013).</alinea>
+		 Pierre Isabelle, <marquage typemarq="italique">Introduction à la traduction automatique par règles </marquage>[en ligne], 2010, p. 9, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://linguistech.ca/display657">http://linguistech.ca/display657</liensimple> &amp;gt; (page consultée le 20 juin 2013).</alinea>
           </note>
 	<note id="sdfootnote21sym">
             <no>21</no>
@@ -682,7 +682,7 @@
           </note>
 	<para>
             <alinea>
-		Roland Kuhn, <marquage typemarq="italique">Introduction à la traduction automatique statistique (TAS)</marquage> [en ligne], 2010, p.15 &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://linguistech.ca/display658">http://linguistech.ca/display658</liensimple> &amp;gt; (page consultée le 25 juillet 2013).</alinea>
+		Roland Kuhn, <marquage typemarq="italique">Introduction à la traduction automatique statistique (TAS)</marquage> [en ligne], 2010, p.15 &amp;lt;<liensimple xlink:type="simple" xlink:href="http://linguistech.ca/display658">http://linguistech.ca/display658</liensimple> &amp;gt; (page consultée le 25 juillet 2013).</alinea>
           </para>
 	<note id="sdfootnote37sym">
             <no>37</no>
@@ -725,7 +725,7 @@
 	<note id="sdfootnote44sym">
             <no>44</no>
             <alinea>
-		 Martin Kay, <marquage typemarq="italique">The Proper Place of Men and Machines in Language Translation</marquage>, Palo Alto, Xerox Palo Alto Research Center [en ligne], 1980, p. 3. &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.mt-archive.info/Kay-1980.pdf">http://www.mt-archive.info/Kay-1980.pdf</liensimple>&amp;gt; (page consultée le 10 janvier 2013).</alinea>
+		 Martin Kay, <marquage typemarq="italique">The Proper Place of Men and Machines in Language Translation</marquage>, Palo Alto, Xerox Palo Alto Research Center [en ligne], 1980, p. 3. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.mt-archive.info/Kay-1980.pdf">http://www.mt-archive.info/Kay-1980.pdf</liensimple>&amp;gt; (page consultée le 10 janvier 2013).</alinea>
           </note>
 	<note id="sdfootnote45sym">
             <no>45</no>
@@ -750,7 +750,7 @@
 	<note id="sdfootnote49sym">
             <no>49</no>
             <alinea>
-		 Douglas Robinson, « Cyborg Translation » dans Susan Petrilli, (dir.), <marquage typemarq="italique">La traduzione</marquage>. Édition spéciale d’<marquage typemarq="italique">Athanor: Semiotica, Filosofia, Arte, Letteratura </marquage>[en ligne], 10-2, 1999-2000, p. 219-233,  &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://home.olemiss.edu/~djr/pages/writer/articles/print/index.html">http://home.olemiss.edu/~djr/pages/writer/articles/print/index.html</liensimple>&amp;gt; (page consultée le 2 novembre 2014).</alinea>
+		 Douglas Robinson, « Cyborg Translation » dans Susan Petrilli, (dir.), <marquage typemarq="italique">La traduzione</marquage>. Édition spéciale d’<marquage typemarq="italique">Athanor: Semiotica, Filosofia, Arte, Letteratura </marquage>[en ligne], 10-2, 1999-2000, p. 219-233,  &amp;lt;<liensimple xlink:type="simple" xlink:href="http://home.olemiss.edu/~djr/pages/writer/articles/print/index.html">http://home.olemiss.edu/~djr/pages/writer/articles/print/index.html</liensimple>&amp;gt; (page consultée le 2 novembre 2014).</alinea>
           </note>
 	<note id="sdfootnote50sym">
             <no>50</no>
@@ -768,265 +768,265 @@
     </section>
   </corps>
   <partiesann>
-    <grnote>
-      <titre>Notes</titre>
-      <note id="sdfootnote1sym">
+    <grnote xmlns="" xmlns="http://www.erudit.org/xsd/article">
+      <titre xmlns="">Notes</titre>
+      <note xmlns="" id="sdfootnote1sym">
         <no>1</no>
         <alinea>
-		 Pour la référence originale, voir : <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.bbc.co.uk/cult/hitchhikers/guide/babelfish.shtml">http://www.bbc.co.uk/cult/hitchhikers/guide/babelfish.shtml</liensimple>
+		 Pour la référence originale, voir : <liensimple xlink:type="simple" xlink:href="http://www.bbc.co.uk/cult/hitchhikers/guide/babelfish.shtml">http://www.bbc.co.uk/cult/hitchhikers/guide/babelfish.shtml</liensimple>
         </alinea>
       </note>
-      <note id="sdfootnote2sym">
+      <note xmlns="" id="sdfootnote2sym">
         <no>2</no>
         <alinea>
 		 Karl Heinz Freigang, « Automation of Translation: Past, Presence, and Future », <marquage typemarq="italique">Revista Tradumàtica</marquage> [en ligne], n 0, octobre 2001, p.1, &amp;lt;http://www.fti.uab.es/tradumatica/revista/num0/articles/khfreigang/imprimir.pdf&amp;gt; (page consultée le 2 décembre 2011).</alinea>
       </note>
-      <note id="sdfootnote3sym">
+      <note xmlns="" id="sdfootnote3sym">
         <no>3</no>
         <alinea>
 		 Plusieurs références à l’appui, parmi de nombreuses autres.</alinea>
       </note>
-      <note id="sdfootnote4sym">
+      <note xmlns="" id="sdfootnote4sym">
         <no>4</no>
         <alinea>
-		 Cette correspondance est reprise dans le Mémorandum de Weaver intitulé <marquage typemarq="italique">Translation</marquage>. Une copie des textes originaux peut être consultée à l’adresse suivante : <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.mt-archive.info/50/Weaver-1947-typescript.pdf">http://www.mt-archive.info/50/Weaver-1947-typescript.pdf</liensimple>.</alinea>
+		 Cette correspondance est reprise dans le Mémorandum de Weaver intitulé <marquage typemarq="italique">Translation</marquage>. Une copie des textes originaux peut être consultée à l’adresse suivante : <liensimple xlink:type="simple" xlink:href="http://www.mt-archive.info/50/Weaver-1947-typescript.pdf">http://www.mt-archive.info/50/Weaver-1947-typescript.pdf</liensimple>.</alinea>
       </note>
-      <note id="sdfootnote5sym">
+      <note xmlns="" id="sdfootnote5sym">
         <no>5</no>
         <alinea>
 		 « [&amp;hellip;] as to the problem of mechanical translation, lui répond-il, I frankly am afraid the boundaries of words in different languages are too vague and the emotional and international connotations are too extensive to make any quasi mechanical translation scheme very hopeful. I will admit that basic English seems to indicate that we can go further than we have generally done in the mechanization of speech. [&amp;hellip;] At the present time, the mechanization of language, beyond such a stage as the design of photoelectric reading opportunities for the blind, seems very premature.  » (Weaver, 1955, p. 19) Wiener, pourtant le mieux outillé pour attaquer le problème aux dires de Weaver, avait bien identifié l’écueil qui guetterait les chercheurs quelques années plus tard. Ainsi, nombre de spécialistes, incluant le « père de la TA » lui-même ont émis des doutes quant aux chances de succès de l’entreprise, mais leurs doléances n’ont pas eu l’effet modérateur escompté.</alinea>
       </note>
-      <note id="sdfootnote6sym">
+      <note xmlns="" id="sdfootnote6sym">
         <no>6</no>
         <alinea>
 		 Warren Weaver, « Translation », <marquage typemarq="italique">Machine Translation of Languages</marquage>, William S. Locke et Andrew. D. Booth (dir.), Cambridge (Mass.), The Technology Press of the MIT, 1955, p. 18.</alinea>
       </note>
-      <note id="sdfootnote7sym">
+      <note xmlns="" id="sdfootnote7sym">
         <no>7</no>
         <alinea>
 		 Voir entre autres Geneviève Has, 2014.</alinea>
       </note>
-      <note id="sdfootnote8sym">
+      <note xmlns="" id="sdfootnote8sym">
         <no>8</no>
         <alinea>
 		 Première génération : approche directe (il s&amp;rsquo;agit d’une approche mot-à-mot, utilisant principalement des dictionnaires de correspondance). Weaver la mentionne surtout comme l’approche privilégiée dans l’état « actuel » de la recherche. (Weaver, <marquage typemarq="italique">op. cit.</marquage>, p. 18-20)</alinea>
       </note>
-      <note id="sdfootnote9sym">
+      <note xmlns="" id="sdfootnote9sym">
         <no>9</no>
         <alinea>
 		 Warren Weaver, <marquage typemarq="italique">Op. cit.</marquage>, p. 20.</alinea>
       </note>
-      <note id="sdfootnote10sym">
+      <note xmlns="" id="sdfootnote10sym">
         <no>10</no>
         <alinea>
 		<marquage typemarq="italique">Ibid., </marquage>page 24.</alinea>
       </note>
-      <note id="sdfootnote11sym">
+      <note xmlns="" id="sdfootnote11sym">
         <no>11</no>
         <alinea>
 		 « And it is one of the chief purposes of this memorandum to emphasize that statistical semantic studies should be undertaken, as a necessary preliminary step. » (<marquage typemarq="italique">Ibid.</marquage>, p. 24)</alinea>
       </note>
-      <note id="sdfootnote12sym">
+      <note xmlns="" id="sdfootnote12sym">
         <no>12</no>
         <alinea>
 		 À ce sujet, voir la vidéo d’un entretien avec les chercheurs de l’équipe Georgetown-IBM, qui présentent leurs prédictions (http://www.youtube.com/watch?feature=player_embedded&amp;v=K-HfpsHPmvw [TAUS, 2010]).</alinea>
       </note>
-      <note id="sdfootnote13sym">
+      <note xmlns="" id="sdfootnote13sym">
         <no>13</no>
         <alinea>
 		 John Hutchins, « The Georgetown-IBM demonstration, 7 January 1954 », <marquage typemarq="italique">MT News International</marquage>, n 8, 1994, p. 15.</alinea>
       </note>
-      <note id="sdfootnote14sym">
+      <note xmlns="" id="sdfootnote14sym">
         <no>14</no>
         <alinea>
 		 <marquage typemarq="italique">Ibid., </marquage>page 15.</alinea>
       </note>
-      <note id="sdfootnote15sym">
+      <note xmlns="" id="sdfootnote15sym">
         <no>15</no>
         <alinea>
 		 <marquage typemarq="italique">Ibid., </marquage>page 16.</alinea>
       </note>
-      <note id="sdfootnote16sym">
+      <note xmlns="" id="sdfootnote16sym">
         <no>16</no>
         <alinea>
 		 <marquage typemarq="italique">Ibid.</marquage>, page 17.</alinea>
       </note>
-      <note id="sdfootnote17sym">
+      <note xmlns="" id="sdfootnote17sym">
         <no>17</no>
         <alinea>
 		 Alan Melby, <marquage typemarq="italique">op. cit.</marquage>, page 20.</alinea>
       </note>
-      <note id="sdfootnote18sym">
+      <note xmlns="" id="sdfootnote18sym">
         <no>18</no>
         <alinea>
 		 <marquage typemarq="italique">Ibid., </marquage>page 19.</alinea>
       </note>
-      <note id="sdfootnote19sym">
+      <note xmlns="" id="sdfootnote19sym">
         <no>19</no>
         <alinea>
 		 Peter J. Wheeler, dans Machine Translation Today, relate l’anecdote suivante : « if it [Systran] did not produce the apocryphal sentence about steak and vodka, [it] certainly did translate <marquage typemarq="italique">La Cour de justice envisage la création d’un cinquième poste d’avocat général</marquage> as &amp;ldquo;the yard of justice is considering the creation of a fifth general avocado station&amp;rdquo; » (Peter Wheeler, « Systran », <marquage typemarq="italique">Machine Translation Today: The State of the Art</marquage>, Margaret King (dir.), Édimbourg, Edinburgh University Press, 1987, p. 192.)Pour les détails concernant « the apocryphal sentence about steak and vodka », ou les mythes tenaces concernant la TA, voir Hutchins, 1995, p. 17-18.</alinea>
       </note>
-      <note id="sdfootnote20sym">
+      <note xmlns="" id="sdfootnote20sym">
         <no>20</no>
         <alinea>
-		 Pierre Isabelle, <marquage typemarq="italique">Introduction à la traduction automatique par règles </marquage>[en ligne], 2010, p. 9, &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://linguistech.ca/display657">http://linguistech.ca/display657</liensimple> &amp;gt; (page consultée le 20 juin 2013).</alinea>
+		 Pierre Isabelle, <marquage typemarq="italique">Introduction à la traduction automatique par règles </marquage>[en ligne], 2010, p. 9, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://linguistech.ca/display657">http://linguistech.ca/display657</liensimple> &amp;gt; (page consultée le 20 juin 2013).</alinea>
       </note>
-      <note id="sdfootnote21sym">
+      <note xmlns="" id="sdfootnote21sym">
         <no>21</no>
         <alinea>
 		 Il n’en reste pas moins que l’un des systèmes commerciaux les plus anciens, SYSTRAN, a été conçu en approche directe (quoique depuis ses débuts, des modifications y ont été apportées et que le SYSTRAN se trouve maintenant sous la catégorie des systèmes hybrides). Les systèmes directs sont maintenant utilisés pour des paires de langues qui ont une structure et un vocabulaire grandement similaires, de façon à ce que les concepteurs puissent tirer profit de cette similarité et concentrer leurs efforts sur les différences entre les langues, sans que ces dernières ne soient démesurées.</alinea>
       </note>
-      <note id="sdfootnote22sym">
+      <note xmlns="" id="sdfootnote22sym">
         <no>22</no>
         <alinea>
 		 ALPAC, <marquage typemarq="italique">Language and Machines: Computers in Translation and Linguistic</marquage>, Washington, D.C., National Academy of Science and National Research Council, 1966.</alinea>
       </note>
-      <note id="sdfootnote23sym">
+      <note xmlns="" id="sdfootnote23sym">
         <no>23</no>
         <alinea>
 		 John Hutchins, « Machine Translation over Fifty Years », <marquage typemarq="italique">Histoire Épistémologie Langage</marquage>, tome 23, fascicule 1, 2001, p. 7-31.</alinea>
       </note>
-      <note id="sdfootnote24sym">
+      <note xmlns="" id="sdfootnote24sym">
         <no>24</no>
         <alinea>
 		 Harold Somers, <marquage typemarq="italique">Computers and Translation: A Translator&amp;rsquo;s Guide</marquage>, John Benjamin, Amsterdam, 2003.</alinea>
       </note>
-      <note id="sdfootnote25sym">
+      <note xmlns="" id="sdfootnote25sym">
         <no>25</no>
         <alinea>
 		 <marquage typemarq="italique">Ibid., </marquage>p. 5.</alinea>
       </note>
-      <note id="sdfootnote26sym">
+      <note xmlns="" id="sdfootnote26sym">
         <no>26</no>
         <alinea>
 		<marquage typemarq="italique"> Ibid.</marquage>, p. 5-6.</alinea>
       </note>
-      <note id="sdfootnote27sym">
+      <note xmlns="" id="sdfootnote27sym">
         <no>27</no>
         <alinea>
 		 Pierre Isabelle, <marquage typemarq="italique">op. cit.</marquage>, p. 14.</alinea>
       </note>
-      <note id="sdfootnote28sym">
+      <note xmlns="" id="sdfootnote28sym">
         <no>28</no>
         <alinea>
 		 John Hutchins « Latest Developments in Machine Translation Technology: Beginning a New Era in MT Research », <marquage typemarq="italique">MT Summit IV: International Cooperation for Global Communication. Proceedings, July 20-22, 1993</marquage>, Kobe, Japon, 1993, p. 11.</alinea>
       </note>
-      <note id="sdfootnote29sym">
+      <note xmlns="" id="sdfootnote29sym">
         <no>29</no>
         <alinea>
 		 <marquage typemarq="italique">Id.</marquage>, « Machine Translation over Fifty Years », <marquage typemarq="italique">Histoire Épistémologie Langage</marquage>, tome 23, fascicule 1, 2001, p. 17.</alinea>
       </note>
-      <note id="sdfootnote30sym">
+      <note xmlns="" id="sdfootnote30sym">
         <no>30</no>
         <alinea>
 		 Marie-Claude L’Homme, <marquage typemarq="italique">op. cit.</marquage>, p. 14.</alinea>
       </note>
-      <note id="sdfootnote31sym">
+      <note xmlns="" id="sdfootnote31sym">
         <no>31</no>
         <alinea>
 		 John Hutchins, « The Origins of the Translator&amp;rsquo;s Workstation », <marquage typemarq="italique">Machine Translation</marquage>, vol. 13, n 4, 1998, p. 15.</alinea>
       </note>
-      <note id="sdfootnote32sym">
+      <note xmlns="" id="sdfootnote32sym">
         <no>32</no>
         <alinea>
 		 <marquage typemarq="italique">Id.</marquage>, « Latest Developments in Machine Translation Technology: Beginning a New Era in MT Research », <marquage typemarq="italique">MT Summit IV: International Cooperation for Global Communication. Proceedings, July 20-22, 1993</marquage>, Kobe, Japon, 1993, p. 11.</alinea>
       </note>
-      <note id="sdfootnote33sym">
+      <note xmlns="" id="sdfootnote33sym">
         <no>33</no>
         <alinea>
 		 <marquage typemarq="italique">Ibid.</marquage>
         </alinea>
       </note>
-      <note id="sdfootnote34sym">
+      <note xmlns="" id="sdfootnote34sym">
         <no>34</no>
         <alinea>
 		 <marquage typemarq="italique">Id.,</marquage> « Out of the Shadows: a Retrospect of Machine Translation in the Eighties », <marquage typemarq="italique">Terminologie et Traduction</marquage>, n 3, 1990, p. 277-278.</alinea>
       </note>
-      <note id="sdfootnote35sym">
+      <note xmlns="" id="sdfootnote35sym">
         <no>35</no>
         <alinea>
 		 Tony Whitecomb, « Statistical methods gaining ground », <marquage typemarq="italique">Language Industry Monitor</marquage>, n 11, Sept-Oct 1992, p. 1.</alinea>
       </note>
-      <note id="sdfootnote36sym">
+      <note xmlns="" id="sdfootnote36sym">
         <no>36</no>
         <alinea>
 		 Chiew Kin Quah, <marquage typemarq="italique">Translation and Technology</marquage>, New York, Palgrave Macmillan, 2006, p.78.</alinea>
       </note>
-      <note id="sdfootnote37sym">
+      <note xmlns="" id="sdfootnote37sym">
         <no>37</no>
         <alinea>
 		<marquage typemarq="italique"> Ibid.</marquage>, p.11.</alinea>
       </note>
-      <note id="sdfootnote38sym">
+      <note xmlns="" id="sdfootnote38sym">
         <no>38</no>
         <alinea>
 		 <marquage typemarq="italique">Ibid.</marquage>
         </alinea>
       </note>
-      <note id="sdfootnote39sym">
+      <note xmlns="" id="sdfootnote39sym">
         <no>39</no>
         <alinea>
 		 <marquage typemarq="italique">Ibid.</marquage>
         </alinea>
       </note>
-      <note id="sdfootnote40sym">
+      <note xmlns="" id="sdfootnote40sym">
         <no>40</no>
         <alinea>
 		 <marquage typemarq="italique">Ibid.</marquage>
         </alinea>
       </note>
-      <note id="sdfootnote41sym">
+      <note xmlns="" id="sdfootnote41sym">
         <no>41</no>
         <alinea>
 		 <marquage typemarq="italique">Ibid.</marquage>, p. 25.</alinea>
       </note>
-      <note id="sdfootnote42sym">
+      <note xmlns="" id="sdfootnote42sym">
         <no>42</no>
         <alinea>
 		 <marquage typemarq="italique">Ibid.</marquage>, p. 26.</alinea>
       </note>
-      <note id="sdfootnote43sym">
+      <note xmlns="" id="sdfootnote43sym">
         <no>43</no>
         <alinea>
 		 <marquage typemarq="italique">Ibid.</marquage>, p. 26.</alinea>
       </note>
-      <note id="sdfootnote44sym">
+      <note xmlns="" id="sdfootnote44sym">
         <no>44</no>
         <alinea>
-		 Martin Kay, <marquage typemarq="italique">The Proper Place of Men and Machines in Language Translation</marquage>, Palo Alto, Xerox Palo Alto Research Center [en ligne], 1980, p. 3. &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.mt-archive.info/Kay-1980.pdf">http://www.mt-archive.info/Kay-1980.pdf</liensimple>&amp;gt; (page consultée le 10 janvier 2013).</alinea>
+		 Martin Kay, <marquage typemarq="italique">The Proper Place of Men and Machines in Language Translation</marquage>, Palo Alto, Xerox Palo Alto Research Center [en ligne], 1980, p. 3. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.mt-archive.info/Kay-1980.pdf">http://www.mt-archive.info/Kay-1980.pdf</liensimple>&amp;gt; (page consultée le 10 janvier 2013).</alinea>
       </note>
-      <note id="sdfootnote45sym">
+      <note xmlns="" id="sdfootnote45sym">
         <no>45</no>
         <alinea>
 		 Traducteur 1, 2011.</alinea>
       </note>
-      <note id="sdfootnote46sym">
+      <note xmlns="" id="sdfootnote46sym">
         <no>46</no>
         <alinea>
 		 Traducteur 2, 2011.</alinea>
       </note>
-      <note id="sdfootnote47sym">
+      <note xmlns="" id="sdfootnote47sym">
         <no>47</no>
         <alinea>
 		 Traducteur 3, 2011.</alinea>
       </note>
-      <note id="sdfootnote48sym">
+      <note xmlns="" id="sdfootnote48sym">
         <no>48</no>
         <alinea>
 		 Sch&amp;auml;ler, 2007, p.157.</alinea>
       </note>
-      <note id="sdfootnote49sym">
+      <note xmlns="" id="sdfootnote49sym">
         <no>49</no>
         <alinea>
-		 Douglas Robinson, « Cyborg Translation » dans Susan Petrilli, (dir.), <marquage typemarq="italique">La traduzione</marquage>. Édition spéciale d’<marquage typemarq="italique">Athanor: Semiotica, Filosofia, Arte, Letteratura </marquage>[en ligne], 10-2, 1999-2000, p. 219-233,  &amp;lt;<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://home.olemiss.edu/~djr/pages/writer/articles/print/index.html">http://home.olemiss.edu/~djr/pages/writer/articles/print/index.html</liensimple>&amp;gt; (page consultée le 2 novembre 2014).</alinea>
+		 Douglas Robinson, « Cyborg Translation » dans Susan Petrilli, (dir.), <marquage typemarq="italique">La traduzione</marquage>. Édition spéciale d’<marquage typemarq="italique">Athanor: Semiotica, Filosofia, Arte, Letteratura </marquage>[en ligne], 10-2, 1999-2000, p. 219-233,  &amp;lt;<liensimple xlink:type="simple" xlink:href="http://home.olemiss.edu/~djr/pages/writer/articles/print/index.html">http://home.olemiss.edu/~djr/pages/writer/articles/print/index.html</liensimple>&amp;gt; (page consultée le 2 novembre 2014).</alinea>
       </note>
-      <note id="sdfootnote50sym">
+      <note xmlns="" id="sdfootnote50sym">
         <no>50</no>
         <alinea>
 		 <marquage typemarq="italique">Ibid. </marquage>
         </alinea>
       </note>
-      <note id="sdfootnote51sym">
+      <note xmlns="" id="sdfootnote51sym">
         <no>51</no>
         <alinea>
 		 Voir Geneviève Has 2013 et 2014b.</alinea>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd" qualtraitement="complet" idproprio="009308ar" typeart="autre" lang="fr" ordseq="1">
-  <admin>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028809ar" typeart="autre" lang="fr" ordseq="1">
+  <admin xmlns="">
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
       <nbpara>15</nbpara>
@@ -13,7 +13,7 @@
       <nbrefbiblio>0</nbrefbiblio>
       <nbnote>17</nbnote>
     </infoarticle>
-    <revue lang="fr" id="sp01868">
+    <revue id="sp01868" lang="fr">
       <titrerev>Sens public</titrerev>
       <titrerevabr>SP</titrerevabr>
       <idissnnum>2104-3272</idissnnum>
@@ -25,21 +25,20 @@
       </directeur>
       <redacteurchef typerc="invite" sexe="masculin">
         <fonction lang="fr"/>
-        <contribution/>
         <nompers>
           <prenom>François</prenom>
           <nomfamille>Viangalli</nomfamille>
         </nompers>
       </redacteurchef>
     </revue>
-    <numero>
+    <numero id="sp01945">
       <pub>
         <annee>2015</annee>
       </pub>
-      <pubnum>
+      <pubnum type="publication">
         <date>2015-03-02</date>
       </pubnum>
-      <grtheme>
+      <grtheme id="">
         <theme>Langues &amp; Normes</theme>
       </grtheme>
     </numero>
@@ -61,7 +60,7 @@
     <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
     <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
   </admin>
-  <liminaire>
+  <liminaire xmlns="">
     <grtitre>
       <titre>La notion de pluri-officalité dans les Constitutions nationales. Les exemples espagnol, italien, suisse et belge</titre>
     </grtitre>
@@ -83,7 +82,7 @@
       <motcle>Langues &amp; Normes</motcle>
     </grmotcle>
   </liminaire>
-  <corps>
+  <corps xmlns="">
     <section>
       <para>
         <alinea>
@@ -195,90 +194,90 @@
     </section>
   </corps>
   <partiesann>
-    <grnote>
-      <titre>Notes</titre>
-      <note id="sdfootnote1sym">
+    <grnote xmlns="" xmlns="http://www.erudit.org/xsd/article">
+      <titre xmlns="">Notes</titre>
+      <note xmlns="" id="sdfootnote1sym">
         <no>1</no>
         <alinea>
 	J.-A. Laponce, « La distribution géographique des groupes linguistiques et les solutions personnelles et territoriales aux problèmes de l’État bilingue », in A. Martin (sous la dir.), <marquage typemarq="italique">L’État et la planification linguistique</marquage>, Tome I Principes généraux, Gouvernement du Québec, Office de la langue française, Québec, 1981, p. 95 ; F. Delpérée, « Territorialité ou personnalité linguistique ? », in A.-M. Le Pourhiet (sous la dir.), <marquage typemarq="italique">Langue(s) et Constitution(s)</marquage>, Economica, Presses Universitaires d’Aix-Marseille, Paris, 2004, p. 103.</alinea>
       </note>
-      <note id="sdfootnote2sym">
+      <note xmlns="" id="sdfootnote2sym">
         <no>2</no>
         <alinea>
 	« <marquage typemarq="italique">El castellano es la lengua espa&amp;ntilde;ola oficial del Estado</marquage> ». Article 3 alinéa 1 de la Constitution espagnole du 27 décembre 1978, <marquage typemarq="italique">B.O.E.</marquage> n&amp;deg; 311, 29 décembre 1978.</alinea>
       </note>
-      <note id="sdfootnote3sym">
+      <note xmlns="" id="sdfootnote3sym">
         <no>3</no>
         <alinea>
 	« Las dem&amp;aacute;s lenguas espa&amp;ntilde;olas ser&amp;aacute;n también oficiales en las respectivas Comunidades Aut&amp;oacute;nomas de acuerdo con sus Estatutos. La riqueza de las distintas modalidades ling&amp;uuml;&amp;iacute;sticas de Espa&amp;ntilde;a es un patrimonio cultural que ser&amp;aacute; objeto de especial respeto y protecci&amp;oacute;n ». Article 3 alinéa 2 de la Constitution espagnole du 27 décembre 1978, B.O.E. n&amp;deg; 311, 29 décembre 1978.</alinea>
       </note>
-      <note id="sdfootnote4sym">
+      <note xmlns="" id="sdfootnote4sym">
         <no>4</no>
         <alinea>
 	Le catalan est la langue co-officielle des Communautés autonomes de Catalogne et des îles Baléares, le valencien est reconnu dans la Communauté autonome de Valence, le galicien dans la Communauté autonome de Galice et l’euskera dans les Communautés autonomes du Pays basque et de Navarre.</alinea>
       </note>
-      <note id="sdfootnote5sym">
+      <note xmlns="" id="sdfootnote5sym">
         <no>5</no>
         <alinea>
 	Article 2 de la Constitution belge du 17 février 1994, M.B. du 17 février 1994.</alinea>
       </note>
-      <note id="sdfootnote6sym">
+      <note xmlns="" id="sdfootnote6sym">
         <no>6</no>
         <alinea>
 	Article 3 de la Constitution belge du 17 février 1994, M.B. du 17 février 1994.Article 3 de la Constitution belge du 17 février 1994, M.B. du 17 février 1994.</alinea>
       </note>
-      <note id="sdfootnote7sym">
+      <note xmlns="" id="sdfootnote7sym">
         <no>7</no>
         <alinea>
 	<marquage typemarq="italique">IArticle 70 alinéas 1 et 2 de la Constitution suisse du 18 avril 1999, R.O. 1999, p. 2556.</marquage>
         </alinea>
       </note>
-      <note id="sdfootnote8sym">
+      <note xmlns="" id="sdfootnote8sym">
         <no>8</no>
         <alinea>
 	« Las comunidades Aut&amp;oacute;nomas podràn asumir las competencias en las siguientes materias : 17- El fomento de la cultura de la investigaci&amp;oacute;n y, en su caso, de la ense&amp;ntilde;anza de la lengua de la Comunidad Aut&amp;oacute;noma ». Article 148.1.17 de la Constitution espagnole du 27 décembre 1978, B.O.E. n&amp;deg; 311, 29 décembre 1978.</alinea>
       </note>
-      <note id="sdfootnote9sym">
+      <note xmlns="" id="sdfootnote9sym">
         <no>9</no>
         <alinea>
 	« La langue française et la langue italienne sont à parité en Vallée d’Aoste ». Article 38 du Statut du Val d’Aoste, (Loi constitutionnelle n&amp;deg; 4 du 26 février 1948, G.U. n&amp;deg; 59 du 10 mars 1948).</alinea>
       </note>
-      <note id="sdfootnote10sym">
+      <note xmlns="" id="sdfootnote10sym">
         <no>10</no>
         <alinea>
 	<marquage typemarq="italique">&amp;laquo;</marquage> Dans la Région, la langue allemande est mise sur un pied d’égalité avec la langue italienne, qui est la langue officielle de l’État ». Article 99 du Statut spécial du Trentin-Haut-Adige, décret du Président de la République [d.p.r] du 31 août 1972, n&amp;deg; 670, approuvant le texte unique des lois constitutionnelles concernant le statut spécial pour le Trentin-Haut-Adige, G.U. n&amp;deg; 301, 20 novembre 1972.</alinea>
       </note>
-      <note id="sdfootnote11sym">
+      <note xmlns="" id="sdfootnote11sym">
         <no>11</no>
         <alinea>
 	Statut spécial pour la Région du Frioul-Vénétie-Julienne le 31 janvier 1963 (Loi constitutionnelle n&amp;deg; 1 du 31 janvier 1963, G.U. n&amp;deg; 29 du 1 février 1963).</alinea>
       </note>
-      <note id="sdfootnote12sym">
+      <note xmlns="" id="sdfootnote12sym">
         <no>12</no>
         <alinea>
 	« La competencia ling&amp;uuml;istica se configura as&amp;iacute; como un t&amp;iacute;tulo general, de alcance horizontal y de base exclusivamente territorial ». J.-J. Solozabal Echavarria, « El regimen constitucional del biling&amp;uuml;ismo ; la cooficialidad ling&amp;uuml;istica como garantia institucional », Revista Espa&amp;ntilde;ola de Derecho Constitucional, Janvier-Février 1999, n&amp;deg; 55, p. 34.</alinea>
       </note>
-      <note id="sdfootnote13sym">
+      <note xmlns="" id="sdfootnote13sym">
         <no>13</no>
         <alinea>
 	« Ni la competencia auton&amp;oacute;mica de normalizaci&amp;oacute;n ling&amp;uuml;isticas pueda convertirse en un expediente que, enervando el orden constitucional de competencias, habilite a la Comunidad Aut&amp;oacute;noma para regular, so capa de actuaciones de pol&amp;iacute;tica ling&amp;uuml;istas, materias reservadas al Estado ni, tampoco, como reverso de lo anterior, las competencias sectoriales del Estado puedan convertirse en un obst&amp;aacute;culo que, bloquee ou vac&amp;iacute;e la competencia que sobre normalizaci&amp;oacute;n ling&amp;uuml;istas tiene la Comunidad Aut&amp;oacute;noma ». Sentence 74/1989, 21 avril 1989, fondement juridique 2, B.O.E. n&amp;deg; 121, 22 mai 1989. Pour un commentaire de cette décision, L. Jou, « La competència de la Generalitat en matèria de normalitzaci&amp;ograve; ling&amp;uuml;&amp;iacute;stica, confirmada per Tribunal constitucional », Revista de llengua i dret, 1989, n&amp;deg; 13, p. 123.</alinea>
       </note>
-      <note id="sdfootnote14sym">
+      <note xmlns="" id="sdfootnote14sym">
         <no>14</no>
         <alinea>
 	Article 149.1.8 de la Constitution espagnole du 27 décembre 1978.</alinea>
       </note>
-      <note id="sdfootnote15sym">
+      <note xmlns="" id="sdfootnote15sym">
         <no>15</no>
         <alinea>
 	« La reserva al Estado de la ordenaci&amp;oacute;n de los instrumentos p&amp;uacute;blicos tiende al aseguramiento de un tratamiento normativo unitario y com&amp;uacute;n de los documentos p&amp;uacute;blicos [&amp;hellip;], uniformando a tal fin el régimen de su naturalza y contenido, de sus requisitos internos y formales, de su validez y eficacia y, en general, de todos aquellos aspectos que comprometan la unidad de su disciplina jur&amp;iacute;dica ». Tribunal constitutionnel espagnol, sentence 74/1989, 21 avril 1989, fondement juridique 5, B.O.E. n&amp;deg; 121, 22 mai 1989.</alinea>
       </note>
-      <note id="sdfootnote16sym">
+      <note xmlns="" id="sdfootnote16sym">
         <no>16</no>
         <alinea>
 	« De lo contrario, si tal criterio se generalizara, la competencia autonomica quedar&amp;iacute;a vacia de contenido ». Tribunal constitutionnel espagnol, sentence 74/1989, fondement juridique 5, 21 avril 1989, B.O.E. n&amp;deg; 121, 22 mai 1989.</alinea>
       </note>
-      <note id="sdfootnote17sym">
+      <note xmlns="" id="sdfootnote17sym">
         <no>17</no>
         <alinea>
 	« Tale disposizione attribuisce alla provincia una potestà legislativa nella materia dell’organizzazione degli esami [&amp;hellip;], da esercitarsi &amp;ndash; &amp;quot;per garantire ai candidati l’esercizio del diritto di sostenere le prove di esame in lingua italiana u in lingua tedesca, nonché la loro valutazione da parte dei compronenti la commissione esaminatrice che abbiamo adeguata conoscenza delle due lingua&amp;quot; &amp;ndash; &amp;quot;nel rispetto dei principi stabiliti dalle leggi statali&amp;quot; ». Cour constitutionnelle italienne, décision 352/1998, 28 septembre 1998, G.U. n&amp;deg; 41, 14 octobre 1998, &amp;sect;2.</alinea>

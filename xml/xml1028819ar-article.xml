@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd" qualtraitement="complet" idproprio="009308ar" typeart="autre" lang="fr" ordseq="1">
-  <admin>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028819ar" typeart="autre" lang="fr" ordseq="1">
+  <admin xmlns="">
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
       <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
@@ -16,7 +16,7 @@
       <nbrefbiblio>0</nbrefbiblio>
       <nbnote>6</nbnote>
     </infoarticle>
-    <revue lang="fr" id="sp01868">
+    <revue id="sp01868" lang="fr">
       <titrerev>Sens public</titrerev>
       <titrerevabr>SP</titrerevabr>
       <idissnnum>2104-3272</idissnnum>
@@ -28,7 +28,6 @@
       </directeur>
       <redacteurchef typerc="invite" sexe="masculin">
         <fonction lang="fr"/>
-        <contribution/>
         <nompers>
           <prenom>Michael E.</prenom>
           <nomfamille>Sinatra</nomfamille>
@@ -36,21 +35,20 @@
       </redacteurchef>
       <redacteurchef typerc="invite" sexe="masculin">
         <fonction lang="fr"/>
-        <contribution/>
         <nompers>
           <prenom>Stéfan</prenom>
           <nomfamille>Sinclair</nomfamille>
         </nompers>
       </redacteurchef>
     </revue>
-    <numero>
+    <numero id="sp01946">
       <pub>
         <annee>2013</annee>
       </pub>
-      <pubnum>
+      <pubnum type="publication">
         <date>2013-01-22</date>
       </pubnum>
-      <grtheme>
+      <grtheme id="">
         <theme>Langues &amp; Normes</theme>
       </grtheme>
     </numero>
@@ -72,7 +70,7 @@
     <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
     <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
   </admin>
-  <liminaire>
+  <liminaire xmlns="">
     <grtitre>
       <titre>Après le dernier clic : que signifie mourir sur le web ?</titre>
     </grtitre>
@@ -97,7 +95,7 @@
       <motcle>Repenser le numérique au 21e siècle</motcle>
     </grmotcle>
   </liminaire>
-  <corps>
+  <corps xmlns="">
     <section>
       <para>
         <alinea>
@@ -109,7 +107,7 @@
       </para>
       <para>
         <alinea>
-	<liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href=""/> Contre cette vision qui met le numérique à coté du réel, j&amp;rsquo;essaie de dire ici que : a) si on légitime notre présence numérique comme étant une présence authentiquement humaine, b) si on assume notre être-sur-le-web comme la dernière façon d’habiter le monde et non plus comme l’expérience facultative de l’usager, c) si on accepte l’évidence que notre vie habite toujours plus le web, celui-ci étant désormais la connexion entre tous les objets actuels et possibles de notre réalité, d) en somme, si on adopte la vision de la philosophie qui étudie notre expérience (du) numérique, il faut alors accorder à cette expérience (que nous pouvons appeler, en la considérant dans l’ensemble de ses actes, de ses situations et ses émotions, existence) tous les cas, toutes les circonstances existentielles que nous avons accordés depuis toujours à notre vie avant-numérique, donc à la mort aussi. Sinon, nous continuerons d’observer notre présence numérique comme quelque chose d’éphémère et d’irréel, comme continue à le faire une certaine sociologie qui parle encore du web comme d’un monde irréel et imaginaire, un monde qui n’existe pas. L’objectif de ma réflexion est justement celui de tester les prémisses d’une thanatologie numérique élaborant une théorie de la mort adaptée exclusivement à la spécificité de la réalité numérique. Une réalité qui nous oblige déjà à nous poser des questions éthiques et qui, tôt ou tard, nous suggérera aussi une liste de problèmes et de réflexions bioéthiques : la bioéthique numérique nous attend.</alinea>
+	<liensimple xlink:type="simple" xlink:href=""/> Contre cette vision qui met le numérique à coté du réel, j&amp;rsquo;essaie de dire ici que : a) si on légitime notre présence numérique comme étant une présence authentiquement humaine, b) si on assume notre être-sur-le-web comme la dernière façon d’habiter le monde et non plus comme l’expérience facultative de l’usager, c) si on accepte l’évidence que notre vie habite toujours plus le web, celui-ci étant désormais la connexion entre tous les objets actuels et possibles de notre réalité, d) en somme, si on adopte la vision de la philosophie qui étudie notre expérience (du) numérique, il faut alors accorder à cette expérience (que nous pouvons appeler, en la considérant dans l’ensemble de ses actes, de ses situations et ses émotions, existence) tous les cas, toutes les circonstances existentielles que nous avons accordés depuis toujours à notre vie avant-numérique, donc à la mort aussi. Sinon, nous continuerons d’observer notre présence numérique comme quelque chose d’éphémère et d’irréel, comme continue à le faire une certaine sociologie qui parle encore du web comme d’un monde irréel et imaginaire, un monde qui n’existe pas. L’objectif de ma réflexion est justement celui de tester les prémisses d’une thanatologie numérique élaborant une théorie de la mort adaptée exclusivement à la spécificité de la réalité numérique. Une réalité qui nous oblige déjà à nous poser des questions éthiques et qui, tôt ou tard, nous suggérera aussi une liste de problèmes et de réflexions bioéthiques : la bioéthique numérique nous attend.</alinea>
       </para>
       <titre2>
 	Un objet numérique paradoxal : le surmourant</titre2>
@@ -169,36 +167,36 @@
     </section>
   </corps>
   <partiesann>
-    <grnote>
-      <titre>Notes</titre>
-      <note id="sdfootnote1sym">
+    <grnote xmlns="" xmlns="http://www.erudit.org/xsd/article">
+      <titre xmlns="">Notes</titre>
+      <note xmlns="" id="sdfootnote1sym">
         <no>1</no>
         <alinea>
-	 <liensimple xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://www.illustre.ch/Facebook-profil-personne-decedee-deces-Facebook-mort-Facebook-profil-mort-Facebook_163198_.html">Voir en ligne.
+	 <liensimple xlink:type="simple" xlink:href="http://www.illustre.ch/Facebook-profil-personne-decedee-deces-Facebook-mort-Facebook-profil-mort-Facebook_163198_.html">Voir en ligne.
 	</liensimple>
         </alinea>
       </note>
-      <note id="sdfootnote2sym">
+      <note xmlns="" id="sdfootnote2sym">
         <no>2</no>
         <alinea>
 	 </alinea>
       </note>
-      <note id="sdfootnote3sym">
+      <note xmlns="" id="sdfootnote3sym">
         <no>3</no>
         <alinea>
 	<marquage typemarq="italique"> </marquage>Jean-Michel Besnier,<marquage typemarq="italique"> Demain, les posthumains</marquage>, Paris,<marquage typemarq="italique"> </marquage>Hachette Littératures, 2009.</alinea>
       </note>
-      <note id="sdfootnote4sym">
+      <note xmlns="" id="sdfootnote4sym">
         <no>4</no>
         <alinea>
 	 Louise Merzeau, <marquage typemarq="italique">Les données post mortem</marquage>, Hermès, n53, 2009.</alinea>
       </note>
-      <note id="sdfootnote5sym">
+      <note xmlns="" id="sdfootnote5sym">
         <no>5</no>
         <alinea>
 	 Je pense surtout aux ouvrages de Milahd Doueihi, Bernard Stiegler, Michel Serres, Marcello Vitali Rosati, Maurizio Ferraris.</alinea>
       </note>
-      <note id="sdfootnote6sym">
+      <note xmlns="" id="sdfootnote6sym">
         <no>6</no>
         <alinea>
 	 Les réflexions, entre autres, de Jacqueline Barus-Michel, représentent l’approche théorique prédominante : « Le virtuel permet de voir et d’explorer des espaces inexistants&amp;hellip; Tout voir, même ce qui n’existe pas, ce qui a existé, ce qui pourrait exister, un monde où la réalité est égal à l’imaginaire », Voir (auteur), « Une société sur écrans », in <marquage typemarq="italique">Les tyrannies de la visibilité</marquage>, Toulouse, Éditions Érès, 2011, p. 27.</alinea>
