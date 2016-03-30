@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028805ar" typeart="autre" lang="fr" ordseq="1">
-  <admin xmlns="">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028805ar" typeart="autre" lang="fr" ordseq="1">
+  <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
       <nbpara>23</nbpara>
@@ -53,7 +53,7 @@
     <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
     <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
   </admin>
-  <liminaire xmlns="">
+  <liminaire>
     <grtitre>
       <titre>Langues &amp; Normes</titre>
     </grtitre>
@@ -78,7 +78,7 @@
       <motcle>Langues &amp; Normes</motcle>
     </grmotcle>
   </liminaire>
-  <corps xmlns="">
+  <corps>
     <section>
       <titre2>
 	<marquage typemarq="gras">SOMMAIRE</marquage>
@@ -269,39 +269,39 @@
     </section>
   </corps>
   <partiesann>
-    <grnote xmlns="" xmlns="http://www.erudit.org/xsd/article">
-      <titre xmlns="">Notes</titre>
-      <note xmlns="" id="sdfootnote1sym">
+    <grnote>
+      <titre>Notes</titre>
+      <note id="sdfootnote1sym">
         <no>1</no>
         <alinea>
 	J. L. Calvet, <marquage typemarq="italique">La Guerre des langues et les politiques linguistiques</marquage>, Payot, 1987.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote2sym">
+      <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
 	C. Hagège, <marquage typemarq="italique">Halte à la mort des langues</marquage>, Odile Jacob, 2002.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote3sym">
+      <note id="sdfootnote3sym">
         <no>3</no>
         <alinea>
 	I. Sitaridou, (2013). « Greek-speaking enclaves in Pontus today : The documentation and revitalization of Romeyka », in M. Jones &amp;amp; S. Ogilvie (eds.), <marquage typemarq="italique">Keeping Languages Alive. Language Endangerment : Documentation, Pedagogy and Revitalization</marquage>, Presses Universitaires de Cambridge, 2014 p. 98-112. <liensimple xlink:type="simple" xlink:href="http:// http://www.romeyka.org">Voir en ligne</liensimple>.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote4sym">
+      <note id="sdfootnote4sym">
         <no>4</no>
         <alinea>
 	J. Fishman, <marquage typemarq="italique">Reversing Language Shift: Theoretical and Empirical Foundations of Assistance to Threatened Languages</marquage>, ed. Multilingual Matters, 1991.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote5sym">
+      <note id="sdfootnote5sym">
         <no>5</no>
         <alinea>
 	W. B. Kouwenhoven, Dr. Ing. ; James R. Jude, M.D. ; G. Guy Knickerbocker, M.S.E, <marquage typemarq="italique">Close-chest cardiac massage, The Journal of American Medical Association</marquage>, 1960, 173, 1064-1067.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote6sym">
+      <note id="sdfootnote6sym">
         <no>6</no>
         <alinea>
 	Testée sur des prisonniers de guerre cobayes au cours de la Seconde guerre mondiale, au sein de la sinistre Unité 731, le service d’expérimentation criminelle du régime impérial japonais lors de l’occupation de la Mandchourie, la technique fut redécouverte dans les années 50 par le maître d’arts martiaux français Henry Plée, qui la fit alors connaître en Occident, jusqu’à ce qu’elle soit reprise par les scientifiques et fasse l’objet d’une publication qui leur en attribua la paternité. L’appellation populaire de massage cardiaque est tellement répandue que l’histoire semble avoir effacé l’origine japonaise de ce savoir traditionnel &amp;ndash; l’art de la réanimation manuelle ou kuatsu jitsu &amp;ndash; et son lien avec l’introduction des arts martiaux nippons en France. Voir sur le sujet : H. Plée, <marquage typemarq="italique">L’art sublime et ultime des points de vie</marquage>, éd. Budo, 2003 ; Harris Sheldon, <marquage typemarq="italique">Factories of death</marquage>, Routledge, 2002.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote7sym">
+      <note id="sdfootnote7sym">
         <no>7</no>
         <alinea>
 	Isabelle M. Maisonneuve &amp;amp; Stanley D. Glick, « Anti-addictive actions of an iboga alkaloid congener : A novel mechanism for a novel treatment », <marquage typemarq="italique">Pharmacology, Biochemistry and Behavior</marquage>, vol. 75(3) 2003. Special Issue : Plants and the Central Nervous System. p. 607-618. Xaver Koenig, Michael Kovar, Stefan Boehm, Walter Sandtner, Karlheinz Hilber, « Anti-addiction drug ibogaine inhibits hERG channels : a cardiac arrhythmia risk », <marquage typemarq="italique">Addiction Biology</marquage>, 2014-2, vol. 19, p. 237-239.</alinea>

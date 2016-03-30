@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028820ar" typeart="autre" lang="fr" ordseq="1">
-  <admin xmlns="">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028820ar" typeart="autre" lang="fr" ordseq="1">
+  <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
       <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
@@ -71,7 +71,7 @@
     <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
     <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
   </admin>
-  <liminaire xmlns="">
+  <liminaire>
     <grtitre>
       <titre>Source et fuites : du sens des flux de données numériques</titre>
     </grtitre>
@@ -91,7 +91,7 @@
       <motcle>Repenser le numérique au 21e siècle</motcle>
     </grmotcle>
   </liminaire>
-  <corps xmlns="">
+  <corps>
     <section>
       <para>
         <alinea>
@@ -544,131 +544,131 @@
     </section>
   </corps>
   <partiesann>
-    <grbiblio xmlns="" xmlns="http://www.erudit.org/xsd/article">
-      <biblio xmlns="">
+    <grbiblio>
+      <biblio>
         <titre>Bibliographie</titre>
       </biblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	ASSANGE, Julian, <liensimple xlink:type="simple" xlink:href="http://www.cryptome.org/0002/ja-conspiracies.pdf ">
           <marquage typemarq="italique">Essays on Conspiracy</marquage>
         </liensimple>, Cryptome, 2006, </refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	BARDEAU, Frédéric, DANET Nicolas, « ANONYMOUS Peuvent-ils changer le monde ? », éd. FYP, 2011</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	BEN ISRAEL, Isaac, <marquage typemarq="italique">Philosophie du renseignement</marquage>, Editions de l’Eclat, 2004</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	BOLTANSKY, Luc, <marquage typemarq="italique">Énigmes et complots, Une enquête à propos d’enquêtes</marquage>, Paris, Gallimard 2012</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	COHEN TANOUDJI, Laurent, « Le clair obscur d’Internet »,<marquage typemarq="italique"> Revue, Pouvoirs. </marquage>Numéro 97, 2001/2, <liensimple xlink:type="simple" xlink:href="http://www.revue-pouvoirs.fr/-97-Transparence-et-secret-.html">« Transparence et secret », </liensimple>p. 85-90</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	DEWERPE, Alain, E<marquage typemarq="italique">spion. Une Anthropologie historique du secret d’État contemporain,</marquage> Paris, Gallimard, 1994</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	DOMSCHEIT-BERG, Daniel, <marquage typemarq="italique">Inside Wikileaks</marquage>, Paris, Grasset, 2011</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	FORCADE, Olivier, LAURENT, Sébastien, <marquage typemarq="italique">Secrets d’État, Pouvoir et renseignement dans le monde contemporain</marquage>, Paris, Armand Colin, 2005</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	GAILLARD, Françoise, <liensimple xlink:type="simple" xlink:href="http://www.liberation.fr/monde/01012305698-quand-le-citoyen-se-complait-dans-le-complot">« Quand le citoyen se complaît dans le complot »</liensimple>, in <marquage typemarq="italique">Libération</marquage>, 2 décembre 2010</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	LEIGH, David, HARDING, Luke, <marquage typemarq="italique">Wikileaks la fin du secret,</marquage> Original Books, 2011</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	PREMAT, Christophe, <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article848">« </liensimple>
         <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article848">L’effet Wikileaks », </liensimple>in<marquage typemarq="italique"> Sens Public</marquage>, juin 2011</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	RIVIERE, Philippe, « <liensimple xlink:type="simple" xlink:href="http://www.monde-diplomatique.fr/2011/01/RIVIERE/20058">WikiLeaks, mort au messager</liensimple> »,<marquage typemarq="italique"> </marquage>in<marquage typemarq="italique"> </marquage>
         <marquage typemarq="italique">Le Monde Diplomatique</marquage>, janvier 2011</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	ROUDINESCO, Élisabeth, <liensimple xlink:type="simple" xlink:href="http://www.liberation.fr/monde/01012305697-wikileaks-la-dictature-de-la-transparence">« La dictature de la transparence », </liensimple>in <marquage typemarq="italique">Libération</marquage>, 2 décembre 2010</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	STADLER, Félix, « Pourquoi les institutions peinent à conserver leurs secrets », in <marquage typemarq="italique">Le Monde diplomatique</marquage>, Janvier 2011, <liensimple xlink:type="simple" xlink:href="http://www.unesco.org/new/en/communication-and-information/events/calendar-of-events/events-websites/the-media-world-after-wikileaks-and-news-of-the-world/">« The Media World after WikiLeaks and News of the World »</liensimple>, 16-17 February 2012</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	<liensimple xlink:type="simple" xlink:href="http://owni.fr/">Owni</liensimple>
       </refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	<liensimple xlink:type="simple" xlink:href="http://www.laquadrature.net/">« La Quadrature du Net »</liensimple>
       </refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	Wikipedia. Article : « Fuite d’information »</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	WORMSER, Gérard, <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article800 ">« Banco !... L’espace public à l’heure du numérique »</liensimple>, in<marquage typemarq="italique"> </marquage>
         <marquage typemarq="italique">Sens Public</marquage>, décembre 2010  </refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	 </refbiblio>
     </grbiblio>
-    <grnote xmlns="" xmlns="http://www.erudit.org/xsd/article">
-      <titre xmlns="">Notes</titre>
-      <note xmlns="" id="sdfootnote1sym">
+    <grnote>
+      <titre>Notes</titre>
+      <note id="sdfootnote1sym">
         <no>1</no>
         <alinea>
 	 Dewerpe, Alain, <marquage typemarq="italique">Espion, une anthropologie historique du secret d’État contemporain, </marquage>Paris, Gallimard NRF, 1994, p. 311.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote2sym">
+      <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
 	 Domscheit-Berg, <marquage typemarq="italique">Inside Wikileaks, </marquage>Paris, Grasset, 2011.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote3sym">
+      <note id="sdfootnote3sym">
         <no>3</no>
         <alinea>
 	 Dewerpe, <marquage typemarq="italique">op. cit., </marquage>
           <marquage typemarq="italique">p. 314.</marquage>
         </alinea>
       </note>
-      <note xmlns="" id="sdfootnote4sym">
+      <note id="sdfootnote4sym">
         <no>4</no>
         <alinea>
 	 Dewerpe, <marquage typemarq="italique">op. cit.</marquage>, p. 77.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote5sym">
+      <note id="sdfootnote5sym">
         <no>5</no>
         <alinea>
 	<marquage typemarq="italique"> </marquage>
           <marquage typemarq="italique">Stop Online Piracy Act, Anti-Counterfeiting Trade Agreement.</marquage>
         </alinea>
       </note>
-      <note xmlns="" id="sdfootnote6sym">
+      <note id="sdfootnote6sym">
         <no>6</no>
         <alinea>
 	 Élisabeth Roudinesco,<liensimple xlink:type="simple" xlink:href="http://www.liberation.fr/monde/01012305697-wikileaks-la-dictature-de-la-transparence"> « Wikileaks : la dictature de la transparence », </liensimple>
           <marquage typemarq="italique">Libération, </marquage>2 décembre 2010</alinea>
       </note>
-      <note xmlns="" id="sdfootnote7sym">
+      <note id="sdfootnote7sym">
         <no>7</no>
         <alinea>
 	 <marquage typemarq="italique">Libération</marquage>, 5 avril 2012, <liensimple xlink:type="simple" xlink:href="http://www.liberation.fr/societe/01012400660-les-statistiques-de-l-education-nationale-sont-elles-un-secret-d-etat">« Les statistiques de l’Éducation nationales sont elles un secret d’État ? »</liensimple>
         </alinea>
       </note>
-      <note xmlns="" id="sdfootnote8sym">
+      <note id="sdfootnote8sym">
         <no>8</no>
         <alinea>
 	 Ben Isra&amp;euml;l, Isaac, <marquage typemarq="italique">Philosophie du renseignement. Logique et morale de l’espionnage</marquage>, Paris, L’Éclat, 2003.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote9sym">
+      <note id="sdfootnote9sym">
         <no>9</no>
         <alinea>
 	 Ben Israel souligne aussi l’importance des archéologues (anglais en l’occurrence) dans le renseignement&amp;hellip;</alinea>
       </note>
-      <note xmlns="" id="sdfootnote10sym">
+      <note id="sdfootnote10sym">
         <no>10</no>
         <alinea>
 	 <marquage typemarq="italique">Dewerpe</marquage>,<marquage typemarq="italique"> op. cit.,</marquage> p. 77. </alinea>
       </note>
-      <note xmlns="" id="sdfootnote11sym">
+      <note id="sdfootnote11sym">
         <no>11</no>
         <alinea>
 	 <marquage typemarq="italique">Dewerpe</marquage>, <marquage typemarq="italique">op. cit.</marquage>, p. 89.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote12sym">
+      <note id="sdfootnote12sym">
         <no>12</no>
         <alinea>
 	 <marquage typemarq="italique">Dewerpe, op. cit.</marquage>,<marquage typemarq="italique"> </marquage>p. 90.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote13sym">
+      <note id="sdfootnote13sym">
         <no>13</no>
         <alinea>
 	 Cf. Françoise Gaillard, <liensimple xlink:type="simple" xlink:href="http://www.liberation.fr/monde/01012305698-quand-le-citoyen-se-complait-dans-le-complot ">« </liensimple>
           <liensimple xlink:type="simple" xlink:href="http://www.liberation.fr/monde/01012305698-quand-le-citoyen-se-complait-dans-le-complot ">Quand le citoyen se complaît dans le complot »</liensimple>,<marquage typemarq="italique"> Libération, </marquage>2 décembre 2010</alinea>
       </note>
-      <note xmlns="" id="sdfootnote14sym">
+      <note id="sdfootnote14sym">
         <no>14</no>
         <alinea>
 	 <marquage typemarq="italique">Dewerpe op. cit., </marquage>p. 80.</alinea>

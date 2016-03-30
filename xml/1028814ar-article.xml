@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028814ar" typeart="autre" lang="fr" ordseq="1">
-  <admin xmlns="">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028814ar" typeart="autre" lang="fr" ordseq="1">
+  <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
       <nbpara>36</nbpara>
@@ -67,7 +67,7 @@
     <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
     <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
   </admin>
-  <liminaire xmlns="">
+  <liminaire>
     <grtitre>
       <titre>Remédiation et interaction dans le milieu textuel</titre>
     </grtitre>
@@ -91,7 +91,7 @@
       <motcle>Repenser le numérique au 21e siècle</motcle>
     </grmotcle>
   </liminaire>
-  <corps xmlns="">
+  <corps>
     <section>
       <para>
         <alinea>
@@ -261,186 +261,186 @@
     </section>
   </corps>
   <partiesann>
-    <grnote xmlns="" xmlns="http://www.erudit.org/xsd/article">
-      <titre xmlns="">Notes</titre>
-      <note xmlns="" id="sdfootnote1sym">
+    <grnote>
+      <titre>Notes</titre>
+      <note id="sdfootnote1sym">
         <no>1</no>
         <alinea>
 	Jacques Rancière, « Ce que médium peut vouloir dire : l’exemple de la photographie », <marquage typemarq="italique">Appareil</marquage> [En ligne], vol. 1, 2008, p. 2.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote2sym">
+      <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
 	Jay David Bolter et Richard Grusin,<marquage typemarq="italique"> Remediation. Understanding New Media</marquage>, Cambridge, MIT Press, 1999, p. 45.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote3sym">
+      <note id="sdfootnote3sym">
         <no>3</no>
         <alinea>
 	Selon la terminologie d’Ellestr&amp;ouml;m (2010), sur laquelle je reviendrai. </alinea>
       </note>
-      <note xmlns="" id="sdfootnote4sym">
+      <note id="sdfootnote4sym">
         <no>4</no>
         <alinea>
 	Marie-Pascale Huglo, <marquage typemarq="italique">Le Sens du récit. Pour une approche esthétique de la narrativité contemporaine</marquage>, Paris, Presses universitaires du Septentrion, 2007, p. 27.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote5sym">
+      <note id="sdfootnote5sym">
         <no>5</no>
         <alinea>
 	Walter Benjamin, <marquage typemarq="italique">Essais sur Brecht</marquage>, Paris, La fabrique, 2003, p. 140.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote6sym">
+      <note id="sdfootnote6sym">
         <no>6</no>
         <alinea>
 	François Harvey, <marquage typemarq="italique">Écritures composites : interférences génériques et médiatiques chez Hubert Aquin et Alain Robbe-Grillet</marquage>, Montréal, Thèse de doctorat, 2009, p. 269.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote7sym">
+      <note id="sdfootnote7sym">
         <no>7</no>
         <alinea>
 	Gauvin et Larouche, 1999 ; Harvey, 2009, 2011.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote8sym">
+      <note id="sdfootnote8sym">
         <no>8</no>
         <alinea>
 	Vermetten, 2005, d’après Schaeffer, 1999.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote9sym">
+      <note id="sdfootnote9sym">
         <no>9</no>
         <alinea>
 	Lars Ellestr&amp;ouml;m, &amp;laquo;<marquage typemarq="italique"> </marquage>The Modalities of media. A Model for Understanding Intermedial Relations<marquage typemarq="italique"> </marquage>&amp;raquo;, dans Ellestr&amp;ouml;m, Lars, et J&amp;oslash;rgen Bruhn (dir.), <marquage typemarq="italique">Media Borders, Multimodality and Intermediality</marquage>, New York, Palgrave Macmillan, 2010, p. 16 (je souligne).</alinea>
       </note>
-      <note xmlns="" id="sdfootnote10sym">
+      <note id="sdfootnote10sym">
         <no>10</no>
         <alinea>
 	<marquage typemarq="italique">Ibid.</marquage>
         </alinea>
       </note>
-      <note xmlns="" id="sdfootnote11sym">
+      <note id="sdfootnote11sym">
         <no>11</no>
         <alinea>
 	Irina O. Rajwesky, « Border Talks : The Problematic Status of Media Borders in the Current Debate about Intermediality », dans Ellestr&amp;ouml;m, Lars, et J&amp;oslash;rgen Bruhn. (dir.), <marquage typemarq="italique">Media Borders, Multimodality and Intermediality</marquage>. New York, Palgrave Macmillan, 2010, p. 58.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote12sym">
+      <note id="sdfootnote12sym">
         <no>12</no>
         <alinea>
 	Werner Wolf, <marquage typemarq="italique">Musicalization of Fiction : A Study in the Theory and History of Intermediality</marquage>. Amsterdam/Atlanta, Rodopi, 1999, p. 44.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote13sym">
+      <note id="sdfootnote13sym">
         <no>13</no>
         <alinea>
 	Irina O. Rajewsky, O<marquage typemarq="italique">p. cit.</marquage>, p. 59.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote14sym">
+      <note id="sdfootnote14sym">
         <no>14</no>
         <alinea>
 	Gérard Genette, <marquage typemarq="italique">Palimpsestes : La littérature au second degré</marquage>, Paris, Seuil, 1982, p. 8.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote15sym">
+      <note id="sdfootnote15sym">
         <no>15</no>
         <alinea>
 	Farah Aïcha Gharbi, <marquage typemarq="italique">L’Intermédialité littéraire dans quelques récits d’Assia Djebar</marquage>, Thèse de doctorat, Université de Montréal, Montréal, 2010, p. 72.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote16sym">
+      <note id="sdfootnote16sym">
         <no>16</no>
         <alinea>
 	Walter Mooser, « L’Interartialité : pour une archéologie de l’intermédialité », dans Froger, Marion et Jurgen E. M&amp;uuml;ller (dir.), <marquage typemarq="italique">Intermédialité et socialité. Histoire et géographie d’un concept</marquage>, M&amp;uuml;nster, Nodus Publikationen, 2007, p. 84.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote17sym">
+      <note id="sdfootnote17sym">
         <no>17</no>
         <alinea>
 	Marie-Pascale Huglo, <marquage typemarq="italique">Op. cit.</marquage>, p. 28.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote18sym">
+      <note id="sdfootnote18sym">
         <no>18</no>
         <alinea>
 	<marquage typemarq="italique">Ibid.</marquage>, p. 30.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote19sym">
+      <note id="sdfootnote19sym">
         <no>19</no>
         <alinea>
 	Victor Chklovski, <marquage typemarq="italique">L’art comme procédé</marquage>, Paris, Seuil, 1965.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote20sym">
+      <note id="sdfootnote20sym">
         <no>20</no>
         <alinea>
 	Wolfgang Iser, <marquage typemarq="italique">L’acte de lecture. Théorie de l’effet esthétique</marquage>, Bruxelles, Pierre Mardaga, 1985, p. 351 (je souligne).</alinea>
       </note>
-      <note xmlns="" id="sdfootnote21sym">
+      <note id="sdfootnote21sym">
         <no>21</no>
         <alinea>
 	On retrouve une pensée semblable chez Eco (1985), qui en parle en termes de « non-dit », expliquant que c&amp;rsquo;est « précisément ce non-dit qui doit être actualisé au niveau de l’actualisation du contenu » (p. 62).</alinea>
       </note>
-      <note xmlns="" id="sdfootnote22sym">
+      <note id="sdfootnote22sym">
         <no>22</no>
         <alinea>
 	Telle qu’elle apparaît dans <marquage typemarq="italique">L’œuvre d’art littéraire</marquage>, notamment.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote23sym">
+      <note id="sdfootnote23sym">
         <no>23</no>
         <alinea>
 	Wolfgang Iser, <marquage typemarq="italique">Op. cit.</marquage>, p. 332.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote24sym">
+      <note id="sdfootnote24sym">
         <no>24</no>
         <alinea>
 	<marquage typemarq="italique">Ibid.</marquage>, p. 319.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote25sym">
+      <note id="sdfootnote25sym">
         <no>25</no>
         <alinea>
 	<marquage typemarq="italique">Ibid.</marquage>, p. 339.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote26sym">
+      <note id="sdfootnote26sym">
         <no>26</no>
         <alinea>
 	<marquage typemarq="italique">I</marquage>
           <marquage typemarq="italique">bid.</marquage>, p. 335.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote27sym">
+      <note id="sdfootnote27sym">
         <no>27</no>
         <alinea>
 	Au sujet de ce concept, Viva Paci (2012) souligne que « le terme <marquage typemarq="italique">ostranénie</marquage>, de Chklovski, traduit le plus souvent en français par <marquage typemarq="italique">singularisation</marquage>, parfois aussi par <marquage typemarq="italique">distanciation</marquage>, <marquage typemarq="italique">défamiliarisation</marquage>, et plus rarement par <marquage typemarq="italique">estrangement</marquage>, rejoint donc les possibles traductions courantes du <marquage typemarq="italique">verfremdung</marquage> brechtien » (p. 72).</alinea>
       </note>
-      <note xmlns="" id="sdfootnote28sym">
+      <note id="sdfootnote28sym">
         <no>28</no>
         <alinea>
 	Viva Paci, <marquage typemarq="italique">La Machine à voir : à propos du cinéma, attraction, exhibition</marquage>, Paris, Presses universitaires du Septentrion, 2012, p. 55.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote29sym">
+      <note id="sdfootnote29sym">
         <no>29</no>
         <alinea>
 	Wolfgang Iser, <marquage typemarq="italique">Op. cit.</marquage>, p. 328.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote30sym">
+      <note id="sdfootnote30sym">
         <no>30</no>
         <alinea>
 	Walter Benjamin, <marquage typemarq="italique">Op. cit.</marquage>, p. 140.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote31sym">
+      <note id="sdfootnote31sym">
         <no>31</no>
         <alinea>
 	<marquage typemarq="italique">Ibid.</marquage>, tel que le souligne Pascal Maillard (1985), que ces propos sur le montage lui soient inspirés du théâtre brechtien n’infirme pas qu’ils vaillent également pour la littérature (p. 132).</alinea>
       </note>
-      <note xmlns="" id="sdfootnote32sym">
+      <note id="sdfootnote32sym">
         <no>32</no>
         <alinea>
 	Je formule cette observation à partir de l’interprétation de Maillard (1985, p. 134)</alinea>
       </note>
-      <note xmlns="" id="sdfootnote33sym">
+      <note id="sdfootnote33sym">
         <no>33</no>
         <alinea>
 	Pascal Maillard, « Lecture de Walter Benjamin » dans <marquage typemarq="italique">Critique de la théorie critique. Langage et histoire</marquage>, Vincennes, Presses universitaires de Vincennes, 1985, p. 134.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote34sym">
+      <note id="sdfootnote34sym">
         <no>34</no>
         <alinea>
 	Wolfgang Iser, <marquage typemarq="italique">Op. cit.</marquage>, p. 329.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote35sym">
+      <note id="sdfootnote35sym">
         <no>35</no>
         <alinea>
 	Marie-Pascale Huglo, <marquage typemarq="italique">Op. cit.</marquage>, p. 26.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote36sym">
+      <note id="sdfootnote36sym">
         <no>36</no>
         <alinea>
 	Alessandro Barrico, <marquage typemarq="italique">Océan mer</marquage>, Paris, Albin-Michel, 1998, p. 215-216.</alinea>

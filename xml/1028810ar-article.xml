@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028810ar" typeart="autre" lang="fr" ordseq="1">
-  <admin xmlns="">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028810ar" typeart="autre" lang="fr" ordseq="1">
+  <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
       <nbpara>107</nbpara>
@@ -60,7 +60,7 @@
     <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
     <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
   </admin>
-  <liminaire xmlns="">
+  <liminaire>
     <grtitre>
       <titre>La norme juridique et la langue: histoire d’une intimité renforcée</titre>
     </grtitre>
@@ -84,7 +84,7 @@
       <motcle>Langues &amp; Normes</motcle>
     </grmotcle>
   </liminaire>
-  <corps xmlns="">
+  <corps>
     <section>
       <titre>
 	Prolégomènes</titre>
@@ -748,413 +748,413 @@
     </section>
   </corps>
   <partiesann>
-    <grnote xmlns="" xmlns="http://www.erudit.org/xsd/article">
-      <titre xmlns="">Notes</titre>
-      <note xmlns="" id="sdfootnote1sym">
+    <grnote>
+      <titre>Notes</titre>
+      <note id="sdfootnote1sym">
         <no>1</no>
         <alinea>
 	T. Kuhn, The Structures of Scientific Revolutions, University of Chicago Press, 1962.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote2sym">
+      <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
 	L. Wittgenstein, <marquage typemarq="italique">Remarques sur la philosophie de la psychologie II,</marquage> Mauvezin, 1994, p. 134</alinea>
       </note>
-      <note xmlns="" id="sdfootnote3sym">
+      <note id="sdfootnote3sym">
         <no>3</no>
         <alinea>
 	Juges, XII, 4-6.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote4sym">
+      <note id="sdfootnote4sym">
         <no>4</no>
         <alinea>
 	D. Crystal, <marquage typemarq="italique">The Cambridge Encyclopedia of Language</marquage>, Cambridge University Press, 2010, Chap. 1.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote5sym">
+      <note id="sdfootnote5sym">
         <no>5</no>
         <alinea>
 	C. Hagège, <marquage typemarq="italique">Halte à la mort des langues</marquage>, O. Jacob, 2000.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote6sym">
+      <note id="sdfootnote6sym">
         <no>6</no>
         <alinea>
 	Leonard Bloomfield distingue ainsi 3 niveaux différents dans la langue elle-même : le niveau I, qui correspond à son usage, le niveau II qui regroupe les convictions de la personne sur sa propre langue, et le niveau III qui procède quant à lui des réactions de la personne lorsqu’on l’interroge sur sa langue. Dans le traitement juridique de la langue, les trois niveaux sont présents, mais seul le premier est généralement perçu, à l’exclusion des deux autres.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote7sym">
+      <note id="sdfootnote7sym">
         <no>7</no>
         <alinea>
 	L. J. Calvet,<marquage typemarq="italique"> La guerre des langues et les politiques linguistiques</marquage>, Hachette, 1999</alinea>
       </note>
-      <note xmlns="" id="sdfootnote8sym">
+      <note id="sdfootnote8sym">
         <no>8</no>
         <alinea>
 	L’étude comparée des langues fait apparaître une proportion de constantes linguistiques universelles, qu’elles soient sémantiques ou grammaticales, de l’ordre de 3 %. Le reste varie d’une langue à l’autre. Rien n’étaye la thèse d’une langue adamique : D. Crystal, op. cit. V. également J. Greenberg, Universals of Language, MIT Press, 1963.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote9sym">
+      <note id="sdfootnote9sym">
         <no>9</no>
         <alinea>
 	Genèse, Chap. II.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote10sym">
+      <note id="sdfootnote10sym">
         <no>10</no>
         <alinea>
 	G. Koubi &amp;amp; D. Romy-Masliah,<marquage typemarq="italique"> S&amp;rsquo;entendre sur la langue</marquage>, Droit et Culture, 73-2012.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote11sym">
+      <note id="sdfootnote11sym">
         <no>11</no>
         <alinea>
 	V. notamment son Traité sur l’origine des langues, trad. L. Duvoy, Allia, 2010.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote12sym">
+      <note id="sdfootnote12sym">
         <no>12</no>
         <alinea>
 	D. Crystal, op. cit., chap. 2.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote13sym">
+      <note id="sdfootnote13sym">
         <no>13</no>
         <alinea>
 	L. Bloomfield, <marquage typemarq="italique">Language, Hort, Rienhart &amp;amp; Winston</marquage>, 1933, p. 6.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote14sym">
+      <note id="sdfootnote14sym">
         <no>14</no>
         <alinea>
 	Lors de son élection en 2002 à l’Académie française, Angelo Rinaldi se prononce en ces termes,  lors de son investiture sur la question, alors en débat à l’Assemblée nationale, du statut de la langue corse au sein de la Collectivité territoriale de Corse (CTC) : « Quelques victimes d’une sorte de régression infantile s&amp;rsquo;efforcent, là-bas, de promouvoir, au détriment du français, un dialecte certes inséparable de la douceur œdipienne des choses, mais dénué de la richesse de la langue de Dante. À la surface des sentiments et des idées, le dialecte ne creuse pas plus profondément qu’une bêche, quand il faut, pour atteindre les profondeurs, les instruments du forage d’une langue à chefs-d’œuvre, telle que le français, dont la garde, la défense et l’accroissement des richesses vous incombent. ». Son discours sur l’anglais est identique : « De Bruxelles, qui est en Belgique, où il y a aussi Waterloo et quantité de cases de l’oncle Tom, ne cessent de partir les assauts contre la langue française, livrés par les tenants d’un idiome unique, c&amp;rsquo;est-à-dire l’anglais. La Commission européenne ne cherche-t-elle pas, maintenant, à l’imposer au monde de la publicité, au motif qu’il serait facilement compris de tous ? Par les technocrates, on n’en doute pas ».</alinea>
       </note>
-      <note xmlns="" id="sdfootnote15sym">
+      <note id="sdfootnote15sym">
         <no>15</no>
         <alinea>
 	D. Crystal, op. cit., Chap. 1.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote16sym">
+      <note id="sdfootnote16sym">
         <no>16</no>
         <alinea>
 	<marquage typemarq="italique">Idem</marquage>, Chap. 2.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote17sym">
+      <note id="sdfootnote17sym">
         <no>17</no>
         <alinea>
 	<marquage typemarq="italique">Idem</marquage>, Chap. 7.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote18sym">
+      <note id="sdfootnote18sym">
         <no>18</no>
         <alinea>
 	J.G.A.  Politics, <marquage typemarq="italique">Language and Time</marquage>, Chicago University Press, 1989, p 3.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote19sym">
+      <note id="sdfootnote19sym">
         <no>19</no>
         <alinea>
 	B. Ambroise, <marquage typemarq="italique">Les effets de la parole de la promesse et du droit</marquage>, Dissensus, p. 44.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote20sym">
+      <note id="sdfootnote20sym">
         <no>20</no>
         <alinea>
 	L’impact de la théorie des actes de langage dans le monde juridique : essai de bilan, in : P. Amselek (dir.), <marquage typemarq="italique">Théorie des actes de langage</marquage>, éthique et droit, PUF, 1986.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote21sym">
+      <note id="sdfootnote21sym">
         <no>21</no>
         <alinea>
 	N. Thirion, Discours de haine et de police du langage. À propos d’un ouvrage de J. Butler, <marquage typemarq="italique">Le Pouvoir des mots. Politique du performatif.</marquage>
         </alinea>
       </note>
-      <note xmlns="" id="sdfootnote22sym">
+      <note id="sdfootnote22sym">
         <no>22</no>
         <alinea>
 	D. Pieret, From Claim to Rights, Langage, politique et droit, p. 3.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote23sym">
+      <note id="sdfootnote23sym">
         <no>23</no>
         <alinea>
 	Y. Lequette, Quelques remarques à propos du projet de code civil européen de M. von Bar, Dalloz, 2002.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote24sym">
+      <note id="sdfootnote24sym">
         <no>24</no>
         <alinea>
 	H. Labayle &amp;amp; R. Mehdi, Le Conseil d’État et la protection communautaire des droits fondamentaux, Dalloz, 2008, p. 711.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote25sym">
+      <note id="sdfootnote25sym">
         <no>25</no>
         <alinea>
 	X. Domino &amp;amp; A. Bretonneau, Les suites de la QPC : histoire et géographie du dialogue des juges, Dalloz, 2011, p. 1136.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote26sym">
+      <note id="sdfootnote26sym">
         <no>26</no>
         <alinea>
 	P. Ancel, Réflexions autour d’une expérience québécoise, Dénationaliser l’enseignement du droit civil ?, RTDCiv 2011, p. 701.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote27sym">
+      <note id="sdfootnote27sym">
         <no>27</no>
         <alinea>
 	How to do things with Words: The William James Lectures delivered at Harvard University in 1955, Ed. Urmson, Oxford, 1962.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote28sym">
+      <note id="sdfootnote28sym">
         <no>28</no>
         <alinea>
 	J. Caron, Précis de psycholinguistique, PUF, 2008, p. 162.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote29sym">
+      <note id="sdfootnote29sym">
         <no>29</no>
         <alinea>
 	Quand dire, c&amp;rsquo;est faire, préc., p. 49.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote30sym">
+      <note id="sdfootnote30sym">
         <no>30</no>
         <alinea>
 	D. Pasteger, Actes de langage et jurisprudence. Illustrations de la réception de la théorie austinienne de la performativité du langage dans la pratique juridique, Dissensus, p. 69.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote31sym">
+      <note id="sdfootnote31sym">
         <no>31</no>
         <alinea>
 	H.L.A. Hart, <marquage typemarq="italique">The Concept of Law</marquage>, Oxford University Press, 1997 (rééd.), p. 6.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote32sym">
+      <note id="sdfootnote32sym">
         <no>32</no>
         <alinea>
 	<marquage typemarq="italique">Idem</marquage>.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote33sym">
+      <note id="sdfootnote33sym">
         <no>33</no>
         <alinea>
 	<marquage typemarq="italique">Op</marquage>. <marquage typemarq="italique">cit</marquage>., p. 83</alinea>
       </note>
-      <note xmlns="" id="sdfootnote34sym">
+      <note id="sdfootnote34sym">
         <no>34</no>
         <alinea>
 	T. Tyler, Why People Obey The Law, Princeton University Press, 2006, passim.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote35sym">
+      <note id="sdfootnote35sym">
         <no>35</no>
         <alinea>
 	D. Crystal, <marquage typemarq="italique">op. cit., </marquage>Chap. 16.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote36sym">
+      <note id="sdfootnote36sym">
         <no>36</no>
         <alinea>
 	N. Chomsky, <marquage typemarq="italique">Syntaxic Structures</marquage>, Mouton de Gruyter, 2002, rééd., p. 13.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote37sym">
+      <note id="sdfootnote37sym">
         <no>37</no>
         <alinea>
 	Pour Wittgenstein, la grammaire se crée ainsi par le temps : « C&amp;rsquo;est seulement lorsque les hommes ont longuement parlé une langue que sa grammaire est écrite et vient à l’existence, et il en va de même pour les jeux primitifs : on y joue sans que leurs règles aient été établies, et sans que jamais une seule règle ait été formulée à cette intention » ; <marquage typemarq="italique">in : Remarques sur la philosophie de la psychologie II, </marquage>Mauvezin, 1994, p. 85.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote38sym">
+      <note id="sdfootnote38sym">
         <no>38</no>
         <alinea>
 	L. Wittgenstein, <marquage typemarq="italique">op. cit.</marquage>, p. 42. Le philosophe écrit ainsi : « Les hommes ne pourraient apprendre à compter si tous les objets qui les entourent étaient entraînés dans un mouvement d’apparition et de disparition trop rapide ».</alinea>
       </note>
-      <note xmlns="" id="sdfootnote39sym">
+      <note id="sdfootnote39sym">
         <no>39</no>
         <alinea>
 	D. Morris, <marquage typemarq="italique">Le Singe nu, </marquage>éd. Le livre de poche, 1971, <marquage typemarq="italique">passim </marquage>; v. également du même auteur : <marquage typemarq="italique">Le Zoo humain</marquage>, éd. Le Livre de Poche, 1969.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote40sym">
+      <note id="sdfootnote40sym">
         <no>40</no>
         <alinea>
 	D. Crystal, <marquage typemarq="italique">op. cit.</marquage>, Chap. 1.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote41sym">
+      <note id="sdfootnote41sym">
         <no>41</no>
         <alinea>
 	V. ainsi son opus <marquage typemarq="italique">Proposal for Correcting, Improving and ascertaining the English Tongue</marquage> (1712), Kessinger Publishing, 2010.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote42sym">
+      <note id="sdfootnote42sym">
         <no>42</no>
         <alinea>
 	Selon l’Académie elle-même : « Du haut Moyen &amp;Acirc;ge au début du XVIIsiècle, le français passe lentement de l’état de langue du vulgaire (ou vernaculaire) à celui de langue égale en dignité au latin » : </alinea>
       </note>
-      <note xmlns="" id="sdfootnote43sym">
+      <note id="sdfootnote43sym">
         <no>43</no>
         <alinea>
 	Article 26 des statuts. </alinea>
       </note>
-      <note xmlns="" id="sdfootnote44sym">
+      <note id="sdfootnote44sym">
         <no>44</no>
         <alinea>
 	Art. 24.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote45sym">
+      <note id="sdfootnote45sym">
         <no>45</no>
         <alinea>
 	D. Crystal, Chap. 4</alinea>
       </note>
-      <note xmlns="" id="sdfootnote46sym">
+      <note id="sdfootnote46sym">
         <no>46</no>
         <alinea>
 	</alinea>
       </note>
-      <note xmlns="" id="sdfootnote47sym">
+      <note id="sdfootnote47sym">
         <no>47</no>
         <alinea>
 	Selon ses statuts : « Le dispositif imaginé par Richelieu était si parfait qu’il a franchi les siècles sans modification majeure : le pouvoir politique ne saurait sans abus intervenir directement sur la langue ; il laisse donc à une assemblée indépendante, dont le statut est analogue à celui des cours supérieures, le soin d’enregistrer, d’établir et de régler l’usage. En matière de langage, l’incitation, la régulation et l’exemple sont des armes bien plus efficaces que l’intervention autoritaire » <marquage typemarq="italique">; id loc </marquage>(c&amp;rsquo;est nous qui soulignons).</alinea>
       </note>
-      <note xmlns="" id="sdfootnote48sym">
+      <note id="sdfootnote48sym">
         <no>48</no>
         <alinea>
 	V. ainsi le décret 2006-830 du 11 juillet 2006, art. 3-I.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote49sym">
+      <note id="sdfootnote49sym">
         <no>49</no>
         <alinea>
 	La question peut être posée de savoir si la grammaire ne serait pas au-delà une source proprement dite du droit. La question a été notamment débattue en droit talmudique. Sur cette question, v. notamment A. Herla, <marquage typemarq="italique">Histoire de la pensée politique et théories du langage : Skinner, Pocock, Johnston lecteurs de Hobbes</marquage>, <marquage typemarq="italique">in : </marquage>Dissensus, Revue de philosophie politique de l’Université de Liège, 2010-3, Dossier Droit et philosophie du langage ordinaire, coordination D. Pieret, p. 164.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote50sym">
+      <note id="sdfootnote50sym">
         <no>50</no>
         <alinea>
 	Wittgenstein écrit ainsi : « Si d’une façon générale, les hommes ne s&amp;rsquo;accordaient pas sur la couleur des choses, et que ces désaccords ne fussent pas exceptionnels, notre concept de couleur ne pourrait pas exister. Non ; ce concept n’existerait pas » ; <marquage typemarq="italique">in : Remarques sur la philosophie de la psychologie II, Mauvezin, 1994,</marquage> préc., p. 85.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote51sym">
+      <note id="sdfootnote51sym">
         <no>51</no>
         <alinea>
 	<marquage typemarq="italique">Language, Thought and Reality, Selected Writings</marquage>, MIT Press, 2012. V. également pour une présentation critique de cette théorie : S. Auroux, J. Deschamps &amp;amp; D. Kouloughli, <marquage typemarq="italique">La philosophie du langage</marquage>, PUF, 2004, p. 177.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote52sym">
+      <note id="sdfootnote52sym">
         <no>52</no>
         <alinea>
 	L. Boroditsky &amp;amp; A. Gaby, <marquage typemarq="italique">Remembrances of times east: absolute spatial representations of time in an Australian aboriginal community</marquage>, Psychological Science, 2010, vol. 21, p. 1635-1639 ; C. M. Fausey et al., <marquage typemarq="italique">Constructing agency: the role of language</marquage>, Frontiers in Cultural Psychology, 2010, vol. 1, pp. 1-11, oct ; S. Danziger et R. Ward, <marquage typemarq="italique">Language changes implicit associations between ethnic groups and evaluation in bilinguals</marquage>, Psychological Science, 2010, vol. 21, pp. 799-800. V; également, pour une présentation synthétique : L. Boroditsky, <marquage typemarq="italique">How the Languages We Speak Shape the Ways We think, </marquage>Conférence à l’Université de Berkeley, 16 avril 2010. Voir en ligne.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote53sym">
+      <note id="sdfootnote53sym">
         <no>53</no>
         <alinea>
 	L. Boroditsky, <marquage typemarq="italique">Les langues façonnent la pensée</marquage>, Pour la science, 2011, p. 407.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote54sym">
+      <note id="sdfootnote54sym">
         <no>54</no>
         <alinea>
 	S<marquage typemarq="italique">.</marquage>C. Levinson, <marquage typemarq="italique">Space in Language and Cognition: Eplorations in Cognitive Diversity</marquage>, Cambridge University Press, 2003; <marquage typemarq="italique">Grammar of Space, </marquage>Cambridge University Press, 2006.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote55sym">
+      <note id="sdfootnote55sym">
         <no>55</no>
         <alinea>
 	J. Haviland, <marquage typemarq="italique">Ideologies of Language, Some Reflections on Language and US Law</marquage>, <marquage typemarq="italique">in: American Anthropologist</marquage>, 2003, p. 105.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote56sym">
+      <note id="sdfootnote56sym">
         <no>56</no>
         <alinea>
 	G. Koubi &amp;amp; D. Romy-Masliah, <marquage typemarq="italique">S&amp;rsquo;entendre sur la langue</marquage>, Droit et Culture<marquage typemarq="italique">,</marquage> 73-2012.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote57sym">
+      <note id="sdfootnote57sym">
         <no>57</no>
         <alinea>
 	<marquage typemarq="italique">Idem</marquage> ; v. également : F. de Varennes, <marquage typemarq="italique">Le rôle du droit international en matière d’aménagement linguistique : la fin de l’époque de la souveraineté nationale ?</marquage>, Télescope, vol. 16, n&amp;deg; 3, 2010, p. 39-54.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote58sym">
+      <note id="sdfootnote58sym">
         <no>58</no>
         <alinea>
 	A. Herla, <marquage typemarq="italique">op. cit.</marquage>
         </alinea>
       </note>
-      <note xmlns="" id="sdfootnote59sym">
+      <note id="sdfootnote59sym">
         <no>59</no>
         <alinea>
 	D. Crystal, <marquage typemarq="italique">op. cit.</marquage>, Chap. 1.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote60sym">
+      <note id="sdfootnote60sym">
         <no>60</no>
         <alinea>
 	Il écrit ainsi : « Personne ne peut supposer qu’il ne soit pas plus avantageux pour un Breton ou un Basque de la Navarre française, d’être entraîné dans le courant d’idées et de sentiments d’un peuple hautement civilisé et cultivé, d’être un membre de la nationalité française, possédant sur le pied de l’égalité tous les privilèges d’un citoyen français, partageant les avantages de la protection française, et la dignité et le prestige du pouvoir français, que de bouder sur ses rochers, échantillon à moitié sauvage des temps passés, tournant sans cesse dans son étroite orbite intellectuelle, sans participer ni s&amp;rsquo;intéresser au mouvement général du monde. La même remarque s&amp;rsquo;applique au Gallois ou à l’Écossais des Highlands, comme membre de la nation anglaise » : J. S. Mill, <marquage typemarq="italique">Le gouvernement représentatif</marquage>, traduction de PU/M. Dupont-White, Guillaumin, 1865, p. 343.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote61sym">
+      <note id="sdfootnote61sym">
         <no>61</no>
         <alinea>
 	<marquage typemarq="italique">Supra</marquage>, note.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote62sym">
+      <note id="sdfootnote62sym">
         <no>62</no>
         <alinea>
 	On peut y lire en effet : « L’extension de l’usage du français (et, qui plus est, d’un français qui puisse être compris par tous) est proportionnelle, pour une large part, aux progrès de l’administration et de la justice royales dans le pays. Inversement, l’essor de la langue française et la généralisation de son emploi sont des facteurs déterminants dans la construction de la nation française ».</alinea>
       </note>
-      <note xmlns="" id="sdfootnote63sym">
+      <note id="sdfootnote63sym">
         <no>63</no>
         <alinea>
 	L’abbé Grégoire affirme ainsi à son époque : « On peut uniformiser le langage d’une grande nation [...]. Cette entreprise qui ne fut pleinement exécutée chez aucun peuple est digne du peuple français, qui centralise toutes les branches de l’organisation sociale et qui doit être jaloux de consacrer au plus tôt, dans une République une et indivisible, l’usage unique et invariable de la langue de la liberté ». <marquage typemarq="italique">In : Rapport sur la nécessité et les moyens d’anéantir les patois et d’universaliser l’usage de la langue française</marquage>, 1794, <liensimple xlink:type="simple" xlink:href="http://www.kervarker.org/fr/levr_25_period.html">Voir en ligne.</liensimple>
         </alinea>
       </note>
-      <note xmlns="" id="sdfootnote64sym">
+      <note id="sdfootnote64sym">
         <no>64</no>
         <alinea>
 	A. Herla, <marquage typemarq="italique">art. préc.</marquage>
         </alinea>
       </note>
-      <note xmlns="" id="sdfootnote65sym">
+      <note id="sdfootnote65sym">
         <no>65</no>
         <alinea>
 	<marquage typemarq="italique">Idem</marquage>.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote66sym">
+      <note id="sdfootnote66sym">
         <no>66</no>
         <alinea>
 	L.R.C. (1985), ch. 31 (4 suppl.). Le texte de la loi peut être consulté à l’adresse suivante : <liensimple xlink:type="simple" xlink:href="http://lois.justice.gc.ca/fra/lois/O-3.01/page-1.html#docCont">Voir en ligne. </liensimple> Sur la question du bilinguisme au Canada, v. notamment M. Bastarache, <marquage typemarq="italique">Les droits linguistiques au Canada,</marquage> éd. Y. Blais, 2006 ; M. Hayday, <marquage typemarq="italique">Bilingual Today, United Tomorrow: Official Languages in Education and Canadian Federalism</marquage>,  MQUP, 2005. </alinea>
       </note>
-      <note xmlns="" id="sdfootnote67sym">
+      <note id="sdfootnote67sym">
         <no>67</no>
         <alinea>
 	</alinea>
       </note>
-      <note xmlns="" id="sdfootnote68sym">
+      <note id="sdfootnote68sym">
         <no>68</no>
         <alinea>
 	Conseil constitutionnel, Décision 99-412 DC 15 juin 1999.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote69sym">
+      <note id="sdfootnote69sym">
         <no>69</no>
         <alinea>
 	Ce texte énonce en effet : « Dans les États où il existe des minorités ethniques, religieuses ou linguistiques, les personnes appartenant à ces minorités ne peuvent être privées du droit d’avoir, en commun avec les autres membres de leur groupe, leur propre vie culturelle, de professer et de pratiquer leur propre religion, ou d’employer leur propre langue ».</alinea>
       </note>
-      <note xmlns="" id="sdfootnote70sym">
+      <note id="sdfootnote70sym">
         <no>70</no>
         <alinea>
 	Ballantyne, Davidson et McIntyre c. Canada, Communications n&amp;deg; 359/1989 et 385/1989, CCPR/C/47/D/359/1989 et 385/1989/Rev. 1 (1993), 5 mai 1993.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote71sym">
+      <note id="sdfootnote71sym">
         <no>71</no>
         <alinea>
 	J. G. A. Diergaardt et consort c. Namibie, Communication  n&amp;deg; 760/1997, CCPR/C/69/D/760/1997 (2000).</alinea>
       </note>
-      <note xmlns="" id="sdfootnote72sym">
+      <note id="sdfootnote72sym">
         <no>72</no>
         <alinea>
 	CEDH 22 février 1994, <marquage typemarq="italique">Burghartz c. Suisse</marquage>, A 280-B.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote73sym">
+      <note id="sdfootnote73sym">
         <no>73</no>
         <alinea>
 	CEDH 10 mai 2005 <marquage typemarq="italique">Chypre c/ Turquie, </marquage>800844.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote74sym">
+      <note id="sdfootnote74sym">
         <no>74</no>
         <alinea>
 	Aff. C 379/87.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote75sym">
+      <note id="sdfootnote75sym">
         <no>75</no>
         <alinea>
 	Aff C 391/09.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote76sym">
+      <note id="sdfootnote76sym">
         <no>76</no>
         <alinea>
 	Aff C 168/91.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote77sym">
+      <note id="sdfootnote77sym">
         <no>77</no>
         <alinea>
 	Cons. const. 9 mai 1991, n&amp;deg; 91-290 DC, D. 1991. 624 note R. Debbasch ; GDCC, 15 éd., 2009, n&amp;deg; 35 ; RFDA 1991. 407, note B. Genevois.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote78sym">
+      <note id="sdfootnote78sym">
         <no>78</no>
         <alinea>
 	Cons. const. 29 juill. 1994, n&amp;deg; 94-345 DC, AJDA 1994. 731, note P. Wachsmann ; D. 1995. 295, obs. E. Oliva, et 303 , obs. A. Roux.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote79sym">
+      <note id="sdfootnote79sym">
         <no>79</no>
         <alinea>
 	Cons. const. 20 mai 2011, n&amp;deg; 2011-130 QPC, AJDA 2011. 1963, note M. Verpeaux; JCP Adm. 2011, n&amp;deg; 2246, note E. Legrand ; LPA 17 oct. 2011, p. 15, note J.-E. Gicquel.</alinea>
       </note>
-      <note xmlns="" id="sdfootnote80sym">
+      <note id="sdfootnote80sym">
         <no>80</no>
         <alinea>
 	Sur cette question, v. notamment F. Salvage, <marquage typemarq="italique">Les limites à l’utilisation des langues régionales</marquage>, AJDA, 2012, p. 1856</alinea>
       </note>
-      <note xmlns="" id="sdfootnote81sym">
+      <note id="sdfootnote81sym">
         <no>81</no>
         <alinea>
 	V. ainsi pour la langue polynésienne : CE 22 févr. 2007, Société civile immobilière Caroline, req. n&amp;deg; 300312, AJDA 2008. 1047, note J. Kissangoula ; CE 22 févr. 2007, Fritch, req. n&amp;deg; 299649, Lebon ; AJDA 2007. 453 ; Jurisdata n&amp;deg; 2007-071474 ; JCP Adm. 2007. Actu 248, note M.-C. Rouault. Et pour la langue corse : CAA Marseille <marquage typemarq="italique">Préfet c/ Commune de Galeria</marquage>, 13 octobre 2011, n&amp;deg; 10MA02330. <liensimple xlink:type="simple" xlink:href="http://legimobile.fr/fr/jp/a/caa/13055/2011/10/13/10MA02330/">Voir en ligne. </liensimple>

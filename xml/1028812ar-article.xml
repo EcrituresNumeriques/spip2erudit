@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028812ar" typeart="autre" lang="fr" ordseq="1">
-  <admin xmlns="">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028812ar" typeart="autre" lang="fr" ordseq="1">
+  <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
       <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
@@ -56,7 +56,7 @@
     <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
     <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
   </admin>
-  <liminaire xmlns="">
+  <liminaire>
     <grtitre>
       <titre>Repenser le numérique au 21ème siècle</titre>
     </grtitre>
@@ -89,7 +89,7 @@
       <motcle>Repenser le numérique au 21e siècle</motcle>
     </grmotcle>
   </liminaire>
-  <corps xmlns="">
+  <corps>
     <section>
       <titre2>
 	<marquage typemarq="gras">Sommaire</marquage>
@@ -318,39 +318,39 @@
     </section>
   </corps>
   <partiesann>
-    <grbiblio xmlns="" xmlns="http://www.erudit.org/xsd/article">
-      <biblio xmlns="">
+    <grbiblio>
+      <biblio>
         <titre>Bibliographie</titre>
       </biblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	Besser, Howard, « From Internet to Information Superhighway. » <marquage typemarq="italique">Resisting the Virtual Life: The Culture and Politics of Information</marquage>, eds James Brook and Iain A. Boal. San Francisco: City Lights, 1995, pages 59&amp;ndash;70.</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	Birkerts, Sven, <marquage typemarq="italique">The Gutenberg Elegies: The Fate of Heading in an Electronic Age</marquage>, Faber and Faber, 1994.</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	Casilli, Antonio A, <marquage typemarq="italique">Les liaisons numériques: Vers une nouvelle sociabilité ? </marquage>Seuil, 2010.</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	Compagnon, Antoine, « Un monde sans auteurs ? », dans <marquage typemarq="italique">Où va le livre ?</marquage>, ed. J.-Y. Mollier, La Dispute, 2000. &#x2028;</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	Doueihi, Milad, <marquage typemarq="italique">La grande conversion numérique</marquage>. Seuil, 2008.</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	Ferraris, Maurizio, <marquage typemarq="italique">&amp;Acirc;me et iPad</marquage>, Presses de l’Université de Montréal, 2014.</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	Fitzpatrick Kathleen, <marquage typemarq="italique">Planned Obsolescence: Publishing, Technology, and the Future of the Academy</marquage>. New York: New York University Press, 2009. </refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	Ferraris, Maurizio, <marquage typemarq="italique">&amp;Acirc;me et iPad</marquage>, Presses de l’Université de Montréal, 2014.</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	McAfee, Andrew and Erik Brynjolfsson, « Big Data: The Management Revolution », <marquage typemarq="italique">Harvard Business Review</marquage>. October 2012.</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	Merzeau, Louise, « Twitter : une machine à fabriquer de l’autorité », dans <marquage typemarq="italique">Twitter, un monde en tout petit ?</marquage>, ed. Gabriel Gallezot et Nicolas Pélissier, L’Harmattan, 2013.</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	Sala&amp;uuml;n, Jean-Michel, <marquage typemarq="italique">Vu, Su, Lu</marquage>, La Découverte, 2012.</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	Sinatra, Michael E. et Marcello Vitali-Rosati, « Introduction », dans <marquage typemarq="italique">Pratique de l’édition numérique</marquage>, ed. Michael E. Sinatra et Marcello Vitali-Rosati, Presses de l’Université de Montréal, 2014.</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	Sala&amp;uuml;n, Jean-Michel, <marquage typemarq="italique">Vu, Su, Lu</marquage>, La Découverte, 2012.</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	Sinatra, Michael E. et Marcello Vitali-Rosati, « Introduction », dans <marquage typemarq="italique">Pratique de l’édition numérique</marquage>, ed. Michael E. Sinatra et Marcello Vitali-Rosati, Presses de l’Université de Montréal, 2014.</refbiblio>
-      <refbiblio xmlns="">
+      <refbiblio>
 	Stiegler, Bernard, <marquage typemarq="italique">La technique et le temps</marquage>, Galilée, 1994.</refbiblio>
     </grbiblio>
   </partiesann>
