@@ -22,7 +22,8 @@ declare namespace xlink = "http://www.w3.org/1999/xlink" ;
 
 declare default function namespace 'local' ;
 
-declare variable $local:groupes := fn:doc('groupes.xml') ;
+declare variable $local:base := file:base-dir() ;
+declare variable $local:groupes := fn:doc($local:base || 'groupes.xml') ;
 
 
 
@@ -31,7 +32,7 @@ declare variable $local:groupes := fn:doc('groupes.xml') ;
  : @return for each article write an xml file named with its id prefixed by "sens-public-" in the $path directory
  :)
 declare function writeArticles($refs as map(*)*) as document-node()* {
-  let $path := file:base-dir() || '/xml/'
+  let $path := $local:base || '/xml/'
   for $ref in $refs
   return 
     let $article := db:open('sens-public')//spip_articles[id_article = map:get($ref, 'num')]
@@ -207,7 +208,7 @@ return if ($descripteurs)
  : @return the xml erudit directeur element for each director by dates
  :)
 declare function getDirector( $article as element() ) as element()* {
-let $directorsByDates := fn:doc('directors.xml')
+let $directorsByDates := fn:doc($local:base || 'directors.xml')
 let $date := fn:substring($article/date, 1, 10) cast as xs:date
 for $director in $directorsByDates/directors/director
   where $date > ($director/date/@from cast as xs:date) and $date < ($director/date/@to cast as xs:date) 
@@ -656,7 +657,7 @@ declare function removeNilled($node as node()) as node()? {
  : get the articles references
  : @return a map sequence with the article references from the identifiants.xml file
  :)
-let $doc := file:base-dir() || 'identifiants.xml'
+let $doc := $local:base || 'identifiants.xml'
 let $refs := for $article in fn:doc($doc)//article
 return map { 
   'id' : fn:data($article/@id),
