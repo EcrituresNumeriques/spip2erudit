@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- change the path -->
+<config>
+  <path>your/path/to/spipexport.xml</path>
+</config>
