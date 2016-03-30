@@ -656,7 +656,8 @@ declare function removeNilled($node as node()) as node()? {
  : get the articles references
  : @return a map sequence with the article references from the identifiants.xml file
  :)
-let $refs := for $article in fn:doc('identifiants.xml')//article
+let $doc := file:base-dir() || 'identifiants.xml'
+let $refs := for $article in fn:doc($doc)//article
 return map { 
   'id' : fn:data($article/@id),
   'num' : fn:data($article),
