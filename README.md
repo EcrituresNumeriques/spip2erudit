@@ -4,7 +4,6 @@ Sens Public SPIP XML export to XML erudit
 
 ## Run
 
-- Change the `path` into `config.xml`
 - Run the `spip2erudit.xq` with an XQuery processor
 
 ## References
