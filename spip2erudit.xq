@@ -31,7 +31,7 @@ declare variable $local:groupes := fn:doc('groupes.xml') ;
  : @return for each article write an xml file named with its id prefixed by "sens-public-" in the $path directory
  :)
 declare function writeArticles($refs as map(*)*) as document-node()* {
-  let $path := 'xml/'
+  let $path := file:base-dir() || '/xml/'
   for $ref in $refs
   return 
     let $article := db:open('sens-public')//spip_articles[id_article = map:get($ref, 'num')]
