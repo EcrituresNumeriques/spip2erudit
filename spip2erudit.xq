@@ -16,6 +16,7 @@ xquery version "3.0" ;
  :)
 
 
+declare namespace sp = "http://sens-public.org/sp/" ;
 declare namespace functx = "http://www.functx.com" ;
 declare namespace xlink = "http://www.w3.org/1999/xlink" ;
 
@@ -193,9 +194,9 @@ declare function getDescripteurs( $article as element() ) as element()* {
 let $descripteurs := 
   for $id in db:open('sens-public')//spip_mots_articles[id_article = $article/id_article]/id_mot
     let $mot := db:open('sens-public')//spip_mots[id_mot = $id]
-    let $entry := $local:groupes/list/entry
-  return if ( fn:data($mot/titre) = fn:data($entry/label) ) 
-    then <descripteur>{ fn:data($entry[fn:data(label) = fn:data($mot/titre)]/term) }</descripteur> 
+    let $entry := $local:groupes/sp:list/sp:entry
+  return if ( fn:data($mot/titre) = fn:data($entry/sp:label) ) 
+    then <descripteur>{ fn:data($entry[fn:data(sp:label) = fn:data($mot/titre)]/sp:term) }</descripteur> 
     else ()
 return if ($descripteurs) 
   then <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">{$descripteurs}</grdescripteur>
@@ -210,8 +211,8 @@ return if ($descripteurs)
 declare function getDirector( $article as element() ) as element()* {
 let $directorsByDates := fn:doc($local:base || 'directors.xml')
 let $date := fn:substring($article/date, 1, 10) cast as xs:date
-for $director in $directorsByDates/directors/director
-  where $date > ($director/date/@from cast as xs:date) and $date < ($director/date/@to cast as xs:date) 
+for $director in $directorsByDates/sp:directors/sp:director
+  where $date > ($director/sp:date/@from cast as xs:date) and $date < ($director/sp:date/@to cast as xs:date) 
   return 
     <directeur sexe="{ $director/sexe/text() }">
       <nompers>
@@ -658,11 +659,11 @@ declare function removeNilled($node as node()) as node()? {
  : @return a map sequence with the article references from the identifiants.xml file
  :)
 let $doc := $local:base || 'identifiants.xml'
-let $refs := for $article in fn:doc($doc)//article
+let $refs := for $article in fn:doc($doc)//sp:article
 return map { 
   'id' : fn:data($article/@id),
   'num' : fn:data($article),
-  'vol' : fn:data($article/parent::*/@id),
+  'vol' : fn:data($article/parent::sp:*/@id),
   'n' : fn:data($article/@n)
   }
 
