@@ -15,6 +15,7 @@ xquery version "3.0" ;
  : @issue 1152 didn't get biblio
  :)
 
+
 declare namespace functx = "http://www.functx.com" ;
 declare namespace xlink = "http://www.w3.org/1999/xlink" ;
 
@@ -24,7 +25,6 @@ declare default function namespace 'local' ;
 
 declare variable $local:base := file:base-dir() ;
 declare variable $local:groupes := fn:doc($local:base || 'groupes.xml') ;
-
 
 
 (:~
@@ -40,6 +40,7 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
     let $article := getArticle($article, $ref)
     return file:write($path || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
 };
+
 
 (:~ 
  : This function built the article content
