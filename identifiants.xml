@@ -2,7 +2,7 @@
 <!-- sp01945 sp01946 sp01947 sp01948 -->
 <!-- 1028805ar
 1028806ar 1028807ar 1028808ar 1028809ar 1028810ar 1028811ar 1028812ar 1028813ar 1028814ar 1028815ar 1028816ar 1028817ar 1028818ar 1028819ar 1028820ar 1028821ar 1028822ar 1028823ar 1028824ar -->
-<livraisons>
+<livraisons xmlns="http://sens-public.org/sp/">
   <livraison id="sp01945">
     <article n="1" id="1028805ar">1133</article>
     <article n="2" id="1028806ar">1139</article>

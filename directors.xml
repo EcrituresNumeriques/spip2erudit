@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Sens-Public directors by date -->
-<directors>
+<directors xmlns="http://sens-public.org/sp/">
   <director>
     <date from="2012-01-01" to="2020-12-31" />
     <persName>
