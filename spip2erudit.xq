@@ -54,8 +54,7 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
       qualtraitement="complet" idproprio="{map:get($ref, 'id')}" typeart="autre" lang="fr" ordseq="1">
  :)
 declare 
-  %output:method('xml')
-  %output:indent('yes')
+  
 function getArticle( $article as element(), $ref as map(*) ) as element() {
   let $content := getContent($article/texte, map{ '':'' })
   let $corps := <corps>{ getRestruct(getCleaned($content)) }</corps>
