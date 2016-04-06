@@ -15,7 +15,7 @@ xquery version "3.0" ;
  : @issue 1152 didn't get biblio
  :)
 
-
+declare namespace spip = "http://spip.net/tags/" ;
 declare namespace sp = "http://sens-public.org/sp/" ;
 declare namespace functx = "http://www.functx.com" ;
 declare namespace xlink = "http://www.w3.org/1999/xlink" ;
@@ -36,7 +36,7 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
   let $path := $local:base || '/xml/'
   for $ref in $refs
   return 
-    let $article := db:open('sens-public')//spip_articles[id_article = map:get($ref, 'num')]
+    let $article := db:open('sens-public')//spip:spip_articles[spip:id_article = map:get($ref, 'num')]
     let $file := map:get($ref, 'id') || '-article' || '.xml'
     let $article := getArticle($article, $ref)
     return file:write($path || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
@@ -55,10 +55,8 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
       xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd"
       qualtraitement="complet" idproprio="{map:get($ref, 'id')}" typeart="autre" lang="fr" ordseq="1">
  :)
-declare 
-  
-function getArticle( $article as element(), $ref as map(*) ) as element() {
-  let $content := getContent($article/texte, map{ '':'' })
+declare function getArticle( $article as element(), $ref as map(*) ) as element() {
+  let $content := getContent($article/spip:texte, map{ '':'' })
   let $corps := <corps>{ getRestruct(getCleaned($content)) }</corps>
   let $biblio := getBiblio($content)
   let $grnote := getNote($content)
@@ -85,7 +83,13 @@ function getArticle( $article as element(), $ref as map(*) ) as element() {
     }</article>
 };
 
-declare function getBiblio($content) {
+
+(:~ 
+ : This function get the biblio
+ : @param $content the content to parse
+ : @return an erudit 
+ :)
+declare function getBiblio($content as element()) {
     for $biblio in $content//grbiblio
     return copy $biblio := $biblio
       modify for $refbiblio in $content//grbiblio/following-sibling::para
@@ -93,7 +97,12 @@ declare function getBiblio($content) {
     return $biblio
 };
 
-declare function getNote($content) {
+(:~ 
+ : This function 
+ : @param $content the content to parse
+ : @return an erudit 
+ :)
+declare function getNote($content as element()) {
   for $grnote in $content//grnote
   return copy $grnote := $grnote
         modify 
@@ -102,6 +111,11 @@ declare function getNote($content) {
         return $grnote
 };
 
+(:~ 
+ : This function 
+ : @param $content the content to parse
+ : @return an erudit 
+ :)
 declare function getCleaned($content as element()) {
   let $childs := $content/node()[. instance of element()]
   let $positions := 
@@ -114,8 +128,13 @@ declare function getCleaned($content as element()) {
       return delete node $n
     return $content
 };
-  
-declare function getRestruct($element) {
+
+(:~ 
+ : This function 
+ : @param $content the content to parse
+ : @return an 
+ :)
+declare function getRestruct($element as element()) {
   let $childs := $element/node()[. instance of element()]
   let $positions := 
     for $s in $element/*[1] | $element/titre
@@ -192,11 +211,11 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref
  :)
 declare function getDescripteurs( $article as element() ) as element()* {
 let $descripteurs := 
-  for $id in db:open('sens-public')//spip_mots_articles[id_article = $article/id_article]/id_mot
-    let $mot := db:open('sens-public')//spip_mots[id_mot = $id]
+  for $id in db:open('sens-public')//spip:spip_mots_articles[spip:id_article = $article/spip:id_article]/spip:id_mot
+    let $mot := db:open('sens-public')//spip:spip_mots[spip:id_mot = $id]
     let $entry := $local:groupes/sp:list/sp:entry
-  return if ( fn:data($mot/titre) = fn:data($entry/sp:label) ) 
-    then <descripteur>{ fn:data($entry[fn:data(sp:label) = fn:data($mot/titre)]/sp:term) }</descripteur> 
+  return if ( fn:data($mot/spip:titre) = fn:data($entry/sp:label) ) 
+    then <descripteur>{ fn:data($entry[fn:data(sp:label) = fn:data($mot/spip:titre)]/sp:term) }</descripteur> 
     else ()
 return if ($descripteurs) 
   then <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">{$descripteurs}</grdescripteur>
@@ -210,14 +229,14 @@ return if ($descripteurs)
  :)
 declare function getDirector( $article as element() ) as element()* {
 let $directorsByDates := fn:doc($local:base || 'directors.xml')
-let $date := fn:substring($article/date, 1, 10) cast as xs:date
+let $date := fn:substring($article/spip:date, 1, 10) cast as xs:date
 for $director in $directorsByDates/sp:directors/sp:director
   where $date > ($director/sp:date/@from cast as xs:date) and $date < ($director/sp:date/@to cast as xs:date) 
   return 
     <directeur sexe="{ $director/sexe/text() }">
       <nompers>
-        <prenom>{ $director//forename/text() }</prenom>
-        <nomfamille>{ $director//surname/text() }</nomfamille>
+        <prenom>{ $director//sp:forename/text() }</prenom>
+        <nomfamille>{ $director//sp:surname/text() }</nomfamille>
       </nompers>
     </directeur>
 };
@@ -235,9 +254,9 @@ declare function getRedacteurchef( $article as element() ) as element()* {
   (: let $id := $article/id_article :)
   let $id := $article/id_article/text()
   let $issue := getIssue($id)
-  for $authorsId in db:open('sens-public')//spip_auteurs_articles[id_article = $issue]/id_auteur
+  for $authorsId in db:open('sens-public')//spip:spip_auteurs_articles[spip:id_article = $issue]/spip:id_auteur
     return
-      for $author in db:open('sens-public')//spip_auteurs[id_auteur = $authorsId]/nom
+      for $author in db:open('sens-public')//spip:spip_auteurs[spip:id_auteur = $authorsId]/spip:nom
       let $name := fn:tokenize($author/text(), '\*') 
       return 
         <redacteurchef typerc="invite" sexe="masculin">
@@ -261,12 +280,12 @@ declare function getDate($article, $nb) {
 declare function getIssue( $idSeq as xs:string* ) as xs:string* {
   for $item in $idSeq
   return 
-    let $dossiers := db:open('sens-public')//spip_articles[id_rubrique = '109']
+    let $dossiers := db:open('sens-public')//spip:spip_articles[spip:id_rubrique = '109']
     return 
-      for $lien in $dossiers//a
+      for $lien in $dossiers//spip:a
       let $regex := '(.*?)spip\.php\?article' || $item
       where fn:matches($lien/@href, $regex)
-        return $lien/ancestor::spip_articles/id_article/text()
+        return $lien/ancestor::spip:spip_articles/spip:id_article/text()
 };
 
 
@@ -300,9 +319,9 @@ declare function getLiminaire($article) {
  :)
 declare function getTitre($article) {
   <grtitre>
-    <titre>{ passthru($article/titre, map{ '':'' }) }</titre>
-    { if ( $article/soustitre != () ) 
-        then <sstitre>{ passthru($article/soustitre, map{ '':'' }) }</sstitre> 
+    <titre>{ passthru($article/spip:titre, map{ '':'' }) }</titre>
+    { if ( $article/spip:soustitre != () ) 
+        then <sstitre>{ passthru($article/spip:soustitre, map{ '':'' }) }</sstitre> 
         else () }
   </grtitre>
 };
@@ -315,9 +334,9 @@ declare function getTitre($article) {
  :)
 declare function getAuteurs($article) {
   <grauteur>{
-    for $id in db:open('sens-public')//spip_auteurs_articles[id_article = $article/id_article]/id_auteur
+    for $id in db:open('sens-public')//spip:spip_auteurs_articles[spip:id_article = $article/spip:id_article]/spip:id_auteur
     return
-      for $auteur in db:open('sens-public')//spip_auteurs[id_auteur = $id]/nom
+      for $auteur in db:open('sens-public')//spip:spip_auteurs[spip:id_auteur = $id]/spip:nom
       let $nom := fn:tokenize($auteur/text(), '\*') 
       return 
         <auteur id="{'spAuthor' || $id}">
@@ -337,23 +356,20 @@ declare function getAuteurs($article) {
  :)
 declare function getResume($article) {
   let $regex := '\{\{(.*?)\s*?:?\}\}\s*?(.*)'
-  let $ana := fn:analyze-string($article/descriptif, $regex)
+  let $ana := fn:analyze-string($article/spip:descriptif, $regex)
   for $match in $ana/fn:match
 return 
   switch ($match)
   case ($match[fn:contains(fn:group[@nr='1'], "Résumé")]) 
     return <resume lang="fr">
-             (: <titre>{$match/fn:group[@nr='1']/text()}</titre> :)
              <alinea>{$match/fn:group[@nr='2']/text()}</alinea>
            </resume>
   case ($match[fn:contains(fn:group[@nr='1'], "Abstract")]) 
     return <resume lang="en">
-             (: <titre>{$match/fn:group[@nr='1']/text()}</titre> :)
              <alinea>{$match/fn:group[@nr='2']/text()}</alinea>
            </resume>
   case ($match[fn:contains(fn:group[@nr='1'], "Resumen")]) 
     return <resume lang="de">
-             (: <titre>{$match/fn:group[@nr='1']/text()}</titre> :)
              <alinea>{$match/fn:group[@nr='2']/text()}</alinea>
            </resume>
   default return ()
@@ -368,11 +384,11 @@ return
 declare function getMotclef( $article as element() ) as element() {
   <grmotcle lang="fr">
     {
-      for $id in db:open('sens-public')//spip_mots_articles[id_article = $article/id_article]/id_mot
-      let $mot := db:open('sens-public')//spip_mots[id_mot = $id]
-      return if ($mot/titre/multi) 
-        then let $mot := fn:tokenize($mot/titre/multi/text(), '\[[a-z]{2}\]') return <motcle>{ $mot[2] }</motcle>
-        else <motcle>{ $mot/titre/text() }</motcle>
+      for $id in db:open('sens-public')//spip:spip_mots_articles[spip:id_article = $article/spip:id_article]/spip:id_mot
+      let $mot := db:open('sens-public')//spip:spip_mots[spip:id_mot = $id]
+      return if ($mot/spip:titre/spip:multi) 
+        then let $mot := fn:tokenize($mot/spip:titre/spip:multi/text(), '\[[a-z]{2}\]') return <motcle>{ $mot[2] }</motcle>
+        else <motcle>{ $mot/spip:titre/text() }</motcle>
     }
   </grmotcle>
 };
@@ -394,25 +410,25 @@ declare function getContent( $nodes as node()*, $options as map(*) ) as item()* 
 declare function dispatch($node as node()*, $options as map(*)) as item()* {
   typeswitch($node)
     case text() return $node
-    case element(texte) return texte($node, $options)
-    case element(chapo) return chapo($node, $options)
-    case element(div) return div($node, $options)
-    case element(h1) return h1($node, $options)
-    case element(h2) return h2($node, $options)
-    case element(h3) return h3($node, $options)
-    case element(h4) return h4($node, $options)
-    case element(p) return p($node, $options)
-    case element(blockquote) return blockquote($node, $options)
-    case element(ul) return ul($node, $options)
-    case element(li) return li($node, $options)
-    case element(a) return a($node, $options)
-    case element(em) return em($node, $options)
-    case element(strong) return strong($node, $options)
-    case element(i) return i($node, $options)
-    case element(sup) return sup($node, $options)
-    case element(span) return span($node, $options)
-    case element(img) return img($node, $options)
-    case element(br) return br($node, $options)
+    case element(spip:texte) return texte($node, $options)
+    case element(spip:chapo) return chapo($node, $options)
+    case element(spip:div) return div($node, $options)
+    case element(spip:h1) return h1($node, $options)
+    case element(spip:h2) return h2($node, $options)
+    case element(spip:h3) return h3($node, $options)
+    case element(spip:h4) return h4($node, $options)
+    case element(spip:p) return p($node, $options)
+    case element(spip:blockquote) return blockquote($node, $options)
+    case element(spip:ul) return ul($node, $options)
+    case element(spip:li) return li($node, $options)
+    case element(spip:a) return a($node, $options)
+    case element(spip:em) return em($node, $options)
+    case element(spip:strong) return strong($node, $options)
+    case element(spip:i) return i($node, $options)
+    case element(spip:sup) return sup($node, $options)
+    case element(spip:span) return span($node, $options)
+    case element(spip:img) return img($node, $options)
+    case element(spip:br) return br($node, $options)
     default return passthru($node, $options)
 };
 
@@ -430,43 +446,43 @@ declare function passthru($nodes as node(), $options as map(*)) as item()* {
  : ~:~:~:~:~:~:~:~:~
  :)
 
-declare function texte($node as element(texte)+, $options as map(*)) {
+declare function texte($node as element(spip:texte)+, $options as map(*)) {
   <corps>{ if ($node/@xml:id) then attribute id { $node/@xml:id } else (),
     passthru($node, $options)}</corps>
 };
 
 (: todo what ? :)
-declare function chapo($node as element(chapo)+, $options as map(*)) {
+declare function chapo($node as element(spip:chapo)+, $options as map(*)) {
   ()
 };
 
-declare function div($node as element(div)+, $options as map(*)) {
+declare function div($node as element(spip:div)+, $options as map(*)) {
   <section>
     { if ($node/@xml:id) then attribute id { $node/@xml:id } else (),
     passthru($node, $options)}
   </section>
 };
 
-declare function h1($node as element(h1)+, $options as map(*)) {
+declare function h1($node as element(spip:h1)+, $options as map(*)) {
   <titre>{ passthru($node, $options) }</titre>
 };
 
 (: @todo treat titles level :)
-declare function h2($node as element(h2)+, $options as map(*)) {
+declare function h2($node as element(spip:h2)+, $options as map(*)) {
   <titre2>{ passthru($node, $options) }</titre2>
 };
 
-declare function h3($node as element(h3)+, $options as map(*)) {
+declare function h3($node as element(spip:h3)+, $options as map(*)) {
   <titre3>{ passthru($node, $options) }</titre3>
 };
 
-declare function h4($node as element(h4)+, $options as map(*)) {
+declare function h4($node as element(spip:h4)+, $options as map(*)) {
   <titre4>{ passthru($node, $options) }</titre4>
 };
 
 (: @todo alinea with br :)
 (: @issue bug with multiple p notes ex 1139, note 1 :)
-declare function p($node as element(p)+, $options as map(*)) {
+declare function p($node as element(spip:p)+, $options as map(*)) {
   switch ($node)
   case ($node[fn:normalize-space(.)='Bibliographie']) 
     return 
@@ -479,14 +495,14 @@ declare function p($node as element(p)+, $options as map(*)) {
       <grnote>
         <titre>Notes</titre>
       </grnote>
-  case ($node[a[fn:contains(@href, 'anc')]]) return 
+  case ($node[spip:a[fn:contains(@href, 'anc')]]) return 
     <note id="{$node/a/@name}">{
-           (<no>{ passthru($node/a[1], $options) }</no>, 
+           (<no>{ passthru($node/spip:a[1], $options) }</no>, 
            <alinea>{ passthru($node, $options) }</alinea>
          )
          }</note>
-  case ($node[parent::li]) return <alinea>{ passthru($node, $options) }</alinea>
-  case ($node[preceding-sibling::a[fn:contains(@href, 'anc')]]) return 
+  case ($node[parent::spip:li]) return <alinea>{ passthru($node, $options) }</alinea>
+  case ($node[preceding-sibling::spip:a[fn:contains(@href, 'anc')]]) return 
     <alinea>{ passthru($node, $options) }</alinea>
   default return
     <para>
@@ -495,15 +511,15 @@ declare function p($node as element(p)+, $options as map(*)) {
 };
 
 (: @todo refine :)
-declare function blockquote($node as element(blockquote)+, $options as map(*)) {
+declare function blockquote($node as element(spip:blockquote)+, $options as map(*)) {
   <bloccitation><alinea>{ passthru($node, $options) }</alinea></bloccitation>
 };
 
-declare function ul($node as element(ul)+, $options as map(*)) {
+declare function ul($node as element(spip:ul)+, $options as map(*)) {
   <listenonord signe="disque">{ passthru($node, $options) }</listenonord>
 };
 
-declare function li($node as element(li)+, $options as map(*)) {
+declare function li($node as element(spip:li)+, $options as map(*)) {
   <elemliste>{ passthru($node, $options) }</elemliste>
 };
 
@@ -513,33 +529,33 @@ declare function li($node as element(li)+, $options as map(*)) {
  : ~:~:~:~:~:~:~:~:~
  :)
 
-declare function a($node as element(a)+, $options as map(*)) {
+declare function a($node as element(spip:a)+, $options as map(*)) {
   switch ($node)
   case ($node[fn:contains(@href, 'sym')]) return <renvoi idref="{fn:substring-after($node/@href, '#')}" typeref="note">{ fn:data($node) }</renvoi>
   case ($node[fn:contains(@href, 'anc')]) return ()
   default return <liensimple xlink:type="simple" xlink:href="{$node/@href}">{passthru($node, $options)}</liensimple>
 };
 
-declare function em($node as element(em)+, $options as map(*)) {
+declare function em($node as element(spip:em)+, $options as map(*)) {
   <marquage typemarq="italique">{ passthru($node, $options) }</marquage>
 };
 
-declare function i($node as element(i)+, $options as map(*)) {
+declare function i($node as element(spip:i)+, $options as map(*)) {
   <marquage typemarq="italique">{ passthru($node, $options) }</marquage>
 };
 
-declare function strong($node as element(strong)+, $options as map(*)) {
+declare function strong($node as element(spip:strong)+, $options as map(*)) {
   <marquage typemarq="gras">{ passthru($node, $options) }</marquage>
 };
 
-declare function sup($node as element(sup)+, $options as map(*)) {
+declare function sup($node as element(spip:sup)+, $options as map(*)) {
   switch ($node)
   case ($node[fn:contains(@href, 'sym')]) return passthru($node, $options)
   case (fn:normalize-space($node) != '') return <exposant>{ passthru($node, $options) }</exposant>
   default return ()
 };
 
-declare function span($node as element(span)+, $options as map(*)) {
+declare function span($node as element(spip:span)+, $options as map(*)) {
   switch ($node)
   case ($node[@rend='italic' or @rend='it']) return 
     <marquage typemarq="italique">{ passthru($node, $options) }</marquage> 
@@ -548,7 +564,7 @@ declare function span($node as element(span)+, $options as map(*)) {
 
 
 (: @todo other elements available in erudit xml :)
-declare function img($node as element(img)+, $options as map(*)) {
+declare function img($node as element(spip:img)+, $options as map(*)) {
   <figure id="{'fig' || fn:generate-id($node)}">
     { if ($node/@alt != '') 
       then <legende lang="fr">
@@ -564,7 +580,7 @@ declare function img($node as element(img)+, $options as map(*)) {
 };
 
 (: @todo create alinea :)
-declare function br($node as element(br), $options as map(*)) {
+declare function br($node as element(spip:br), $options as map(*)) {
   ()
 };
 
