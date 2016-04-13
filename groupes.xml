@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list>
+    
+    <!-- Regroupements thématiques -->
+    
     <entry>
         <label>[en]Gender[it]Genere</label>
         <url>http://catalogue.bnf.fr/ark:/12148/cb16248353h/</url>
@@ -363,4 +366,884 @@
         <id>FRBNF16901246</id>
         <term>MOOCs (Web-based instruction)</term>
     </entry>
+
+    <!-- Auteurs principaux cités -->
+
+    <entry>
+        <label>Allende, Isabel</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12013110z</url>
+        <id>FRBNF136078817</id>
+        <term>Allende, Isabel (1942-....)</term>
+    </entry>
+    <entry>
+        <label>Antonin Artaud</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb118892409</url>
+        <id>FRBNF118892401</id>
+        <term>Artaud, Antonin (1896-1948)</term>
+    </entry>
+    <entry>
+        <label>Arendt*Hannah</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb118890622</url>
+        <id>FRBNF118890628</id>
+        <term>Arendt, Hannah (1906-1975)</term>
+    </entry>
+    <entry>
+        <label>Avery, Tex</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12536037q</url>
+        <id>FRBNF125360377</id>
+        <term>Avery, Tex (1908-1980)</term>
+    </entry>
+    <entry>
+        <label>Bakounine, Mikhaïl</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11889937b</url>
+        <id>FRBNF118899374</id>
+        <term>Bakunin, Mihail Aleksandrovič (1814-1876)</term>
+    </entry>
+    <entry>
+        <label>Barrès, Maurice</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb118903382</url>
+        <id>FRBNF118903381</id>
+        <term>Barrès, Maurice (1862-1923)</term>
+    </entry>
+    <entry>
+        <label>Barthes, Roland</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb118904281</url>
+        <id>FRBNF118904280</id>
+        <term>Barthes, Roland (1915-1980)</term>
+    </entry>
+    <entry>
+        <label>Beauvoir (de), Simone</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11890854p</url>
+        <id>FRBNF118908542</id>
+        <term>Beauvoir, Simone de (1908-1986)</term>
+    </entry>
+    <entry>
+        <label>Beckett, Samuel</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb118908958</url>
+        <id>FRBNF118908955</id>
+        <term>Beckett, Samuel (1906-1989)</term>
+    </entry>
+    <entry>
+        <label>Bolzano, Bernard</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12027042g</url>
+        <id>FRBNF120270424</id>
+        <term>Bolzano, Bernard (1781-1848)</term>
+    </entry>
+    <entry>
+        <label>Bourdieu, Pierre</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb118934022</url>
+        <id>FRBNF118934028</id>
+        <term>Bourdieu, Pierre (1930-2002)</term>
+    </entry>
+    <entry>
+        <label>Cahun, Claude</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12375017b</url>
+        <id>FRBNF123750179</id>
+        <term>Cahun, Claude (1894-1954)</term>
+    </entry>
+    <entry>
+        <label>Calle-Gruber, Mireille</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12027120f</url>
+        <id>FRBNF120271202</id>
+        <term>Calle-Gruber, Mireille (1945-....)</term>
+    </entry>
+    <entry>
+        <label>Camus, Albert</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb118949856</url>
+        <id>FRBNF118949852</id>
+        <term>Camus, Albert (1913-1960)</term>
+    </entry>
+    <entry>
+        <label>Cardon, Dominique</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb16206537h</url>
+        <id>001 FRBNF162065372</id>
+        <term>Cardon, Dominique (1965-....)</term>
+    </entry>
+    <entry>
+        <label>Castoriadis, Cornelius</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb118955364</url>
+        <id>FRBNF118955360</id>
+        <term>Castoriadis, Cornelius (1922-1997)</term>
+    </entry>
+    <entry>
+        <label>Chedid, Andrée</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb118964859</url>
+        <id>FRBNF118964854</id>
+        <term>Chedid, Andrée (1920-2011)</term>
+    </entry>
+    <entry>
+        <label>Clausewitz (von), Carl</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11896966d</url>
+        <id>FRBNF118969666</id>
+        <term>Clausewitz, Carl von (1780-1831)</term>
+    </entry>
+    <entry>
+        <label>Comte, Auguste</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11897482h</url>
+        <id>FRBNF118974827</id>
+        <term>Comte, Auguste (1798-1857)</term>
+    </entry>
+    <entry>
+        <label>Condorcet</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb118975118</url>
+        <id>FRBNF118975110</id>
+        <term>Condorcet, Jean-Antoine-Nicolas de Caritat (1743-1794 ; marquis de)</term>
+    </entry>
+    <entry>
+        <label>Daumal</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11898736d</url>
+        <id>FRBNF118987365</id>
+        <term>Daumal, René (1908-1944)</term>
+    </entry>
+    <entry>
+        <label>Deguy, Michel</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11899119d</url>
+        <id>FRBNF118991196</id>
+        <term>Deguy, Michel (1930-....)</term>
+    </entry>
+    <entry>
+        <label>Delbo, Charlotte</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11899280r</url>
+        <id>FRBNF118992800</id>
+        <term>Delbo, Charlotte (1913-1985)</term>
+    </entry>
+    <entry>
+        <label>Deleuze, Gilles</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb118993325</url>
+        <id>FRBNF118993329</id>
+        <term>Deleuze, Gilles (1925-1995)</term>
+    </entry>
+    <entry>
+        <label>Derrida, Jacques</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11899710z</url>
+        <id>FRBNF118997103</id>
+        <term>Derrida, Jacques (1930-2004)</term>
+    </entry>
+    <entry>
+        <label>Desanti, Dominique</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb118997448</url>
+        <id>FRBNF118997441</id>
+        <term>Desanti, Dominique (1919-2011)</term>
+    </entry>
+    <entry>
+        <label>Descartes</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11899775j</url>
+        <id>FRBNF118997758</id>
+        <term>Descartes, René (1596-1650)</term>
+    </entry>
+    <entry>
+        <label>Duras, Marguerite</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119013498</url>
+        <id>FRBNF11901349X</id>
+        <term>Duras, Marguerite (1914-1996)</term>
+    </entry>
+    <entry>
+        <label>Eschyle</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb118881476</url>
+        <id>FRBNF118881472</id>
+        <term>Eschyle (0525?-0456 av. J.-C.)</term>
+    </entry>
+    <entry>
+        <label>Fanon, Frantz</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb120165772</url>
+        <id>FRBNF120165779</id>
+        <term>Fanon, Frantz (1925-1961)</term>
+    </entry>
+    <entry>
+        <label>Fichte</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11902725m</url>
+        <id>FRBNF119027254</id>
+        <term>Fichte, Johann Gottlieb (1762-1814)</term>
+    </entry>
+    <entry>
+        <label>Foucault, Michel</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11903202t</url>
+        <id>FRBNF119032027</id>
+        <term>Foucault, Michel (1926-1984)</term>
+    </entry>
+    <entry>
+        <label>Freud, Sigmund</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119035855</url>
+        <id>FRBNF119035856</id>
+        <term>Freud, Sigmund (1856-1939)</term>
+    </entry>
+    <entry>
+        <label>Fukazaku, Kinji</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb14043205j</url>
+        <id>FRBNF140432054</id>
+        <term>Fukasaku, Kinji (1930-2003)</term>
+    </entry>
+    <entry>
+        <label>Gatti, Armand</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11904288m</url>
+        <id>FRBNF119042886</id>
+        <term>Gatti, Armand (1924-....)</term>
+    </entry>
+    <entry>
+        <label>Genet, Jean</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11998463n</url>
+        <id>FRBNF119984639</id>
+        <term>Genet, Jean (1910-1986)</term>
+    </entry>
+    <entry>
+        <label>Gennes (de), Pierre-Gilles</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12179651s</url>
+        <id>FRBNF121796516</id>
+        <term>Gennes, Pierre-Gilles de (1932-2007)</term>
+    </entry>
+    <entry>
+        <label>Gide, André</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11904849c</url>
+        <id>FRBNF119048490</id>
+        <term>Gide, André (1869-1951)</term>
+    </entry>
+    <entry>
+        <label>Glissant, Édouard</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11905179m</url>
+        <id>FRBNF119051796</id>
+        <term>Glissant, Édouard (1928-2011)</term>
+    </entry>
+    <entry>
+        <label>Godard, Jean-Luc</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11905213z</url>
+        <id>FRBNF11905213X</id>
+        <term>Godard, Jean-Luc (1930-....)</term>
+    </entry>
+    <entry>
+        <label>Gorz, André</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11905453r</url>
+        <id>FRBNF119054536</id>
+        <term>Gorz, André (1923-2007)</term>
+    </entry>
+    <entry>
+        <label>Grimaldi, Nicolas</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119059236</url>
+        <id>FRBNF119059234</id>
+        <term>Grimaldi, Nicolas (1933-....)</term>
+    </entry>
+    <entry>
+        <label>Habermas, Jürgen</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11906645x</url>
+        <id>FRBNF11906645X</id>
+        <term>Habermas, Jürgen (1929-....)</term>
+    </entry>
+    <entry>
+        <label>Hadot, Pierre</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11906675v</url>
+        <id>FRBNF119066759</id>
+        <term>Hadot, Pierre (1922-2010)</term>
+    </entry>
+    <entry>
+        <label>Heidegger, Martin</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11907130r</url>
+        <id>FRBNF119071304</id>
+        <term>Heidegger, Martin (1889-1976)</term>
+    </entry>
+    <entry>
+        <label>Herder, Johann Gottfried</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119073262</url>
+        <id>FRBNF119073262</id>
+        <term>Herder, Johann Gottfried von (1744-1803)</term>
+    </entry>
+    <entry>
+        <label>Herzl, Theodor</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119074370</url>
+        <id>FRBNF119074371</id>
+        <term>Herzl, Theodor (1860-1904)</term>
+    </entry>
+    <entry>
+        <label>Hitchcock</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11907571f</url>
+        <id>FRBNF119075719</id>
+        <term>Hitchcock, Alfred (1899-1980)</term>
+    </entry>
+    <entry>
+        <label>Hobbes, Thomas</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11907586g</url>
+        <id>FRBNF119075861</id>
+        <term>Hobbes, Thomas (1588-1679)</term>
+    </entry>
+    <entry>
+        <label>Husserl, Edmund</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11908089c</url>
+        <id>FRBNF119080890</id>
+        <term>Husserl, Edmund (1859-1938)</term>
+    </entry>
+    <entry>
+        <label>Innerarity, Daniel</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb15040085w</url>
+        <id>FRBNF150400852</id>
+        <term>Innerarity, Daniel (1959-....)</term>
+    </entry>
+    <entry>
+        <label>James, C.R.L.</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb120129954</url>
+        <id>FRBNF120129950</id>
+        <term>James, Cyril Lionel Robert (1901-1989)</term>
+    </entry>
+    <entry>
+        <label>Jammes, Francis</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119085574</url>
+        <id>FRBNF119085574</id>
+        <term>Jammes, Francis (1868-1938)</term>
+    </entry>
+    <entry>
+        <label>Jarmush, Jim</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb13750759d</url>
+        <id>FRBNF13750759X</id>
+        <term>Jarmusch, Jim (1953-....)</term>
+    </entry>
+    <entry>
+        <label>Kafka, Frantz</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119093016</url>
+        <id>FRBNF119093012</id>
+        <term>Kafka, Franz (1883-1924)</term>
+    </entry>
+    <entry>
+        <label>Kant</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11909393p</url>
+        <id>FRBNF119093934</id>
+        <term>Kant, Immanuel (1724-1804)</term>
+    </entry>
+    <entry>
+        <label>Kierkegaard, Sören</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11909736z</url>
+        <id>FRBNF11909736X</id>
+        <term>Kierkegaard, Søren (1813-1855)</term>
+    </entry>
+    <entry>
+        <label>Kofman, Sarah</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119099235</url>
+        <id>FRBNF119099232</id>
+        <term>Kofman, Sarah (1934-1994)</term>
+    </entry>
+    <entry>
+        <label>Konrád, György</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119099622</url>
+        <id>FRBNF119099620</id>
+        <term>Konrád, György (1933-....)</term>
+    </entry>
+    <entry>
+        <label>Lacan, Jacques</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119104423</url>
+        <id>FRBNF119104423</id>
+        <term>Lacan, Jacques (1901-1981)</term>
+    </entry>
+    <entry>
+        <label>Laclos, Choderlos (de)</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11896727z</url>
+        <id>FRBNF118967277</id>
+        <term>Choderlos de Laclos, Pierre-Ambroise-François (1741-1803)</term>
+    </entry>
+    <entry>
+        <label>Leduc, Violette</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11912057h</url>
+        <id>FRBNF119120573</id>
+        <term>Leduc, Violette (1907-1972)</term>
+    </entry>
+    <entry>
+        <label>Levinas, Emmanuel</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119128222</url>
+        <id>FRBNF119128221</id>
+        <term>Levinas, Emmanuel (1906-1995)</term>
+    </entry>
+    <entry>
+        <label>Lumet, Sydney</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb13896863c</url>
+        <id>FRBNF138968632</id>
+        <term>Lumet, Sidney (1924-2011)</term>
+    </entry>
+    <entry>
+        <label>Luxemburg, Rosa</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12275704r</url>
+        <id>FRBNF122757046</id>
+        <term>Luxemburg, Rosa (1871-1919)</term>
+    </entry>
+    <entry>
+        <label>Majdalani, Charif</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb150214803</url>
+        <id>FRBNF150214805</id>
+        <term>Maǧdalānī, Šarīf (1960-....)</term>
+    </entry>
+    <entry>
+        <label>Mallarmé, Stéphane</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11914131k</url>
+        <id>FRBNF119141311</id>
+        <term>Mallarmé, Stéphane (1842-1898)</term>
+    </entry>
+    <entry>
+        <label>Malraux, André</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11914167k</url>
+        <id>FRBNF119141674</id>
+        <term>Malraux, André (1901-1976)</term>
+    </entry>
+    <entry>
+        <label>Marker, Chris</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119146282</url>
+        <id>FRBNF119146283</id>
+        <term>Marker, Chris (1921-2012)</term>
+    </entry>
+    <entry>
+        <label>Marx, Karl</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11914934t</url>
+        <id>FRBNF119149347</id>
+        <term>Marx, Karl (1818-1883)</term>
+    </entry>
+    <entry>
+        <label>Maupassant (de), Guy</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11915226h</url>
+        <id>FRBNF119152261</id>
+        <term>Maupassant, Guy de (1850-1893)</term>
+    </entry>
+    <entry>
+        <label>Mauriac, François</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11915247g</url>
+        <id>FRBNF119152471</id>
+        <term>Mauriac, François (1885-1970)</term>
+    </entry>
+    <entry>
+        <label>Merleau-Ponty, Maurice</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11886967j</url>
+        <id>FRBNF11886967X</id>
+        <term>Merleau-Ponty, Maurice (1908-1961)</term>
+    </entry>
+    <entry>
+        <label>Millet, Richard</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119161583</url>
+        <id>FRBNF119161584</id>
+        <term>Millet, Richard (1953-....)</term>
+    </entry>
+    <entry>
+        <label>Montaigne</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11916599s</url>
+        <id>FRBNF119165999</id>
+        <term>Montaigne, Michel de (1533-1592)</term>
+    </entry>
+    <entry>
+        <label>Morin, Edgar</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119168717</url>
+        <id>FRBNF119168714</id>
+        <term>Morin, Edgar (1921-....)</term>
+    </entry>
+    <entry>
+        <label>Musil, Robert</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12158156g</url>
+        <id>FRBNF121581563</id>
+        <term>Musil, Robert (1880-1942)</term>
+    </entry>
+    <entry>
+        <label>Ndiaye, Marie</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12016218q</url>
+        <id>FRBNF120162181</id>
+        <term>Ndiaye, Marie (1967-....)</term>
+    </entry>
+    <entry>
+        <label>Negri, Antonio</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119175124</url>
+        <id>FRBNF119175121</id>
+        <term>Negri, Antonio (1933-....)</term>
+    </entry>
+    <entry>
+        <label>Nietzsche</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb137409692</url>
+        <id>FRBNF137409693</id>
+        <term>Nietzsche, Carl Ludwig (1813-1849)</term>
+    </entry>
+    <entry>
+        <label>Pasolini*Pier,Paolo</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119187049</url>
+        <id>FRBNF119187045</id>
+        <term>Pasolini, Pier Paolo (1922-1975)</term>
+    </entry>
+    <entry>
+        <label>Patočka, Jan</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11918768j</url>
+        <id>FRBNF119187682</id>
+        <term>Patočka, Jan (1907-1977)</term>
+    </entry>
+    <entry>
+        <label>Pinter, Harold</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11919883z</url>
+        <id>FRBNF119198839</id>
+        <term>Pinter, Harold (1930-2008)</term>
+    </entry>
+    <entry>
+        <label>Prévost (L’abbé)</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11920607b</url>
+        <id>FRBNF119206079</id>
+        <term>Prévost, Antoine François (1697-1763)</term>
+    </entry>
+    <entry>
+        <label>Quentin Tarantino</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb13167925h</url>
+        <id>FRBNF131679251</id>
+        <term>Tarantino, Quentin (1963-....)</term>
+    </entry>
+    <entry>
+        <label>Renan, Ernest</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119214865</url>
+        <id>FRBNF119214866</id>
+        <term>Renan, Ernest (1823-1892)</term>
+    </entry>
+    <entry>
+        <label>Resnais, Alain</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11921604j</url>
+        <id>FRBNF119216041</id>
+        <term>Resnais, Alain (1922-2014)</term>
+    </entry>
+    <entry>
+        <label>Ricoeur, Paul</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11921926p</url>
+        <id>FRBNF119219265</id>
+        <term>Ricoeur, Paul (1913-2005)</term>
+    </entry>
+    <entry>
+        <label>Rimbaud</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119219976</url>
+        <id>FRBNF119219977</id>
+        <term>Rimbaud, Arthur (1854-1891)</term>
+    </entry>
+    <entry>
+        <label>Rocha, Glauber</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11968431d</url>
+        <id>FRBNF119684314</id>
+        <term>Rocha, Glauber (1939-1981)</term>
+    </entry>
+    <entry>
+        <label>Rohmer, Éric</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11922412v</url>
+        <id>FRBNF119224127</id>
+        <term>Rohmer, Éric (1920-2010)</term>
+    </entry>
+    <entry>
+        <label>Rousseau</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119228797</url>
+        <id>FRBNF119228798</id>
+        <term>Rousseau, Jean-Jacques (1712-1778)</term>
+    </entry>
+    <entry>
+        <label>Sartre, Jean-Paul</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11923735k</url>
+        <id>FRBNF119237352</id>
+        <term>Sartre, Jean-Paul (1905-1980)</term>
+    </entry>
+    <entry>
+        <label>Schmid, Jakob Robert</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb126381787</url>
+        <id>FRBNF126381787</id>
+        <term>Schmid, Jakob Robert</term>
+    </entry>
+    <entry>
+        <label>Shakespeare</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119246079</url>
+        <id>FRBNF119246077</id>
+        <term>Shakespeare, William (1564-1616)</term>
+    </entry>
+    <entry>
+        <label>Sidney, Algernon</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12295784n</url>
+        <id>FRBNF122957844</id>
+        <term>Sidney, Algernon (1622-1683)</term>
+    </entry>
+    <entry>
+        <label>Sieyès, Emmanuel</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12041767q</url>
+        <id>FRBNF120417671</id>
+        <term>Sieyès, Emmanuel-Joseph (1748-1836)</term>
+    </entry>
+    <entry>
+        <label>Simmel, Georg</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11924807v</url>
+        <id>FRBNF119248078</id>
+        <term>Simmel, Georg (1858-1918)</term>
+    </entry>
+    <entry>
+        <label>Simon, Claude</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119891228</url>
+        <id>FRBNF119891220</id>
+        <term>Simon, Claude (1913-2005)</term>
+    </entry>
+    <entry>
+        <label>Smith, Adam</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119250114</url>
+        <id>FRBNF119250111</id>
+        <term>Smith, Adam (1723-1790)</term>
+    </entry>
+    <entry>
+        <label>Spinoza</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11925350v</url>
+        <id>FRBNF119253506</id>
+        <term>Spinoza, Baruch (1632-1677)</term>
+    </entry>
+    <entry>
+        <label>Tarde, Gabriel</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119260221</url>
+        <id>FRBNF11926022X</id>
+        <term>Tarde, Gabriel (1843-1904)</term>
+    </entry>
+    <entry>
+        <label>Tarkovski</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb122597943</url>
+        <id>FRBNF122597944</id>
+        <term>Tarkovskij, Andrej Arsenʹevič (1932-1986)</term>
+    </entry>
+    <entry>
+        <label>Thiry, Marcel</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11926469s</url>
+        <id>FRBNF119264698</id>
+        <term>Thiry, Marcel (1897-1977)</term>
+    </entry>
+    <entry>
+        <label>Tocqueville (de), Alexis</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119267448</url>
+        <id>FRBNF119267445</id>
+        <term>Tocqueville, Alexis de (1805-1859)</term>
+    </entry>
+    <entry>
+        <label>Tönnies, Ferdinand</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119267370</url>
+        <id>FRBNF119267370</id>
+        <term>Tönnies, Ferdinand (1855-1936)</term>
+    </entry>
+    <entry>
+        <label>Varda, Agnès</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11927678j</url>
+        <id>FRBNF119276782</id>
+        <term>Varda, Agnès (1928-....)</term>
+    </entry>
+    <entry>
+        <label>Vas Sant, Gus</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb13607881b</url>
+        <id>FRBNF136078817</id>
+        <term>Van Sant, Gus (1952-....)</term>
+    </entry>
+    <entry>
+        <label>Vigo, Jean</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb121201369</url>
+        <id>FRBNF121201363</id>
+        <term>Vigo, Jean (1905-1934)</term>
+    </entry>
+    <entry>
+        <label>Vinaver, Michel</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119284338</url>
+        <id>FRBNF119284334</id>
+        <term>Vinaver, Michel (1927-....)</term>
+    </entry>
+    <entry>
+        <label>Virilio, Paul</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11928524k</url>
+        <id>FRBNF119285240</id>
+        <term>Virilio, Paul (1932-....)</term>
+    </entry>
+    <entry>
+        <label>Voltaire</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11928669t</url>
+        <id>FRBNF119286698</id>
+        <term>Voltaire (1694-1778)</term>
+    </entry>
+    <entry>
+        <label>Weber, Max</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11928969n</url>
+        <id>FRBNF119289694</id>
+        <term>Weber, Max (1864-1920)</term>
+    </entry>
+    <entry>
+        <label>Welby, Victoria</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119877600</url>
+        <id>FRBNF119877605</id>
+        <term>Welby, Victoria (1837-1912)</term>
+    </entry>
+    <entry>
+        <label>Wilde, Oscar</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11929190h</url>
+        <id>FRBNF119291909</id>
+        <term>Wilde, Oscar (1854-1900)</term>
+    </entry>
+    <entry>
+        <label>Wittig, Monique</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11929323x</url>
+        <id>FRBNF119293237</id>
+        <term>Wittig, Monique (1935-2003)</term>
+    </entry>
+    <entry>
+        <label>Zeyer, Julius</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12055073w</url>
+        <id>FRBNF120550732</id>
+        <term>Zeyer, Julius (1841-1901)</term>
+    </entry>
+    <entry>
+        <label>Zola, Émile</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119297200</url>
+        <id>FRBNF119297207</id>
+        <term>Zola, Émile (1840-1902)</term>
+    </entry>
+    
+    <!-- Tags domaines artistiques -->
+    
+    <entry>
+        <label><multi>[fr]Cinéma[en]Cinema[it]Cinema</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119361188</url>
+        <id>FRBNF119361186</id>
+        <term>Cinéma</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Danse[en]Dance[it]Danza</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11931841h</url>
+        <id>FRBNF11931841X</id>
+        <term>Danse</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Musique[en]Music[it]Musica</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb133183660</url>
+        <id>FRBNF133183663</id>
+        <term>Musique</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Peinture[en]Painting[it]Pittura</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11932942c</url>
+        <id>FRBNF119329427</id>
+        <term>Peinture</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Photographie[en]Photography[it]Fotografia</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11933113t</url>
+        <id>FRBNF119331136</id>
+        <term>Photographie</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Poésie[en]Poetry[it]Poesia</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11933161p</url>
+        <id>FRBNF119331613</id>
+        <term>Poésie</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Roman[en]Fiction[it]Romanzi</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11940505s</url>
+        <id>Roman</id>
+        <term>FRBNF119405056</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Théâtre[en]Theater[it]Teatro</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb13162689q</url>
+        <id>FRBNF13162689X</id>
+        <term>Théâtre</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Video[en]Video[it]Video</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11933779d</url>
+        <id>FRBNF119337790</id>
+        <term>Vidéo</term>
+    </entry>
+    
+    <!-- Thématiques -->
+    
+    <entry>
+        <label><multi>[fr]Arts et lettres[en]Art and literature[it]Arte e letteratura[zh]藝文[de]Kunst und Literatur[es]Artes y letras[pt]Artes e literatura[sv]Konst och litteratur</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb12021811z</url>
+        <id>FRBNF120218114</id>
+        <term>Arts et littérature</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Histoire[en]History[it]Storia[zh]歷史[de]Geschichte[es]Historia[pt]História[sv]Historia</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119344445</url>
+        <id>FRBNF119344443</id>
+        <term>Histoire</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Monde numérique[en]Digital world[it]Mondo digitale[zh]數位世界[de]Digitale Welten[es]Mundo numérico[pt]Mundo numérido[sv]Den digitala världen</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb133328054</url>
+        <id>FRBNF133328055</id>
+        <term>Société numérique</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Philosophie[en]Philosophy[it]Filosofia[zh]哲學[de]Philosophie[es]Filosofía[pt]Filosofia[sv]Filosofi</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119368422</url>
+        <id>FRBNF11936842X</id>
+        <term>Philosophie</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Politique et société[en]Politics and society[it]Politica e società[zh]政治與社會[de]Politik und Gesellschaft[es]Política y sociedad[pt]Política e sociedade[sv]Politik och samhälle</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11975806s</url>
+        <id>FRBNF119758063</id>
+        <term>Pensée politique et sociale</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Sciences et environnement[en]Science and environment[it]Scienza e ambiente[zh]科學與環境[de]Wissenschaft und Umwelt[es]Ciencias y medio ambiente[pt]Ciências e meio ambiente[sv]Vetenskap och miljö</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119736042</url>
+        <id>FRBNF119736049</id>
+        <term>Sciences de l'environnement</term>
+    </entry>
+    
+    <!-- Média -->
+    
+    <entry>
+        <label>Video et son</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119517649</url>
+        <id>FRBNF119517646</id>
+        <term>Audiovisuel</term>
+    </entry>
+    
+    <!-- Régions -->
+    
+    <entry>
+        <label><multi>[fr]Afrique[en]Africa[it]Africa</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119308418</url>
+        <id>FRBNF119308415</id>
+        <term>Afrique</term>
+    </entry>
+    <entry>
+        <label>Amérique latine</label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11930876x</url>
+        <id>FRBNF119308760</id>
+        <term>Amérique latine</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Asie[en]Asia[it]Asia</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119765364</url>
+        <id>FRBNF119765360</id>
+        <term>Asie</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Brésil[en]Brazil[it]Brasile</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119316758</url>
+        <id>FRBNF119316757</id>
+        <term>Brésil</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Canada/Québec[en]Canada[it]Canada</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11933413n</url>
+        <id>FRBNF119334132</id>
+        <term>Canada</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Colombie[en]Colombia[it]Colombia</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11931746z</url>
+        <id>FRBNF119317460</id>
+        <term>Colombie</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]États-Unis[en]United States[it]Stati Uniti</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119313712</url>
+        <id>FRBNF119313711</id>
+        <term>États-Unis</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Europe[en]Europe[it]Europa</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11931301w</url>
+        <id>FRBNF119313017</id>
+        <term>Europe</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]France[en]France[it]Francia</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb119314762</url>
+        <id>FRBNF119314763</id>
+        <term>France</term>
+    </entry>
+    <entry>
+        <label><multi>[fr]Moyen Orient[en]Middle East[it]Medio Oriente</multi></label>
+        <url>http://catalogue.bnf.fr/ark:/12148/cb11941591f</url>
+        <id>FRBNF119415919</id>
+        <term>Moyen-Orient</term>
+    </entry>
+    
 </list>
