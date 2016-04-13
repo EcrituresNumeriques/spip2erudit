@@ -15,7 +15,9 @@ xquery version "3.0" ;
  : @issue 1152 didn't get biblio
  :)
 
-declare namespace spip = "http://spip.net/tags/" ;
+declare default element namespace 'http://www.erudit.org/xsd/article' ;
+
+declare namespace spip = "http://spip.net/tagset/" ;
 declare namespace sp = "http://sens-public.org/sp/" ;
 declare namespace functx = "http://www.functx.com" ;
 declare namespace xlink = "http://www.w3.org/1999/xlink" ;
