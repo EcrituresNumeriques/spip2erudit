@@ -3,14 +3,13 @@ xquery version "3.0" ;
 (:~
  : This module transforms SPIP XML export to erudit XML
  :
- : @version 0.2
+ : @version 0.3
  : @since 2015-11-04
- : @date 2016-02 
+ : @date 2016-05 
  : @author emchateau
  :
  : @todo br, num structure, titres h2 etc.
  : @todo object (vidéos)
- : @todo output namespaces
  : @todo multiple p notes
  : @issue 1152 didn't get biblio
  :)
@@ -21,8 +20,6 @@ declare namespace spip = "http://spip.net/tagset/" ;
 declare namespace sp = "http://sens-public.org/sp/" ;
 declare namespace functx = "http://www.functx.com" ;
 declare namespace xlink = "http://www.w3.org/1999/xlink" ;
-
-(: declare default element namespace "http://www.erudit.org/xsd/article"; :)
 
 declare default function namespace 'local' ;
 
@@ -51,11 +48,8 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
  : @param $ref the article references (id, num, vol, n)
  : @return an xml erudit article segment
  :
- : @todo clean the namespaces declaration
  : @todo solve the corps direct constructor by working on getRestruct
- : @note <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-      xsi:schemaLocation="http://www.erudit.org/xsd/article ../schema/eruditarticle.xsd"
-      qualtraitement="complet" idproprio="{map:get($ref, 'id')}" typeart="autre" lang="fr" ordseq="1">
+ : @todo define ordseq
  :)
 declare function getArticle( $article as element(), $ref as map(*) ) as element() {
   let $content := getContent($article/spip:texte, map{ '':'' })
@@ -100,7 +94,7 @@ declare function getBiblio($content as element()) {
 };
 
 (:~ 
- : This function 
+ : This function get the notes
  : @param $content the content to parse
  : @return an erudit 
  :)
@@ -209,7 +203,7 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref
 (:~
  : this function get descriptors
  : @param $article the SPIP article
- : @return the grDescripteur xml erudit element
+ : @return the grDescripteur XML erudit element
  :)
 declare function getDescripteurs( $article as element() ) as element()* {
 let $descripteurs := 
@@ -227,7 +221,7 @@ return if ($descripteurs)
 (:~
  : This function get the publication’s director
  : @param $article the SPIP article
- : @return the xml erudit directeur element for each director by dates
+ : @return the XML erudit directeur element for each director by dates
  :)
 declare function getDirector( $article as element() ) as element()* {
 let $directorsByDates := fn:doc($local:base || 'directors.xml')
@@ -435,7 +429,7 @@ declare function dispatch($node as node()*, $options as map(*)) as item()* {
 };
 
 (:~
- : This function pass through child nodes (xsl:apply-templates)
+ : this function pass through child nodes (xsl:apply-templates)
  :)
 declare function passthru($nodes as node(), $options as map(*)) as item()* {
   for $node in $nodes/node()
@@ -639,7 +633,11 @@ declare function functx:word-count
    fn:count(fn:tokenize($arg, '\W+')[. != ''])
  };
 
-(: return a deep copy of  the element and all sub elements :)
+(:~ 
+ : This function deepcopy
+ : @param $element elements to process
+ : @return a deep copy of the element and all sub-elements
+ :)
 declare function copy($element as element()) as element() {
    element {fn:node-name($element)}
       {$element/@*,
@@ -652,7 +650,7 @@ declare function copy($element as element()) as element() {
 };
 
 (:~ 
- : This function remove empty elements
+ : This function removes empty elements
  : @param $node node to process
  : @return a deep copy without empty elements
  : @source http://stackoverflow.com/questions/32188696/xquery-omitting-empty-elements-during-a-transformation
@@ -673,7 +671,7 @@ declare function removeNilled($node as node()) as node()? {
 };
 
 (:~ 
- : get the articles references
+ : This fuction gets the articles references
  : @return a map sequence with the article references from the identifiants.xml file
  :)
 let $doc := $local:base || 'identifiants.xml'
