@@ -121,7 +121,7 @@ declare function getNote($content as element()) {
 declare function getCleaned($content as element()) {
   let $childs := $content/node()[. instance of element()]
   let $positions := 
-    for $s in $content/(grnote|biblio)
+    for $s in $content/(grnote | biblio)
     return functx:index-of-node($childs, $s)
   let $first := $positions[1]
   return copy $content := $content 
@@ -235,7 +235,7 @@ let $date := fn:substring($article/spip:date, 1, 10) cast as xs:date
 for $director in $directorsByDates/sp:directors/sp:director
   where $date > ($director/sp:date/@from cast as xs:date) and $date < ($director/sp:date/@to cast as xs:date) 
   return 
-    <directeur sexe="{ $director/sexe/text() }">
+    <directeur sexe="{ $director/sp:sexe/text() }">
       <nompers>
         <prenom>{ $director//sp:forename/text() }</prenom>
         <nomfamille>{ $director//sp:surname/text() }</nomfamille>
@@ -254,7 +254,7 @@ for $director in $directorsByDates/sp:directors/sp:director
  :)
 declare function getRedacteurchef( $article as element() ) as element()* {
   (: let $id := $article/id_article :)
-  let $id := $article/id_article/text()
+  let $id := $article/spip:id_article/text()
   let $issue := getIssue($id)
   for $authorsId in db:open('sens-public')//spip:spip_auteurs_articles[spip:id_article = $issue]/spip:id_auteur
     return
@@ -271,7 +271,7 @@ declare function getRedacteurchef( $article as element() ) as element()* {
 };
 
 declare function getDate($article, $nb) {
-  fn:substring($article/date, 1, $nb)
+  fn:substring($article/spip:date, 1, $nb)
 };
 
 (:~
@@ -498,7 +498,7 @@ declare function p($node as element(spip:p)+, $options as map(*)) {
         <titre>Notes</titre>
       </grnote>
   case ($node[spip:a[fn:contains(@href, 'anc')]]) return 
-    <note id="{$node/a/@name}">{
+    <note id="{$node/spip:a/@name}">{
            (<no>{ passthru($node/spip:a[1], $options) }</no>, 
            <alinea>{ passthru($node, $options) }</alinea>
          )
