@@ -700,9 +700,10 @@ declare function functx:substring-after-last-match
 (:~ 
  : This fuction gets the articles references
  : @return a map sequence with the article references from the identifiants.xml file
+ : @rmq change [1] to the transformed num
  :)
 let $doc := $local:base || 'identifiants.xml'
-let $refs := for $article in fn:doc($doc)//sp:article
+let $refs := for $article in fn:doc($doc)//sp:article[1]
 return map { 
   'id' : fn:data($article/@id),
   'num' : fn:data($article),
