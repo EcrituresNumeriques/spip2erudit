@@ -29,13 +29,14 @@ declare variable $local:groupes := fn:doc($local:base || 'groupes.xml') ;
 
 (:~
  : This function writes the articles files
- : @return for each article write an xml file named with its id prefixed by "sens-public-" in the $path directory
+ : @return for each article write an XML file named with its id prefixed by "sens-public-" in the $path directory
  :)
 declare function writeArticles($refs as map(*)*) as document-node()* {
   let $path := $local:base || '/xml/'
   for $ref in $refs
   return 
     let $article := db:open('sens-public')//spip:spip_articles[spip:id_article = map:get($ref, 'num')]
+    let $ref := map:put( $ref, 'issue', getIssue($article/spip:id_article/text())[1] )
     let $file := map:get($ref, 'id') || '-article' || '.xml'
     let $article := getArticle($article, $ref)
     return file:write($path || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
@@ -43,7 +44,7 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
 
 
 (:~ 
- : This function built the article content
+ : This function builts the article content
  : @param $article the SPIP article
  : @param $ref the article references (id, num, vol, n)
  : @return an xml erudit article segment
@@ -81,7 +82,7 @@ declare function getArticle( $article as element(), $ref as map(*) ) as element(
 
 
 (:~ 
- : This function get the biblio
+ : This function gets the biblio
  : @param $content the content to parse
  : @return an erudit 
  :)
@@ -142,17 +143,17 @@ declare function getRestruct($element as element()) {
 (:~
  : This function built the article metadata
  : @param $article the SPIP article
+ : @param $ref the article’s references
  : @return the admin xml erudit element
  : 
  : @todo check if word count include notes etc.
- : @todo add theme id <grtheme id="th1">
  : @todo add numero id <numero id="approchesind02027">
  :)
 declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref as map(*) ) as element() {
     <admin>
       <infoarticle>
         <idpublic scheme="doi">null</idpublic>
-        { getDescripteurs($article) }
+        { getDescripteurs($article, $ref) }
         <nbpara>{ fn:count($corps//para) }</nbpara>
         <nbmot>{ functx:word-count(fn:string($corps)) }</nbmot>
         <nbfig>{ fn:count($corps//figure) }</nbfig>
@@ -167,7 +168,7 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref
         <titrerev>Sens public</titrerev>
         <titrerevabr>SP</titrerevabr>
         <idissnnum>2104-3272</idissnnum>
-        { getDirector($article), getRedacteurchef($article) }
+        { getDirector($article, $ref), getRedacteurchef($article, $ref) }
       </revue>
       <numero id="{ map:get($ref, 'vol') }">
         <pub>
@@ -176,9 +177,7 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref
         <pubnum type="publication">
           <date>{ getDate($article, 10) }</date>
         </pubnum>
-        <grtheme id="">
-          <theme>Langues &amp; Normes</theme>
-        </grtheme>
+        { getTheme($article, $ref) }
       </numero>
       <editeur>
         <nomorg>Département des littératures de langue française</nomorg>
@@ -203,9 +202,10 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref
 (:~
  : this function get descriptors
  : @param $article the SPIP article
+ : @param $ref the article’s references
  : @return the grDescripteur XML erudit element
  :)
-declare function getDescripteurs( $article as element() ) as element()* {
+declare function getDescripteurs( $article as element(), $ref as map(*) ) as element()* {
 let $descripteurs := 
   for $id in db:open('sens-public')//spip:spip_mots_articles[spip:id_article = $article/spip:id_article]/spip:id_mot
     let $mot := db:open('sens-public')//spip:spip_mots[spip:id_mot = $id]
@@ -221,9 +221,10 @@ return if ($descripteurs)
 (:~
  : This function get the publication’s director
  : @param $article the SPIP article
+ : @param $ref the article’s references
  : @return the XML erudit directeur element for each director by dates
  :)
-declare function getDirector( $article as element() ) as element()* {
+declare function getDirector( $article as element(), $ref as map(*) ) as element()* {
 let $directorsByDates := fn:doc($local:base || 'directors.xml')
 let $date := fn:substring($article/spip:date, 1, 10) cast as xs:date
 for $director in $directorsByDates/sp:directors/sp:director
@@ -240,16 +241,16 @@ for $director in $directorsByDates/sp:directors/sp:director
 (:~
  : This function get the issue editor
  : @param $article the SPIP article
+ : @param $ref the article’s references
  : @return the redacteurchef xml erudit element
  : 
  : @todo factorize with getAuteurs
  : @todo sex and fonction
  : @todo add link with theme idrefs="th1"
  :)
-declare function getRedacteurchef( $article as element() ) as element()* {
+declare function getRedacteurchef( $article as element(), $ref as map(*) ) as element()* {
   (: let $id := $article/id_article :)
-  let $id := $article/spip:id_article/text()
-  let $issue := getIssue($id)
+  let $issue := map:get($ref, 'issue')
   for $authorsId in db:open('sens-public')//spip:spip_auteurs_articles[spip:id_article = $issue]/spip:id_auteur
     return
       for $author in db:open('sens-public')//spip:spip_auteurs[spip:id_auteur = $authorsId]/spip:nom
@@ -272,6 +273,8 @@ declare function getDate($article, $nb) {
  : This function get the issue
  : @param $id the article ids
  : @return a sequence of issues ids
+ :
+ : @todo don’t return a seq when one id is given
  :)
 declare function getIssue( $idSeq as xs:string* ) as xs:string* {
   for $item in $idSeq
@@ -284,6 +287,22 @@ declare function getIssue( $idSeq as xs:string* ) as xs:string* {
         return $lien/ancestor::spip:spip_articles/spip:id_article/text()
 };
 
+(:~ 
+ : This function gets the Theme
+ : @param $article the article to process
+ : @param $ref the article’s references
+ : @return an XML erudit grTheme element
+ :
+ : @todo add a treatment for theme mixed content
+ :)
+declare function getTheme( $article as element(), $ref as map(*) ) as element() {
+  let $issue := map:get($ref, 'issue')
+  let $theme := db:open('sens-public')/spip:SPIP/spip:spip_articles[spip:id_article=$issue]/spip:titre
+  return
+   <grtheme id="{ 'th' || $issue }">
+     <theme>{ $theme/text() }</theme>
+   </grtheme>
+};
 
 (:~
  : ~:~:~:~:~:~:~:~:~
@@ -297,7 +316,7 @@ declare function getIssue( $idSeq as xs:string* ) as xs:string* {
  : @param $article the SPIP article
  : @return the liminaire xml erudit element
  :)
-declare function getLiminaire($article) {
+declare function getLiminaire( $article as element() ) as element() {
   <liminaire>
     { getTitre($article),
       getAuteurs($article),
@@ -313,7 +332,7 @@ declare function getLiminaire($article) {
  :
  : @todo regex for unmarked sub-titles
  :)
-declare function getTitre($article) {
+declare function getTitre($article as element() ) as element() {
   <grtitre>
     <titre>{ passthru($article/spip:titre, map{ '':'' }) }</titre>
     { if ( $article/spip:soustitre != () ) 
@@ -328,17 +347,17 @@ declare function getTitre($article) {
  : @return the grauteur xml erudit element
  : 
  :)
-declare function getAuteurs($article) {
+declare function getAuteurs($article as element() ) as element() {
   <grauteur>{
     for $id in db:open('sens-public')//spip:spip_auteurs_articles[spip:id_article = $article/spip:id_article]/spip:id_auteur
     return
       for $auteur in db:open('sens-public')//spip:spip_auteurs[spip:id_auteur = $id]/spip:nom
       let $nom := fn:tokenize($auteur/text(), '\*') 
       return 
-        <auteur id="{'spAuthor' || $id}">
+        <auteur id="{ 'spAuthor' || $id }">
           <nompers>
-            <prenom>{$nom[2]}</prenom>
-            <nomfamille>{$nom[1]}</nomfamille>
+            <prenom>{ $nom[2] }</prenom>
+            <nomfamille>{ $nom[1] }</nomfamille>
           </nompers>
         </auteur>}
   </grauteur>
@@ -350,7 +369,7 @@ declare function getAuteurs($article) {
  : @return a sequence of resume xml erudit element for various languages
  : @issue casts abstract to xs:string and ignores tags if appears there ({{Mots-clés:}})
  :)
-declare function getResume($article) {
+declare function getResume($article as element() ) as element()* {
   let $regex := '\{\{(.*?)\s*?:?\}\}\s*?(.*)'
   let $ana := fn:analyze-string($article/spip:descriptif, $regex)
   for $match in $ana/fn:match
@@ -483,14 +502,10 @@ declare function p($node as element(spip:p)+, $options as map(*)) {
   case ($node[fn:normalize-space(.)='Bibliographie']) 
     return 
       <grbiblio>
-        <biblio>
-          <titre>Bibliographie</titre>
-         </biblio>
+        <biblio/>
       </grbiblio>
   case ($node[fn:normalize-space(.)='Notes']) return 
-      <grnote>
-        <titre>Notes</titre>
-      </grnote>
+      <grnote/>
   case ($node[spip:a[fn:contains(@href, 'anc')]]) return 
     <note id="{$node/spip:a/@name}">{
            (<no>{ passthru($node/spip:a[1], $options) }</no>, 
@@ -634,7 +649,7 @@ declare function functx:word-count
  };
 
 (:~ 
- : This function deepcopy
+ : This function returns a deepcopy
  : @param $element elements to process
  : @return a deep copy of the element and all sub-elements
  :)
