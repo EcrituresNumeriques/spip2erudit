@@ -576,14 +576,17 @@ declare function span($node as element(spip:span)+, $options as map(*)) {
 
 (: @todo other elements available in erudit xml :)
 declare function img($node as element(spip:img)+, $options as map(*)) {
-  <figure id="{'fig' || fn:generate-id($node)}">
+  let $regex := 'IMG/(\w){3}/'
+  let $imageName := functx:substring-after-last-match($node/@src, $regex)
+  return
+  <figure>
     { if ($node/@alt != '') 
       then <legende lang="fr">
              <alinea>{$node/@alt}</alinea>
            </legende>
       else () }
     <objetmedia flot="bloc">
-      <image id="{'img' || fn:generate-id($node)}" typeimage="figure" xlink:href="{$node/@src}" xlink:title="{$node/@title}" xlink:type="simple">{
+      <image id="{$imageName}" typeimage="figure">{
         if ($node/@alt) then attribute desc {fn:string($node/@alt)} else ()
       }</image>
     </objetmedia>
@@ -684,6 +687,13 @@ declare function removeNilled($node as node()) as node()? {
       else()
   default return $node
 };
+
+declare function functx:substring-after-last-match
+  ( $arg as xs:string? ,
+    $regex as xs:string )  as xs:string {
+
+   fn:replace($arg,fn:concat('^.*',$regex),'')
+ };
 
 (:~ 
  : This fuction gets the articles references
