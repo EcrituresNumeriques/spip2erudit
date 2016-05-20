@@ -251,12 +251,14 @@ for $director in $directorsByDates/sp:directors/sp:director
 declare function getRedacteurchef( $article as element(), $ref as map(*) ) as element()* {
   (: let $id := $article/id_article :)
   let $issue := map:get($ref, 'issue')
+  let $theme := 'th' || $issue
   for $authorsId in db:open('sens-public')//spip:spip_auteurs_articles[spip:id_article = $issue]/spip:id_auteur
     return
       for $author in db:open('sens-public')//spip:spip_auteurs[spip:id_auteur = $authorsId]/spip:nom
       let $name := fn:tokenize($author/text(), '\*') 
       return 
         <redacteurchef typerc="invite" sexe="masculin">
+        if $theme != '' then attribute idrefs { $theme } else ()
           <fonction lang="fr"/>
             <nompers>
               <prenom>{ $name[2] }</prenom>
