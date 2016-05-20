@@ -174,8 +174,8 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref
         <pub>
           <annee>{ getDate($article, 4) }</annee>
         </pub>
-        <pubnum type="publication">
-          <date>{ getDate($article, 10) }</date>
+        <pubnum>
+          <date type="publication">{ getDate($article, 10) }</date>
         </pubnum>
         { getTheme($article, $ref) }
       </numero>
@@ -258,7 +258,7 @@ declare function getRedacteurchef( $article as element(), $ref as map(*) ) as el
       let $name := fn:tokenize($author/text(), '\*') 
       return 
         <redacteurchef typerc="invite" sexe="masculin">
-        if $theme != '' then attribute idrefs { $theme } else ()
+        { if ($theme != '') then attribute idrefs { $theme } else () }
           <fonction lang="fr"/>
             <nompers>
               <prenom>{ $name[2] }</prenom>
