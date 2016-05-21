@@ -37,7 +37,7 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
   return 
     let $article := db:open('sens-public')//spip:spip_articles[spip:id_article = map:get($ref, 'num')]
     let $ref := map:put( $ref, 'issue', getIssue($article/spip:id_article/text())[1] )
-    let $file := map:get($ref, 'id') || '-article' || '.xml'
+    let $file := map:get($ref, 'num') || '-article' || '.xml'
     let $article := getArticle($article, $ref)
     return file:write($path || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
 };
@@ -550,11 +550,17 @@ declare function a($node as element(spip:a)+, $options as map(*)) {
 };
 
 declare function em($node as element(spip:em)+, $options as map(*)) {
-  <marquage typemarq="italique">{ passthru($node, $options) }</marquage>
+  switch ($node)
+  case ($node/spip:span[1]/spip:a[1][fn:contains(@href, 'sym')]) return passthru($node, $options)
+  case ($node/spip:a[1][fn:contains(@href, 'sym')]) return passthru($node, $options)
+  default return <marquage typemarq="italique">{ passthru($node, $options) }</marquage>
 };
 
 declare function i($node as element(spip:i)+, $options as map(*)) {
-  <marquage typemarq="italique">{ passthru($node, $options) }</marquage>
+  switch ($node)
+  case ($node/spip:span[1]/spip:a[1][fn:contains(@href, 'sym')]) return passthru($node, $options)
+  case ($node/spip:a[1][fn:contains(@href, 'sym')]) return passthru($node, $options)
+  default return <marquage typemarq="italique">{ passthru($node, $options) }</marquage>
 };
 
 declare function strong($node as element(spip:strong)+, $options as map(*)) {
