@@ -175,7 +175,7 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref
           <annee>{ getDate($article, 4) }</annee>
         </pub>
         <pubnum>
-          <date type="publication">{ getDate($article, 10) }</date>
+          <date typedate="publication">{ getDate($article, 10) }</date>
         </pubnum>
         { getTheme($article, $ref) }
       </numero>
