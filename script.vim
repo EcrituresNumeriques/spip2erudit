@@ -10,6 +10,7 @@
 %s/&amp;quot;/"/g |
 %s/&amp;&ldquo;/“/g |
 %s/&amp;&rdquo;/”/g
+%s/&amp;lsquo;/‘/g |
 %s/&amp;rsquo;/’/g |
 %s/&amp;AElig;/Æ/g |
 %s/&amp;aelig;/æ/g |
@@ -128,7 +129,10 @@
 %s/&amp;#8217;/’/g |
 %s/&amp;#8211;/–/g |
 %s/&amp;#8230;/…/g |
+%s/&amp;amp;amp;/&amp;/g |
 %s/&amp;amp;/&amp;/g |
+%s/[...]/[…]/g |
+%s/(...)/(…)/g |
 %s/"Times New Roman"/'Times New Roman'/g |
 %s/"serif"/'serif'/g |
 %s/"Tahoma"/'Tahoma'/g |
@@ -139,11 +143,57 @@
 %s/<doc4487>//g |
 %s/<doc1784\|player>//g |
 %s/<doc1604\|player>//g |
-
 %s/<en>//g |
 %s/^M//g |
 %s/<br>/<br\/>/g
 w " write the file
 
-"&amp;ldquo;
-"&amp;rdquo;
+%s/&amp;ldquo;/“/g |
+%s/&amp;rdquo;/’/g |
+%s/&amp;bdquo;/”/g |
+%s/&amp;bull;/•/g |
+%s/&amp;minus;/−/g |
+%s/&amp;#339;/œ/g |
+%s/&amp;#8211;/–/g |
+%s/&amp;mdash;/—/g |
+%s/&amp;#8220;/“/g |
+%s/&amp;#8221;/”/g |
+%s/&amp;otilde;/õ/g |
+%s/&amp;atilde;/ã/g |
+%s/&amp;acute;/á/g |
+
+%s/&amp;#8213;/―/g |
+%s/&amp;frac12;/½/g |
+%s/&amp;dagger;/†/g |
+%s/&amp;lsquo;/‘/g |
+%s/&amp;szlig;/ß/g |
+%s/&amp;iquest;/¿/g |
+%s/&amp;fnof;/ƒ/g |
+%s/&amp;iexcl;/¡/g |
+%s/&amp;copy;/©/g |
+%s/&amp;middot;/·/g |
+%s/&amp;euro;/€/g |
+%s/&amp;aring;/å/g |
+%s/&amp;times;/×/g |
+%s/&amp;Ntilde;/Ñ/g |
+
+%s/&amp;pound;/£/g |
+%s/&amp;cedil;/¸/g |
+%s/&amp;frac34;/¾/g |
+%s/&amp;sup2;/²/g |
+%s/&amp;sup3;/³/g |
+%s/&amp;ordf;/ª/g |
+%s/&amp;ordm;/º/g |
+%s/&amp;Atilde;/Ã/g |
+%s/&amp;plusmn;/±/g |
+%s/&amp;rarr;/→/g |
+%s/&amp;Aring;/Å/g |
+%s/&amp;rsaquo;/›/g |
+%s/&amp;lsaquo;/‹/g |
+%s/&amp;sbquo;/‚/g |
+%s/&amp;alefsym;/ℵ/g |
+%s/&amp;reg;/®/g |
+%s/&amp;emsp;//g |
+%s/&amp;sup1;/¹/g
+" manual correction necessary before import in BaseX
+" add the namespace http://spip.net/tagset/
