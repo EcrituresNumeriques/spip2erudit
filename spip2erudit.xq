@@ -116,12 +116,12 @@ declare function getNote($content as element()) {
 declare function getCleaned($content as element()) {
   let $childs := $content/node()[. instance of element()]
   let $positions := 
-    for $s in $content/(grnote | biblio)
+    for $s in $content/(grnote | grbiblio)
     return functx:index-of-node($childs, $s)
   let $first := $positions[1]
   return copy $content := $content 
     modify 
-      for $n in $content/*[fn:position() > $first]
+      for $n in $content/*[fn:position() >= $first]
       return delete node $n
     return $content
 };
@@ -700,10 +700,10 @@ declare function functx:substring-after-last-match
 (:~ 
  : This fuction gets the articles references
  : @return a map sequence with the article references from the identifiants.xml file
- : @rmq change [1] to the transformed num
+ : @rmq change [1] to the volume you want to transform
  :)
 let $doc := $local:base || 'identifiants.xml'
-let $refs := for $article in fn:doc($doc)//sp:article[1]
+let $refs := for $article in fn:doc($doc)//sp:article
 return map { 
   'id' : fn:data($article/@id),
   'num' : fn:data($article),
