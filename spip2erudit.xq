@@ -89,8 +89,8 @@ declare function getArticle( $article as element(), $ref as map(*) ) as element(
 declare function getBiblio($content as element()) {
     for $biblio in $content//grbiblio
     return copy $biblio := $biblio
-      modify for $refbiblio in $content//grbiblio/following-sibling::para
-      return insert node <refbiblio>{ $refbiblio/alinea/node() }</refbiblio> into $biblio
+      modify for $refbiblio in $content//grbiblio/biblio/following::para
+      return insert node <refbiblio>{ $refbiblio/alinea/node() }</refbiblio> into $biblio/biblio
     return $biblio
 };
 
