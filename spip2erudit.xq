@@ -445,6 +445,7 @@ declare function dispatch($node as node()*, $options as map(*)) as item()* {
     case element(spip:sup) return sup($node, $options)
     case element(spip:span) return span($node, $options)
     case element(spip:img) return img($node, $options)
+    case element(spip:audio) return audio($node, $options)
     case element(spip:br) return br($node, $options)
     default return passthru($node, $options)
 };
@@ -599,6 +600,19 @@ declare function img($node as element(spip:img)+, $options as map(*)) {
       }</image>
     </objetmedia>
   </figure>
+};
+
+declare function audio($node as element(spip:audio)+, $options as map(*)) {
+  let $regex := '\[(.*)-&gt;http://www.sens-public.org/IMG/(\w{3})/(.*)\]'
+  let $alt := fn:analyze-string($node, $regex)//fn:group[@nr="1"]/text() (: the file desc :)
+  let $dir := fn:analyze-string($node, $regex)//fn:group[@nr="2"]/text() (: the file dir :)
+  let $file := fn:analyze-string($node, $regex)//fn:group[@nr="3"]/text() (: the file name :)
+  return 
+    <objet typeobj="audio">
+      <objetmedia flot="bloc">
+        <audio id="{$file}"/>
+      </objetmedia>
+  </objet>
 };
 
 (: @todo create alinea :)
