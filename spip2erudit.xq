@@ -502,6 +502,9 @@ declare function h4($node as element(spip:h4)+, $options as map(*)) {
 (: @issue bug with multiple p notes ex 1139, note 1 :)
 declare function p($node as element(spip:p)+, $options as map(*)) {
   switch ($node)
+  case ( $node/spip:* instance of element(spip:img) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
+  case ( $node/spip:* instance of element(spip:figure) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
+  case ( $node/spip:* instance of element(spip:audio) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
   case ($node[fn:normalize-space(.)='Bibliographie']) 
     return 
       <grbiblio>
@@ -550,6 +553,7 @@ declare function a($node as element(spip:a)+, $options as map(*)) {
   default return <liensimple xlink:type="simple" xlink:href="{$node/@href}">{passthru($node, $options)}</liensimple>
 };
 
+(: @todo a[1] is potentially subject to bug :)
 declare function em($node as element(spip:em)+, $options as map(*)) {
   switch ($node)
   case ($node/spip:span[1]/spip:a[1][fn:contains(@href, 'sym')]) return passthru($node, $options)
