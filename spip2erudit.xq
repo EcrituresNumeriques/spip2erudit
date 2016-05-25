@@ -445,6 +445,7 @@ declare function dispatch($node as node()*, $options as map(*)) as item()* {
     case element(spip:sup) return sup($node, $options)
     case element(spip:span) return span($node, $options)
     case element(spip:img) return img($node, $options)
+    case element(spip:figure) return figure($node, $options)
     case element(spip:audio) return audio($node, $options)
     case element(spip:br) return br($node, $options)
     default return passthru($node, $options)
@@ -602,6 +603,19 @@ declare function img($node as element(spip:img)+, $options as map(*)) {
       <image id="{$imageName}" typeimage="figure">{
         if ($node/@alt) then attribute desc {fn:string($node/@alt)} else ()
       }</image>
+    </objetmedia>
+  </figure>
+};
+
+declare function figure($node as element(spip:figure)+, $options as map(*)) {
+  <figure>
+    { if ($node/figcaption) 
+      then <legende lang="fr">
+             <alinea>{$node/figcaption/text()}</alinea>
+           </legende>
+      else () }
+    <objetmedia flot="bloc">
+      <image id="{$node/@src}" typeimage="figure"/>
     </objetmedia>
   </figure>
 };
