@@ -506,6 +506,7 @@ declare function p($node as element(spip:p)+, $options as map(*)) {
   case ( $node/spip:* instance of element(spip:img) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
   case ( $node/spip:* instance of element(spip:figure) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
   case ( $node/spip:* instance of element(spip:audio) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
+  case ( $node/spip:* instance of element(spip:blockquote) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
   case ($node[fn:normalize-space(.)='Bibliographie']) 
     return 
       <grbiblio>
