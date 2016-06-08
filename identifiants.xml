@@ -56,14 +56,13 @@
 		<article n="13" id="1908ear">1179</article>	
 	</livraison>-->
 	<!-- Varia : 1124, 1110, 1131, 1132, 1169 -->
-	<!-- <livraison id="sp064">
+	<livraison id="sp064">
     <article n="1" id="1872ear">1124</article>
     <article n="2" id="1875ear">1110</article>
     <article n="3" id="1876ear">1131</article>
     <article n="4" id="1877ear">1132</article>
     <article n="5" id="1897ear">1169</article>
-  </livraison> -->
-	-->
+  </livraison>
 	<!-- Dossier « Je e(s)t un autre » (le premier article est aussi la présentation du dossier, et contient le sommaire) 941, 938, 1148, 951, 948, 950, 949 -->
 	<livraison id="sp044">
     <article n="1" id="1221ear">941</article>

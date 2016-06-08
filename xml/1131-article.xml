@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1876ear" typeart="autre" lang="fr" ordseq="1">
+  <admin>
+    <infoarticle>
+      <idpublic scheme="doi">null</idpublic>
+      <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
+        <descripteur>Histoire</descripteur>
+        <descripteur>Philosophie</descripteur>
+        <descripteur>Pensée politique et sociale</descripteur>
+      </grdescripteur>
+      <nbpara>58</nbpara>
+      <nbmot>9354</nbmot>
+      <nbfig>0</nbfig>
+      <nbtabl>0</nbtabl>
+      <nbimage>0</nbimage>
+      <nbaudio>0</nbaudio>
+      <nbvideo>0</nbvideo>
+      <nbrefbiblio>0</nbrefbiblio>
+      <nbnote>66</nbnote>
+    </infoarticle>
+    <revue id="sp01868" lang="fr">
+      <titrerev>Sens public</titrerev>
+      <titrerevabr>SP</titrerevabr>
+      <idissnnum>2104-3272</idissnnum>
+      <directeur sexe="masculin">
+        <nompers>
+          <prenom>Marcello</prenom>
+          <nomfamille>Vitali-Rosati</nomfamille>
+        </nompers>
+      </directeur>
+    </revue>
+    <numero id="sp064">
+      <pub>
+        <annee>2015</annee>
+      </pub>
+      <pubnum>
+        <date typedate="publication">2015-02-09</date>
+      </pubnum>
+      <grtheme id="th">
+        <theme/>
+      </grtheme>
+    </numero>
+    <editeur>
+      <nomorg>Département des littératures de langue française</nomorg>
+    </editeur>
+    <prod>
+      <nomorg>Sens public</nomorg>
+    </prod>
+    <prodnum>
+      <nomorg>Sens public</nomorg>
+    </prodnum>
+    <diffnum>
+      <nomorg>Sens public</nomorg>
+    </diffnum>
+    <histpapier>
+      <alinea>néant</alinea>
+    </histpapier>
+    <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
+    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+  </admin>
+  <liminaire>
+    <grtitre>
+      <titre>Philosophie et histoire : Dialectique de l'universel et du particulier</titre>
+    </grtitre>
+    <grauteur>
+      <auteur id="spAuthor1099">
+        <nompers>
+          <prenom>Joseph</prenom>
+          <nomfamille>Ndzomo-Molé</nomfamille>
+        </nompers>
+      </auteur>
+    </grauteur>
+    <resume lang="fr">
+      <alinea> À propos de la philosophie et de l’histoire, l’article précise qu’il ne s’agit pas d’entendre le terme histoire comme la branche des sciences humaines dont l’historien est le spécialiste : la science du passé humain; le terme histoire renvoie précisément au devenir humain lui-même. La question est donc de savoir si la philosophie peut influencer l’histoire. Il est d’abord question de la dépendance historique de la philosophie : la réflexion philosophique est une réaction de la raison à des stimuli historiques, et l’expérience historique est la matière des concepts philosophiques. On peut cependant parler de la fécondité historique de la philosophie : le philosophe peut, par ses idées, influencer des pensées à l’origine de nouvelles doctrines politiques ou de nouvelles perspectives scientifiques ; les textes des philosophes majeurs sont d’une actualité qui résiste à l’histoire parce qu’à partir de leur contexte historique, leurs auteurs ont pensé la condition humaine. Il est donc nécessaire d’apprendre l’histoire de la philosophie, c’est-à-dire de s’exercer à lire les textes philosophiques en pensant avec leurs auteurs.</alinea>
+    </resume>
+    <grmotcle lang="fr">
+      <motcle>focus</motcle>
+      <motcle>Histoire</motcle>
+      <motcle>Philosophie</motcle>
+      <motcle>Politique et société</motcle>
+    </grmotcle>
+  </liminaire>
+  <corps>
+    <section1>
+      <para>
+        <alinea>
+	Le thème « Philosophie et histoire » propose à la réflexion la confrontation entre un <marquage typemarq="italique">concept majeur</marquage>, la philosophie, et un <marquage typemarq="italique">concept mineur</marquage>, l’histoire : c’est l’activité philosophique plutôt que l’histoire qui est le principal centre d’intérêt de la réflexion<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>. Quand on parle d’ailleurs de « la philosophie » par rapport à « l’histoire », sans autre forme de précision, il est à remarquer qu’on s’expose à un <marquage typemarq="italique">quiproquo</marquage>. Car, si dans l’analyse du libellé la notion de <marquage typemarq="italique">philosophie</marquage> fait penser à une discipline intellectuelle spécifique, celle de la réflexion systématique, le mot <marquage typemarq="italique">histoire</marquage> a en revanche, pour la compréhension de la question examinée, l’inconvénient d’être autrement riche et, en tant que tel, équivoque : comme le souligne Raymond Aron, il renvoie à la fois à « la science historique<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> » et à l’objet de cette science, le passé humain. Quand on parle de « la philosophie » et de « l’histoire », il est nécessaire de préciser quelle idée on a en vue dans la partie de l’énoncé qui désigne « l’histoire » :</alinea>
+      </para>
+      <para>
+        <alinea>
+	Le même mot, en français, en anglais, en allemand, s’applique à la réalité historique et à la connaissance que nous en prenons. Histoire, history, Geschichte désignent à la fois le devenir de l’humanité et la science que les hommes s’efforcent d’élaborer de leur devenir (même si l’équivoque est atténuée, en allemand, par l’existence de mots, Geschehen, Historie, qui n’ont qu’un des deux sens) <renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>. 
+	Aucun de ces deux sens ne peut être négligé dans un essai comme celui-ci ; mais il est évident que l’examen du problème privilégiera l’idée d’<marquage typemarq="italique">histoire</marquage> comme <marquage typemarq="italique">objet de la connaissance historique</marquage>. La réflexion porte en effet, non pas uniquement sur les événements humains du passé, mais sur le <marquage typemarq="italique">devenir humain</marquage>, le passé n’étant lui-même, avec le présent, que l’une des trois dimensions du temps entre lesquelles il sera montré qu’on ne peut établir de limites distinctes. La question est donc celle de savoir si l’activité philosophique peut influencer l’histoire prise en ce sens dialectique où toutes les dimensions du temps sont comprises, pour ce qui concerne les hommes, dans une même unité dynamique.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Or, les idées philosophiques, avec les systèmes dans lesquels elles s’expriment, font elles-mêmes partie intégrante des éléments de la culture de l’humanité, ou d’une partie de l’humanité, considérée pendant une séquence de son histoire ; autrement dit, là où elle a animé la vie intellectuelle, la philosophie est traitée par l’historien avec le statut épistémologique de patrimoine historique : l’historien spécialiste du siècle de Périclès ne peut pas, par exemple, se permettre de ne pas accorder de l’importance à l’activité philosophique de l’époque, d’ignorer le procès de Socrate, la vie et la pensée de son éminent disciple, Platon, et du non moins éminent disciple de celui-ci, Aristote, qui fut d’ailleurs le plus prestigieux des trois précepteurs d’Alexandre le grand, l’un des plus grands acteurs de l’histoire universelle<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>
+	La philosophie, certes, même au siècle de Périclès, n’a pas l’exclusivité de l’intérêt historique : les jeux olympiques, appelés « jeux grecs », la grande activité artistique de cette période, avec des compositeurs tragiques comme Eschyle, Sophocle, Euripide, des compositeurs comiques comme Aristophane, ou des peintres, comme Zeuxis, ne sont pas d’un intérêt historique moindre<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>. Mais la réflexion est ici invitée à se concentrer sur un aspect du problème des rapports entre l’histoire et les œuvres de l’esprit : la philosophie.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Il s’agit ainsi de savoir si la philosophie peut influencer l’histoire dont elle est précisément un des éléments ; le paradoxe, en d’autres termes, est celui du tout qui serait influencé par la partie.</alinea>
+      </para>
+    </section1>
+    <section1>
+      <titre>
+	I. LA DÉPENDANCE HISTORIQUE DE LA PHILOSOPHIE</titre>
+      <para>
+        <alinea>
+	Dire de la philosophie qu’elle est un des aspects de l’histoire, c’est-à-dire qu’elle a, pour l’historien, statut épistémologique de matière à connaissance historique, c’est autrement reconnaître qu’elle est dépendante de l’histoire entendue comme l’ensemble des événements relatifs au passé humain ; la philosophie est l’une des manières par lesquelles les hommes, chacun dans son coin ou ensemble, font l’histoire : là où elle a existé, la philosophie ne peut pas ne pas susciter la curiosité de l’historien ; la recherche historique s’y intéresse nécessairement comme à une des singularités de la période et du peuple étudiés, au sens où Raymond Aron dit, reprenant « la formule fameuse de Ranke, que l’ambition suprême de l’historien est de savoir et de faire savoir <marquage typemarq="italique">wie es geschehen ist</marquage>, comment cela s’est passé<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi> ».</alinea>
+      </para>
+      <para>
+        <alinea>
+	L’historien qui fait des recherches sur une époque où l’activité philosophique a été remarquable, comme la Grèce de Périclès ou le XVIII européen appelé par Kant, Siècle de <marquage typemarq="italique">Frédéric le grand</marquage>
+          <renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>, ne saurait valablement expliquer les événements sans tenir compte de l’apport de la philosophie ; il ne saurait procéder comme si la philosophie s’est produite à ce moment-là et dans la région concernée par le mécanisme de la génération spontanée ; l’historien de la philosophie lui-même aurait d’ailleurs tort de n’étudier les textes philosophiques que d’après l’ordre chronologique de leur apparition, sans s’imprégner outre mesure de l’histoire elle-même : il trahirait à la fois la philosophie et l’histoire s’il perdait de vue que la philosophie à laquelle il s’intéresse est une réponse à des besoins historiques. Expliquer scientifiquement les événements, en effet, ce n’est pas en faire la chronique, mais démontrer les relations causales par lesquelles ils sont liés. Quel est « l’objet de la connaissance historique » ? Peut-on se demander avec Raymond Aron<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi> :</alinea>
+      </para>
+      <para>
+        <alinea>
+	Répondre que l’historien veut savoir ce qui s’est passé, c’est assimiler l’historien au chroniqueur. Précisément l’histoire n’est pas la chronique, la connaissance historique n’est pas une simple accumulation des faits. Élaborée par les vivants, elle tend à reconstituer l’existence des morts. Elle est déterminée à la fois par la curiosité des vivants (sans laquelle elle n’existerait pas) et par la volonté scientifique non pas d’imaginer ce qui aurait pu être, mais de retrouver ce qui s’est passé<marquage typemarq="italique">
+            <renvoi idref="sdfootnote9sym" typeref="note">9</renvoi>.</marquage>
+	Ce serait donc une entreprise digne de Don Quichotte que celle dont le projet serait, non pas de connaître, mais de réhabiliter et de pratiquer une philosophie du passé avec pour ambition de faire ressurgir les conditions dans lesquelles vivaient les contemporains de cette philosophie. L’allusion n’est pas ici uniquement faite à ceux qui, sans avoir ni la profondeur ni le génie de leurs idoles, contrefont comiquement le style de Hegel, de Heidegger, de Husserl ou de Marcuse afin de passer eux aussi pour hermétiques. On pense surtout à des projets proprement folkloriques, comme de restaurer une prétendue vision du monde ancestrale, une vieille « Weltanschaung » en la baptisant « philosophie » parce que la philosophie est une discipline prestigieuse. L’idéologie du « Retour aux sources » ou de « l’Authenticité » professée par le Président Mobutu du Zaïre dans les années 70, et dont l’auteur parlait lui-même comme d’une « philosophie politique », procédait incontestablement de cette aventure donquichottesque. L’objectif de cette doctrine burlesque était de reconstituer et de réactualiser l’<marquage typemarq="italique">identité africaine </marquage>précoloniale, de restaurer l’<marquage typemarq="italique">être-soi</marquage> africain dans ses <marquage typemarq="italique">identité et permanence</marquage>. Sakombi Inango, porte-parole du général Mobutu, explique qu’être Authentique, c’est, « devant les situations du XX siècle, réagir comme l’auraient fait nos ancêtres si l’évolution de leur culture n’avait pas été interrompue par l’acculturation coloniale<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi> ». On devine quelle torture morale le pauvre Sakombi Inango a dû endurer pour concevoir et soutenir, sur commande, des idées d’une telle absurdité logique : faire fi de l’<marquage typemarq="italique">interruption </marquage>dont l’évolution de la culture africaine précoloniale a été l’objet, <marquage typemarq="italique">retrouver</marquage>, <marquage typemarq="italique">recouvrer</marquage> cette culture telle qu’elle aurait évolué jusqu’aujourd’hui si elle n’avait pas été interrompue, afin de parvenir à « réagir », <marquage typemarq="italique">devant les situations</marquage> pourtant spécifiques au XX siècle, <marquage typemarq="italique">comme l’auraient fait nos ancêtres</marquage> qui n’avaient cependant aucune idée de ces <marquage typemarq="italique">situations</marquage>. Quel laboratoire historique permettrait de savoir comment la culture africaine aurait évolué si l’<marquage typemarq="italique">interruption coloniale </marquage>n’était pas intervenue ? On peut reprendre les questions de Kant :<marquage typemarq="italique"> ces sources, où et quelles sont-elles ?</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	La philosophie ne fait pas partie de l’expérience historique de tous les peuples et de toutes les époques de l’humanité. Mais là où elle s’est développée, elle y a ajouté à la singularité des événements. Parce qu’ils sont, comme on le voit dans la <marquage typemarq="italique">Poétique</marquage> d’Aristote<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>, le fait des caractères, des passions et des actions des hommes, les événements historiques, <marquage typemarq="italique">pleins de bruit et de fureur</marquage>, sont nécessairement singuliers, c’est-à-dire, pour reprendre les propos d’Aron, que « l’objectif dernier de l’histoire, c’est une suite d’événements que jamais on ne verra deux fois, le devenir des sociétés humaines<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi> ».</alinea>
+      </para>
+      <para>
+        <alinea>
+	On est en droit de parler de la singularité des événements historiques parce que l’homme en est l’auteur et l’acteur : en tant qu’il est doué de volonté, l’homme est autant capable des décisions arbitraires que de choix raisonnés ou, tout simplement, d’initiatives sottes. C’est ce qui justifie la définition que Raymond Aron avait improvisée de l’histoire universelle au cours d’une conférence prononcée à Tübingen : « <marquage typemarq="italique">die Weltgeschichte, diese Mischung von Heldentum und Blödsin</marquage> (l’histoire universelle, ce mélange d’héroïsme et de bêtise)<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi> ». La singularité des événements historiques tient au fait que l’homme, considéré individuellement ou en groupe, est au bout du compte libre au sens large du terme qui n’exclut pas la capacité d’agir de manière arbitraire, c’est-à-dire le libre-arbitre dont Descartes parle dans les <marquage typemarq="italique">Méditations métaphysiques</marquage> comme du <marquage typemarq="italique">plus bas</marquage> <marquage typemarq="italique">degré de la liberté</marquage>
+          <renvoi idref="sdfootnote14sym" typeref="note">14</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Les phénomènes humains, tels que les événements historiques, obéissent par conséquent à la <marquage typemarq="italique">causalité selon les lois de la liberté</marquage> : si on ne considère que les phénomènes historiques, on peut justifier la position des tenants de la <marquage typemarq="italique">liberté transcendantale</marquage> par opposition à ceux de la <marquage typemarq="italique">physiocratie transcendantale</marquage> qui, comme le montre Kant, ne reconnaissent que « la causalité selon les lois de la nature<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi> ». On notera à cet égard que toute science naturelle suppose, de la part de celui qui la pratique, l’adhésion à un certain nombre de principes, par quoi il faut entendre la représentation des règles auxquelles l’entendement est censé se soumettre aux fins d’une connaissance objective, par exemple le <marquage typemarq="italique">principe de la permanence</marquage> : « Tous les phénomènes contiennent quelque chose de permanent (<marquage typemarq="italique">substance</marquage>) considéré comme l’objet lui-même, et quelque chose de changeant, considéré comme une simple détermination de cet objet, c’est-à-dire d’un mode d’existence de cet objet<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi> » ; ou encore le <marquage typemarq="italique">principe de la production</marquage> ou <marquage typemarq="italique">principe de la succession dans le temps suivant la loi de la causalité</marquage>, qui énonce en fait l’idée du déterminisme, d’après lequel les mêmes causes, dans les mêmes circonstances, produisent les mêmes effets : « Tout ce qui arrive (commence d’être) suppose quelque chose à quoi il succède, d’après une règle<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi> ».</alinea>
+      </para>
+      <para>
+        <alinea>
+	Or, peut-on penser les phénomènes historiques d’après les mêmes principes et avec les mêmes catégories : comme ayant quelque chose de permanent (<marquage typemarq="italique">substance</marquage>) et comme <marquage typemarq="italique">déterminés</marquage> ? Un phénomène naturel, quelque complexe soit-il, se produit d’une manière déterminée, et peut se reproduire, se <marquage typemarq="italique">répéter</marquage>, parce qu’il a des propriétés stables (il a <marquage typemarq="italique">quelque chose de permanent</marquage>), et c’est ce qui rend les phénomènes naturels <marquage typemarq="italique">prévisibles</marquage> ; on peut les reproduire expérimentalement à l’aide d’un outillage approprié ; ainsi firent Galilée et Torricelli : chacun, montre Kant, mit au point un échafaudage expérimental et procéda à des calculs à l’aide desquels ils purent élaborer, le premier, la loi de la chute des corps, le second, celle de la pression atmosphérique :</alinea>
+      </para>
+      <para>
+        <alinea>
+	Quand Galilée fit rouler ses sphères sur un plan incliné avec un degré d’accélération dû à la pesanteur déterminé selon sa volonté, quand Torricelli fit supporter à l’air le poids qu’il savait lui-même d’avance être égal à celui d’une colonne d’eau à lui connue, […] ce fut une révélation lumineuse pour tous les physiciens. Ils comprirent que la raison ne voit que ce qu’elle produit elle-même d’après ses propres plans et qu’elle doit prendre les devants avec les principes qui déterminent ses jugements, suivant des lois immuables, qu’elle doit obliger la nature à répondre à ses questions et ne pas se laisser conduire pour ainsi dire en laisse par elle ; car autrement, faites au hasard et sans aucun plan tracé à l’avance, nos observations ne se rattacheraient point à une loi nécessaire, chose que demande la raison et dont elle a besoin<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi>.
+</alinea>
+      </para>
+      <para>
+        <alinea>
+	On peut croire, en lisant Kant, que la raison scientifique procède arbitrairement puisqu’elle voit dans les phénomènes uniquement <marquage typemarq="italique">ce qu’elle produit elle-même d’après ses propres plans</marquage>, et que la connaissance scientifique est arbitraire, hasardeuse. Ce que dit Kant, c’est que si la raison s’y prend mal <marquage typemarq="italique">dans ses plans et calculs</marquage>, si l’observation et l’expérimentation sont faites au petit bonheur, ce que <marquage typemarq="italique">verra</marquage> alors la raison ou, par métonymie, le savant, à savoir la connaissance qui résultera de ce travail défectueux d’expérimentation, sera de mauvaise qualité : la connaissance scientifique est tributaire de la qualité de l’observation et de l’expérimentation ; et celle-ci est elle-même l’œuvre d’une raison qui, de par sa nature architectonique, c’est-à-dire en vertu de sa tendance à élaborer les systèmes, à unifier, à totaliser<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi>, s’applique à rechercher les <marquage typemarq="italique">lois nécessaires</marquage> qui régissent les phénomènes : la science est une connaissance systématisée, et la science de la nature serait impossible si la nature n’était pas elle-même un système, une totalité, si tout dans les phénomènes naturels n’était que <marquage typemarq="italique">contingence</marquage> et <marquage typemarq="italique">pluralité</marquage> :</alinea>
+      </para>
+      <para>
+        <alinea>
+	C’est donc une supposition transcendantale subjectivement nécessaire de considérer que cette inquiétante disparité sans bornes des lois empiriques et cette hétérogénéité des formes naturelles ne sont pas appropriées à la nature, et que celle-ci, à travers l’affinité des lois particulières sous des lois plus générales, possède bien plutôt des qualités requises pour constituer une expérience en tant que système empirique<renvoi idref="sdfootnote20sym" typeref="note">20</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>
+	La question se pose de savoir si on peut en dire autant de l’histoire au sens de réalité historique, si le même principe vaut pour la nature et pour l’histoire, à savoir qu’elle est aussi un système : la <marquage typemarq="italique">supposition transcendantale</marquage> d’après laquelle l’histoire est un système est-elle <marquage typemarq="italique">subjectivement nécessaire</marquage>, c’est-à-dire légitime au plan épistémologique ? Dans le cadre de la physique avec laquelle on compare ici l’histoire entendue cette fois comme science historique, on dira avec Kojève que l’idée d’après laquelle la nature est dotée d’une « structure causale » est une <marquage typemarq="italique">supposition</marquage> <marquage typemarq="italique">transcendantale</marquage> <marquage typemarq="italique">subjectivement nécessaire</marquage> :</alinea>
+      </para>
+      <para>
+        <alinea>
+	Autrement dit, on a le droit d’affirmer qu’à une certaine échelle le monde peut être considéré comme s’il avait une structure causale exacte. Et ceci prouve qu’il possède réellement une structure causale approchée<renvoi idref="sdfootnote21sym" typeref="note">21</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Il n’y a pas, en histoire, de <marquage typemarq="italique">lois immuables</marquage>, et la <marquage typemarq="italique">raison historique</marquage>, c’est-à-dire, par métonymie, l’historien, ne peut pas, pour expliquer les événements, les supposer résulter d’une <marquage typemarq="italique">structure causale exacte</marquage>, partir de cette <marquage typemarq="italique">supposition</marquage> <marquage typemarq="italique">transcendantale</marquage> qu’ils sont <marquage typemarq="italique">a priori</marquage> régis par une <marquage typemarq="italique">loi nécessaire</marquage> : la raison peut et doit procéder à la reconstitution de la liaison causale entre les phénomènes historiques, suivre une démarche régressive consistant à remonter la série causale à partir chaque fois du conditionné vers la condition, mais la liaison causale ainsi dégagée n’est pas pour autant commandée par une <marquage typemarq="italique">loi nécessaire</marquage>, c’est-à-dire que les événements historiques ne s’accomplissent pas d’une manière nécessaire. Raymond Aron observe à ce propos, analysant le récit de Thucydide sur la guerre du Péloponnèse :</alinea>
+      </para>
+      <para>
+        <alinea>
+	La question : que ce serait-il passé si… ? est irrésistiblement posée à l’historien qui considère le passé sous l’aspect événementiel. […] Puisque l’événement est action d’un ou de quelques hommes et que nous pensons spontanément l’action libre ou, si  l’on veut, choix, nous le pensons non inévitable par rapport à la situation. Non inévitable signifie que l’acteur aurait pu, sans être essentiellement autre, prendre l’autre décision […] ou qu’un autre individu aurait pris soit la même décision plus tôt ou plus tard, soit une autre décision au même instant. […] En d’autres termes, quand l’historien raconte comment les choses ne sont passés, il observe le hasard au sens de " rencontre de séries ", mauvaise chance (éclipse de lune, désordre de la chaleur du combat), décisions fatales prises par tel ou tel qui auraient pu être autres. C’est à l’historien qui nie le hasard de faire la preuve et non à celui qui le constate naïvement<renvoi idref="sdfootnote22sym" typeref="note">22</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Dans le cours des événements, il y a donc la part de tous ces facteurs qui rendent, non pas certes impossible, mais difficile, très problématique la prévision historique : des facteurs objectifs indépendants des acteurs historiques ; des facteurs objectifs ou subjectifs dépendants ou non des acteurs historiques, tels que la qualité et la quantité des équipements dont ils disposent, leurs propres qualités intellectuelles, techniques et morales, leurs passions, leurs compétences. La singularité des événements historiques est le fait de la liberté humaine telle que Kant l’a étudiée dans la Dialectique transcendantale :</alinea>
+      </para>
+      <para>
+        <alinea>
+	La liberté dans le sens pratique est l’indépendance de la volonté par rapport à la contrainte des penchants de la sensibilité. Car une volonté est sensible en tant qu’elle est affectée pathologiquement (par les mobiles de la sensibilité) ; elle s’appelle animale (arbitrium brutum) quand elle est pathologiquement nécessitée. La volonté humaine est, il est vrai, un arbitrium sensitivum, mais non un arbitrium brutum ; c’est un arbitrium liberum, puisque la sensibilité ne rend pas son action nécessaire, mais qu’il y a dans l’homme un pouvoir de se déterminer lui-même, indépendamment de la contrainte des penchants de la sensibilité<renvoi idref="sdfootnote23sym" typeref="note">23</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Ce que Kant dit de la connaissance scientifique de manière générale par rapport à l’expérience sensible, il est permis de le dire de la philosophie par rapport à l’histoire : « notre pouvoir de connaître » ne serait pas « éveillé » et « mis en action » s’il n’y avait pas des <marquage typemarq="italique">objets</marquage> qui <marquage typemarq="italique">stimulent son activité</marquage> parce qu’ils « frappent nos sens<renvoi idref="sdfootnote24sym" typeref="note">24</renvoi> ». Si la sensibilité ne faisait pas partie de notre constitution subjective, nous serions incapables de connaissance au sens strict du terme : il n’y aurait nul contact entre, d’une part, notre faculté de connaître, et, d’autre part, l’expérience sensible dont nous faisons nous-mêmes partie, et qui nous fournit les objets à connaître. Science et philosophie, a dit Platon, sont l’apanage des hommes<renvoi idref="sdfootnote25sym" typeref="note">25</renvoi> ; la science n’est pas l’affaire des dieux, des purs esprits, puisque, par définition, les dieux sont dépourvus de sensibilité, c’est-à-dire du pouvoir qu’a l’esprit de « recevoir des représentations en tant qu’il est affecté d’une manière quelconque<renvoi idref="sdfootnote26sym" typeref="note">26</renvoi> » ; et comment un pur esprit pourrait-il faire preuve d’une telle « réceptivité<renvoi idref="sdfootnote27sym" typeref="note">27</renvoi> », être affecté par les objets de l’expérience sensible alors que la <marquage typemarq="italique">sensibilité</marquage> n’est pas une composante de sa nature ?</alinea>
+      </para>
+      <para>
+        <alinea>
+	Kant, en parlant d’<marquage typemarq="italique">expérience</marquage>, sous-entend toujours <marquage typemarq="italique">expérience sensible</marquage>, et donne l’impression que sa théorie de la connaissance n’est qu’une épistémologie des sciences de la nature et des mathématiques ; en réalité elle comporte également des éléments pour une épistémologie des sciences humaines. En effet, bien que les événements historiques soient à rattacher à la liberté, c’est-à-dire à « la faculté de commencer de soi-même un état dont la causalité n’est pas subordonnée à son tour […] à une autre cause qui la détermine quant au temps<renvoi idref="sdfootnote28sym" typeref="note">28</renvoi> », il n’est pas absurde de penser l’expérience historique, non pas avec les mêmes catégories et à l’aide des mêmes schèmes que l’on emploie quand on pense l’expérience sensible, puisque les principes de la science physique ne sont pas transposables dans la science historique, mais de manière analogique avec l’expérience sensible : l’histoire est l’unique cadre à l’intérieur duquel nous avons nos <marquage typemarq="italique">intuitions philosophiques</marquage>, et les événements qui nous pourvoient en <marquage typemarq="italique">intuitions philosophiques</marquage>, nous les vivons <marquage typemarq="italique">historiquement</marquage>, à travers des expériences personnelles, nous en prenons connaissance par ouï-dire, dans les journaux, à la télévision, notre esprit en est <marquage typemarq="italique">affecté</marquage> comme par les <marquage typemarq="italique">objets</marquage> de l’expérience sensible ; parce qu’il est limité dans le temps et dans l’espace, l’homme ne peut donc connaître que les objets qui lui sont <marquage typemarq="italique">donnés</marquage> dans l’expérience – dans la nature ou dans l’histoire : « Ainsi, c’est au moyen de la sensibilité que les objets nous sont <marquage typemarq="italique">donnés</marquage>, seule elle nous fournit des <marquage typemarq="italique">intuitions</marquage>
+          <renvoi idref="sdfootnote29sym" typeref="note">29</renvoi> », l’intuition étant le mode par lequel une connaissance « se rapporte directement aux objets<renvoi idref="sdfootnote30sym" typeref="note">30</renvoi> ». Aucun historien ne peut par exemple, sans susciter le rire condescendant et l’indignation de la confrérie, dire que Dieu, les dieux ou les fantômes ont fait ou dit ceci ou cela à telle époque ; c’est ce que la tradition en dit qui est objet de la connaissance historique.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Parce qu’il n’y a en eux rien de naturel ni <marquage typemarq="italique">a fortiori</marquage> d’historique, parce qu’ils ne sont pas, par définition, limités dans le temps et dans l’espace, les dieux, dans l’hypothèse d’école où ils existent, n’ont rien à voir avec l’histoire. Si leur « esprit » peut être <marquage typemarq="italique">affecté</marquage>, il ne peut l’être que par des « choses » qui n’ont pas d’existence historique, et qui ne sont pas donnés dans l’expérience sensible ; leur « esprit » ne peut être <marquage typemarq="italique">réceptif</marquage> qu’à des « objets suprasensibles » et <marquage typemarq="italique">anhistoriques</marquage>, contrairement à « nous autres hommes<renvoi idref="sdfootnote31sym" typeref="note">31</renvoi> » dont « l’intuition ne peut jamais être que sensible<renvoi idref="sdfootnote32sym" typeref="note">32</renvoi> » : pour qu’un homme puisse valablement prétendre connaître des <marquage typemarq="italique">choses</marquage> qui n’ont rien à voir avec l’expérience sensible ou historique, il faudrait qu’il commence par prouver qu’il a changé de nature, que la sensibilité ne fait plus partie de sa constitution subjective, qu’il a cessé d’être homme en somme et est devenu un <marquage typemarq="italique">pur esprit </marquage>; cela, d’ailleurs, disqualifierait toute prétention de sa part à connaître les objets de l’expérience sensible : son « esprit », dénué de sensibilité, ne saurait être <marquage typemarq="italique">affecté</marquage> par des objets de l’expérience sensible ou historique. C’est ce qui fait dire à Kant, avec raison, qu’un homme qui brigue la connaissance des objets <marquage typemarq="italique">suprasensibles</marquage>, qui travaille par conséquent lui-même à perdre tout contact mental avec l’expérience sensible – et historique – dont il fait partie, non seulement perd son temps, mais également compromet sa propre santé mentale : il développe lui-même une disposition pathologique qui ne peut aboutir qu’à la folie ; il y a en tout cas trop à faire <marquage typemarq="italique">dans le monde</marquage> et <marquage typemarq="italique">dans l’histoire</marquage> pour qu’on se permette encore d’intéresser la raison à l’impossible et à l’inutile connaissance des <marquage typemarq="italique">choses</marquage> qui seraient <marquage typemarq="italique">hors du monde</marquage>, à des « événements » qui auraient lieu hors du temps et de l’espace :</alinea>
+      </para>
+      <para>
+        <alinea>
+	Il est possible de penser maints objets suprasensibles alors que la raison ne ressent cependant aucun besoin de s’élargir jusque-là […]. La raison trouve suffisamment à s’employer avec les causes qui sont dans le monde et se révèlent aux sens […] pour éprouver de surcroît la nécessité d’une influence de purs esprits de la nature, venant à son secours ; les admettre porterait au contraire préjudice à son usage. Car, puisque nous ne savons rien sur les lois en vertu desquelles ces êtres pourraient agir mais que nous en savons plus ou du moins pouvons espérer en apprendre encore beaucoup, à savoir les objets des sens, l’usage de la raison serait altéré par une telle supposition. Ce n’est donc pas un besoin, ce serait plutôt une pure présomption qui ne débouche sur rien d’autre que les rêveries de se lancer dans une telle recherche ou de jouer avec des chimères de cette sorte<renvoi idref="sdfootnote33sym" typeref="note">33</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Dans les <marquage typemarq="italique">Rêves d’un visionnaire</marquage>
+          <renvoi idref="sdfootnote34sym" typeref="note">34</renvoi>, Kant parle de Schwedenberg, qui prétend avoir « maintes fois causé après leur mort avec tous ses amis<renvoi idref="sdfootnote35sym" typeref="note">35</renvoi> », comme « du pire des exaltés<renvoi idref="sdfootnote36sym" typeref="note">36</renvoi> ». Le propre des fantastes est qu’ils ne se soucient pas ou guère de l’expérience sensible ou historique, ou qu’ils y voient la manifestation de l’action des esprits :</alinea>
+      </para>
+      <para>
+        <alinea>
+	L’empire des ombres est le paradis des fantastes. Ils y trouvent une terre sans limite où ils peuvent s’établir à leur convenance. Les vapeurs hypocondriaques, les contes de nourrices et les miracles des couvents ne les laissent pas manquer de matériaux pour bâtir<renvoi idref="sdfootnote37sym" typeref="note">37</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Or l’expérience, comme le dit Kant, est d’une richesse inépuisable ; cela revient à dire que c’est capituler devant des tâches utiles que d’employer la raison à une entreprise aussi insensée que celle de la connaissance des « choses » dont l’existence ne peut être prouvée :</alinea>
+      </para>
+      <para>
+        <alinea>
+	L’expérience est, sans aucun doute, le premier produit que notre entendement obtient (hervorbringt) en élaborant la matière brute des sensations. C’est précisément ce qui fait d’elle l’enseignement premier et tellement inépuisable en instructions nouvelles dans son développement que, dans toute la chaîne des âges, les générations futures ne manqueront jamais de connaissances nouvelles à acquérir sur ce terrain<renvoi idref="sdfootnote38sym" typeref="note">38</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Ce que Kant dit de l’expérience sensible, à savoir qu’elle est d’une richesse inépuisable, est vrai de l’expérience historique. C’est dans l’histoire que se trouve l’expérience avec laquelle <marquage typemarq="italique">commence</marquage> la connaissance philosophique ; même un livre éminemment spéculatif et foncièrement conceptuel comme la <marquage typemarq="italique">Critique de la raison pure</marquage> laisse transparaître l’expérience historique qui le nourrit : un lecteur averti peut le rattacher à l’actualité scientifique de l’époque<renvoi idref="sdfootnote39sym" typeref="note">39</renvoi>; le projet critique de l’auteur, qui est l’évaluation du pouvoir humain de connaître, l’examen de la question de savoir jusqu’où l’homme peut connaître et au-delà de quelle limite il n’a pas le droit de prétendre connaître, sauf à faire preuve de charlatanisme ou de folie, est propre à « un siècle qui ne veut pas se laisser berner plus longtemps par une apparence de savoir<renvoi idref="sdfootnote40sym" typeref="note">40</renvoi> », qui en a marre de l’état de tutelle entretenu par l’Église et le pouvoir royal traditionnel, qui dénonce comme illégitimes les prétentions épistémologiques de la Métaphysique : faire des idées transcendantales de l’âme et de Dieu, qui ne renvoient à <marquage typemarq="italique">rien</marquage>, des <marquage typemarq="italique">objets</marquage> d’une connaissance scientifique.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Un livre de philosophie – un vrai, celui qui peut faire l’objet d’un mémoire ou d’une thèse-, est donc nécessairement un produit singulier : il est l’œuvre d’un penseur et d’une <marquage typemarq="italique">intuition</marquage> au sens kantien du terme ; c’est-à-dire qu’il exprime la réaction de la pensée d’une personne à des <marquage typemarq="italique">stimuli historiques</marquage>. Un philosophe consacre par exemple des livres à la gouvernance et à la morale parce qu’il vit dans un contexte qui souffre d’un déficit de gouvernance et où la morale est devenue problématique : avec Kant, on dira que son <marquage typemarq="italique">esprit</marquage> a été <marquage typemarq="italique">frappé</marquage>, éveillé et <marquage typemarq="italique">mis en action</marquage> par le <marquage typemarq="italique">phénomène historique</marquage> de la mal-gouvernance et de l’immoralité<renvoi idref="sdfootnote41sym" typeref="note">41</renvoi>; les règles qu’il élabore, les principes qu’il systématise sont précisément ce qui fait défaut à la réalité historique dont il a l’expérience. La philosophie, comme l’a montré Hegel, est donc bel et bien une activité crépusculaire, étant accordé que toute réalité historique a toujours un côté crépusculaire :</alinea>
+      </para>
+      <para>
+        <alinea>
+	Pour dire encore un mot sur la prétention d’enseigner comment le monde doit être, la philosophie vient, en tout cas, toujours trop tard. En tant que pensée du monde, elle n’apparaît qu’à l’époque où la réalité a achevé le processus de sa formation et s’est accomplie. Ce que nous enseigne le concept, l’histoire le montre avec la même nécessité : il faut attendre que la réalité ait atteint sa maturité pour que l’idéal apparaisse en face du réel, saisisse le monde dans sa substance et le reconstruise sous la forme d’un empire intellectuel. Lorsque la philosophie peint son gris sur le gris, une forme de la vie a vieilli et ne se laisse pas rajeunir avec du gris sur du gris, mais seulement connaître. La chouette de Minerve ne prend son envol qu’à la tombée de la nuit<renvoi idref="sdfootnote42sym" typeref="note">42</renvoi>.</alinea>
+      </para>
+    </section1>
+    <section1>
+      <titre>
+	II. LA FECONDITE HISTORIQUE DE LA PHILOSOPHIE</titre>
+      <para>
+        <alinea>
+	Ce que disent Marx et Engels à propos des idées, même des idées philosophiques, est donc vrai : « Dès lors qu’est exposée la réalité, la philosophie cesse d’avoir un milieu où elle existe de façon autonome<renvoi idref="sdfootnote43sym" typeref="note">43</renvoi> ». Autrement dit, quoiqu’elles aient une vocation universelle, les idées philosophiques sont produites dans un contexte particulier : pourquoi ne sont-elles pas cependant forcément vouées à perdre leur valeur avec le temps ? d’où vient-il, par exemple, que, vingt-cinq siècles après leurs auteurs, les pensées des philosophes de la Grèce antique, comme celles de Platon ou d’Aristote, restent toujours intéressantes même pour un Africain du XXI siècle ? C’est à se demander en quoi la philosophie peut être considérée comme la créancière de l’histoire.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Le philosophe qui pense, quel que soit le niveau d’abstraction de sa pensée, on l’a déjà dit, ne le fait pas <marquage typemarq="italique">ex nihilo</marquage> à partir d’un milieu universel, mais à partir d’un milieu particulier, d’une culture particulière qui lui fournit ses intuitions. S’il était possible de penser à partir d’un lieu universel, comme quelqu’un qui ne serait de nulle part et d’aucun temps, on produirait des idées qui n’auraient aucune validité dans le temps et dans l’espace, qui seraient inapplicables partout et en tout temps ; elles n’intéresseraient personne, ne s’adressant à personne, n’étant inspirées d’aucune situation dans laquelle celui qui les lirait se reconnaîtrait : on se demanderait <marquage typemarq="italique">de quoi</marquage> il parle, <marquage typemarq="italique">à qui</marquage> il parle, et <marquage typemarq="italique">pourquoi</marquage> il en parle ; ce serait comme de prendre connaissance d’un délire. Un livre qu’on écrirait sur la corruption comme on se livre à un jeu par pur plaisir, d’une manière telle que le lecteur ne sache pas <marquage typemarq="italique">pourquoi</marquage> il s’y agit de corruption plutôt que d’autre chose, serait ennuyeux, à la limite illisible ; il serait absurde d’écrire sur <marquage typemarq="italique">l’idée de corruption</marquage> à la manière des néoparnassiens nègres qui écrivaient des romans avec pour dessein de ne pas faire deviner au lecteur la race et la condition sociale d’origine de l’auteur, c’est-à-dire comme si l’esprit dont on est pourvu n’avait pas été, à partir de <marquage typemarq="italique">quelque</marquage> part et à un moment donné, marqué par le phénomène social de la corruption, comme si l’idée d’écrire un tel ouvrage avait germé de l’esprit par un phénomène d’auto-ensemencement intellectuel, par une sorte de <marquage typemarq="italique">parthénogenèse de l’esprit</marquage>.</alinea>
+      </para>
+      <para>
+        <alinea>
+	De celui dont la perception ne va pas encore plus loin que le particulier, on ne peut pourtant pas encore dire qu’il pense, qu’il « philosophe » : il <marquage typemarq="italique">subit</marquage> le particulier plutôt qu’il ne le <marquage typemarq="italique">pense</marquage>. Penser le particulier, c’est s’en détacher et le prendre pour objet de réflexion. Par la réflexion, le penseur  envisage l’universel par-delà le particulier, il conçoit un modèle qui a une fonction heuristique, et cette idée régulatrice, il la propose comme le modèle dont le particulier doit s’inspirer pour lui être aussi semblable que possible. C’est le sens de l’allégorie platonicienne de la caverne : la pensée est une activité théorique à vocation pratique ; comme faculté, on peut, avec Kant, la décomposer en trois « pouvoirs » qui représentent autant de tâches intellectuelles que le penseur doit accomplir :</alinea>
+      </para>
+      <para>
+        <alinea>
+	Quand il s’agit de diviser […] notre pouvoir (supérieur) de connaître a priori par concepts, […] la représentation systématique du pouvoir de penser prend la forme d’une tripartition : la division distingue, premièrement, le pouvoir de connaître l’universel (les règles), l’entendement ; deuxièmement le pouvoir de subsumer le particulier sous l’universel, la faculté de juger ; et, troisièmement, le pouvoir de déterminer le particulier par l’universel, c’est-à-dire la raison<renvoi idref="sdfootnote44sym" typeref="note">44</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>
+	L’acte de penser est comme mutilé si celui qui s’y livre en escamote ou en néglige l’une des trois exigences, s’il ne fait pas usage de tous ces trois <marquage typemarq="italique">pouvoirs</marquage> : sans la <marquage typemarq="italique">connaissance de l’universel</marquage>, on ne peut <marquage typemarq="italique">subsumer</marquage> <marquage typemarq="italique">le particulier sous l’universel</marquage>, et on ne peut <marquage typemarq="italique">déterminer le particulier par l’universel</marquage> qu’à la condition d’avoir au préalable subsumé le particulier sous l’universel ; l’entendement, la faculté de juger et la raison sont donc trois instances, trois « chambres » d’un même « pouvoir », la <marquage typemarq="italique">faculté de penser</marquage>. La différence entre le penseur et l’homme vulgaire est que celui-ci ne sort jamais mentalement du contexte particulier où il évolue ; il s’y complaît et s’y est tellement familiarisé qu’il a tendance à l’absolutiser : le prisonnier de la Caverne, qui est né enchaîné dans la Caverne dont il n’est jamais sorti même par la pensée, ne sait ni qu’il est dans la Caverne, ni qu’il est prisonnier, ni qu’il est enchaîné, ni qu’il est tout cela depuis sa naissance : « ailleurs » et <marquage typemarq="italique">mieux qu’ici,</marquage> c’est-à-dire l’universel, est une représentation dont il est encore incapable ; il ne saurait donc <marquage typemarq="italique">déterminer le particulier par l’universel</marquage>, ne s’étant jamais efforcé ni à la <marquage typemarq="italique">connaissance de l’universel</marquage>, ni à plus forte raison à la <marquage typemarq="italique">subsomption du particulier sous l’universel</marquage>.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Les idées d’un Platon et d’un Aristote ne sont pas d’une actualité désuète, elles nous interpellent jusqu’à aujourd’hui parce qu’ils ont pensé au sens strict du terme ; ils ont fait appel aux ressources de chacun des trois « pouvoirs » que sont l’entendement, la faculté de juger et la raison : ils se sont livrés, non à un travail de description des situations gouvernementales ou morales particulières dont ils avaient l’expérience, mais à un travail de pensée au sens où Hegel note que « la philosophie est essentiellement dans l’élément de l’universalité qui inclut en soi le particulier<renvoi idref="sdfootnote45sym" typeref="note">45</renvoi> ». Pourquoi en effet nous reconnaissons-nous par exemple dans les pensées de Platon ? C’est que les tendances et les désirs qu’il étudie avec minutie et art sont inscrites dans l’âme humaine ; ils varient de formes et d’expressions suivant les contextes particuliers où évoluent ceux qu’ils animent. La question examinée par Platon est celle de savoir comment les contrôler, les diriger. Ce que Platon préconise, c’est justement ce que Kant appellera <marquage typemarq="italique">connaissance de l’universel</marquage>, c’est-à-dire la représentation rationnelle de la fin envisagée et des moyens qui s’imposent : la fin, c’est le type d’homme qu’il convient de développer, et les moyens renvoient à la représentation des réformes politiques et éducatives par lesquelles il est nécessaire de passer. Le but, qui est la <marquage typemarq="italique">détermination du particulier par l’universel</marquage>, est atteint si l’on a procédé correctement à la <marquage typemarq="italique">subsomption du particulier sous l’universel</marquage>. Ainsi, dit Platon, une tendance prospère si les conditions politiques ou constitutionnelles de son épanouissement sont réunies ; cela signifie que si l’on veut encourager le développement de certaines tendances, en combattre ou en limiter d’autres, créer un <marquage typemarq="italique">type idéal</marquage>, il faut procéder opportunément aux réformes constitutionnelles qui conviennent ; la réforme des mentalités s’opère en fonction de la manière dont les lois sont appliquées, ce qui suppose d’ailleurs aussi qu’on peut parfaitement envisager le scénario d’une <marquage typemarq="italique">politique</marquage> <marquage typemarq="italique">délibérée de perversion des mentalités</marquage>
+          <renvoi idref="sdfootnote46sym" typeref="note">46</renvoi> ; aux tendances dominantes des mentalités dans un pays, on peut déduire la nature des lois qui y sont en vigueur, la manière dont elles y sont appliquées : le développement du type <marquage typemarq="italique">feyman</marquage>
+          <renvoi idref="sdfootnote47sym" typeref="note">47</renvoi>, la tendance mégalomaniaque à la construction des châteaux, et la propension à ce qu’il convient d’appeler <marquage typemarq="italique">nomismalâtrie</marquage>, c’est-à-dire l’idolâtrie de l’argent, autorisent à dire que nous vivons nous-mêmes, ou que nous sommes tombés sans le savoir, dans la « timocratie ou timarchie », néologismes par lesquels Platon désigne « le gouvernement de l’honneur<renvoi idref="sdfootnote48sym" typeref="note">48</renvoi> » :</alinea>
+      </para>
+      <para>
+        <alinea>
+	De tels hommes seront avides de richesses […] ; ils adoreront farouchement, dans l’ombre, l’or et l’argent, car ils auront des magasins et des trésors particuliers, où ils tiendront leurs richesses cachées, et aussi des habitations entourées de murs, véritables nids privés, dans lesquelles ils dépenseront largement pour les femmes et pour qui bon leur semblera<renvoi idref="sdfootnote49sym" typeref="note">49</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Bien que le contexte particulier dans lequel il a eu ses intuitions soit éloigné du nôtre de vingt-cinq siècles, Platon nous parle pourtant comme un contemporain clairvoyant ; ses pensées sont <marquage typemarq="italique">historiquement du passé</marquage>, mais elles ne sont pas <marquage typemarq="italique">philosophiquement dépassées</marquage>. On comprend que Raymond Aron ait parlé de l’<marquage typemarq="italique">homogénéité du passé et de l’avenir</marquage>
+          <renvoi idref="sdfootnote50sym" typeref="note">50</renvoi> : l’actualité est elle-même historique et le philosophe qui pense l’actualité ne réfléchit pas uniquement pour ses contemporains, mais aussi pour les générations futures.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Ces idées dont la validité résiste à l’histoire peuvent-elles cependant influer sur l’histoire ? L’avenir, qui est contenu dans le présent de la même manière que celui-ci l’était dans le passé, c’est-à-dire d’une manière indéterminée, objet de jugements problématiques et non assertoriques ou apodictiques, peut-il être débiteur de la philosophie ? On peut répondre à cette question à partir de l’exemple représentatif de Descartes, le penseur de la pensée. Avec lui, il s’est opéré une véritable révolution copernicienne : en réhabilitant la pensée et, avec elle, l’homme, Descartes a intellectuellement rendu possible le Siècle des Lumières encore appelé <marquage typemarq="italique">Siècle</marquage> <marquage typemarq="italique">de la Raison</marquage>. Que se serait-il passé s’il n’avait pas intellectuellement procédé à la restauration de l’homme dans son droit de penser, s’il n’avait pas convaincu que penser est non seulement un droit mais aussi un devoir ? C’est Descartes, pour emprunter à la terminologie de Kant, qui a fait triompher cette idée que l’homme n’est rien s’il n’ose pas <marquage typemarq="italique">se servir de son entendement sans l’aide d’autrui</marquage>, qu’il est honteux de s’accommoder de la condition de <marquage typemarq="italique">mineur</marquage> ou de <marquage typemarq="italique">l’état de tutelle</marquage>
+          <renvoi idref="sdfootnote51sym" typeref="note">51</renvoi>. En définissant de nouveau l’homme par la pensée, c’est-à-dire par <marquage typemarq="italique">la puissance de bien juger et de distinguer le vrai d’avec le faux </marquage>plutôt que par la foi<renvoi idref="sdfootnote52sym" typeref="note">52</renvoi>, en opérant de manière décisive ce retour au <marquage typemarq="italique">cogito</marquage>, Descartes a jeté la principale base de la modernité dans laquelle l’Afrique tarde à entrer ; avec Descartes, il apparaît que c’est la connaissance rationnelle plutôt que la foi qui sauve, que l’homme ne peut pas se sauver en faisant confiance à des artifices comme les sortilèges et les prières, en tablant sur les miracles, que si Dieu existe, il a donné à l’homme, une fois pour toutes, un seul moyen de se sauver : la pensée. La consécration de la pensée, et donc de l’homme, se produira avec les Lumières dont les Occidentaux parlent aujourd’hui avec une fierté justifiée : si la révolution de la pensée ne s’était pas accomplie, ni la révolution américaine, ni la révolution française, ni la révolution industrielle n’auraient eu lieu.</alinea>
+      </para>
+      <para>
+        <alinea>
+	La philosophie peut donc, par ses idées, déterminer l’avenir ; l’exemple du cartésianisme montre qu’elle le doit ; mais, logiquement, elle peut aussi exercer sur l’avenir une influence néfaste, car qui peut faire le meilleur est également capable du pire ; il est possible de faire triompher de mauvaises causes, de provoquer des effets pervers ou d’inertie, en tout cas de retarder le progrès en mettant en circulation de mauvaises idées, par exemple la misologie et la superstition. Faut-il donc appeler « philosophies » les doctrines qui, classées au plan académique dans le genre « philosophie », répandent la superstition et la misologie, c’est-à-dire la croyance aux miracles et la haine de la raison que certains déguisent sous le titre noble de « raison plurielle », avec des « raisons » tellement différentes qu’on se demande à quel dénominateur commun elles doivent d’être désignées par le même terme ? La psychologie transcendantale d’un Meinrad Hebga par exemple<renvoi idref="sdfootnote53sym" typeref="note">53</renvoi>, dont le défaut est certes d’être moins démonstrative que celle qui est réfutée dans la <marquage typemarq="italique">Critique de la raison pure</marquage>, professe des croyances superstitieuses si courantes, qu’on peut se demander ce qu’elle a de proprement philosophique dans la mesure où elle réhabilite l’opinion, donc la connaissance par ouï-dire, <marquage typemarq="italique">sur tous les plans</marquage> ; cette « philosophie », puisqu’il faut ainsi se résigner à l’appeler en raison du statut professionnel de son auteur, repose sur le principe sophistique d’une conception « triadique » du composé humain, sur la croyance aux « phénomènes paranormaux », et sur l’<marquage typemarq="italique">idée transcendantale </marquage>d’un « moi paranormal », l’équivalent transcendantal de « l’âme » comme <marquage typemarq="italique">substance</marquage> dans la psychologie rationnelle d’inspiration wolffienne qui, elle, avait l’atout philosophique d’emprunter à la rigueur des mathématiques. En fait, il apparaît qu’on a affaire ici en réalité à la doctrine – saupoudrée d’une érudition dont la culture philosophique est l’un des ingrédients – d’un soi-disant « exorciste » à la recherche de <marquage typemarq="italique">clients</marquage> à « délivrer » du <marquage typemarq="italique">Diable</marquage> et à protéger de la « sorcellerie » : la superstition y est caressée dans le <marquage typemarq="italique">sens du poil</marquage>; et le lecteur crédule, impressionné par des artifices  sophistiques comme le latin et des équations mathématiques et physiques placées en appendice dans le livre et qui n’ont rien à voir avec le corpus du texte, en est littéralement fasciné, hors d’état de <marquage typemarq="italique">révoquer en doute</marquage> ce qu’il a <marquage typemarq="italique">reçu en sa créance</marquage> depuis son enfance sur la « sorcellerie ». Le « maître » ne se doutait pas lui-même des effets pervers de sa doctrine sur ses « disciples » : tel d’entre eux, gagné à la croyance superstitieuse, professée de bonne guerre d’« exorciste », d’après laquelle l’homosexualité est une pratique démoniaque par laquelle un « sorcier » <marquage typemarq="italique">vide</marquage> son innocent partenaire des « chances » dont il est doté et se les approprie, s’est mis à se livrer avec ses étudiants à une homosexualité rituelle, convaincu qu’il augmentait ainsi le capital de ses « chances » de gravir les échelons de la société ; tel autre, qui prêche qu’il faut être initié dans un cercle ésotérique pour devenir un grand esprit, néglige cet élément, important pour son « maître », que, d’après ce dernier, les cercles ésotériques, appelés « sectes », sont des <marquage typemarq="italique">églises du Diable</marquage>, ce qui contribue évidemment à diaboliser quiconque y appartient ou est soupçonné d’y appartenir. Cette doctrine, dont l’auteur est « prêtre-exorciste » et « philosophe », apporte une caution importante à des pratiques rétrogrades comme les procès en sorcellerie. Les admirateurs de cette psychologie transcendantale ne se rendent pas compte de ses contradictions et lacunes, des sophismes et paralogismes de la doctrine du père Hebga : afin de ne pas avoir à « multiplier en vain sans nécessité » les substances<renvoi idref="sdfootnote54sym" typeref="note">54</renvoi>, il décrète que, <marquage typemarq="italique">pour l’Africain</marquage>, le composé humain a trois instances, alors que, d’après ses propres enquêtes, dans beaucoup de cultures africaines, on retrouve des conceptions faisant état de quatre, cinq ou six instances<renvoi idref="sdfootnote55sym" typeref="note">55</renvoi> : en fait, il en choisit <marquage typemarq="italique">trois</marquage> parce que ce chiffre est canonique chez les Catholiques. Le père Hebga ne dit d’ailleurs pas si les conceptions « africaines » de plus de trois instances sont fausses, ni si la conception du « composé humain » est une simple question de culture. Il passe au contraire subrepticement des résultats discutables d’une <marquage typemarq="italique">enquête ethnographique</marquage> à une <marquage typemarq="italique">profession de foi métaphysique</marquage> ; c’est lui qui, pour les besoins de sa cause métaphysique, introduit subrepticement <marquage typemarq="italique">sa conception</marquage> du « composé humain » dans « la culture africaine » : c’est ce procédé typiquement ethnophilosophique que Marcien Towa a appelé « la rétrojection<renvoi idref="sdfootnote56sym" typeref="note">56</renvoi> ».</alinea>
+      </para>
+      <para>
+        <alinea>
+	C’est le rationalisme en tout cas qui a fait progresser l’humanité – le rationalisme de type cartésien et kantien ; et, comme le montre Raymond Aron, on imagine mal le monde actuel s’il n’avait pas été marqué par la rigueur et les idées fécondes des penseurs tels que Kant :</alinea>
+      </para>
+      <para>
+        <alinea>
+	On ne se demande pas si quelque chose aurait changé au cas où Kant n’aurait pas existé ou serait mort avant cinquante ans : la Critique de la raison pure n’aurait pas été écrite et ce manque est, en soi, quelque chose. La question : finalement les choses ne seraient-elles pas revenues au même ? peut, en théorie, être posée. Mais elle n’intéresse guère car, en l’absence de la Critique de la raison pure, peut-on concevoir les idées qui sont aujourd’hui partie intégrante de notre univers<renvoi idref="sdfootnote57sym" typeref="note">57</renvoi> ?</alinea>
+      </para>
+    </section1>
+    <section1>
+      <titre>
+	III. PHILOSOPHIE ET HISTOIRE DE LA PHILOSOPHIE</titre>
+      <para>
+        <alinea>
+	Parce que la philosophie est historiquement féconde, il y a donc intérêt à en étudier l’histoire : elle recèle des idées qui ont fait leur preuve. S’agit-il cependant d’aller chercher ces idées dans les textes où ils se trouvent pour s’en servir comme d’autant de modèles de pensées à appliquer ? L’histoire, de manière générale, et l’histoire de la philosophie en particulier, fascine à cause des modèles prestigieux dont on y prend connaissance ; et cette <marquage typemarq="italique">fascination historique</marquage> est un <marquage typemarq="italique">obstacle épistémologique</marquage> au sens où l’entend Gaston Bachelard, c’est-à-dire un facteur interne qui bloque le bon fonctionnement de la pensée en quête de connaissance<renvoi idref="sdfootnote58sym" typeref="note">58</renvoi> : auprès de quel penseur prestigieux irait-on d’ailleurs de préférence s’approvisionner en ces idées dont on n’aurait plus qu’à se servir ? Celui qui a une parfaite maîtrise des idées d’un grand penseur ne fait preuve, comme l’a dit Kant, que d’une « connaissance historique complète<renvoi idref="sdfootnote59sym" typeref="note">59</renvoi> » de la philosophie de cet auteur ; ces idées qu’il a <marquage typemarq="italique">bien apprises</marquage>, quoique étant objectivement rationnelles, autrement dit rationnelles en elles-mêmes, sont cependant d’origine endogène dans celui qui les possède de la sorte ; elles sont <marquage typemarq="italique">subjectivement</marquage> historiques et non <marquage typemarq="italique">subjectivement rationnelles</marquage> : ce ne sont pas <marquage typemarq="italique">ses pensées</marquage>, parce que la connaissance dont on peut le créditer « n’est pas sortie chez lui de la raison<renvoi idref="sdfootnote60sym" typeref="note">60</renvoi> »; il n’en est que le dépositaire.</alinea>
+      </para>
+      <para>
+        <alinea>
+	C’est ce qui a amené Kant à distinguer entre le <marquage typemarq="italique">concept scolastique</marquage> de philosophie et le <marquage typemarq="italique">concept cosmique</marquage> de philosophie, et qui nous autorise, dans son sillage, à parler de <marquage typemarq="italique">scolastophilosophie</marquage> et de <marquage typemarq="italique">cosmophilosophie</marquage>, de <marquage typemarq="italique">scolastophilosophes</marquage> et de <marquage typemarq="italique">cosmophilosophes</marquage>. <marquage typemarq="italique">Scolastophilosophie</marquage> et <marquage typemarq="italique">cosmophilosophie</marquage> sont des néologismes de notre cru, inspirés de la distinction kantienne ci-dessus expliquée ; c’est l’<marquage typemarq="italique">école</marquage> par rapport au <marquage typemarq="italique">monde</marquage> en somme : la <marquage typemarq="italique">scolastophilosophie</marquage> désigne la pratique scolaire de la philosophie, friande et maniaque des références prestigieuses qui apparaissent alors comme l’essentiel par rapport aux idées personnelles ; dans la <marquage typemarq="italique">cosmophilosophie</marquage> au contraire, les idées personnelles sont l’essentiel et les références l’accessoire – c’est la philosophie comme elle est pratiquée par les philosophes originaux tels que Socrate, Platon, Aristote, Descartes, Spinoza, Kant ou Hegel, les <marquage typemarq="italique">cosmophilosophes</marquage>. S’il pouvait y avoir un panthéon des philosophes, c’est ceux-là qui en seraient les pensionnaires ; les portes d’une telle institution seraient fermées à ceux qui ne sauraient faire que « l’histoire de la philosophie », à ceux qui ne s’occuperaient de philosophie qu’à l’occasion de l’étude des textes philosophiques écrits par d’autres qui, eux, se donnent la peine d’élaborer et de produire des idées. Les uns, on le voit, ne sont que les <marquage typemarq="italique">agents-relayeurs</marquage> des idées dont les autres sont les <marquage typemarq="italique">producteurs</marquage> ; c’est la différence entre le <marquage typemarq="italique">chevalier</marquage> et l’<marquage typemarq="italique">écuyer</marquage>. Kant a dénoncé, agacé, les airs de supériorité intellectuelle que se donnent par rapport aux <marquage typemarq="italique">producteurs d’idées</marquage> ceux dont les capacités philosophiques se limitent à « l’histoire de la philosophie », et dont la mauvaise foi ou la naïveté est telle qu’ils ne s’aperçoivent même pas de leur propre dépendance unilatérale vis-à-vis de ceux à qui ils doivent l’occasion d’un travail intellectuel :</alinea>
+      </para>
+      <para>
+        <alinea>
+	Il est des savants qui font de l’histoire (tant ancienne que moderne) leur propre philosophie : ce n’est pas pour eux que les présents Prolégomènes ont été écrits. Il faut qu’ils attendent que ceux qui travaillent à puiser aux sources de la raison elle-même aient terminé leur tâche, et alors leur tour viendra d’instruire le monde de ce qui s’est fait<renvoi idref="sdfootnote61sym" typeref="note">61</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>
+	C’est en ce sens que Kant a pu dire : on ne peut jamais apprendre « la philosophie (si ce n’est historiquement) ; quant à ce qui concerne la raison, on ne peut, tout au plus, apprendre qu’à philosopher<renvoi idref="sdfootnote62sym" typeref="note">62</renvoi> ». Il n’a pas dit que <marquage typemarq="italique">la philosophie ne peut être apprise d’aucune manière</marquage> : elle ne peut, a-t-il dit, être apprise qu’<marquage typemarq="italique">historiquement</marquage>. Quelle connaissance résulte cependant de cet apprentissage historique de la philosophie ? Avec Kant, il apparaît que l’apprentissage historique de la philosophie ne peut pas, tel quel, comme miraculeusement, produire une connaissance philosophique dans la pensée de celui qui s’y adonne : il ne peut en résulter qu’une connaissance historique, c’est-à-dire de l’érudition philosophique ; sans autre forme d’exercice, l’apprentissage historique de la philosophie enrichit la mémoire plutôt qu’elle ne développe la raison.</alinea>
+      </para>
+      <para>
+        <alinea>
+	D’après ce qui est contenu dans cette page trop célèbre de la <marquage typemarq="italique">Critique de la raison pure</marquage> pour ne pas avoir donné lieu à des interprétations superficielles ou erronées, l’apprentissage historique de la philosophie, c’est-à-dire la fréquentation des textes philosophiques, est, parmi d’autres, une occasion d’<marquage typemarq="italique">apprendre à philosopher </marquage>: par le biais de l’apprentissage historique, on peut <marquage typemarq="italique">apprendre à philosopher</marquage> ; il s’agit, dans un contexte scolaire, de lire les philosophes en pensant avec eux, ou alors, si on n’est pas dans un contexte scolaire, autrement dit si on s’intéresse à la philosophie sans en avoir eu une formation académique, il est de toute manière nécessaire de lire les philosophes et de les étudier. Kant recommande implicitement un apprentissage historique raisonné de la philosophie : avec les textes philosophiques, on peut <marquage typemarq="italique">exercer le talent de la raison</marquage> au sens sportif du terme, <marquage typemarq="italique">entraîner</marquage> la raison à procéder à <marquage typemarq="italique">l’application de ses principes généraux</marquage>, lui donner, à force d’exercices, des habitudes critiques.</alinea>
+      </para>
+      <para>
+        <alinea>
+	C’est de ce <marquage typemarq="italique">talent de la raison</marquage> que font preuve les philosophes : <marquage typemarq="italique">apprendre à philosopher</marquage>, c’est s’exercer à emprunter la voie du concept ; c’est en ce sens que Hegel, contre la philosophie de l’intuition, du sentiment intérieur et du savoir immédiat qui n’a pas besoin de preuve, a préconisé la scientificité de la philosophie :</alinea>
+      </para>
+      <para>
+        <alinea>
+	La vraie figure dans laquelle la vérité existe ne peut être que le système scientifique de cette vérité. Collaborer à cette tâche, rapprocher la philosophie de la forme de la science – ce but atteint elle pourra déposer son nom d’amour du savoir pour être savoir effectivement réel – c’est là le but que je me suis proposé. […]</alinea>
+      </para>
+      <para>
+        <alinea>
+
+	La vraie figure de la vérité est donc posée dans cette scientificité – ce qui revient à dire que dans le concept seul la vérité trouve l’élément de son existence. […] Si précisément le vrai existe dans ce qui, ou plutôt comme ce qui est nommé tantôt intuition, tantôt savoir immédiat de l’absolu, religion, être […], alors de ce point de vue, c’est plutôt le contraire de la forme conceptuelle qui est requis pour la présentation de la philosophie. L’absolu ne doit pas être conçu, mais seulement senti<marquage typemarq="italique"> </marquage>et intuitionné ; non son concept, mais son sentiment et son intuition doivent avoir la parole et être exprimés<renvoi idref="sdfootnote63sym" typeref="note">63</renvoi>.
+</alinea>
+      </para>
+      <para>
+        <alinea>
+	Hegel, critique de l’ethnophilosophie avant la lettre<renvoi idref="sdfootnote64sym" typeref="note">64</renvoi>, a raison de rappeler que la profondeur philosophique n’est pas le fait de la révélation, mais le fruit du travail, qu’elle n’est pas une performance spontanée, et que la philosophie n’est pas quelque chose à quoi on peut se livrer sans qu’on le sache, une activité qu’on peut pratiquer sans apprentissage ni exercices : il n’y a pas plus de <marquage typemarq="italique">philosophie spontanée</marquage> que de mathématique ou de physique spontanées, on n’est pas plus spontanément philosophe qu’on est spontanément technicien ou artiste. C’est donc un argument spécieux que celui qui consiste à dire que tout le monde peut apprécier la philosophie parce que <marquage typemarq="italique">la</marquage> <marquage typemarq="italique">raison est la chose du monde la mieux partagée</marquage>, sinon cela serait aussi vrai de toutes les sciences, de tous les arts et de toutes les techniques, puisque la raison n’y intervient pas moins qu’en philosophie :</alinea>
+      </para>
+      <para>
+        <alinea>
+	De ce côté, il paraît particulièrement nécessaire de faire de nouveau de la philosophie une affaire sérieuse. Pour toutes les sciences, les arts, les talents, les techniques, prévaut la conviction qu’on ne les possède pas sans se donner de la peine et sans faire l’effort de les apprendre et de les pratiquer. Si quiconque, ayant des yeux et des doigts, à qui on fournit du cuir et des instruments, n’est pas pour cela en mesure de faire des souliers, de nos jours domine le préjugé selon lequel chacun sait immédiatement philosopher et apprécier la philosophie puisqu’il possède l’unité de mesure dans sa raison naturelle – comme si chacun ne possédait pas aussi dans son pied la mesure d’un soulier<renvoi idref="sdfootnote65sym" typeref="note">65</renvoi>.</alinea>
+      </para>
+    </section1>
+    <section1>
+      <titre>
+	CONCLUSION</titre>
+      <para>
+        <alinea>
+	La question examinée était celle de savoir si l’activité philosophique peut influencer l’histoire au sens où celle-ci désigne, non pas la science du passé humain, mais l’objet de connaissance de cette science, le devenir humain.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Il a été, dans un premier temps, question de la <marquage typemarq="italique">dépendance historique</marquage> de la philosophie : là où elle s’est développée, la philosophie apparaît, parmi d’autres éléments culturels, comme un trait de la singularité historique de la période concernée, et elle suscite à ce titre la curiosité de l’historien. Il y a <marquage typemarq="italique">dépendance historique de la philosophie </marquage>parce que la réflexion philosophique est elle-même une des manières par lesquelles la pensée réagit à une expérience historique déterminée : elle y réagit par le travail du concept, au sens où Kant définit la philosophie comme « la connaissance rationnelle par concepts<renvoi idref="sdfootnote66sym" typeref="note">66</renvoi> ».</alinea>
+      </para>
+      <para>
+        <alinea>
+	Pourtant, quoiqu’elles aient pour origine une expérience historique particulière, les idées philosophiques ont une vocation universelle ; et leur valeur ne se limite pas au temps et à l’espace qui les a générées : le dialogue philosophique avec les penseurs du passé reste toujours possible, les idées qu’ils ont élaborées jadis ou naguère sont susceptibles d’être réactualisées parce que les tendances humaines qu’ils ont étudiées restent les mêmes par-delà le temps. Si la thèse de la <marquage typemarq="italique">fécondité historique de la philosophie</marquage> a donc été défendue, c’est sur la base de ce constat que ces idées ont fait leur preuve historique, ainsi qu’en attestent l’exemple des philosophes grecs du Siècle de Périclès, ou l’exemple des penseurs européens au début des temps modernes, avec la « révolution copernicienne », opérée par Descartes, qui a abouti au Siècle des Lumières. En ce sens, la philosophie est l’une des créancières de l’histoire, et sa pratique mérite d’être encouragée : il est souhaitable notamment que la philosophie fasse partie de l’expérience historique de l’Afrique actuelle.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Reste cependant à savoir comment rentabiliser philosophiquement le patrimoine historique, si divers, de la philosophie. Il apparaît à cet égard qu’une bonne voie pour « apprendre à philosopher » est de lire les philosophes en pensant avec eux ; il s’agit de pratiquer un apprentissage historique raisonné de la philosophie : cela a pour effet de développer des habitudes critiques, car la philosophie qui peut contribuer au progrès, c’est celle qui puise dans les ressources de la critique.</alinea>
+      </para>
+    </section1>
+  </corps>
+  <partiesann>
+    <grnote>
+      <note id="sdfootnote1sym">
+        <no>1</no>
+        <alinea>
+	Il est ici question de <marquage typemarq="italique">concept majeur</marquage> et de <marquage typemarq="italique">concept mineur</marquage> dans le strict cadre de l’analyse du libellé du thème « Philosophie et histoire », pour souligner que c’est de l’importance historique de la philosophie qu’on se préoccupe : on ne se demande pas si la <marquage typemarq="italique">science historique</marquage>, dont il n’est d’ailleurs ici question qu’indirectement, est épistémologiquement inférieure – ou égale, ou supérieure – à la philosophie, mais si l’activité philosophique peut influencer l’histoire, au sens de réalité historique, dont l’historien est le savant.</alinea>
+      </note>
+      <note id="sdfootnote2sym">
+        <no>2</no>
+        <alinea>
+	Raymond Aron, « La philosophie de l’histoire », in <marquage typemarq="italique">Dimensions de la conscience historique</marquage>, Plon, Paris, 1985, p. 12.</alinea>
+      </note>
+      <note id="sdfootnote3sym">
+        <no>3</no>
+        <alinea>
+	<marquage typemarq="italique">Ibid</marquage>., p. 11.</alinea>
+      </note>
+      <note id="sdfootnote4sym">
+        <no>4</no>
+        <alinea>
+	Les deux autres précepteurs, qui prirent Alexandre en charge avant Aristote, furent Lysimaque, le spécialiste d’Homère qui cultiva la mémoire du prince, et Léonidas, qui l’exerça à l’endurance physique et forgea sa volonté d’airain (cf. Maurice Denon, <marquage typemarq="italique">Alexandre le grand</marquage>, préface de Hubert Juin et avant-propos de Pierre Cuendet, Édito-Service, Genève, 1983).</alinea>
+      </note>
+      <note id="sdfootnote5sym">
+        <no>5</no>
+        <alinea>
+	Avec un livre comme la <marquage typemarq="italique">Poétique</marquage> d’Aristote, on entre dans l’histoire de la Grèce antique par le biais de la théorie de l’art (cf. Aristote, <marquage typemarq="italique">Poétique</marquage>, traduction de J. Hardy, préface de Philippe Beck, Gallimard, Paris, 1976). Quoique Aristote y traite aussi de la peinture (<marquage typemarq="italique">op. cit</marquage>., 6, 1450a, p. 89 : « Polygnote est un bon peintre de caractères tandis que la peinture de Zeuxis n’a aucun trait moral »), c’est l’art poétique qu’il étudie dans ce livre ; la <marquage typemarq="italique">poésie</marquage> y renvoie au genre général de la <marquage typemarq="italique">fable</marquage>, et désigne un domaine vaste, qui englobe l’épopée, la tragédie, la comédie, la musique et la danse entendue dans un sens inhabituel pour notre « culture moderne », mais connu dans la culture traditionnelle africaine, où elle apparaît sous la forme de l’art d’imiter les caractères, les passions et les actions « à l’aide du rythme sans mélodie » (<marquage typemarq="italique">Ibid</marquage>., 1447a, p. 78).</alinea>
+      </note>
+      <note id="sdfootnote6sym">
+        <no>6</no>
+        <alinea>
+	Raymond Aron, « La philosophie de l’histoire », in <marquage typemarq="italique">Dimension de la conscience historique</marquage>, p. 12.</alinea>
+      </note>
+      <note id="sdfootnote7sym">
+        <no>7</no>
+        <alinea>
+	Kant, <marquage typemarq="italique">Réponse à la question : Qu’est-ce que les Lumières ?</marquage>, in <marquage typemarq="italique">La philosophie de l’histoire</marquage> (opuscules), édition étable et traduite par Stéphane Piobetta, Denoël, Paris, 1985, p. 58 : « […] ce siècle est le siècle des lumières, ou siècle de Frédéric ». Ainsi justifie-t-il son hommage : « un prince qui ne trouve pas indigne de lui de dire qu’il tient pour un devoir de ne rien prescrire dans les affaires de la religion aux hommes, mais de leur laisser en cela pleine liberté, […] est lui-même éclairé : et il mérite d’être honoré par ses contemporains et la postérité reconnaissante, eu égard à ce que le premier il sortit le genre humain de la minorité, du moins dans un sens gouvernemental, et qu’il laissa chacun libre de se servir, en tout ce qui est affaire de conscience, de sa propre raison » (<marquage typemarq="italique">Ibid</marquage>.).</alinea>
+      </note>
+      <note id="sdfootnote8sym">
+        <no>8</no>
+        <alinea>
+	Raymond Aron, « Évidence et inférence », in <marquage typemarq="italique">Dimensions de la conscience historique</marquage>, p. 52.</alinea>
+      </note>
+      <note id="sdfootnote9sym">
+        <no>9</no>
+        <alinea>
+	<marquage typemarq="italique">Ibid</marquage>.</alinea>
+      </note>
+      <note id="sdfootnote10sym">
+        <no>10</no>
+        <alinea>
+	Sakombi Inango, cité par Youssouph Mbargane Guissé dans <marquage typemarq="italique">Philosophie, culture et devenir social en Afrique noire</marquage>, Les Nouvelles Éditions Africaines, Dakar-Abidjan-Lomé, 1979, p. 32.</alinea>
+      </note>
+      <note id="sdfootnote11sym">
+        <no>11</no>
+        <alinea>
+	Aristote, <marquage typemarq="italique">Poétique</marquage>, 6, 1447a, p. 78.</alinea>
+      </note>
+      <note id="sdfootnote12sym">
+        <no>12</no>
+        <alinea>
+	Raymond Aron, « La philosophie de l’histoire », in <marquage typemarq="italique">Dimensions de la conscience historique</marquage>, p. 15.</alinea>
+      </note>
+      <note id="sdfootnote13sym">
+        <no>13</no>
+        <alinea>
+	Raymond Aron, <marquage typemarq="italique">Mémoires</marquage>, Julliard, Paris, 1983, p. 54.</alinea>
+      </note>
+      <note id="sdfootnote14sym">
+        <no>14</no>
+        <alinea>
+	Descartes, <marquage typemarq="italique">Méditations métaphysiques</marquage>, texte, traduction, objections et réponses par Florence Khodoss, PUF, 8 édition, Paris, IV, p. 88.</alinea>
+      </note>
+      <note id="sdfootnote15sym">
+        <no>15</no>
+        <alinea>
+	Kant, <marquage typemarq="italique">Critique de la raison pure</marquage>, traduction par A. Tremesaygues et B. Pacaud, préface de Ch. Serrus, Quadrige/PUF, Paris, 1986, Thèse de la troisième antinomie des idées transcendantales, p. 348. La distinction entre les deux types de causalité est reprise par Kant dans la <marquage typemarq="italique">Critique de la faculté de juger</marquage> : « […] la possibilité des choses d’après les lois de la nature se distingue, d’après ses principes, de la possibilité des choses selon les lois de la liberté » (traduction inédite par Alain Renaut, Aubier, Paris, 1995, première introduction, I, Remarque, p. 89).</alinea>
+      </note>
+      <note id="sdfootnote16sym">
+        <no>16</no>
+        <alinea>
+	<marquage typemarq="italique">Id</marquage>., <marquage typemarq="italique">Critique de la raison pure</marquage>, Analytique des principes, chapitre II, première analogie, p. 177. Autrement dit, si on ne <marquage typemarq="italique">suppose</marquage> pas que l’objet étudié a <marquage typemarq="italique">quelque chose de permanent</marquage> par quoi il se distingue des autres objets, si on suppose que tout en lui est <marquage typemarq="italique">changeant</marquage>, alors il n’est pas connaissable – ce n’est pas un <marquage typemarq="italique">objet</marquage>.</alinea>
+      </note>
+      <note id="sdfootnote17sym">
+        <no>17</no>
+        <alinea>
+	<marquage typemarq="italique">Ibid</marquage>., p. 182.</alinea>
+      </note>
+      <note id="sdfootnote18sym">
+        <no>18</no>
+        <alinea>
+	<marquage typemarq="italique">Id</marquage>., <marquage typemarq="italique">op. cit</marquage>., préface de la seconde édition, p. 17.</alinea>
+      </note>
+      <note id="sdfootnote19sym">
+        <no>19</no>
+        <alinea>
+	<marquage typemarq="italique">Id</marquage>., <marquage typemarq="italique">op. cit</marquage>., II, chapitre III, Architectonique de la raison pure, p. 558 : « Par <marquage typemarq="italique">architectonique</marquage> j’entends l’art des systèmes. Comme l’unité systématique est ce qui convertit la connaissance vulgaire en science, c’est-à-dire qui coordonne en système un simple agrégat de connaissances, l’architectonique est donc la théorie de ce qu’il y a de scientifique dans notre connaissance en général et elle appartient nécessairement à la méthodologie ». En ce sens, quelque efficaces soient-ils, les « savoirs locaux », par exemple celui dont fait preuve le « guérisseur traditionnel » qui connaît l’usage des plantes grâce auxquelles on peut traiter telle ou telle maladie, ne sont pas scientifiques. Parler de « l’épistémologie africaine » pour désigner la réflexion sur ces « savoirs locaux » n’a donc pas de sens. La vérité, c’est que les tenants d’une telle position, qui critiquent l’ethnophilosophie par imitation, sont des ethnophilosophes inconséquents, c’est-à-dire honteux de se reconnaître comme tels.</alinea>
+      </note>
+      <note id="sdfootnote20sym">
+        <no>20</no>
+        <alinea>
+	Kant, <marquage typemarq="italique">Critique de la faculté de juger</marquage>, première introduction, p. 100.</alinea>
+      </note>
+      <note id="sdfootnote21sym">
+        <no>21</no>
+        <alinea>
+	Alexandre Kojève, <marquage typemarq="italique">L</marquage>’<marquage typemarq="italique">idée de déterminisme dans la physique classique et dans la philosophie moderne</marquage>, présentation de Dominique Auffret, Le Livre de Poche, Librairie générale française, 1990, p. 63.</alinea>
+      </note>
+      <note id="sdfootnote22sym">
+        <no>22</no>
+        <alinea>
+	Raymond Aron, « Thucydide et le récit historique », in <marquage typemarq="italique">Dimensions de la conscience historique</marquage>, pp. 132-133. Dans <marquage typemarq="italique">La philosophie critique de l’histoire</marquage> (Librairie philosophique J. Vrin, Paris, 1969), Aron montre à quel point les néo-kantiens allemands, dans leurs théories de la science historique, ont poussé loin l’imitation de la théorie kantienne de la connaissance. Ainsi (p. 16), Médius reproduit purement et simplement l’Analytique transcendantale : il donne « la puissance historique (<marquage typemarq="italique">historische</marquage> <marquage typemarq="italique">Potenz</marquage>) », en réalité le pouvoir de réaliser des œuvres, pour l’analogue historique de la catégorie dynamique de <marquage typemarq="italique">substance</marquage>. Si ce <marquage typemarq="italique">pouvoir</marquage> est en effet quelque chose d’<marquage typemarq="italique">inhérent </marquage>et de <marquage typemarq="italique">permanent</marquage> dans l’Homme, il reste qu’on ne peut pas savoir <marquage typemarq="italique">comment il peut se manifester</marquage> dans telles circonstances.</alinea>
+      </note>
+      <note id="sdfootnote23sym">
+        <no>23</no>
+        <alinea>
+	Kant, <marquage typemarq="italique">Critique de la raison pure</marquage>, Solution au troisième conflit des idées transcendantales, p. 395.</alinea>
+      </note>
+      <note id="sdfootnote24sym">
+        <no>24</no>
+        <alinea>
+	<marquage typemarq="italique">Id</marquage>., <marquage typemarq="italique">op. cit</marquage>., Introduire de la 2 édition, p. 31.</alinea>
+      </note>
+      <note id="sdfootnote25sym">
+        <no>25</no>
+        <alinea>
+	Platon, <marquage typemarq="italique">Le Banquet</marquage>, suivi du <marquage typemarq="italique">Phèdre</marquage>, traduction, notice et notes par Émile Chambry, Garnier-Flammarion, Paris, 1971, 204a-204, pp. 64-65 : « Aucun des dieux ne philosophe et ne désire devenir savant, car il l’est ; et, en général, si l’on est savant, on ne philosophe pas ; les ignorants non plus ne philosophent pas et ne désirent devenir savants […]. »</alinea>
+      </note>
+      <note id="sdfootnote26sym">
+        <no>26</no>
+        <alinea>
+	Kant, <marquage typemarq="italique">Critique de la raison pure</marquage>, Introduction à la Logique transcendantale, p. 76.</alinea>
+      </note>
+      <note id="sdfootnote27sym">
+        <no>27</no>
+        <alinea>
+	<marquage typemarq="italique">Ibid</marquage>.</alinea>
+      </note>
+      <note id="sdfootnote28sym">
+        <no>28</no>
+        <alinea>
+	Kant, <marquage typemarq="italique">Critique de la raison pure</marquage>, Solution au troisième conflit des idées transcendantales, p. 394.</alinea>
+      </note>
+      <note id="sdfootnote29sym">
+        <no>29</no>
+        <alinea>
+	<marquage typemarq="italique">Id</marquage>., <marquage typemarq="italique">op. cit</marquage>., Esthétique transcendantale,§1, p. 53.</alinea>
+      </note>
+      <note id="sdfootnote30sym">
+        <no>30</no>
+        <alinea>
+	<marquage typemarq="italique">Ibid</marquage>.</alinea>
+      </note>
+      <note id="sdfootnote31sym">
+        <no>31</no>
+        <alinea>
+	<marquage typemarq="italique">Ibid</marquage>.</alinea>
+      </note>
+      <note id="sdfootnote32sym">
+        <no>32</no>
+        <alinea>
+	<marquage typemarq="italique">Ibid</marquage>.</alinea>
+      </note>
+      <note id="sdfootnote33sym">
+        <no>33</no>
+        <alinea>
+	Kant, <marquage typemarq="italique">Que signifie s’orienter dans la pensée ?</marquage>, précédé de la <marquage typemarq="italique">Réponse à la question</marquage> : <marquage typemarq="italique">Qu’est-ce que les Lumières ? </marquage>et suivi de <marquage typemarq="italique">Vers la paix perpétuelle</marquage>, présentation de Françoise Proust, traduction Jean-François Poirier et de Françoise Proust, GF Flammarion, Paris, 1991, p. 60.</alinea>
+      </note>
+      <note id="sdfootnote34sym">
+        <no>34</no>
+        <alinea>
+	Kant, <marquage typemarq="italique">Rêves d’un visionnaire</marquage>, traduction et présentation par Francis Courtès, seconde édition, Librairie philosophique J. Vrin, Paris, 1977.</alinea>
+      </note>
+      <note id="sdfootnote35sym">
+        <no>35</no>
+        <alinea>
+	<marquage typemarq="italique">Id., op. cit</marquage>., II, p. 107.</alinea>
+      </note>
+      <note id="sdfootnote36sym">
+        <no>36</no>
+        <alinea>
+	Ibid.,p. 109.</alinea>
+      </note>
+      <note id="sdfootnote37sym">
+        <no>37</no>
+        <alinea>
+	<marquage typemarq="italique">Op. cit </marquage>.  ,Avertissement, p. 48.</alinea>
+      </note>
+      <note id="sdfootnote38sym">
+        <no>38</no>
+        <alinea>
+	Kant, <marquage typemarq="italique">Critique de la raison</marquage> <marquage typemarq="italique">pure</marquage>, Introduction de la 1 édition, p. 31.</alinea>
+      </note>
+      <note id="sdfootnote39sym">
+        <no>39</no>
+        <alinea>
+	Bachelard note par exemple que « c’est l’astronomie newtonienne qui a donné sa rigueur à la doctrine des catégories kantiennes, son absolu aux formes <marquage typemarq="italique">a priori</marquage> d’espace et de temps » (<marquage typemarq="italique">Le nouvel esprit scientifique</marquage>, 14 édition, PUF, Paris, chap. V, p. 104).</alinea>
+      </note>
+      <note id="sdfootnote40sym">
+        <no>40</no>
+        <alinea>
+	Kant, <marquage typemarq="italique">Critique de la raison pure</marquage>, préface de la 1 édition, pp. 6-7.</alinea>
+      </note>
+      <note id="sdfootnote41sym">
+        <no>41</no>
+        <alinea>
+	Ce n’est pas un hasard historique si, au Cameroun, à un moment donné, tant de livres de philosophie ont été consacrés à la problématique de la gouvernance et de la moralité ; la liste ci-dessous citée n’est pas exhaustive : Lucien Ayissi, <marquage typemarq="italique">Corruption et gouvernance</marquage>, L’Harmattan, Paris, janvier 2008 ; <marquage typemarq="italique">Corruption et pauvreté</marquage>, L’Harmattan, Paris, novembre 2007 ; <marquage typemarq="italique">Gouvernance camerounaise et lutte contre la pauvreté. Interpellations éthiques et propositions politiques</marquage>, L’Harmattan, Paris, janvier 2009 ; Hubert Mono-Ndjana, <marquage typemarq="italique">Beauté et vertu du savoir. Esquisse d’une épistémétique</marquage>, Éditions du Carrefour, Yaoundé, 1999 ; <marquage typemarq="italique">Les chansons de Sodome et Gomorrhe. Analyse pour l’éthique</marquage>, Éditions du Carrefour, Yaoundé, 1998 ; Ebenezer Njoh-Mouellé, <marquage typemarq="italique">Discours sur la vie quotidienne</marquage>, Éditions Afrédit, Langres-Saints-Gréosmes, mars 2007 ; Joseph Ndzomo-Molé, <marquage typemarq="italique">La Soif des Grandeurs ou Le riche et les chiens errants</marquage>, tragi-comédie en cinq actes, Éditions Masseu, France, 2010 ; <marquage typemarq="italique">Autopsie de la ploutomanie et de l’esprit de jouissance. Essai sur la mentalité digesto-festive</marquage>, L’Harmattan, Paris, décembre 2013.</alinea>
+      </note>
+      <note id="sdfootnote42sym">
+        <no>42</no>
+        <alinea>
+	Hegel, <marquage typemarq="italique">Principes de la philosophie du droit ou Droit naturel et science de l’État en abrégé</marquage>, texte présenté, traduit et annoté par Robert Derathé, avec la collaboration de Jean-Paul Frick, seconde édition revue et augmentée, Librairie philosophique J. Vrin, Paris, 1982, préface, pp. 58-59.</alinea>
+      </note>
+      <note id="sdfootnote43sym">
+        <no>43</no>
+        <alinea>
+	Karl Marx et Friedrich Engels, <marquage typemarq="italique">L’idéologie allemande</marquage>, in <marquage typemarq="italique">Œuvres choisies</marquage>, Tome I, Les Éditions du progrès, Moscou, 1978, p. 21.</alinea>
+      </note>
+      <note id="sdfootnote44sym">
+        <no>44</no>
+        <alinea>
+	Kant, <marquage typemarq="italique">Critique de la faculté de juger</marquage>, première Introduction, II, p. 93.</alinea>
+      </note>
+      <note id="sdfootnote45sym">
+        <no>45</no>
+        <alinea>
+	Hegel, <marquage typemarq="italique">La phénoménologie de l’esprit</marquage>, traduction par Jean Hyppolite, Aubier, Éditions Montaigne, Paris, 1977, Tome I, préface, p. 5.</alinea>
+      </note>
+      <note id="sdfootnote46sym">
+        <no>46</no>
+        <alinea>
+	Les lois sont prises ici au sens strict où l’entend Rousseau (<marquage typemarq="italique">Du contrat social ou Principes du droit politique</marquage>, suivi du <marquage typemarq="italique">Discours sur les sciences et les arts</marquage> et du <marquage typemarq="italique">Discours</marquage> <marquage typemarq="italique">sur l’origine de l’inégalité parmi les hommes</marquage>, présentation de Henri Guillemin, Union Générale d’Éditions, Paris, 1973, Livre II, chap. VI). Rousseau définit les lois comme « des actes de la volonté générale » (p. 98), ou encore « des registres de nos volontés » (p. 99). La perversion des mentalités par les lois est donc, <marquage typemarq="italique">stricto sensu</marquage>, un scénario logiquement absurde, puisque le peuple ne peut pas se prescrire des lois suicidaires, des lois qui l’empêchent de <marquage typemarq="italique">subsister</marquage>, qui font obstacle à sa <marquage typemarq="italique">souveraineté</marquage>, c’est-à-dire à l’exercice de la volonté générale. En effet, dit Rousseau (<marquage typemarq="italique">Ibid</marquage>., pp. 98-99), « il ne faut plus se demander […] si la loi peut être injuste, puisque nul n’est injuste envers lui-même », car, dit-il encore, « toute loi que le peuple en personne n’a pas ratifiée est nulle ; ce n’est point une loi » (<marquage typemarq="italique">op. cit</marquage>., Livre II, chap. XV, p. 166). C’est donc à dire que les <marquage typemarq="italique">registres</marquage> ou les <marquage typemarq="italique">actes</marquage> de la <marquage typemarq="italique">volonté particulière</marquage> de <marquage typemarq="italique">l’homme fort</marquage> d’un régime ne sont point des lois. Ils peuvent cependant, sous l’étiquette usurpée de <marquage typemarq="italique">lois</marquage>, produire des effets pervers, provoquer la perversion des mentalités, comme, en Corse, la tradition légale de la vengeance, la <marquage typemarq="italique">vendetta</marquage> ; c’était là, dit Rousseau (<marquage typemarq="italique">Projet de constitution pour la Corse</marquage>, in <marquage typemarq="italique">Écrits politiques de Rousseau</marquage>, édition, introduction, commentaires, notes, chronologie et bibliographie par Gérard Mairet, Le Livre de poche, Classiques de philosophie, Paris, 1992), « un artifice de leurs maîtres pour les rendre faibles et dépendants » (p. 384). Plutôt que de réprimer le meurtre, les Génois en effet firent de la vengeance un droit que l’on pouvait acquérir moyennant payement d’une taxe officielle ; et, comme on peut le lire dans <marquage typemarq="italique">Colomba</marquage> de Mérimée, celui qui ne vengeait pas dans le sang le meurtre dont un des siens avait été la victime devenait la risée de la région : « Qui pourrait n’être pas saisi d’horreur contre un Gouvernement barbare qui, pour voir ces infortunés s’entr’égorger les uns les autres, n’épargnait aucun soin pour les y exciter ? Le meurtre n’était pas puni ; que dis-je, il était récompensé ; le prix du sang était l’un des revenus de la République ; il fallut que les malheureux Corses, pour éviter une destruction totale, achetassent la grâce d’être désarmés » (<marquage typemarq="italique">Ibid</marquage>., p. 379).</alinea>
+      </note>
+      <note id="sdfootnote47sym">
+        <no>47</no>
+        <alinea>
+	<marquage typemarq="italique">Feyman</marquage>, à partir duquel est formé <marquage typemarq="italique">feymania</marquage>, est un camerounisme désignant l’escroc professionnel et mégalomane qui s’enrichit aux dépens de l’État, et qui n’a pour ressource que son intelligence de fourbe, à la manière du Scapin de Molière dans <marquage typemarq="italique">Les fourberies de Scapin</marquage>, à ceci près que Scapin, lui, avait mis son industrie de fourbe au service d’une bonne cause : escroquer un père avare et tyran pour sauver l’amour légitime d’un fils en danger de perdre l’élue de son cœur.</alinea>
+      </note>
+      <note id="sdfootnote48sym">
+        <no>48</no>
+        <alinea>
+	Platon, <marquage typemarq="italique">La République</marquage>, introduction, traduction et notes par Robert Bacou, Garnier-Flammarion, Paris, 1966, Livre VIII, 545a-546b, p. 305.</alinea>
+      </note>
+      <note id="sdfootnote49sym">
+        <no>49</no>
+        <alinea>
+	<marquage typemarq="italique">Ibid</marquage>., 547c-548c, p. 307. </alinea>
+      </note>
+      <note id="sdfootnote50sym">
+        <no>50</no>
+        <alinea>
+	Raymond Aron, « La notion du sens de l’histoire », in <marquage typemarq="italique">Dimensions de la conscience historique</marquage>, p. 38.</alinea>
+      </note>
+      <note id="sdfootnote51sym">
+        <no>51</no>
+        <alinea>
+	Kant, <marquage typemarq="italique">Réponse à la question : Qu’est-ce que les Lumières ?</marquage>, p. 43 : « <marquage typemarq="italique">Les Lumières, c’est la sortie de l’homme de l’état de tutelle dont il est lui-même responsable</marquage>. L’état de tutelle est l’incapacité de se servir de son entendement sans l’aide d’un autre. On est soi-même responsable de cet état de tutelle quand la cause tient non pas à une insuffisance de l’entendement mais à une insuffisance dans la résolution de s’en servir sans la conduite d’un autre. <marquage typemarq="italique">Sapere aude</marquage> ! Aie le courage de te servir de ton propre entendement ! Voilà la devise des Lumières ».</alinea>
+      </note>
+      <note id="sdfootnote52sym">
+        <no>52</no>
+        <alinea>
+	Descartes, <marquage typemarq="italique">Discours de la méthode</marquage>, suivi des <marquage typemarq="italique">Méditations métaphysiques</marquage>, présentation et annotations par François Misrachi, Union Générale d’Éditions, Paris, 1973, IV, p. 62 : « Et remarquant que cette vérité : <marquage typemarq="italique">je pense, donc je suis</marquage>, était si ferme et si assurée que toutes les plus extravagantes suppositions des sceptiques n’étaient capables de l’ébranler, je jugeai que je pouvais la prendre, sans scrupule, pour le premier principe de la philosophie que je cherchais. » Il dit encore : « je connus de là que j’étais une substance dont toute l’essence ou nature n’est que de penser, et qui, pour être, n’a besoin d’aucun lieu, ni ne dépend d’aucune chose matérielle » (<marquage typemarq="italique">Ibid</marquage>.). Ces déclarations, de toute évidence, ne pouvaient pas être rassurantes pour l’Église qui eût sans doute accordé sa sainte approbation aux propositions du genre : <marquage typemarq="italique">je connus de là que j’étais une substance dont toute l’essence ou nature n’est que de croire</marquage>, ou encore : <marquage typemarq="italique">et remarquant cette vérité</marquage> : <marquage typemarq="italique">je crois, donc je suis</marquage>, <marquage typemarq="italique">était si ferme et si assurée que toutes les plus extravagantes suppositions des sceptiques n’étaient capables de l’ébranler, je jugeai que je pouvais la prendre, sans scrupule, pour le premier principe de la philosophie que je cherchais</marquage>. D’où l’interprétation dont la pensée de Descartes est ici l’objet : le <marquage typemarq="italique">cogito, ergo sum</marquage> est la réplique polémique implicite du <marquage typemarq="italique">credo, ergo sum</marquage>.</alinea>
+      </note>
+      <note id="sdfootnote53sym">
+        <no>53</no>
+        <alinea>
+	Meinrad Hebga, <marquage typemarq="italique">La rationalité d’un discours africain sur les phénomènes paranormaux</marquage>, L’Harmattan, Ouverture philosophique, Paris, 1988.</alinea>
+      </note>
+      <note id="sdfootnote54sym">
+        <no>54</no>
+        <alinea>
+	<marquage typemarq="italique">Id., op. cit, </marquage>. p. 130.</alinea>
+      </note>
+      <note id="sdfootnote55sym">
+        <no>55</no>
+        <alinea>
+	<marquage typemarq="italique">Ibid</marquage>., p. 129.</alinea>
+      </note>
+      <note id="sdfootnote56sym">
+        <no>56</no>
+        <alinea>
+	Marcien Towa, <marquage typemarq="italique">Essai sur la problématique philosophique dans l’Afrique actuelle</marquage>, Éditions CLE, troisième édition, 1981, Yaoundé, p. 32.</alinea>
+      </note>
+      <note id="sdfootnote57sym">
+        <no>57</no>
+        <alinea>
+	Raymond Aron, « Thucydide et le récit historique », in <marquage typemarq="italique">Dimensions de la conscience historique</marquage>, p. 130.</alinea>
+      </note>
+      <note id="sdfootnote58sym">
+        <no>58</no>
+        <alinea>
+	Gaston Bachelard, <marquage typemarq="italique">La formation de l’esprit scientifique. Contribution à une psychanalyse de la connaissance objective</marquage>, Librairie philosophique J. Vrin, seizième tirage, Paris, 1999, p. 13 : « […] c’est dans l’acte même de connaître, intimement, qu’apparaissent, par une sorte de nécessité fonctionnelle, des lenteurs et des troubles. C’est là que nous décèlerons des causes d’inertie que nous appellerons obstacles épistémologiques ».</alinea>
+      </note>
+      <note id="sdfootnote59sym">
+        <no>59</no>
+        <alinea>
+	Kant, <marquage typemarq="italique">Critique de la raison pure</marquage>, II, Architectonique de la raison pure, p. 560.</alinea>
+      </note>
+      <note id="sdfootnote60sym">
+        <no>60</no>
+        <alinea>
+	<marquage typemarq="italique">Ibid</marquage>.</alinea>
+      </note>
+      <note id="sdfootnote61sym">
+        <no>61</no>
+        <alinea>
+	Kant, <marquage typemarq="italique">Prolégomènes à toute métaphysique</marquage> <marquage typemarq="italique">future qui pourra se présenter comme science,</marquage> traduit par Louis Guillermit, Introduction de Jules Vuillemin, Librairie philosophique J. Vrin, Paris, 2001, p. 13.</alinea>
+      </note>
+      <note id="sdfootnote62sym">
+        <no>62</no>
+        <alinea>
+	<marquage typemarq="italique">Id</marquage>., <marquage typemarq="italique">Critique de la raison pure</marquage>, II, Architectonique de la raison pure, p. 561. Entre « on ne peut […] apprendre qu’à philosopher » et « on ne peut qu’apprendre à philosopher », certains ont cru et dit qu’il y avait un conflit de traductions ; il s’agit en réalité de deux passages et de deux paragraphes différents dans la même page : « Jusqu’ici on ne peut apprendre aucune philosophie ; car où est-elle, qui la possède et à quoi peut-on la connaître ? On ne peut qu’apprendre à philosopher, c’est-à-dire à exercer le talent de la raison dans l’application de ses principes généraux à certaines tentatives qui se présentent, mais toujours avec la réserve du droit qu’a la raison de rechercher ces principes eux-mêmes à leurs sources, et de les confirmer ou de les rejeter » (<marquage typemarq="italique">Loc. cit</marquage>.).</alinea>
+      </note>
+      <note id="sdfootnote63sym">
+        <no>63</no>
+        <alinea>
+	Hegel, <marquage typemarq="italique">La phénoménologie de l’esprit</marquage>, Tome I, préface, pp. 8-9. Il dit encore : « Les pensées vraies et la pénétration scientifique peuvent seulement se gagner par le travail du concept. Le concept seul peut produire l’universalité du savoir » (<marquage typemarq="italique">Ibid</marquage>., p. 60) ; ou encore : « Je pense […] que tout ce qu’il y a de bon dans la philosophie de notre temps pose sa propre valeur dans la scientificité, et que […] c’est seulement par sa scientificité que ce qu’il y a de bon se met en valeur » (<marquage typemarq="italique">Ibid</marquage>., p. 61).</alinea>
+      </note>
+      <note id="sdfootnote64sym">
+        <no>64</no>
+        <alinea>
+	L’ethnophilosophie, vis-à-vis de la culture africaine traditionnelle, s’inscrit dans la logique de la réhabilitation-à-tout-prix, elle procède de la fascination naïve de l’histoire africaine. Fabien Eboussi-Boulaga écrit à propos de l’ethnophilosophie <marquage typemarq="italique">(La crise du Muntu. Authenticité  africaine et philosophie</marquage>, Présence Africaine, Paris, 1977, p. 7) : « Celle-ci se présente comme une plaidoirie ou une apologétique; son arme est la rhétorique qui vise à la vraisemblance. » C’est que l’ethnophilosophie repose sur le présupposé d’une philosophie implicite, ou, comme le dit Paulin J. Hountondji, sur l’hypothèse d’une « vision du monde collective » improprement appelée « philosophie » (<marquage typemarq="italique">Sur la « philosophie africaine ». Critique de l’ethnophilosophie</marquage>, François Maspero, Paris, 1977, I, p. 33, note de l’auteur). Hountondji définit encore l’ethnophilosophie : « recherche qui repose, en tout ou partie, sur l’hypothèse d’une telle vision du monde, essai de reconstitution d’une “philosophie’ collective supposée » (<marquage typemarq="italique">Ibid</marquage>.).</alinea>
+      </note>
+      <note id="sdfootnote65sym">
+        <no>65</no>
+        <alinea>
+	Hegel, <marquage typemarq="italique">La phénoménologie de l’esprit</marquage>, préface, pp. 57-58.</alinea>
+      </note>
+      <note id="sdfootnote66sym">
+        <no>66</no>
+        <alinea>
+	 Kant, <marquage typemarq="italique">Critique de la raison pure</marquage>, II, Discipline de la raison pure, p. 493.</alinea>
+      </note>
+    </grnote>
+  </partiesann>
+</article>
