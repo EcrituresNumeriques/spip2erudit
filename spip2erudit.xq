@@ -616,7 +616,7 @@ declare function figure($node as element(spip:figure)+, $options as map(*)) {
            </legende>
       else () }
     <objetmedia flot="bloc">
-      <image id="{$node/@src}" typeimage="figure"/>
+      <image id="{$node/spip:img/@src}" typeimage="figure"/>
     </objetmedia>
   </figure>
 };
