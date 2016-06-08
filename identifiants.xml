@@ -3,7 +3,7 @@
 <!-- 1028805ar
 1028806ar 1028807ar 1028808ar 1028809ar 1028810ar 1028811ar 1028812ar 1028813ar 1028814ar 1028815ar 1028816ar 1028817ar 1028818ar 1028819ar 1028820ar 1028821ar 1028822ar 1028823ar 1028824ar -->
 <livraisons xmlns="http://sens-public.org/sp/">
-	<!--<livraison id="sp01945">
+	<livraison id="sp01945">
 		<article n="1" id="1028805ar">1133</article>
 		<article n="2" id="1028806ar">1139</article>
 		<article n="3" id="1028807ar">1136</article>
@@ -13,7 +13,6 @@
 		<article n="7" id="1028811ar">1138</article>
 	</livraison>
 	<livraison id="sp01946">
-		<id></id>
 		<article n="1" id="1028812ar">1090</article>
 		<article n="2" id="1028813ar">1145</article>
 		<article n="3" id="1028814ar">1099</article>
@@ -25,7 +24,7 @@
 		<article n="9" id="1028820ar">990</article>
 		<article n="10" id="1028821ar">997</article>
 		<article n="11" id="1028822ar">1123</article>
-		<!-\- varia -\->
+		<!-- varia -->
 		<article n="12" id="1907ear">1178</article>
 		<article n="12" id="1906ear">1176</article>
 		<article n="14" id="1902ear">1174</article>
@@ -46,7 +45,7 @@
 		<article n="4" id="1913ear">1184</article>
 		<article n="5" id="1905ear">1175</article>
 		<article n="6" id="1897ear">1169</article>
-	<!-\- varia -\->
+	<!-- varia -->
 		<article n="7" id="1914ear">1187</article>
 		<article n="8" id="1223ear">1185</article>
 		<article n="9" id="1912ear">1183</article>
@@ -54,7 +53,7 @@
 		<article n="11" id="1911ear">1181</article>
 		<article n="12" id="1909ear">1180</article>
 		<article n="13" id="1908ear">1179</article>	
-	</livraison>-->
+	</livraison>
 	<!-- Varia : 1124, 1110, 1131, 1132, 1169 -->
 	<livraison id="sp064">
     <article n="1" id="1872ear">1124</article>
