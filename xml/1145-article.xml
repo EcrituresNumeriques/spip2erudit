@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028813ar" typeart="autre" lang="fr" ordseq="1">
+  <admin>
+    <infoarticle>
+      <idpublic scheme="doi">null</idpublic>
+      <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
+        <descripteur>Société numérique</descripteur>
+        <descripteur>Arts et littérature</descripteur>
+      </grdescripteur>
+      <nbpara>18</nbpara>
+      <nbmot>2272</nbmot>
+      <nbfig>5</nbfig>
+      <nbtabl>0</nbtabl>
+      <nbimage>5</nbimage>
+      <nbaudio>0</nbaudio>
+      <nbvideo>0</nbvideo>
+      <nbrefbiblio>0</nbrefbiblio>
+      <nbnote>22</nbnote>
+    </infoarticle>
+    <revue id="sp01868" lang="fr">
+      <titrerev>Sens public</titrerev>
+      <titrerevabr>SP</titrerevabr>
+      <idissnnum>2104-3272</idissnnum>
+      <directeur sexe="masculin">
+        <nompers>
+          <prenom>Marcello</prenom>
+          <nomfamille>Vitali-Rosati</nomfamille>
+        </nompers>
+      </directeur>
+      <redacteurchef typerc="invite" sexe="masculin" idrefs="th1090">
+        <fonction lang="fr"/>
+        <nompers>
+          <prenom>Michael E.</prenom>
+          <nomfamille>Sinatra</nomfamille>
+        </nompers>
+      </redacteurchef>
+      <redacteurchef typerc="invite" sexe="masculin" idrefs="th1090">
+        <fonction lang="fr"/>
+        <nompers>
+          <prenom>Stéfan</prenom>
+          <nomfamille>Sinclair</nomfamille>
+        </nompers>
+      </redacteurchef>
+    </revue>
+    <numero id="sp01946">
+      <pub>
+        <annee>2015</annee>
+      </pub>
+      <pubnum>
+        <date typedate="publication">2015-02-23</date>
+      </pubnum>
+      <grtheme id="th1090">
+        <theme>Repenser le numérique au 21ème siècle</theme>
+      </grtheme>
+    </numero>
+    <editeur>
+      <nomorg>Département des littératures de langue française</nomorg>
+    </editeur>
+    <prod>
+      <nomorg>Sens public</nomorg>
+    </prod>
+    <prodnum>
+      <nomorg>Sens public</nomorg>
+    </prodnum>
+    <diffnum>
+      <nomorg>Sens public</nomorg>
+    </diffnum>
+    <histpapier>
+      <alinea>néant</alinea>
+    </histpapier>
+    <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
+    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+  </admin>
+  <liminaire>
+    <grtitre>
+      <titre>L’Hypertexte et ses prédécesseurs : cartographier un jardin aux sentiers qui bifurquent</titre>
+    </grtitre>
+    <grauteur>
+      <auteur id="spAuthor1115">
+        <nompers>
+          <prenom>Gaëlle</prenom>
+          <nomfamille>Debeaux</nomfamille>
+        </nompers>
+      </auteur>
+    </grauteur>
+    <resume lang="fr">
+      <alinea> Ce travail interroge l’activité de lecture d’œuvres traditionnelles et numériques pratiquant la multiplication des récits à partir de la présence de cartes et schémas représentant la fiction. Ces œuvres, en particulier les hypertextes de fiction, offrent souvent des graphiques de leur propre construction, permettant une nouvelle appréhension de l’histoire. Elles ouvrent sur une nouvelle forme de lecture, crayon à la main, afin de bâtir un plan permettant de comprendre la succession et les enchâssements de l’histoire. Ainsi, ces textes multipliant les récits invitent le lecteur à figurer une carte, et postulent une appréhension de l’histoire inscrite dans un espace plutôt que dans une continuité temporelle.</alinea>
+    </resume>
+    <grmotcle lang="fr">
+      <motcle>focus</motcle>
+      <motcle>Monde numérique</motcle>
+      <motcle>Arts et lettres</motcle>
+      <motcle>Repenser le numérique au 21e siècle</motcle>
+    </grmotcle>
+  </liminaire>
+  <corps>
+    <section1>
+      <para>
+        <alinea>
+	Les textes qui multiplient les récits sont des classiques de la littérature depuis déjà fort longtemps : les <marquage typemarq="italique">Mille et une nuits</marquage>, le <marquage typemarq="italique">Décaméron</marquage>, <marquage typemarq="italique">Tristram Shandy</marquage>, pour ne citer que les plus évidentes, sont des œuvres fondamentales d’une histoire du récit enchâssé qui est encore vivante aujourd’hui. L’avènement des technologies informatiques et d’Internet nous amène à porter un nouveau regard sur cette manière de raconter des histoires : en effet, l’émergence de l’hypertexte de fiction dans les années 1980 conduit à reconsidérer ces textes, armé des compétences spécifiques que permet d’acquérir la littérature numérique. C’est une de ces compétences que nous allons envisager dans ce propos : l’appréhension d’une fiction, d’un récit (en précisant d’emblée que la notion de narration pose problème concernant l’hypertexte), de manière spatiale plutôt que temporelle, à travers l’usage de la carte. </alinea>
+      </para>
+      <para>
+        <alinea>
+	Nous employons le terme de <marquage typemarq="italique">carte</marquage> de manière générale en tant que « représentation conventionnelle d’un espace […] préexistant<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi> ». La carte permet de le « matérialiser<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> », de le mettre en forme : de lui conférer une existence stable. Comme le dit Christian Jacob, « la finalité des cartes réside dans la mise en ordre de l’expérience de l’espace, dans la construction de repères stables qui viennent baliser la dissémination, l’indéfini, l’inorganisé<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi> ». Cette construction cartographique peut tout aussi bien prendre la forme d’un plan, d’un diagramme ou d’un schéma. Carte, plan, diagramme, schéma : nous ne distinguerons pas ici, pour une question de brièveté, ces différentes façons de représenter l’espace et son parcours : nous retiendrons principalement l’idée qu’il s’agit d’obtenir une représentation spatiale d’une fiction qui désoriente volontairement son lecteur. </alinea>
+      </para>
+      <para>
+        <alinea>
+	Les œuvres dont nous allons parler, qu’elles soient le fruit de la littérature traditionnelle (entendons par là qu’elles sont issues de l’édition papier et qu’elles se présentent comme des <marquage typemarq="italique">codex</marquage>) ou numérique, ont toutes en commun de raconter des histoires de manière ramifiée : le fil de l’intrigue est mis à mal par la diffraction<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi> des récits, de sorte que la logique de linéarité est contrecarrée par une approche en réseau. Il s’agira de comprendre le rôle de la carte dans ce type de récit, qu’elle soit fournie par l’auteur ou créée par le lecteur, et de mesurer la différence qu’elle met au jour entre la fiction traditionnelle et la fiction numérique. </alinea>
+      </para>
+      <para>
+        <alinea>
+	Notre réflexion se développera en trois temps : nous interrogerons d’abord les cartes proposées par les auteurs et leurs fonctions, puis nous nous concentrerons sur les spécificités de la carte hypertextuelle et à son interactivité ; enfin, nous explorerons l’activité du lecteur face à des textes qui l’obligent à cartographier son cheminement.</alinea>
+      </para>
+    </section1>
+    <section1>
+      <titre>
+	Les cartes d’auteurs</titre>
+      <para>
+        <alinea>
+	La représentation spatiale du récit est un phénomène présent tant dans la littérature traditionnelle que dans la littérature numérique. Dans les œuvres publiées sous format papier, la carte, qu’elle initie l’écriture du texte ou qu’elle intervienne <marquage typemarq="italique">a posteriori</marquage>, est souvent placée en annexe, comme dans une position seconde vis-à-vis du texte.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Selon la légende, Stevenson conçoit <marquage typemarq="italique">L’Ile aux trésors</marquage> à partir du dessin d’une carte imaginaire ; <marquage typemarq="italique">Le Seigneur des anneaux</marquage> propose une carte de son territoire fictif à partir d’esquisses de Tolkien ; mais ces cartes sont secondaires et présentées comme telles dans les éditions : on peut tout à fait suivre le fil du récit sans elles. Il en va sensiblement de même dans les œuvres multipliant les récits, même si l’usage qu’elles font de la carte est un peu différent. Dans <marquage typemarq="italique">La Vie mode d’emploi </marquage>de Georges Perec, le plan de l’immeuble dans lequel se situe la fiction n’est pas simplement une illustration de l’univers diégétique : il condense l’une des contraintes qui a présidé à l’écriture de l’œuvre. Il fonctionne en effet comme un bi-carré latin<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi> parcouru comme le plateau d’un échiquier par la figure du cavalier. Dans le même ordre d’idée, Italo Calvino conçoit les récits du <marquage typemarq="italique">Château des destins croisés</marquage> en disposant les cartes de tarots « de manière [qu’elles] constituent comme les scènes successives d’un récit pictographique<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi> » : « ainsi [il obtient] une sorte de mots croisés faits de figures au lieu de lettres, où en plus chaque séquence peut se lire dans les deux sens<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi> ». </alinea>
+      </para>
+      <figure>
+        <objetmedia flot="bloc">
+          <image id="" typeimage="figure"/>
+        </objetmedia>
+      </figure>
+      <figure>
+        <objetmedia flot="bloc">
+          <image id="" typeimage="figure"/>
+        </objetmedia>
+      </figure>
+      <para>
+        <alinea>
+	Le lecteur a accès au plan et au « mots croisés » de tarots : mais l’information y est tellement condensée que ces représentations ne facilitent pas la lecture. Plutôt pourrait-on dire que le texte apparait comme l’explicitation du système contenu dans le schéma, dans la carte.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Dans les hypertextes au contraire, l’auteur propose souvent la carte comme point de départ de la lecture. Comme le précise Jean Clément, « dans le dédale de l’hypertexte, [l’auteur] a besoin d’un fil d’Ariane ou d’une carte<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi> ». C’est le rôle de la carte cognitive proposée par exemple dans le logiciel <marquage typemarq="italique">Storyspace</marquage>. Dans <marquage typemarq="italique">253 </marquage>de Geoff Ryman (1998), l’auteur propose le “Journey Planner’ qui comporte 32 éléments portant des titres et reliés entre eux. </alinea>
+      </para>
+      <figure>
+        <objetmedia flot="bloc">
+          <image id="" typeimage="figure"/>
+        </objetmedia>
+      </figure>
+      <para>
+        <alinea>
+	Ce plan, qui reprend une caractéristique de l’univers diégétique en se présentant sous la forme d’un plan de circulation de métro, est comparable à un sommaire et propose un parcours de l’œuvre que le lecteur peut suivre. A tout moment, il peut y revenir grâce à un lien permanent au bas de chaque page. Cet exemple met en avant une différence fondamentale entre la carte d’un ouvrage papier et la carte d’un hypertexte : son interactivité. En effet, la carte d’un hypertexte est faite pour être utilisée par le lecteur et permet son interaction : c’est là son but premier.</alinea>
+      </para>
+    </section1>
+    <section1>
+      <titre>
+	L’interactivité de la carte</titre>
+      <para>
+        <alinea>
+	Ainsi, si la carte dans les œuvres papier illustre l’univers diégétique ou permet la synthèse des processus d’écriture (du moins dans une perspective oulipienne), dans l’hypertexte elle permet la navigation et postule une équivalence entre la lecture et le voyage (cf. « journey » dans 253 de Ryman) : elle fait partie du récit et devient un enjeu de la lecture en ce qu’elle guide le lecteur dans le foisonnement des textes. Car l’hypertexte propose plusieurs itinéraires dans les méandres de son (ses ?) récit(s). Espen Aarseth<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi> distingue les récits linéaires (si un seul chemin est possible entre A – le début du texte – et B – sa fin –, alors le récit est linéaire, quand bien même il serait fragmenté (dans cette perspective, <marquage typemarq="italique">Si par une nuit d’hiver un voyageur</marquage> d’Italo Calvino est un récit linéaire)), multi-linéaires (si plusieurs chemins sont possibles pour rejoindre le point B, mais qu’ils sont parallèles, alors nous sommes face à un cas de multi-linéarité (c’est le cas des romans-dont-vous-êtes-le-héros)) et non linéaires (si plusieurs chemins se croisent, alors nous avons plutôt affaire à des itinéraires (les chemins sont potentiels) : la carte devient extrêmement utile dans ce troisième cas de figure, où plusieurs routes se croisent et où est favorisé l’itinéraire parmi tous les chemins possibles. C’est bien ainsi que fonctionne l’hypertexte, défini par Jean Clément comme « un texte non linéaire qui peut être parcouru d’un fragment à l’autre grâce à des liens explicités<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi> ». </alinea>
+      </para>
+      <figure>
+        <objetmedia flot="bloc">
+          <image id="" typeimage="figure"/>
+        </objetmedia>
+      </figure>
+      <para>
+        <alinea>
+	Il y a donc plusieurs parcours possibles dans un hypertexte, induits par cette potentialité des chemins et par l’interactivité de l’œuvre elle-même. Il est évidemment possible de lire un livre traditionnel selon un ordre qui n’est pas prévu par l’auteur, mais cela relève de l’accidentel : dans l’hypertexte, cela fait partie du dispositif. La carte proposée par l’auteur est dès lors importante mais insuffisante : elle permet un parcours, elle n’est pas le seul parcours possible. Dans <marquage typemarq="italique">253</marquage> de Geoff Ryman, on peut accéder au texte à partir du plan du métro, mais aussi à partir d’un schéma des wagons du métro qui organise les passagers selon leur place. Là encore, plusieurs possibilités sont offertes au lecteur, qui peut lire les récits consacrés à chaque personnage de façon linéaire, en cliquant sur le lien « Next passenger », ou bien cliquer sur les liens présents dans les récits de chaque personnage. </alinea>
+      </para>
+      <para>
+        <alinea>
+	On souscrit donc au propos de Jean Clément lorsqu’il affirme que les cartes des hypertextes n’en sont que « la représentation symbolique. Car l’hypertexte n’est pas à lire, il est à écrire. Le sens n’y est pas institué une fois pour toute<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi> ». Autrement dit, face à la carte proposée par l’auteur, le lecteur doit construire la sienne. Nous sommes au cœur de ce qu’Espen Aarseth<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi> nomme la littérature ergodique, dans laquelle la traversée du texte demande un véritable effort, contrairement à la littérature traditionnelle qui ne demanderait qu’un effort limité (le mouvement des yeux et le fait de tourner les pages du livre). Cet effort consiste, pour le cas qui nous concerne, à concevoir sa propre carte, véritable « laboratoire […] au sein duquel le territoire est construit comme objet cognitif<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi> ». Le rôle du lecteur est plus important dans l’hypertexte parce qu’il est amené à créer en même temps qu’il lit : sa carte parachève l’œuvre, lui confère un sens, parfois même indépendamment de ce qu’avait pu prévoir l’auteur. </alinea>
+      </para>
+    </section1>
+    <section1>
+      <titre>
+	Le lecteur en cartographe</titre>
+      <para>
+        <alinea>
+	La carte est ainsi un élément fondamental de l’hypertexte car celui-ci, en remplaçant la structuration temporelle par une structuration spatiale (parce qu’il supprime le fil directeur de l’intrigue), invite à une exploration plus qu’à une véritable lecture. Jean Clément le dit bien, « en parcourant l’hypertexte, le lecteur a plus l’impression de visiter un univers romanesque fragmenté, non orienté et foisonnant que de suivre le fil d’une histoire<renvoi idref="sdfootnote14sym" typeref="note">14</renvoi> ». La vision du lecteur, plongé dans l’hypertexte, est toujours locale, son appréhension du texte toujours partielle ; c’est son regard qui constitue le centre de l’œuvre. La carte est le moyen privilégié de retrouver une vision surplombante, ainsi que de fixer un parcours qui permettrait une éventuelle relecture. La carte fait exister l’œuvre : comme le soutient Jean-Marc Besse, « la représentation graphique permet d’établir la réalité du fait en le stabilisant sous le regard<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi> ». Elle réalise un des multiples parcours potentiels contenus dans la virtualité de l’hypertexte. Elle est donc un point de vue sur l’œuvre, marqué par la subjectivité d’un lecteur qui a déambulé à son gré dans le texte. Face à la logique de la désorientation et de la frustration induite par les hypertextes, la carte permet de résumer un parcours et de le rendre reproductible, donc de permettre la relecture. Mémorielle (la carte semble être la seule forme possible que puisse prendre un résumé d’hypertexte) et projective (elle garde la trace des choix effectués et par là des éléments ignorés lors d’une première lecture, invitant à un nouveau cheminement), la carte est éminemment réflexive </alinea>
+      </para>
+      <para>
+        <alinea>
+	Italo Calvino, dans « Le Voyageur dans la carte », affirme que « le premier besoin de fixer les lieux sur la carte est lié au voyage : c’est le mémento de la succession des étapes, le tracé d’un parcours. Il s’agit donc d’une image linéaire<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi> » : la carte est « trace de temps<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi> ». Elle rétablit la linéarité perdue, ou plus exactement elle crée une linéarité absente, renouant avec les récits traditionnels. Cette linéarité peut n’être que celle de la lecture, ce qui ne lui confère pas le statut de narration ; mais elle peut aussi faire émerger des îlots de narration en faisant coïncider « nœuds » hypertextuels et nœuds de l’intrigue, c’est-à-dire faire naître une intrigue<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi>. Dans <marquage typemarq="italique">253</marquage> de Geoff Ryman, la lecture du texte consacré au passager 216, Sam Cruza, fonde une mini-intrigue schématisée de manière arborescente : en effet, le lecteur peut cliquer sur plusieurs liens dans le corps du texte qui le renvoient vers quatre personnages féminins, tous épris de Sam Cruza. La schématisation de ce parcours révèle une boucle, qui vient nouer l’intrigue de ce quintette amoureux. </alinea>
+      </para>
+      <figure>
+        <objetmedia flot="bloc">
+          <image id="" typeimage="figure"/>
+        </objetmedia>
+      </figure>
+      <para>
+        <alinea>
+	Le système ainsi ébauché est clos, avec un commencement et une fin dans le personnage de Sam Cruza (qui représente ici le nœud de cette mini-intrigue) : nous retrouvons ici ce qui caractérise l’intrigue et tout récit téléologique, la temporalité (comme le symbolisent les flèches).</alinea>
+      </para>
+      <para>
+        <alinea>
+	Ainsi, si « dans l’hypertexte, c’est l’espace et non le temps qui construit le récit<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi> », la cartographie de cet espace, gardant trace des itinéraires<renvoi idref="sdfootnote20sym" typeref="note">20</renvoi> accomplis par le lecteur, permet de retrouver une forme de temporalité nécessaire à la narration pour faire intrigue. Mais elle n’impose pas la temporalité, comme le ferait un roman traditionnel, car elle ne privilégie pas un unique parcours : comme on le constate sur le schéma, d’autres bifurcations sont possibles (schématisées par les flèches vertes), d’autres chemins n’ont pas été empruntés et pourront l’être à la lecture suivante.</alinea>
+      </para>
+    </section1>
+    <section1>
+      <titre>
+	Conclusion</titre>
+      <para>
+        <alinea>
+	Cartographier son parcours de lecteur entre dans la dialectique du fragment et de la totalité, qui joue à plein dans les fictions à récits multiples qui nous intéressent ici. Dessiner sa lecture, c’est saisir dans un ensemble ses hésitations, ses bifurcations, afin de pouvoir analyser dans sa globalité une fiction éclatée. L’Hypertexte impose une vision « déambulatoire<renvoi idref="sdfootnote21sym" typeref="note">21</renvoi> » mais la carte offre « le regard divin<renvoi idref="sdfootnote22sym" typeref="note">22</renvoi> » et surplombant nécessaire à l’appréhension du texte comme œuvre. Face à la complexité des fictions qui démultiplient leurs strates narratives, nous serions tentés de souscrire au propos de Christian Jacob dans <marquage typemarq="italique">L’Empire des cartes </marquage>: « Le dessin intervient là où la parole se montre impuissante<renvoi idref="sdfootnote23sym" typeref="note">23</renvoi> ». </alinea>
+      </para>
+      <para>
+        <alinea>
+	 </alinea>
+      </para>
+    </section1>
+  </corps>
+  <partiesann>
+    <grnote>
+      <note id="sdfootnote1sym">
+        <no>1</no>
+        <alinea>
+	 D’après la définition donnée par le projet « La Fin des cartes ? Territoires rêvés, territoires normalisés » de l’Université Paris I Panthéon Sorbonne (<liensimple xlink:type="simple" xlink:href="http://lafindescartes.net/ ">Voir en ligne</liensimple> [consulté le 22/07/14]). </alinea>
+      </note>
+      <note id="sdfootnote3sym">
+        <no>3</no>
+        <alinea>
+	 C. Jacob, <marquage typemarq="italique">L’Empire des cartes, op. cit.</marquage>, p. 188. </alinea>
+      </note>
+      <note id="sdfootnote4sym">
+        <no>4</no>
+        <alinea>
+	 R. Audet, « Roman éclaté ou diffraction narrative et textuelle ? Repères méthodologiques pour une poétique comparée », <marquage typemarq="italique">Voix et Images</marquage>, vol. 36, N°1, 2010, p. 13-26 (<liensimple xlink:type="simple" xlink:href="http://id.erudit.org/iderudit/045232ar">Voir en ligne</liensimple> [consulté le 13/05/14]).</alinea>
+      </note>
+      <note id="sdfootnote5sym">
+        <no>5</no>
+        <alinea>
+	 Voir le <marquage typemarq="italique">Cahier des charges de La Vie mode d’emploi</marquage>, Zulma et CNRS Editions, Paris, 1993.</alinea>
+      </note>
+      <note id="sdfootnote6sym">
+        <no>6</no>
+        <alinea>
+	 I. Calvino, « Note », <marquage typemarq="italique">Le Château des destins croisés</marquage>, Editions du Seuil, Paris, 1976, traduction de Jean Thibaudeau et l’auteur (édition Points, 1985), p. 135. </alinea>
+      </note>
+      <note id="sdfootnote7sym">
+        <no>7</no>
+        <alinea>
+	 <marquage typemarq="italique">Idem</marquage>, p. 136.</alinea>
+      </note>
+      <note id="sdfootnote8sym">
+        <no>8</no>
+        <alinea>
+	 J. Clément, « Du texte à l’hypertexte : vers une épistémologie de la discursivité hypertextuelle », <marquage typemarq="italique">Hypertextes et hypermédias : réalisations, outils, méthodes</marquage>, J.-P. Balpe, A. Lelu et I. Saleh (coords), Hermès, Paris, 1995 (<liensimple xlink:type="simple" xlink:href="http://hypermedia.univ-paris8.fr/jean/articles/discursivite.htm">Voir en ligne</liensimple> [consulté le 18/07/14]), p. 8.</alinea>
+      </note>
+      <note id="sdfootnote9sym">
+        <no>9</no>
+        <alinea>
+	 E. J. Aarseth, <marquage typemarq="italique">Cybertext – Perspectives on Ergodic Literature</marquage>, The John Hopkins University Press, Baltimore &amp; London, 1997.</alinea>
+      </note>
+      <note id="sdfootnote10sym">
+        <no>10</no>
+        <alinea>
+	 J. Clément, « Fiction interactive et modernité », <marquage typemarq="italique">Littérature n°96</marquage>, décembre 1994, p. 7 (<liensimple xlink:type="simple" xlink:href="http://hypermedia.univ-paris8.fr/jean/articles/litterature.html">Voir en ligne</liensimple> [consulté le 17/07/14]). </alinea>
+      </note>
+      <note id="sdfootnote11sym">
+        <no>11</no>
+        <alinea>
+	 J. Clément, « Du texte à l’hypertexte : vers une épistémologie de la discursivité hypertextuelle », article cité, p. 7. </alinea>
+      </note>
+      <note id="sdfootnote12sym">
+        <no>12</no>
+        <alinea>
+	 E. J. Aarseth, <marquage typemarq="italique">Cybertext – Perspectives on Ergodic Literature, op. cit. </marquage>
+        </alinea>
+      </note>
+      <note id="sdfootnote13sym">
+        <no>13</no>
+        <alinea>
+	 C. Jacob, <marquage typemarq="italique">L’Empire des cartes, op. cit.,</marquage> p. 31. </alinea>
+      </note>
+      <note id="sdfootnote14sym">
+        <no>14</no>
+        <alinea>
+	 J. Clément, « Fiction interactive et modernité », p. 9. </alinea>
+      </note>
+      <note id="sdfootnote15sym">
+        <no>15</no>
+        <alinea>
+	 J.-M. Besse, « Cartographie et pensée visuelle. Réflexions sur la schématisation graphique » (<liensimple xlink:type="simple" xlink:href="https://www.academia.edu/1195121/Cartographie_et_pensee_visuelle._Reflexions_sur_la_schematisation_graphique ">Voir en ligne</liensimple> [consulté le 15/07/14]).</alinea>
+      </note>
+      <note id="sdfootnote16sym">
+        <no>16</no>
+        <alinea>
+	 I. Calvino, « Le Voyageur dans la carte », <marquage typemarq="italique">Collection de sable</marquage>, Editions du Seuil, Paris, 1986, traduction de Jean-Paul Manganaro (Editions Points, 1998), p. 31. </alinea>
+      </note>
+      <note id="sdfootnote17sym">
+        <no>17</no>
+        <alinea>
+	 C. Jacob, <marquage typemarq="italique">L’Empire des cartes, op. cit.,</marquage> p. 426. </alinea>
+      </note>
+      <note id="sdfootnote18sym">
+        <no>18</no>
+        <alinea>
+	 Nous suivons ici les positions de Richard Saint-Gelais et René Audet dans « Underground lies : Revisiting Narrative in Hyperfiction », article cité. </alinea>
+      </note>
+      <note id="sdfootnote19sym">
+        <no>19</no>
+        <alinea>
+	 J. Clément, « Fiction interactive et modernité », article cité, p. 10</alinea>
+      </note>
+      <note id="sdfootnote20sym">
+        <no>20</no>
+        <alinea>
+	 Michel de Certeau distingue deux appréhensions de la carte : l’appréhension de ses formes, et l’appréhension de ses lignes, favorisant l’itinéraire. </alinea>
+      </note>
+      <note id="sdfootnote21sym">
+        <no>21</no>
+        <alinea>
+	 J. Clément, « Du texte à l’hypertexte : vers une épistémologie de la discursivité hypertextuelle », article cité, p. 8. </alinea>
+      </note>
+      <note id="sdfootnote22sym">
+        <no>22</no>
+        <alinea>
+	 C. Jacob, <marquage typemarq="italique">L’Empire des cartes, op. cit</marquage>., p. 414. </alinea>
+      </note>
+      <note id="sdfootnote23sym">
+        <no>23</no>
+        <alinea>
+	 C. Jacob, <marquage typemarq="italique">L’Empire des cartes. Approche théorique de la cartographie à travers l’histoire</marquage>, Albin Michel, Paris, 1992, p. 44. </alinea>
+      </note>
+    </grnote>
+  </partiesann>
+</article>
