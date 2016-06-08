@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1905ear" typeart="autre" lang="fr" ordseq="1">
+  <admin>
+    <infoarticle>
+      <idpublic scheme="doi">null</idpublic>
+      <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
+        <descripteur>Société numérique</descripteur>
+      </grdescripteur>
+      <nbpara>125</nbpara>
+      <nbmot>4918</nbmot>
+      <nbfig>4</nbfig>
+      <nbtabl>0</nbtabl>
+      <nbimage>4</nbimage>
+      <nbaudio>0</nbaudio>
+      <nbvideo>0</nbvideo>
+      <nbrefbiblio>0</nbrefbiblio>
+      <nbnote>0</nbnote>
+    </infoarticle>
+    <revue id="sp01868" lang="fr">
+      <titrerev>Sens public</titrerev>
+      <titrerevabr>SP</titrerevabr>
+      <idissnnum>2104-3272</idissnnum>
+      <directeur sexe="masculin">
+        <nompers>
+          <prenom>Marcello</prenom>
+          <nomfamille>Vitali-Rosati</nomfamille>
+        </nompers>
+      </directeur>
+    </revue>
+    <numero id="sp063">
+      <pub>
+        <annee>2016</annee>
+      </pub>
+      <pubnum>
+        <date typedate="publication">2016-01-19</date>
+      </pubnum>
+      <grtheme id="th">
+        <theme/>
+      </grtheme>
+    </numero>
+    <editeur>
+      <nomorg>Département des littératures de langue française</nomorg>
+    </editeur>
+    <prod>
+      <nomorg>Sens public</nomorg>
+    </prod>
+    <prodnum>
+      <nomorg>Sens public</nomorg>
+    </prodnum>
+    <diffnum>
+      <nomorg>Sens public</nomorg>
+    </diffnum>
+    <histpapier>
+      <alinea>néant</alinea>
+    </histpapier>
+    <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
+    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+  </admin>
+  <liminaire>
+    <grtitre>
+      <titre>Hyperwriting, a multiscale writing with the method of loci</titre>
+    </grtitre>
+    <grauteur>
+      <auteur id="spAuthor784">
+        <nompers>
+          <prenom>Idriss</prenom>
+          <nomfamille>Aberkane</nomfamille>
+        </nompers>
+      </auteur>
+    </grauteur>
+    <resume lang="fr">
+      <alinea> Supposons que tout média soit l’externalisation d’une fonction mentale; l’écriture, alors, externalise la mémoire de travail. Pour Dehaene et d’autres l’écriture est un recyclage neuronal par lequel des populations spécialisées dans la reconnaissance de forme sont associées à des sons, formant ainsi une association graphème-phonème simple. Pourrait-il y avoir d’autres formes d’écritures en ce cas, des “néoécritures” ou “écritures de novo”? et pourraient-elles externaliser d’autres fonctions mentales, par exemple la mémoire épisodique? Je propose ici une forme d’écriture symbolique multi-échelle basée sur la méthode des loci, consistant en une association locème-graphème dotée d’une proto-grammaire, dont l’objectif est d’externaliser la mémoire épisodique, et de permettre la représentation de noèmes dans l’espace. Ce prototype n’est pas la seule forme possible de néoécriture, ce qui pose le problème de l’optimalité neuroergonomique des média existants selon leur contenu et leur objectif cognitif, dont je discute la continuité épistémologique avec l’hypertexte. </alinea>
+    </resume>
+    <resume lang="en">
+      <alinea> Let us suppose that any media is the outsourcing of a mental function ; writing, then, is the outsourcing of working memory. For Dehaene and others, writing is a neural recycling by which populations specialized in form recognition are associated with sounds, thus forming a simple grapheme-phoneme association. Could there be other forms of writing then, or “neowriting”, and could they externalize other mental functions, such as say, episodic memory ? Here I propose a multiscale form of symbolic writing based on the method of loci, consisting of a loceme-noeme association endowed with a proto-grammar, which purpose is to externalize episodic memory, and allow for the mapping of noems onto space. I add that hyperwriting is not the only possible form of neowriting, thus posing the problem of the neuroergonomic optimality of existing media depending on their contents and cognitive purpose, and discuss its epistemological continuity with hypertext. </alinea>
+    </resume>
+    <grmotcle lang="fr">
+      <motcle>focus</motcle>
+      <motcle>Monde numérique</motcle>
+    </grmotcle>
+  </liminaire>
+  <corps>
+    <section1>
+      <section>
+	<titre>
+		Introduction</titre>
+</section>
+      <para>
+        <alinea>
+	What if media was nothing but an extension of a cognitive function ? The historically decisive contribution of writing would then be represented as the mere extension of working memory. Writing is a technology by which one can provide an external structuration of mental objects, each loaded in working memory, thus creating a stream of intentional mental objects that is coded outside the body. Writing, in essence, is but a partition to the human mind.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Taking Husserl’s definitions of noems (objects of intentional thought), could the learned association of phonemes, graphemes and noems of writing be generalised through other associations ? We know for example that writing is essentially a “ventrolateral’ media, in that it taps into both the ventral stream of vision, that which cognitive sciences may simplify as the path of the “what’, and the left hemisphere. Since writing is a very specialised yet, from an evolutionary point of view, relatively artificial form of association, could there be other such forms ? In particular, could one establish a “dorsal-bilateral’ form of writing, that would tap into the dorsal stream of vision, and be space-based in nature ? Could one engineer such a writing with the aim of externalising not only working memory, but some aspects of proprioception, and episodic memory ?</alinea>
+      </para>
+      <para>
+        <alinea>
+	Therefore, could it be possible to engineer de novo, exotic forms of writings beyond the grapheme-phoneme association, but, for example, a loceme-noem association, namely a writing that would consist of the systematic association of space and thought, and be endowed with a natural grammar based on the transitive inclusion of places in natural space ? The speculation into such a form of writing is the purpose of this article. It provides the prototype of a form of hyperwriting, a zoomable writing based on the method of loci, that is, the art of memorising large collections by mentally mapping them onto space, also known as “memory palaces’ or “memory galeries’. In the same manner that writing systematised and externalised the strategy of learning by heart, hyperwriting should systematise and externalise the strategy of building memory palaces. It would be the art of writing with space, and attributing meaning to space, so as to form a working language. This language, however, would be a silent one : it could not be articulated yet, or spoken, since it would not integrate phonemes. It would remain a structured language still, and a language of the mind, as it would integrate noems. Its main shortcoming in terms of communication would simply be that it could not yet be shared orally but only visually. The purpose of this paper is to discuss the interests of such a media, exhibit a possible early form of it, and consider its continuity with Vannevar Bush’s early conception of the hypertext.</alinea>
+      </para>
+    </section1>
+    <section1>
+      <titre>
+	On the method of loci</titre>
+      <para>
+        <alinea>
+	The method of loci is a mnemotechnic tool consisting of mapping mental objects onto a mental space. Usually, this mental space is a familiar place, thus easing its storing by episodic and autobiographic memory. The general idea behind this intuitive “technology of memory’ is to use memories of the environment, which are much more resistant to decay and intrinsically non-verbal, to structure the stream of consciousness and in particular that of working memory. The method of loci may be considered a structured dialogue between episodic and working memory, one with a very large long-term storage capability, and the other with an access to what Baars, Dehaene and others call the “global cognitive workspace’. In a way, during the particular episodic retrieval of a memory palace, one could consider episodic memory a Read-Only Memory, and working memory the Random Access Memory of the brain.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Pesenti et al. (2001) have demonstrated that prodigy calculator Rudiger Gamm was extensively tapping into episodic memory networks to achieve his high-performance mental calculations, such as computing divisions of prime numbers down to the sixtieth decimal for example. Mathematical skills at large tap into many visuomotor networks, including cerebellar networks, as can now be easily reviewed with such integrative platforms as Mesmoudi and Burnod’s linkrbrain (https://iscpif.fr/blog/projects/linkrbrain-2) automatic literature-crawler and brain-mapper.</alinea>
+      </para>
+      <para>
+        <alinea>
+	In general, mnemonists tend to develop interesting mental routines to memorise longer lists of elements than the average limit of working memory can allow for. One of them is very close to the creation of a language, for example in memorising large alphanumeric lists, in that it associates seemingly random series of characters an ad-hoc meaning to facilitate its memorisation. Combined with the method of loci, such ad hoc, pseudo-languages are the most efficient way of memorising large collections for professional mnemonists. It is for example the one used by such memory athletes as Joshua Foer, Dominic O’Brien or Nelson Dellis.</alinea>
+      </para>
+      <para>
+        <alinea>
+	If any media is but the externalisation of a mental strategy, then one could externalise the method of loci into a novel form of artificial writing. The interest of such a media could be immense, in that it would transcend existing writing, and, from a historical point of view, may be just as significant as the introduction of the latter. From a neuroscientific point of view as well, the study of artificial writings could pose fascinating questions as to the “potential wells’ of media when coevolving with the cerebral cortex. We know for example that the neural correlates of reading have a very low level of polymorphism in the human population : writing tends to route itself across the left hemisphere, from the early visual areas to the temporal and then frontal lobe in most people. Mathematical skills, being more fuzzy in their definition and practical purpose (from the professional mathematician to the architect etc) tend to recruit more diversified populations of neurons, but almost always tap into the intraparietal sulcus, which is critical to exact arithmetic in humans (Piazza et al. 2004). The fascinating question of course is : would the neural correlates of de novo and ad hoc writings be always as stable as those of regular writing ? Could there be reproducible bifurcations ? Is there a general topology of the interaction between neural populations and artificial media ? Can one establish a clear landscape of it, just as one can achieve some levels of predictability in hydrology, namely the interaction between geological and hydrographic landscapes ? If we consider human mental routines rivers (and fasciculi may indeed make the metaphor not too far-fetched) forming in their easiest possible course through the “geology’ of the human brain, then indeed the interaction between artificial media and their neural correlates could be, to some extent, studies with comparable tools as those of the complex systems of geology, including catastrophe theory. The extensive research of Bach-y-Rita in sensory substitution is also seminal to the question. Here I attempt to extend it into not sensory but mental substitution, or mental re-routing, by introducing a prototype for an hyperwriting, a writing with the method of loci.</alinea>
+      </para>
+    </section1>
+    <section1>
+      <titre>
+	“Curvy A’ : a prototype hyperwriting</titre>
+      <para>
+        <alinea>
+	The core concept of hyperwriting is loceme-noeme association. Locemes we know are critically correlated to the entorhinal cortex and hippocampus, and in particular with the so-called “place cells’ and “grid cells’. Them being so well correlated to very precise brain structures, just as the Broca and Wernicke areas correlate with phonemes and the visual word form area with graphemes, makes them very interesting areas to target in neowriting engineering, and thus, one could say that they were not picked at random, either by memory athletes, nor for this very study, in that there seems to be a natural level of neuroergonomics to loceme-noeme association, just as there was a certain level of neuroergonomics to grapheme-phoneme association.</alinea>
+      </para>
+      <para>
+        <alinea>
+	In homage to the undeciphered Minoan script “Linear A’, I named the first prototype hyperwriting “Curvy A’. It consists of a simple way to script landmarks and places, just as writing is a simple way to script graphemes. Dehaene has reminded that the letter A as a grapheme in itself may very well have come from the inversion of the early script of a bullhead. Considering the evolution of regular writing as the simplification of figurative scripts, why not begin with a figurative metaphor to structure locemes as well, and then simplify it ? Writing is correlated with civilization ; one of the most easily recognised symbol of locemes in the collective mind of most civilisations are rivers. Mesopotamia, after all, simply means “the land between the two rivers’, the Nile has structured the entire Egyptian civilisation, just as the Indus in the Indian subcontinent, etc. Let us then use simplified rivers as the most basic element of hyperwriting’s first loceme-loceme association (ie. a place that maps other places onto space, themselves later mapping noems). The structure of hyperwriting indeed can be simplified as</alinea>
+      </para>
+      <para>
+        <alinea>
+	grapheme —&amp;gt; loceme —&amp;gt; … —&amp;gt; loceme —&amp;gt; noem (1)</alinea>
+      </para>
+      <para>
+        <alinea>
+	The multiscale dimension of hyperwriting comes from that, as the built environment, it is finitely zoomable. However, all the scales of hyperwriting preceding that of noems, the final scale, are locate scales, namely, scales that represent places either containing or being contained by other places. Regular writing, in contrast, as a different descendent complexity, which, for example, may be represented as</alinea>
+      </para>
+      <para>
+        <alinea>
+	book—&amp;gt; chapter —&amp;gt; section —&amp;gt; paragraph —&amp;gt; sentence —&amp;gt; word —&amp;gt; letter (2)</alinea>
+      </para>
+      <para>
+        <alinea>
+	Both Hyperwriting and regular writing are finitely zoomable, their difference lies specifically in the brain areas they are targeting. A more complex grammar could still be associated with the various levels of complexity of hyperwriting, and this is a possibility that Curvy A already explores.</alinea>
+      </para>
+      <para>
+        <alinea>
+	The fundamental symbol of Curvy A is a stylised river shape, curved, hence the name, which is essentially a Bézier curve (fig. 1). As it turns out, a more complex, asymmetric and packaged curve (that is, with more meanders) is intuitively more memorable, and allows for the mapping of more content in a single view (fig. 2). This river shape is a strand of loci (fig. 3), each being another strand for other loci (fig. 4) which are groups of noems of various shapes so as to facilitate their memorisation. The purpose of Curvy A is to capture some of the aspects of the interaction between long term and short term memory in the method of loci, and to make it writable in a procedural manner. Hence, being an externalisation of the method of loci, it is a media, albeit fundamentally different from writing. Among other things, it is a procedural writing.</alinea>
+      </para>
+      <figure>
+        <objetmedia flot="bloc">
+          <image id="" typeimage="figure"/>
+        </objetmedia>
+      </figure>
+      <figure>
+        <objetmedia flot="bloc">
+          <image id="" typeimage="figure"/>
+        </objetmedia>
+      </figure>
+      <figure>
+        <objetmedia flot="bloc">
+          <image id="" typeimage="figure"/>
+        </objetmedia>
+      </figure>
+      <figure>
+        <objetmedia flot="bloc">
+          <image id="" typeimage="figure"/>
+        </objetmedia>
+      </figure>
+    </section1>
+    <section1>
+      <titre>
+	Conclusion</titre>
+      <para>
+        <alinea>
+	Reading, for the human mind, is essentially a stream of noems, mental images, which are multimodal in nature. Mental phonemes are of this kind, for example, and essentially monomodal. Phonemes in themselves, can be very good intermediates to noems, although they do not capture all of them, such as pure mental images, smells and pictures, qualia in general, which are not verbal by definition yet remain highly correlated to their linguistic counterpart. The entire interest of hyperwriting is to propose not a substitute for writing, but a higher-level, synergistic form of writing to supplement and enrich it. The practical purpose of hyperwriting is to enrich regular writing and allow for a mapping of it onto space.</alinea>
+      </para>
+      <para>
+        <alinea>
+	It could be interesting to further the development of hyperwriting by developing ad hoc pseudo languages to specifically map locemes and phonemes, ie. to give names to the natural grammar of space that would not be logical constructs (eg. “A is in B’) but single words. Another function of hyperwriting, that of the method of loci in general, is to allow the reader and writer not only to ask themselves “what was the keyword of this thought again ?’ but also, more importantly and more mnemotechnically “where did I leave this thought again ?’. This, in essence, is an early form of both dorsal and episodic process, in that hyperwriting intrinsically suggests to develop affordances for thought, namely the art of reaching them, and of placing them in a mental space so as to give meaning to their reaching. This could further be developed into a proper grammar, but a dorsal grammar, based on affordances.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Curvy A and hyperwriting in general naturally provide for a grammar of inclusion as well. There are levels of complexity in regular writing, as we have seen, and the next step to the development of hyperwriting would be to seamlessly entangle them with the natural levels of complexity of the mental space. Here my interest has been to suggest that an artificial writing based on a loceme-noem association could recruit very precise areas of the brain, act either in synergy with existing writing or independently from it.</alinea>
+      </para>
+      <para>
+        <alinea>
+	The epistemologic contribution of hypertext has been to create both a grapheme-grapheme and eventually, a noem-noem association. This has enriched the way one can explore, and understand large collections of words, especially by giving a lateral, intertextual dimension to them. One epistemologic contribution of hyperwriting is to facilitate the mental grasping of large collections of contents, its memorising, and at the same time the capturing of it in a writable form. Another interest of de novo writing is to pose the question : has man domesticated writing or has writing domesticated man ? The wilful domestication of both our dorsal visual stream and the neural correlates of our episodic memory could lead to the development of fascinating new media, of which “Curvy A’ is but a very early suggestion.</alinea>
+      </para>
+    </section1>
+    <section1>
+      <titre>
+	 </titre>
+    </section1>
+    <section1>
+      <titre>
+	Bibliography</titre>
+      <para>
+        <alinea>
+	ALDERMAN, G. (1996). The Memory Palace (HarperCollins).</alinea>
+      </para>
+      <para>
+        <alinea>
+	BACH-Y-RITA, P. (1972). Brain mechanisms in sensory substitution (Academic Press).</alinea>
+      </para>
+      <para>
+        <alinea>
+	BACH-Y-RITA, P. (1990). Brain plasticity as a basis for recovery of function in humans. Neuropsychologia 28, 547–554.</alinea>
+      </para>
+      <para>
+        <alinea>
+	BACH-Y-RITA, P. (1997). Substitution sensorielle et qualia. Perception et Intermodalité : Approches Actuelles de La Question de Molyneux 81–100.</alinea>
+      </para>
+      <para>
+        <alinea>
+	BACH-Y-RITA, P., and KERCEL, S.W. (2003). Sensory substitution and the human–machine interface. Trends in Cognitive Sciences 7, 541–546.</alinea>
+      </para>
+      <para>
+        <alinea>
+	BACH-Y-RITA, P., Collins, C.C., Saunders, F.A., White, B., and Scadden, L. (1969). Vision substitution by tactile image projection.</alinea>
+      </para>
+      <para>
+        <alinea>
+	BACH-Y-RITA, P., KACZMAREK, K.A., Tyler, M.E., and Garcia-Lara, J. (1998). Form perception with a 49-point electrotactile stimulus array on the tongue: a technical note. Journal of Rehabilitation Research and Development 35, 427–430.</alinea>
+      </para>
+      <para>
+        <alinea>
+	BARTOK, M. (2011). The Memory Palace (Free Press).</alinea>
+      </para>
+      <para>
+        <alinea>
+	BEWERNICK, H. (2010). The Storyteller’s Memory Palace: A Method of Interpretation Based on the Function of Memory Systems in Literature : Geoffrey Chaucer, William Langland, Salman Rushdie, Angela Carter, Thomas Pynchon and Paul Auster (New York).</alinea>
+      </para>
+      <para>
+        <alinea>
+	BLUMBERG, E.J., PETERSON, M.S., and PARASURAMAN, R. (2015). Enhancing multiple object tracking performance with noninvasive brain stimulation: a causal role for the anterior intraparietal sulcus. Frontiers in Systems Neuroscience 9.</alinea>
+      </para>
+      <para>
+        <alinea>
+	BOCCARA, C.N., SARGOLINI, F., THORESEN, V.H., SOLSTAD, T., WITTER, M.P., MOSER, E.I., and MOSER, M.-B. (2010). Grid cells in pre-and parasubiculum. Nature Neuroscience 13, 987–994.</alinea>
+      </para>
+      <para>
+        <alinea>
+	BUSH, V. (1945). As we may think.</alinea>
+      </para>
+      <para>
+        <alinea>
+	CHRISTENSEN, J., DOCZY, E., DURBIN, M., FINOMORE, V., FUNKE, M., McKINLEY, R., SATTERFIELD, K., SCHMIDT, R., SIDROW, K., and TRAVER, K. (2010). Neuroergonomics Deep Dive Literature Review, Volume 1: Neuroergonomics and Cognitive State (DTIC Document).</alinea>
+      </para>
+      <para>
+        <alinea>
+	CLARK, V.P., and PARASURAMAN, R. (2014). Neuroenhancement: enhancing brain and mind in health and in disease. Neuroimage 85, 889–894.</alinea>
+      </para>
+      <para>
+        <alinea>
+	CLARK, V.P., COFFMAN, B.A., MAYER, A.R., WEISEND, M.P., LANE, T.D., CALHOUN, V.D., RAYBOURN, E.M., GARCIA, C.M., and WASSERMANN, E.M. (2012). TDCS guided using fMRI significantly accelerates learning to identify concealed objects. Neuroimage 59, 117–128.</alinea>
+      </para>
+      <para>
+        <alinea>
+	COFFMAN, B.A., CLARK, V.P., and PARASURAMAN, R. (2014). Battery powered thought: enhancement of attention, learning, and memory in healthy adults using transcranial direct current stimulation. Neuroimage 85, 895–908.</alinea>
+      </para>
+      <para>
+        <alinea>
+	CONTY, L., TIJUS, C., HUGUEVILLE, L., COELHO, E., and GEORGE, N. (2006). Searching for asymmetries in the detection of gaze contact versus averted gaze under different head views: a behavioural study. Spatial Vision 19, 529–545.</alinea>
+      </para>
+      <para>
+        <alinea>
+	CONTY, L., N’DIAYE, K., TIJUS, C., and GEORGE, N. (2007). When eye creates the contact ! ERP evidence for early dissociation between direct and averted gaze motion processing. Neuropsychologia 45, 3024–3037.</alinea>
+      </para>
+      <para>
+        <alinea>
+	DEL CUL, A., BAILLET, S., and DEHAENE, S. (2007). Brain dynamics underlying the nonlinear threshold for access to consciousness. PLoS Biol 5, e260.</alinea>
+      </para>
+      <para>
+        <alinea>
+	DEL CUL, A., DEHAENE, S., REYES, P., BRAVO, E., and SLACHEVSKY, A. (2009). Causal role of prefrontal cortex in the threshold for access to consciousness. Brain 132, 2531–2540.</alinea>
+      </para>
+      <para>
+        <alinea>
+	DEHAENE, S. (2000). Geniuses and Prodigies. Math Horizons 18–21.</alinea>
+      </para>
+      <para>
+        <alinea>
+	DEHAENE, S., DEHAENE-LAMBERTZ, G., and COHEN, L. (1998a). Abstract representations of numbers in the animal and human brain. Trends in Neurosciences 21, 355–361.</alinea>
+      </para>
+      <para>
+        <alinea>
+	DEHAENE, S., KERSZBERG, M., and CHANGEUX, J.-P. (1998b). A neuronal model of a global workspace in effortful cognitive tasks. Proceedings of the National Academy of Sciences 95, 14529–14534.</alinea>
+      </para>
+      <para>
+        <alinea>
+	DEHAENE, S., SERGENT, C., and CHANGEUX, J.-P. (2003). A neuronal network model linking subjective reports and objective physiological data during conscious perception. Proceedings of the National Academy of Sciences 100, 8520–8525.</alinea>
+      </para>
+      <para>
+        <alinea>
+	DEHAENE, S., CHANGEUX, J.-P., NACCACHE, L., SACKUR, J., and SERGENT, C. (2006a). Conscious, preconscious, and subliminal processing: a testable taxonomy. Trends in Cognitive Sciences 10, 204–211.</alinea>
+      </para>
+      <para>
+        <alinea>
+	DEHAENE, S., IZARD, V., PICA, P., and SPELKE, E. (2006b). Core knowledge of geometry in an Amazonian indigene group. Science 311, 381–384.</alinea>
+      </para>
+      <para>
+        <alinea>
+	DEHAENE, S., IZARD, V., SPELKE, E., and PICA, P. (2008). Log or linear ? Distinct intuitions of the number scale in Western and Amazonian indigene cultures. Science 320, 1217–1220.</alinea>
+      </para>
+      <para>
+        <alinea>
+	DOELLER, C.F., BARRY, C., and BURGESS, N. (2010). Evidence for grid cells in a human memory network. Nature 463, 657–661.</alinea>
+      </para>
+      <para>
+        <alinea>
+	DUGGAN, K., and SHOUP, K. (2013). Business Gamification For Dummies (Wiley).</alinea>
+      </para>
+      <para>
+        <alinea>
+	FALCONE, B., and PARASURAMAN, R. (2012). Comparative Effects of First-Person Shooter Video Game Experience and Brain Stimulation on Threat Detection Learning. In Proceedings of the Human Factors and Ergonomics Society Annual Meeting, (Sage Publications), pp. 173–177.</alinea>
+      </para>
+      <para>
+        <alinea>
+	FALCONE, B., COFFMAN, B.A., CLARK, V.P., and PARASURAMAN, R. (2012). Transcranial direct current stimulation augments perceptual sensitivity and 24-hour retention in a complex threat detection task.</alinea>
+      </para>
+      <para>
+        <alinea>
+	FALCONE, B., McKENDRICK, R., and PARASURAMAN, R. (2013). A Shocking lack of Difference Noninvasive Brain Stimulation in Verbal and Spatial Working Memory. In Proceedings of the Human Factors and Ergonomics Society Annual Meeting, (SAGE Publications), pp. 129–133.</alinea>
+      </para>
+      <para>
+        <alinea>
+	FAUGERAS, F., ROHAUT, B., WEISS, N., BEKINSCHTEIN, T.A., GALANAUD, D., PUYBASSET, L., BOLGERT, F., SERGENT, C., COHEN, L., and DEHAENE, S. (2011). Probing consciousness with event-related potentials in the vegetative state. Neurology 77, 264–268.</alinea>
+      </para>
+      <para>
+        <alinea>
+	FEIGENSON, L., DEHAENE, S., and SPELKE, E. (2004). Core systems of number. Trends in Cognitive Sciences 8, 307–314.</alinea>
+      </para>
+      <para>
+        <alinea>
+	FEYDY, A., CARLIER, R., ROBY-BRAMI, A., BUSSEL, B., CAZALIS, F., PIEROT, L., BURNOD, Y., and MAIER, M.A. (2002). Longitudinal study of motor recovery after stroke recruitment and focusing of brain activation. Stroke 33, 1610–1617.</alinea>
+      </para>
+      <para>
+        <alinea>
+	FOER, J. (2011). Moonwalking with Einstein: The Art and Science of Remembering Everything (Penguin Books Limited).</alinea>
+      </para>
+      <para>
+        <alinea>
+	GALOTTI, K.M. (2008). Cognitive Psychology In and Out of the Laboratory: In and Out of the Laboratory (Thomson/Wadsworth).</alinea>
+      </para>
+      <para>
+        <alinea>
+	GEVINS, A., and Smith, M.E. (2006). Electroencephalography (EEG) in neuroergonomics. Neuroergonomics: The Brain at Work 15–31.</alinea>
+      </para>
+      <para>
+        <alinea>
+	GOLDSTEIN, E. (2007). Cognitive Psychology: Connecting Mind, Research and Everyday Experience (Cengage Learning).</alinea>
+      </para>
+      <para>
+        <alinea>
+	GREUTER, S., PARKER, J., STEWART, N., and LEACH, G. (2003a). Real-time procedural generation ofpseudo infinite’cities. In Proceedings of the 1st International Conference on Computer Graphics and Interactive Techniques in Australasia and South East Asia, (ACM), p. 87 – ff.</alinea>
+      </para>
+      <para>
+        <alinea>
+	GREUTER, S., PARKER, J., STEWART, N., and LEACH, G. (2003b). Undiscovered worlds–towards a framework for real-time procedural world generation. In Fifth International Digital Arts and Culture Conference, Melbourne, Australia,.</alinea>
+      </para>
+      <para>
+        <alinea>
+	HAMILTON, C. (1998). The Memory Palace (Kent State University Press).</alinea>
+      </para>
+      <para>
+        <alinea>
+	HANCOCK, P.A., and SZALMA, J.L. (2003). The future of neuroergonomics. Theoretical Issues in Ergonomics Science 4, 238–249.</alinea>
+      </para>
+      <para>
+        <alinea>
+	HANCOCK, P.A., and SZALMA, J.L., PARASURAMAN, R., and Rizzo, M. (2006). Stress and neuroergonomics. Neuroergonomics: The Brain at Work 195–206.</alinea>
+      </para>
+      <para>
+        <alinea>
+	HETTINGER, L.J., BRANCO, P., ENCARNACAO, L.M., and BONATO, P. (2003). Neuroadaptive technologies: applying neuroergonomics to the design of advanced interfaces. Theoretical Issues in Ergonomics Science 4, 220–237.</alinea>
+      </para>
+      <para>
+        <alinea>
+	HOLLIS, E. (2014). The Memory Palace: A Book of Lost Interiors (Counterpoint LLC).</alinea>
+      </para>
+      <para>
+        <alinea>
+	IZARD, V., and DEHAENE, S. (2008). Calibrating the mental number line. Cognition 106, 1221–1247.</alinea>
+      </para>
+      <para>
+        <alinea>
+	JOHNSON, A., and PROCTOR, R. (2013). Neuroergonomics: A cognitive neuroscience approach to human factors and ergonomics (Palgrave Macmillan).</alinea>
+      </para>
+      <para>
+        <alinea>
+	KACZMAREK, K.A., and BACH-Y-RITA, P. (1995). Tactile displays. Virtual Environments and Advanced Interface Design 349–414.</alinea>
+      </para>
+      <para>
+        <alinea>
+	KACZMAREK, K., WEBSTER, J.G., BACH-Y-RITA, P., and TOMPKINS, W.J. (1991). Electrotactile and vibrotactile displays for sensory substitution systems. Biomedical Engineering, IEEE Transactions on 38, 1–16.</alinea>
+      </para>
+      <para>
+        <alinea>
+	KAPP, K.M. (2012). The Gamification of Learning and Instruction: Game-based Methods and Strategies for Training and Education (Wiley).</alinea>
+      </para>
+      <para>
+        <alinea>
+	KENNEDY, T.M., TWETON, D.J., and COUNCIL, N.D.H. (2002). The Memory Palaces of the Dakotas (North Dakota Humanities Council).</alinea>
+      </para>
+      <para>
+        <alinea>
+	KILLIAN, E. (2013). Gamification 2.0 - A Concept: A brief introduction to games followed by a journey through human motivation, behavioural psychology, the concept of flow, ultimately to the realisation of Gamification 1.0 with its structural and content mechanisms. From there this short book promulgates the notion of Gamification 2.0 highlighting the idea of “Convergence’ with BigData &amp; Analytics to capture real-time information in order to monetize the motivations of game players.</alinea>
+      </para>
+      <para>
+        <alinea>
+	KOENING, J., LINDER, A.N., LEUTGEB, J.K., and LEUTGEB, S. (2011). The spatial periodicity of grid cells is not sustained during reduced theta oscillations. Science 332, 592–595.</alinea>
+      </para>
+      <para>
+        <alinea>
+	KOUIDER, S., DEHAENE, S., JOBERT, A., and LE BIHAN, D. (2007). Cerebral bases of subliminal and supraliminal priming during reading. Cerebral Cortex 17, 2019–2029.</alinea>
+      </para>
+      <para>
+        <alinea>
+	LANG, T., BERTHOLET, G., and MULETIER, C. (2014). La gamification: Ou l’art d’utiliser les mécaniques du jeu dans votre business (Eyrolles).</alinea>
+      </para>
+      <para>
+        <alinea>
+	LUBER, B., and LISANBY, S.H. (2014). Enhancement of human cognitive performance using transcranial magnetic stimulation (TMS). Neuroimage 85, 961–970.</alinea>
+      </para>
+      <para>
+        <alinea>
+	LYNDON, D., and MOORE, C.W. (1996). Chambers for a Memory Palace (MIT Press).</alinea>
+      </para>
+      <para>
+        <alinea>
+	MADIGAN, R. (2015). How Memory Works--and How to Make It Work for You: G1196 (Guilford Publications).</alinea>
+      </para>
+      <para>
+        <alinea>
+	MAGUIRE, E.A., HENSON, R.N., MUMMERY, C.J., and FRITH, C.D. (2001). Activity in prefrontal cortex, not hippocampus, varies parametrically with the increasing remoteness of memories. Neuroreport 12, 441–444.</alinea>
+      </para>
+      <para>
+        <alinea>
+	MANAGEMENT ASSOCIATION, I.R. (2015). Gamification: Concepts, Methodologies, Tools, and Applications: Concepts, Methodologies, Tools, and Applications (IGI Global).</alinea>
+      </para>
+      <para>
+        <alinea>
+	MARCZEWSKI, A. (2013). Gamification: A Simple Introduction (Andrzej Marczewski).</alinea>
+      </para>
+      <para>
+        <alinea>
+	MAREK, T., KARWOWSKI, W., and RICE, V. (2010). Advances in Understanding Human Performance: Neuroergonomics, Human Factors Design, and Special Populations (CRC Press).</alinea>
+      </para>
+      <para>
+        <alinea>
+	McKINLEY, R.A., BRIDGES, N., WALTERS, C.M., and NELSON, J. (2012). Modulating the brain at work using noninvasive transcranial stimulation. Neuroimage 59, 129–137.</alinea>
+      </para>
+      <para>
+        <alinea>
+	MOSER, E.I., KROPFF, E., and MOSER, M.-B. (2008a). Place cells, grid cells, and the brain’s spatial representation system. Annu. Rev. Neurosci. 31, 69–89.</alinea>
+      </para>
+      <para>
+        <alinea>
+	MOSER, E.I., KROPFF, E., and MOSER, M.-B. (2008b). Place cells, grid cells, and the brain’s spatial representation system. Annu. Rev. Neurosci. 31, 69–89.</alinea>
+      </para>
+      <para>
+        <alinea>
+	MOURAS, H., STOLERU, S., BITTOUN, J., GLUTRON, D., PELEGRINI-ISSAC, M., PARADIS, A.-L., and BURNOD, Y. (2003). Brain processing of visual sexual stimuli in healthy men: a functional magnetic resonance imaging study. Neuroimage 20, 855–869.</alinea>
+      </para>
+      <para>
+        <alinea>
+	NAKAZAWA, K., McHUGH, T.J., WILSON, M.A., and TONEGAWA, S. (2004). NMDA receptors, place cells and hippocampal spatial memory. Nature Reviews Neuroscience 5, 361–372.</alinea>
+      </para>
+      <para>
+        <alinea>
+	NELSON, J.T., McKINLEY, R.A., GOLOB, E.J., WARM, J.S., and PARASURAMAN R. (2014). Enhancing vigilance in operators with prefrontal cortex transcranial direct current stimulation (tDCS). Neuroimage 85, 909–917.</alinea>
+      </para>
+      <para>
+        <alinea>
+	NIEDER, A., and DEHAENE, S. (2009). Representation of number in the brain. Annual Review of Neuroscience 32, 185–208.</alinea>
+      </para>
+      <para>
+        <alinea>
+	NITSCHE, M., ASHMORE, C., HANKINSON, W., FITZPATRICK, R., KELLY, J., and MARGENAU, K. (2006). Designing procedural game spaces: A case study. Proceedings of FuturePlay 2006.</alinea>
+      </para>
+      <para>
+        <alinea>
+	O’KEEFE, J., and BURGESS, N. (2005). Dual phase and rate coding in hippocampal place cells: theoretical significance and relationship to entorhinal grid cells. Hippocampus 15, 853.</alinea>
+      </para>
+      <para>
+        <alinea>
+	PALLIER, C., DEVAUCHELLE, A.-D., and DEHAENE, S. (2011). Cortical representation of the constituent structure of sentences. Proceedings of the National Academy of Sciences 108, 2522–2527.</alinea>
+      </para>
+      <para>
+        <alinea>
+	PARASURAMAN, R. (2003). Neuroergonomics: Research and practice. Theoretical Issues in Ergonomics Science 4, 5–20.</alinea>
+      </para>
+      <para>
+        <alinea>
+	PARASURAMAN, R. (2011a). Neuroergonomics brain, cognition, and performance at work. Current Directions in Psychological Science 20, 181–186.</alinea>
+      </para>
+      <para>
+        <alinea>
+	PARASURAMAN, R. (2011b). Neuroergonomics brain, cognition, and performance at work. Current Directions in Psychological Science 20, 181–186.</alinea>
+      </para>
+      <para>
+        <alinea>
+	PARASURAMAN, R. (2015). Neuroergonomic perspectives on human systems integration: Mental workload, vigilance, adaptive automation, and training.</alinea>
+      </para>
+      <para>
+        <alinea>
+	PARASURAMAN, R., and GALSTER, S. (2013). Sensing, assessing, and augmenting threat detection: behavioral, neuroimaging, and brain stimulation evidence for the critical role of attention. Frontiers in Human Neuroscience 7.</alinea>
+      </para>
+      <para>
+        <alinea>
+	PARASURAMAN, R., and RIZZO, M. (2006). Neuroergonomics: The brain at work (Oxford University Press).</alinea>
+      </para>
+      <para>
+        <alinea>
+	PARASURAMAN, R., and WILSON, G.F. (2008). Putting the brain to work: Neuroergonomics past, present, and future. Human Factors: The Journal of the Human Factors and Ergonomics Society 50, 468–474.</alinea>
+      </para>
+      <para>
+        <alinea>
+	PARASURAMAN, R., GREENWOOD, P., SCHELDRUP, M., FALCONE, B., KIDWELL, B., and McKENDRICK, R. (2014). Neuroergonomics of Skill Acquisition: Genetic and Non-Invasive Brain Stimulation Studies. Advances in Cognitive Engineering and Neuroergonomics 11, 73.</alinea>
+      </para>
+      <para>
+        <alinea>
+	PARKS, N.A., MACLIN, E.L., LOW, K.A., BECK, D.M., FABIANI, M., and GRATTON, G. (2012). Examining cortical dynamics and connectivity with simultaneous single-pulse transcranial magnetic stimulation and fast optical imaging. Neuroimage 59, 2504–2510.</alinea>
+      </para>
+      <para>
+        <alinea>
+	PESENTI, M., ZAGO, L., CRIVELLO, F., MELLET, E., SAMSON, D., DUROUX, B., SERON, X., MAZOYER, B., and TZOURIO-MAZOYER, N. (2001). Mental calculation in a prodigy is sustained by right prefrontal and medial temporal areas. Nature Neuroscience 4, 103–107.</alinea>
+      </para>
+      <para>
+        <alinea>
+	PIAZZA, M., IZARD, V., PINEL, P., LE BIHAN, D., and DEHAENE, S. (2004). Tuning curves for approximate numerosity in the human intraparietal sulcus. Neuron 44, 547–555.</alinea>
+      </para>
+      <para>
+        <alinea>
+	PIOLINO, P., DESGRANGES, B., BENALI, K., and EUSTACHE, F. (2002). Episodic and semantic remote autobiographical memory in ageing. Memory 10, 239–257.</alinea>
+      </para>
+      <para>
+        <alinea>
+	PIOLINO, P., DESGRANGES, B., BELLIARD, S., MATUSZEWSKI, V., L       ALEVEE, C., DE LA SAYETTE, V., and EUSTACHE, F. (2003). Autobiographical memory and autonoetic consciousness: triple dissociation in neurodegenerative diseases. Brain 126, 2203–2219.</alinea>
+      </para>
+      <para>
+        <alinea>
+	PIOLINO, P., DESGRANGES, B., and EUSTACHE, F. (2009). Episodic autobiographical memories over the course of time: cognitive, neuropsychological and neuroimaging findings. Neuropsychologia 47, 2314–2329.</alinea>
+      </para>
+      <para>
+        <alinea>
+	REINERS, T., and WOOD, L. (2014). Gamification in Education and Business (Springer International Publishing).</alinea>
+      </para>
+      <para>
+        <alinea>
+	SAMPAIO, E., MARIS, S., and BACH-Y-RITA, P. (2001). Brain plasticity :“visual’acuity of blind persons via the tongue. Brain Research 908, 204–207.</alinea>
+      </para>
+      <para>
+        <alinea>
+	SANDRINI, M., COHEN, L.G., and COHEN-KADOSH, R. (2014). Effects of brain stimulation on declarative and procedural memories. The Stimulated Brain 237–256.</alinea>
+      </para>
+      <para>
+        <alinea>
+	SARTER, N., and SARTER, M. (2003). Neuroergonomics: Opportunities and challenges of merging cognitive neuroscience with cognitive ergonomics. Theoretical Issues in Ergonomics Science 4, 142–150.</alinea>
+      </para>
+      <para>
+        <alinea>
+	SMELIK, R., TUTENEL, T., de KRAKER, K.J., and BIDARRA, R. (2010). Integrating procedural generation and manual editing of virtual worlds. In Proceedings of the 2010 Workshop on Procedural Content Generation in Games, (ACM), p. 2.</alinea>
+      </para>
+      <para>
+        <alinea>
+	SOLSTAD, T., MOSER, E.I., and EINEVOLL, G.T. (2006). From grid cells to place cells: a mathematical model. Hippocampus 16, 1026–1031.</alinea>
+      </para>
+      <para>
+        <alinea>
+	SPENCE, J.D. (2008). The Memory Palace of Matteo Ricci (Quercus).</alinea>
+      </para>
+      <para>
+        <alinea>
+	THIOUX, M., PESENTI, M., COSTES, N., De VOLDER, A., and SERON, X. (2005). Task-independent semantic activation for numbers and animals. Cognitive Brain Research 24, 284–290.</alinea>
+      </para>
+      <para>
+        <alinea>
+	TIJUS, C.A., POITRENAUD, S., and RICHARD, J.-F. (1996). Propriétés, objets, procédures: les réseaux sémantiques d’action appliqués à la représentation des dispositifs techniques. Le Travail Humain 209–229.</alinea>
+      </para>
+      <para>
+        <alinea>
+	TULVING, E., and MARKOWITSCH, H.J. (1998). Episodic and declarative memory: role of the hippocampus. Hippocampus 8.</alinea>
+      </para>
+      <para>
+        <alinea>
+	TYLER, M., DANILOV, Y., and BACH-Y-RITA, P. (2003). Closing an open-loop control system: vestibular substitution through the tongue. Journal of Integrative Neuroscience 2, 159–164.</alinea>
+      </para>
+      <para>
+        <alinea>
+	VIARD, A., LEBRETON, K., CHETELAT, G., DESGRANGES, B., LANDEAU, B., YOUNG, A., DE LA SAYETTE, V., EUSTACHE, F., and PIOLINO, P. (2010). Patterns of hippocampal–neocortical interactions in the retrieval of episodic autobiographical memories across the entire life‐span of aged adults. Hippocampus 20, 153–165.</alinea>
+      </para>
+      <para>
+        <alinea>
+	WHITE, B.W., SAUNDERS, F.A., SCADDEN, L., BACH-Y-RITA, P., and COLLINS, C.C. (1970). Seeing with the skin. Perception &amp; Psychophysics 7, 23–27.</alinea>
+      </para>
+      <para>
+        <alinea>
+	WOOLLEY, B. (1993). Virtual Worlds: A Journey in Hype and Hyperreality (Penguin Books).</alinea>
+      </para>
+      <para>
+        <alinea>
+	WORTHEN, J.B., and HUNT, R.R. (2011). Mnemonology: Mnemonics for the 21st Century (Taylor &amp; Francis).</alinea>
+      </para>
+      <para>
+        <alinea>
+	ZAGO, L., and TZOURIO-MAZOYER, N. (2002). Distinguishing visuospatial working memory and complex mental calculation areas within the parietal lobes. Neuroscience Letters 331, 45–49.</alinea>
+      </para>
+      <para>
+        <alinea>
+	ZAGO, L., PESENTI, M., MELLET, E., CRIVELLO, F., MAZOYER, B., and TZOURIO-MAZOYER, N. (2001). Neural correlates of simple and complex mental calculation. Neuroimage 13, 314–327.</alinea>
+      </para>
+      <para>
+        <alinea>
+	ZAGO, L., PETIT, L., TURBELIN, M.-R., ANDERSSON, F., VIGNEAU, M., and TZOURIO-MAZOYER, N. (2008). How verbal and spatial manipulation networks contribute to calculation: an fMRI study. Neuropsychologia 46, 2403–2414.</alinea>
+      </para>
+      <para>
+        <alinea>
+	ZICHERMANN, G., and CUNNINGHAM, C. (2011). Gamification by Design: Implementing Game Mechanics in Web and Mobile Apps (O’Reilly Media).</alinea>
+      </para>
+      <para>
+        <alinea>
+	ZICHERMANN, G., and LINDER, J. (2013). The Gamification Revolution: How Leaders Leverage Game Mechanics to Crush the Competition (McGraw-Hill Education).</alinea>
+      </para>
+    </section1>
+  </corps>
+  <partiesann/>
+</article>

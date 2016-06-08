@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1898ear" typeart="autre" lang="fr" ordseq="1">
+  <admin>
+    <infoarticle>
+      <idpublic scheme="doi">null</idpublic>
+      <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
+        <descripteur>Pensée politique et sociale</descripteur>
+        <descripteur>Europe</descripteur>
+      </grdescripteur>
+      <nbpara>13</nbpara>
+      <nbmot>1986</nbmot>
+      <nbfig>2</nbfig>
+      <nbtabl>0</nbtabl>
+      <nbimage>2</nbimage>
+      <nbaudio>0</nbaudio>
+      <nbvideo>0</nbvideo>
+      <nbrefbiblio>0</nbrefbiblio>
+      <nbnote>13</nbnote>
+    </infoarticle>
+    <revue id="sp01868" lang="fr">
+      <titrerev>Sens public</titrerev>
+      <titrerevabr>SP</titrerevabr>
+      <idissnnum>2104-3272</idissnnum>
+      <directeur sexe="masculin">
+        <nompers>
+          <prenom>Marcello</prenom>
+          <nomfamille>Vitali-Rosati</nomfamille>
+        </nompers>
+      </directeur>
+    </revue>
+    <numero id="sp01946">
+      <pub>
+        <annee>2015</annee>
+      </pub>
+      <pubnum>
+        <date typedate="publication">2015-11-18</date>
+      </pubnum>
+      <grtheme id="th">
+        <theme/>
+      </grtheme>
+    </numero>
+    <editeur>
+      <nomorg>Département des littératures de langue française</nomorg>
+    </editeur>
+    <prod>
+      <nomorg>Sens public</nomorg>
+    </prod>
+    <prodnum>
+      <nomorg>Sens public</nomorg>
+    </prodnum>
+    <diffnum>
+      <nomorg>Sens public</nomorg>
+    </diffnum>
+    <histpapier>
+      <alinea>néant</alinea>
+    </histpapier>
+    <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
+    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+  </admin>
+  <liminaire>
+    <grtitre>
+      <titre>De l'événement à la convivance</titre>
+    </grtitre>
+    <grauteur>
+      <auteur id="spAuthor13">
+        <nompers>
+          <prenom>Gérard</prenom>
+          <nomfamille>Wormser</nomfamille>
+        </nompers>
+      </auteur>
+    </grauteur>
+    <grmotcle lang="fr">
+      <motcle>focus</motcle>
+      <motcle>Politique et société</motcle>
+      <motcle>Europe</motcle>
+    </grmotcle>
+  </liminaire>
+  <corps>
+    <section1>
+      <para>
+        <alinea>
+	« Nous avons institué des jeux et des fêtes qui se succèdent d’un bout de l’année à l’autre, de merveilleux divertissements particuliers dont l’agrément journalier bannit la tristesse. L’importance de la cité y fait affluer toutes les ressources de la terre et nous jouissons aussi bien des productions de l’univers que de celles de notre pays. Notre ville est ouverte à tous. Nous fondons moins notre confiance sur les préparatifs et les ruses de guerre que sur notre propre courage au moment de l’action ». Thucydide, <marquage typemarq="italique">Guerre du Péloponnèse</marquage>, II,38-39</alinea>
+      </para>
+      <para>
+        <alinea>
+	 </alinea>
+      </para>
+      <para>
+        <alinea>
+	Mon père n’aura pas vu le malheur frapper sa ville. Disparu une semaine auparavant, il emportait avec lui des frayeurs d’enfant persécuté sous la botte nazie et collaborationniste, la fierté d’être fils d’une grande histoire de progrès, de liberté et de tolérance, et l’honneur de penser que sa génération, comme me le disait un soir Stéphane Hessel (je le lui avais répété), avait relevé les défis qui s’imposaient à elle – la reconstruction économique et politique de l’Europe, le dépassement des clivages idéologiques et nationaux et la décolonisation. Ainsi laissait-elle aux suivantes leurs propres tâches. Cet optimisme est-il encore de saison ?</alinea>
+      </para>
+      <figure>
+        <objetmedia flot="bloc">
+          <image id="" typeimage="figure"/>
+        </objetmedia>
+      </figure>
+      <para>
+        <alinea>
+	
+	Alors qu’elle se préparait à accueillir une Conférence sur notre avenir climatique, Paris est devenue la ville-martyre d’une violence politique hypermoderne, une attaque coordonnée au sol par des commandos ennemis. Cette opération exigeait la perméabilité entre les réseaux internationaux djihadistes et le terrain d’opération visé : c’était une mission pour des agents Français<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>. Si les kamikazes du Stade de France<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> avaient pu convaincre les gardiens de les laisser pénétrer sans billet, comme ils l’ont tenté, leur attentat-suicide aurait eu lieu durant la transmission télévisée du match France-Allemagne auquel assistaient le président français et le ministre allemand Steinmaier. Les attentats de Paris sont des représailles, une réplique à la capacité des États occidentaux à mener des missions loin de leurs bases. La réponse de Daech se situe en apparence sur le terrain même où nous les combattons. Les États qui participent au système international tentent des frappes ciblées – Daech vise le cœur des villes, lieux vulnérables s’il en est. Le retentissement d’actes terribles affirme leur puissance, motive des volontaires à les rejoindre et divise leurs adversaires. Sur ce plan, leur victoire totale à Paris augure de suites tragiques malgré des ajustements diplomatiques qui profiteraient à Bachar el-Assad.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Les soldats de Daech sont issus d’Europe, comme les pilotes du 11-Septembre avaient suivi des cours de pilotage aux USA. Quel sera le prochain objectif ? La destruction d’une infrastructure centrale ? Une gare, des couloirs de métro, un musée ? Si la fréquentation des salles de spectacles et des lieux publics devait diminuer, si notre mode de vie était affecté par ces attaques, les assaillants auraient atteint leur but. Nous devenons la génération Bataclan après nous être levés pour Charlie. Relever ce défi, c’est aussi prendre notre part d’une réflexion sur la violence et proposer un chemin pour la « convivance ».</alinea>
+      </para>
+    </section1>
+    <section1>
+      <titre>
+	SACRIFICE</titre>
+      <para>
+        <alinea>
+	Européens ou non, revenant ou non de Syrie, certains individus peuvent se sacrifier en assassinant de sang-froid des dizaines d’autres jeunes venus faire la fête un vendredi soir. La décision de se sacrifier renvoie à des motivations et à des engagements aussi obscurs qu’individuels. Rien d’extérieur aux vécus singuliers ne peut l’éclairer<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi> . Leur acte est un serment de violence sans retour, dont le suicide est le terme. Les mercenaires du Bataclan ont mené une opération militaire, les mitrailleurs des terrasses s’en sont pris à la liberté d’un style de vie urbain. Leur nihilisme vise notre société en son cœur de tolérance et de libre communication. André Glucksmann, penseur de la guerre disparu quelques jours avant l’événement, s’était penché sur cette question : « Qui est prêt à se sacrifier lui-même s’estime digne de sacrifier autrui. Le terrorisme s’élève ainsi à une " mystique ", " une possession absolue de soi ", " une extase vers le bas ", prêche Tchen dans <marquage typemarq="italique">La Condition humaine</marquage>, où Malraux fait écho à Dostoïevski<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>. »</alinea>
+      </para>
+      <figure>
+        <objetmedia flot="bloc">
+          <image id="" typeimage="figure"/>
+        </objetmedia>
+      </figure>
+      <para>
+        <alinea>
+	Leur sacrifice fait de la destruction à la fois le moyen et la fin. Essentialiser leur haine ou lui trouver des justifications serait encore leur accorder une victoire. René Girard, mort lui aussi tout récemment, exprimait son incompréhension en 2008. <marquage typemarq="italique">« La nouveauté par rapport à l’héroïsme occidental est qu’il s’agit d’imposer la souffrance et la mort, au besoin en les subissant soi-même. Cette </marquage>
+          <marquage typemarq="italique">" </marquage>
+          <marquage typemarq="italique">montée aux extrêmes </marquage>
+          <marquage typemarq="italique">"</marquage>
+          <marquage typemarq="italique"> de la violence sort de notre univers. Je crois que nous sommes attachés à la vie d’une manière qui ne nous permet pas d’y accéder. Le terrorisme nous dépasse, on a l’impression de ne plus pouvoir réfléchir. C’est une menace, du fait même que l’on ne comprend pas. On ne peut pas négocier.<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi> »</marquage> Girard reste clausewitzien : la guerre n’atteint des buts politiques qu’en contrôlant le déferlement de violence qui la caractérise. Les commandos-suicides imposent une lutte sans merci dont ceux qui l’ont voulue attendent qu’elle accroisse les divergences tactiques entre les adversaires de l’État islamique et les rende incapables de se concerter pour agir.</alinea>
+      </para>
+    </section1>
+    <section1>
+      <titre>
+	VIOLENCE</titre>
+      <para>
+        <alinea>
+	Face au défi adressé à tous ceux qui pensent que la circulation des personnes et des idées favorise la paix, fondamentalement opposés à toute idéologie de fermeture des territoires et de repli des consciences, créons d’urgence des <marquage typemarq="italique">« laboratoires de la convivance<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi> »</marquage>.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Comment pouvons-nous penser que c’est d’ores et déjà possible ? Un texte me vient à l’esprit. Alors qu’il prépare une « Morale » en 1947, Sartre récuse toute fascination pour un acte isolé ou l’action d’un commando. Certains peuvent bien imaginer créer les conditions d’une délivrance radicale, d’une <marquage typemarq="italique">Apocalypse</marquage>, mais cette idée reste abstraite, elle ne tient pas dans un contexte concret d’un combat politique. Aucun acte sacrificiel ne peut instaurer une ère nouvelle. À propos du Groupe Stern, il note : « Terroriste. Mais il ne vise pas comme la plupart des terroristes la libération de l’homme. Simplement celle de la Palestine et la neutralisation du Moyen-Orient. Sans doute d’autres buts peuvent suivre, mais la violence est ici justifiée du point de vue d’une entreprise rigoureusement finie. Et sans doute aussi cette entreprise est en marche vers la libération des hommes. Mais une libération finie par rapport à certaines conditions finies. Ainsi la direction seule de l’action justifie la violence (contre la violence)<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>. » On justifie d’exercer une violence en montrant qu’elle est une riposte, une contre-violence. C’est ce qui fait que certains acceptent de servir d’instruments aveugles, et une organisation qui obtient de ses membres ce sacrifice exhibe sa détermination.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Cependant, cette violence extrême crée ou justifie un ensemble de normes qui en font un ordre du monde et non plus seulement un moyen de pression : « Je puis mettre la destruction comme moyen d’atteindre une fin au-dessus du respect de ce qui est. Dans ce second cas, j’affirme l’inessentialité de tout ce qui existe par rapport à moi-même et à mon but. La violence implique le nihilisme. […] Comme toute activité est en même temps valeur, la violence porte en elle sa propre justification, c’est-à-dire qu’elle réclame par son existence même le droit à la violence […] Ainsi la violence est manichéiste. Elle croit à un ordre du monde donné, mais manipulé par de mauvaises volontés […] Il suffit de détruire l’obstacle pour que l’ordre apparaisse...<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi> » Agir avec une violence extrême, constate Sartre, c’est compromettre la fin que l’on poursuit en l’assimilant à un absolu qu’on doit atteindre à tout prix. Le dilemme de la morale historique, c’est que tous les moyens ne sont pas propres à avancer vers la réalisation de toute fin. La poursuite de fins dans l’histoire passe par l’acceptation des échecs (provisoires), et non par l’absolutisation de la violence. Ce sera le cœur de son écriture jusqu’à la Critique de la raison dialectique.</alinea>
+      </para>
+    </section1>
+    <section1>
+      <titre>
+	ÉVÉNEMENT</titre>
+      <para>
+        <alinea>
+	Un autre aspect, capital, des réflexions de Sartre mérite d’être pointé. Il concerne la pluridimensionnalité de l’événement, qui « chemine en mille consciences à la fois<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi>. » Il ne se limite pas aux actes paroxystiques. L’événement prend une signification que ses auteurs ne peuvent en rien maîtriser. « La manière de vivre l’événement fait partie de l’événement lui-même. L’indignation du public à l’occasion d’un décret fait partie de l’événement décret. […] Précisément parce que cette signification agissante est pluridimensionnelle, l’événement est déséquilibre, c’est une prolifération décentrée. […] L’événement est mille fois séparé de lui-même et joue l’extériorité, puisque les interprétations vécues font partie de l’événement, sont constitutives de lui et que chacune est extérieure à l’autre.[…] Les fissures innombrables de l’événement sont baladeuses, il est impossible de leur attacher une place quelconque<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>. » Un événement surprend toujours ses spectateurs. Il sera intériorisé par chacun d’eux, se transformant en une ligne de conduite personnelle avant de prendre une signification historique. Ainsi en ira-t-il du Bataclan : avant de rejoindre la « mémoire collective<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi> » qui en gommera les aspects les plus saillants, il contraint chacun à prendre position et à s’engager activement. La séparation des consciences qui diffracte l’événement pousse aussi chacun à tenter de rejoindre les autres dans un effort qui transforme le vécu en fait historique.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Si cela est vrai, la dialectique historique de la Génération Bataclan commence par les réactions immédiates de ceux qui encaissent le choc sans médiation. Des réactions de témoins et de victimes directes ont été diffusées. Je m’arrêterai au personnel des hôpitaux parisiens, qui fut en première ligne, sans recul. Bruno Riou, doyen de la faculté de médecine, témoigne : <marquage typemarq="italique">« On a fait front dans des conditions dantesques. C’était tout de même une situation complètement inhabituelle, avec des blessures de guerre. Dix à douze blocs chirurgicaux ont travaillé de front. Et la cinquantaine de blessés que nous avons reçus ont pu être pris en charge. Il f</marquage>
+          <marquage typemarq="italique">a</marquage>
+          <marquage typemarq="italique">ut dire qu</marquage>
+          <marquage typemarq="italique">e la solidar</marquage>
+          <marquage typemarq="italique">ité a été incroyable. Des internes, des chefs de service, des chirurgiens sont venus nous </marquage>
+          <marquage typemarq="italique">
+            <liensimple xlink:type="simple" xlink:href="http://conjugaison.lemonde.fr/conjugaison/premier-groupe/prêter/">prêter</liensimple>
+          </marquage>
+          <marquage typemarq="italique"> main-fo</marquage>
+          <marquage typemarq="italique">rte. Je suis trè</marquage>
+          <marquage typemarq="italique">s </marquage>
+          <marquage typemarq="italique">
+            <liensimple xlink:type="simple" xlink:href="http://conjugaison.lemonde.fr/conjugaison/premier-groupe/fier/">fier</liensimple>
+          </marquage>
+          <marquage typemarq="italique"> de </marquage>
+          <marquage typemarq="italique">cette mobilisation<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi>. » </marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	<marquage typemarq="italique">Le passage immédiat de la stupeur à l’action favorise la résilience : malgré le choc qui divise et crée une grave déliaison, la solidarité humaine et préservée, les émotions de fraternité humaine viennent au secours de nos esprits ébranlés. </marquage>De proche en proche et dans le monde entier, la solidarité se met en place, réseaux sociaux et rassemblements confondus. Comptons sur elle pour opposer l’intelligence à la barbarie. <marquage typemarq="italique">Sens public </marquage>est né en 2002 en réaction à une inflexion significative du paysage politique en France, dont l’onde de choc émotionnelle était puissante. L’exemple des générations qui ont dépassé par leur mobilisation les antagonismes et les massacres du vingtième siècle pourra nous inspirer. Par-delà la guerre contre Daech et l’espoir d’une sortie future des pays arabes de leur enfermement politique, une politique d’éducation et de dialogue reste praticable. Jean-François Bayart voit dans ces attentats le « retour de boomerang » d’une politique dévoyée depuis la crise pétrolière de 1973<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi>. Rêver d’une opinion publique magiquement solidaire avec les populations arabes opprimées et votant pour soutenir les jeunes musulmans des banlieues semble un vœu pieux. Cela n’empêche ni de soutenir les initiatives démocratiques partout, ni de favoriser les « parcours républicains » chez nous. Tel est en effet, l’enjeu de la convivance. La Génération Bataclan saura s’y préparer. En proposant ces laboratoires de la convivance, nous gageons en même temps que d’autres initiatives se déploieront pour synthétiser l’événement et situer cette génération à la hauteur de son propre événement.</alinea>
+      </para>
+    </section1>
+  </corps>
+  <partiesann>
+    <grnote>
+      <note id="sdfootnote1sym">
+        <no>1</no>
+        <alinea>
+	 Le risque d’un attentat de ce type était connu de longue date. L’impuissance diplomatique face à Assad et le conflit ouvert avec Daech le rendait fatal. Interpellé en août par les policiers français, un djihadiste évoquait le projet d’Abdelhamid Abaaoud d’attaquer une salle de spectacles <liensimple xlink:type="simple" xlink:href="http://www.leparisien.fr/faits-divers/l-ombre-d-abaaoud-derriere-les-attentats-de-paris-17-11-2015-5285037.php">Voir ici</liensimple> ou <liensimple xlink:type="simple" xlink:href="http://www.lemonde.fr/attaques-a-paris/article/2015/11/16/qui-est-abdelhamid-abaaoud-le-commanditaire-presume-des-attaques-de-paris_4811009_4809495.html">là</liensimple>.</alinea>
+      </note>
+      <note id="sdfootnote2sym">
+        <no>2</no>
+        <alinea>
+	 <liensimple xlink:type="simple" xlink:href="http://www.parismatch.com/Actu/International/Bilal-Hadfi-kamikaze-de-20-ans-866517">Voir ici</liensimple>.</alinea>
+      </note>
+      <note id="sdfootnote3sym">
+        <no>3</no>
+        <alinea>
+	 La facilité intellectuelle consistant à rechercher un lien avec une prescription religieuse, quelle qu’elle soit, elle est un cercle logique absurde. Si nous trouvions un précepte autorisant le crime, la question serait de savoir pourquoi si peu de gens le mettent à exécution. Attribuer à un acte de barbarie sanguinaire le sens d’une épreuve initiatique relève d’une présupposition aussi irrationnelle que celle constatant la coïncidence avec un vendredi 13... Le djihadiste Reda Hame expliquait aux policiers avoir fait l’objet d’un chantage : être exécuté en Syrie ou commettre un attentat en Europe - <liensimple xlink:type="simple" xlink:href="http://www.leparisien.fr/faits-divers/l-ombre-d-abaaoud-derriere-les-attentats-de-paris-17-11-2015-5285037.php">Voir ici</liensimple> .</alinea>
+      </note>
+      <note id="sdfootnote4sym">
+        <no>4</no>
+        <alinea>
+	 <liensimple xlink:type="simple" xlink:href="http://www.lefigaro.fr/culture/2015/11/10/03004-20151110ARTFIG00102-quand-andre-glucksmann-evoquait-le-terrorisme-dans-une-tribune-au-figaro.php">Voir ici</liensimple>.</alinea>
+      </note>
+      <note id="sdfootnote5sym">
+        <no>5</no>
+        <alinea>
+	 <liensimple xlink:type="simple" xlink:href="http://reforme.net/une/religion/lapocalypse-a-commence">Voir ici</liensimple>.</alinea>
+      </note>
+      <note id="sdfootnote6sym">
+        <no>6</no>
+        <alinea>
+	 Ce terme est entré en 2004 dans les Addenda du Dictionnaire de l’Académie française : <marquage typemarq="gras">*CONVIVANCE </marquage>n. f. XVIII siècle, « fait de vivre ensemble ». Dérivé de l’ancien français <marquage typemarq="italique">convivre,</marquage> « vivre ensemble », avec influence, au XX siècle, de l’espagnol <marquage typemarq="italique">convivencia</marquage>. Situation dans laquelle des communautés, des groupes humains différents vivent ensemble au sein d’une même <marquage typemarq="italique">société en entretenant des relations de voisinage, de concorde et d’échange. </marquage>
+          <marquage typemarq="italique">
+            <marquage typemarq="italique">La convivance des musulmans, des juifs et des </marquage>
+          </marquage>
+          <marquage typemarq="italique">
+            <marquage typemarq="italique">chrétiens en Espagne prit fin en 1492. </marquage>
+          </marquage>
+          <marquage typemarq="italique">Voir aussi cet éloge de Florence Delay. </marquage>
+          <marquage typemarq="italique">.</marquage>
+        </alinea>
+      </note>
+      <note id="sdfootnote7sym">
+        <no>7</no>
+        <alinea>
+	Sartre, Jean-Paul, <marquage typemarq="italique">Cahiers pour une Morale (1947-1948)</marquage>, Paris, Gallimard, 1983, p. 176.</alinea>
+      </note>
+      <note id="sdfootnote8sym">
+        <no>8</no>
+        <alinea>
+	<marquage typemarq="italique">Ibid</marquage>., p. 179-182.</alinea>
+      </note>
+      <note id="sdfootnote9sym">
+        <no>9</no>
+        <alinea>
+	<marquage typemarq="italique">Ibid</marquage>., p. 40.</alinea>
+      </note>
+      <note id="sdfootnote10sym">
+        <no>10</no>
+        <alinea>
+	<marquage typemarq="italique"> </marquage>Un extrait plus consistant de ce passage : <marquage typemarq="italique">« La manière de vivre l’événement fait partie de l’événement lui-même. L’indignation du public à l’occasion d’un décret fait partie de l’événement décret. […] Précisément parce que cette signification agissante est pluridimensionnelle, l’événement est déséquilibre, c’est une prolifération décentrée. Par ailleurs chaque conscience, même si elle joue l’inertie, du seul fait qu’elle saisit l’événement selon ses propres principes, lui donne l’unité synthétique et le développement synthétique de l’Esprit. Mais le néant qui sépare une conscience d’une autre introduit la passivité. Actives en tant qu’elles synthétisent, les consciences sont passives en tant que séparées par </marquage>rien<marquage typemarq="italique">. La séparation soufferte, voilà la passivité. En ce sens, l’événement est mille fois séparé de lui-même et joue l’extériorité, puisque les interprétations vécues font partie de l’événement, sont constitutives de lui et que chacune est extérieure à l’autre.[…] Les fissures innombrables de l’événement sont baladeuses, il est impossible de leur attacher une place quelconque. Simplement, il y a un dehors dans le dedans, dehors perpétuellement ressaisi. C’est ce rapport dehors-dedans qui fait que l’événement échappe à tous et à chacun : son inertie, sa lourdeur propre ne vient pas d’une inertie physique mais d’une perpétuelle reprise. »</marquage> <marquage typemarq="italique">Ibid</marquage>., pp. 40-41.</alinea>
+      </note>
+      <note id="sdfootnote11sym">
+        <no>11</no>
+        <alinea>
+	 <liensimple xlink:type="simple" xlink:href="http://classiques.uqac.ca/classiques/Halbwachs_maurice/memoire_collective/memoire_collective.html">Voir ici</liensimple>.</alinea>
+      </note>
+      <note id="sdfootnote12sym">
+        <no>12</no>
+        <alinea>
+	<marquage typemarq="italique"> </marquage>
+          <marquage typemarq="italique">
+            <liensimple xlink:type="simple" xlink:href="http://www.lemonde.fr/attaques-a-paris/article/2015/11/14/aux-urgences-de-la-pitie-salpetriere-familles-et-amis-cherchent-des-nouvelles-de-leurs-proches_4810174_4809495.html">Voir ici</liensimple>
+          </marquage> Voir aussi par exemple <liensimple xlink:type="simple" xlink:href="http://www.lemonde.fr/attaques-a-paris/article/2015/11/15/dans-les-hopitaux-parisiens-apres-une-nuit-de-crise_4810229_4809495.html">ici</liensimple> ou <liensimple xlink:type="simple" xlink:href="http://www.lemonde.fr/attaques-a-paris/article/2015/11/15/a-l-hopital-la-pitie-salpetriere-comme-l-equipage-d-un-sous-marin-en-immersion_4810396_4809495.html">là</liensimple>  ou ou .</alinea>
+      </note>
+      <note id="sdfootnote13sym">
+        <no>13</no>
+        <alinea>
+	 <liensimple xlink:type="simple" xlink:href="http://www.liberation.fr/debats/2015/11/15/le-retour-du-boomerang_1413552">Voir ici</liensimple>.</alinea>
+      </note>
+    </grnote>
+  </partiesann>
+</article>

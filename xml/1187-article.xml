@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1914ear" typeart="autre" lang="fr" ordseq="1">
+  <admin>
+    <infoarticle>
+      <idpublic scheme="doi">null</idpublic>
+      <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
+        <descripteur>Political science</descripteur>
+        <descripteur>France</descripteur>
+      </grdescripteur>
+      <nbpara>6</nbpara>
+      <nbmot>503</nbmot>
+      <nbfig>0</nbfig>
+      <nbtabl>0</nbtabl>
+      <nbimage>0</nbimage>
+      <nbaudio>0</nbaudio>
+      <nbvideo>0</nbvideo>
+      <nbrefbiblio>0</nbrefbiblio>
+      <nbnote>0</nbnote>
+    </infoarticle>
+    <revue id="sp01868" lang="fr">
+      <titrerev>Sens public</titrerev>
+      <titrerevabr>SP</titrerevabr>
+      <idissnnum>2104-3272</idissnnum>
+      <directeur sexe="masculin">
+        <nompers>
+          <prenom>Marcello</prenom>
+          <nomfamille>Vitali-Rosati</nomfamille>
+        </nompers>
+      </directeur>
+    </revue>
+    <numero id="sp063">
+      <pub>
+        <annee>2016</annee>
+      </pub>
+      <pubnum>
+        <date typedate="publication">2016-03-23</date>
+      </pubnum>
+      <grtheme id="th">
+        <theme/>
+      </grtheme>
+    </numero>
+    <editeur>
+      <nomorg>Département des littératures de langue française</nomorg>
+    </editeur>
+    <prod>
+      <nomorg>Sens public</nomorg>
+    </prod>
+    <prodnum>
+      <nomorg>Sens public</nomorg>
+    </prodnum>
+    <diffnum>
+      <nomorg>Sens public</nomorg>
+    </diffnum>
+    <histpapier>
+      <alinea>néant</alinea>
+    </histpapier>
+    <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
+    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+  </admin>
+  <liminaire>
+    <grtitre>
+      <titre>Political institutions appropriate for today</titre>
+    </grtitre>
+    <grauteur>
+      <auteur id="spAuthor69">
+        <nompers>
+          <prenom>Christophe</prenom>
+          <nomfamille>Premat</nomfamille>
+        </nompers>
+      </auteur>
+    </grauteur>
+    <grmotcle lang="fr">
+      <motcle>focus</motcle>
+      <motcle>Milieu politique</motcle>
+      <motcle>France</motcle>
+    </grmotcle>
+  </liminaire>
+  <corps>
+    <section1>
+      <para>
+        <alinea>
+	<marquage typemarq="italique">Translated from the French original by Amudha Lingeswaran</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	 </alinea>
+      </para>
+      <para>
+        <alinea>
+	Institutional reforms is in the air today. We are not touching on the territories without initiating a deeper reflexion on the state of our institutions that cannot be left as they are after the constitution of the European Union and the major steps of the decentralisation process. Beyond the legitimate disagreements about the shape of the territorial reform, the relationship between public authorities should be reappraised. Bicameralism is often a feature that is in question. Yes, simplifying the law-making process is also on the agenda, it involves consolidating constituencies, but what mainly matters is the end of the Hydra Executive. The choice is between the supporters of the American presidentialism (independent Parliament without the post of Prime Minister) and those of a system keeping a Prime minister. In a European context, it seems to me that a Prime minister system with a President concentrating on international affairs and guaranteeing institutions looks more appropriate. In other words, the head of government has an effective action. To strengthen its legitimacy, the Prime Minister is the representative of the party having won the election. Thus, by voting for parties, the voters know in advance the potential prime ministers. Is this a return of the 4th Republic with a Prime minister similar to the former President of the Council ? No, because the presidential elections are maintained with the desire to promote an international and European message and to propose two major reforms over five years.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Furthermore, if a useful bicameral system for reviewing laws is to be maintained, the voting system must differ in a way that promotes a plural expression of opinion. The senators could be elected by direct universal suffrage and by proportional representation. We would have a dialogue between the two assemblies resulting from a different voting system. Decentralization, European integration and to some extent the prohibition to hold more than one office concurrently are conducive to reshaping relations between public authorities. The President of the National Assembly, Claude Bartolone, has just rightly embraced a presidential system where the executive role is simplified. It is true that the post of Prime Minister, even being partially redundant, is not always eager to implement the policy desired by the President. Therefore, the relationship of the executive couple is not always easy, since the Prime Minister is lacking the electoral legitimacy proper to the President. According to Article 20 of our Constitution, the Prime Minister is the implementer of a policy decided by the President. We might eventually either reform the institution of the presidency in order for the President to step back and become the guardian of the constituency – but then the Prime Minister will need to have an electoral legitimacy – or we should eliminate the Prime Minister.</alinea>
+      </para>
+      <para>
+        <alinea>
+	In any case, it is time our institutions evolved to promote collective decision-making and avoid this twofold executive often unintelligible to our partners. At the time of simplification, our institutions must embrace change to cause a regime transition.</alinea>
+      </para>
+      <para>
+        <alinea>
+	 </alinea>
+      </para>
+    </section1>
+  </corps>
+  <partiesann/>
+</article>

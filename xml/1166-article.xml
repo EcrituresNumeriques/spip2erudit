@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1894ear" typeart="autre" lang="fr" ordseq="1">
+  <admin>
+    <infoarticle>
+      <idpublic scheme="doi">null</idpublic>
+      <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
+        <descripteur>Société numérique</descripteur>
+        <descripteur>Philosophie</descripteur>
+        <descripteur>Technology</descripteur>
+        <descripteur>Internet</descripteur>
+      </grdescripteur>
+      <nbpara>11</nbpara>
+      <nbmot>1850</nbmot>
+      <nbfig>0</nbfig>
+      <nbtabl>0</nbtabl>
+      <nbimage>0</nbimage>
+      <nbaudio>0</nbaudio>
+      <nbvideo>0</nbvideo>
+      <nbrefbiblio>0</nbrefbiblio>
+      <nbnote>7</nbnote>
+    </infoarticle>
+    <revue id="sp01868" lang="fr">
+      <titrerev>Sens public</titrerev>
+      <titrerevabr>SP</titrerevabr>
+      <idissnnum>2104-3272</idissnnum>
+      <directeur sexe="masculin">
+        <nompers>
+          <prenom>Marcello</prenom>
+          <nomfamille>Vitali-Rosati</nomfamille>
+        </nompers>
+      </directeur>
+    </revue>
+    <numero id="sp01946">
+      <pub>
+        <annee>2015</annee>
+      </pub>
+      <pubnum>
+        <date typedate="publication">2015-10-25</date>
+      </pubnum>
+      <grtheme id="th">
+        <theme/>
+      </grtheme>
+    </numero>
+    <editeur>
+      <nomorg>Département des littératures de langue française</nomorg>
+    </editeur>
+    <prod>
+      <nomorg>Sens public</nomorg>
+    </prod>
+    <prodnum>
+      <nomorg>Sens public</nomorg>
+    </prodnum>
+    <diffnum>
+      <nomorg>Sens public</nomorg>
+    </diffnum>
+    <histpapier>
+      <alinea>néant</alinea>
+    </histpapier>
+    <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
+    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+  </admin>
+  <liminaire>
+    <grtitre>
+      <titre>L'importance d'un avertissement</titre>
+    </grtitre>
+    <grauteur>
+      <auteur id="spAuthor1010">
+        <nompers>
+          <prenom>Peppe</prenom>
+          <nomfamille>Cavallari</nomfamille>
+        </nompers>
+      </auteur>
+    </grauteur>
+    <grmotcle lang="fr">
+      <motcle>focus</motcle>
+      <motcle>Monde numérique</motcle>
+      <motcle>Philosophie</motcle>
+      <motcle>Technologies</motcle>
+      <motcle>Internet</motcle>
+    </grmotcle>
+  </liminaire>
+  <corps>
+    <section1>
+      <para>
+        <alinea>
+	Tout profond changement comporte des aspects qui font surface, s’épanouissant dans leur évidence et leur actualité, attirant ainsi immédiatement l’attention et sollicitant facilement une série de réflexions et d’analyses, et d’autres aspects moins actuels ou plus hypothétiques, se déguisant dans une sorte de latence dont les facteurs fondamentaux sont déjà à l’œuvre mais d’une façon presque imperceptible et subreptice. C’est le cas de ce que certains auteurs ont appelé la « métamorphose numérique<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi> » ou encore, selon une expression plus courante, la « révolution numérique<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> », pour se borner simplement à deux apparitions récentes correspondant sans aucun doute aux caractéristiques d’une transformation radicale qui peut nous cacher certains de ses enjeux majeurs. C’est avec Milad Doueihi que l’on commence à parler de « culture numérique », le numérique n’étant pas simplement un ensemble d’innovations technologiques et un nouvel appareillage mais une nouvelle manière de percevoir et d’apprendre, de s’exprimer et d’exister, tel que le soulignent le phénoménologue Stéphane Vial et les sociologues Dominique Cardon et Antonio Casilli. Le numérique est, en somme, « une nouvelle façon d’habiter le monde », pour reprendre l’expression de Marcello Vitali-Rosati. Dans son dernier ouvrage, Daniel Caron partage cette conscience d’une modification globale de plusieurs aspects culturels et sociaux touchant au système de valeurs qui sous-entend notre identité. La réflexion menée dans <marquage typemarq="italique">L’homme imbibé</marquage> développe celle qu’il avait déjà amorcée dans <marquage typemarq="italique">Web HT.0 pour une société informée : la pertinence numérique et ses défi</marquage>
+          <marquage typemarq="italique">s</marquage>
+          <marquage typemarq="italique"> pour les sociétés démocratiques </marquage>
+          <marquage typemarq="italique">a</marquage>
+          <marquage typemarq="italique">u 21</marquage>
+          <marquage typemarq="italique"> sièc</marquage>
+          <marquage typemarq="italique">le</marquage>, où l’auteur analysait les bouleversements apportés par l’adoption sociale de nouvelles pratiques d’écriture et de lecture au sein de la production documentaire. Ces deux ouvrages portent sur le statut de ce qu’on peut qualifier de document à la lumière de l’hyper-production de textes d’aujourd’hui. Car comme Caron le dit lui-même ailleurs<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>, « voici qu’à l’image de ce que fut le passage de l’oral à l’écrit, les habitudes et les comportements liés à l’écriture et à la lecture ainsi que tout ce qui concerne la production documentaire et sa ’’gestion’’ formelle et informelle se voient bouleversés dans nos sociétés par le numérique ». Au cœur de cette évolution, il y a le rôle de l’écriture, de l’écriture conversationnelle et factice que tout le monde emploie à tout moment pour agir et non plus pour raconter. Cette écriture, aujourd’hui « technologie sociale d’expression » est aussi une forme intrinsèque d’enregistrement (avec les conséquences remarquées par Maurizio Ferraris dans <marquage typemarq="italique">Âme et I-pad</marquage>), voire une majeure implication dans tout ce qu’on se dit, car pour <marquage typemarq="italique">dire</marquage> en réalité on <marquage typemarq="italique">écrit</marquage>. Caron observe que :</alinea>
+      </para>
+      <para>
+        <alinea>
+	 la majeure partie de ce qui est dit à l’ère pré-numérique n’est pas écrit mais qu’à l’ère numérique, la majeure partie de ce qui est dit est maintenant écrit. Toutefois, alors que la majeure partie de ce qui est écrit à l’ère pré-numérique est imprimé, la majeure partie de l’écrit à l’ère numérique ne sera jamais imprimé </alinea>
+      </para>
+      <para>
+        <alinea>
+	l’imprimé étant la forme qui résulte d’un triage aujourd’hui problématique. Les deux raisons de cette difficulté dépendent bien sûr de la quantité monstrueuse de données désormais produites (grâce à – ou à cause de – l’enregistrement partout opérant) mais aussi d’une temporalité différente caractérisant la dynamique et la signification de cette même production. Établir à quel moment structurer un discours toujours en train de se faire pour l’arrêter, le fixer et le convertir en document, pose une infinité de questions : quand pouvons-nous qualifier de « passé » ce qui est encore en train de se modifier tout en étant toujours présent ? « Nous ne sommes plus dans un régime d’historicité marqué par la force du passé ou par la projection dans le futur – comme écrit Eric Méchoulan<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi> – mais par une sorte de ’’présentisme’’», la présence numérique étant une présence toujours « en train de… ». Autrement dit, une identité « en mouvement » (comme l’indique Serge Tisseron<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>) qui déstabilise notre rapport au passé – dont le document ambitionne de constituer une preuve, un témoignage, une « information », pour reprendre ici l’un des mots clés de l’ouvrage de Caron. Le cœur de la réflexion de Caron concerne en effet cette masse d’informations presque jamais vérifiées qui structure notre vision du monde, transformant notre code d’interprétation :</alinea>
+      </para>
+      <para>
+        <alinea>
+	C’est cette masse d’information aux origines de moins en moins claires, contrôlables et identifiables – écrit Caron à propos de tout ce qui circule sur la toile – qui participe maintenant à la formation des individus, à leur compréhension du monde environnant, des enjeux sociaux, des espoirs, des luttes et de ce qui fait de chacun de nous des citoyens informés et engagés.</alinea>
+      </para>
+      <para>
+        <alinea>
+	 </alinea>
+      </para>
+      <para>
+        <alinea>
+	Le numérique filtre donc notre culture, la culture étant justement « la manière dont nous envisageons le monde autour de nous et la manière dont nous sommes perçus », c’est-à-dire  « l’ensemble de ce qui affecte le développement de notre esprit et finalement de nos collectivités dans nos manières de nous comporter, de comprendre notre environnement, de l’influencer, de dire et de définir le vrai et le faux, le bon et le mauvais ou l’acceptable et l’inacceptable. » Avant l’éclatement de l’information produite par le numérique, les institutions pouvaient mettre en place ce que Caron appelle les <marquage typemarq="italique">«</marquage> pédagogies organisationnelles », capables de façonner l’esprit d’une communauté autour de notions et de valeurs reconnues comme fondamentales et qui, au travers du système scolaire national – donc au travers un plan concerté d’informations – cherchaient à devenir patrimoine commun.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Aujourd’hui, à l’époque de la connexion permanente caractérisant ce qu’on peut appeler avec Jean-François Fogel et Bruno Patino la « condition numérique<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi> »,</alinea>
+      </para>
+      <para>
+        <alinea>
+	 Ce n’est plus à travers les agents et les canaux consacrés que circule la masse des données fondamentales de la production documentaire qui nourrissent nos pensées. Ce ne sont plus seulement dans des lieux comme l’archive, la salle de classe, l’université, l’entreprise, la bibliothèque ou la librairie que nous puisons aujourd’hui nos contenus. Cette matière première – remarque Caron – circule de plus en plus librement et notamment sans médiation et sans apprêt en passant directement du créateur au consommateur.</alinea>
+      </para>
+      <para>
+        <alinea>
+	L’homme – et à plus forte raison la société toute entière – est imbibé dans un flux d’informations qui complexifie la prise de décision et donc l’assomption de responsabilité : l’information assume une importance croissante dans notre vie mais sans être plus crédible qu’auparavant, elle est tout simplement plus disséminée dans sa production et plus personnalisée dans sa capacité de saisir la personne particulière. Le flux d’information dont parle Caron, c’est le flux de récits, d’opinions, d’avis et de commentaires qui circulent dans les blogs, les réseaux sociaux, les forums ouverts à n’importe quel sujet, toute une masse de données intelligibles qui, dans l’observation qu’on peut en faire, constituent un tableau complexe. Un tableau continuellement présent qui ne sèche jamais, de notre société qui se reflète dans le miroir liquide et fantasque de son hyperactivité informationnelle :  « Il y a chaque jour des milliers de prises de position qui documentent la pensée sociale, qui la construisent à petites doses de réalités concrètes, d’opinions, de compréhensions du monde qui nous entoure et de l’avenir que nous souhaitons »<marquage typemarq="italique"> </marquage>– observe Caron – « mais c’est de plus en plus par affinité que nous progressons en tant que société. Même si cette production n’est pas nécessairement imprimée et n’est pas sujette aux conventions du système de l’écrit, elle est exprimée, transcrite et diffusée à une échelle impressionnante. » (p. 40)</alinea>
+      </para>
+      <para>
+        <alinea>
+	Mais, en plus d’être la représentation du moment et de l’instant, cette cascade informe et rugissante de données est censée devenir de toute façon mémoire, histoire, passé : démocratiser l’accès à l’information et la production de l’information même, signifie – avertit Caron – rendre accessible à tous « le pouvoir de créer du passé », étant donné que « le privilège de parler au nom du passé à travers reliques, archives ou artefacts est sur le point de disparaître à l’ère numérique ». Face au numérique, nous pouvons parfaitement observer le processus de fabrication documentaire, le stockage ainsi que l’archivage, et évaluer les répercussions qu’ont les techniques employées sur les contenus eux-mêmes<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>. L’enregistrement numérique, l’enregistrement sans distinction entre ce qui est d’intérêt public et ce qui est tout à fait privé, ne répond pas à une stratégie pédagogique qui chercherait à planifier le futur de notre mémoire, et cela crée les conditions d’une « mémoire résiduelle imprévisible dans ce qu’elle sera » (p.63). Si l’écriture prédominante est aujourd’hui l’écriture produite par des outils connectés à la toile, voire une écriture comme on l’a déjà dit « communicationnelle », alors la mémoire, qui dépend toujours de l’écriture et de ses métamorphoses techniques, changera elle aussi de statut. Les porteurs traditionnels des contenus qui formaient allaient former l’esprit identitaire d’une communauté étaient des institutions pédagogiques et culturelles dont le but fondamental et socialement reconnu était justement de sélectionner et donc archiver les traces considérées plus significatives d’une époque. Aujourd’hui, les porteurs de contenus sont les applications, les périphériques, les détenteurs de la bande passante et les algorithmes, qui – comme nous a montré Dominique Cardon – véhiculent par le biais des visions du monde qui en dérivent des projets politiques. Caron parle à ce propos de les définit « processus pédagogiques » : l’ensemble des interactions technologiques qui, personnalisant l’espace discursif de chacun, décident de sa capacité et de son droit d’accéder à une certaine information plutôt qu’à une autre, façonnant ainsi son espace identitaire de réflexion et d’action : un espace éclaté en fragments scripturaux auxquels correspondent (selon l’intrigante symétrie établie par l’auteur)  les fragments de personnalité de l’homme imbibé. Cet homme imbibé, « être fragilisé », habite un espace chaotique, imprévisible, incertain : « Le numérique crée une tension entre nos cadres habituels de vivre, de grandir et de nous développer dans un certain ordre et à l’intérieur de règles et nous entraîne vers un environnement plus ouvert qui semble vouloir s’autoréguler et s’auto-organiser » (p.121), et cela bouleverse les pédagogies officielles qui se retrouvent mises en questions car le numérique, avec la nouvelle socialisation et la culture de passage qu’il entraîne, « transforme l’ADN de la structure pédagogique intentionnelle ». Le défi des institutions du savoir et de la mémoire à l’ère de Google et Facebook est alors, selon la réflexion de Caron, celui de ne pas abdiquer à leur rôle fondamental pour la construction de l’identité individuelle et collective tout en cherchant à dialoguer avec ce nouvel espace informationnel, mémoriel et social qu’est le web : « Le numérique – et ce sont les derniers mots de cet ouvrage – ne sera pas déstabilisant pour nos sociétés dans la mesure où nous saurons comprendre et réinventer nos façon de parler dans l’espace qu’il crée ».</alinea>
+      </para>
+      <para>
+        <alinea>
+	 </alinea>
+      </para>
+    </section1>
+  </corps>
+  <partiesann>
+    <grnote>
+      <note id="sdfootnote1sym">
+        <no>1</no>
+        <alinea>
+	 F. Jutand (Dir.), <marquage typemarq="italique">La métamorphose numérique</marquage>, Paris, Édition Alternatives, 2013.</alinea>
+      </note>
+      <note id="sdfootnote2sym">
+        <no>2</no>
+        <alinea>
+	 R. Rieffel, <marquage typemarq="italique">Révolution numérique, révolution culturelle ?</marquage> Paris, Gallimard, coll. Folio, 2014.</alinea>
+      </note>
+      <note id="sdfootnote3sym">
+        <no>3</no>
+        <alinea>
+	 D. Caron, (avec la collaboration de Richard Brown), « Entre Voltaire et Borges : archiver, trier ? Une perspective de bien public », dans <marquage typemarq="italique">Intermédialités</marquage>, CRI, Montréal, n°18, 2011, p.90.</alinea>
+      </note>
+      <note id="sdfootnote4sym">
+        <no>4</no>
+        <alinea>
+	 E. Méchoulan, « Organisation des archives et métadonnées dans des contextes hypermnésiques », dans C.Larsonneur, A. Regnaud, P. cassou-Noguès, S. Touiza (Dir.), <marquage typemarq="italique">Le sujet digital</marquage>, Dijon, Les presses du réel, 2015. Dans la note à pied de page, l’auteur renvoie à F. Hartog, <marquage typemarq="italique">Régime d’historicité. Présentisme et expérience du temps,</marquage> Paris, Seuil, 2003.</alinea>
+      </note>
+      <note id="sdfootnote5sym">
+        <no>5</no>
+        <alinea>
+	 S. Tisseron, <marquage typemarq="italique">Virtuel, mon amour</marquage>, Paris, Albin Michel, 2008.</alinea>
+      </note>
+      <note id="sdfootnote6sym">
+        <no>6</no>
+        <alinea>
+	 J.-F.Fogel, B. Patino, <marquage typemarq="italique">La condition numérique</marquage>, Paris, Grasset, 2013.</alinea>
+      </note>
+      <note id="sdfootnote7sym">
+        <no>7</no>
+        <alinea>
+	 « La façon de stocker n’est pas neutre, elle affecte le potentiel des stratégies conscientes de mémorisation. La capacité mnémotechnique peut devenir un outil au service d’une cause, d’un pouvoir. […] Elle a une incidence directe sur la partie voulue, prescrite et programmée de nos ambitions de mémorisation. » (p.63)</alinea>
+      </note>
+    </grnote>
+  </partiesann>
+</article>

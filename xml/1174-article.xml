@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1902ear" typeart="autre" lang="fr" ordseq="1">
+  <admin>
+    <infoarticle>
+      <idpublic scheme="doi">null</idpublic>
+      <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
+        <descripteur>Société numérique</descripteur>
+        <descripteur>Philosophie</descripteur>
+        <descripteur>Pensée politique et sociale</descripteur>
+        <descripteur>France</descripteur>
+      </grdescripteur>
+      <nbpara>11</nbpara>
+      <nbmot>3126</nbmot>
+      <nbfig>0</nbfig>
+      <nbtabl>0</nbtabl>
+      <nbimage>0</nbimage>
+      <nbaudio>0</nbaudio>
+      <nbvideo>0</nbvideo>
+      <nbrefbiblio>0</nbrefbiblio>
+      <nbnote>10</nbnote>
+    </infoarticle>
+    <revue id="sp01868" lang="fr">
+      <titrerev>Sens public</titrerev>
+      <titrerevabr>SP</titrerevabr>
+      <idissnnum>2104-3272</idissnnum>
+      <directeur sexe="masculin">
+        <nompers>
+          <prenom>Marcello</prenom>
+          <nomfamille>Vitali-Rosati</nomfamille>
+        </nompers>
+      </directeur>
+    </revue>
+    <numero id="sp01946">
+      <pub>
+        <annee>2015</annee>
+      </pub>
+      <pubnum>
+        <date typedate="publication">2015-11-30</date>
+      </pubnum>
+      <grtheme id="th">
+        <theme/>
+      </grtheme>
+    </numero>
+    <editeur>
+      <nomorg>Département des littératures de langue française</nomorg>
+    </editeur>
+    <prod>
+      <nomorg>Sens public</nomorg>
+    </prod>
+    <prodnum>
+      <nomorg>Sens public</nomorg>
+    </prodnum>
+    <diffnum>
+      <nomorg>Sens public</nomorg>
+    </diffnum>
+    <histpapier>
+      <alinea>néant</alinea>
+    </histpapier>
+    <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
+    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+  </admin>
+  <liminaire>
+    <grtitre>
+      <titre>Safety Check : social network et sentimento di sicurezza</titre>
+    </grtitre>
+    <grauteur>
+      <auteur id="spAuthor1010">
+        <nompers>
+          <prenom>Peppe</prenom>
+          <nomfamille>Cavallari</nomfamille>
+        </nompers>
+      </auteur>
+    </grauteur>
+    <grmotcle lang="fr">
+      <motcle>focus</motcle>
+      <motcle>Monde numérique</motcle>
+      <motcle>Philosophie</motcle>
+      <motcle>Politique et société</motcle>
+      <motcle>France</motcle>
+      <motcle>essais</motcle>
+    </grmotcle>
+  </liminaire>
+  <corps>
+    <section1>
+      <para>
+        <alinea>
+	Hanno sepolto il tabaccaio nella fossa comune. Quindi questo tramonto di oggi non lo riguarda. E però, a questo solo pensiero, per quanto mio malgrado, ha smesso di riguardare anche me.</alinea>
+      </para>
+      <para>
+        <alinea>
+	Fernando Pessoa, <marquage typemarq="italique">Il libro dell’inquietudine</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	 </alinea>
+      </para>
+      <para>
+        <alinea>
+	 </alinea>
+      </para>
+      <para>
+        <alinea>
+	Il sentimento di sicurezza è un sentimento paradossale: lo si avverte quando non lo si avverte affatto. Porne la questione basta già ad infrangerlo: in effetti, noi pensiamo di essere in sicurezza soltanto quando non ci pensiamo proprio. Non bisogna vederla, la sicurezza, per poterla sentire. Proprio per questo <marquage typemarq="italique">securizzare</marquage> luoghi e infrastrutture (piazze, ponti, palazzi, stadi, stazioni, ecc.) con uno spiegamento più o meno massiccio di forze chiamate appunto <marquage typemarq="italique">di sicurezza</marquage>, comporta spesso l’effetto opposto, e cioè l’inquietudine e la preoccupazione di tutti coloro che possono spontaneamente chiedersi: <marquage typemarq="italique">Perchè c’è la polizia ? Che succede? </marquage>La principale differenza tre l’accoglienza a bordo di un aereo e quella che si riceve su un treno, si manifesta proprio al livello del sentimento di sicurezza: in aereo, ci vengono meticolosamente somministrate informazioni dettagliate (compresa la parola d’ordine per indicare un eventuale pericolo) sul comportamento da tenere in caso di ammaraggio, o di una qualsiasi situazione drammatica ; in treno, il controllore ci chiede semplicemente di esibire il biglietto. Per questo motivo, il sentimento di sicurezza durante un tragitto in treno è superiore rispetto a quello di un viaggio aereo, ma probabilmente resta inferiore, invece, a quello di un viaggio in auto (perchè è la nostra, e siamo noi a guidarla) anche se la mortalità stradale raggiunge delle cifre madornali<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>. Una cosa è sentirsi al sicuro, un’altra è esserlo <marquage typemarq="italique">davvero</marquage>: le statistiche degli incidenti domestici dimostrano una volta di più come si possa essere, per così dire, tranquillamente in pericolo, anche rimanendo a casa<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>
+	 </alinea>
+      </para>
+      <para>
+        <alinea>
+	Venerdi 13 novembre, durante gli attacchi terroristici di Parigi, la città in cui vivo, Facebook ha attivato la funzione <marquage typemarq="italique">Verifica dell’assenza di pericolo</marquage>
+          <marquage typemarq="italique"> </marquage>(<marquage typemarq="italique">Safety </marquage>
+          <marquage typemarq="italique">C</marquage>
+          <marquage typemarq="italique">heck</marquage>), e ciò ha profondamente influenzato il nostro modo di vivere l’evento e dunque, nella prospettiva sartriana <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/article1170.html">qui</liensimple> evocata da Gérard Wormser, l’evento in quanto tale. I nostri comportamenti individuali e collettivi, infatti, non sono soltanto le reazioni e le interpretazioni postume dell’evento, ma una rivisitazione, una vera appropriazione à <marquage typemarq="italique">posteriori</marquage> dell’evento stesso, che così finisce per appartenerci. Prima ancora di accorgermene, a casa con la mia compagna, dopo aver saputo quel che era successo (allo Stade de France, davanti al Carillon e a La Belle Équipe) e quel che ancora stava succedendo, soprattutto al Bataclan, avevo cercato su Messenger il mio amico Ignace, che è un dj molto attivo e quindi ho pensato subito a lui: avrebbe potuto facilmente trovarsi al Bataclan. Ignace invece era a casa, anche lui come me, e così abbiamo potuto rassicurarci l’un l’altro con qualche messaggio. Dopo, andando su Facebook, mi sono scoperto <marquage typemarq="italique">segnalato al sicuro</marquage> (<marquage typemarq="italique">signalé en sécurité</marquage>
+          <marquage typemarq="italique">)</marquage>
+          <marquage typemarq="italique"> </marquage>
+          <marquage typemarq="italique">d</marquage>
+          <marquage typemarq="italique">a Ignace Corso </marquage>
+          <marquage typemarq="italique">durante</marquage>
+          <marquage typemarq="italique"> Atta</marquage>
+          <marquage typemarq="italique">cchi</marquage>
+          <marquage typemarq="italique"> terrorist</marquage>
+          <marquage typemarq="italique">i</marquage>
+          <marquage typemarq="italique">ci</marquage>
+          <marquage typemarq="italique"> </marquage>
+          <marquage typemarq="italique">a</marquage>
+          <marquage typemarq="italique"> Pari</marquage>
+          <marquage typemarq="italique">gi </marquage>
+          <marquage typemarq="italique">: </marquage>che sorpresa ! Bravo Ignace ! Quando mia mamma e mio fratello, qualche minuto più tardi, e a seguire zie, zii e cugini mi hanno telefonato dall’Italia, sapevano già che ero stato segnalato <marquage typemarq="italique">al</marquage>
+          <marquage typemarq="italique"> s</marquage>
+          <marquage typemarq="italique">i</marquage>
+          <marquage typemarq="italique">cur</marquage>
+          <marquage typemarq="italique">o</marquage>. Pur non avendo una nozione precisa di cosa volesse dire una tale indicazione, per noi tutti senza precedenti, in circonstanze tanto tragiche, questa aveva quanto meno alleggerito la loro paura. La loro, quindi anche la mia. <marquage typemarq="italique">Niuna nuova</marquage>
+          <marquage typemarq="italique">, b</marquage>
+          <marquage typemarq="italique">uona</marquage>
+          <marquage typemarq="italique"> nu</marquage>
+          <marquage typemarq="italique">o</marquage>
+          <marquage typemarq="italique">v</marquage>
+          <marquage typemarq="italique">a</marquage>, recita l’espressione proverbiale completamente stravolta nella logica del social network, ancor più in una situazione come quella di venerdì. Rimanendo connesso, nello spavento sconcertato dalle terrificanti notizie di giornali e televisione, vedevo intanto i miei contatti su Parigi segnalarsi, o essere segnalati da qualcun altro, in condizioni di sicurezza. Uno dopo l’altro, in un apposito box sottostante al mio nuovo status e dedicato agli status di chi era <marquage typemarq="italique">in sicurezza</marquage>, con i relativi commenti dei loro amici, vedevo affiorare i miei amici sani e salvi. Al tempo stesso, insieme alla mia compagna, mi preoccupavo degli amici che ancora mancavano all’appello: coloro i quali non venivano segnalati al sicuro, dov’erano? Dov’erano Alessandra o Charlotte? E perchè Anatole non si segnalava ancora? Nomi e volti venivano radunati e inanellati nella galleria delle foto-profilo spensierate o pittoresche, dei selfies ironici o romantici che partecipano del notro volto digitale. Digitale, e ormai anche non-digitale. Facebook diventava, nello scorrere di quei minuti lunghi fino a parecchie ore, il luogo ideale in cui misurare l’impatto degli attentati sulle nostre esistenze, le nostre abitudini, le nostre relazioni, i nostri sentimenti in comune. L’importanza di questa funzione si dimostrava immediatemente cruciale e soprattutto, a pensarci bene, insostituibile: soltanto Facebook avrebbe potuto darmi in diretta un’informazione comprovata sui miei contatti parigini, dato che solamente su Facebook queste relazioni sono formalizzate e strutturate. Per un’istituzione italiana come il Ministero degli Esteri, o il Consolato italieno a Parigi, io non sono altro che uno dei tanti italiani che abitano in Francia, dato che Ministero e Consolato non hanno alcun interesse e alcuna possibilità di conoscere la mia rete di conoscenze. D’altro canto, per lo Stato francese, risulto iscritto ad un qualche registro ufficiale solo da quando ho avuto la mia c<marquage typemarq="italique">arte </marquage>
+          <marquage typemarq="italique">v</marquage>
+          <marquage typemarq="italique">itale</marquage>, la tessera sanitaria, e questo appena qualche mese fa a causa certo della mia pigrizia ma anche di qualche disguido tipicamente burocratico. Soltanto da pochi mesi sono qualcuno. Qualcuno, un individuo senza alcuna importanza collettiva tenuto ad abitare, da solo o chissà con chi, all’indirizzo riportato in una dichiarazione di ospitalità, e che ha comunque già firmato più volte un regolare contratto di lavoro. In fondo, il solo vincolo formale tra i due paesi a riguardarmi personalmente è, a pensarci bene, la Convenzione in vigore per entrambi i governi in materia di tassazione sul salario, allo scopo di evitare une doppia imposizione: grazie tante! Le istituzioni ci configurano innanzitutto nella nostra individualità, un’individualità puramente burocratica concepita dalle istituzioni stesse e isolata nella propria astrazione auto-referenziale, l’identità statutaria del notro stato civile. L’unica infrastruttura che, replicando un paradigma paragonabile a quello del Panopticon, è capace di identificarmi in quanto parte di un network, di una rete, addirittura deducendo la mia identità a partire dal mio social network, è il social network stesso, la rete stessa: non un protocollo d’urgenza approntato da un ministero o un’altra qualsiasi istituzione, ma Facebook. La funzione attivata a causa degli attentati, rimandandomi al social network di cui faccio parte, e che altrettanto fa parte di me, mi rimandava a me stesso, ai miei pensieri, ai ricordi, alle paure, ai nomi e ai volti delle persone che conosco. Venerdi sera, la funzione Safety Chech palesava in un modo esemplare come la nostra individualità si formi soltanto nell’ambito di una collettività: «<marquage typemarq="italique">laddove il pensiero classico vede, in generale, cose isolate che successivamente sono messe in relazione, il pensiero contemporaneo </marquage>-scrive Eric Méchoulan- <marquage typemarq="italique">insiste sul fatto che le cose sono innanzitutto dei nodi di relazioni, dei movimenti di relationi così tanto rallentati da sembrare immobili.</marquage> <renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>»</alinea>
+      </para>
+      <para>
+        <alinea>
+	 </alinea>
+      </para>
+      <para>
+        <alinea>
+	<marquage typemarq="italique">Innanzitutto</marquage> <marquage typemarq="italique">dei nodi di relationi</marquage> dunque, relazioni che in quanto tali non si limitavano alla rete dei contatti parigini: l’informazione relativa allo stato di sicurezza arrivava, sotto forma di notifica, anche a chi non abita a Parigi, quindi non era in pericolo ma in ansia. <marquage typemarq="italique">I vostri amici a Parigi stanno bene</marquage>, era la notizia che giungeva, senza doverne fare esplicita richiesta, ai miei contatti in Italia, di gran lunga la maggior parte dei miei amici su Facebook. Sapere che gli altri ci sapevano al sicuro placava la nostra inquietudine: da un lato, ci era risparmiata la preoccupazione di informare parenti ed amici per tranquillizzarli, e dall’altro lato si sventava pure la febbrile angoscia per tutte quelle personne di cui probabilmente non abbiamo il numero di telefono, di cui a volte non ricorderemmo che vagamente il nome, senza un algoritmo et un’interfaccia che invece ci inducono pensare a loro. <marquage typemarq="italique">Pensare all’altro, non è più la stessa cosa</marquage> avevo scritto sul mio<liensimple xlink:type="simple" xlink:href="http://blog.sens-public.org/peppecavallari/2014/10/17/penser-a-quelquun-ce-nest-plus-la-meme-chose/"> blog</liensimple>, ancor prima di leggere il libro di Fréderic Worms in cui il filosofo (confortandomi in quella che era semplicemente un’intuizione estemporanea) sostiene che pensare a qualcuno è un paradigma del nostro pensare e condizione di tutti gli altri pensieri: «<marquage typemarq="italique">Non soltanto non posso pensare a qualcosa se non in rapporto a qualcuno ... ma non posso neppure essere davvero con qualcuno senza condividere con lui almeno una cosa, non fosse altro che questo ( che non è poco): la mia vita»</marquage>
+          <renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>. Quando penso a qualcuno, osserva Worms, « <marquage typemarq="italique">è come se gli stessi realmente parlando,</marquage> <marquage typemarq="italique">c’è la distanza del pensiero, ma l’espressione vorrebbe convertirla nella presenza della parola, rivolta ad un interlocutore <renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>
+          </marquage>». Questa <marquage typemarq="italique">distanza, </marquage>che ci impedisce di parlare a qualcuno mentre pensiamo a lui, risulta profondamente rimodellata in un’interfaccia come quella di Facebook, dove io non posso non parlare, e quindi non pensare, a qualcuno, appena mi ritrovo la sua faccia e il suo nome nel palinsesto della mia <marquage typemarq="italique">home</marquage> e nella lista delle notifiche. Su Facebook, ancora più estesamente che su Whatsapp et Twitter, una fitta nomenclatura, unita ad una pullulante iconografia che sfocia in <marquage typemarq="italique">visagerie<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>
+          </marquage>, personificano le nostre <marquage typemarq="italique">liaisons </marquage>digitali<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>, esteriorizzando subito i nostri pensieri mentre questi vengono pensati e aggiungendo, suggerendo altri pensieri, altri pensieri (pensieri <marquage typemarq="italique">di</marquage> o <marquage typemarq="italique">verso</marquage> qualcuno) che altrimenti noi non penseremmo. Nell’interfaccia, gli altri stanno per essere <marquage typemarq="italique">pensati</marquage>, in un certo senso lo sono già, dato che sono quanto meno ri-presentati, e cioè presenti una volta di più alla nostra attenzione attraverso le loro parole registrate e i loro volti. La nostra psyche si trova così in un habitat in cui l’individualità si plasma e si modella secondo i movimenti di un dispositivo collettivo e culturale: a proposito dell’apparato psichico, Bernard Stiegler ci dice che anche se<marquage typemarq="italique"> </marquage>questo<marquage typemarq="italique"> « nasce indubbiamente nel cervello, non si limita però a ciò; passa invece attraverso un apparato simbolico che non si trova esclusivamente nel cervello</marquage> -scrive il filosofo francese introducendo il concetto di <marquage typemarq="italique">trans-individuazione</marquage>
+          <renvoi idref="sdfootnote8sym" typeref="note">8</renvoi>- <marquage typemarq="italique">bensì nella società, e cioè negli altri cervelli in relazione con esso</marquage>». Dato che la nostra intimità sta conformandosi alla spazialità e all’architettura relazionale di Facebook, trattandosi del social network più abitato e vissuto al mondo, sarebbe allora Facebook il soggetto autorizzato a produrre e fornire le informazioni sensibili in circonstanze come quelle del 13 novembre a Parigi? Mentre Facebook aveva attivato la Safety Check, mentre su Twitter si produceva un’enormità di testimonianze scritte e fotografiche, il Ministero degli Interni francese proponeva una pagina, piuttosto austera, <marquage typemarq="italique">per la deposizione di testimonianza on-line</marquage>, che consentiva anche di contattare gli investigatori. « <marquage typemarq="italique">Oramai, non dobbiamo più scegliere tra lo Stato e il mercato </marquage>-segnala Evgueny Morozov in una vibrante critica dell’ideologia neo-liberale della Silicon Valley- <marquage typemarq="italique">ma piuttosto tra la politica e la non-politica: tra un sistema privato dall’aspetto istituzionale e politico -nel quale hackers, imprenditori e capitalisti avventurieri costituiscono la risposta automatica a qualsivoglia problema sociale- e un sistema in cui si cerchino ancora delle soluzioni davvero politiche (per esempio, quali devono essere i diritti dei cittadini, delle imprese o dello Stato? E a quali condizioni?<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi>). </marquage>Dovremmo assecondare e incoraggiare le pratiche digitali della maggioranza, che sembrano aver incoronato Facebook come social network più ampio e fonte d’informazione affidabile e familiare, e in questo caso istituzionalizzare allora la Safety Check in quanto strumento d’interesse pubblico? Oppure ci si dovrebbe ingegnare <marquage typemarq="italique">politicamente</marquage> per scongiurare il rischio che una faccenda sensibile come quella delle informazioni sulla nostra sicurezza in caso di pericolo sia gestita da un’impresa privata, come quelle che si occupano di sistemi antifurto?</alinea>
+      </para>
+      <para>
+        <alinea>
+	 </alinea>
+      </para>
+      <para>
+        <alinea>
+	Alla vigilia degli attentati di Parigi, a Bourj El-Barajneh, nella periferia meridionale di Beyrouth, un attentato lasciava per terra 43 morti e centinaia di feriti: comme riferiva <liensimple xlink:type="simple" xlink:href="http://www.lemonde.fr/attaques-a-paris/article/2015/11/15/pourquoi-facebook-n-a-pas-cree-de-bouton-safety-check-pour-nous_4810469_4809495.html">un artic</liensimple>
+          <liensimple xlink:type="simple" xlink:href="http://www.lemonde.fr/attaques-a-paris/article/2015/11/15/pourquoi-facebook-n-a-pas-cree-de-bouton-safety-check-pour-nous_4810469_4809495.html">o</liensimple>
+          <liensimple xlink:type="simple" xlink:href="http://www.lemonde.fr/attaques-a-paris/article/2015/11/15/pourquoi-facebook-n-a-pas-cree-de-bouton-safety-check-pour-nous_4810469_4809495.html">l</liensimple>o di <marquage typemarq="italique">Le Monde</marquage>, due bloggers molto seguiti, Joey Ayoub et Blobaladi, hanno rivendicato, polemicamente, il diritto dei libanesi ad avere anche loro la Safety Check, sollevando una questione politica e etica che mette in discussione i valori dell’uguaglianza e della giustizia. Zuckerberg ha risposto poco dopo sulla propria bacheca Facebook, dicendo che la Safety Check era stata concepita per far fronte alle catastrofi naturali, e che soltanto venerdi 13 novembre si era voluto scommettere sulla sua applicabilità alle «<marquage typemarq="italique">catastrofi umane»</marquage>. Due aspetti importanti mi sembrano emergere in questa vicenda: il primo, che uno strumento attivato da Facebook (che, al di là dell’evidente interesse psicologico e filosofico per il profilo è <marquage typemarq="italique">anche</marquage> una società privata quotata in borsa) sia invocato come un intervento umanitario in grado di ristabilire condizioni di equità tra comunità assai distanti; l’altro, che Zuckerberg, assumendo disinvoltamente una responsabilità così, abbia utilizzato la notion di catastrofe umana («<marquage typemarq="italique">human disaster»)</marquage> come se non ci fosse da discutere su cosa questo significhi. Quanti morti occorrono perchè si parli di catastrofe umana? Come misurare l’impatto di un attentato sulla necessità di avere delle informazioni sulla situazione delle personne che si trovano nell’area colpita? E, visto che ci siamo, come se ne dovrebbe delimitare il perimetro? Troppe domande, come sempre troppe domande: abbiamo il diritto di cercare le risposte? O nessuno ha questo diritto, eccetto Zuckerberg, se vorrà occuparsene? Tutto questo e molto altro dipenderà dalle dimensioni, più o meno politiche e istituzionali, che il problema potrà assumere. Certo è che l’esigenza di informazioni centralizzate e autorizzate perchè siano accessibili e affidabili, è evidente; si potrebbe pensare allora ad una piattaforma digitale da costruire appositamente, che sia autorevole perchè l’unica incaricata direttamente dai governi dei paesi concordi. Un sito-web o un’applicatione, un softwer ufficiale e istituzionale in grado di fare rete, di fare <marquage typemarq="italique">hashtag</marquage> intorno alle emergenze aldilà dell’appartenenza nazionale del singolo, in modo da segnalarsi <marquage typemarq="italique">al sicuro</marquage> istantaneamente con un clic, e con la stessa facilità avere notizie di amici e conoscenti. Una piattaforma di questo tipo, non godrebbe certo della familiarità che ci unisce a Facebook (la familiarità alla base dell’autorevolezza della Safety Check) ma in compenso si avvantaggerebbe di una riconosciuta ufficialità, derivata sia da fattori strettamente tecnologici che più in generale sociali ai quali si dovrebbe pensare. Ad esempio, consentire o no ad un’altra persona di segnalarci a nostra insaputa al sicuro, comme fortunatamente ha fatto Ignace nei miei confronti, considerando tutti i possibili inconvenienti di un uso indiscriminato e irresponsabile di questa opzione? Fare o no, di uno status stra-ordinario come «<marquage typemarq="italique"> é (stato segnalato) al sicuro » </marquage>l’oggetto dei commenti di tutti come per uno status qualsiasi? E ancora, iscriversi a questa ipotetica piattaforma dovrebbe essere facoltativo o invece obbligatorio per ragioni di ordine publico? Che questa sia al 100% pubblica e <marquage typemarq="italique">politica, </marquage>o al contrario privata e <marquage typemarq="italique">non-politica </marquage>(per vedere il bivio al quale ci troviamo, su questa come su altre tematiche, secondo le indicazioni di Morozov), una funzione come la Safety Check sembra oggi quanto mai necessaria. Qualche contraddizione con quanto detto prima, proprio all’inizio di questa mia riflessione, si profila immediatamente. Il digitale, infatti, digitalizza, e cioè scrive, è fatto e si fa di scrittura: la scrittura dei codici, la scrittura alfanumerica che si sprigiona ad ogni singolo comando, ad ogni singolo<marquage typemarq="italique"> I like, </marquage>ed infine quella leggibile da tutti, la scrittura che diventa subito lettura di un testo (status, tweets, e-mails, articoli di blog o interventi nei forums, recensioni, messaggi privati, ecc). Internet e il web ci possono farci agire perchè ci fanno scrivere, noi facciamo il web scrivendo nelle interfacce in cui siamo soggetto e oggetto di una scrittura che diventa conversazione e oralità. Ma quella dell’oralità come sappiamo è solo una nostra impressione di labilità: gli apparecchi digitali che hanno trasformato la connessione a Internet da contingente fenomeno domestico in permanente condizione del corpo e della mente, e cioè gli smartphones concepiti per farci parlare, sono diventati delle macchine da scrivere, registratori e quindi archivi personali come chiarisce bene Maurizio Ferraris in un’opera sorprendente già dal titolo, Anima e<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/article1104.html"> </liensimple>i-Pad<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>. Scrivere, quindi dire, affermare, esplicitare, portare alla coscienza: tutto questo pone dei problemi se ci prefiggiamo di controllare un sentimento come quello di sicurezza, un sentimento che non si dovrebbe (far) sentire, e dunque giammai <marquage typemarq="italique">dire</marquage>. Cosa può fare il web grafomane<marquage typemarq="italique"> </marquage>per aiutarci a proteggere il sentimento di essere al sicuro? In continuità con una funzione come quella di Facebook, potremmo sfruttare ancora meglio l’effetto benefico del sapersi al sicuro, e quindi del fatto del dirselo, scrivendolo, in occasione di una «catastrofe umana» o naturale. L’interfaccia potrebbe specificare e contestualizzare il grado e la qualità della nostra sicurezza, oppure farci scrivere qualcosa (ancora?!) per ribadire e consacrare il notro status. Il ricorso al controllo di sicurezza sarebbe un provvedimento di emergenza, proprio come è stato il 13 novembre a Parigi e non è stato invece il 12 novembre a Beyrouth. Ma si può anche intravedere un’altra opzione, più intrigante: per aumentare il notro sentimento di sicurezza, bisognerebbe – a mio parere- banalizzare la percezione del pericolo, normalizzare i momenti straordinari di urgenza e allarme, integrandoli in una conferma di assenza di pericolo da attivare in permanenza. Sto ipotizzando -in un modo forse un pò confuso ma non solo a titolo di provocazione- un’applicazione costante di <marquage typemarq="italique">Safety Check, </marquage>o di un dispositivo simile, che tutti i giorni ci segnali in sicurezza nell’ambito della nostra rete, una o anche due volte al giorno, per fronteggiare i più o meno piccoli rischi della giornata, un pò come fanno certi allarmi anti-incendio dei nostri appartamenti, sensibili ai sigari e all’arrosto. Con un sistema di notifica discreto e regolare, dopo qualche settimana l’impatto psicologico del <marquage typemarq="italique">Controllo di assenza pericolo</marquage> sarebbe neutralizzato, a favore di una generalizzazione e una socializzazione della coscienza di essere, <marquage typemarq="italique">quasi</marquage> sempre, in fondo, al riparo e al sicuro. Se il bisogno di sentirsi in condizioni di sicurezza dovesse diventare ancore più forte di quanto già non sia (e i cosiddetti média giocano un ruolo fondamentale in questa strategia) dovremo assumerne le conseguenze e annientare l’angoscia in un flusso ininterrotto di informazioni rassicuranti, un’informazione quotidiana, frequente, puntuale e solubile come le gocce e le pastiglie che compriamo in farmacia. Gocce e pastiglie, trasformando la malattia in terapia la addomesticano (nel senso etimologico, oltre che figurato, di ricondurre a casa), la rendono compatibile con la tranquillità della <marquage typemarq="italique">routine</marquage> di cui il web fa indiscutibilmente parte. La libertà che tutti stiamo invocando, è fondamentalmente la libertà della nostra assai suscettibile <marquage typemarq="italique">routine, </marquage>che sembra in quanto tale immutabile e che invece ci toccherà rinegoziare e riadattare ancora una volta. Solamente nella <marquage typemarq="italique">routine </marquage>delle sirene di ambulanze e polizia il notro sentimento di sicurezza può silenziosamente farsi invisibile, impalpabile e quindi finalmente reale.</alinea>
+      </para>
+    </section1>
+  </corps>
+  <partiesann>
+    <grnote>
+      <note id="sdfootnote1sym">
+        <no>1</no>
+        <alinea>
+	 <liensimple xlink:type="simple" xlink:href="http://www.preventionroutiere.asso.fr/Nos-publications/Statistiques-d-accidents">http://www.preventionroutiere.asso.fr/Nos-publications/Statistiques-d-accidents</liensimple>.</alinea>
+      </note>
+      <note id="sdfootnote2sym">
+        <no>2</no>
+        <alinea>
+	 .</alinea>
+      </note>
+      <note id="sdfootnote3sym">
+        <no>3</no>
+        <alinea>
+	 E. Méchoulan, <marquage typemarq="italique">D’ou nous viennent nos idées ?,</marquage> Montréal, vlb éditeur, 2010 (p. 39)<marquage typemarq="italique"> [la traduzione è mia].</marquage>
+        </alinea>
+      </note>
+      <note id="sdfootnote4sym">
+        <no>4</no>
+        <alinea>
+	 F. Worms, <marquage typemarq="italique">Penser à quelqu’un, </marquage>Paris, Flammarion, 2014 (p. 204) [la traduzione è mia].</alinea>
+      </note>
+      <note id="sdfootnote5sym">
+        <no>5</no>
+        <alinea>
+	<marquage typemarq="italique"> Ibidem</marquage>, p.29 [traduzione mia].</alinea>
+      </note>
+      <note id="sdfootnote6sym">
+        <no>6</no>
+        <alinea>
+	 La parola <marquage typemarq="italique">visagerie</marquage> non esiste, è un neologismo a partire da <marquage typemarq="italique">visage</marquage> (viso) con cui, sul calco del termine <marquage typemarq="italique">imagerie</marquage>, (da image, immagine), cerco qui di definire la massiccia produzione e simultaneo accumulo di facce, di più facce che costituiscono tutte insieme la nostra faccia. Faces et facettes (facce e aspetti) si potrebbe ancora dire, per giocare ancora in francese, mentre in inglese <marquage typemarq="italique">visagerie, </marquage>neologismo per neologismo<marquage typemarq="italique">,</marquage> si può tradurre (a partire da <marquage typemarq="italique">face)</marquage> con <marquage typemarq="italique">facery.</marquage>
+        </alinea>
+      </note>
+      <note id="sdfootnote7sym">
+        <no>7</no>
+        <alinea>
+	 « Liaisons numériques », nel testo in francese, evoca il titolo del libro di Antonio Casilli, <marquage typemarq="italique">Les liaisons numériques</marquage>, Paris, Seuil, 2010</alinea>
+      </note>
+      <note id="sdfootnote8sym">
+        <no>8</no>
+        <alinea>
+	 B. Stiegler, <marquage typemarq="italique">Du Psychopouvoir au Neuropouvoir, </marquage>dans C. Larsonneur, A. Regnauld, P. Cassou-Noguès et S. Touiza (sous la direction de), <marquage typemarq="italique">Le sujet digital</marquage>, Dijon, Les presses du réel, 2015 (p.43) [<marquage typemarq="italique">transindividuation</marquage> nel testo -traduzione mia]<marquage typemarq="italique">.</marquage>
+        </alinea>
+      </note>
+      <note id="sdfootnote9sym">
+        <no>9</no>
+        <alinea>
+	 E. Morozov, <marquage typemarq="italique">Le mirage numérique. Pour une politique du Big Data, </marquage>Paris, Les prairies ordinaires, 2015 (p. 14) [traduzione mia].</alinea>
+      </note>
+      <note id="sdfootnote10sym">
+        <no>10</no>
+        <alinea>
+	 M. Ferraris, Anima e I-pad, Parma, Guanda 2011.</alinea>
+      </note>
+    </grnote>
+  </partiesann>
+</article>
