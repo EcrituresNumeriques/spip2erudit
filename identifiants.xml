@@ -53,8 +53,24 @@
 		<article n="10" id="1910ear">1182</article>
 		<article n="11" id="1911ear">1181</article>
 		<article n="12" id="1909ear">1180</article>
-		<article n="13" id="1908ear">1179</article>
-	
-		
+		<article n="13" id="1908ear">1179</article>	
 	</livraison>
+	<!-- Varia : 1124, 1110, 1131, 1132, 1169 -->
+	<!-- <livraison id="">
+    <article n="1" id="">1124</article>
+    <article n="2" id="">1110</article>
+    <article n="3" id="">1131</article>
+    <article n="4" id="">1132</article>
+    <article n="5" id="">1169</article>
+  </livraison> -->
+	<!-- Dossier « Je e(s)t un autre » (le premier article est aussi la présentation du dossier, et contient le sommaire) 941, 938, 1148, 951, 948, 950, 949 -->
+	<!-- <livraison id="">
+    <article n="1" id="">941</article>
+    <article n="2" id="">938</article>
+    <article n="3" id="">1148</article>
+    <article n="4" id="">951</article>
+    <article n="5" id="">948</article>
+    <article n="6" id="">950</article>
+    <article n="7" id="">949</article>
+  </livraison> -->
 </livraisons>
