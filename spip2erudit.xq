@@ -673,10 +673,10 @@ declare function partition($positions as xs:integer*, $elements as element()*) a
       let $first := $positions[1]
       let $second := $positions[2]
       let $rest := fn:subsequence($positions, 2)
-      return ( element section { fn:subsequence($elements, $first, $second - $first)}, partition($rest, $elements) )
+      return ( element section1 { fn:subsequence($elements, $first, $second - $first)}, partition($rest, $elements) )
     ) 
     else if($nbSections eq 1)
-    then ( element section { fn:subsequence($elements, $positions[1]) } )
+    then ( element section1 { fn:subsequence($elements, $positions[1]) } )
     else ()
 };
 
