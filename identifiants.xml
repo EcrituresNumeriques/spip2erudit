@@ -25,36 +25,35 @@
 		<article n="9" id="1028820ar">990</article>
 		<article n="10" id="1028821ar">997</article>
 		<article n="11" id="1028822ar">1123</article>
-		
-		<article n="12" id="">1178</article>
-		<article n="12" id="">1176</article>
-		<article n="14" id="">1174</article>
-		<article n="15" id="">1173</article>
-		<article n="16" id="">1172</article>
-		<article n="17" id="">1171</article>
-		<article n="18" id="">1170</article>
-		<article n="19" id="">1168</article>
-		<article n="20" id="">1167</article>
-		<article n="21" id="">1166</article>
-		<article n="22" id="">1165</article>
+		<!-- varia -->
+		<article n="12" id="1907ear">1178</article>
+		<article n="12" id="1906ear">1176</article>
+		<article n="14" id="1902ear">1174</article>
+		<article n="15" id="1901ear">1173</article>
+		<article n="16" id="1900ear">1172</article>
+		<article n="17" id="1899ear">1171</article>
+		<article n="18" id="1898ear">1170</article>
+		<article n="19" id="1896ear">1168</article>
+		<article n="20" id="1895ear">1167</article>
+		<article n="21" id="1894ear">1166</article>
+		<article n="22" id="1893ear">1165</article>
 		
 	</livraison>
-	<livraison id="">
-		<id></id>
-		<article n="1" id="">1059</article>
-		<article n="2" id="">1188</article>
-		<article n="3" id="">1186</article>
-		<article n="4" id="">1184</article>
-		<article n="5" id="">1175</article>
-		<article n="6" id="">1169</article>
-	
-		<article n="7" id="">1187</article>
-		<article n="8" id="">1185</article>
-		<article n="9" id="">1183</article>
-		<article n="10" id="">1182</article>
-		<article n="11" id="">1181</article>
-		<article n="12" id="">1180</article>
-		<article n="13" id="">1179</article>
+	<livraison id="sp063">
+		<article n="1" id="1904ear">1059</article>
+		<article n="2" id="1915ear">1188</article>
+		<article n="3" id="1916ear">1186</article>
+		<article n="4" id="1913ear">1184</article>
+		<article n="5" id="1905ear">1175</article>
+		<article n="6" id="1897ear">1169</article>
+	<!-- varia -->
+		<article n="7" id="1914ear">1187</article>
+		<article n="8" id="1223ear">1185</article>
+		<article n="9" id="1912ear">1183</article>
+		<article n="10" id="1910ear">1182</article>
+		<article n="11" id="1911ear">1181</article>
+		<article n="12" id="1909ear">1180</article>
+		<article n="13" id="1908ear">1179</article>
 	
 		
 	</livraison>
