@@ -94,9 +94,10 @@
   </liminaire>
   <corps>
     <section1>
-      <titre2>
+      <section2>
+      <titre>
 	<marquage typemarq="gras">Sommaire</marquage>
-      </titre2>
+      </titre>
       <para>
         <alinea>
 	<marquage typemarq="gras">I. Articles</marquage>
@@ -230,9 +231,11 @@
         <alinea>
 	 </alinea>
       </para>
-      <titre2>
+      </section2>
+      <section2>
+      <titre>
 	<marquage typemarq="gras">Présentation</marquage>
-      </titre2>
+      </titre>
       <para>
         <alinea>
 	C’est devenu un poncif de le souligner : le numérique a envahi toutes les sphères de la production et de la diffusion des connaissances, tout comme il a envahi toute la structure de la société. L’ensemble des expertises et des activités autour des usages, des documents et des cultures numériques qui ont été développées au cours des vingt dernières années ne cesse de prendre de l’ampleur dans toutes les disciplines du savoir. Cependant, la plupart des projets (bases de données, nouvelles plateformes de publication, outils de recherche et d’analyse, etc.) demeurent le plus souvent isolés les uns des autres, et ce, tout particulièrement dans les humanités. Notre dossier « Repenser le numérique au 21 siècle » contient plusieurs articles qui se positionnent au centre des travaux de réflexion sur ces nouvelles formes d’environnements de recherche. Le numérique provoque un réagencement des dispositifs de production et de diffusion de la connaissance et des contenus en littérature, en communication, en histoire de l’art, et ce, en s’appuyant sur une expertise de haut niveau dans les sciences de l’information et l’informatique. Historiquement, la tradition documentaire a privilégié la stabilité, insistant sur la fixité, la permanence et l’intégrité des contenus, mais le Web remet l’accent sur le flux, la dynamique des échanges et la mutabilité des contenus. (Birkerts 1994, Fitzpatrick 2009, Compagnon 2000). Ainsi, entre les deux pôles classiques de la stabilité et du mouvement, une redistribution s’opère. Selon les différentes phases, les processus documentaires s’accélèrent. Le document était une mise à distance d’un événement, pour la preuve et la mémoire, rendue en partie possible par la durée des étapes de sa construction et de sa mise en accès (Salaün 2012). Aujourd’hui, la vitesse des productions, ainsi que de la distribution et de la recommandation documentaires automatisées est telle que l’humain n’a souvent plus le temps de construire l’événement en « document » et ne peut plus qu’en visualiser une représentation partielle (Stiegler 1994, McAfee et Brynjolfsson 2012). La médiation de la documentarisation, nécessitant un temps de réflexion et de mise en œuvre, est annulée par l’immédiateté de l’opération numérique proposant à la perception un document qui n’a pas nécessairement été conçu comme tel (Besser 1995).</alinea>
@@ -249,10 +252,7 @@
         <alinea>
 	Comment ce positionnement théorique plus large vis-à-vis du web s’articule-t-il dans la spécificité du document numérique au cœur des travaux des chercheurs en sciences humaines de plus en plus nombreux à combiner des approches computationelles avec leurs approches disciplinaires plus « traditionnelles » ? Il faut tout d’abord s’entendre sur l’ubiquité du numérique (le numérique touchant l’ensemble des sphères de notre vie) et sur le fait qu’une réflexion sur son impact continue d’être une priorité. Avec le changement des supports, des modalités de publication (Sinatra et Vitali-Rosati 2014), des mécanismes de visibilité, d’accessibilité à l’information et de circulation des contenus, c’est l’ensemble de notre rapport au savoir qui se trouve remis en question. Notre hypothèse première est qu’il est tout aussi nécessaire – et même urgent – de jeter les bases d’une théorie et d’une pensée du numérique, que de poursuivre et de favoriser l’implémentation de nouveaux outils de recherche conçus par et pour les humanités, en lien direct avec les questions d’édition, de diffusion, d’encodage, de fouille, de curation, ou encore de visualisation et de représentations de données textuelles, sonores et visuelles. On doit en effet développer des humanités en résonance avec le numérique (Doueihi 2008). Il ne sera plus possible, dans un avenir très rapproché, d’isoler les réflexions, pensées et productions des humanités du poids du numérique, en préconisant non seulement des approches empruntées aux sciences de la communication et à la sociologie mais aussi à la philosophie et aux théories littéraires, comme l’indiquent les articles constituant notre dossier. Le faire serait les condamner à la disparition. Mais comment, alors, repenser, recréer, réinventer une discipline focalisée sur l’« humain » en acceptant que son objet principal d’étude soit en train de se modifier lui-même radicalement par la présence du numérique? Le numérique est intégré comme un objet d’étude par de nombreux chercheurs avec des approches hétérogènes et différentes, mais complémentaires. On peut donc se poser ultimement la question des enjeux de la société numérique et de la communication numérique, de l’impact sur les comportements, des changements dans les méthodes de composition artistique et littéraire, des nouveaux environnements d’apprentissage à l’école, des effets des jeux vidéo, ou des possibilités muséales et patrimoniales du numérique.</alinea>
       </para>
-      <para>
-        <alinea>
-	 </alinea>
-      </para>
+      </section2>
     </section1>
   </corps>
   <partiesann>

@@ -71,7 +71,7 @@
     <grauteur>
       <auteur id="spAuthor988">
         <nompers>
-          <prenom>Julien  </prenom>
+          <prenom>Julien</prenom>
           <nomfamille>Girval-Pallota</nomfamille>
         </nompers>
       </auteur>
@@ -136,10 +136,6 @@
       </para>
       <para>
         <alinea>
-	 </alinea>
-      </para>
-      <para>
-        <alinea>
 	Bibliographie :</alinea>
       </para>
       <para>
@@ -160,19 +156,11 @@
       </para>
       <para>
         <alinea>
-	 </alinea>
-      </para>
-      <para>
-        <alinea>
 	Filmographie :</alinea>
       </para>
       <para>
         <alinea>
 	Cronenberg D., <marquage typemarq="italique">Faux semblants</marquage>, 1988, Etats-Unis/Canada</alinea>
-      </para>
-      <para>
-        <alinea>
-	 </alinea>
       </para>
     </section1>
   </corps>

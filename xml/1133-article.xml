@@ -85,9 +85,10 @@
   </liminaire>
   <corps>
     <section1>
-      <titre2>
+      <section2>
+      <titre>
 				<marquage typemarq="gras">SOMMAIRE</marquage>
-			</titre2>
+			</titre>
       <para>
         <alinea>
 				<marquage typemarq="gras">I. ARTICLES</marquage>
@@ -267,6 +268,7 @@
         <alinea>
 	 </alinea>
       </para>
+      </section2>
     </section1>
     <section1>
       <titre>
@@ -304,10 +306,7 @@
         <alinea>
 	Si la variété des thèmes abordés dans ce dossier interdit à l’évidence de tendre à l’exhaustivité, elle a en revanche pour mérite d’offrir un panorama large des rapports qu’entretient le droit et la langue, et par là, nous l’espérons, de fournir une base de réflexion pour des recherches futures plus approfondies. Si le droit et la langue ne sont pas une seule et même chose, ils entretiennent en effet une relation étroite de dépendance que tant le linguiste que le juriste gagnerait à étudier de plus près.</alinea>
       </para>
-      <para>
-        <alinea>
-	 </alinea>
-      </para>
+      
     </section1>
   </corps>
   <partiesann>

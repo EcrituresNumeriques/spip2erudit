@@ -124,13 +124,19 @@
 	Selon la légende, Stevenson conçoit <marquage typemarq="italique">L’Ile aux trésors</marquage> à partir du dessin d’une carte imaginaire ; <marquage typemarq="italique">Le Seigneur des anneaux</marquage> propose une carte de son territoire fictif à partir d’esquisses de Tolkien ; mais ces cartes sont secondaires et présentées comme telles dans les éditions : on peut tout à fait suivre le fil du récit sans elles. Il en va sensiblement de même dans les œuvres multipliant les récits, même si l’usage qu’elles font de la carte est un peu différent. Dans <marquage typemarq="italique">La Vie mode d’emploi </marquage>de Georges Perec, le plan de l’immeuble dans lequel se situe la fiction n’est pas simplement une illustration de l’univers diégétique : il condense l’une des contraintes qui a présidé à l’écriture de l’œuvre. Il fonctionne en effet comme un bi-carré latin<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi> parcouru comme le plateau d’un échiquier par la figure du cavalier. Dans le même ordre d’idée, Italo Calvino conçoit les récits du <marquage typemarq="italique">Château des destins croisés</marquage> en disposant les cartes de tarots « de manière [qu’elles] constituent comme les scènes successives d’un récit pictographique<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi> » : « ainsi [il obtient] une sorte de mots croisés faits de figures au lieu de lettres, où en plus chaque séquence peut se lire dans les deux sens<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi> ». </alinea>
       </para>
       <figure>
+        <legende lang="fr"> 
+          <alinea><marquage typemarq="italique">Illustration 1 : Le Château des destins croisés</marquage></alinea>
+        </legende> 
         <objetmedia flot="bloc">
-          <image id="img4464" typeimage="figure"/>
+          <image id="img1145-1.jpg" typeimage="figure"/>
         </objetmedia>
       </figure>
       <figure>
+        <legende lang="fr"> 
+          <alinea><marquage typemarq="italique">Illustration 2 : La Taverne des destins croisés</marquage></alinea>
+        </legende>
         <objetmedia flot="bloc">
-          <image id="img4465" typeimage="figure"/>
+          <image id="img1145-2.jpg" typeimage="figure"/>
         </objetmedia>
       </figure>
       <para>
@@ -142,8 +148,11 @@
 	Dans les hypertextes au contraire, l’auteur propose souvent la carte comme point de départ de la lecture. Comme le précise Jean Clément, « dans le dédale de l’hypertexte, [l’auteur] a besoin d’un fil d’Ariane ou d’une carte<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi> ». C’est le rôle de la carte cognitive proposée par exemple dans le logiciel <marquage typemarq="italique">Storyspace</marquage>. Dans <marquage typemarq="italique">253 </marquage>de Geoff Ryman (1998), l’auteur propose le “Journey Planner’ qui comporte 32 éléments portant des titres et reliés entre eux. </alinea>
       </para>
       <figure>
+        <legende lang="fr"> 
+          <alinea><marquage typemarq="italique">Illustration 3 : Geoff Ryman, 253</marquage></alinea>
+        </legende>
         <objetmedia flot="bloc">
-          <image id="img4466" typeimage="figure"/>
+          <image id="img1145-3.jpg" typeimage="figure"/>
         </objetmedia>
       </figure>
       <para>
@@ -159,8 +168,11 @@
 	Ainsi, si la carte dans les œuvres papier illustre l’univers diégétique ou permet la synthèse des processus d’écriture (du moins dans une perspective oulipienne), dans l’hypertexte elle permet la navigation et postule une équivalence entre la lecture et le voyage (cf. « journey » dans 253 de Ryman) : elle fait partie du récit et devient un enjeu de la lecture en ce qu’elle guide le lecteur dans le foisonnement des textes. Car l’hypertexte propose plusieurs itinéraires dans les méandres de son (ses ?) récit(s). Espen Aarseth<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi> distingue les récits linéaires (si un seul chemin est possible entre A – le début du texte – et B – sa fin –, alors le récit est linéaire, quand bien même il serait fragmenté (dans cette perspective, <marquage typemarq="italique">Si par une nuit d’hiver un voyageur</marquage> d’Italo Calvino est un récit linéaire)), multi-linéaires (si plusieurs chemins sont possibles pour rejoindre le point B, mais qu’ils sont parallèles, alors nous sommes face à un cas de multi-linéarité (c’est le cas des romans-dont-vous-êtes-le-héros)) et non linéaires (si plusieurs chemins se croisent, alors nous avons plutôt affaire à des itinéraires (les chemins sont potentiels) : la carte devient extrêmement utile dans ce troisième cas de figure, où plusieurs routes se croisent et où est favorisé l’itinéraire parmi tous les chemins possibles. C’est bien ainsi que fonctionne l’hypertexte, défini par Jean Clément comme « un texte non linéaire qui peut être parcouru d’un fragment à l’autre grâce à des liens explicités<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi> ». </alinea>
       </para>
       <figure>
+        <legende lang="fr"> 
+          <alinea><marquage typemarq="italique">Illustration 4 : Geoff Ryman, 253</marquage></alinea>
+        </legende>
         <objetmedia flot="bloc">
-          <image id="img4467" typeimage="figure"/>
+          <image id="img1145-4.jpg" typeimage="figure"/>
         </objetmedia>
       </figure>
       <para>
@@ -184,8 +196,11 @@
 	Italo Calvino, dans « Le Voyageur dans la carte », affirme que « le premier besoin de fixer les lieux sur la carte est lié au voyage : c’est le mémento de la succession des étapes, le tracé d’un parcours. Il s’agit donc d’une image linéaire<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi> » : la carte est « trace de temps<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi> ». Elle rétablit la linéarité perdue, ou plus exactement elle crée une linéarité absente, renouant avec les récits traditionnels. Cette linéarité peut n’être que celle de la lecture, ce qui ne lui confère pas le statut de narration ; mais elle peut aussi faire émerger des îlots de narration en faisant coïncider « nœuds » hypertextuels et nœuds de l’intrigue, c’est-à-dire faire naître une intrigue<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi>. Dans <marquage typemarq="italique">253</marquage> de Geoff Ryman, la lecture du texte consacré au passager 216, Sam Cruza, fonde une mini-intrigue schématisée de manière arborescente : en effet, le lecteur peut cliquer sur plusieurs liens dans le corps du texte qui le renvoient vers quatre personnages féminins, tous épris de Sam Cruza. La schématisation de ce parcours révèle une boucle, qui vient nouer l’intrigue de ce quintette amoureux. </alinea>
       </para>
       <figure>
+        <legende lang="fr"> 
+          <alinea><marquage typemarq="italique">Illustration 5 : Schéma de l'intrigue construite autour du personnage de Sam Cruza, dans 253 de G. Ryman</marquage></alinea>
+        </legende>
         <objetmedia flot="bloc">
-          <image id="img4469" typeimage="figure"/>
+          <image id="img1145-5.jpg" typeimage="figure"/>
         </objetmedia>
       </figure>
       <para>
@@ -216,6 +231,10 @@
         <no>1</no>
         <alinea>
 	 D’après la définition donnée par le projet « La Fin des cartes ? Territoires rêvés, territoires normalisés » de l’Université Paris I Panthéon Sorbonne (<liensimple xlink:type="simple" xlink:href="http://lafindescartes.net/ ">Voir en ligne</liensimple> [consulté le 22/07/14]). </alinea>
+      </note>
+      <note id="sdfootnote2sym">
+        <no>2</no>
+        <alinea><marquage typemarq="italique">Idem.</marquage></alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>

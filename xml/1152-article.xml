@@ -78,13 +78,12 @@
   <corps>
     <section1>
       <para>
-        <alinea>
 				<bloccitation>
             <alinea>
 					<marquage typemarq="italique">There is a broad continuum of ways in which man and machine can share the translation responsibility. It ranges from Bar-Hillel’s FAHQT (Fully Automatic, High Quality Translation) to Kay’s HTLGI (Human Translation Like God Intended).</marquage>
 				</alinea>
           </bloccitation>
-			</alinea>
+			
       </para>
       <para>
         <alinea>
@@ -102,9 +101,7 @@
         <alinea>
 	Je propose donc de revenir sur les grandes étapes de la recherche en TA en vue de souligner quelques-uns des écarts entre réalité et fiction, entre possibilités et attentes, et de montrer ainsi que les maladresses et l’inadéquation que l’on reproche encore souvent aux systèmes de TA les plus sophistiqués n’ont d’autres sources que cet imaginaire grandiose, qui ne peut que décevoir une fois ramené à hauteur du réel.</alinea>
       </para>
-      <titre2>
-				L’âge d’or
-			</titre2>
+      <section2><titre>L’âge d’or</titre>
       <para>
         <alinea>
 	Le milieu du XXe siècle, qui voit la naissance de la TA comme nous la connaissons aujourd’hui, est effervescent à bien des égards. D’une part, pour la première fois de l’histoire, les ordinateurs, ces « cerveaux électroniques », sont suffisamment puissants pour répondre aux rêves d’automatisation des scientifiques. D’autre part, la Guerre Froide engendre un besoin impérieux pour les Américains d’être au fait des activités des Russes et vice-versa. Ainsi, les années 50 et 60 se voient le théâtre d’une course effrénée à qui pourra le premier maîtriser à la fois la machine et le langage. Les prédictions des principaux intéressés font preuve, avec le recul, d’un optimisme bon enfant qui paraît friser la naïveté.</alinea>
@@ -139,9 +136,7 @@
 	Rapidement, toutefois, l’approche directe laisse entrevoir quelques-unes de ses faiblesses. Tout d’abord, le nombre de règles nécessaires au traitement de textes généraux dépasse rapidement les capacités des linguistes et des ordinateurs qu’ils utilisent. L’ambigüité, notamment, est un problème très criant pour l’approche directe. La traduction d’expressions imagées ou de métaphores donne souvent des résultats pour le moins cocasses<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi>. Par ailleurs, cette approche produit des systèmes qui ne fonctionnent qu’avec une seule paire de langues, souvent dans une seule direction. On peut tout de suite constater le casse-tête potentiel lorsque l’on s’attaquera à un marché du calibre de celui de l’Union européenne puisque, comme le souligne plus tard Pierre Isabelle : « pour traduire entre <marquage typemarq="italique">n</marquage> langues on a besoin de <marquage typemarq="italique">n</marquage>*(<marquage typemarq="italique">n</marquage>-1) modules de règles (CE : 23*22 = 506!) »<renvoi idref="sdfootnote20sym" typeref="note">20</renvoi>
 				<renvoi idref="sdfootnote21sym" typeref="note">21</renvoi>. Tous ces désagréments, cependant, n’ont été pleinement constatés et reconnus que bien des années plus tard, et les systèmes à approche directe ont tout de même régné sans compétition pendant près de trois décennies.</alinea>
       </para>
-      <titre2>
-				Un coup dur
-			</titre2>
+      </section2><section2><titre>Un coup dur</titre>
       <para>
         <alinea>
 	Dans la foulée du succès de Georgetown-IBM, on croyait bien avoir trouvé la clé permettant de réduire en poussière la tour de Babel et de voir l’avènement d’un monde où la traduction n’aurait plus besoin d’intervention humaine. Les réjouissances allaient être de courte durée. En effet, les efforts de toute une génération de chercheurs allaient se voir presque anéantis par le rapport de l’ALPAC (Automatic Language Processing Advisory Committee) en 1966. Ce rapport, aussi connu sous le nom de « Black Book on Machine Translation », allègue, en somme, que la TA est inefficace, inadéquate et trop couteuse<renvoi idref="sdfootnote22sym" typeref="note">22</renvoi>. L’impact, que l’on peut expliquer par la grande différence entre les attentes des bailleurs de fonds et la réalité de la recherche, fait trembler le monde de la traduction automatique et sonne le glas de nombreuses initiatives dans le domaine. Dès lors, les subventions de recherche et de développement pour la TA se voient réduites presque à néant, particulièrement en Amérique du Nord.</alinea>
@@ -150,9 +145,7 @@
         <alinea>
 	Ce que les historiens relèvent rarement, c’est que le <marquage typemarq="italique">Black Book</marquage> ne condamne pas d’emblée toute recherche sur l’automatisation de la traduction, mais bien les efforts qui visent à atteindre la traduction entièrement automatique de haute qualité (TAEHQ) sur texte général sans intervention humaine. Ainsi, si peu d’équipes visent cette dernière (il se trouve tout de même quelques irréductibles, particulièrement hors des États-Unis), on commence à explorer partout dans le monde de nouvelles voies comme les systèmes à langue restreinte, ou alors des systèmes ne fonctionnant qu’à l’intérieur de domaines de spécialité.</alinea>
       </para>
-      <titre2>
-				The Quiet Decade
-			</titre2>
+      </section2><section2><titre>The Quiet Decade</titre>
       <para>
         <alinea>
 	En fait, si les militaires américains abandonnent pour le moment la recherche en TA, les gouvernements européens, canadien et japonais, eux, sont toujours de la partie. Hutchins<renvoi idref="sdfootnote23sym" typeref="note">23</renvoi> et Somers<renvoi idref="sdfootnote24sym" typeref="note">24</renvoi> s’accordent pour dire qu’en raison de facteurs sociopolitiques et culturels, la demande en traduction dans ces pays n’a jamais diminué. En Europe, les échanges multilingues entre les différents pays motivent des entreprises adaptées à cette réalité. La Commission européenne rachète SYSTRAN, un système américain de deuxième génération et en poursuit le développement<renvoi idref="sdfootnote25sym" typeref="note">25</renvoi>. D’autres projets voient le jour en France, en Allemagne et en Italie. Au Canada, c’est le bilinguisme législatif qui motive la recherche. Au Japon, ce sont les avancées informatiques réalisées par les chercheurs en vue de manipuler le système d’écriture qui aiguillonne les chercheurs : les succès sont si probants que les universités et le secteur privé décident d’appliquer leurs découvertes à la traduction automatique Anglais-Japonais<renvoi idref="sdfootnote26sym" typeref="note">26</renvoi>. De l’approche cryptographique mot-à-mot des premières années, on passe à une approche linguistique qui est caractérisée par la formalisation des langues naturelles, soit via une interlangue, soit à l’aide de grammaires formelles et de métalangages informatiques. Une passation des pouvoirs, en somme, des cryptographes et mathématiciens vers les spécialistes de la linguistique computationnelle.</alinea>
@@ -177,9 +170,7 @@
         <alinea>
 	En d’autres mots, force est de constater que la « Quiet Decade », même si elle laissera sa marque dans l’imaginaire de la recherche en TA et dans celle des principaux commanditaires, notamment en rendant presque taboue l’appellation « traduction automatique »<renvoi idref="sdfootnote30sym" typeref="note">30</renvoi>, n’aura pas été stérile sur le plan de la recherche, mais aura plutôt été un passage obligé pour en arriver aux systèmes dont nous profitons aujourd’hui.</alinea>
       </para>
-      <titre2>
-				Une révolution statistique
-			</titre2>
+      </section2><section2><titre>Une révolution statistique</titre>
       <para>
         <alinea>
 	Le domaine de l’informatique subit aussi des transformations importantes qui auront des répercussions sur la TA et la TAO. En effet, la fin des années 70 voit la naissance des premiers ordinateurs personnels et au cours des années 80, ces derniers se répandent à grande échelle dans les milieux professionnels. Les avancées en micro-informatique transforment en profondeur le monde de la traduction : la standardisation des plateformes, le développement des interfaces-utilisateurs et l’apparition des périphériques de stockage de données plus performants sont autant de facteurs qui ont facilité l’adoption des outils de traduction assistée par ordinateur (TAO) chez les traducteurs<renvoi idref="sdfootnote31sym" typeref="note">31</renvoi>, outils qui, comme leur nom l’indique, ne permettent pas de traduire de façon automatique, mais qui assistent les traducteurs dans leur travail.</alinea>
@@ -268,16 +259,14 @@
         <alinea>
 	On remarque tout de suite le changement qui a eu lieu dans les résultats obtenus. Le premier exemple reste inchangé et confirme la remarque de Kuhn sur la maîtrise des expressions idiomatiques par les systèmes de TAS. Le dernier exemple reste lui aussi inchangé et illustre bien les catégories d’erreur d’accord typiques de la TAS qui surviennent lorsque l’adjectif qui qualifie un nom est placé trop loin dans la phrase pour que système puisse « comprendre » qu’il doit être accordé. La même remarque explique la traduction boiteuse d’« attractive » dans le troisième exemple. Cependant, la construction du deuxième exemple ne devrait pas poser problème à <marquage typemarq="italique">Google Translate</marquage>, puisque le nom et l’adjectif qu’il qualifie sont très proches l’un de l’autre. Kuhn indique qu’« un système TABR aurait probablement omis jeune et mis attrayante », mais que puisque la traduction de <marquage typemarq="italique">Google Translate</marquage> est moins littérale, « La TAS a bien marché ici [sic] »<renvoi idref="sdfootnote43sym" typeref="note">43</renvoi>. Que s’est-il passé en trois ans? La jeune fille est restée, mais elle devenue « attrayant », le système commettant une erreur qu’il n’avait pas faite au départ. Évidemment, il y a peu de chance qu’une telle chose se produise avec un système à base de règles, puisque les ressources que requiert un changement dans ce type de système sont très élevées. Ce désagrément illustre bien le prix à payer si l’on veut profiter des avantages qu’offre un système malléable : les modifications peuvent aller trop loin. Bien sûr l’exemple présenté ici est extrême, puisque <marquage typemarq="italique">Google Translate</marquage> s’appuie en partie sur les modifications proposées par ses utilisateurs, mais la situation peut facilement se reproduire dans un système implanté en entreprise si des mesures ne sont pas prises pour assurer une certaine qualité au corpus d’entraînement. Il n’en reste pas moins, que malgré ces accrocs, la TAS reste une approche fiable dont l’efficacité n’est plus à prouver.</alinea>
       </para>
-      <titre2>
-				Un malentendu qui perdure
-			</titre2>
+      </section2><section2><titre>Un malentendu qui perdure</titre>
       <para>
         <alinea>
 	Qu’en est-il du traducteur, dans tout cela? Depuis les années 50, nous avons vu défiler cryptographes, mathématiciens, linguistes, informaticiens, statisticiens, mais pas de traducteurs. Puisqu’il s’agissait d’ailleurs au départ de les éliminer, il ne faut donc pas se surprendre de constater que la majorité se soit tenue loin de la recherche en traduction automatique. Dans « The Proper Place of Men and Machines in Language Translation », Martin Kay montre bien le calvaire que les traducteurs, et leurs textes, doivent subir aux mains des machines à traduire :</alinea>
       </para>
       <para>
         <alinea>
-				
+
 		There was a long period—for all I know, it is not yet over—in which the following comedy was acted out nightly in the bowels of an American government office with the aim of rendering foreign texts into English. Passages of innocent prose on which it was desired effect this delicate and complex operation were subjected to a process of vivisection at the hands of an uncomprehending electronic monster that transformed them into stammering streams of verbal wreckage. These were then placed into only slightly more gentle hands for repair. But the damage had been done. Simple tools that would have done so much to make the repair work easier and more effective were not to be had presumably because of the voracious appetite of the monster, which left no resources for anything else. In fact, such remedies as could be brought to the tortured remains of these texts were administered with colored pencils on paper and the final copy was produced by the action of human fingers on the keys of a typewriter. In short, one step was singled out of a fairly long and complex process at which to perpetrate automation. The step chosen was by far the least well understood and quite obviously the least apt for this kind of treatment. <renvoi idref="sdfootnote44sym" typeref="note">44</renvoi>
 			</alinea>
       </para>
@@ -312,8 +301,7 @@
 		Le traducteur et la machine, dit-il, forment une entité traduisante complexe et organisée. Il ne s’agit pas de simple collaboration, mais de symbiose, l’un tirant profit des enseignements de l’autre. « The machine is one of the human’s limbs or organs. Together they are a cyborg. »<renvoi idref="sdfootnote50sym" typeref="note">50</renvoi>
         </alinea>
       </para>
-      <titre2>
-		 (Re)Construire l’imaginaire du traducteur-cyborg</titre2>
+      </section2><section2><titre>		 (Re)Construire l’imaginaire du traducteur-cyborg</titre>
       <para>
         <alinea>
 		Si l’imaginaire du cyborg paraît trop connoté aux yeux de certains, je propose néanmoins de chercher du côté des récepteurs de la traduction et des technologies, particulièrement en ce qui concerne la production culturelle « atypique » pour recadrer la traduction dans un contexte numérique.</alinea>
@@ -334,132 +322,135 @@
         <alinea>
 		Note finale : Cet article reprend en grande partie mes travaux précédents, mais les revisite à la lumière de nouvelles réflexions. Je remercie les éditeurs de m’avoir permis de partager ces dernières. Voir la bibliographie pour les références complètes.</alinea>
       </para>
-      <titre2>
-							<marquage typemarq="italique">Bibliographie</marquage>
-						</titre2>
-      <para>
-        <alinea>
-		ALPAC, <marquage typemarq="italique">Language and Machines: Computers in Translation and Linguistic</marquage>, Washington, D.C., National Academy of Science and National Research Council, 1966.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Demos, Kristin et Mark Frauenfelder, « Machine Translation’s Past and Future », <marquage typemarq="italique">Wired</marquage> [en ligne], no 8.05, mai 2000. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.wired.com/wired/archive/8.05/timeline.html">http://www.wired.com/wired/archive/8.05/timeline.html</liensimple>&amp;gt;(page consultée le 5 décembre 2011).</alinea>
-      </para>
-      <para>
-        <alinea>
-		Freigang, Karl Heinz, « Automation of Translation: Past, Presence, and Future », <marquage typemarq="italique">Revista Tradumàtica</marquage> [en ligne], n 0, octobre 2001, &amp;lt;http://www.fti.uab.es/tradumatica/revista/num0/articles/khfreigang/imprimir.pdf&amp;gt; (page consultée le 2 décembre 2011).</alinea>
-      </para>
-      <para>
-        <alinea>
-		Has, Geneviève, « Lorsqu’un Français traduit du japonais sans parler anglais, Guts s’en tire-t-il indemne? Les «fansubs» de Berserk et la notion de l’acceptabilité en traduction », <marquage typemarq="italique">Journée d’études en littérature et résonances médiatiques</marquage>, Montréal, Canada, 2013.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Has, Geneviève, <marquage typemarq="italique">Le syndrome de Sisyphe dans la recherche en technologies langagières au Canada</marquage>, Mémoire de maîtrise, Département d’études françaises, Université Concordia, Montréal, Canada, 2014.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Has, Geneviève, « La traduction, au cœur des nouvelles pratiques éditoriales », <marquage typemarq="italique">Séminaire Écritures numériques et éditorialisation</marquage> (Paris-Montréal), Sens-public.org, Montréal, Canada, 2014(b).</alinea>
-      </para>
-      <para>
-        <alinea>
-		Hutchins, John, « Out of the Shadows: a Retrospect of Machine Translation in the Eighties », <marquage typemarq="italique">Terminologie et Traduction</marquage>, n 3, 1990, p. 275-292.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Hutchins, John, « Latest Developments in Machine Translation Technology: Beginning a New Era in MT Research », <marquage typemarq="italique">MT Summit IV: International Cooperation for Global Communication. Proceedings, July 20-22, 1993</marquage>, Kobe, Japon, 1993, p. 11-34.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Hutchins, John, « The Georgetown-IBM demonstration, 7 January 1954 », <marquage typemarq="italique">MT News International</marquage>, n 8, 1994, p. 15-18.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Hutchins, John, « Machine-Translation: A Brief History », <marquage typemarq="italique">Concise History of the Language Sciences: from the Sumerians to the Cognitivists</marquage>, E. F. K. Koerner et R. E. Asher (dir.), Oxford, Pergamon Press, 1995, p. 431-445.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Hutchins, John, « The Origins of the Translator’s Workstation », <marquage typemarq="italique">Machine Translation</marquage>, vol. 13, n 4, 1998, p. 287-307.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Hutchins, John, « Retrospect and Prospect in Computer-based Translation », <marquage typemarq="italique">Proceedings of MT Summit VII “MT in the great translation era’</marquage>, Low Hwee Boon (dir.), Singapour, AAMT, 1999, p. 30-34.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Hutchins, John, « Machine Translation over Fifty Years », <marquage typemarq="italique">Histoire Épistémologie Langage</marquage>, tome 23, fascicule 1, 2001, p. 7-31.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Isabelle, Pierre, <marquage typemarq="italique">Introduction à la traduction automatique par règles </marquage>[en ligne], 2010, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://linguistech.ca/display657">http://linguistech.ca/display657</liensimple> &amp;gt; (page consultée le 20 juin 2013).</alinea>
-      </para>
-      <para>
-        <alinea>
-		Kay, Martin, <marquage typemarq="italique">The Proper Place of Men and Machines in Language Translation</marquage>, Palo Alto, Xerox Palo Alto Research Center [en ligne], 1980, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.mt-archive.info/Kay-1980.pdf">http://www.mt-archive.info/Kay-1980.pdf</liensimple>&amp;gt; (page consultée le 10 janvier 2013).</alinea>
-      </para>
-      <para>
-        <alinea>
-		Kuhn, Roland, <marquage typemarq="italique">Introduction à la traduction automatique statistique (TAS)</marquage> [en ligne], 2010, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://linguistech.ca/display658">http://linguistech.ca/display658</liensimple> &amp;gt; (page consultée le 25 juillet 2013).</alinea>
-      </para>
-      <para>
-        <alinea>
-		L’Homme, Marie-Claude, <marquage typemarq="italique">Initiation à la traductique</marquage>, Montréal, Linguatech, 2008.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Melby, Alan, <marquage typemarq="italique">The Possibility of Languages</marquage>, Amsterdam, Philadelphie, John Benjamins Publishing Company, 1995.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Pérez, Celia Rico, « From Novelty to Ubiquity: Computers and Translation at the Close of the Industrial Age », <marquage typemarq="italique">Translation Journal </marquage>[en ligne], vol. 5, n 1, 2001, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://translationjournal.net/journal/15mt2.htm">http://translationjournal.net/journal/15mt2.htm</liensimple>&amp;gt; (page consultée le 28 novembre 2011).</alinea>
-      </para>
-      <para>
-        <alinea>
-		Quah, Chiew Kin, <marquage typemarq="italique">Translation and Technology</marquage>, New York, Palgrave Macmillan, 2006.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Robinson, Douglas, « Cyborg Translation » dans Susan Petrilli, (dir.), <marquage typemarq="italique">La traduzione</marquage>. Édition spéciale d’<marquage typemarq="italique">Athanor: Semiotica, Filosofia, Arte, Letteratura </marquage>[en ligne], 10-2, 1999-2000, p. 219-233,  &amp;lt;<liensimple xlink:type="simple" xlink:href="http://home.olemiss.edu/~djr/pages/writer/articles/print/index.html">http://home.olemiss.edu/~djr/pages/writer/articles/print/index.html</liensimple>&amp;gt; (page consultée le 2 novembre 2014).</alinea>
-      </para>
-      <para>
-        <alinea>
-		Rosner, Michael, « Machine Translation and Human Translators », Malte, <marquage typemarq="italique">Sunday Times</marquage>, 25 avril 2005.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Somers, Harold, <marquage typemarq="italique">Computers and Translation: A Translator’s Guide</marquage>, John Benjamin, Amsterdam, 2003.</alinea>
-      </para>
-      <para>
-        <alinea>
-		TAUS, <marquage typemarq="italique">1954 Machine Translation Movie</marquage> [en ligne], 2010, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.youtube.com/watch?feature=player_embedded&amp;v=K-HfpsHPmvw">http://www.youtube.com/watch?feature=player_embedded&amp;v=K-HfpsHPmvw</liensimple>&amp;gt; (page consultée le 15 mai 2013).</alinea>
-      </para>
-      <para>
-        <alinea>
-		Tenney, Merle D., « Machine Translation, Machine-aided Translation, and Machine-impeded Translation », <marquage typemarq="italique">Tools for the Trade: Translating and the Computer 5</marquage>, Veronica Lawson (dir.), Londres, Aslib, 1985, p. 105-113.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Traducteurs 1 à 5, Questionnaire. Non publiés, 2011.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Weaver, Warren, « Translation », <marquage typemarq="italique">Machine Translation of Languages</marquage>, William S. Locke et Andrew. D. Booth (dir.), Cambridge (Mass.), The Technology Press of the MIT, 1955, p. 15-24.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Wheeler, Peter, « Systran », <marquage typemarq="italique">Machine Translation Today: The State of the Art</marquage>, Margaret King (dir.), Édimbourg, Edinburgh University Press, 1987, p. 192-208.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Whitecomb, Tony, « Statistical methods gaining ground », <marquage typemarq="italique">Language Industry Monitor</marquage>, n 11, Sept-Oct 1992, p. 1-3.</alinea>
-      </para>
-      <para>
-        <alinea>
-		Zughoul, Muhammad Raji et Awatef Miz’Il Abu-Alshaar, « English/Arabic/English Machine Translation: A Historical Perspective », <marquage typemarq="italique">Meta</marquage>, vol. 50, n 3, 2005, p. 1022-1041.</alinea>
-      </para>
+      </section2>
     </section1>
   </corps>
   <partiesann>
+    <grbiblio>
+      <biblio>
+        <titre><marquage typemarq="italique">Bibliographie</marquage></titre>
+        
+        <refbiblio>
+          ALPAC, <marquage typemarq="italique">Language and Machines: Computers in Translation and Linguistic</marquage>, Washington, D.C., National Academy of Science and National Research Council, 1966.</refbiblio>
+        
+        
+        <refbiblio>
+          Demos, Kristin et Mark Frauenfelder, « Machine Translation’s Past and Future », <marquage typemarq="italique">Wired</marquage> [en ligne], no 8.05, mai 2000. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.wired.com/wired/archive/8.05/timeline.html">http://www.wired.com/wired/archive/8.05/timeline.html</liensimple>&amp;gt;(page consultée le 5 décembre 2011).</refbiblio>
+        
+        
+        <refbiblio>
+          Freigang, Karl Heinz, « Automation of Translation: Past, Presence, and Future », <marquage typemarq="italique">Revista Tradumàtica</marquage> [en ligne], n 0, octobre 2001, &amp;lt;http://www.fti.uab.es/tradumatica/revista/num0/articles/khfreigang/imprimir.pdf&amp;gt; (page consultée le 2 décembre 2011).</refbiblio>
+        
+        
+        <refbiblio>
+          Has, Geneviève, « Lorsqu’un Français traduit du japonais sans parler anglais, Guts s’en tire-t-il indemne? Les «fansubs» de Berserk et la notion de l’acceptabilité en traduction », <marquage typemarq="italique">Journée d’études en littérature et résonances médiatiques</marquage>, Montréal, Canada, 2013.</refbiblio>
+        
+        
+        <refbiblio>
+          Has, Geneviève, <marquage typemarq="italique">Le syndrome de Sisyphe dans la recherche en technologies langagières au Canada</marquage>, Mémoire de maîtrise, Département d’études françaises, Université Concordia, Montréal, Canada, 2014.</refbiblio>
+        
+        
+        <refbiblio>
+          Has, Geneviève, « La traduction, au cœur des nouvelles pratiques éditoriales », <marquage typemarq="italique">Séminaire Écritures numériques et éditorialisation</marquage> (Paris-Montréal), Sens-public.org, Montréal, Canada, 2014(b).</refbiblio>
+        
+        
+        <refbiblio>
+          Hutchins, John, « Out of the Shadows: a Retrospect of Machine Translation in the Eighties », <marquage typemarq="italique">Terminologie et Traduction</marquage>, n 3, 1990, p. 275-292.</refbiblio>
+        
+        
+        <refbiblio>
+          Hutchins, John, « Latest Developments in Machine Translation Technology: Beginning a New Era in MT Research », <marquage typemarq="italique">MT Summit IV: International Cooperation for Global Communication. Proceedings, July 20-22, 1993</marquage>, Kobe, Japon, 1993, p. 11-34.</refbiblio>
+        
+        
+        <refbiblio>
+          Hutchins, John, « The Georgetown-IBM demonstration, 7 January 1954 », <marquage typemarq="italique">MT News International</marquage>, n 8, 1994, p. 15-18.</refbiblio>
+        
+        
+        <refbiblio>
+          Hutchins, John, « Machine-Translation: A Brief History », <marquage typemarq="italique">Concise History of the Language Sciences: from the Sumerians to the Cognitivists</marquage>, E. F. K. Koerner et R. E. Asher (dir.), Oxford, Pergamon Press, 1995, p. 431-445.</refbiblio>
+        
+        
+        <refbiblio>
+          Hutchins, John, « The Origins of the Translator’s Workstation », <marquage typemarq="italique">Machine Translation</marquage>, vol. 13, n 4, 1998, p. 287-307.</refbiblio>
+        
+        
+        <refbiblio>
+          Hutchins, John, « Retrospect and Prospect in Computer-based Translation », <marquage typemarq="italique">Proceedings of MT Summit VII “MT in the great translation era’</marquage>, Low Hwee Boon (dir.), Singapour, AAMT, 1999, p. 30-34.</refbiblio>
+        
+        
+        <refbiblio>
+          Hutchins, John, « Machine Translation over Fifty Years », <marquage typemarq="italique">Histoire Épistémologie Langage</marquage>, tome 23, fascicule 1, 2001, p. 7-31.</refbiblio>
+        
+        
+        <refbiblio>
+          Isabelle, Pierre, <marquage typemarq="italique">Introduction à la traduction automatique par règles </marquage>[en ligne], 2010, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://linguistech.ca/display657">http://linguistech.ca/display657</liensimple> &amp;gt; (page consultée le 20 juin 2013).</refbiblio>
+        
+        
+        <refbiblio>
+          Kay, Martin, <marquage typemarq="italique">The Proper Place of Men and Machines in Language Translation</marquage>, Palo Alto, Xerox Palo Alto Research Center [en ligne], 1980, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.mt-archive.info/Kay-1980.pdf">http://www.mt-archive.info/Kay-1980.pdf</liensimple>&amp;gt; (page consultée le 10 janvier 2013).</refbiblio>
+        
+        
+        <refbiblio>
+          Kuhn, Roland, <marquage typemarq="italique">Introduction à la traduction automatique statistique (TAS)</marquage> [en ligne], 2010, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://linguistech.ca/display658">http://linguistech.ca/display658</liensimple> &amp;gt; (page consultée le 25 juillet 2013).</refbiblio>
+        
+        
+        <refbiblio>
+          L’Homme, Marie-Claude, <marquage typemarq="italique">Initiation à la traductique</marquage>, Montréal, Linguatech, 2008.</refbiblio>
+        
+        
+        <refbiblio>
+          Melby, Alan, <marquage typemarq="italique">The Possibility of Languages</marquage>, Amsterdam, Philadelphie, John Benjamins Publishing Company, 1995.</refbiblio>
+        
+        
+        <refbiblio>
+          Pérez, Celia Rico, « From Novelty to Ubiquity: Computers and Translation at the Close of the Industrial Age », <marquage typemarq="italique">Translation Journal </marquage>[en ligne], vol. 5, n 1, 2001, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://translationjournal.net/journal/15mt2.htm">http://translationjournal.net/journal/15mt2.htm</liensimple>&amp;gt; (page consultée le 28 novembre 2011).</refbiblio>
+        
+        
+        <refbiblio>
+          Quah, Chiew Kin, <marquage typemarq="italique">Translation and Technology</marquage>, New York, Palgrave Macmillan, 2006.</refbiblio>
+        
+        
+        <refbiblio>
+          Robinson, Douglas, « Cyborg Translation » dans Susan Petrilli, (dir.), <marquage typemarq="italique">La traduzione</marquage>. Édition spéciale d’<marquage typemarq="italique">Athanor: Semiotica, Filosofia, Arte, Letteratura </marquage>[en ligne], 10-2, 1999-2000, p. 219-233,  &amp;lt;<liensimple xlink:type="simple" xlink:href="http://home.olemiss.edu/~djr/pages/writer/articles/print/index.html">http://home.olemiss.edu/~djr/pages/writer/articles/print/index.html</liensimple>&amp;gt; (page consultée le 2 novembre 2014).</refbiblio>
+        
+        
+        <refbiblio>
+          Rosner, Michael, « Machine Translation and Human Translators », Malte, <marquage typemarq="italique">Sunday Times</marquage>, 25 avril 2005.</refbiblio>
+        
+        
+        <refbiblio>
+          Somers, Harold, <marquage typemarq="italique">Computers and Translation: A Translator’s Guide</marquage>, John Benjamin, Amsterdam, 2003.</refbiblio>
+        
+        
+        <refbiblio>
+          TAUS, <marquage typemarq="italique">1954 Machine Translation Movie</marquage> [en ligne], 2010, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.youtube.com/watch?feature=player_embedded&amp;v=K-HfpsHPmvw">http://www.youtube.com/watch?feature=player_embedded&amp;v=K-HfpsHPmvw</liensimple>&amp;gt; (page consultée le 15 mai 2013).</refbiblio>
+        
+        
+        <refbiblio>
+          Tenney, Merle D., « Machine Translation, Machine-aided Translation, and Machine-impeded Translation », <marquage typemarq="italique">Tools for the Trade: Translating and the Computer 5</marquage>, Veronica Lawson (dir.), Londres, Aslib, 1985, p. 105-113.</refbiblio>
+        
+        
+        <refbiblio>
+          Traducteurs 1 à 5, Questionnaire. Non publiés, 2011.</refbiblio>
+        
+        
+        <refbiblio>
+          Weaver, Warren, « Translation », <marquage typemarq="italique">Machine Translation of Languages</marquage>, William S. Locke et Andrew. D. Booth (dir.), Cambridge (Mass.), The Technology Press of the MIT, 1955, p. 15-24.</refbiblio>
+        
+        
+        <refbiblio>
+          Wheeler, Peter, « Systran », <marquage typemarq="italique">Machine Translation Today: The State of the Art</marquage>, Margaret King (dir.), Édimbourg, Edinburgh University Press, 1987, p. 192-208.</refbiblio>
+        
+        
+        <refbiblio>
+          Whitecomb, Tony, « Statistical methods gaining ground », <marquage typemarq="italique">Language Industry Monitor</marquage>, n 11, Sept-Oct 1992, p. 1-3.</refbiblio>
+        
+        
+        <refbiblio>
+          Zughoul, Muhammad Raji et Awatef Miz’Il Abu-Alshaar, « English/Arabic/English Machine Translation: A Historical Perspective », <marquage typemarq="italique">Meta</marquage>, vol. 50, n 3, 2005, p. 1022-1041.</refbiblio>
+        
+      </biblio>
+    </grbiblio>
     <grnote>
       <note id="sdfootnote1sym">
         <no>1</no>
@@ -530,19 +521,19 @@
       <note id="sdfootnote14sym">
         <no>14</no>
         <alinea>
-							
+
 							<marquage typemarq="italique">Ibid., </marquage>page 15.</alinea>
       </note>
       <note id="sdfootnote15sym">
         <no>15</no>
         <alinea>
-							
+
 							<marquage typemarq="italique">Ibid., </marquage>page 16.</alinea>
       </note>
       <note id="sdfootnote16sym">
         <no>16</no>
         <alinea>
-							
+
 							<marquage typemarq="italique">Ibid.</marquage>, page 17.</alinea>
       </note>
       <note id="sdfootnote17sym">
@@ -553,7 +544,7 @@
       <note id="sdfootnote18sym">
         <no>18</no>
         <alinea>
-							
+
 							<marquage typemarq="italique">Ibid., </marquage>page 19.</alinea>
       </note>
       <note id="sdfootnote19sym">
@@ -589,7 +580,7 @@
       <note id="sdfootnote25sym">
         <no>25</no>
         <alinea>
-							
+
 							<marquage typemarq="italique">Ibid., </marquage>p. 5.</alinea>
       </note>
       <note id="sdfootnote26sym">
@@ -610,7 +601,7 @@
       <note id="sdfootnote29sym">
         <no>29</no>
         <alinea>
-							
+
 							<marquage typemarq="italique">Id.</marquage>, « Machine Translation over Fifty Years », <marquage typemarq="italique">Histoire Épistémologie Langage</marquage>, tome 23, fascicule 1, 2001, p. 17.</alinea>
       </note>
       <note id="sdfootnote30sym">
@@ -626,20 +617,20 @@
       <note id="sdfootnote32sym">
         <no>32</no>
         <alinea>
-							
+
 							<marquage typemarq="italique">Id.</marquage>, « Latest Developments in Machine Translation Technology: Beginning a New Era in MT Research », <marquage typemarq="italique">MT Summit IV: International Cooperation for Global Communication. Proceedings, July 20-22, 1993</marquage>, Kobe, Japon, 1993, p. 11.</alinea>
       </note>
       <note id="sdfootnote33sym">
         <no>33</no>
         <alinea>
-							
+
 							<marquage typemarq="italique">Ibid.</marquage>
 						</alinea>
       </note>
       <note id="sdfootnote34sym">
         <no>34</no>
         <alinea>
-							
+
 							<marquage typemarq="italique">Id.,</marquage> « Out of the Shadows: a Retrospect of Machine Translation in the Eighties », <marquage typemarq="italique">Terminologie et Traduction</marquage>, n 3, 1990, p. 277-278.</alinea>
       </note>
       <note id="sdfootnote35sym">
@@ -660,40 +651,40 @@
       <note id="sdfootnote38sym">
         <no>38</no>
         <alinea>
-							
+
 							<marquage typemarq="italique">Ibid.</marquage>
 						</alinea>
       </note>
       <note id="sdfootnote39sym">
         <no>39</no>
         <alinea>
-							
+
 							<marquage typemarq="italique">Ibid.</marquage>
 						</alinea>
       </note>
       <note id="sdfootnote40sym">
         <no>40</no>
         <alinea>
-							
+
 							<marquage typemarq="italique">Ibid.</marquage>
 						</alinea>
       </note>
       <note id="sdfootnote41sym">
         <no>41</no>
         <alinea>
-							
+
 							<marquage typemarq="italique">Ibid.</marquage>, p. 25.</alinea>
       </note>
       <note id="sdfootnote42sym">
         <no>42</no>
         <alinea>
-							
+
 							<marquage typemarq="italique">Ibid.</marquage>, p. 26.</alinea>
       </note>
       <note id="sdfootnote43sym">
         <no>43</no>
         <alinea>
-							
+
 							<marquage typemarq="italique">Ibid.</marquage>, p. 26.</alinea>
       </note>
       <note id="sdfootnote44sym">
@@ -729,7 +720,7 @@
       <note id="sdfootnote50sym">
         <no>50</no>
         <alinea>
-							
+
 							<marquage typemarq="italique">Ibid. </marquage>
 						</alinea>
       </note>

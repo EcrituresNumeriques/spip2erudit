@@ -139,8 +139,7 @@
         <alinea>
 	En quoi la rapidité quasi instantanée et mondialisée de diffusion d’un quantum d’information numérique sans égal semble échapper à toute maîtrise ? – la fuite ayant très vite des dimensions catastrophiques, à la hauteur de l’ampleur du gisement ou de la ressource captés, un peu comme dans les problèmes de fuite de plate-forme pétrolière, gazière ou nucléaire. Plus on fore profond, plus les circuits de canalisation sont complexes, et plus la fuite est risquée. La fuite s’est considérablement socialisée, mondialisée. L’échelle de la fuite est également à la mesure de la « neutralité du Web », de l’ouverture de son protocole et de la publicité de ses normes imposant un a priori de transparence.</alinea>
       </para>
-      <titre2>
-	WIKILEAKS : le secret d’État face au numérique</titre2>
+      <section2><titre>	WIKILEAKS : le secret d’État face au numérique</titre>
       <para>
         <alinea>
 	Au fond, et historiquement à la suite de nombreux conflits contemporains, le numérique et Internet ouvrent potentiellement à de nouvelles formes de liberté publique, informationnelle et communicationnelle. Mais politiquement, quelle forme de secret d’État, au sens de la puissance publique, sommes-nous prêts à accepter pour en organiser l’épanouissement ?</alinea>
@@ -169,8 +168,7 @@
         <alinea>
 	C’est donc ce dispositif technique sur le Web qui est au cœur de cette nouvelle relation entre secret et transparence à l’ère numérique.</alinea>
       </para>
-      <titre2>
-	Julian Assange</titre2>
+      </section2><section2><titre>	Julian Assange</titre>
       <para>
         <alinea>
 	Julian Assange est l’incarnation visible de l’ensemble du projet Wikileaks. Assange, y compris dans le moindre détail biographique, est symptomatique, paradigmatique d’une version post-moderne de cette relation politique au secret.</alinea>
@@ -183,6 +181,7 @@
         <alinea>
 	« Révélée dans l’expérience clandestine de la personnalité dédoublée, la gestion du secret personnel que met en œuvre l’espion de notre époque correspond à une économie particulière du sujet qui organise, à un point extrême du dispositif des comportements psychologiquement possibles et socialement réalisés, la tension entre l’espace du secret et celui de la publicité et éclaire ainsi l’étape contemporaine de l’histoire sociale de l’identité personnelle». </alinea>
       </bloccitation>
+      </section2>
     </section1>
     <section1>
       <titre>
@@ -215,8 +214,7 @@
         <alinea>
 	On le sait, le <marquage typemarq="italique">cablegate </marquage>a soulevé un débat assez irréel sur la<marquage typemarq="italique"> </marquage>crainte de la « dictature de la transparence», totalitaire, notamment dans le domaine diplomatique. D’une part, il s’est révélé que les <marquage typemarq="italique">cables</marquage>, aussi déplaisants qu’ils soient pour montrer le cynisme et l’arrogance de la Diplomatie américaine, ne révélaient peut-être pas autre chose que ce dont on se doutait. Par ailleurs, la diplomatie officielle de représentation n’est de fait, et historiquement, pas équivalente aux services de renseignement. Pour l’essentiel, le débat s’est caractérisé par une hypocrisie assez mesquine de la part de détenteur de petits secrets.</alinea>
       </para>
-      <titre2>
-	Wikileaks et les médias</titre2>
+      <section2><titre>	Wikileaks et les médias</titre>
       <para>
         <alinea>
 	Wikileaks a dû par ailleurs prouver sa fiabilité dans la maîtrise du dispositif aux yeux des médias. Il lui a fallu faire preuve d’une crédibilité, d’une autorité, pour authentifier les sources et donc donner d’autant plus d’impact aux fuites. Dans cet exercice, Assange avait absolument besoin du secours des grands médias. C’est le cas des titres de la Presse écrite qui ont contractualisé avec lui, <marquage typemarq="italique">The Guardian</marquage>, <marquage typemarq="italique">El Pais</marquage>, <marquage typemarq="italique">Der Spiegel</marquage>, <marquage typemarq="italique">Le Monde</marquage>, <marquage typemarq="italique">New York Times. </marquage>
@@ -230,8 +228,7 @@
         <alinea>
 	Finalement, la question de savoir si Wikileaks est un média – plutôt qu’un organe d’espionnage (il n’est pas à la source des informations) – ou une sorte d’infra ou de méta média (intermédiaire entre sources et médias) est une bonne question. On comprend qu’Assange ait particulièrement soigné cette relation, sachant que sa notoriété médiatique est aussi sa ligne de défense.</alinea>
       </para>
-      <titre2>
-	L’ouverture des données publiques</titre2>
+      </section2><section2><titre>	L’ouverture des données publiques</titre>
       <para>
         <alinea>
 	Une des formes actuelles de la transparence numérique se développe à partir de l’Open data et des possibilités de traitements des données par le Web sémantique : faire produire du sens inédit à partir de données décontextualisées. L’ouverture des données publiques est l’un des prolongements de l’Open data, et le débat sur la confidentialité, l’anonymisation ou la ré-utilisation des données administratives, est des plus important.</alinea>
@@ -256,8 +253,7 @@
         <alinea>
 	On assiste donc à la fois à la possibilité du croisement des données publiques comme valorisation capitalistique, alors même que le croisement des fichiers sensibles fait l’objet d’une surveillance et d’un contrôle absolus, ou d’une exploitation par des firmes du renseignement (DPI <marquage typemarq="italique">Deep packet inspection,</marquage> Inspection profonde de paquets). Il n’est pas certain que les frontières entre les modalités de transparence de l’une et de l’autre de ces possibilités d‘exploitation des données soient aussi nettes et étanches que cela.</alinea>
       </para>
-      <titre2>
-	Open data et Web sémantique</titre2>
+      </section2><section2><titre>	Open data et Web sémantique</titre>
       <para>
         <alinea>
 	L’ambivalence d’un Web plus secret et plus dévoilé en même temps est en marche. Le Web sémantique, par l’expression logique des données, autonomise à l’infini les combinaisons graphiques de construction. Le Web deviendrait plus un gisement de données qu’une collection de documents d’information. Les possibilités de croisement des données, de construction d’ontologies donnant ex post du sens aux data, renforcera les capacité de calcul, d’inférence et de simulation, à partir des données. Qui disposera de ce pouvoir disposera du secret. Là encore, plus l’ouverture de données sera effective, plus sera puissante la maîtrise des graphes que sauront construire de nouvelles puissances informatiques, que ce soit sur les données personnelles, nominales, vitales, sociales ou locales, bref sur tous ces matériaux du monde réel qu’exploite et code le cyberespace.</alinea>
@@ -278,8 +274,7 @@
         <alinea>
 	Notons également que la croissance du ratio entre <marquage typemarq="italique">Humint (Human Intelligence)</marquage> <marquage typemarq="italique">et Sigint (Signal Intelligence</marquage>), dans les investissements des agences, au détriment du <marquage typemarq="italique">Humint</marquage>, est en voie d’exploser, et devrait être repensé si le renseignement veut vraiment maîtriser cette révolution du Web sémantique. </alinea>
       </para>
-      <titre2>
-	Sources, secrets et pouvoirs numériques</titre2>
+      </section2><section2><titre>	Sources, secrets et pouvoirs numériques</titre>
       <para>
         <alinea>
 	La source est en rapport avec le caché absolu. C’est l’ « Origine du monde ». Mais c’est aussi Courbet repris par Duchamp dans « <marquage typemarq="italique">Étant donnés : 1° la chute d’eau, 2° le gaz d’éclairage... »,</marquage> le trou dans la porte de l’iconostase de l’intime, mais aussi montage et illusion. Encore des fluides. </alinea>
@@ -366,8 +361,7 @@
         <alinea>
 	Le cyberespace est à la fois opacité et transparence, copie ambivalente, trahison et traduction du réel.</alinea>
       </para>
-      <titre2>
-	La révélation</titre2>
+      </section2><section2><titre>	La révélation</titre>
       <para>
         <alinea>
 	Wikileaks par son dispositif de captage de source et de diffusion de fuites ressemble à celui de l’espionnage et du renseignement, où une puissance cherche à s’accaparer l’information sensible d’une autre puissance, ennemie. Mais ici la puissance d’origine est Internet comme puissance mondiale ouverte, et l’ennemi, ce sont des puissances mondiales étatiques qui violent les droits de l’homme et, au premier chef, la liberté d’expression du cyberespace.</alinea>
@@ -380,6 +374,7 @@
         <alinea>
 	Déjà, dans la sphère du renseignement, le dévoilement du secret est l’une des tendances : la gestion du secret nécessite qu’il y ait fuite, roman, rumeur, fiction, mémoires, ne serait-ce que pour témoigner de la puissance du secret public. Jamais la littérature de « témoignage » sur les affaires, scandales et autres complots d’État n’a été aussi dense. Jamais le secret n’a été aussi bavard.</alinea>
       </para>
+      </section2>
     </section1>
     <section1>
       <titre>
@@ -408,8 +403,7 @@
         <alinea>
 	Dans le cyberespace, le renseignement est le fait d’un espion double, triple, retourné, infiniment spéculaire. Tout dépend de l’arrêt sur image. L’Empire, s’il ne peut contrôler les fuites, tente de contrôler les circuits (numériques) bancaires, les sites d’hébergement, le <marquage typemarq="italique">Cloud</marquage> planétaire, mais Wikileaks et d’autres acteurs du hacking continuent d’organiser la fuite. </alinea>
       </para>
-      <titre2>
-	Secret public, secret privé</titre2>
+      <section2><titre>	Secret public, secret privé</titre>
       <para>
         <alinea>
 	A noter également que le secret d’État et le secret privé ne cessent de se rapprocher, d’interagir. Des affaires récentes ont montré à quel point la frontière entre vie privée (dans ses composantes les plus intimes, par exemple la sexualité) et la vie publique est poreuse ! Il n’est pas très étonnant que Julian Assange manifeste également cette porosité des composantes privées, avec les accusations de viol dont il est l’objet en Suède…</alinea>
@@ -422,8 +416,7 @@
         <alinea>
 	Moins de secret d’État, mais plus de secrets privés. Le secret de l’isoloir. Le secret est également réintroduit pour des raisons d’efficacité (secret administratif), obligation de réserve ou de sûreté, sinon de situation d’exception (loi anti-terroristes). « La théorie politique sur laquelle s’est construit le droit libéral n’exclut pas qu’il faille mettre un voile sur la loi afin de défendre la liberté. (Montesquieu) … une mise en réserve de la loi prévue, contrôlée et sanctionnée par la loi elle-même », nous rappelle Dewerpe. Souhaitons qu’aucune exception à la loi ne soit imaginée à l’encontre de Wikileaks !</alinea>
       </para>
-      <titre2>
-	La duplication imaginaire de l’anonymat</titre2>
+      </section2><section2><titre>	La duplication imaginaire de l’anonymat</titre>
       <para>
         <alinea>
 	Wikileaks et Anonymous alimentent fortement l’imaginaire de dévoilement du secret, là encore de façon ambivalente, d’un côté par l’individualisation forte, hypermédiatisée, voyante, provocante, d’Assange, de l’autre par l’anonymat des visages de Guy Fawkes, par l’uniformisation métallique de la voix d’Anonymous.</alinea>
@@ -432,6 +425,7 @@
         <alinea>
 	Cette duplication imaginaire de l’anonymat, au-delà de la figure charismatique du gourou libertaire Assange, est peut-être la recréation d’un espace sacré au sein du cyberespace : dramatisation d’une figure centrale, liée au secret et au pouvoir démiurgique du dévoilement, porte de l’iconostase, mais surtout également réplication des figures de l’anonymat (« Nous sommes légion, nous sommes partout, nous vous attendons… »). La véritable puissance de copie porte maintenant sur n’importe quel membre de la communauté du cyberespace, comme espace de liberté absolue d’information, sous le masque identique de Guy Fawkes, synthèse à la fois du plus protégé (anonymat du secret individuel) et diffusion la plus large de l’image du masque Anonymous en boucle sur YouTube ou dans les rues du monde.</alinea>
       </para>
+      </section2>
     </section1>
     <section1>
       <titre>
@@ -457,6 +451,7 @@
   <partiesann>
     <grbiblio>
       <biblio>
+        <titre>Bibliographie</titre>
         <refbiblio>
 	ASSANGE, Julian, <liensimple xlink:type="simple" xlink:href="http://www.cryptome.org/0002/ja-conspiracies.pdf ">
             <marquage typemarq="italique">Essays on Conspiracy</marquage>

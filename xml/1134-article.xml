@@ -155,10 +155,10 @@
     <section1>
       <titre>
 	La linguistique des normes</titre>
-      <titre2>
-	A. L’énonciation des normes juridiques par la langue</titre2>
-      <titre3>
-	1. L’intimité entre le droit et la langue</titre3>
+      <section2><titre>	A. L’énonciation des normes juridiques par la langue</titre>
+        <section3>
+        <titre>
+	1. L’intimité entre le droit et la langue</titre>
       <para>
         <alinea>
 	En apparence, le droit et la langue sont clairement distincts. La parole et l’écrit appartiennent au monde des mots, et le droit au monde de l’action concrète. La norme juridique réglemente les faits et agit sur eux<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi>.</alinea>
@@ -175,8 +175,10 @@
         <alinea>
 	Enfin, une analogie peut aisément être dressée entre le combat rituel — qui du reste existait dans le droit primitif et persiste au Moyen Âge à travers les ordalies — et le duel judiciaire, où le litige entre deux sujets n’est plus réglé par la violence physique, fût-elle ritualisée, mais par la violence de l’antagonisme des prétentions formulées par les avocats des plaideurs. Le procès est avant tout un combat mis en scène et dramatisé par le langage, dans sa forme et son usage juridique. Le principe du contradictoire implique la confrontation, et l’équité du procès commande, de façon du reste très explicite, l’égalité des armes entre les plaideurs. Chaque argument poursuit ainsi un but offensif ou défensif, et présente un intérêt tactique propre. Il n’est pas excessif de voir dans le droit moderne une sublimation de la violence rituelle animale ou humaine en violence linguistique. Pour prolonger la pensée de Konrad Lorenz, nous dirons que l’agression rituelle est chez l’homme essentiellement linguistique, dès lors que par l’effet du système juridique le recours à la violence physique a été éradiqué pour ne subsister que dans le cas particulier de la déviance.</alinea>
       </para>
-      <titre3>
-	2. Les propriétés juridiques de la langue</titre3>
+        </section3>
+        <section3>
+        <titre>
+	2. Les propriétés juridiques de la langue</titre>
       <para>
         <alinea>
 	Aucun autre philosophe du XXe siècle ne met davantage en évidence les propriétés juridiques du langage que John Langshaw Austin (1911-1960). Son œuvre philosophique, manifestement inspirée de la philosophie de Herbert Hart (1907-1992), est en effet célèbre pour avoir décelé les propriétés d’action du langage. Dans sa série de conférences à l’Université d’Oxford, dont le rassemblement constituera ultérieurement son ouvrage How To Do Things With Words<renvoi idref="sdfootnote27sym" typeref="note">27</renvoi>, Austin expose les facultés performatives du langage. Or le mode performatif ressemble très étroitement à l’énonciation juridique.</alinea>
@@ -205,8 +207,8 @@
         <alinea>
 	En résumé, il n’est pas excessif de conclure de tout ceci que l’art juridique n’est rien d’autre que l’art de manier la langue dans sa dimension normative. La connaissance du droit n’est donc rien d’autre, en ce sens précis, qu’une branche de la linguistique appliquée.</alinea>
       </para>
-      <titre2>
-	B. L’application des normes juridiques par la langue</titre2>
+        </section3>
+      </section2><section2><titre>	B. L’application des normes juridiques par la langue</titre>
       <para>
         <alinea>
 	La mise en œuvre des normes juridiques repose pour l’essentiel sur deux mécanismes fondamentaux. Le premier réside dans l’obéissance du destinataire de la règle, le second dans la contrainte que peut exercer le système juridique considéré, ce que les juristes appellent classiquement la sanction. Or, dans un cas comme dans l’autre, le phénomène linguistique est largement prépondérant.</alinea>
@@ -231,12 +233,12 @@
         <alinea>
 	Dans ces conditions, s’il apparaît effectivement que le droit réside pour l’essentiel dans la langue, il n’est pas étonnant que le pouvoir politique ait pour tendance naturelle de s’efforcer de contrôler celle-ci le plus possible, pour maîtriser ainsi les ressorts de sa propre action et les capacités de résistance linguistiques éventuelles des sujets qu’il gouverne. La dimension linguistique de la norme amène par conséquent, par souci de contrôle et de préservation du pouvoir, la normativité de la langue elle-même.</alinea>
       </para>
+      </section2>
     </section1>
     <section1>
       <titre>
 	La normativité de la langue</titre>
-      <titre2>
-	A. La normativité intrinsèque à la langue</titre2>
+      <section2><titre>	A. La normativité intrinsèque à la langue</titre>
       <para>
         <alinea>
 	Toute langue repose sur l’existence de constantes phonétiques, sémantiques et syntaxiques, par-delà la diversité de ses locuteurs. Sans ces constantes, le code de communication que constitue la langue n’est plus utilisable à des fins de compréhension mutuelle. La langue suppose donc par essence l’existence de conventions.</alinea>
@@ -249,10 +251,10 @@
         <alinea>
 	Pour répondre à cette question, il importe de vérifier préalablement que la langue a une dimension normative, avant de s’interroger sur la dimension le cas échéant juridique cette normativité consubstantielle.</alinea>
       </para>
-      <titre3>
-	1. La dimension normative de la grammaire</titre3>
-      <titre3>
-	Qu’est-ce que la grammaire ?</titre3>
+        <section3>
+        <titre>
+	1. La dimension normative de la grammaire</titre>
+      </section3><section3><titre>	Qu’est-ce que la grammaire ?</titre>
       <para>
         <alinea>
 	Avant de nous interroger sur la normativité de la grammaire, il est nécessaire de définir préalablement ce qu’est précisément la grammaire. Sur ce point, en effet, la discussion est ouverte.</alinea>
@@ -265,8 +267,7 @@
         <alinea>
 	Comme il n’est pas ici question d’entrer dans le débat linguistique pour discuter du bien-fondé de l’une et l’autre conceptions, nous adopterons ici, et par pure convention la conception large développée par Chomsky. Ce choix ne procède pas d’une expertise linguistique, mais seulement du souci d’appréhender le phénomène normatif intrinsèque à la langue, au cas où il existerait, à travers l’ensemble des composantes de celle-ci. Autrement dit, le choix par convention de la conception s’explique seulement par sa commodité pour répondre à la question qui nous intéresse  (La langue en général est-elle un phénomène normatif ?), dans la mesure où une telle conception extensive permet d’épuiser la question en procédant à l’analyse, le cas échéant, de l’ensemble des paramètres de la langue.</alinea>
       </para>
-      <titre3>
-	Les types de grammaire en général</titre3>
+      </section3><section3><titre>	Les types de grammaire en général</titre>
       <para>
         <alinea>
 	Ainsi entendue comme l’ensemble des possibilités d’expression concevables dans la langue, la grammaire reste toutefois susceptible de constituer la base d’une typologie qui la distingue en branches différentes, selon l’esprit avec lequel elle est construite. En ce sens, il n’existe pas un mais cinq types de grammaire différents.</alinea>
@@ -291,8 +292,7 @@
         <alinea>
 	Enfin, un cinquième type de grammaire peut être isolé dans ce qu’il est coutume d’appeler la grammaire traditionnelle, pour désigner l’ensemble des travaux réalisés par des grammairiens avant la naissance de la linguistique moderne, depuis l’Antiquité jusqu’au XIXe siècle. Il s’agit d’approches très diverses, qui n’ont en commun que leur antériorité à l’étude contemporaine de la langue selon les modalités scientifiques aujourd’hui en usage.</alinea>
       </para>
-      <titre3>
-	La grammaire prescriptive en particulier</titre3>
+      </section3><section3><titre>	La grammaire prescriptive en particulier</titre>
       <para>
         <alinea>
 	Lorsque la dimension normative de la grammaire est appréhendée, c’est donc la grammaire prescriptive en particulier qui est seule concernée. Certes, et contrairement à ce que pensent la plupart des non-linguistes, la grammaire n’est constitutive d’un ensemble de règles que pour autant qu’on la considère comme telle, et que l’on fasse fi en conséquence de toute la linguistique moderne. Cependant, et bien que les linguistes contemporains se soient écartés de la conception prescriptive, cette dernière n’en existe pas moins encore, ne fût-ce que par l’enseignement scolaire et la croyance collective. Or, s’il l’on souhaite étudier la langue telle qu’elle est, il n’est pas inutile de se pencher sur la façon dont les locuteurs eux-mêmes la pensent, eussent-ils foncièrement tort. La grammaire prescriptive continue d’exister sur ce mode, et la dimension normative de la langue procède de cette subsistance.</alinea>
@@ -317,8 +317,7 @@
         <alinea>
 	La normativité de la grammaire constitue ainsi l’une des dimensions de cette dernière, et la langue est bien, lorsqu’elle est, à tort ou à raison, observée à travers elle, constituée entre autres choses d’un ensemble de règles. La question qui se pose alors, par voie de conséquence, est de savoir si ces règles peuvent être qualifiées de juridiques.</alinea>
       </para>
-      <titre3>
-	2. La dimension juridique de la grammaire</titre3>
+      </section3><section3><titre>	2. La dimension juridique de la grammaire</titre>
       <para>
         <alinea>
 	La question de savoir si les normes grammaticales, telles que les énonce la grammaire prescriptive vulgaire nonobstant son caractère fondamentalement non scientifique, présentent ou non un caractère authentiquement juridique, est une question fort complexe. Elle suppose en effet de définir le concept même de norme juridique, et donc de répondre à la question la plus difficile et la plus débattue en théorie du droit, à savoir celle de la définition du droit lui-même.</alinea>
@@ -327,8 +326,7 @@
         <alinea>
 	Sans répondre ex abrupto à la question posée, il est en revanche commode de constater l’analogie profonde qui rapproche la grammaire normative de la norme juridique. Cette ressemblance étroite se vérifie aussi bien à l’échelle des statuts des différentes académiques elles-mêmes, qu’à celle des sanctions prévues en cas de transgression des règles envisagées.</alinea>
       </para>
-      <titre3>
-	Le pouvoir normatif des Académies</titre3>
+      </section3><section3><titre>	Le pouvoir normatif des Académies</titre>
       <para>
         <alinea>
 	Par définition, une Académie est une institution centralisée. L’action qui est la sienne est de poser des principes communs et de les énoncer le cas échéant sous forme de règles. L’analogie avec la règle juridique est donc évidente.</alinea>
@@ -341,8 +339,7 @@
         <alinea>
 	Si l’on s’en tient par conséquent à l’Académie française, et aux diverses académies dont les statuts sont comparables, alors il semble acquis que ce type d’institution se voient reconnaître ou s’attribue unilatéralement un pouvoir normatif. La question est donc de savoir si les normes édictées par celles-ci sont assorties de sanction.</alinea>
       </para>
-      <titre3>
-	Le pouvoir de sanction des Académies</titre3>
+      </section3><section3><titre>	Le pouvoir de sanction des Académies</titre>
       <para>
         <alinea>
 	Il ne semble pas que les académies, en tout cas celles constituées de la même façon que l’Académie française, et celle-là incluse, disposent d’un véritable pouvoir de sanction coercitif. L’Académie française n’est pas l’Autorité des marchés financiers, la Commission bancaire ou l’Autorité de la concurrence. Elle n’inflige pas d’amende, ne rend pas de décision individuelle ni n’édicte de norme susceptible de recours devant les juridictions étatiques.</alinea>
@@ -359,14 +356,15 @@
         <alinea>
 	Dès lors, et en conclusion, il existe une analogie saisissante entre les normes grammaticales et les normes juridiques classique, au point qu’il est parfaitement possible, selon l’acception que l’on retient du concept même de droit, de considérer que la  grammaire normative est bien un phénomène juridique. L’affirmation peut être discutée, mais elle n’est pas absurde. Or, si la langue peut être bien perçue du fait du sentiment de ses locuteurs comme un phénomène en partie normatif — et à défaut de l’être réellement dans son essence comme la linguistique moderne le montre, il n’est pas étonnant que le système juridique lui-même en vienne à tenter et parfois à réussir en partie à en prendre le contrôle. Lorsque cela advient, la langue elle-même est alors réglementée par le système juridique, c’est-à-dire encadrée de l’extérieur par l’autorité politique.</alinea>
       </para>
-      <titre2>
-	B. La normativité extrinsèque à la langue</titre2>
+        </section3>
+      </section2><section2><titre>	B. La normativité extrinsèque à la langue</titre>
       <para>
         <alinea>
 	Il n’est pas surprenant que le pouvoir politique, qu’il s’agisse d’un chef tribal, d’un Roi ou d’une République, soit tenté de règlementer la langue. L’outil de communication des hommes, le langage, est ce qui garantit la force et la pérennité de la communauté. Contrôler la langue, même si ce contrôle est limité, c’est contrôler un des ressorts fondamentaux du pouvoir. La métaphore d’Orwell, sur la fabrication par un « Ministère de la pensée » d’une langue imbécile destinée à renforcer le pouvoir totalitaire en affaiblissant les capacités de résistance intellectuelle des sujets gouvernés, est sur ce terrain on ne peut plus juste. Par la maîtrise de la langue, le locuteur dispose de facultés cognitives, et donc  de capacités de réflexions. Le contrôle juridique de la langue, même s’il est réduit, ne tend pas à autre chose qu’à circonscrire celles-ci.</alinea>
       </para>
-      <titre3>
-	1. Les pouvoirs du locuteur</titre3>
+        <section3>
+        <titre>
+	1. Les pouvoirs du locuteur</titre>
       <para>
         <alinea>
 	La langue n’est pas seulement un instrument de pouvoir pour celui qui tente d’en contrôler la grammaire et l’usage, elle est surtout, et avant toute chose, l’instrument de la pensée. En maîtrisant la ou les langues qui sont les siennes, le locuteur agit sur son propre esprit en le limitant, ou, à l’inverse, en le développant.</alinea>
@@ -375,8 +373,7 @@
         <alinea>
 	Aussi, les capacités cognitives qu’il étend par la langue, ou plus encore par polyglossie, l’amènent tout naturellement à renforcer son esprit critique et par là à relativiser le discours public. Tel sont les pouvoirs du locuteur, que le Prince cherche naturellement à contenir.</alinea>
       </para>
-      <titre3>
-	a. Les capacités cognitives</titre3>
+      </section3><section3><titre>	a. Les capacités cognitives</titre>
       <para>
         <alinea>
 	Dans l’histoire de la philosophie du langage, l’un des débats les plus fameux est celui de savoir si la langue et la pensée qu’elle exprime sont une seule et même chose, ou si, au contraire, la pensée préexiste à la langue de sa formulation. Le philosophe Wittgenstein considère quant à lui, à ce titre, que la langue crée le concept, et que sans elle, la pensée abstraite elle-même ne saurait exister<renvoi idref="sdfootnote50sym" typeref="note">50</renvoi>.</alinea>
@@ -409,8 +406,7 @@
         <alinea>
 	Enfin, ce phénomène se retrouve même dans la faculté des locuteurs à identifier le responsable juridique ou moral d’un fait dommageable. Autrement dit, la pensée juridique elle-même est déterminée par la langue. Ainsi, lorsqu’un film montrant des personnes provoquant involontairement un accident et un dommage matériel minime — en l’occurrence des œufs cassés, des ballons pour enfant crevés ou des bouteilles pleines renversées — est ainsi projeté à des locuteurs de langues différentes, et que la question leur est posée ultérieurement de savoir qui est le responsable, leurs réponses sont globalement constantes et directement dépendantes de la langue qu’ils parlent. Ainsi, les hispanophones, dont la langue dit plus volontiers « Le vase s’est cassé » (« El florero se rompió ») plutôt que « François a cassé le vase » (« Francisco rompió el florero »), ont plutôt tendance à dédouaner juridiquement l’auteur du geste malencontreux de toute responsabilité ; tandis qu’à l’inverse les anglophones, dont la langue dit davantage « François has broken the vase » que « The vase has broken », tendent corrélativement à accabler l’auteur du geste ayant provoqué l’accident. La langue elle-même détermine ici, en quelque sorte la conception que l’on retient de la responsabilité civile de l’auteur, et partant, l’une des composantes essentielles du droit privé. Or ce phénomène qui semble bien montrer à quel point la langue détermine la pensée du locuteur, et notamment sa pensée juridique ou politique<renvoi idref="sdfootnote55sym" typeref="note">55</renvoi>, explique fort logiquement les capacités du sujet bilingue à relativiser environnants, lorsqu’il fait usage, intérieurement ou par le discours, de l’autre langue que celle de ceux-ci.</alinea>
       </para>
-      <titre3>
-	b. Le relativisme de la pensée</titre3>
+      </section3><section3><titre>	b. Le relativisme de la pensée</titre>
       <para>
         <alinea>
 	Si l’hypothèse de Sapir-Whorf s’avère exacte, en tout ou partie, et si l’on considère que la langue détermine la pensée du locuteur, alors il est évident que le multilinguisme augmente les capacités d’appréhension intellectuelle du même phénomène en démultipliant les points d’observation de celui-ci, et en contribuant de la sorte à sa plus grande compréhension. En un mot, le sujet bilingue sait plus facilement réfléchir à deux fois sur le même énoncé. La connaissance et la maîtrise intérieure de plusieurs langues ouvrent un champ cognitif nouveau. Pour reprendre à notre compte l’expression célèbre d’Aldous Huxley, la polyglossie, à sa manière, ouvre ainsi les « portes de la réflexion ». Le sujet bilingue est nécessairement moins docile intérieurement que le sujet monolingue, puisqu’il peut réfléchir deux fois, en des termes différents, au discours qui lui est adressé.</alinea>
@@ -419,8 +415,7 @@
         <alinea>
 	L’esprit critique que le multilinguisme développe offre par conséquent sur le terrain de la pensée politique une capacité pour le sujet bilingue à relativiser le discours du Prince formulé dans la langue de ce dernier, dès lors que son contenu est soumis à un examen critique dans une autre langue. Par exemple, lorsque j’écoute le discours d’un Président de la République française sur la crise financière, et que je compare ses affirmations à celles formulées par le Premier ministre britannique, dont je comprends dans sa version originale le contenu, j’ai potentiellement un regard critique plus averti que celui qui n’a pas accès à cet examen comparé. Par ailleurs, comme la plupart des États modernes ne sont pas socio-linguistiquement homogènes<renvoi idref="sdfootnote56sym" typeref="note">56</renvoi>, la maîtrise d’une langue régionale, lorsqu’elle est par exemple parente avec la langue officielle d’un État limitrophe, confère nécessairement à son locuteur une capacité de comparaison. Il est fort probable qu’un Alsacien connaissant parfaitement la langue régionale de son territoire ait un accès direct et remarquable à l’intégralité du discours politique tenu en Allemagne, à quelques kilomètres de Strasbourg. Dès lors, par évidence, sa capacité à relativiser la véracité ou la pertinence du discours politique sur le « modèle allemand » ne peut qu’en être accrue. Et la même observation faite pour les personnes parlant le catalan, le basque, ou toute autre langue nationale d’un État voisin, qu’il s’agisse tout simplement de l’anglais, de l’italien ou de l’espagnol. Telle est sans doute la raison, du reste, pour laquelle le Prince cherche toujours, à un degré variable, à contrôler la langue.</alinea>
       </para>
-      <titre3>
-	2. Les pouvoirs du Prince</titre3>
+      </section3><section3><titre>	2. Les pouvoirs du Prince</titre>
       <para>
         <alinea>
 	Les actes du Prince en matière de langue ont une dimension éminemment politique. Pour les raisons évoquées plus haut, sont ici en cause l’esprit des sujets d’une part, et l’énonciation des normes d’autre part. Telle est la raison pour laquelle aucun État n’est véritablement neutre sur la question de la langue<renvoi idref="sdfootnote57sym" typeref="note">57</renvoi>.</alinea>
@@ -429,20 +424,17 @@
         <alinea>
 	Bien que la question linguistique présente historiquement, et consubstantiellement, un lien très étroit avec l’essence même du pouvoir politique, il semble qu’elle tende aujourd’hui à sortir au moins partiellement du premier cercle de contrôle de l’État, ainsi que l’émergence d’un droit linguistique moderne, assorti du contentieux qu’il engendre, tend à le démontrer.</alinea>
       </para>
-      <titre3>
-	a. Les politiques linguistiques</titre3>
+      </section3><section3><titre>	a. Les politiques linguistiques</titre>
       <para>
         <alinea>
 	Un panorama historique comparé fait apparaître pour l’essentiel deux types de politique linguistique différents : la politique du monolinguisme d’une part, et celle du plurilinguisme d’autre part.</alinea>
       </para>
-      <titre3>
-	Le monolinguisme officiel</titre3>
+      </section3><section3><titre>	Le monolinguisme officiel</titre>
       <para>
         <alinea>
 	Le monolinguisme officiel peut être défini comme la doctrine politique selon laquelle un État n’use, ne promeut et ne reconnaît qu’une seule et même langue sur l’ensemble de son territoire, quand bien il en existerait d’autres de facto. Il procède d’une analyse centraliste de la langue, au terme de laquelle aucun droit linguistique n’existe en dehors de l’exercice reconnu de la langue officielle de l’État, le droit international ne pouvant par ailleurs s’interposer entre l’imperium de l’État et le locuteur éventuel d’une autre langue dans leur relation réciproque<renvoi idref="sdfootnote58sym" typeref="note">58</renvoi>. En d’autres termes, là où règne le monolinguisme officiel, le droit public est nécessairement unilingue.</alinea>
       </para>
-      <titre3>
-	L’origine du monolinguisme officiel est triple.</titre3>
+      </section3><section3><titre>	L’origine du monolinguisme officiel est triple.</titre>
       <para>
         <alinea>
 	Elle réside tout d’abord dans le prestige des langues que la tradition grammaticale prescriptive a pris en modèle pour codifier les langues européennes, c’est-à-dire le latin et le grec. Enseignés de façon synthétique comme des langues unifiées, codifiées et constituées en koinh scientifico-littéraire, le latin et le grec, de la scholastique au XXe siècle, ont contribué à l’identification de l’unité de la langue à celle de la civilisation et de son rayonnement politique<renvoi idref="sdfootnote59sym" typeref="note">59</renvoi>. Cette idée, pourtant fondamentalement dirigiste, puisqu’elle implique une action de direction de l’expression collective, se retrouve ainsi chez le libéral John Stuart Mill, qui considère qu’un grand État doit se doter d’une langue supérieure unique, ce qui l’amène à prôner l’éradication du gallois et du gaëlique écossais au profit de l’anglais scolaire, et à juger favorablement toute tentative dans le même sens pour détruire en France les langues bretonnes et basques<renvoi idref="sdfootnote60sym" typeref="note">60</renvoi>. Le même type d’idéologie dans les statuts de l’Académie française, dont l’objet est d’œuvrer à la constitution d’un latin moderne<renvoi idref="sdfootnote61sym" typeref="note">61</renvoi>.</alinea>
@@ -455,8 +447,7 @@
         <alinea>
 	Les modalités de mise en œuvre du monolinguisme officiel peuvent varier. Dans un État dont le territoire est initialement homogène linguistiquement parlant, ce qui est rarement le cas, le monolinguisme s’impose de lui-même sans politique linguistique active. En revanche, dans un territoire linguistiquement hétérogène, ce qui est le plus souvent le cas, le monolinguisme implique au minimum la promotion de la langue officielle à l’école et dans l’administration, soit, plus avant, une promotion plus importante passant par une mise en minorité ou, plus radicalement encore, par l’éradication des autres langues, qualifiées alors de simples patois. Une discrimination politique s’opère alors entre les langues, et finit parfois par devenir une véritable croyance collective ; et ce, alors même qu’il n’existe strictement aucune différence, sur le plan linguistique, entre ce que l’autorité politique qualifie de « langue » et ce qu’elle qualifie de « patois » ou de « dialecte ». En France tout particulièrement, c’est cette politique radicale qui a été suivie, de la Révolution à nos jours. En 1794, l’Abbé Grégoire qualifie ainsi le français unique et invariable de « langue de la Liberté », tout en vouant aux gémonies les autres parlers des provinces, jugées rétrogrades et antirévolutionnaires<renvoi idref="sdfootnote63sym" typeref="note">63</renvoi>. Et plus tard, la IIIe République mènera une politique très active pour éradiquer les langues des provinces à l’intérieur du territoire, et exporter par ailleurs la langue française dans l’empire colonial<renvoi idref="sdfootnote64sym" typeref="note">64</renvoi>.</alinea>
       </para>
-      <titre3>
-	Les résultats du monolinguisme peuvent être divers.</titre3>
+      </section3><section3><titre>	Les résultats du monolinguisme peuvent être divers.</titre>
       <para>
         <alinea>
 	Il peut s’imposer sans trop de résistance avec le temps, ou au contraire déclencher des réactions, modérées ou virulentes, selon le cas. Les réactions sont généralement proportionnelles à l’intensité de la politique d’entreprise. Lorsqu’elle implique la promotion d’une langue officielle par nécessité, sans éradication des autres parlers, par exemple, les réactions sont moins importantes que lorsque l’option radicale est retenue. En Italie, par exemple, il n’existe très peu de nationalisme régional fondé sur la langue.</alinea>
@@ -469,8 +460,7 @@
         <alinea>
 	Enfin, l’utilité du monolinguisme officiel peut être discutée. Si le but recherché est d’obtenir la paix, alors les résultats ne démontrent pas de bienfait international particulier. En d’autres termes, La guerre entre les Nations ne s’arrête pas du seul fait qu’elles unifient la langue. Les États-Unis se sont ainsi battus pour leur indépendance contre le Royaume d’Angleterre, dont ils parlaient la langue. Le Vietnam et le Cambodge se sont affrontés au XXe siècle, nonobstant la communauté de langue. Il n’est pas démontré que le monolinguisme apporte la paix. La maîtrise d’une langue commune est une excellente chose pour la communication et l’efficacité de l’action politique, mais le monolinguisme qui confère à cette seule langue un rôle reconnu n’est qu’une option politico-institutionnelle parmi d’autres : celle du centralisme, à rebours de la construction d’un État fédéral.</alinea>
       </para>
-      <titre3>
-	Le plurilinguisme officiel</titre3>
+      </section3><section3><titre>	Le plurilinguisme officiel</titre>
       <para>
         <alinea>
 	Le plurilinguisme officiel peut être défini quant à lui comme la politique linguistique qui repose sur l’octroi d’un cours officiel à plusieurs langues sur le même territoire. Il consiste le plus souvent à conférer à une langue en particulier le statut de langue nationale, tout en reconnaissant à l’échelle régionale une place publique à d’autres langues. Mais il peut aussi, le cas échéant, bien que l’hypothèse soit moins fréquente, reposer sur la coexistence de plusieurs langues officielles sur l’ensemble du territoire national.</alinea>
@@ -487,14 +477,12 @@
         <alinea>
 	Intellectuellement, le plurilinguisme politique postule une certaine conception de l’égalité des langues, et il est beaucoup plus proche en cela des découvertes de la linguistique moderne. Aucun linguiste où presque ne prêche pour l’extinction des langues et leur unification par la force. Pour le dire autrement, le plurilinguisme est fondamentalement plus démocratique que le monolinguisme. D’où l’émergence, dans les États de droit, d’un véritable droit linguistique.</alinea>
       </para>
-      <titre3>
-	b. Le droit linguistique moderne</titre3>
+      </section3><section3><titre>	b. Le droit linguistique moderne</titre>
       <para>
         <alinea>
 	En raison des liens étroits qui unissent l’État à la ou les langues qui ont cours officiel sur son territoire, le droit linguistique est avant tout un droit interne. Le droit international n’exerce que peu d’action sur lui, même si cette action tend aujourd’hui à se renforcer, et contribue à développer le contentieux.</alinea>
       </para>
-      <titre3>
-	Le droit linguistique interne</titre3>
+      </section3><section3><titre>	Le droit linguistique interne</titre>
       <para>
         <alinea>
 	Le droit interne linguistique varie selon les pays, et selon la politique linguistique qui est traditionnellement la leur.</alinea>
@@ -515,8 +503,7 @@
         <alinea>
 	À l’inverse, pour prendre un autre exemple, le droit linguistique canadien repose quant à lui sur le bilinguisme officiel. L’Acte de l’Amérique du Nord britannique de 1867 prévoit dans son article 133 l’adoption des lois fédérales et des lois provinciales du Québec en anglais et en français. La loi sur les langues officielles de 1985 pose quant à elle dans son préambule que l’anglais et le français sont les deux langues officielles du Canada, et décline la mise en œuvre de ce bilinguisme officiel dans les institutions publiques, l’administration et le secteur privé<renvoi idref="sdfootnote66sym" typeref="note">66</renvoi>. La situation est donc, sur le plan juridique, exactement inverse à celle de la France. Le français, bien que minoritaire, est protégé par la Constitution et défendu à l’échelle provinciale par une politique de promotion dans tous les domaines. À défaut, sans aucun doute, il aurait disparu et aurait été noyé par l’anglais. Preuve s’il en est, que la reconnaissance officielle assure la survie efficace d’une langue, lorsqu’elle subit la pression mortifère d’une langue dominante.</alinea>
       </para>
-      <titre3>
-	Le droit linguistique international</titre3>
+      </section3><section3><titre>	Le droit linguistique international</titre>
       <para>
         <alinea>
 	Pour l’essentiel, le droit linguistique international général procède pour l’essentiel de normes non contraignantes, et constitutives d’une simple soft law.</alinea>
@@ -545,14 +532,12 @@
         <alinea>
 	Néanmoins, le droit international, spécialement à l’échelle régionale, comporte aussi des instruments normatifs. Telle est le cas, au premier chef, et pour ce qui concerne l’Europe, de la Charte européenne des langues régionales (1992). Cette convention internationale, préparée sous l’égide du Conseil de l’Europe, a été signée par la plupart des États d’Europe occidentale par ailleurs membres de l’Union européenne, à l’exception notable, toutefois, de la France, qui l’a signée mais ne l’a pas ratifiée, faute à ce jour de réforme constitutionnelle ad hoc pour procéder à cette ratification, en ajoutant par exemple un nouvel alinéa à l’article 1 de la Constitution qui fait du français la langue de la République française, et que le Conseil constitutionnel interprète dans sa décision de 1999 sur la Charte comme posant un principe de monolinguisme officiel exclusif de l’usage public de toute autre langue<renvoi idref="sdfootnote68sym" typeref="note">68</renvoi>. Elle énonce un objectif de diversité culturelle et notamment linguistique, dans le respect de la souveraineté nationale et de l’intégrité territoriale des États, et énumère une liste de 98 mesures potentielles que les États sont incités à prendre pour œuvrer à la protection et à la promotion des langues concernées. Mais les États sont libres de choisir celles qui leur paraissent les plus adaptées, obligation leur étant seulement faite d’en mettre en œuvre au moins 35. Parmi celles-ci, on peut notamment citer l’enseignement bilingue ou immersif, la reconnaissance officielle des langues régionales, le développement d’un enseignement  universitaire dans la langue minoritaire, l’interdiction des discriminations linguistiques, le bilinguisme dans la toponymie, ou encore la promotion des langues minoritaires dans les médias, l’administration et les entreprises. La ratification de cette Convention n’est pas étrangère au mouvement de renaissance ou de revitalisation de nombreuses langues minoritaires d’Europe, qu’elle suscite ou qu’elle accompagne. Le cas de la France mis à part, de nombreuses langues anciennement menacées ont retrouvé à l’époque récente un véritable usage vivant, dynamique et moderne. Tel est ainsi le cas, par exemple, du gallois, du catalan, du mannois, du cornique, et de bien d’autres langues encore. La France, elle, semble camper sur ses positions traditionnelles, le récent abandon du projet de révision constitutionnelle en vue de la ratification de la Charte européenne des langues régionales le montrant une fois de plus. Toutefois, dans les régions française « périphériques », la pression politique est de plus en plus forte en faveur d’une sauvegarde et d’un développement des langues régionales, notamment avec la perspective d’un recours si nécessaire au référendum local. Certes, un tel référendum ne serait que consultatif en droit, mais sa puissance politique ne serait pas négligeable. Il pourrait ouvrir la voie en effet à l’inflation du contentieux linguistique.</alinea>
       </para>
-      <titre3>
-	c.Le contentieux linguistique moderne</titre3>
+      </section3><section3><titre>	c.Le contentieux linguistique moderne</titre>
       <para>
         <alinea>
 	Alors que le cours de la ou des langues officiellement parlées dans les États relevait traditionnellement de la compétence exclusive de ces derniers, sans irruption possible de principes nouveaux issus du droit international ou du droit européen, l’époque moderne a vu surgir et se développer un authentique contentieux linguistique. Celui-ci traduit une instrumentalisation de la pensée des droits de l’homme, dans le but d’agir politiquement contre les États menant une politique contraire aux intérêts linguistiques d’une collectivité. Ce phénomène se rencontre aussi bien dans la jurisprudence des juridictions internationales, que dans celle des juridictions nationales, notamment françaises.</alinea>
       </para>
-      <titre3>
-	Le contentieux international</titre3>
+      </section3><section3><titre>	Le contentieux international</titre>
       <para>
         <alinea>
 	En droit international général, le contentieux linguistique trouve notamment dans le Pacte international relatif aux droits civils et politiques de 1966. L’article 27 de celui-ci énonce en effet un principe de non-discrimination des minorités nationales en fonction de la langue<renvoi idref="sdfootnote69sym" typeref="note">69</renvoi> — ce qui explique que la France ait émis une réserve sur l’article 27 qu’elle maintient encore à ce jour — qui ouvre des possibilités de contestation, en conjonction actuelle ou potentielle avec l’article 19 énonçant le principe de liberté d’expression. Ainsi, en 1993, le Comité des droits de l’homme a pu juger contraire à l’article 19 l’interdiction pure et simple par le gouvernement du Québec de l’usage sur le territoire de la province québécoise de la langue anglaise dans la publicité commerciale ; et ce, au nom d’une conception de la liberté d’expression qui englobe le choix de la langue<renvoi idref="sdfootnote70sym" typeref="note">70</renvoi>. De même, il a jugé, dans une décision rendue en 2000 et concernant la Namibie, que le refus d’une administration d’utiliser une langue non-officielle dans ses contacts avec le public pouvait constituer une authentique discrimination si aucune justification raisonnable ne peut être fournie<renvoi idref="sdfootnote71sym" typeref="note">71</renvoi>.</alinea>
@@ -565,8 +550,7 @@
         <alinea>
 	D’une façon générale, il semble probable que le XXIe siècle offre au droit linguistique un nouveau champ de développement, à travers le développement d’un contentieux appelé à bousculer l’exclusivité de la compétence des États en matière de règlementation de la langue.</alinea>
       </para>
-      <titre3>
-	Le contentieux interne</titre3>
+      </section3><section3><titre>	Le contentieux interne</titre>
       <para>
         <alinea>
 	En France, le contentieux linguistique interne se développe également, essentiellement autour de la question des langues régionales. Pour l’essentiel, la jurisprudence française, qu’il s’agisse de celle du Conseil constitutionnel ou de celle du Conseil d’État, est traversée de part en part par un principe de monolinguisme constitutionnel particulièrement fort.</alinea>
@@ -583,6 +567,8 @@
         <alinea>
 	 </alinea>
       </para>
+        </section3>
+      </section2>
     </section1>
   </corps>
   <partiesann>

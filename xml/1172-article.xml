@@ -85,14 +85,14 @@
 	 </alinea>
       </para>
       <para>
-        <alinea>
-	<figure>
+	        <figure>
+	          <legende lang="fr"> 
+	            <alinea><marquage typemarq="italique">Crédit photo : GW</marquage></alinea>
+	          </legende>
             <objetmedia flot="bloc">
-              <image id="" typeimage="figure"/>
+              <image id="img1172-1.jpg" typeimage="figure"/>
             </objetmedia>
           </figure> 
-	<marquage typemarq="italique">Crédit photo : GW</marquage>
-        </alinea>
       </para>
       <para>
         <alinea>
@@ -207,24 +207,27 @@
 	Twitter : <liensimple xlink:type="simple" xlink:href="https://twitter.com/NielsPlanel">@NielsPlanel</liensimple>
         </alinea>
       </para>
+    </section1>
+  </corps>
+  <partiesann>
+    <grnote>
       <note id="sdfootnote1sym">
         <no>1</no>
         <alinea>
-	 Discours prononcé le 7 novembre 2001 à l’université de Georgetown. Cité dans <marquage typemarq="italique">Ghost Wars – The Secret History of the CIA, Afghanistan, and bin Laden, from the Soviet Invasion to September 10.</marquage>
+          Discours prononcé le 7 novembre 2001 à l’université de Georgetown. Cité dans <marquage typemarq="italique">Ghost Wars – The Secret History of the CIA, Afghanistan, and bin Laden, from the Soviet Invasion to September 10.</marquage>
           <marquage typemarq="italique"> </marquage>
         </alinea>
       </note>
       <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
-	 Discours prononcé devant le Parti travailliste à Blackpool le 3 octobre 2002. Egalement cité dans <marquage typemarq="italique">Ghost Wars</marquage>, p. 432. </alinea>
+          Discours prononcé devant le Parti travailliste à Blackpool le 3 octobre 2002. Egalement cité dans <marquage typemarq="italique">Ghost Wars</marquage>, p. 432. </alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>
         <alinea>
-	 Lire les remarques du président Obama à la <marquage typemarq="italique">Clinton Global Initiative</marquage>, New York, 22 septembre 2009.</alinea>
+          Lire les remarques du président Obama à la <marquage typemarq="italique">Clinton Global Initiative</marquage>, New York, 22 septembre 2009.</alinea>
       </note>
-    </section1>
-  </corps>
-  <partiesann/>
+    </grnote>
+  </partiesann>
 </article>

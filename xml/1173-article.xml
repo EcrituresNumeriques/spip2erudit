@@ -94,10 +94,7 @@
 	Fernando Pessoa, <marquage typemarq="italique">Le livre de l’intranquillité</marquage>
         </alinea>
       </para>
-      <para>
-        <alinea>
-	 </alinea>
-      </para>
+      
       <para>
         <alinea>
 	Le sentiment de sécurité est un sentiment paradoxal : on le ressent lorsqu’on ne le ressent pas. En poser la question suffit à le briser : en effet, nous pensons être en sécurité seulement quand nous n’y pensons pas. Il ne faut pas la voir, la sécurité, pour pouvoir la sentir. C’est pourquoi <marquage typemarq="italique">sécuriser</marquage> lieux et infrastructures particuliers (places, ponts, bâtiments, stades, gares etc.) avec un emploi plus ou moins massif de forces dites d’ailleurs <marquage typemarq="italique">de sécurité</marquage>, engendre souvent l’effet contraire, voire l’inquiétude et la préoccupation de tous ceux qui peuvent se demander très naïvement : <marquage typemarq="italique">Pourquoi y-a-t-il la police ? Qu’est-ce qui se passe ? </marquage>La principale différence entre l’accueil dans un avion et l’accueil dans un train, se mesure exactement sous le profil du sentiment de sécurité : dans le premier cas, des informations détaillées (y compris le mot conventionnel signalant l’éventuelle urgence) sur la conduite à observer en cas d’amerrissage, ou de toute autre situation dramatique, nous sont méticuleusement données ; dans un train, le contrôleur ne nous demande que de présenter notre titre de voyage. Pour cette raison, le sentiment de sécurité lors d’un voyage en train est supérieur à celui d’un voyage aérien, mais il est peut-être inférieur à celui d’un voyage en voiture (car c’est à nous, et c’est nous qui conduisons) bien que la mortalité routière atteigne des chiffres accablants<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi> . Se sentir en sécurité, c’est une chose, l’être <marquage typemarq="italique">réellement</marquage> en est une autre : les statistiques des incidents domestiques démontrent, elles aussi, comment on peut être <marquage typemarq="italique">tranquillement</marquage> en danger, pour ainsi dire, tout en se trouvant chez soi<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi>.</alinea>
@@ -143,46 +140,45 @@
 	Une machine qui écrit, enregistre et archive, comme souligne Maurizio Ferraris dans <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/article1104.html">Âme et Ipad</liensimple>. Écrire, donc, dire, affirmer, expliciter, rendre conscient : tout cela pose des problèmes lorsque on ambitionne de maîtriser un sentiment comme celui de sécurité, un sentiment qu’il ne faudrait pas sentir, donc surtout pas penser et mettre en mots. Que pourrait faire alors le numérique<marquage typemarq="italique"> </marquage>
           <marquage typemarq="italique">tout-écrivant </marquage>pour nous aider à protéger notre sentiment de sécurité ? En continuité avec une fonction comme celle de Facebook, nous pourrions exploiter encore mieux l’effet apaisant du <marquage typemarq="italique">se savoir en sécurité</marquage>, et donc du fait de se le dire lors d’un désastre humain ou naturel. L’interface pourrait spécifier le degré et la qualité de notre sécurité, la contextualiser encor mieux dans ses coordonnées spatio-temporelles, ou nous demander d’écrire (encore?!) quelque chose dès que possible, pour confirmer et compléter notre statut. Le contrôle de sécurité serait un contrôle événementiel, comme c’est le cas aujourd’hui. Mais il y a une autre option plus intrigante : pour augmenter notre sentiment de sécurité, à mon avis il faudrait banaliser la perception du risque et normaliser les moments extraordinaires d’urgence et danger, en les intégrant dans un contrôle de sécurité activé en permanence. J’imagine – confusément, peut-être, et d’une façon aussi provocatrice, je l’avoue – une application constante du <marquage typemarq="italique">Safety Check, </marquage>ou une fonction pareille, activée en permanence, nous signalant en sécurité face à notre réseau tous les jours, une ou deux fois par jour même, par le biais d’un système de notifications plus souples et discrètes mais régulières. Dans l’espace de quelques semaines, l’impact psychologique d’une mise en sécurité particulière serait complètement neutralisé au profit d’une généralisation et d’une socialisation de la conscience d’être, le plus souvent, presque toujours, en condition de sécurité. Si le besoin de se dire et de se sentir en sécurité doit devenir encore plus qu’il n’est déjà un besoin social, il faudra en assumer les conséquences et transformer l’angoisse en simple information, un flux incessant d’information quotidienne, habituelle et ponctuelle comme l’assomption de certains médicaments, qui transformant la maladie en thérapie la rendent tout à fait compatible avec la tranquillité de la routine : la routine dont le numérique fait partie. Ce que nous sommes en trains de revendiquer, c’est à bien voir la liberté de la routine, qui en tant que telle semble être immuable tandis qu’elle à renégocier et réadapter. Seulement dans la routine métropolitaine des sirènes normalement inaperçues des ambulances et de la police, notre sentiment de sécurité peut silencieusement se faire invisible, impalpable et ainsi réel.</alinea>
       </para>
-      <para>
-        <alinea>
-	 </alinea>
-      </para>
+    </section1>
+  </corps>
+  <partiesann>
+    <grnote>
       <note id="sdfootnote1sym">
         <no>1</no>
         <alinea>
-	 <liensimple xlink:type="simple" xlink:href="http://www.preventionroutiere.asso.fr/Nos-publications/Statistiques-d-accidents">http://www.preventionroutiere.asso.fr/Nos-publications/Statistiques-d-accidents</liensimple>.</alinea>
+           <liensimple xlink:type="simple" xlink:href="http://www.preventionroutiere.asso.fr/Nos-publications/Statistiques-d-accidents">http://www.preventionroutiere.asso.fr/Nos-publications/Statistiques-d-accidents</liensimple>.</alinea>
       </note>
       <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
-	 .</alinea>
+           .</alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>
         <alinea>
-	 E. Méchoulan, <marquage typemarq="italique">D’ou nous viennent nos idées ?,</marquage> Montréal, vlb éditeur, 2010, p. 39.</alinea>
+           E. Méchoulan, <marquage typemarq="italique">D’ou nous viennent nos idées ?,</marquage> Montréal, vlb éditeur, 2010, p. 39.</alinea>
       </note>
       <note id="sdfootnote4sym">
         <no>4</no>
         <alinea>
-	 F. Worms, <marquage typemarq="italique">Penser à quelqu’un, </marquage>Paris, Flammarion, 2014 p. 204.</alinea>
+          F. Worms, <marquage typemarq="italique">Penser à quelqu’un, </marquage>Paris, Flammarion, 2014 p. 204.</alinea>
       </note>
       <note id="sdfootnote5sym">
         <no>5</no>
         <alinea>
-	<marquage typemarq="italique"> Ibidem</marquage>, p. 29.</alinea>
+          <marquage typemarq="italique"> Ibidem</marquage>, p. 29.</alinea>
       </note>
       <note id="sdfootnote6sym">
         <no>6</no>
         <alinea>
-	 B. Stiegler, <marquage typemarq="italique">Du Psychopouvoir au Neuropouvoir, </marquage>dans C. Larsonneur, A. Regnauld, P. Cassou-Noguès et S. Touiza (sous la direction de), <marquage typemarq="italique">Le sujet digital</marquage>, Dijon, Les presses du réel, 2015, p.43.</alinea>
+          B. Stiegler, <marquage typemarq="italique">Du Psychopouvoir au Neuropouvoir, </marquage>dans C. Larsonneur, A. Regnauld, P. Cassou-Noguès et S. Touiza (sous la direction de), <marquage typemarq="italique">Le sujet digital</marquage>, Dijon, Les presses du réel, 2015, p.43.</alinea>
       </note>
       <note id="sdfootnote7sym">
         <no>7</no>
         <alinea>
-	 E. Morozov, <marquage typemarq="italique">Le mirage numérique. Pour une politique du Big Data, </marquage>Paris, Les prairies ordinaires, 2015, p. 14.</alinea>
+          E. Morozov, <marquage typemarq="italique">Le mirage numérique. Pour une politique du Big Data, </marquage>Paris, Les prairies ordinaires, 2015, p. 14.</alinea>
       </note>
-    </section1>
-  </corps>
-  <partiesann/>
+    </grnote>
+  </partiesann>
 </article>

@@ -88,17 +88,13 @@
   </liminaire>
   <corps>
     <section1>
-      <titre3>
-	<marquage typemarq="italique">Traduit de l’anglais par Servanne Monjour</marquage>
-      </titre3>
-      <titre2>
-	Introduction</titre2>
+      <para><alinea><marquage typemarq="italique">Traduit de l’anglais par Servanne Monjour</marquage></alinea></para>
+      <section2><titre>	Introduction</titre>
       <para>
         <alinea>
 	Cet article présente les résultats de près de huit années de travail sur le concept d’éditorialisation, un travail notamment réalisé dans le cadre du séminaire international « Écritures numériques et éditorialisation », que je coorganise depuis 2008 avec Nicolas Sauret. La définition du concept d’éditorialisation est le fruit d’une réflexion collective et je suis débiteur d’un large groupe de chercheurs. Je nommerai en particulier Gérard Wormser et le réseau de <marquage typemarq="italique">Sens public</marquage>, Nicolas Sauret, Yannick Maignien, Louise Merzeau, Michael Sinatra, Anne-Laure Brisac, Carole Dely et Roberto Gac.</alinea>
       </para>
-      <titre2>
-	Une histoire du terme</titre2>
+      </section2><section2><titre>	Une histoire du terme</titre>
       <para>
         <alinea>
 	<liensimple xlink:type="simple" xlink:href=""/>Le terme éditorialisation, tel que je l’entends, a d’abord été utilisé en français. En anglais, celui-ci couvre une autre acception, il serait plutôt un dérivé du terme « editorialize » qui signifie, selon les dictionnaires<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>, « exprimer une opinion, dans la forme d’un éditorial », ou « introduire une opinion lorsque l’on relate des faits ». D’ailleurs, le verbe éditorialiser (editorialize) est un anglicisme utilisé dans ce même sens en français. Dans la communauté francophone, le terme éditorialisation a acquis un sens plus général, spécifiquement en relation à la culture numérique et aux nouvelles formes de production du savoir. Ce glissement sémantique d’une idée qui indique l’expression d’une opinion à une idée qui suggère ou qui renvoie à la production du savoir à l’ère du numérique, n’est pas si problématique qu’il n’y paraît et s’avère même utile. Tel qu’on le verra en effet, le terme éditorialisation conserve un lien étroit avec la notion d’opinion en ce qu’il se réfère à la production de contenus qui expriment une sorte d’opinion ou, même, qui offrent une manière de voir et d’interpréter le monde.</alinea>
@@ -112,28 +108,21 @@
 	Depuis 2007, le terme éditorialisation est en effet de plus en plus utilisé, sans que l’on puisse pourtant facilement comprendre la signification exacte que les chercheurs lui attribuent, ni même en retracer les usages dans la dernière décennie. En 2004, Brigitte Guyot<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> utilise le terme pour se référer à la fois au dispositif de médiation entre une information et les usagers, et au procès de médiation lui-même. Elle écrit alors :</alinea>
       </para>
       <bloccitation>
-        <alinea>
-	<para>
             <alinea>
 		Dès qu’un dispositif de médiation s’intercale dans la relation première entre l’information et celui qui l’exploite, un ordre organisationnel intervient. Il y a une construction, une « éditorialisation », qui introduit une médiation, mais aussi un éloignement dû à la mise en place d’un système qui est à la fois intellectuel, (par les opérations de traduction et d’interprétation), et organisationnel (parce qu’il gère les modes d’accessibilité et de relations).</alinea>
-          </para>
-</alinea>
+
+
       </bloccitation>
-      <para>
         <alinea>
 	En ce sens, « éditorialisation » devient presque un synonyme de « médiation ». La formulation de Guyot présente l’inconvénient de faire croire qu’une relation non médiate à l’information serait possible – ce qui a été fortement contesté, notamment par les travaux de McLuhan et de son école en <marquage typemarq="italique">media studies</marquage>. Brigitte Guyot, par ailleurs, retire elle-même le terme éditorialisation de la version finale de son article de 2004<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>, preuve que cet usage est problématique.</alinea>
-      </para>
+
       <para>
         <alinea>
 	Bruno Bachimont met pour la première fois en avant le concept d’éditorialisation en 2007, dans un chapitre de <marquage typemarq="italique">L’indexation multimédia</marquage> intitulé « Nouvelles tendances applicatives : de l’indexation à l’éditorialisation ». Dans ce texte, Bachimont aborde les caractéristiques de l’indexation à travers ce qu’il nomme « éditorialisation » :</alinea>
       </para>
       <bloccitation>
-        <alinea>
-	<para>
             <alinea>
 		L’idée centrale de cet article est que l’indexation fine du contenu rendue possible pour le numérique introduit un rapport nouveau au contenu et au document. Alors que selon l’indexation traditionnelle l’enjeu est de retrouver le ou les documents contenant l’information recherchée, l’indexation fine du contenu permet de ne retrouver que les segments concernés par la recherche d’information et de paramétrer l’usage de ces segments. Si le document demeure présent dans les résultats de la recherche dans une indexation et recherche traditionnelles, il n’en est pas de même dans une recherche profitant de l’indexation fine du contenu, dans la mesure où les segments peuvent se désolidariser du contenu dont ils sont issus, perdant ainsi leur origine et nature documentaires. Devenant des ressources, ces segments sont remobilisés pour la production d’autres contenus dont ils constituent les composants. La finalité n’est plus de retrouver des documents, mais d’en produire de nouveaux, à l’aide des ressources retrouvées. On passe ainsi de l’indexation pour la recherche à l’indexation pour la publication. Comme cette dernière s’effectue selon des règles et des normes, on parlera plutôt d’éditorialisation, pour souligner le fait que les segments indexés sont enrôlés dans des processus éditoriaux en vue de nouvelles publications<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>.</alinea>
-          </para>
-</alinea>
       </bloccitation>
       <para>
         <alinea>
@@ -168,17 +157,12 @@
 	Pour structurer le travail sur les nouvelles formes de production et de circulation du savoir dans l’environnement numérique, Gérard Wormser et moi avons créé, en 2008, un laboratoire de recherche à la Maison des Sciences de l’Homme Paris-Nord. Gérard Wormser proposa d’appeler ce laboratoire « Pratiques interdisciplinaires et circulation du savoir : vers une éditorialisation des SHS ». Dans notre demande pour la création du laboratoire à la MSH, nous écrivions :</alinea>
       </para>
       <bloccitation>
-        <alinea>
-	<para>
             <alinea>
 		Il importe de comprendre comment l’esthétique des nouveaux médias et les technologies cognitives porte à redéfinir les pratiques de connaissances et à déployer les effets de cette transformation. C’est ainsi que le concept d’éditorialisation nous semble caractériser l’articulation de la production de contenus, les dimensions techniques et communicationnelles et la dynamique des échanges contemporains en sciences humaines. Cette question se ramifie sur toute la gamme des médias disponibles et par tous leurs registres : accessibilité, objectivité, lisibilité, exhaustivité, tonalité, structuration des documents, liens… Comment penser l’encyclopédie des savoirs numériques ?</alinea>
-          </para>
-</alinea>
       </bloccitation>
-      <para>
         <alinea>
 	En reprenant le terme « éditorialisation », nous lui accordions un sens plus large pour décrire en général toute activité éditoriale numérique, soit aussi les activités concernant de nouveaux contenus – autrement appelés <marquage typemarq="italique">digital native</marquage>. De la définition initiale de Bachimont demeuraient deux aspects :</alinea>
-      </para>
+
       <para>
         <alinea>
 	<marquage typemarq="gras">     1.</marquage> La reconnaissance d’une spécificité du geste éditorial numérique : les          techniques conditionnent la structure de la pensée.</alinea>
@@ -201,8 +185,7 @@
         <alinea>
 	Malgré son succès, le sens exact du terme n’a pas encore été clairement établi. Je propose donc d’en analyser ici les différentes significations ainsi que leurs relations.</alinea>
       </para>
-      <titre2>
-	Qu’est-ce que l’éditorialisation?</titre2>
+      </section2><section2><titre>	Qu’est-ce que l’éditorialisation?</titre>
       <para>
         <alinea>
 	<liensimple xlink:type="simple" xlink:href=""/>On peut identifier trois définitions différentes de l’éditorialisation : la première se veut restreinte, la seconde plus générale<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi>, tandis que la troisième tente de combiner les deux premières.</alinea>
@@ -259,8 +242,7 @@
         <alinea>
 	Le troisième et dernier aspect de l’éditorialisation – son aspect pratique – nous amène du côté des pratiques, sans lesquelles les structures culturelle et technologique ne pourraient exister. En effet, les possibilités technologiques et la tradition culturelle ne suffisent pas à induire des pratiques. Si personne ne créait ou n’utilisait d’hypertextes, ces derniers n’existeraient pas. Par ailleurs, les pratiques ne sont pas seulement des applications des possibilités culturelles et technologiques : toute pratique est créative. Ces éléments nous permettent de souligner l’importance fondamentale du collectif dans les processus d’éditorialisation. Les différentes formes d’éditorialisation dépendent du fait que des actions particulières deviennent communes – ce qui signifie que des groupes de personnes commencent à les effectuer pour en faire peu à peu des pratiques. Considérons l’exemple des hashtags. L’action de mettre un # avant un mot dans l’environnement Twitter fait de celui-ci un mot-clé. À l’origine, cette action n’avait pas été prévue par la plateforme, car Twitter n’avait pas été conçue pour gérer des mots-clés. Puis, un premier usager a commencé à utiliser le #, bientôt suivi d’un groupe de personnes, et cette action est devenue une pratique – pratique qui a obligé Twitter à adapter sa plateforme, pour prendre en compte les mots-clés – que nous appelons aujourd’hui des hashtags. Pour le dire autrement, les pratiques influencent la technologie et la façonnent tout autant que les pratiques ont un fondement culturel – l’histoire des mots-clés le démontre clairement. Cela signifie que les trois aspects de l’éditorialisation – technologique, culturel et pratique – ne font qu’un. On ne peut les distinguer que d’un point de vue théorique.</alinea>
       </para>
-      <titre2>
-	La nature processuelle de l’éditorialisation</titre2>
+      </section2><section2><titre>	La nature processuelle de l’éditorialisation</titre>
       <para>
         <alinea>
 	Afin de comprendre la nature de l’éditorialisation et d’identifier les caractéristiques qui la distinguent des autres formes de structuration des contenus, nous devons en analyser les attributs. Nous pouvons lister cinq principaux attributs constitutifs de l’éditorialisation : sa nature processuelle, sa nature performative, sa nature ontologique, sa nature multiple et enfin, sa nature collective. Tentons de définir plus en détail ces attributs.</alinea>
@@ -297,8 +279,7 @@
         <alinea>
 	À coup sûr, ces qualités caractérisent aussi en une certaine mesure l’édition papier. Mais encore une fois, ce principe ne déroge pas à l’idée selon laquelle il n’y a pas vraiment eu de révolution numérique, car la culture numérique s’inscrit dans la continuité de la culture prénumérique. Les différences sont davantage une question de degré que de qualité. Les tendances culturelles auxquelles nous assistons aujourd’hui ont des origines qui remontent loin dans le passé, et qui ne sont donc jamais complètement nouvelles. L’aspect processuel de la culture numérique en est un exemple. Ce phénomène n’est pas complètement inédit, mais il était moins prononcé dans la culture papier, culture qui insistait plutôt sur la possibilité de contrôler un processus bien défini et délimité.</alinea>
       </para>
-      <titre2>
-	La nature performative de l’éditorialisation</titre2>
+      </section2><section2><titre>	La nature performative de l’éditorialisation</titre>
       <para>
         <alinea>
 	Le concept de performativité a eu un impact théorique important dans les dernières décennies. Depuis le travail d’Austin sur les actes de langage<renvoi idref="sdfootnote20sym" typeref="note">20</renvoi> jusqu’à l’application de la performativité au champ des <marquage typemarq="italique">gender studies</marquage>
@@ -324,8 +305,7 @@
         <alinea>
 	Ces considérations nous conduisent ainsi à discuter de la nature ontologique de l’éditorialisation.</alinea>
       </para>
-      <titre2>
-	La nature ontologique de l’éditorialisation</titre2>
+      </section2><section2><titre>	La nature ontologique de l’éditorialisation</titre>
       <para>
         <alinea>
 	Considérons de nouveau l’opposition entre les paradigmes performatif et représentationnel. Le paradigme représentationnel oppose réel et discours. À cet égard, l’éditorialisation pourrait être considérée comme un discours <marquage typemarq="italique">sur</marquage> le réel et, de fait, comme une forme d’imitation ou de <marquage typemarq="italique">mimesis</marquage>. Ce paradigme occupe une place fondamentale dans l’histoire de la pensée occidentale, depuis Platon jusqu’aux travaux contemporains dans le domaine de l’esthétique.</alinea>
@@ -335,12 +315,8 @@
 	Mais dans l’espace numérique, le réel s’apparente davantage à une hybridation d’objets connectés et non connectés. En ce sens, le réel relève de ce que Luciano Floridi appelle l’« infosphère » :</alinea>
       </para>
       <bloccitation>
-        <alinea>
-	<para>
             <alinea>
 		Minimally, the infosphere denotes the whole informational environment constituted by all informational entities, their properties, interactions, processes, and mutual relations. It is an environment comparable to, but different from, cyberspace, which is only one of its sub-regions since the infosphere also includes offline and analogous spaces of information. Maximally, the infosphere is a concept that can also be used synonymously with reality, once we interpret the latter informationally. In this sense, the suggestion is that what is real is informational and what is informational is real<renvoi idref="sdfootnote24sym" typeref="note">24</renvoi>.</alinea>
-          </para>
-</alinea>
       </bloccitation>
       <para>
         <alinea>
@@ -370,8 +346,7 @@
         <alinea>
 	Nous pouvons donc conclure que l’éditorialisation est une façon de produire le réel et non un moyen de le représenter. Cette conclusion amène pourtant un nouveau problème : si nous abandonnons le paradigme de la représentation, il devient impossible de distinguer le réel de l’irréel, la vérité de la fiction. La définition logique de la vérité (Tarsky) est basée sur l’idée selon laquelle il existe une correspondance entre le signifiant et le signifié. Selon la définition de Tarsky, la proposition « A » est vraie si et seulement si le fait « A » est en train de se réaliser. Par exemple : la proposition « il pleut » est vraie si et seulement si, il est effectivement en train de pleuvoir. Mais cela signifie que pour être capable de décider de ce qui est vrai, nous devons identifier un signifiant (la phrase « il pleut ») et un signifié (le monde dans lequel il est véritablement en train de pleuvoir). Selon le paradigme performatif, la distinction n’est guère pertinente, ce qui signifie que ces questions concernant la vérité ou l’authenticité de l’éditorialisation sont posées en de mauvais termes.</alinea>
       </para>
-      <titre2>
-	La nature multiple de l’éditorialisation</titre2>
+      </section2><section2><titre>	La nature multiple de l’éditorialisation</titre>
       <para>
         <alinea>
 	Le paradigme performatif détermine la nature multiple de l’éditorialisation : si chaque acte d’éditorialisation produit du réel, alors le réel doit être multiple puisqu’il existe plusieurs actes d’éditorialisation. Cette structure soulève cependant un problème ontologique : comment peut-on définir l’essence du réel s’il possède justement plusieurs essences ?</alinea>
@@ -396,8 +371,7 @@
         <alinea>
 	Il nous reste alors à poser la question : quel est ce « moi » ? Quelle est son essence ? En fait, il n’y a pas une seule, mais une multiplicité d’essences. Et si l’ontologie est la science de l’essence, alors la métaontologie<renvoi idref="sdfootnote27sym" typeref="note">27</renvoi> doit être l’ontologie de la multiplicité des essences.</alinea>
       </para>
-      <titre2>
-	La nature collective de l’éditorialisation</titre2>
+      </section2><section2><titre>	La nature collective de l’éditorialisation</titre>
       <para>
         <alinea>
 	L’éditorialisation est toujours un processus collectif<renvoi idref="sdfootnote28sym" typeref="note">28</renvoi>. Nous l’avons constaté lors de l’analyse de la nature processuelle de l’éditorialisation, processus ouvert et continu que l’on ne peut circonscrire dans le temps ou l’espace. L’éditorialisation n’est pas l’action d’une seule personne, ni même d’un groupe prédéterminé : l’acteur ou les acteurs de l’éditorialisation font toujours partie d’une collectivité ouverte. Cette dimension collective est aussi l’une des principales différences entre l’éditorialisation et la curation de contenus. De plus, sans action collective, l’éditorialisation est impossible : l’action individuelle – même si elle est réalisée par une entreprise aussi importante que Google – ne peut jamais produire d’éditorialisation.</alinea>
@@ -430,8 +404,7 @@
         <alinea>
 	Pour y répondre, considérons plus attentivement les structures d’autorité qui sont révélées par le concept d’éditorialisation.</alinea>
       </para>
-      <titre2>
-	Éditorialisation et autorité</titre2>
+      </section2><section2><titre>	Éditorialisation et autorité</titre>
       <para>
         <alinea>
 	Les caractéristiques que nous avons identifiées jusqu’à présent servent de fondement à l’analyse de l’autorité. Si l’éditorialisation est ce qui structure l’espace numérique et si la structure d’un espace est ce qui détermine l’autorité, alors l’autorité de l’espace numérique est déterminée par l’éditorialisation.</alinea>
@@ -455,8 +428,7 @@
         <alinea>
 	L’espace numérique devrait ainsi être considéré comme un nouvel ordre politique, dans lequel d’anciennes formes d’autorité ont été réorganisées et ont pris de nouvelles significations.</alinea>
       </para>
-      <titre2>
-	Les autorités processuelles</titre2>
+      </section2><section2><titre>	Les autorités processuelles</titre>
       <para>
         <alinea>
 	Élément clé de cette réorganisation, l’autorité numérique privilégie un processus dynamique et ouvert plutôt qu’un objet statique et cristallisé. L’autorité numérique légitime ce qu’il est difficile d’arrêter. Considérons à nouveau l’exemple de l’article académique. Il s’agit d’une action organisée et planifiée qui est destinée à demeurer identique dans le temps et qui doit, pour les mêmes raisons, être signée. Plus que n’importe quelle autre forme d’écriture, l’article académique requiert d’être associé à la notion traditionnelle d’auteur. Quelqu’un prend la responsabilité d’un contenu après sa production. La signature, le nom associé au contenu, est une fonction qui garantit sa pérennité. Et pourtant, l’analyse rapide des conditions d’existence de ce contenu démontre que le signataire ne peut être considéré comme l’auteur, tel que c’est le cas avec une revue imprimée. L’autorité qui garantit la fiabilité de ce contenu n’est pas l’auteur – parce que l’auteur est une autorité statique qui ne peut donc, par conséquent, garantir la légitimité d’un article que si celui-ci est aussi statique. L’éditeur est dans la même situation : il peut être une autorité qui légitime un article uniquement si cet article reste stable et bien défini. En effet, tel qu’on l’a constaté plus tôt, un article numérique ne peut être à lui seul considéré comme une entité indépendante et cohérente. Il est impossible de déterminer à quel moment commence et s’achève sa production et il est encore plus difficile de déterminer de façon exhaustive qui est impliqué dans sa création et dans sa circulation.</alinea>
@@ -515,8 +487,7 @@
         <alinea>
 	Ce dernier point nous amène à discuter d’une autre caractéristique de l’autorité numérique : sa qualité performative.</alinea>
       </para>
-      <titre2>
-	Les autorités performatives</titre2>
+      </section2><section2><titre>	Les autorités performatives</titre>
       <para>
         <alinea>
 	L’éditorialisation, tel que nous l’avons plus tôt établi, est performative en ce sens où elle produit ses propres normes ; elle représente moins les choses qu’elle ne les produit. Cette qualité autoproductive caractérise aussi l’autorité numérique. C’est d’ailleurs évident lorsque l’on considère les relations profondes entre activité et autorité – ce que de nombreux chercheurs ont démontré<renvoi idref="sdfootnote39sym" typeref="note">39</renvoi>. Plus un usager est actif, plus il gagne en autorité ; agir dans l’espace numérique revient à produire de l’autorité. La façon dont un simple usager peut devenir un administrateur en témoigne : sur Wikipédia bien sûr, mais aussi sur d’autres plateformes, les administrateurs sont d’abord les usagers les plus actifs. L’autorité est une affaire d’activité, indépendamment de la nature ou de la qualité de cette activité. Un usager est fiable parce qu’il est très présent sur le web.</alinea>
@@ -525,8 +496,7 @@
         <alinea>
 	Ce principe s’applique à l’autorité des usagers, mais concerne tout autant celle des plateformes : de l’activité dépend la visibilité et de cette visibilité dépend l’autorité. Plus une plateforme est active, plus elle gagne en visibilité – et plus elle est considérée comme fiable. Google et sa politique de classement (basée sur l’index de citation) illustre très bien ce principe. Derrière le PageRank se cache l’idée selon laquelle plus un contenu est cité, puis il gagne en autorité. Mais cela implique un effet performatif propre à la production d’autorité : être visible détermine une augmentation de la visibilité et cette augmentation implique celle de l’autorité. En ce sens, dans l’espace numérique, il est facile de constater des lieux de concentration de l’autorité.</alinea>
       </para>
-      <titre2>
-	Les autorités non représentatives</titre2>
+      </section2><section2><titre>	Les autorités non représentatives</titre>
       <para>
         <alinea>
 	Cet aspect performatif tend à rendre obsolète l’évaluation de l’autorité en fonction d’un critère de vérité. L’autorité ne garantit plus qu’un contenu – une phrase ou tout autre fragment d’information – correspond à la réalité : l’autorité est plutôt ce qui crée la réalité. Cet aspect est intimement relié à la nature ontologique de l’éditorialisation, mais n’est pas spécifique à l’espace numérique. Si l’on en revient à la définition de l’autorité proposée par Arendt<renvoi idref="sdfootnote40sym" typeref="note">40</renvoi>, on voit bien que l’autorité ne découle pas de la validité des informations délivrées, mais qu’elle renvoie à ce que l’on croit sans aucune raison rationnelle. En d’autres termes, une chose est vraie parce que l’autorité qui l’affirme est vraie. On ne peut dire, à l’inverse, qu’une autorité est une autorité parce que ce qu’elle dit est vrai. Mais le fait que l’autorité produise la vérité signifie qu’il est impossible de vérifier ce qu’elle déclare. La vérifiabilité n’est pas un critère de vérité.</alinea>
@@ -547,8 +517,7 @@
         <alinea>
 	Cela nous conduit à questionner la relation entre la nature multiple de l’éditorialisation et l’autorité.</alinea>
       </para>
-      <titre2>
-	Les autorités multiples</titre2>
+      </section2><section2><titre>	Les autorités multiples</titre>
       <para>
         <alinea>
 	L’éditorialisation est toujours multiple. Cette multiplicité détermine, en particulier, la crise du concept d’ « original ». Dans la culture de l’imprimé, l’un des piliers de l’autorité était la production et la conservation des documents. Le fait qu’un État possède le droit de produire et de conserver un certificat de naissance, par exemple, donne à cet État l’autorité de garantir l’identité de ses citoyens. Nous croyons l’État lorsqu’il nous dit qu’une personne est née tel jour, et qu’elle possède tel nom, car nous savons – même si nous ne le vérifions pas – qu’il existe des documents pour prouver ces informations. Les documents originaux constituent une preuve et posséder ces originaux est une source d’autorité. La possibilité de vérifier existe, même si la preuve est produite par la même autorité qui la possède ensuite. On pourrait ainsi exiger de voir l’original – ou d’en obtenir une copie authentifiée, ce qui veut dire une copie que l’autorité certifie « conforme à l’original ». Dans l’espace numérique, cependant, il n’existe plus d’« original », en raison de la multiplicité des informations, des données ou des documents. Un document est une entrée sur une base de données, mais il est impossible d’établir une distinction entre une même entrée sur deux bases de données. Un certificat de naissance peut se trouver simultanément sur plusieurs bases de données. Il peut être détenu par plusieurs institutions ou plusieurs États, par les universités dans laquelle un individu a étudié, ainsi que par ses différents employeurs. Ces entrées peuvent être exactement identiques ou bien différer sensiblement, selon un nombre infini de variations.</alinea>
@@ -565,8 +534,7 @@
         <alinea>
 	L’espace numérique est donc caractérisé par la coexistence de plusieurs autorités et celles-ci peuvent être différentes, voire contradictoires. Cette multiplicité détermine aussi que dans l’espace numérique, les autorités prénumériques coexistent avec les autorités natives du numérique. Par exemple, Google est une autorité qui détermine et mesure la pertinence des contenus, au même titre qu’une revue académique. Dans l’espace numérique, il est vrai qu’une page est pertinente parce qu’elle est la première à apparaître parmi les résultats de recherche, comme il est vrai qu’une autre page sera davantage pertinente, car elle se trouve sur le site d’une revue scientifique célèbre. En pratique, nous acceptons cette coexistence entre plusieurs autorités – même si elles diffèrent radicalement – de même que nous accordons à chacune notre confiance – bien que de façon différente. Nous pouvons nous fier à Tripadvisor, Wikipedia, Google, et en même temps accorder notre confiance au site institutionnel d’une université, d’une revue académique, d’un gouvernement – des autorités qui sont différentes et basées sur des modèles distincts.</alinea>
       </para>
-      <titre2>
-	Les autorités collectives</titre2>
+      </section2><section2><titre>	Les autorités collectives</titre>
       <para>
         <alinea>
 	La nature collective de l’éditorialisation est probablement son aspect le plus problématique. L’espace numérique est clairement une affaire de dynamique collective : il s’agit là de la principale caractéristique d’un réseau. Mais quelle sorte de collectivité est engagée dans le processus d’éditorialisation ? L’espace numérique est produit par l’interaction continuelle entre les individus, les machines, les algorithmes et les plateformes. C’est ce qui détermine notre définition de l’éditorialisation comme l’ensemble des interactions des actions individuelles et collectives dans un environnement numérique particulier. L’autorité émerge de ces interactions. Le fait que PageRank soit devenu une autorité dépend de l’algorithme (ses valeurs, ses règles) et de la plateforme (son graphisme, son ergonomie), qui à leur tour interagissent avec de nombreuses pratiques : les individus qui utilisent Google, les webmestres qui adaptent leur site en fonction de l’optimisation pour les moteurs de recherche (SEO), les entreprises qui achètent les données, etc. L’autorité se développe à partir de ces interactions. En ce sens, les autorités ne sont pas organisées selon une hiérarchie claire et stable.</alinea>
@@ -596,401 +564,407 @@
         <alinea>
 	Est-il possible de transformer ces structures ? Quelles sont les formes d’interactions collectives qui peuvent produire un bien commun ? Qu’est-ce qui pourrait faire office d’autorité commune ? Il devient urgent de se poser ces questions, afin de poursuivre une réflexion critique sur les enjeux du numérique, dans la lignée de ce que Geert Lovink appelle notamment le « Net criticism<renvoi idref="sdfootnote44sym" typeref="note">44</renvoi> ».</alinea>
       </para>
-      <titre2>
-	 </titre2>
-      <titre2>
-	<marquage typemarq="italique">Bibliographie:</marquage>
-      </titre2>
-      <para>
-        <alinea>
-	ARENDT, Hannah, <marquage typemarq="italique">Between past and future: eight exercises in political thought</marquage>, New York, Penguin Books, 2006, 298 p., coll. « Penguin classics ».</alinea>
-      </para>
-      <para>
-        <alinea>
-	AUSTIN, John Langshaw et URMSON, James Opie, <marquage typemarq="italique">How to do things with words: [the William James lectures delivered at Harvard University in 1955]</marquage>, Cambridge, Mass, Harvard Univ. Press, 2009, 168 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	BACHIMONT, Bruno, « Nouvelles tendances applicatives : de l’indexation à l’éditorialisation », in <marquage typemarq="italique">L’indexation multimédia</marquage>, Paris, Hermès, 2007, [<liensimple xlink:type="simple" xlink:href="http://cours.ebsi.umontreal.ca/sci6116/Ressources_files/BachimontFormatHerme%CC%80s.pdf">http://cours.ebsi.umontreal.ca/sci6116/Ressources_files/ Bachimont FormatHerme%CC%80s.pdf</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	BARBE, Lionel, MERZEAU, Louise et SCHAFER, Valérie, <marquage typemarq="italique">Wikipédia, objet scientifique non identifié</marquage>, Presses de l’Université Paris 10, 2015.</alinea>
-      </para>
-      <para>
-        <alinea>
+      </section2>
+      
+    </section1>
+  </corps>
+  <partiesann>
+    <grbiblio>
+      <biblio>
+        <titre><marquage typemarq="italique">Bibliographie :</marquage></titre>
+        
+        <refbiblio>
+	ARENDT, Hannah, <marquage typemarq="italique">Between past and future: eight exercises in political thought</marquage>, New York, Penguin Books, 2006, 298 p., coll. « Penguin classics ».</refbiblio>
+      
+      
+        <refbiblio>
+	AUSTIN, John Langshaw et URMSON, James Opie, <marquage typemarq="italique">How to do things with words: [the William James lectures delivered at Harvard University in 1955]</marquage>, Cambridge, Mass, Harvard Univ. Press, 2009, 168 p.</refbiblio>
+      
+      
+        <refbiblio>
+	BACHIMONT, Bruno, « Nouvelles tendances applicatives : de l’indexation à l’éditorialisation », in <marquage typemarq="italique">L’indexation multimédia</marquage>, Paris, Hermès, 2007, [<liensimple xlink:type="simple" xlink:href="http://cours.ebsi.umontreal.ca/sci6116/Ressources_files/BachimontFormatHerme%CC%80s.pdf">http://cours.ebsi.umontreal.ca/sci6116/Ressources_files/ Bachimont FormatHerme%CC%80s.pdf</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	BARBE, Lionel, MERZEAU, Louise et SCHAFER, Valérie, <marquage typemarq="italique">Wikipédia, objet scientifique non identifié</marquage>, Presses de l’Université Paris 10, 2015.</refbiblio>
+      
+      
+        <refbiblio>
 	BEAUDE, Boris, <marquage typemarq="italique">Internet, changer l’espace, changer la société: </marquage>
           <marquage typemarq="italique">l</marquage>
-          <marquage typemarq="italique">es logiques contemporaines de synchorisation</marquage>, FYP éditions, 2012, 256 p. [<liensimple xlink:type="simple" xlink:href="http://www.beaude.net/icecs/">http://www.beaude.net/icecs/</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	BECK, Francois, RICHARD, Jean-Baptiste, NGUYEN-THANH, Viet [et al.], «Use of the Internet as a Health Information Resource Among French Young Adults: Results From a Nationally Representative Survey», <marquage typemarq="italique">Journal of Medical Internet Research</marquage>, vol.16/5, mai 2014, [<liensimple xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051740/">http://www.ncbi.nlm.nih.gov /pmc/articles /PMC4051740/</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	BRIN, Sergey et PAGE, Lawrence, «The anatomy of a large-scale hypertextual Web search engine», <marquage typemarq="italique">Computer Networks and ISDN Systems</marquage>, vol.30/1-7, avril 1998, p. 107‑117.</alinea>
-      </para>
-      <para>
-        <alinea>
-	BUSH, Vannevar, «As we may think», <marquage typemarq="italique">Atlantic Magazine</marquage>, [<liensimple xlink:type="simple" xlink:href="http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/">http://www.theatlantic.com/magazine/archive/ 1945/07/as-we-may-think/303881/</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	BUTLER, Judith, <marquage typemarq="italique">Excitable speech: a politics of the performative</marquage>, New York, Routledge, 1997, 185 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	CARDON, Dominique, <marquage typemarq="italique">Dans l’esprit du PageRank</marquage>, vol.177, Paris, La Découverte, 2013, [<liensimple xlink:type="simple" xlink:href="http://www.cairn.info/resume.php?ID_ARTICLE=RES_177_0063">http:// www. cairn.info/resume.php?ID_ARTICLE=RES_177_0063</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	– <marquage typemarq="italique">La démocratie Internet : Promesses et limites</marquage>, Paris, Seuil, 2010, 102 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	– «Surveiller sans punir. La gouvernance de Wikipédia», inLionel Barbe, Louise Merzeau, Valérie Schafer, (éds.). <marquage typemarq="italique">Wikipédia, objet scientifique non identifié</marquage>, éds. Lionel Barbe, Louise Merzeau and Valérie Schafer, Nanterre, Presses universitaires de Paris Ouest, 2015, («Sciences humaines et sociales»), p. 15‑39, [<liensimple xlink:type="simple" xlink:href="http://books.openedition.org/pupo/4092">http://books.openedition.org/pupo/4092</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	– with CASILLI, Antonio, <marquage typemarq="italique">Qu’est-ce que le digital labor ?</marquage>, Bry-sur-Marne, INA, 2015.</alinea>
-      </para>
-      <para>
-        <alinea>
-	CHUN, Wendy Hui Kyong, <marquage typemarq="italique">Control and Freedom: Power and Paranoia in the Age of Fiber Optics</marquage>, Cambridge, Mass., The MIT Press, 2008, 368 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	DAHLGREN, Peter, <marquage typemarq="italique">The Political Web: Media, Participation and Alternative Democracy</marquage>, Basingstoke, Palgrave Macmillan, 2013, 203 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	DODGE, Martin et KITCHIN, Rob, <marquage typemarq="italique">Mapping Cyberspace</marquage>, London, Routledge, 2003, 281 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	DOUEIHI, Milad, <marquage typemarq="italique">Digital Cultures</marquage>, Cambridge, Mass., Harvard University Press, 2011, 208 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	DOUGLAS, J. Yellowlees, <marquage typemarq="italique">The end of books or books without end?: reading interactive narratives.</marquage>, Ann Arbor, Mich.; Wantage, University of Michigan Press ; University Presses Marketing, 1999.</alinea>
-      </para>
-      <para>
-        <alinea>
-	EISENSTEIN, Elizabeth L., <marquage typemarq="italique">The Printing Press as an Agent of Change</marquage>, Cambridge, Cambridge University Press, 1980, 820 p.</alinea>
-      </para>
-      <para>
-        <alinea>
+          <marquage typemarq="italique">es logiques contemporaines de synchorisation</marquage>, FYP éditions, 2012, 256 p. [<liensimple xlink:type="simple" xlink:href="http://www.beaude.net/icecs/">http://www.beaude.net/icecs/</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	BECK, Francois, RICHARD, Jean-Baptiste, NGUYEN-THANH, Viet [et al.], «Use of the Internet as a Health Information Resource Among French Young Adults: Results From a Nationally Representative Survey», <marquage typemarq="italique">Journal of Medical Internet Research</marquage>, vol.16/5, mai 2014, [<liensimple xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051740/">http://www.ncbi.nlm.nih.gov /pmc/articles /PMC4051740/</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	BRIN, Sergey et PAGE, Lawrence, «The anatomy of a large-scale hypertextual Web search engine», <marquage typemarq="italique">Computer Networks and ISDN Systems</marquage>, vol.30/1-7, avril 1998, p. 107‑117.</refbiblio>
+      
+      
+        <refbiblio>
+	BUSH, Vannevar, «As we may think», <marquage typemarq="italique">Atlantic Magazine</marquage>, [<liensimple xlink:type="simple" xlink:href="http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/">http://www.theatlantic.com/magazine/archive/ 1945/07/as-we-may-think/303881/</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	BUTLER, Judith, <marquage typemarq="italique">Excitable speech: a politics of the performative</marquage>, New York, Routledge, 1997, 185 p.</refbiblio>
+      
+      
+        <refbiblio>
+	CARDON, Dominique, <marquage typemarq="italique">Dans l’esprit du PageRank</marquage>, vol.177, Paris, La Découverte, 2013, [<liensimple xlink:type="simple" xlink:href="http://www.cairn.info/resume.php?ID_ARTICLE=RES_177_0063">http:// www. cairn.info/resume.php?ID_ARTICLE=RES_177_0063</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	– <marquage typemarq="italique">La démocratie Internet : Promesses et limites</marquage>, Paris, Seuil, 2010, 102 p.</refbiblio>
+      
+      
+        <refbiblio>
+	– «Surveiller sans punir. La gouvernance de Wikipédia», inLionel Barbe, Louise Merzeau, Valérie Schafer, (éds.). <marquage typemarq="italique">Wikipédia, objet scientifique non identifié</marquage>, éds. Lionel Barbe, Louise Merzeau and Valérie Schafer, Nanterre, Presses universitaires de Paris Ouest, 2015, («Sciences humaines et sociales»), p. 15‑39, [<liensimple xlink:type="simple" xlink:href="http://books.openedition.org/pupo/4092">http://books.openedition.org/pupo/4092</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	– with CASILLI, Antonio, <marquage typemarq="italique">Qu’est-ce que le digital labor ?</marquage>, Bry-sur-Marne, INA, 2015.</refbiblio>
+      
+      
+        <refbiblio>
+	CHUN, Wendy Hui Kyong, <marquage typemarq="italique">Control and Freedom: Power and Paranoia in the Age of Fiber Optics</marquage>, Cambridge, Mass., The MIT Press, 2008, 368 p.</refbiblio>
+      
+      
+        <refbiblio>
+	DAHLGREN, Peter, <marquage typemarq="italique">The Political Web: Media, Participation and Alternative Democracy</marquage>, Basingstoke, Palgrave Macmillan, 2013, 203 p.</refbiblio>
+      
+      
+        <refbiblio>
+	DODGE, Martin et KITCHIN, Rob, <marquage typemarq="italique">Mapping Cyberspace</marquage>, London, Routledge, 2003, 281 p.</refbiblio>
+      
+      
+        <refbiblio>
+	DOUEIHI, Milad, <marquage typemarq="italique">Digital Cultures</marquage>, Cambridge, Mass., Harvard University Press, 2011, 208 p.</refbiblio>
+      
+      
+        <refbiblio>
+	DOUGLAS, J. Yellowlees, <marquage typemarq="italique">The end of books or books without end?: reading interactive narratives.</marquage>, Ann Arbor, Mich.; Wantage, University of Michigan Press ; University Presses Marketing, 1999.</refbiblio>
+      
+      
+        <refbiblio>
+	EISENSTEIN, Elizabeth L., <marquage typemarq="italique">The Printing Press as an Agent of Change</marquage>, Cambridge, Cambridge University Press, 1980, 820 p.</refbiblio>
+      
+      
+        <refbiblio>
 	<marquage typemarq="italique">– </marquage>
-          <marquage typemarq="italique">The Printing Revolution in Early Modern Europe</marquage>, Cambridge; New York, Cambridge University Press, 2012, 401 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	FERRARIS, Maurizio, <marquage typemarq="italique">Âme et iPad</marquage>, Montréal, PUM, 2014, 216p., «Parcours numériques», [<liensimple xlink:type="simple" xlink:href="http://www.parcoursnumeriques-pum.ca/ameetipad">http://www.parcoursnumeriques-pum.ca/ameetipad</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	FLORIDI, Luciano, <marquage typemarq="italique">The 4th revolution: how the infosphere is reshaping human reality</marquage>, New York ; Oxford, Oxford University Press, 2014, 248 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	FREGE, Gottlob, «Sense and Reference», <marquage typemarq="italique">The Philosophical Review</marquage>, vol.57/3, 1948, p. 209‑230.</alinea>
-      </para>
-      <para>
-        <alinea>
-	FUCHS, Christian and SEVIGNANI, Sebastian, «What Is Digital Labour? What Is Digital Work? What’s their Difference? And Why Do These Questions Matter for Understanding Social Media?», <marquage typemarq="italique">tripleC: Communication, Capitalism &amp; Critique. Open Access Journal for a Global Sustainable Information Society</marquage>, vol.11/2, juin 2013, p. 237‑293.</alinea>
-      </para>
-      <para>
-        <alinea>
-	EBERLE-SINATRA, Michael et VITALI-ROSATI, Marcello, <marquage typemarq="italique">Pratiques de l’édition numérique</marquage>, Presses de l’Université de Montréal, 2014, (coll. «Parcours Numériques»), [<liensimple xlink:type="simple" xlink:href="http://parcoursnumeriques-pum.ca/pratiques">http://parcoursnumeriques-pum.ca/pratiques</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	GAC, Roberto, <marquage typemarq="italique">Bakhtine, le roman et l’intertexte</marquage>, Sens public 2012, [<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/article.php3?id_article=1007">http://www.sens-public.org /article .php3?id_article=1007</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	GALLOWAY, Alexander, <marquage typemarq="italique">The interface effect</marquage>, Cambridge, UK; Malden, MA, Polity, 2012.</alinea>
-      </para>
-      <para>
-        <alinea>
-	GENETTE, Gérard, <marquage typemarq="italique">Seuils</marquage>, Paris, Seuil, coll. «Points» 2002, 426 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	GERVAIS, Bertrand, «Naviguer entre le texte et l’écran. Penser la lecture à l’ère de l’hypertextualité», in SALÄUN Jean-Michel and VANDERDORPE, Christian, <marquage typemarq="italique">Les défis de l’édition à l’ère de l’hypertexte</marquage>, Presses de l’ENSSIB, 2002, p. 49-68.</alinea>
-      </para>
-      <para>
-        <alinea>
-	GUYOT, Brigitte, <marquage typemarq="italique">Sciences de l’information et activité professionnelle</marquage>, vol.38, C.N.R.S. Editions, 2004, [<liensimple xlink:type="simple" xlink:href="http://www.cairn.info/resume.php?ID_ARTICLE=HERM_038_0038">http://www.cairn.info/resume.php?ID_ARTICLE=HERM_038_0038</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	HABERMAS, Jürgen, <marquage typemarq="italique">The Structural transformation of the public sphere: an inquiry into a category of bourgeois society</marquage>, Cambridge, Mass, MIT Press, 1999, 301p., coll. «Studies in contemporary German social thought».</alinea>
-      </para>
-      <para>
-        <alinea>
-	HAMELINK, Cees Jan, <marquage typemarq="italique">The Ethics of Cyberspace</marquage>, London ; Thousand Oaks Calif., SAGE Publications Ltd, 2000, 220 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	LANDOW, George P, <marquage typemarq="italique">Hypertext: the convergence of contemporary critical theory and technology</marquage>, Baltimore, Johns Hopkins University Press, 1992.</alinea>
-      </para>
-      <para>
-        <alinea>
-	LEITCH, Thomas, <marquage typemarq="italique">Wikipedia U: Knowledge, Authority, and Liberal Education in the Digital Age</marquage>, Baltimore, The Johns Hopkins University Press, 2014.</alinea>
-      </para>
-      <para>
-        <alinea>
-	LESSIG, Lawrence, <marquage typemarq="italique">Code: And Other Laws of Cyberspace, Version 2.0</marquage>, New York, Basic Books, 2006, 432 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	LIMARE, Sophie, <marquage typemarq="italique">Surveiller et sourire: les artistes visuels et le regard numérique</marquage>, Montréal, PUM, 2015, coll. «Parcours numériques», [<liensimple xlink:type="simple" xlink:href="http://www.parcoursnumeriques-pum.ca/surveilleretsourire">http://www.parcoursnumeriques-pum.ca/surveilleretsourire</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	LOVINK, Geert, <marquage typemarq="italique">Dark fiber: tracking critical Internet culture</marquage>, Cambridge, Mass, MIT Press, 2002, 382 p.</alinea>
-      </para>
-      <para>
-        <alinea>
+          <marquage typemarq="italique">The Printing Revolution in Early Modern Europe</marquage>, Cambridge; New York, Cambridge University Press, 2012, 401 p.</refbiblio>
+      
+      
+        <refbiblio>
+	FERRARIS, Maurizio, <marquage typemarq="italique">Âme et iPad</marquage>, Montréal, PUM, 2014, 216p., «Parcours numériques», [<liensimple xlink:type="simple" xlink:href="http://www.parcoursnumeriques-pum.ca/ameetipad">http://www.parcoursnumeriques-pum.ca/ameetipad</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	FLORIDI, Luciano, <marquage typemarq="italique">The 4th revolution: how the infosphere is reshaping human reality</marquage>, New York ; Oxford, Oxford University Press, 2014, 248 p.</refbiblio>
+      
+      
+        <refbiblio>
+	FREGE, Gottlob, «Sense and Reference», <marquage typemarq="italique">The Philosophical Review</marquage>, vol.57/3, 1948, p. 209‑230.</refbiblio>
+      
+      
+        <refbiblio>
+	FUCHS, Christian and SEVIGNANI, Sebastian, «What Is Digital Labour? What Is Digital Work? What’s their Difference? And Why Do These Questions Matter for Understanding Social Media?», <marquage typemarq="italique">tripleC: Communication, Capitalism &amp; Critique. Open Access Journal for a Global Sustainable Information Society</marquage>, vol.11/2, juin 2013, p. 237‑293.</refbiblio>
+      
+      
+        <refbiblio>
+	EBERLE-SINATRA, Michael et VITALI-ROSATI, Marcello, <marquage typemarq="italique">Pratiques de l’édition numérique</marquage>, Presses de l’Université de Montréal, 2014, (coll. «Parcours Numériques»), [<liensimple xlink:type="simple" xlink:href="http://parcoursnumeriques-pum.ca/pratiques">http://parcoursnumeriques-pum.ca/pratiques</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	GAC, Roberto, <marquage typemarq="italique">Bakhtine, le roman et l’intertexte</marquage>, Sens public 2012, [<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/article.php3?id_article=1007">http://www.sens-public.org /article .php3?id_article=1007</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	GALLOWAY, Alexander, <marquage typemarq="italique">The interface effect</marquage>, Cambridge, UK; Malden, MA, Polity, 2012.</refbiblio>
+      
+      
+        <refbiblio>
+	GENETTE, Gérard, <marquage typemarq="italique">Seuils</marquage>, Paris, Seuil, coll. «Points» 2002, 426 p.</refbiblio>
+      
+      
+        <refbiblio>
+	GERVAIS, Bertrand, «Naviguer entre le texte et l’écran. Penser la lecture à l’ère de l’hypertextualité», in SALÄUN Jean-Michel and VANDERDORPE, Christian, <marquage typemarq="italique">Les défis de l’édition à l’ère de l’hypertexte</marquage>, Presses de l’ENSSIB, 2002, p. 49-68.</refbiblio>
+      
+      
+        <refbiblio>
+	GUYOT, Brigitte, <marquage typemarq="italique">Sciences de l’information et activité professionnelle</marquage>, vol.38, C.N.R.S. Editions, 2004, [<liensimple xlink:type="simple" xlink:href="http://www.cairn.info/resume.php?ID_ARTICLE=HERM_038_0038">http://www.cairn.info/resume.php?ID_ARTICLE=HERM_038_0038</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	HABERMAS, Jürgen, <marquage typemarq="italique">The Structural transformation of the public sphere: an inquiry into a category of bourgeois society</marquage>, Cambridge, Mass, MIT Press, 1999, 301p., coll. «Studies in contemporary German social thought».</refbiblio>
+      
+      
+        <refbiblio>
+	HAMELINK, Cees Jan, <marquage typemarq="italique">The Ethics of Cyberspace</marquage>, London ; Thousand Oaks Calif., SAGE Publications Ltd, 2000, 220 p.</refbiblio>
+      
+      
+        <refbiblio>
+	LANDOW, George P, <marquage typemarq="italique">Hypertext: the convergence of contemporary critical theory and technology</marquage>, Baltimore, Johns Hopkins University Press, 1992.</refbiblio>
+      
+      
+        <refbiblio>
+	LEITCH, Thomas, <marquage typemarq="italique">Wikipedia U: Knowledge, Authority, and Liberal Education in the Digital Age</marquage>, Baltimore, The Johns Hopkins University Press, 2014.</refbiblio>
+      
+      
+        <refbiblio>
+	LESSIG, Lawrence, <marquage typemarq="italique">Code: And Other Laws of Cyberspace, Version 2.0</marquage>, New York, Basic Books, 2006, 432 p.</refbiblio>
+      
+      
+        <refbiblio>
+	LIMARE, Sophie, <marquage typemarq="italique">Surveiller et sourire: les artistes visuels et le regard numérique</marquage>, Montréal, PUM, 2015, coll. «Parcours numériques», [<liensimple xlink:type="simple" xlink:href="http://www.parcoursnumeriques-pum.ca/surveilleretsourire">http://www.parcoursnumeriques-pum.ca/surveilleretsourire</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	LOVINK, Geert, <marquage typemarq="italique">Dark fiber: tracking critical Internet culture</marquage>, Cambridge, Mass, MIT Press, 2002, 382 p.</refbiblio>
+      
+      
+        <refbiblio>
 	<marquage typemarq="italique">– </marquage>
-          <marquage typemarq="italique">My First Recession</marquage>, Institute of Network Cultures, 2012, 217 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	MACKINNON, Rebecca, <marquage typemarq="italique">Consent of the Networked: The Worldwide Struggle For Internet Freedom</marquage>, First Trade Paper Edition edition, Basic Books, 2012, 322 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	MERTON, Robert, «The Matthew Effect in Science», <marquage typemarq="italique">Science</marquage>, vol.159/3810, 1968, p. 56‑63.</alinea>
-      </para>
-      <para>
-        <alinea>
-	MONGIN, Olivier, <marquage typemarq="italique">La condition urbaine: la ville à l’heure de la mondialisation</marquage>, Paris, Seuil, 2007, 325p., coll. «Points Essais».</alinea>
-      </para>
-      <para>
-        <alinea>
-	MOROZOV, Evgeny, <marquage typemarq="italique">The Net Delusion: The Dark Side of Internet Freedom</marquage>, Reprint edition, PublicAffairs, 2012, 432 p.</alinea>
-      </para>
-      <para>
-        <alinea>
+          <marquage typemarq="italique">My First Recession</marquage>, Institute of Network Cultures, 2012, 217 p.</refbiblio>
+      
+      
+        <refbiblio>
+	MACKINNON, Rebecca, <marquage typemarq="italique">Consent of the Networked: The Worldwide Struggle For Internet Freedom</marquage>, First Trade Paper Edition edition, Basic Books, 2012, 322 p.</refbiblio>
+      
+      
+        <refbiblio>
+	MERTON, Robert, «The Matthew Effect in Science», <marquage typemarq="italique">Science</marquage>, vol.159/3810, 1968, p. 56‑63.</refbiblio>
+      
+      
+        <refbiblio>
+	MONGIN, Olivier, <marquage typemarq="italique">La condition urbaine: la ville à l’heure de la mondialisation</marquage>, Paris, Seuil, 2007, 325p., coll. «Points Essais».</refbiblio>
+      
+      
+        <refbiblio>
+	MOROZOV, Evgeny, <marquage typemarq="italique">The Net Delusion: The Dark Side of Internet Freedom</marquage>, Reprint edition, PublicAffairs, 2012, 432 p.</refbiblio>
+      
+      
+        <refbiblio>
 	<marquage typemarq="italique">– </marquage>
-          <marquage typemarq="italique">To Save Everything, Click Here: The Folly of Technological Solutionism</marquage>, First Trade Paper Edition edition, PublicAffairs, 2013, 434 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	NELSON, T. H., «Complex Information Processing: A File Structure for the Complex, the Changing and the Indeterminate», <marquage typemarq="italique">Proceedings of the 1965 20th National Conference</marquage>, New York, NY, USA, ACM, 1965, («ACM ’65»), p. 84–100, [<liensimple xlink:type="simple" xlink:href="http://doi.acm.org/10.1145/800197.806036">http://doi.acm.org/10.1145/800197.806036</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	NORMAN, Donald A., <marquage typemarq="italique">The design of everyday things</marquage>, 1st Basic paperback, New York, Basic Books, 2002, 257 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	O’DONNELL, Daniel Paul, <marquage typemarq="italique">A “Thought Piece’ on Digital Space as Simulation and the Loss of the Original,</marquage> [<liensimple xlink:type="simple" xlink:href="http://dpod.kakelbont.ca/2015/02/11/a-thought-piece-on-digital-space-as-simulation-and-the-loss-of-the-original/">http://dpod.kakelbont.ca/2015/02/11/a-thought-piece-on-digital-space-as-simulation-and-the-loss-of-the-original/</liensimple>], February 11, 2015.</alinea>
-      </para>
-      <para>
-        <alinea>
-	O’KEEFFE, Jamie, WILLINSKY, John et MAGGIO, Lauren, «Public Access and Use of Health Research: An Exploratory Study of the National Institutes of Health (NIH) Public Access Policy Using Interviews and Surveys of Health Personnel», <marquage typemarq="italique">Journal of Medical Internet Research</marquage>, vol. 13/4, novembre 2011, p. 97.</alinea>
-      </para>
-      <para>
-        <alinea>
-	O’NEIL, Mathieu, <marquage typemarq="italique">Cyberchiefs: autonomy and authority in online tribes</marquage>, New York: Palgrave Macmillan, 2009, 242 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	POLETTI, Anna and RAK, Julie, <marquage typemarq="italique">Identity Technologies: Constructing the Self Online</marquage>, Madison, Wisconsin, University of Wisconsin Press, 2014, 300 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	PRECIADO, Beatriz, <marquage typemarq="italique">Pornotopia: An Essay on Playboy’s Architecture and Biopolitics</marquage>, New York, Zone Books, 2014, 304 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	<marquage typemarq="italique">– </marquage>with<marquage typemarq="italique"> </marquage>MESTRE, Serge, <marquage typemarq="italique">Pornotopie. Playboy et l’invention de la sexualité multimédia</marquage>, Paris, FLAMMARION, 2011, 256 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	ROSE, Mark, <marquage typemarq="italique">Authors and owners : the invention of copyright</marquage>, Cambridge, Mass., Harvard University Press, 1993.</alinea>
-      </para>
-      <para>
-        <alinea>
-	SASSEN, Saskia, <marquage typemarq="italique">Losing Control?: Sovereignty in the Age of Globalization</marquage>, S.l., Columbia University Press, 2014, 128 p.</alinea>
-      </para>
-      <para>
-        <alinea>
+          <marquage typemarq="italique">To Save Everything, Click Here: The Folly of Technological Solutionism</marquage>, First Trade Paper Edition edition, PublicAffairs, 2013, 434 p.</refbiblio>
+      
+      
+        <refbiblio>
+	NELSON, T. H., «Complex Information Processing: A File Structure for the Complex, the Changing and the Indeterminate», <marquage typemarq="italique">Proceedings of the 1965 20th National Conference</marquage>, New York, NY, USA, ACM, 1965, («ACM ’65»), p. 84–100, [<liensimple xlink:type="simple" xlink:href="http://doi.acm.org/10.1145/800197.806036">http://doi.acm.org/10.1145/800197.806036</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	NORMAN, Donald A., <marquage typemarq="italique">The design of everyday things</marquage>, 1st Basic paperback, New York, Basic Books, 2002, 257 p.</refbiblio>
+      
+      
+        <refbiblio>
+	O’DONNELL, Daniel Paul, <marquage typemarq="italique">A “Thought Piece’ on Digital Space as Simulation and the Loss of the Original,</marquage> [<liensimple xlink:type="simple" xlink:href="http://dpod.kakelbont.ca/2015/02/11/a-thought-piece-on-digital-space-as-simulation-and-the-loss-of-the-original/">http://dpod.kakelbont.ca/2015/02/11/a-thought-piece-on-digital-space-as-simulation-and-the-loss-of-the-original/</liensimple>], February 11, 2015.</refbiblio>
+      
+      
+        <refbiblio>
+	O’KEEFFE, Jamie, WILLINSKY, John et MAGGIO, Lauren, «Public Access and Use of Health Research: An Exploratory Study of the National Institutes of Health (NIH) Public Access Policy Using Interviews and Surveys of Health Personnel», <marquage typemarq="italique">Journal of Medical Internet Research</marquage>, vol. 13/4, novembre 2011, p. 97.</refbiblio>
+      
+      
+        <refbiblio>
+	O’NEIL, Mathieu, <marquage typemarq="italique">Cyberchiefs: autonomy and authority in online tribes</marquage>, New York: Palgrave Macmillan, 2009, 242 p.</refbiblio>
+      
+      
+        <refbiblio>
+	POLETTI, Anna and RAK, Julie, <marquage typemarq="italique">Identity Technologies: Constructing the Self Online</marquage>, Madison, Wisconsin, University of Wisconsin Press, 2014, 300 p.</refbiblio>
+      
+      
+        <refbiblio>
+	PRECIADO, Beatriz, <marquage typemarq="italique">Pornotopia: An Essay on Playboy’s Architecture and Biopolitics</marquage>, New York, Zone Books, 2014, 304 p.</refbiblio>
+      
+      
+        <refbiblio>
+	<marquage typemarq="italique">– </marquage>with<marquage typemarq="italique"> </marquage>MESTRE, Serge, <marquage typemarq="italique">Pornotopie. Playboy et l’invention de la sexualité multimédia</marquage>, Paris, FLAMMARION, 2011, 256 p.</refbiblio>
+      
+      
+        <refbiblio>
+	ROSE, Mark, <marquage typemarq="italique">Authors and owners : the invention of copyright</marquage>, Cambridge, Mass., Harvard University Press, 1993.</refbiblio>
+      
+      
+        <refbiblio>
+	SASSEN, Saskia, <marquage typemarq="italique">Losing Control?: Sovereignty in the Age of Globalization</marquage>, S.l., Columbia University Press, 2014, 128 p.</refbiblio>
+      
+      
+        <refbiblio>
 	<marquage typemarq="italique">– </marquage>
-          <marquage typemarq="italique">Territory, authority, rights: from medieval to global assemblages</marquage>, Updated ed., 4. print., 1. paperback print, Princeton, N.J., Princeton Univ. Press, 2008, 493 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	<marquage typemarq="italique">– </marquage>«Who owns our cities – and why this urban takeover should concern us all», <marquage typemarq="italique">the Guardian</marquage>, novembre 2015, [<liensimple xlink:type="simple" xlink:href="http://www.theguardian.com/cities/2015/nov/24/who-owns-our-cities-and-why-this-urban-takeover-should-concern-us-all">http://www.theguardian.com/cities/2015/nov/24/who-owns-our-cities-and-why-this-urban-takeover-should-concern-us-all</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	SCHECHNER, Richard, <marquage typemarq="italique">Performance theory</marquage>, London, Routledge, 2009, 407 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	SCHROEDER, Ralph, <marquage typemarq="italique">Rethinking science, technology, and social change</marquage>, Stanford, Calif, Stanford University Press, 2007, 179 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	SEARLE, John R., <marquage typemarq="italique">The Construction of Social Reality</marquage>, New York, Free Press, 1997, 256 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	SECKIN, Gul, «Health Information on the Web and Consumers’ Perspectives on Health Professionals’ Responses to Information Exchange», <marquage typemarq="italique">Medicine 2.0</marquage>, vol. 3/2, juillet 2014, [<liensimple xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4087097/">http://www.ncbi.nlm.nih.gov /pmc/articles/PMC4087097/</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	SLOANE, Sarah, <marquage typemarq="italique">Digital Fictions: Storytelling in a Material World</marquage>, Stamford, Conn., Ablex Pub., 2000.</alinea>
-      </para>
-      <para>
-        <alinea>
-	STALLMAN, Richard, «Why Open Source misses the point of Free Software», [https://www.gnu.org/philosophy/open-source-misses-the-point.html].</alinea>
-      </para>
-      <para>
-        <alinea>
-	STERN, Niels, GUÉDON, Jean-Claude et JENSEN, Thomas Wiben, «Crystals of Knowledge Production. An Intercontinental Conversation about Open Science and the Humanities», <marquage typemarq="italique">Nordic Perspectives on Open Science</marquage>, vol. 1, octobre 2015.</alinea>
-      </para>
-      <para>
-        <alinea>
-	STRIPHAS, Ted, «Algorithmic culture», <marquage typemarq="italique">European Journal of Cultural Studies</marquage>, vol. 18/4-5, août 2015, p. 395‑412.</alinea>
-      </para>
-      <para>
-        <alinea>
-	SVENSSON, Patrik, «Envisioning the Digital Humanities», vol.6 /1, 2012, [<liensimple xlink:type="simple" xlink:href="http://www.digitalhumanities.org/dhq/vol/6/1/000112/000112.html">http://www.digital humanities.org/dhq/vol/6/1/000112/000112.html</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	TRELEANI, Matteo, «Le spectre et l’automate. Deux figures du spectateur», in<marquage typemarq="italique">D’un écran à l’autre. Les mutations du spectateur</marquage>, Delavaud, G. Chateauvert, J., Harmattan, 2016.</alinea>
-      </para>
-      <para>
-        <alinea>
-	VALLUY, Jérome, ««Editorialisation» (recherche bibliographique, avril 2015) -», <marquage typemarq="italique">Terra-HN</marquage>, 2015, [http://www.reseau-terra.eu/article1333.html].</alinea>
-      </para>
-      <para>
-        <alinea>
-	VIRILIO, Paul, <marquage typemarq="italique">Cybermonde, la politique du pire</marquage>, Textuel, 2010, 111 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	VITALI-ROSATI, Marcello, «Digital Paratext. Editorialization and the very death of the author», in<marquage typemarq="italique">Examining Paratextual Theory and its Applications in Digital Culture</marquage>, IGI Global, Nadine Desrochers and Daniel Apollon, 2014, p. 110‑127, [<liensimple xlink:type="simple" xlink:href="http://www.igi-global.com/book/examining-paratextual-theory-its-applications/97342">http://www.igi-global.com/book/examining-paratextual-theory-its-applications /97342</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	– <marquage typemarq="italique">Égarements. Amour, mort et identités numériques</marquage>, Paris, Hermann, 2014, 138 p., («Cultures Numériques»), [En ligne : http://vitalirosati.com/liseuse/spip.php?rubrique3].</alinea>
-      </para>
-      <para>
-        <alinea>
-	– «Les revues littéraires en ligne : entre éditorialisation et réseaux d’intelligences», <marquage typemarq="italique">Études françaises</marquage>, vol.50/3, 2014, p. 83.</alinea>
-      </para>
-      <para>
-        <alinea>
-	– <marquage typemarq="italique">Corps et virtuel : itinéraires à partir de Merleau-Ponty</marquage>, Paris, Harmattan, 2009.</alinea>
-      </para>
-      <para>
-        <alinea>
-	– <marquage typemarq="italique">Riflessione e trascendenza: itinerari a partire da Levinas</marquage>, Pisa, ETS, 2003, 174 p., [<liensimple xlink:type="simple" xlink:href="http://www.edizioniets.com/Recensioni.asp?N=88-467-0677-3">http://www.edizioniets.com/Recensioni.asp?N=88-467-0677-3</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	– «Voir l’invisible : Gygès et la pornographie Facebook», <marquage typemarq="italique">Sens-Public</marquage>, juin 2012, [<liensimple xlink:type="simple" xlink:href="/spip.php?article912">http://sens-public.org/spip.php?article912</liensimple>].</alinea>
-      </para>
-      <para>
-        <alinea>
-	WARNER, Michael, <marquage typemarq="italique">The letters of the Republic: publication and the public sphere in eighteenth-century America</marquage>, Cambridge, Mass., Harvard University Press, 1992, 205 p.</alinea>
-      </para>
-      <para>
-        <alinea>
-	WIENER, Norbert, <marquage typemarq="italique">Cybernetics: or control and communication in the animal and the machine</marquage>, John Wiley &amp; Sons, 1946.</alinea>
-      </para>
-      <para>
-        <alinea>
-	WILLIAMS, Linda, <marquage typemarq="italique">Hard Core: Power, Pleasure, and the «Frenzy of the Visible», Expanded edition</marquage>, Berkeley, University of California Press, 1999, 398 p.</alinea>
-      </para>
+          <marquage typemarq="italique">Territory, authority, rights: from medieval to global assemblages</marquage>, Updated ed., 4. print., 1. paperback print, Princeton, N.J., Princeton Univ. Press, 2008, 493 p.</refbiblio>
+      
+      
+        <refbiblio>
+	<marquage typemarq="italique">– </marquage>«Who owns our cities – and why this urban takeover should concern us all», <marquage typemarq="italique">the Guardian</marquage>, novembre 2015, [<liensimple xlink:type="simple" xlink:href="http://www.theguardian.com/cities/2015/nov/24/who-owns-our-cities-and-why-this-urban-takeover-should-concern-us-all">http://www.theguardian.com/cities/2015/nov/24/who-owns-our-cities-and-why-this-urban-takeover-should-concern-us-all</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	SCHECHNER, Richard, <marquage typemarq="italique">Performance theory</marquage>, London, Routledge, 2009, 407 p.</refbiblio>
+      
+      
+        <refbiblio>
+	SCHROEDER, Ralph, <marquage typemarq="italique">Rethinking science, technology, and social change</marquage>, Stanford, Calif, Stanford University Press, 2007, 179 p.</refbiblio>
+      
+      
+        <refbiblio>
+	SEARLE, John R., <marquage typemarq="italique">The Construction of Social Reality</marquage>, New York, Free Press, 1997, 256 p.</refbiblio>
+      
+      
+        <refbiblio>
+	SECKIN, Gul, «Health Information on the Web and Consumers’ Perspectives on Health Professionals’ Responses to Information Exchange», <marquage typemarq="italique">Medicine 2.0</marquage>, vol. 3/2, juillet 2014, [<liensimple xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4087097/">http://www.ncbi.nlm.nih.gov /pmc/articles/PMC4087097/</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	SLOANE, Sarah, <marquage typemarq="italique">Digital Fictions: Storytelling in a Material World</marquage>, Stamford, Conn., Ablex Pub., 2000.</refbiblio>
+      
+      
+        <refbiblio>
+	STALLMAN, Richard, «Why Open Source misses the point of Free Software», [https://www.gnu.org/philosophy/open-source-misses-the-point.html].</refbiblio>
+      
+      
+        <refbiblio>
+	STERN, Niels, GUÉDON, Jean-Claude et JENSEN, Thomas Wiben, «Crystals of Knowledge Production. An Intercontinental Conversation about Open Science and the Humanities», <marquage typemarq="italique">Nordic Perspectives on Open Science</marquage>, vol. 1, octobre 2015.</refbiblio>
+      
+      
+        <refbiblio>
+	STRIPHAS, Ted, «Algorithmic culture», <marquage typemarq="italique">European Journal of Cultural Studies</marquage>, vol. 18/4-5, août 2015, p. 395‑412.</refbiblio>
+      
+      
+        <refbiblio>
+	SVENSSON, Patrik, «Envisioning the Digital Humanities», vol.6 /1, 2012, [<liensimple xlink:type="simple" xlink:href="http://www.digitalhumanities.org/dhq/vol/6/1/000112/000112.html">http://www.digital humanities.org/dhq/vol/6/1/000112/000112.html</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	TRELEANI, Matteo, «Le spectre et l’automate. Deux figures du spectateur», in<marquage typemarq="italique">D’un écran à l’autre. Les mutations du spectateur</marquage>, Delavaud, G. Chateauvert, J., Harmattan, 2016.</refbiblio>
+      
+      
+        <refbiblio>
+	VALLUY, Jérome, ««Editorialisation» (recherche bibliographique, avril 2015) -», <marquage typemarq="italique">Terra-HN</marquage>, 2015, [http://www.reseau-terra.eu/article1333.html].</refbiblio>
+      
+      
+        <refbiblio>
+	VIRILIO, Paul, <marquage typemarq="italique">Cybermonde, la politique du pire</marquage>, Textuel, 2010, 111 p.</refbiblio>
+      
+      
+        <refbiblio>
+	VITALI-ROSATI, Marcello, «Digital Paratext. Editorialization and the very death of the author», in<marquage typemarq="italique">Examining Paratextual Theory and its Applications in Digital Culture</marquage>, IGI Global, Nadine Desrochers and Daniel Apollon, 2014, p. 110‑127, [<liensimple xlink:type="simple" xlink:href="http://www.igi-global.com/book/examining-paratextual-theory-its-applications/97342">http://www.igi-global.com/book/examining-paratextual-theory-its-applications /97342</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	– <marquage typemarq="italique">Égarements. Amour, mort et identités numériques</marquage>, Paris, Hermann, 2014, 138 p., («Cultures Numériques»), [En ligne : http://vitalirosati.com/liseuse/spip.php?rubrique3].</refbiblio>
+      
+      
+        <refbiblio>
+	– «Les revues littéraires en ligne : entre éditorialisation et réseaux d’intelligences», <marquage typemarq="italique">Études françaises</marquage>, vol.50/3, 2014, p. 83.</refbiblio>
+      
+      
+        <refbiblio>
+	– <marquage typemarq="italique">Corps et virtuel : itinéraires à partir de Merleau-Ponty</marquage>, Paris, Harmattan, 2009.</refbiblio>
+      
+      
+        <refbiblio>
+	– <marquage typemarq="italique">Riflessione e trascendenza: itinerari a partire da Levinas</marquage>, Pisa, ETS, 2003, 174 p., [<liensimple xlink:type="simple" xlink:href="http://www.edizioniets.com/Recensioni.asp?N=88-467-0677-3">http://www.edizioniets.com/Recensioni.asp?N=88-467-0677-3</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	– «Voir l’invisible : Gygès et la pornographie Facebook», <marquage typemarq="italique">Sens-Public</marquage>, juin 2012, [<liensimple xlink:type="simple" xlink:href="/spip.php?article912">http://sens-public.org/spip.php?article912</liensimple>].</refbiblio>
+      
+      
+        <refbiblio>
+	WARNER, Michael, <marquage typemarq="italique">The letters of the Republic: publication and the public sphere in eighteenth-century America</marquage>, Cambridge, Mass., Harvard University Press, 1992, 205 p.</refbiblio>
+      
+      
+        <refbiblio>
+	WIENER, Norbert, <marquage typemarq="italique">Cybernetics: or control and communication in the animal and the machine</marquage>, John Wiley &amp; Sons, 1946.</refbiblio>
+      
+      
+        <refbiblio>
+	WILLIAMS, Linda, <marquage typemarq="italique">Hard Core: Power, Pleasure, and the «Frenzy of the Visible», Expanded edition</marquage>, Berkeley, University of California Press, 1999, 398 p.</refbiblio>
+      
+      </biblio>
+    </grbiblio>
+    <grnote>
       <note id="sdfootnote1sym">
         <no>1</no>
         <alinea>
-	Voir notamment le <marquage typemarq="italique">Collins</marquage>, [http://www.collinsdictionary.com/dictionary/english/editorialize], le <marquage typemarq="italique">Merriam and Webster</marquage>, [http://www.merriam-webster.com/dictionary/editorialize], ou encore le <marquage typemarq="italique">Cambridge</marquage> [http://dictionary .cambridge.org/us/dictionary/english/editorialize].</alinea>
+          Voir notamment le <marquage typemarq="italique">Collins</marquage>, [http://www.collinsdictionary.com/dictionary/english/editorialize], le <marquage typemarq="italique">Merriam and Webster</marquage>, [http://www.merriam-webster.com/dictionary/editorialize], ou encore le <marquage typemarq="italique">Cambridge</marquage> [http://dictionary .cambridge.org/us/dictionary/english/editorialize].</alinea>
       </note>
       <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
-	 Brigitte Guyot, <marquage typemarq="italique">Sciences de l’information et activité professionnelle</marquage>, vol.38, C.N.R.S. Editions, 2004, [<liensimple xlink:type="simple" xlink:href="http://www.cairn.info/resume.php?ID_ARTICLE=HERM_038_0038">http://www.cairn.info/resume.php?ID_ARTICLE=HERM_038_0038</liensimple>]. Première version disponible sur HAL, [http://archivesic.ccsd.cnrs.fr/ sic00001095/document].</alinea>
+          Brigitte Guyot, <marquage typemarq="italique">Sciences de l’information et activité professionnelle</marquage>, vol.38, C.N.R.S. Editions, 2004, [<liensimple xlink:type="simple" xlink:href="http://www.cairn.info/resume.php?ID_ARTICLE=HERM_038_0038">http://www.cairn.info/resume.php?ID_ARTICLE=HERM_038_0038</liensimple>]. Première version disponible sur HAL, [http://archivesic.ccsd.cnrs.fr/ sic00001095/document].</alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>
         <alinea>
-	 <marquage typemarq="italique">Ibid</marquage>.</alinea>
+          <marquage typemarq="italique">Ibid</marquage>.</alinea>
       </note>
       <note id="sdfootnote4sym">
         <no>4</no>
         <alinea>
-	 Bruno Bachimont, «Nouvelles tendances applicatives: de l’indexation à l’éditorialisation», in <marquage typemarq="italique">L’indexation multimédia</marquage>, Paris, Hermès, 2007, [En ligne : <liensimple xlink:type="simple" xlink:href="http://cours.ebsi.umontreal.ca/sci6116/Ressources_files/BachimontFormatHerme%CC%80s.pdf">http://cours.ebsi.umontreal.ca/sci6116/Ressources_files /BachimontFormatHerme%CC%80s.pdf</liensimple>].</alinea>
+          Bruno Bachimont, «Nouvelles tendances applicatives: de l’indexation à l’éditorialisation», in <marquage typemarq="italique">L’indexation multimédia</marquage>, Paris, Hermès, 2007, [En ligne : <liensimple xlink:type="simple" xlink:href="http://cours.ebsi.umontreal.ca/sci6116/Ressources_files/BachimontFormatHerme%CC%80s.pdf">http://cours.ebsi.umontreal.ca/sci6116/Ressources_files /BachimontFormatHerme%CC%80s.pdf</liensimple>].</alinea>
       </note>
       <note id="sdfootnote5sym">
         <no>5</no>
         <alinea>
-	 Marcello, Vitali-Rosati « Les revues littéraires en ligne: entre éditorialisation et réseaux d’intelligences », <marquage typemarq="italique">Études françaises</marquage>, vol.50/3, 2014, p.83.</alinea>
+          Marcello, Vitali-Rosati « Les revues littéraires en ligne: entre éditorialisation et réseaux d’intelligences », <marquage typemarq="italique">Études françaises</marquage>, vol.50/3, 2014, p.83.</alinea>
       </note>
       <note id="sdfootnote6sym">
         <no>6</no>
         <alinea>
-	 Milad Doueihi, <marquage typemarq="italique">Digital Cultures</marquage>, Cambridge, Mass., Harvard University Press, 2011.</alinea>
+          Milad Doueihi, <marquage typemarq="italique">Digital Cultures</marquage>, Cambridge, Mass., Harvard University Press, 2011.</alinea>
       </note>
       <note id="sdfootnote7sym">
         <no>7</no>
         <alinea>
-	 Jérome Valluy, « « Editorialisation » (recherche bibliographique, avril 2015) », <marquage typemarq="italique">Terra-HN</marquage>, 2015, [En ligne : <liensimple xlink:type="simple" xlink:href="http://www.reseau-terra.eu/article1333.html">http://www.reseau-terra.eu/article1333.html</liensimple>].</alinea>
+          Jérome Valluy, « « Editorialisation » (recherche bibliographique, avril 2015) », <marquage typemarq="italique">Terra-HN</marquage>, 2015, [En ligne : <liensimple xlink:type="simple" xlink:href="http://www.reseau-terra.eu/article1333.html">http://www.reseau-terra.eu/article1333.html</liensimple>].</alinea>
       </note>
       <note id="sdfootnote8sym">
         <no>8</no>
         <alinea>
-	 Roberto Gac a souligné l’existence de ces deux définitions dans un texte à paraître : <marquage typemarq="italique">Éditorialisation et littérature. Du roman à l’intertexte. </marquage>À paraître sur <marquage typemarq="italique">Sens public.</marquage>
+          Roberto Gac a souligné l’existence de ces deux définitions dans un texte à paraître : <marquage typemarq="italique">Éditorialisation et littérature. Du roman à l’intertexte. </marquage>À paraître sur <marquage typemarq="italique">Sens public.</marquage>
         </alinea>
       </note>
       <note id="sdfootnote9sym">
         <no>9</no>
         <alinea>
-	 Marcello Vitali-Rosati, « Digital Paratext. Editorialization and the very death of the author », in <marquage typemarq="italique">Examining Paratextual Theory and its Applications in Digital Culture</marquage>, IGI Global, Nadine Desrochers and Daniel Apollon, 2014, p.110‑127.</alinea>
+          Marcello Vitali-Rosati, « Digital Paratext. Editorialization and the very death of the author », in <marquage typemarq="italique">Examining Paratextual Theory and its Applications in Digital Culture</marquage>, IGI Global, Nadine Desrochers and Daniel Apollon, 2014, p.110‑127.</alinea>
       </note>
       <note id="sdfootnote10sym">
         <no>10</no>
         <alinea>
-	 Pour davantage de précisions concernant la relation entre l’espace numérique et non numérique, voir Daniel Paul O’Donnell, <marquage typemarq="italique">A “Thought Piece’ on Digital Space as Simulation and the Loss of the Original,</marquage> [<liensimple xlink:type="simple" xlink:href="http://dpod.kakelbont.ca/2015/02/11/a-thought-piece-on-digital-space-as-simulation-and-the-loss-of-the-original/">http://dpod.kakelbont.ca/2015/02/11/a-thought-piece-on-digital-space-as-simulation-and-the-loss-of-the-original/</liensimple>], February 11, 2015.</alinea>
+          Pour davantage de précisions concernant la relation entre l’espace numérique et non numérique, voir Daniel Paul O’Donnell, <marquage typemarq="italique">A “Thought Piece’ on Digital Space as Simulation and the Loss of the Original,</marquage> [<liensimple xlink:type="simple" xlink:href="http://dpod.kakelbont.ca/2015/02/11/a-thought-piece-on-digital-space-as-simulation-and-the-loss-of-the-original/">http://dpod.kakelbont.ca/2015/02/11/a-thought-piece-on-digital-space-as-simulation-and-the-loss-of-the-original/</liensimple>], February 11, 2015.</alinea>
       </note>
       <note id="sdfootnote11sym">
         <no>11</no>
         <alinea>
-	 Donald A. Norman, <marquage typemarq="italique">The Design of Everyday Things,</marquage> New York, Basic Books, 2002.</alinea>
+          Donald A. Norman, <marquage typemarq="italique">The Design of Everyday Things,</marquage> New York, Basic Books, 2002.</alinea>
       </note>
       <note id="sdfootnote12sym">
         <no>12</no>
         <alinea>
-	 Voir, par exemple, Michael Warner, <marquage typemarq="italique">The Letters of the Republic : Publication and the Public Sphere in Eighteenth-Century America</marquage>. 2. print. Cambridge, Mass, Harvard University Press, 1992.</alinea>
+          Voir, par exemple, Michael Warner, <marquage typemarq="italique">The Letters of the Republic : Publication and the Public Sphere in Eighteenth-Century America</marquage>. 2. print. Cambridge, Mass, Harvard University Press, 1992.</alinea>
       </note>
       <note id="sdfootnote13sym">
         <no>13</no>
         <alinea>
-	 Consulter par exemple Friedrich Kittler, <marquage typemarq="italique">Optical Media</marquage>. Translated by Anthony Enns, 1 edition, Cambridge, UK ; Malden, MA, Polity, 2009. Or R. Schroeder, <marquage typemarq="italique">Rethinking Science, Technology, and Social Change</marquage>. Stanford, Calif: Stanford University Press, 2007. Et Robert L. Heilbroner, « Do machines make History ? », <marquage typemarq="italique">Technology and Culture</marquage>, Vol. 8, No. 3 (Jul., 1967), pp. 335-345, [<liensimple xlink:type="simple" xlink:href="http://scalar.usc.edu/works/uiuc-macs410-media-information-ethics-/media/DoMachinesMakeHistory1967.pdf">http://scalar.usc.edu/works/uiuc-macs410-media-information-ethics-/media/DoMachinesMakeHistory1967.pdf</liensimple>].</alinea>
+          Consulter par exemple Friedrich Kittler, <marquage typemarq="italique">Optical Media</marquage>. Translated by Anthony Enns, 1 edition, Cambridge, UK ; Malden, MA, Polity, 2009. Or R. Schroeder, <marquage typemarq="italique">Rethinking Science, Technology, and Social Change</marquage>. Stanford, Calif: Stanford University Press, 2007. Et Robert L. Heilbroner, « Do machines make History ? », <marquage typemarq="italique">Technology and Culture</marquage>, Vol. 8, No. 3 (Jul., 1967), pp. 335-345, [<liensimple xlink:type="simple" xlink:href="http://scalar.usc.edu/works/uiuc-macs410-media-information-ethics-/media/DoMachinesMakeHistory1967.pdf">http://scalar.usc.edu/works/uiuc-macs410-media-information-ethics-/media/DoMachinesMakeHistory1967.pdf</liensimple>].</alinea>
       </note>
       <note id="sdfootnote14sym">
         <no>14</no>
         <alinea>
-	 Vannevar Bush, “As We May Think.’ <marquage typemarq="italique">Atlantic Magazine 1945,</marquage> [<liensimple xlink:type="simple" xlink:href="http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/">http://www.theatlantic.com/magazine /archive/ 1945/07/as-we-may-think/303881/</liensimple>].</alinea>
+          Vannevar Bush, “As We May Think.’ <marquage typemarq="italique">Atlantic Magazine 1945,</marquage> [<liensimple xlink:type="simple" xlink:href="http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/">http://www.theatlantic.com/magazine /archive/ 1945/07/as-we-may-think/303881/</liensimple>].</alinea>
       </note>
       <note id="sdfootnote15sym">
         <no>15</no>
         <alinea>
-	 Theodor H. Nelson, 1965. “Complex Information Processing: A File Structure for the Complex, the Changing and the Indeterminate.’ In <marquage typemarq="italique">Proceedings of the 1965 20th National Conference</marquage>, 84–100. New York: ACM, 1965.</alinea>
+          Theodor H. Nelson, 1965. “Complex Information Processing: A File Structure for the Complex, the Changing and the Indeterminate.’ In <marquage typemarq="italique">Proceedings of the 1965 20th National Conference</marquage>, 84–100. New York: ACM, 1965.</alinea>
       </note>
       <note id="sdfootnote16sym">
         <no>16</no>
         <alinea>
-	 Milad Doueihi, <marquage typemarq="italique">Pour un humanisme numérique, </marquage>
+          Milad Doueihi, <marquage typemarq="italique">Pour un humanisme numérique, </marquage>
           <marquage typemarq="italique">op. cit</marquage>
           <marquage typemarq="italique">.</marquage>
         </alinea>
@@ -998,72 +972,72 @@
       <note id="sdfootnote17sym">
         <no>17</no>
         <alinea>
-	 Gérard Genette, <marquage typemarq="italique">Seuils</marquage>, Paris, Seuil, coll. «Points», 2002.</alinea>
+          Gérard Genette, <marquage typemarq="italique">Seuils</marquage>, Paris, Seuil, coll. «Points», 2002.</alinea>
       </note>
       <note id="sdfootnote18sym">
         <no>18</no>
         <alinea>
-	 Marcello Vitali-Rosati, « Les revues littéraires en ligne : entre éditorialisation et réseaux d’intelligences », <marquage typemarq="italique">art</marquage>. <marquage typemarq="italique">cit</marquage>.</alinea>
+          Marcello Vitali-Rosati, « Les revues littéraires en ligne : entre éditorialisation et réseaux d’intelligences », <marquage typemarq="italique">art</marquage>. <marquage typemarq="italique">cit</marquage>.</alinea>
       </note>
       <note id="sdfootnote19sym">
         <no>19</no>
         <alinea>
-	 Niels Stern, Jean-Claude Guédon et Thomas Wiben Jensen, «Crystals of Knowledge Production. An Intercontinental Conversation about Open Science and the Humanities», <marquage typemarq="italique">Nordic Perspectives on Open Science</marquage>, vol.1, octobre 2015, p.1.</alinea>
+          Niels Stern, Jean-Claude Guédon et Thomas Wiben Jensen, «Crystals of Knowledge Production. An Intercontinental Conversation about Open Science and the Humanities», <marquage typemarq="italique">Nordic Perspectives on Open Science</marquage>, vol.1, octobre 2015, p.1.</alinea>
       </note>
       <note id="sdfootnote20sym">
         <no>20</no>
         <alinea>
-	 John Langshaw Austin, <marquage typemarq="italique">How to Do Things with Words [the William James Lectures Delivered at Harvard University in 1955]</marquage>. 2. ed., [repr.]. Cambridge, Mass, Harvard University Press, 2009.</alinea>
+          John Langshaw Austin, <marquage typemarq="italique">How to Do Things with Words [the William James Lectures Delivered at Harvard University in 1955]</marquage>. 2. ed., [repr.]. Cambridge, Mass, Harvard University Press, 2009.</alinea>
       </note>
       <note id="sdfootnote21sym">
         <no>21</no>
         <alinea>
-	 Judith Butler, <marquage typemarq="italique">Excitable Speech: A Politics of the Performative,</marquage> New York, Routledge, 1997.</alinea>
+          Judith Butler, <marquage typemarq="italique">Excitable Speech: A Politics of the Performative,</marquage> New York, Routledge, 1997.</alinea>
       </note>
       <note id="sdfootnote22sym">
         <no>22</no>
         <alinea>
-	 Richard Schechner, <marquage typemarq="italique">Performance Theory,</marquage> London, Routledge, coll. «Routledge Classic», 2009.</alinea>
+          Richard Schechner, <marquage typemarq="italique">Performance Theory,</marquage> London, Routledge, coll. «Routledge Classic», 2009.</alinea>
       </note>
       <note id="sdfootnote23sym">
         <no>23</no>
         <alinea>
-	 Gottlob Frege, « Sense and Reference », <marquage typemarq="italique">The Philosophical Review,</marquage> vol. 57, n°3, 1948, p. 209-230.</alinea>
+          Gottlob Frege, « Sense and Reference », <marquage typemarq="italique">The Philosophical Review,</marquage> vol. 57, n°3, 1948, p. 209-230.</alinea>
       </note>
       <note id="sdfootnote24sym">
         <no>24</no>
         <alinea>
-	 Luciano Floridi, <marquage typemarq="italique">The 4th revolution: how the infosphere is reshaping human reality</marquage>, First edition, New York, Oxford, Oxford University Press, 2014, p. 41.</alinea>
+          Luciano Floridi, <marquage typemarq="italique">The 4th revolution: how the infosphere is reshaping human reality</marquage>, First edition, New York, Oxford, Oxford University Press, 2014, p. 41.</alinea>
       </note>
       <note id="sdfootnote25sym">
         <no>25</no>
         <alinea>
-	 Alexander Galloway, <marquage typemarq="italique">The Interface Effect, </marquage>Cambridge, UK / Malden, MA, Polity, 2012.</alinea>
+          Alexander Galloway, <marquage typemarq="italique">The Interface Effect, </marquage>Cambridge, UK / Malden, MA, Polity, 2012.</alinea>
       </note>
       <note id="sdfootnote26sym">
         <no>26</no>
         <alinea>
-	 Lev Manovich, <marquage typemarq="italique">The Language of New Media,</marquage> Cambridge, Mass., MIT Press, 2002.</alinea>
+          Lev Manovich, <marquage typemarq="italique">The Language of New Media,</marquage> Cambridge, Mass., MIT Press, 2002.</alinea>
       </note>
       <note id="sdfootnote27sym">
         <no>27</no>
         <alinea>
-	 J’ai déjà évoqué la méta-ontologie dans mon ouvrage <marquage typemarq="italique">Corps et virtuel : itinéraires à partir de Merleau-Ponty</marquage>, Paris, Harmattan, 2009, et <marquage typemarq="italique">Riflessione e trascendenza: itinerari a partire da Levinas</marquage>, Pisa, ETS, 2003, («Filosofia», 63), [<liensimple xlink:type="simple" xlink:href="http://www.edizioniets.com/Recensioni.asp?N=88-467-0677-3">http://www.edizioniets.com/Recensioni.asp?N=88-467-0677-3</liensimple>]. Je renvoie aussi à l’article publié sur <marquage typemarq="italique">Sens public </marquage>: Marcello Vitali-Rosati, « Voir l’invisible : Gygès et la pornographie Facebook », <marquage typemarq="italique">Sens-Public</marquage>, juin 2012, [<liensimple xlink:type="simple" xlink:href="/spip.php?article912">http://sens-public.org/spip.php?article912</liensimple>].</alinea>
+          J’ai déjà évoqué la méta-ontologie dans mon ouvrage <marquage typemarq="italique">Corps et virtuel : itinéraires à partir de Merleau-Ponty</marquage>, Paris, Harmattan, 2009, et <marquage typemarq="italique">Riflessione e trascendenza: itinerari a partire da Levinas</marquage>, Pisa, ETS, 2003, («Filosofia», 63), [<liensimple xlink:type="simple" xlink:href="http://www.edizioniets.com/Recensioni.asp?N=88-467-0677-3">http://www.edizioniets.com/Recensioni.asp?N=88-467-0677-3</liensimple>]. Je renvoie aussi à l’article publié sur <marquage typemarq="italique">Sens public </marquage>: Marcello Vitali-Rosati, « Voir l’invisible : Gygès et la pornographie Facebook », <marquage typemarq="italique">Sens-Public</marquage>, juin 2012, [<liensimple xlink:type="simple" xlink:href="/spip.php?article912">http://sens-public.org/spip.php?article912</liensimple>].</alinea>
       </note>
       <note id="sdfootnote28sym">
         <no>28</no>
         <alinea>
-	 Cet aspect a été souligné, par exemple, par Louise Merzeau dans « Éditorialisation collaborative d’un événement» , <marquage typemarq="italique">Communication &amp; Organisation</marquage>, <marquage typemarq="italique">43</marquage>(1), 2014, p. 105-122. La dimension collective de l’éditorialisation a aussi été analysée par Roberto Gac dans ses travaux sur l’intertexte : <marquage typemarq="italique">Bakhtine, le roman et l’intertexte</marquage>, <marquage typemarq="italique">Sens public</marquage> 2012, <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/article.php3?id_article=1007">http://www.sens-public.org/article.php3?id_article=1007</liensimple>. Mon travail doit beaucoup à Roberto et à nos discussions.</alinea>
+          Cet aspect a été souligné, par exemple, par Louise Merzeau dans « Éditorialisation collaborative d’un événement» , <marquage typemarq="italique">Communication &amp; Organisation</marquage>, <marquage typemarq="italique">43</marquage>(1), 2014, p. 105-122. La dimension collective de l’éditorialisation a aussi été analysée par Roberto Gac dans ses travaux sur l’intertexte : <marquage typemarq="italique">Bakhtine, le roman et l’intertexte</marquage>, <marquage typemarq="italique">Sens public</marquage> 2012, <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/article.php3?id_article=1007">http://www.sens-public.org/article.php3?id_article=1007</liensimple>. Mon travail doit beaucoup à Roberto et à nos discussions.</alinea>
       </note>
       <note id="sdfootnote29sym">
         <no>29</no>
         <alinea>
-	 Dominique Cardon, <marquage typemarq="italique">Dans l’esprit du PageRank</marquage>, Paris, La Découverte, 2013, [<liensimple xlink:type="simple" xlink:href="http://www.cairn.info/resume.php?ID_ARTICLE=RES_177_0063">http://www.cairn. info/resume.php?ID_ARTICLE=RES_177_0063</liensimple>].</alinea>
+          Dominique Cardon, <marquage typemarq="italique">Dans l’esprit du PageRank</marquage>, Paris, La Découverte, 2013, [<liensimple xlink:type="simple" xlink:href="http://www.cairn.info/resume.php?ID_ARTICLE=RES_177_0063">http://www.cairn. info/resume.php?ID_ARTICLE=RES_177_0063</liensimple>].</alinea>
       </note>
       <note id="sdfootnote30sym">
         <no>30</no>
         <alinea>
-	 Mon ouvrage <marquage typemarq="italique">Égarements</marquage> (Marcello Vitali-Rosati, <marquage typemarq="italique">Égarements, Amour, mort et identité</marquage>
+          Mon ouvrage <marquage typemarq="italique">Égarements</marquage> (Marcello Vitali-Rosati, <marquage typemarq="italique">Égarements, Amour, mort et identité</marquage>
           <marquage typemarq="italique">s</marquage>
           <marquage typemarq="italique"> numérique</marquage>
           <marquage typemarq="italique">s</marquage>, Paris, Herman, 2014) traite de ce sujet et particulier de la relation entre auto-détermination et hétéro-détermination de l’identité.</alinea>
@@ -1071,74 +1045,73 @@
       <note id="sdfootnote31sym">
         <no>31</no>
         <alinea>
-	 Saskia Sassen, <marquage typemarq="italique">Territory, authority, rights: from medieval to global assemblages</marquage>, Princeton, N.J., Princeton Univ. Press, 2008.</alinea>
+          Saskia Sassen, <marquage typemarq="italique">Territory, authority, rights: from medieval to global assemblages</marquage>, Princeton, N.J., Princeton Univ. Press, 2008.</alinea>
       </note>
       <note id="sdfootnote32sym">
         <no>32</no>
         <alinea>
-	 Niels Stern, Jean-Claude Guédon et Thomas Wiben Jensen, «Crystals of Knowledge Production. An Intercontinental Conversation about Open Science and the Humanities», <marquage typemarq="italique">art</marquage>. <marquage typemarq="italique">cit</marquage>., p.1.</alinea>
+          Niels Stern, Jean-Claude Guédon et Thomas Wiben Jensen, «Crystals of Knowledge Production. An Intercontinental Conversation about Open Science and the Humanities», <marquage typemarq="italique">art</marquage>. <marquage typemarq="italique">cit</marquage>., p.1.</alinea>
       </note>
       <note id="sdfootnote33sym">
         <no>33</no>
         <alinea>
-	 Voir Thomas Leitch, <marquage typemarq="italique">Wikipedia U: Knowledge, Authority, and Liberal Education in the Digital Age</marquage>, Baltimore, The Johns Hopkins University Press, 2014. Ainsi que Mathieu O’NEIL, <marquage typemarq="italique">Cyberchiefs : autonomy and authority in online tribes</marquage>, New York: Palgrave Macmillan, 2009</alinea>
+          Voir Thomas Leitch, <marquage typemarq="italique">Wikipedia U: Knowledge, Authority, and Liberal Education in the Digital Age</marquage>, Baltimore, The Johns Hopkins University Press, 2014. Ainsi que Mathieu O’NEIL, <marquage typemarq="italique">Cyberchiefs : autonomy and authority in online tribes</marquage>, New York: Palgrave Macmillan, 2009</alinea>
       </note>
       <note id="sdfootnote34sym">
         <no>34</no>
         <alinea>
-	 Thomas Leitch, <marquage typemarq="italique">ibid</marquage>. p. 38.</alinea>
+          Thomas Leitch, <marquage typemarq="italique">ibid</marquage>. p. 38.</alinea>
       </note>
       <note id="sdfootnote35sym">
         <no>35</no>
         <alinea>
-	 Note de la traduction : nous effectuons ici la synthèse entre les piliers tels qu’ils sont formulés dans la version de Wikipédia en anglais et en français.</alinea>
+          Note de la traduction : nous effectuons ici la synthèse entre les piliers tels qu’ils sont formulés dans la version de Wikipédia en anglais et en français.</alinea>
       </note>
       <note id="sdfootnote36sym">
         <no>36</no>
         <alinea>
-	 Dominique Cardon, «Surveiller sans punir. La gouvernance de Wikipédia», in Lionel Barbe, Louise Merzeau, Valérie Schafer, (éds.). <marquage typemarq="italique">Wikipédia, objet scientifique non identifié</marquage>, éds. Lionel Barbe, Louise Merzeau et Valérie Schafer, Nanterre, Presses universitaires de Paris Ouest, 2015, («Sciences humaines et sociales»), p.15‑39, [<liensimple xlink:type="simple" xlink:href="http://books.openedition.org/pupo/4092">http://books.openedition.org/pupo/4092</liensimple>]. Consulté le 1 janvier 2016.</alinea>
+          Dominique Cardon, «Surveiller sans punir. La gouvernance de Wikipédia», in Lionel Barbe, Louise Merzeau, Valérie Schafer, (éds.). <marquage typemarq="italique">Wikipédia, objet scientifique non identifié</marquage>, éds. Lionel Barbe, Louise Merzeau et Valérie Schafer, Nanterre, Presses universitaires de Paris Ouest, 2015, («Sciences humaines et sociales»), p.15‑39, [<liensimple xlink:type="simple" xlink:href="http://books.openedition.org/pupo/4092">http://books.openedition.org/pupo/4092</liensimple>]. Consulté le 1 janvier 2016.</alinea>
       </note>
       <note id="sdfootnote37sym">
         <no>37</no>
         <alinea>
-	 O’Neil, <marquage typemarq="italique">ibid</marquage>., p. 149.</alinea>
+          O’Neil, <marquage typemarq="italique">ibid</marquage>., p. 149.</alinea>
       </note>
       <note id="sdfootnote38sym">
         <no>38</no>
         <alinea>
-	 Dominique Cardon, «Surveiller sans punir. La gouvernance de Wikipédia», <marquage typemarq="italique">op</marquage>. <marquage typemarq="italique">cit</marquage>. p. 19.</alinea>
+          Dominique Cardon, «Surveiller sans punir. La gouvernance de Wikipédia», <marquage typemarq="italique">op</marquage>. <marquage typemarq="italique">cit</marquage>. p. 19.</alinea>
       </note>
       <note id="sdfootnote39sym">
         <no>39</no>
         <alinea>
-	 Par exemple Thomas Leitch, <marquage typemarq="italique">op</marquage>. <marquage typemarq="italique">cit</marquage>., et Dominique Cardon, <marquage typemarq="italique">La démocratie Internet : Promesses et limites</marquage>, Paris, Seuil, 2010.</alinea>
+          Par exemple Thomas Leitch, <marquage typemarq="italique">op</marquage>. <marquage typemarq="italique">cit</marquage>., et Dominique Cardon, <marquage typemarq="italique">La démocratie Internet : Promesses et limites</marquage>, Paris, Seuil, 2010.</alinea>
       </note>
       <note id="sdfootnote40sym">
         <no>40</no>
         <alinea>
-	 Hannah Arendt, <marquage typemarq="italique">Between past and future: eight exercises in political thought</marquage>, New York, Penguin Books, 2006, coll. «Penguin classics».</alinea>
+          Hannah Arendt, <marquage typemarq="italique">Between past and future: eight exercises in political thought</marquage>, New York, Penguin Books, 2006, coll. «Penguin classics».</alinea>
       </note>
       <note id="sdfootnote41sym">
         <no>41</no>
         <alinea>
-	 Dominique Cardon, « Surveiller sans punir. La gouvernance de Wikipédia », <marquage typemarq="italique">op</marquage>. <marquage typemarq="italique">cit</marquage>. p. 27-28.</alinea>
+          Dominique Cardon, « Surveiller sans punir. La gouvernance de Wikipédia », <marquage typemarq="italique">op</marquage>. <marquage typemarq="italique">cit</marquage>. p. 27-28.</alinea>
       </note>
       <note id="sdfootnote42sym">
         <no>42</no>
         <alinea>
-	 Evgeny Morozov, <marquage typemarq="italique">The Net Delusion: The Dark Side of Internet Freedom</marquage>, Reprint edition, PublicAffairs, 2012, And <marquage typemarq="italique">To Save Everything, Click Here : The Folly of Technological Solutionism</marquage>, First Trade Paper Edition edition, PublicAffairs, 2013.</alinea>
+          Evgeny Morozov, <marquage typemarq="italique">The Net Delusion: The Dark Side of Internet Freedom</marquage>, Reprint edition, PublicAffairs, 2012, And <marquage typemarq="italique">To Save Everything, Click Here : The Folly of Technological Solutionism</marquage>, First Trade Paper Edition edition, PublicAffairs, 2013.</alinea>
       </note>
       <note id="sdfootnote43sym">
         <no>43</no>
         <alinea>
-	 Dominique Cardon et Antonio Casilli, <marquage typemarq="italique">Qu’est-ce que le digital labor ?</marquage>, Bry-sur-Marne, INA, 2015. Christian Fuchs and Sebastian Sevignani, « What Is Digital Labour? What Is Digital Work? What’s their Difference? And Why Do These Questions Matter for Understanding Social Media ? », <marquage typemarq="italique">tripleC : Communication, Capitalism &amp; Critique. Open Access Journal for a Global Sustainable Information Society</marquage>, vol.11/2, juin 2013, p. 237‑293.</alinea>
+          Dominique Cardon et Antonio Casilli, <marquage typemarq="italique">Qu’est-ce que le digital labor ?</marquage>, Bry-sur-Marne, INA, 2015. Christian Fuchs and Sebastian Sevignani, « What Is Digital Labour? What Is Digital Work? What’s their Difference? And Why Do These Questions Matter for Understanding Social Media ? », <marquage typemarq="italique">tripleC : Communication, Capitalism &amp; Critique. Open Access Journal for a Global Sustainable Information Society</marquage>, vol.11/2, juin 2013, p. 237‑293.</alinea>
       </note>
       <note id="sdfootnote44sym">
         <no>44</no>
         <alinea>
-	 Geert Lovink, <marquage typemarq="italique">Dark fiber: tracking critical Internet culture</marquage>, Cambridge, Mass, MIT Press, 2002.</alinea>
+          Geert Lovink, <marquage typemarq="italique">Dark fiber: tracking critical Internet culture</marquage>, Cambridge, Mass, MIT Press, 2002.</alinea>
       </note>
-    </section1>
-  </corps>
-  <partiesann/>
+    </grnote>
+  </partiesann>
 </article>
