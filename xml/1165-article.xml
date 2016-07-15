@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1893ear" typeart="autre" lang="fr" ordseq="1">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article"
+  xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd"
+  qualtraitement="complet" idproprio="1893ear" typeart="autre" lang="fr" ordseq="1">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -89,14 +92,17 @@
 	And as mobilities are on the rise</titre>
       <para>
         <alinea>
-	In our conversations with Niels Planel<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>, who recently published extensively about his time with international organizations, most notably with the World Bank, we reckon that macro-economic measures are not enough. They must go together with support for out-of-the-box initiatives by entities which take risks and make a stand – granting scholarships, making micro-credits available, and generally providing incentives at the local level. All this in the realm of the urban, where now a majority of the people reside. These days students are massively on the move. Expertise now follows production in the outsourcing and delocalisation game, and shift to wherever labor power is abundant and an effective demand exist. Diaspora communities spearhead development at home and their members function as intercultural mediators engaging on daily basis in the interchange between cultures and ways of life. For sure, there is a need to make a distinction between voluntary mobility and forced exile, but mobility itself is simply an irreversible feature of our times, and we should actively fostering it lest we make ourselves unable to anticipate collective developments and face, every time again, the tragedies of emergency situations.</alinea>
+	In our conversations with Niels Planel<renvoi idref="sdfootnote1sym"
+            typeref="note"
+          >1</renvoi>, who recently published extensively about his time with international organizations, most notably with the World Bank, we reckon that macro-economic measures are not enough. They must go together with support for out-of-the-box initiatives by entities which take risks and make a stand – granting scholarships, making micro-credits available, and generally providing incentives at the local level. All this in the realm of the urban, where now a majority of the people reside. These days students are massively on the move. Expertise now follows production in the outsourcing and delocalisation game, and shift to wherever labor power is abundant and an effective demand exist. Diaspora communities spearhead development at home and their members function as intercultural mediators engaging on daily basis in the interchange between cultures and ways of life. For sure, there is a need to make a distinction between voluntary mobility and forced exile, but mobility itself is simply an irreversible feature of our times, and we should actively fostering it lest we make ourselves unable to anticipate collective developments and face, every time again, the tragedies of emergency situations.</alinea>
       </para>
       <figure>
-        <legende lang="fr"> 
-          <alinea><marquage typemarq="italique">Illustration 1 : Hamburg, Central Station photo :GW</marquage></alinea>
+        <legende lang="fr">
+          <alinea><marquage typemarq="italique"
+              >Illustration 1 : Hamburg, Central Station photo :GW</marquage></alinea>
         </legende>
         <objetmedia flot="bloc">
-          <image id="img1165-1.jpg" typeimage="figure"/>
+          <image id="img1165-1.jpg" typeimage="figure" xlink:type="simple"/>
         </objetmedia>
       </figure>
       <para>
@@ -109,16 +115,27 @@
 	What was it then that was so hard to predict ?</titre>
       <para>
         <alinea>
-	The Great European Illusion was to believe that a single mode of operation would be applicable to the regulation of financial investments, international relations, and social policies. That package came down to prioritizing deals with China and the United States with regard to industrial, commercial and financial affairs, while basically leaving " the market " take care of all the rest. This set-up resulted in the outsourcing any response to open crises to the humanitarian sector. Hence the recurring " shock " every time a friendly dictator declined to follow our advice to exercise restraint, lost their self-control – or any kind of control at all. Shock at the Ukrainian revolution, for instance, while wondering how to address a democratic upheaval, staged in Europe’s name by a European nation <renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> ?</alinea>
+	The Great European Illusion was to believe that a single mode of operation would be applicable to the regulation of financial investments, international relations, and social policies. That package came down to prioritizing deals with China and the United States with regard to industrial, commercial and financial affairs, while basically leaving " the market " take care of all the rest. This set-up resulted in the outsourcing any response to open crises to the humanitarian sector. Hence the recurring " shock " every time a friendly dictator declined to follow our advice to exercise restraint, lost their self-control – or any kind of control at all. Shock at the Ukrainian revolution, for instance, while wondering how to address a democratic upheaval, staged in Europe’s name by a European nation <renvoi
+            idref="sdfootnote2sym" typeref="note">2</renvoi> ?</alinea>
       </para>
       <para>
         <alinea>
-	In the end, our futile efforts to control our borders by maintaining friendly relations with dictatorships shaped the circumstances for (exactly) the situation we did not want. Yet, Nassim Nicholas Taleb had clearly made the point in his book <marquage typemarq="italique">The Black Swan</marquage>
-          <renvoi idref="sdfootnote3sym" typeref="note">3</renvoi> that it is essential to devise ways to alley risks relating to the occurrence of devastating events, even if the probability of such events arising is deemed marginal. Taleb internalized this attitude as part of his job as corporate risk manager, but he actually acquired it much earlier, overcoming fear while growing up in Lebanon torn by a bloody civil war. is relying cry : if you want to be safe, expect the unexpected<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>. This is precisely where European policies are a failure. Betting on the status quo to endure means to be bound to react too late. Our diplomats expressed astonishment at the fall of Ben Ali in Tunisia or Mubarak in Egypt. At that time, we asked Milad Doueihi for his opinion, and he gave us superior interpretations of event – still holding truth today<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>. And meanwhile the Lybian ruler Muammar Ghaddafi had quietly let known to those who wished for his downfall that it would not remain without direct consequences for Europe. And by now, Europe’s inability to anticipate the consequences of its diplomatic posture has resulted in a tragic outcome regarding the destiny of millions of people. Those who were arguing in terms of instituting democracy by way of foreign armed intervention may well now mull over Claude Lanzmann’s opposition to the Lybia war, expounded in a Le Monde op-ed<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>. Meanwhile in Syria, Russia’s and Iran’s support for the Assad regime makes such an approach totally unthinkable, leaving the situation without issue, and quick-started in an unprecedented humanitarian catastrophe. A complete national community is on the run now, and not a shard of a solution appears within sight. Whole chunks of Syrian territory are now in hands of the region’s most fanatical gangs.</alinea>
+	In the end, our futile efforts to control our borders by maintaining friendly relations with dictatorships shaped the circumstances for (exactly) the situation we did not want. Yet, Nassim Nicholas Taleb had clearly made the point in his book <marquage
+            typemarq="italique">The Black Swan</marquage>
+          <renvoi idref="sdfootnote3sym" typeref="note"
+            >3</renvoi> that it is essential to devise ways to alley risks relating to the occurrence of devastating events, even if the probability of such events arising is deemed marginal. Taleb internalized this attitude as part of his job as corporate risk manager, but he actually acquired it much earlier, overcoming fear while growing up in Lebanon torn by a bloody civil war. is relying cry : if you want to be safe, expect the unexpected<renvoi
+            idref="sdfootnote4sym" typeref="note"
+            >4</renvoi>. This is precisely where European policies are a failure. Betting on the status quo to endure means to be bound to react too late. Our diplomats expressed astonishment at the fall of Ben Ali in Tunisia or Mubarak in Egypt. At that time, we asked Milad Doueihi for his opinion, and he gave us superior interpretations of event – still holding truth today<renvoi
+            idref="sdfootnote5sym" typeref="note"
+            >5</renvoi>. And meanwhile the Lybian ruler Muammar Ghaddafi had quietly let known to those who wished for his downfall that it would not remain without direct consequences for Europe. And by now, Europe’s inability to anticipate the consequences of its diplomatic posture has resulted in a tragic outcome regarding the destiny of millions of people. Those who were arguing in terms of instituting democracy by way of foreign armed intervention may well now mull over Claude Lanzmann’s opposition to the Lybia war, expounded in a Le Monde op-ed<renvoi
+            idref="sdfootnote6sym" typeref="note"
+          >6</renvoi>. Meanwhile in Syria, Russia’s and Iran’s support for the Assad regime makes such an approach totally unthinkable, leaving the situation without issue, and quick-started in an unprecedented humanitarian catastrophe. A complete national community is on the run now, and not a shard of a solution appears within sight. Whole chunks of Syrian territory are now in hands of the region’s most fanatical gangs.</alinea>
       </para>
       <para>
         <alinea>
-	The generalized floundering of dictatorships, whether religious or secular, exposes our societies unpreparedness in face of the world to come. It is the joint outcome of the movement of people and informations, of the power of dogmatic and repressive religious factions, and lastly, of the failure of foreign interventions to establish a just political order. Many Muslim intellectuals – e.g. the highly respected, late Abdelwahab Meddeb – have challenged Europe to come forward with a cultural alternative for muslims the world over, based on mutual respect and tolerance, and which would make it possible for Islam to revive its original diversity. The French review Les Temps Modernes, in a recent issue titled " God, Islam, and the State<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi> " tried to formulate why Muslim states find it so difficult to formula pluralist political practices.</alinea>
+	The generalized floundering of dictatorships, whether religious or secular, exposes our societies unpreparedness in face of the world to come. It is the joint outcome of the movement of people and informations, of the power of dogmatic and repressive religious factions, and lastly, of the failure of foreign interventions to establish a just political order. Many Muslim intellectuals – e.g. the highly respected, late Abdelwahab Meddeb – have challenged Europe to come forward with a cultural alternative for muslims the world over, based on mutual respect and tolerance, and which would make it possible for Islam to revive its original diversity. The French review Les Temps Modernes, in a recent issue titled " God, Islam, and the State<renvoi
+            idref="sdfootnote7sym" typeref="note"
+          >7</renvoi> " tried to formulate why Muslim states find it so difficult to formula pluralist political practices.</alinea>
       </para>
     </section1>
     <section1>
@@ -126,19 +143,28 @@
 	Cosmopolitism as a citizenship project</titre>
       <para>
         <alinea>
-	" Europe with a history –or without one ? " This was the title of our introductory chapter in our book " Europe, a broken mirror ", just after the defeat of the " Yes " vote at the referendum Jacques Chirac had called about the European constitution<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi>. That was ten years ago. Besides the lack of popularity of a president at the close of his last term, the debate was also vitiated by dissentions, on the Left, between social democrats and opponents of globalization, and on the Right, between liberals and " sovereignists " (proponents of national sovereignty). Yet, and whatever were their reasons for their rejection, all Europeans, in all countries, were primarily concerned with the quality of their individual lives, and tossed out on thousands of volunteers the burden of conscience that is to wish for an opening up of the borders, international solidarity, a welcome for refugees and the sharing of wealth and resources. To these " idealists ", " realists " objected that all " integration policies " up to now had been a failure – in the words uttered by Angela Merkel on October 17, 2010<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi>. More generally, Europeans were looking forward to a century where their individual well-being would be vouchsafed by universal access to higher education and a host of various rent-related incomes – varying from old age pensions to life insurance policies and the secure handing down of real estate from one generation to the next. With as corollary the emergence of a " residential economy " where " Northerners ", like Britons and Germans would happily spend their tourist money in the countries of the South. Now solve this puzzle : in a world becoming more mobile by the day, with an ever increasing intensity of commercial exchanges, can Europeans really afford to do as if co-existence with other people is simply a non-issue ?</alinea>
+	" Europe with a history –or without one ? " This was the title of our introductory chapter in our book " Europe, a broken mirror ", just after the defeat of the " Yes " vote at the referendum Jacques Chirac had called about the European constitution<renvoi
+            idref="sdfootnote8sym" typeref="note"
+            >8</renvoi>. That was ten years ago. Besides the lack of popularity of a president at the close of his last term, the debate was also vitiated by dissentions, on the Left, between social democrats and opponents of globalization, and on the Right, between liberals and " sovereignists " (proponents of national sovereignty). Yet, and whatever were their reasons for their rejection, all Europeans, in all countries, were primarily concerned with the quality of their individual lives, and tossed out on thousands of volunteers the burden of conscience that is to wish for an opening up of the borders, international solidarity, a welcome for refugees and the sharing of wealth and resources. To these " idealists ", " realists " objected that all " integration policies " up to now had been a failure – in the words uttered by Angela Merkel on October 17, 2010<renvoi
+            idref="sdfootnote9sym" typeref="note"
+          >9</renvoi>. More generally, Europeans were looking forward to a century where their individual well-being would be vouchsafed by universal access to higher education and a host of various rent-related incomes – varying from old age pensions to life insurance policies and the secure handing down of real estate from one generation to the next. With as corollary the emergence of a " residential economy " where " Northerners ", like Britons and Germans would happily spend their tourist money in the countries of the South. Now solve this puzzle : in a world becoming more mobile by the day, with an ever increasing intensity of commercial exchanges, can Europeans really afford to do as if co-existence with other people is simply a non-issue ?</alinea>
       </para>
       <figure>
-        <legende lang="fr"> 
-          <alinea><marquage typemarq="italique">Illustration 2 : Gigantomachy from the Pergamon frieze (Pergamon Museum, Berlin) photo :GW</marquage></alinea>
+        <legende lang="fr">
+          <alinea><marquage typemarq="italique"
+              >Illustration 2 : Gigantomachy from the Pergamon frieze (Pergamon Museum, Berlin) photo :GW</marquage></alinea>
         </legende>
         <objetmedia flot="bloc">
-          <image id="img1165-2.jpg" typeimage="figure"/>
+          <image id="img1165-2.jpg" typeimage="figure" xlink:type="simple"/>
         </objetmedia>
       </figure>
       <para>
         <alinea>
-	The Tunisian revolution clearly demonstrated that Europe’s borders are not the same as those of the European Union. " Multiculturalism " is a fact of life, and exchanges, commercial or otherwise, between continents are our future. The alleged failure of multiculturalism means in reality the collapse of ideologies promoting withdrawal. January 2015 saw many Muslim women at the big marches honoring the Charlie Hebdo editorial board<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>. They too were protesting against religious ideologies. And if Germany now declares it will take up to half a million refugees, it does not do so to bolster its demography or economy, nor is it as the result of a sudden " human-rightist " flash of insight<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>. It was compelled to do so because of the bankruptcy of policies of which the European Border Agency FRONTEX is the symbol. Can Europe afford to let thousands of refugees die at its borders ? Is it feasible to sort out people who have left everything behind to seek a refuge and a better future ? Will the current emergency redefine European political options ? At any rate, the summer of 2015 will definitely constitute a point of no return.</alinea>
+	The Tunisian revolution clearly demonstrated that Europe’s borders are not the same as those of the European Union. " Multiculturalism " is a fact of life, and exchanges, commercial or otherwise, between continents are our future. The alleged failure of multiculturalism means in reality the collapse of ideologies promoting withdrawal. January 2015 saw many Muslim women at the big marches honoring the Charlie Hebdo editorial board<renvoi
+            idref="sdfootnote10sym" typeref="note"
+            >10</renvoi>. They too were protesting against religious ideologies. And if Germany now declares it will take up to half a million refugees, it does not do so to bolster its demography or economy, nor is it as the result of a sudden " human-rightist " flash of insight<renvoi
+            idref="sdfootnote11sym" typeref="note"
+          >11</renvoi>. It was compelled to do so because of the bankruptcy of policies of which the European Border Agency FRONTEX is the symbol. Can Europe afford to let thousands of refugees die at its borders ? Is it feasible to sort out people who have left everything behind to seek a refuge and a better future ? Will the current emergency redefine European political options ? At any rate, the summer of 2015 will definitely constitute a point of no return.</alinea>
       </para>
       <para>
         <alinea>
@@ -149,11 +175,12 @@
 	The urgency to aid the Syrian refugees bears testimony to the necessity to alter European decision-making criteria, since it is no longer possible to define strategies as a prop of some win-win scenarios. To support only what appears guaranteed to succeed actually reduces any possibility of other, parallel avenues of success to emerge, outcomes of sometimes unfortunate experiences, but which have in them the seed of later positive advances insofar as well-targeted assistance has been adequately provided in time. Such policies would provide for a by far better probabilities in matters of emergency prevention.</alinea>
       </para>
       <figure>
-        <legende lang="fr"> 
-          <alinea><marquage typemarq="italique">Illustration 3 : Assyrian house models (Pergamon Museum, Berlin) photo :GW</marquage></alinea>
+        <legende lang="fr">
+          <alinea><marquage typemarq="italique"
+              >Illustration 3 : Assyrian house models (Pergamon Museum, Berlin) photo :GW</marquage></alinea>
         </legende>
         <objetmedia flot="bloc">
-          <image id="img1165-3.jpg" typeimage="figure"/>
+          <image id="img1165-3.jpg" typeimage="figure" xlink:type="simple"/>
         </objetmedia>
       </figure>
       <para>
@@ -175,23 +202,33 @@
       <note id="sdfootnote1sym">
         <no>1</no>
         <alinea>
-	 <liensimple xlink:type="simple" xlink:href="http://www.editionsbdl.com/fr/books/un-autre-souffle-au-monde.-fragments-dun-itinraire-engag/502/">
-            <marquage typemarq="italique">Un autre souffle au monde. Fragments d’un itinéraire engagé</marquage>
-          </liensimple>. Review by this author (in French) :<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1162">here</liensimple>.</alinea>
+	 <liensimple xlink:type="simple"
+            xlink:href="http://www.editionsbdl.com/fr/books/un-autre-souffle-au-monde.-fragments-dun-itinraire-engag/502/">
+            <marquage typemarq="italique"
+              >Un autre souffle au monde. Fragments d’un itinéraire engagé</marquage>
+          </liensimple>. Review by this author (in French) :<liensimple xlink:type="simple"
+            xlink:href="http://www.sens-public.org/spip.php?article1162">here</liensimple>.</alinea>
       </note>
       <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
-	 <liensimple xlink:type="simple" xlink:href="http://www.edition.sens-public.org/spip.php?article17%20">
+	 <liensimple xlink:type="simple"
+            xlink:href="http://www.edition.sens-public.org/spip.php?article17%20">
             <marquage typemarq="italique">Penser l’Ukraine après Maïdan</marquage>
           </liensimple>
-          <liensimple xlink:type="simple" xlink:href="http://www.edition.sens-public.org/spip.php?article17%20">, numéro 17/18</liensimple>.  In order to safeguard access to Russian gaz, keep friendly relations and keeping Russia’s nuisance factor at bay, French president Francois Hollande declares himself pleased with the quiet on the east Ukrainian front, even if Ukraine is on the verge of default, and the UN has acknowledged a Russian (military) presence in that country, just as in Syria.</alinea>
+          <liensimple xlink:type="simple"
+            xlink:href="http://www.edition.sens-public.org/spip.php?article17%20"
+            >, numéro 17/18</liensimple>.  In order to safeguard access to Russian gaz, keep friendly relations and keeping Russia’s nuisance factor at bay, French president Francois Hollande declares himself pleased with the quiet on the east Ukrainian front, even if Ukraine is on the verge of default, and the UN has acknowledged a Russian (military) presence in that country, just as in Syria.</alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>
         <alinea>
 	 <marquage typemarq="italique">
-            <liensimple xlink:type="simple" xlink:href="https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book) ">The Black Swan : The Impact of the Highly</liensimple>.</marquage>  See also : <liensimple xlink:type="simple" xlink:href="https://en.wikipedia.org/wiki/Black_swan_theory">Black swan theory</liensimple>.</alinea>
+            <liensimple xlink:type="simple"
+              xlink:href="https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book) "
+              >The Black Swan : The Impact of the Highly</liensimple>.</marquage>  See also : <liensimple
+            xlink:type="simple" xlink:href="https://en.wikipedia.org/wiki/Black_swan_theory"
+            >Black swan theory</liensimple>.</alinea>
       </note>
       <note id="sdfootnote4sym">
         <no>4</no>
@@ -201,42 +238,67 @@
       <note id="sdfootnote5sym">
         <no>5</no>
         <alinea>
-	 <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?auteur942">Milad Doueihi</liensimple>. In February 2011 he pointed out the gap between what happened in the " Arab streets " and its (non) perception in Europe, in May he warned that the window of opportunity’ was closing fast, and that the still standing dictatorships would try to stave any form of destabilizing intervention.</alinea>
+	 <liensimple xlink:type="simple"
+            xlink:href="http://www.sens-public.org/spip.php?auteur942"
+          >Milad Doueihi</liensimple>. In February 2011 he pointed out the gap between what happened in the " Arab streets " and its (non) perception in Europe, in May he warned that the window of opportunity’ was closing fast, and that the still standing dictatorships would try to stave any form of destabilizing intervention.</alinea>
       </note>
       <note id="sdfootnote6sym">
         <no>6</no>
         <alinea>
-	 <liensimple xlink:type="simple" xlink:href="http://www.lemonde.fr/idees/article/2011/04/16/libye-rheteurs-et-decideurs_1508659_3232.html">See here</liensimple>.</alinea>
+	 <liensimple xlink:type="simple"
+            xlink:href="http://www.lemonde.fr/idees/article/2011/04/16/libye-rheteurs-et-decideurs_1508659_3232.html"
+            >See here</liensimple>.</alinea>
       </note>
       <note id="sdfootnote7sym">
         <no>7</no>
         <alinea>
-	<marquage typemarq="italique"> <liensimple xlink:type="simple" xlink:href="http://www.gallimard.fr/Catalogue/GALLIMARD/Revue-Les-Temps-Modernes/Les-Temps-Modernes600">Les Temps Modernes</liensimple>
+          <marquage typemarq="italique"> <liensimple xlink:type="simple"
+              xlink:href="http://www.gallimard.fr/Catalogue/GALLIMARD/Revue-Les-Temps-Modernes/Les-Temps-Modernes600"
+              >Les Temps Modernes</liensimple>
           </marquage>
-          <liensimple xlink:type="simple" xlink:href="http://www.gallimard.fr/Catalogue/GALLIMARD/Revue-Les-Temps-Modernes/Les-Temps-Modernes600">, n</liensimple>
-          <liensimple xlink:type="simple" xlink:href="http://www.gallimard.fr/Catalogue/GALLIMARD/Revue-Les-Temps-Modernes/Les-Temps-Modernes600">° </liensimple>
-          <liensimple xlink:type="simple" xlink:href="http://www.gallimard.fr/Catalogue/GALLIMARD/Revue-Les-Temps-Modernes/Les-Temps-Modernes600">683</liensimple>.  (April-June 2015). Anoush Gaanjipour’s article " L’islam : quelle théologie, quelle politique ? " is particularly enlightening in that respect, as he deconstructs why uninformed observers are so surprised about the blend of dogmatism and opportunism often encountered in islamist politics.</alinea>
+          <liensimple xlink:type="simple"
+            xlink:href="http://www.gallimard.fr/Catalogue/GALLIMARD/Revue-Les-Temps-Modernes/Les-Temps-Modernes600"
+            >, n</liensimple>
+          <liensimple xlink:type="simple"
+            xlink:href="http://www.gallimard.fr/Catalogue/GALLIMARD/Revue-Les-Temps-Modernes/Les-Temps-Modernes600"
+            >° </liensimple>
+          <liensimple xlink:type="simple"
+            xlink:href="http://www.gallimard.fr/Catalogue/GALLIMARD/Revue-Les-Temps-Modernes/Les-Temps-Modernes600"
+            >683</liensimple>.  (April-June 2015). Anoush Gaanjipour’s article " L’islam : quelle théologie, quelle politique ? " is particularly enlightening in that respect, as he deconstructs why uninformed observers are so surprised about the blend of dogmatism and opportunism often encountered in islamist politics.</alinea>
       </note>
       <note id="sdfootnote8sym">
         <no>8</no>
         <alinea>
-	 <liensimple xlink:type="simple" xlink:href="http://www.edition.sens-public.org/spip.php?article13">See here</liensimple>.</alinea>
+	 <liensimple xlink:type="simple"
+            xlink:href="http://www.edition.sens-public.org/spip.php?article13"
+          >See here</liensimple>.</alinea>
       </note>
       <note id="sdfootnote9sym">
         <no>9</no>
         <alinea>
-	 <liensimple xlink:type="simple" xlink:href="http://www.theguardian.com/world/2010/oct/17/angela-merkel-german-multiculturalism-failed ">See here</liensimple> (news report) ; <liensimple xlink:type="simple" xlink:href="http://www.theguardian.com/world/2010/oct/17/angela-merkel-germany-multiculturalism-failures">See here</liensimple> (analysis).</alinea>
+	 <liensimple xlink:type="simple"
+            xlink:href="http://www.theguardian.com/world/2010/oct/17/angela-merkel-german-multiculturalism-failed "
+            >See here</liensimple> (news report) ; <liensimple xlink:type="simple"
+            xlink:href="http://www.theguardian.com/world/2010/oct/17/angela-merkel-germany-multiculturalism-failures"
+            >See here</liensimple> (analysis).</alinea>
       </note>
       <note id="sdfootnote10sym">
         <no>10</no>
         <alinea>
-	 <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1126">See here</liensimple>.</alinea>
+	 <liensimple xlink:type="simple"
+            xlink:href="http://www.sens-public.org/spip.php?article1126"
+          >See here</liensimple>.</alinea>
       </note>
       <note id="sdfootnote11sym">
         <no>11</no>
         <alinea>
-	 German opinion is split. Even as more than a third of those surveyed think that their government is not doing enough to help refugees, 27 % think the opposite, and a large majority stresses there is a difference between refugees and immigrants. Even if it is too early to extrapolate current trends into the future, it is clear that the authorities in Europe will have to adjust their apparatus of governance in order to facilitate the newcomers’ integration. [Meanwhile, in the short span between this article publication in French and its translation in English, both the numbers and the situation on the ground have darkened considerably in Germany : <liensimple xlink:type="simple" xlink:href="http://www.theguardian.com/world/2015/oct/08/refugee-crisis-germany-creaks-under-strain-of-open-door-policy">See here</liensimple>
-          <liensimple xlink:type="simple" xlink:href="http://www.theguardian.com/world/2015/oct/08/refugee-crisis-germany-creaks-under-strain-of-open-door-policy"> </liensimple>(note by translator)].</alinea>
+	 German opinion is split. Even as more than a third of those surveyed think that their government is not doing enough to help refugees, 27 % think the opposite, and a large majority stresses there is a difference between refugees and immigrants. Even if it is too early to extrapolate current trends into the future, it is clear that the authorities in Europe will have to adjust their apparatus of governance in order to facilitate the newcomers’ integration. [Meanwhile, in the short span between this article publication in French and its translation in English, both the numbers and the situation on the ground have darkened considerably in Germany : <liensimple
+            xlink:type="simple"
+            xlink:href="http://www.theguardian.com/world/2015/oct/08/refugee-crisis-germany-creaks-under-strain-of-open-door-policy"
+            >See here</liensimple>
+          <liensimple xlink:type="simple"
+            xlink:href="http://www.theguardian.com/world/2015/oct/08/refugee-crisis-germany-creaks-under-strain-of-open-door-policy"
+          > </liensimple>(note by translator)].</alinea>
       </note>
     </grnote>
   </partiesann>

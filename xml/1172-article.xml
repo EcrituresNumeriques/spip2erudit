@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1900ear" typeart="autre" lang="fr" ordseq="1">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article"
+  xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd"
+  qualtraitement="complet" idproprio="1900ear" typeart="autre" lang="fr" ordseq="1">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -84,16 +87,14 @@
         <alinea>
 	 </alinea>
       </para>
-      <para>
-	        <figure>
-	          <legende lang="fr"> 
-	            <alinea><marquage typemarq="italique">Crédit photo : GW</marquage></alinea>
-	          </legende>
-            <objetmedia flot="bloc">
-              <image id="img1172-1.jpg" typeimage="figure"/>
-            </objetmedia>
-          </figure> 
-      </para>
+      <figure>
+        <legende lang="fr">
+          <alinea><marquage typemarq="italique">Crédit photo : GW</marquage></alinea>
+        </legende>
+        <objetmedia flot="bloc">
+          <image id="img1172-1.jpg" typeimage="figure" xlink:type="simple"/>
+        </objetmedia>
+      </figure>
       <para>
         <alinea>
 	 </alinea>
@@ -148,7 +149,9 @@
 	Bill Clinton et la mondialisation</titre>
       <para>
         <alinea>
-	Premier président à avoir été confronté de plein fouet à la mondialisation, à ses miracles comme à ses menaces, Bill Clinton compte parmi les rares dirigeants qui semblent avoir su prendre une certaine hauteur de vue. De fait, quelques temps après avoir quitté la Maison Blanche, et près de deux mois après les attentats du 11 Septembre, Clinton a offert ses vues<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi> sur le monde d’alors en des formules qui consonnent toujours avec le monde d’aujourd’hui. Constatant qu’une décennie plus tôt le mur de Berlin tombait et que l’âge de l’information débutait, il expliqua que, plus que jamais, l’interdépendance était devenue un élément central de notre réalité. Désormais, le monde était pris dans une « lutte avec l’âme du 21e siècle ». Le terrorisme a une histoire séculaire, observait-il il y a 13 ans, ajoutant que les croisades ou la mort des esclaves et des Indiens témoignaient de ce qu’il n’était pas le monopole d’un camp en particulier. Mais, même si elle l’emporte toujours dans un premier temps, la terreur n’a jamais vaincu, elle est même vouée à l’échec face à la civilisation, expliqua-il face à un parterre d’étudiants venus des quatre coins du monde. Et dans la lutte engagée contre le terrorisme, il faut selon lui créer des partenaires et épuiser le terreau des terroristes.</alinea>
+	Premier président à avoir été confronté de plein fouet à la mondialisation, à ses miracles comme à ses menaces, Bill Clinton compte parmi les rares dirigeants qui semblent avoir su prendre une certaine hauteur de vue. De fait, quelques temps après avoir quitté la Maison Blanche, et près de deux mois après les attentats du 11 Septembre, Clinton a offert ses vues<renvoi
+            idref="sdfootnote1sym" typeref="note"
+          >1</renvoi> sur le monde d’alors en des formules qui consonnent toujours avec le monde d’aujourd’hui. Constatant qu’une décennie plus tôt le mur de Berlin tombait et que l’âge de l’information débutait, il expliqua que, plus que jamais, l’interdépendance était devenue un élément central de notre réalité. Désormais, le monde était pris dans une « lutte avec l’âme du 21e siècle ». Le terrorisme a une histoire séculaire, observait-il il y a 13 ans, ajoutant que les croisades ou la mort des esclaves et des Indiens témoignaient de ce qu’il n’était pas le monopole d’un camp en particulier. Mais, même si elle l’emporte toujours dans un premier temps, la terreur n’a jamais vaincu, elle est même vouée à l’échec face à la civilisation, expliqua-il face à un parterre d’étudiants venus des quatre coins du monde. Et dans la lutte engagée contre le terrorisme, il faut selon lui créer des partenaires et épuiser le terreau des terroristes.</alinea>
       </para>
       <para>
         <alinea>
@@ -200,11 +203,14 @@
       </para>
       <para>
         <alinea>
-	Niels Planel est l’auteur d’<marquage typemarq="italique">Un autre souffle au monde</marquage> (Le Bord de l’eau, septembre 2015), dont une présentation est disponible <liensimple xlink:type="simple" xlink:href="/article1162.html">ici</liensimple>.</alinea>
+	Niels Planel est l’auteur d’<marquage typemarq="italique"
+            >Un autre souffle au monde</marquage> (Le Bord de l’eau, septembre 2015), dont une présentation est disponible <liensimple
+            xlink:type="simple" xlink:href="/article1162.html">ici</liensimple>.</alinea>
       </para>
       <para>
         <alinea>
-	Twitter : <liensimple xlink:type="simple" xlink:href="https://twitter.com/NielsPlanel">@NielsPlanel</liensimple>
+	Twitter : <liensimple xlink:type="simple"
+            xlink:href="https://twitter.com/NielsPlanel">@NielsPlanel</liensimple>
         </alinea>
       </para>
     </section1>
@@ -214,19 +220,23 @@
       <note id="sdfootnote1sym">
         <no>1</no>
         <alinea>
-          Discours prononcé le 7 novembre 2001 à l’université de Georgetown. Cité dans <marquage typemarq="italique">Ghost Wars – The Secret History of the CIA, Afghanistan, and bin Laden, from the Soviet Invasion to September 10.</marquage>
+          Discours prononcé le 7 novembre 2001 à l’université de Georgetown. Cité dans <marquage
+            typemarq="italique"
+            >Ghost Wars – The Secret History of the CIA, Afghanistan, and bin Laden, from the Soviet Invasion to September 10.</marquage>
           <marquage typemarq="italique"> </marquage>
         </alinea>
       </note>
       <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
-          Discours prononcé devant le Parti travailliste à Blackpool le 3 octobre 2002. Egalement cité dans <marquage typemarq="italique">Ghost Wars</marquage>, p. 432. </alinea>
+          Discours prononcé devant le Parti travailliste à Blackpool le 3 octobre 2002. Egalement cité dans <marquage
+            typemarq="italique">Ghost Wars</marquage>, p. 432. </alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>
         <alinea>
-          Lire les remarques du président Obama à la <marquage typemarq="italique">Clinton Global Initiative</marquage>, New York, 22 septembre 2009.</alinea>
+          Lire les remarques du président Obama à la <marquage typemarq="italique"
+            >Clinton Global Initiative</marquage>, New York, 22 septembre 2009.</alinea>
       </note>
     </grnote>
   </partiesann>

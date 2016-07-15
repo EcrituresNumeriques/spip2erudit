@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1915ear" typeart="autre" lang="fr" ordseq="1">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article"
+  xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd"
+  qualtraitement="complet" idproprio="1915ear" typeart="autre" lang="fr" ordseq="1">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -86,184 +89,247 @@
     <section1>
       <para>
         <alinea>
-	La psychanalyse est politique, non pas dans son intention, certes, mais dans ses impacts sociétaux, car elle développe une certaine norme du rapport à soi. Elle a une responsabilité historique dans l’évolution des sociétés dans lesquelles elle s’est développée. Ces impacts sociétaux sont pour l’essentiel involontaires, imprévisibles<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi> et repérables uniquement dans l’après-coup. Il peut s’agir aussi d’interventions délibérées. On peut alors entendre par « politique de la psychanalyse » la façon dont les pratiques et les écrits des psychanalystes constituent  une intervention volontaire dans le champ social pour influencer les formes du vivre ensemble, les normes et usages privés ou publics.</alinea>
+	La psychanalyse est politique, non pas dans son intention, certes, mais dans ses impacts sociétaux, car elle développe une certaine norme du rapport à soi. Elle a une responsabilité historique dans l’évolution des sociétés dans lesquelles elle s’est développée. Ces impacts sociétaux sont pour l’essentiel involontaires, imprévisibles<renvoi
+            idref="sdfootnote1sym" typeref="note"
+          >1</renvoi> et repérables uniquement dans l’après-coup. Il peut s’agir aussi d’interventions délibérées. On peut alors entendre par « politique de la psychanalyse » la façon dont les pratiques et les écrits des psychanalystes constituent  une intervention volontaire dans le champ social pour influencer les formes du vivre ensemble, les normes et usages privés ou publics.</alinea>
       </para>
       <para>
         <alinea>
-	Je présente ici quelques remarques sur les rapports qu’entretiennent la psychanalyse et le politique, les difficultés, embarras, résistances qui s’y manifestent et auxquels font échos nombre de colloques et publications<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi>. Ce texte s’ancre dans plusieurs pratiques, celle de chercheure en sociologie, engagée dans plusieurs recherches sur le champ de la santé mentale, celle de citoyenne et celle de sujet concerné par la psychanalyse. Cette posture est inconfortable, risquée, tout à fait illégitime par rapport aux normes de l’institution universitaire (qui réprouve le mélange des « disciplines ») et d’une grande partie de la réflexion analytique (qui récuse le positionnement épistémologique des sciences sociales). Je serai amenée en cours de texte à préciser la manière dont, à mon avis, la pluridisciplinarité peut nourrir la pensée.</alinea>
+	Je présente ici quelques remarques sur les rapports qu’entretiennent la psychanalyse et le politique, les difficultés, embarras, résistances qui s’y manifestent et auxquels font échos nombre de colloques et publications<renvoi
+            idref="sdfootnote2sym" typeref="note"
+          >2</renvoi>. Ce texte s’ancre dans plusieurs pratiques, celle de chercheure en sociologie, engagée dans plusieurs recherches sur le champ de la santé mentale, celle de citoyenne et celle de sujet concerné par la psychanalyse. Cette posture est inconfortable, risquée, tout à fait illégitime par rapport aux normes de l’institution universitaire (qui réprouve le mélange des « disciplines ») et d’une grande partie de la réflexion analytique (qui récuse le positionnement épistémologique des sciences sociales). Je serai amenée en cours de texte à préciser la manière dont, à mon avis, la pluridisciplinarité peut nourrir la pensée.</alinea>
       </para>
-      <section2><titre><marquage typemarq="italique">Ce que le politique fait à la psychanalyse</marquage></titre>
-      <para>
-        <alinea>
-	Les politiques publiques de santé et de l’enseignement supérieur sont intervenues sur le travail des psychanalystes d’une manière qui a fortement inquiété ceux-ci : invalidation de la psychanalyse dans le référentiel de la psychiatrie publique (l’autisme, puis peut-être tous les « dys<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi> »), universitarisation réussie des sciences et techniques cognitivo-comportementales, déclin de la place de la psychanalyse dans les enseignements universitaires en psychologie et en psychiatrie, pressions étatiques pour que soient appliquées des évaluations standardisées aux consultations psychanalytiques et pour que l’accès au métier relève d’un processus de qualification classique. Face à ces mises en cause de l’autonomie ou de l’autorité<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi> des psychanalystes, telles qu’elles s’étaient jusque-là construites, la communauté psychanalytique a été amenée à se défendre et à préciser une politique interne et externe en redéfinissant sa spécificité.</alinea>
-      </para>
-      <para>
-        <alinea>
+      <section2>
+        <titre><marquage typemarq="italique"
+          >Ce que le politique fait à la psychanalyse</marquage></titre>
+        <para>
+          <alinea>
+	Les politiques publiques de santé et de l’enseignement supérieur sont intervenues sur le travail des psychanalystes d’une manière qui a fortement inquiété ceux-ci : invalidation de la psychanalyse dans le référentiel de la psychiatrie publique (l’autisme, puis peut-être tous les « dys<renvoi
+              idref="sdfootnote3sym" typeref="note"
+              >3</renvoi> »), universitarisation réussie des sciences et techniques cognitivo-comportementales, déclin de la place de la psychanalyse dans les enseignements universitaires en psychologie et en psychiatrie, pressions étatiques pour que soient appliquées des évaluations standardisées aux consultations psychanalytiques et pour que l’accès au métier relève d’un processus de qualification classique. Face à ces mises en cause de l’autonomie ou de l’autorité<renvoi
+              idref="sdfootnote4sym" typeref="note"
+            >4</renvoi> des psychanalystes, telles qu’elles s’étaient jusque-là construites, la communauté psychanalytique a été amenée à se défendre et à préciser une politique interne et externe en redéfinissant sa spécificité.</alinea>
+        </para>
+        <para>
+          <alinea>
 	Agir politiquement, pour la communauté psychanalytique française, que ce soit dans le cadre de la politique de la psychanalyse, de celle de la psychiatrie ou de la politique en général, ne va pas sans malaise, ni divisions. On peut constater que les psychanalystes ou leurs soutiens et amis engagent, dans leurs lieux de travail ou dans l’espace public, des stratégies dispersées, inégalement efficaces, parfois sectaires et maladroites.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Certaines choses sont beaucoup plus insidieuses que ce que le politique <marquage typemarq="italique">« </marquage>fait » à la psychanalyse. Il retourne contre elle certains de ses effets culturels et l’induit à coopérer de fait avec les mutations sociétales et le gouvernement des subjectivités conformes au mode de production capitaliste actuel : psychologisation du social, encouragement au narcissisme et à la concurrence de tous contre tous et absence de souci pour le bien commun, dépolitisation. Cette thèse a explicitement été soutenue par des auteurs comme Foucault<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi> et Castel<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>, qui ont reproché à la psychanalyse son familialisme, le fait que la parole dans la cure se centre sur l’histoire familiale ou les problèmes affectifs et sexuels individuels, et que la cure contribue à dépolitiser le regard du sujet sur le monde.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Corrélativement, il est exact que la citoyenneté n’est pas thématisée par Freud. La fin de la cure c’est, écrit-il, modifier les potentialités du sujet en matière d’amour et de travail<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>. Le troisième terme du triptyque de l’école républicaine, le citoyen (« former l’homme, le travailleur, le citoyen ») est absent<marquage typemarq="italique">.</marquage>
-          <marquage typemarq="italique"> </marquage>Cette absence est à interroger.</alinea>
-      </para>
-      <para>
-        <alinea>
+        </para>
+        <para>
+          <alinea>
+	Certaines choses sont beaucoup plus insidieuses que ce que le politique <marquage
+              typemarq="italique"
+              >« </marquage>fait » à la psychanalyse. Il retourne contre elle certains de ses effets culturels et l’induit à coopérer de fait avec les mutations sociétales et le gouvernement des subjectivités conformes au mode de production capitaliste actuel : psychologisation du social, encouragement au narcissisme et à la concurrence de tous contre tous et absence de souci pour le bien commun, dépolitisation. Cette thèse a explicitement été soutenue par des auteurs comme Foucault<renvoi
+              idref="sdfootnote5sym" typeref="note">5</renvoi> et Castel<renvoi
+              idref="sdfootnote6sym" typeref="note"
+            >6</renvoi>, qui ont reproché à la psychanalyse son familialisme, le fait que la parole dans la cure se centre sur l’histoire familiale ou les problèmes affectifs et sexuels individuels, et que la cure contribue à dépolitiser le regard du sujet sur le monde.</alinea>
+        </para>
+        <para>
+          <alinea>
+	Corrélativement, il est exact que la citoyenneté n’est pas thématisée par Freud. La fin de la cure c’est, écrit-il, modifier les potentialités du sujet en matière d’amour et de travail<renvoi
+              idref="sdfootnote7sym" typeref="note"
+              >7</renvoi>. Le troisième terme du triptyque de l’école républicaine, le citoyen (« former l’homme, le travailleur, le citoyen ») est absent<marquage
+              typemarq="italique">.</marquage>
+            <marquage typemarq="italique"> </marquage>Cette absence est à interroger.</alinea>
+        </para>
+        <para>
+          <alinea>
 	Ces remarques suggèrent que la psychologisation et le retrait sur des préoccupations essentiellement individuelles ne seraient pas qu’un phénomène extérieur dont la psychanalyse subirait le contrecoup, mais que celle-ci aurait eu, par rapport à celui-ci, à un moment donné et peut-être à son insu, un certain manque de vigilance.</alinea>
-      </para>
-      </section2><section2><titre><marquage typemarq="italique">Ce que font les psychanalystes du politique</marquage></titre>
-      <para>
-        <alinea>
-	Les psychanalystes interviennent nombreux dans l’espace public, par exemple en matière de mœurs et de législation familiale. On peut constater la diversité de leurs manières de faire de la politique ou de refuser d’en faire. Certains interviennent politiquement, mais explicitement « en tant que citoyens ». Certains estiment avoir, « à cause de leur pratique d’analystes », des choses pertinentes à dire sur certaines politiques publiques, ils interviennent donc dans le champ politique « comme psychanalystes experts ». Certains estiment que certaines positions politiques peuvent se « déduire » de la pratique analytique (par exemple, que l’hospitalité envers les étrangers serait impliquée par la position d’analyste, ou le soutien aux mouvements révolutionnaires démocratiques) et qu’ils peuvent donc prendre la parole, en tant « qu’analystes » (ou qu’« analysants ») sur les événements du monde (par exemple, Cooren 2015, Castoriadis 2011), ou encore que certaines positions morales (et donc politiques), peuvent se « déduire » de la théorie analytique. D’autres, à l’inverse, estiment qu’aucune morale, sagesse ou orientation politique ne peuvent s’en déduire<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi>.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Le contenu des engagements est lui aussi divers. Dans l’Histoire mondiale de la psychanalyse, on voit bien qu’il n’y a pas d’accord entre analystes, ni sur les orientations des interventions légitimes au titre de la psychanalyse dans l’espace public, ni sur leur énonciation et leur forme. La politique fait embarras.</alinea>
-      </para>
-      <para>
-        <alinea>
-	 En principe, la psychanalyse n’est pas une vision du monde, mais plusieurs positions possibles se lisent dans la conception de la dimension politique implicite de la fin de la cure et finalement, dans l’articulation entre les positions politiques des analystes et leur version de la psychanalyse. On en identifiera trois :</alinea>
-      </para>
-      <para>
-        <alinea>
-	1) Le refus de faire de la psychanalyse une sagesse, de l’éthiciser ou de la politiser et éviter qu’elle ne soit porteuse de dépolitisation. Faire que les questions citoyennes puissent y être accueillies, ne veut pas dire que la psychanalyse aurait une conception politique du monde à défendre. Elle ne peut argumenter des positions politiques, ni prendre part à la question centrale de la philosophie politique : comment une société peut-elle être bien gouvernée ?</alinea>
-      </para>
-      <para>
-        <alinea>
-	2) L’assomption de dimensions éthiques et/ou morales (au sens de choix de mœurs) de la cure. Celle-ci peut se faire sous diverses formes, dont certaines dimensions « conservatrices » ont pu donner lieu à controverses (Zizek<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi>, Perreau<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>, Dumoulin<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>).</alinea>
-      </para>
-      <para>
-        <alinea>
-	3) L’affirmation d’un lien logique, « naturel » (Cooren 2015<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi>), d’une « solidarité intime », ou d’une continuité entre le projet et l’expérience de l’émancipation individuelle et l’engagement pour l’émancipation collective : démocratie, égalité, construction du commun, délibération, réflexivité, créativité institutionnelle (Castoriadis, Cooren, Zaltzman). Pour le dire en un mot, la cure menée à son terme rendrait le sujet démocrate.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Bref, l’inconscient (des psychanalystes) comme celui de ses analysants, est politique. Sous les éthiques des psychanalystes réels, on trouve des choix politiques, conscients ou inconscients, et parfois le fantasme d’un monde où la psychanalyse permettrait au social d’optimiser son fonctionnement.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Quant à l’impact de la cure sur les idées politiques des analysants, soit leur rapport au politique et à la citoyenneté, les affirmations opposées, de l’existence ou de l’absence d’incidence, ont toutes deux été argumentées. On ne trouve d’ailleurs pas, dans les textes psychanalytiques, de théorie articulée de l’incidence de la cure sur la subjectivation politique, mis à part chez Castoriadis qui, comme dit ci-dessus, lie explicitement émancipation psychique et émancipation politique, émancipation individuelle dans la cure et émancipation collective dans le monde.</alinea>
-      </para>
-      </section2><section2><titre><marquage typemarq="italique">Ce que les psychanalystes théorisent du politique </marquage></titre>
-      <para>
-        <alinea>
-	Avec Freud, la théorie psychanalytique prend le politique comme un objet central de connaissance. Il étudie les foules organisées, le leadership, les guerres, le rôle des pulsions de mort dans l’histoire des sociétés, le malaise dans la civilisation qui affecte les subjectivités, la trajectoire d’un président américain. Plus largement, au-delà d’applications à des objets délimités pour lesquels il pense pouvoir construire une clinique du politique, la civilisation est saisie par lui comme une politique des subjectivités. Le politique est donc un objet légitime et privilégié de la théorisation psychanalytique, ce qui donne lieu à une importante littérature, qui a parfois tendance à confondre le social et le politique.</alinea>
-      </para>
-      <para>
-        <alinea>
-	En ce point, une remarque. Il faut préciser la nature du politique, champ spécifique du social, qui n’est pas coextensif à celui-ci. Le social est quelque chose de plus large, de plus complexe : il comprend aussi le mode de production, la démographie, le religieux, le culturel, l’éducatif et les techniques. Le politique pourrait être ainsi défini : la réflexion stratégique et les pratiques de pouvoir concernant l’organisation de la société, l’agencement pratique et symbolique d’un groupe humain. C’est le langage qui permet l’émergence du politique (comme pratique et comme réflexion sur l’organisation du monde humain), dans la conflictualité, la pluralité des paroles et le mensonge.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Qu’identifie la théorie freudienne ? Les contradictions de base du fait politique à travers ses effets sur l’individu. Vivre en société est naturel pour les humains, puisque nécessaire à la survie biologique de l’espèce. Pourtant, ce principe est en même temps contradictoire et traversé de tensions divisant les sujets, puisque ces individus vivent ensemble avec des désirs et des pulsions infinis et singuliers, des paroles plurielles et conflictuelles et en étant aux prises avec diverses formes de pulsions de mort. La société doit canaliser ou réprimer ces pulsions et fabriquer des subjectivités, si possible homogènes à ses régulations dominantes, et donc s’organiser pour ce faire. De ces trois problèmes invariants de toute société humaine (les pulsions qu’il faut domestiquer, les singularités qu’il faut combiner, les forces destructrices qu’il faut catalyser), par une action toujours au moins partiellement vouée à l’échec, « impossible », la psychanalyse a déjà fourni une théorie pleinement actuelle. Elle a, avec Freud, démontré en quoi le monde sociopolitique a des effets sur les sujets et en quoi ceux-ci contribuent à le créer. Ce volet de l’œuvre freudienne a été exploré et élargi par plusieurs auteurs<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi>.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Il reste que la psychanalyse présente une limite intrinsèque par rapport à la pensée du politique. C’est une pensée de l’individu comme étant social, relationnel et divisé par son inconscient (qui est politique), mais ce n’est pas, à la différence de l’Histoire, l’anthropologie, la sociologie, la géographie, une pensée des structures sociales, socioéconomiques, démographiques, ni des rapports sociaux. Ce niveau des structures a une forme de consistance qui échappe, par définition et par paradigme, au point de vue psychanalytique. Cette consistance spécifique du politique, qui repose à la fois sur des déterminants non individuels technologiques, économiques, démographiques et sur des effets de compositions non prévus des actions individuelles, est à prendre en compte pour comprendre les actions, les événements et les mutations politiques. Pour comprendre, par exemple, les passages à l’acte djihadiste ou la haine raciale, il faut mobiliser conjointement les ressources théoriques de la psychanalyse et des sciences sociales. Il se peut que les psychanalystes sous-estiment cette résistance du réel sociopolitique à être pensé dans la théorie psychanalytique ou à être travaillé dans la cure, et cela ferait aussi partie de leurs propres résistances au politique. Il se peut aussi qu’ils aient du mal à penser l‘historicité. Or, il y a une histoire du symbolique et aussi une histoire de ce qui fait traumatisme.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Une autre limite de la théorie psychanalytique du politique, qui pourrait être dépassée si les analystes y travaillaient, concerne un certain nombre d’impensés. Par exemple, si Freud analyse les phénomènes d’autorité, d’influence, de violence, de guerre, on peut remarquer que ses travaux ne traitent pas (ou très à la marge) de la démocratie ou de l’égalité, de leurs pratiques, de leur imaginaire, des processus historiques de recul, d’avancées ou d’invention de la démocratie. La psychanalyse ne thématise pas non plus la place de la nature dans la psyché et dans les rapports humains. Ces dimensions  importantes de la vie en société et de la politique constituent des « trous » dans la théorie psychanalytique.</alinea>
-      </para>
-      </section2><section2><titre>	<marquage typemarq="italique">Pistes pour une politique de la psychanalyse</marquage></titre>
-      <para>
-        <alinea>
-	À l’issue de ces remarques concernant divers aspects des rapports de la psychanalyse avec le politique, je voudrais proposer quelques pistes qui concernent ce en quoi les psychanalystes ont une responsabilité historique dans les affaires de la cité.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Cette responsabilité se déploie dans plusieurs domaines d’intervention et par le biais de plusieurs domaines de travail : la cure type, le champ culturel, le champ politique, le champ de la psychiatrie (notamment la psychothérapie institutionnelle et les psychothérapies psychanalytiques, mais aussi comme on le verra, d’autres pratiques possibles, en cours d’invention), l’intervention psychosociologique (au sens large du terme), les institutions analytiques, etc. Je parlerai ici surtout du champ sanitaire, sur lequel je travaille en tant que sociologue et où les confrontations entre la psychanalyse et le cognitivo-comportementalisme sont parfois rudes et figées.  </alinea>
-      </para>
-      <section3><titre><marquage typemarq="italique">1. Défendre la psychanalyse profane</marquage></titre>
-      <para>
-        <alinea>
-	Le maintien du mot de « guérison » dans le champ psychanalytique est audacieux et précieux, à une époque où les psychiatres du service public y renoncent, au profit du terme de « rétablissement » ou de « réhabilitation », abandonnant conjointement même le terme de « maladie » pour y substituer  le terme « handicap », glissant en partie sous l’influence d’approches gestionnaires et sous l’influence des associations de patients, à des conceptions déficitaires de la pathologie, passant à des options uniquement compensatrices au niveau de la prise en charge. Il parait utile que les psychanalystes décrivent la « guérison », l’aller mieux spécifique que peut produire la cure, par opposition aux effets des techniques comportementales.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Il paraît aussi socialement utile que les psychanalystes continuent à défendre la modalité spécifique d’autonomie professionnelle des psychanalystes français. La psychanalyse française maintient un mode de professionnalisation basé sur la « performance » (au sens artistique du terme) et la reconnaissance des pairs et des clients sans régulation administrative spécifique. Un des indices en témoignant est la possibilité, rare en Europe, de pouvoir exercer en France comme psychanalyste sans être ni médecin, ni psychologue, ni même « psychothérapeute » et le fait qu’il n’y ait pas d’ordre professionnel à qui l’État aurait délégué la police interne du groupe. C’est là une possibilité précieuse, symboliquement et politiquement. Cela constitue une condition organisationnelle favorisante — sans que cela soit une garantie — pour le maintien d’une psychanalyse laïque, à l’éthique singulariste et non normative, non mise au service de la biopolitique et de la normalisation des conduites. Il vaudrait politiquement la peine de continuer à la préserver.</alinea>
-      </para>
-      </section3><section3><titre><marquage typemarq="italique">2 - Accepter que l’analyse du politique implique l’interdisciplinarité</marquage></titre>
-      <para>
-        <alinea>
-	Le deuxième principe que je propose aux psychanalystes, s’ils veulent penser le monde contemporain et poursuivre l’effort théorique freudien, est qu’ils acceptent la double historicité du Symbolique et du Réel traumatiques, et donc fassent le deuil d’une autonomie absolue de leurs objets de connaissance, autonomie absolue qui ne saurait être qu’imaginaire.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Un psychanalyste se doit aujourd’hui d’être cultivé en sciences sociales (économie politique, sociologie, anthropologie, sciences politiques), et pas seulement en arts, en littérature et en mythologie comme le recommandait Freud. Les ressources de compréhension du monde social actuel se situent aussi du côté des sciences sociales chez Marx, Foucault, Bourdieu, Castel et du côté de la philosophie chez Derrida, Badiou, Gauchet, pour ne citer que les plus grands noms. Ces disciplines sont actives et productrices, y compris chez des auteurs moins connus du grand public, et il paraît plus intéressant de les lire dans le texte que dans les recyclages qu’en font les commentateurs, avec des approximations d’une part, et un important temps de décalage temporel d’autre part. Marx évoquait le processus de mondialisation en 1848, Robert Castel décrivait dès 1970 l’avènement du rapport techniciste et dépolitisé à la psychè. La déferlante des techniques de l’évaluation, le développement de la formalisation-standardisation des pratiques sociales, du nouveau management privé et public, de « l’évaluationnite », ont été documentés par les sociologues dès les années 1995<renvoi idref="sdfootnote14sym" typeref="note">14</renvoi>, de même que le remplacement des fonctionnements aristocratiques ou de castes par des fonctionnements oligarchiques auxquels on donne le nom de démocratie. Tout cela aurait mérité, dès ce moment-là, des batailles d’idées ou des analyses dont les psychanalystes auraient pu être partie prenante.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Je précise qu’il s’agirait bien pour les psychanalystes d’être cultivés en sciences sociales et non pas d’importer et d’appliquer des concepts en faisant des raccourcis abusifs ou des transplantations théoriques sans précaution. Mon propos n’est surtout pas de défendre une sociologisation de la clinique psychanalytique du politique, ni à l’inverse une coloration psychanalytique de la sociologie, mais une certaine pluridisciplinarité qui respecte les spécificités épistémologiques et pourrait se penser grâce aux distinctions éclairantes proposées par Lemieux<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi>, comme démarquationiste et conversioniste.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Aujourd’hui, analyser et comprendre le passage à l’acte djihadiste implique de conjoindre les efforts d’analyse des sciences sociales et de la psychanalyse<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi>.</alinea>
-      </para>
-      </section3><section3><titre>	<marquage typemarq="italique">3 - Accepter les normes du débat scientifique </marquage></titre>
-      <para>
-        <alinea>
-	Par ailleurs, la fétichisation des concepts est un obstacle majeur aux avancées du travail théorique. Il me semble préférable que les psychanalystes prennent la plume en respectant les normes du débat scientifique : non-dogmatisme, égalité des membres (même si certains textes y font référence), pas de vérité établie, savoirs rectifiables, effort de construction cumulative des savoirs, lutte contre la fragmentation du champ, obligation de lire les travaux des collègues, obligation de réponse aux objections, interdiction du plagiat et obligation de citer les sources, effort pour inventer, travail collectif des questions cliniques, interdiction de parler (en tant qu’analystes, sinon en nom personnel) de ce qui n’est pas le domaine de compétence, défense des spécificités épistémologiques et méthodologiques du faire science à propos de la psychè, dialogue avec les autres disciplines, défense de l’autonomie de la profession, en alliance avec les chercheurs et les artistes. Cela me semble plus pertinent politiquement que le fantasme d’un discours propre pour lequel le titre d’analyste donnerait le billet d’entrée ou pour lequel l’acte politique et subversif initial de « s’autoriser de soi-même » donnerait  un brevet définitif  de position subversive.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Je ne propose pas de sacraliser les normes du débat scientifique ni les normes scientifiques, mais de les instrumentaliser pragmatiquement. De même que la démocratie semble aujourd’hui à la citoyenne que je suis le moins mauvais des gouvernements, les normes du débat scientifique me semblent les moins mauvaises aujourd’hui pour permettre à la communauté analytique de soutenir son inventivité.</alinea>
-      </para>
-      </section3><section3><titre>	<marquage typemarq="italique">4 - Ne pas abandonner le champ de la santé mentale </marquage></titre>
-      <para>
-        <alinea>
-	Le champ de la « santé mentale » répugne aux psychanalystes, qui voient dans le passage du vocable « psychiatrie » à celui de « santé mentale<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi> », le symbole de la montée de l’esprit gestionnaire, de la volonté d’éviction de la psychanalyse hors du travail psychiatrique, de la fin d’un modèle professionnel où un grand nombre de psychiatres étaient psychanalystes et vice versa.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Je vais défendre un point de vue hétérodoxe, en m’appuyant ici sur l’activité de recherche sociologique que je développe depuis une douzaine d’années sur et avec les services psychiatriques, pour que les psychanalystes ne se désintéressent pas des pratiques de santé mentale.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Les transformations objectives de la psychiatrie publique ont abouti concrètement au déclin de l’hospitalisation (réduction du nombre de lits, passage à des hospitalisations courtes et éventuellement répétées), émergence d’un réseau de soins entre le social, le socioculturel, le médicosocial et le sanitaire, dont la coordination et la coopération sont fort inégales d’un territoire à l’autre, entrée des représentants des « usagers » à plusieurs niveaux de l’institution. Le paradigme dominant manifeste une contradiction entre une économie morale de l’« inclusion » et une inflation normative qui aboutit à médicaliser et pathologiser toute souffrance. Enfin et surtout, depuis la fin des années 70, l’économique et le budgétaire sont au poste de commande de la politique de santé. Du coup, la question de « soigner l’institution » dont s’était emparée la psychothérapie institutionnelle<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi>, doit logiquement s’élargir et devenir : comment les psychanalystes peuvent-ils contribuer à « soigner » l’institution de la santé mentale, ce dont elle a absolument besoin, donc à « soigner » les services psychiatriques offerts sur un territoire, nommés « soins dans la communauté » ou « soins dans la ville » (même si soigner l’hôpital est toujours pertinent).</alinea>
-      </para>
-      <para>
-        <alinea>
-	La politique de santé mentale en France se caractérise, outre sa crise permanente et son morcellement, par une série d’innovations cliniques et institutionnelles : les équipes mobiles de psychiatrie, les Groupes d’entraide mutuelle, l’expérimentation « Un chez soi d’abord », le programme Émilia de Maison-Blanche sur les patients formateurs, l’expérimentation des médiateurs pairs en santé mentale, de l’évaluation de laquelle j’ai été chargée, la création des ateliers Ville et santé mentale, des Conseils locaux de santé ou de santé mentale, les forums usagers-soignants dans les services. On pourrait y ajouter le cas des centres médico-psychologiques qui éclatent dans la ville dans des lieux ordinaires divers, ou les infirmiers accompagnent les patients dans les lieux socioculturels ou sportifs d’usage commun, ce qui relève d’une philosophie du soin bien différente du club thérapeutique. Les GEM et tous les groupes d’auto et d’intersoutien sans soignant, par pathologie (par exemple, les « groupes d’entendeurs de voix »), qui se développent également, relèvent eux aussi d’une logique institutionnelle spécifique.</alinea>
-      </para>
-      <para>
-        <alinea>
-	Pour les psychanalystes, s’attacher à « soigner » cette institution morcelée et plurielle, qui postule parfois que la vie sociale ordinaire peut être plus soignante que l’hospitalisation, n’est certes pas simple et demandera de l’imagination. Cela implique à priori de laisser de côté un certain hospitalocentrisme (s’intéresser surtout à l’hôpital), de renoncer au psychiatrocentrisme (accepter le rôle soignant du tissu socioculturel, accepter l’idée que peut-être ce qui soigne ne se résume pas au travail des psychiatres, infirmiers psy et psychologues de secteur public), et même de renoncer à un certain CMP-centrisme (dans lequel les psychologues se réfugient en tentant de continuer à faire vivre, parfois contre une certaine hostilité, une psychothérapie psychanalytique, à côté des interventions cognitivo-comportementalistes de plus en plus valorisées).</alinea>
-      </para>
-      <para>
-        <alinea>
-	Bref, il s’agirait de renoncer à un certain sectarisme qui ne verrait dans ces innovations qu’une application pure et simple du « modèle québécois » et des passions gestionnaires, néolibérales et autoritaires. Non que les compromissions de la politique de santé mentale actuelle ne soient pas réelles et qu’il ne soit pas pertinent de les critiquer, mais ces innovations ne s’y réduisent pas. Elles restent ouvertes idéologiquement, oscillant entre les préoccupations gestionnaires, des souvenirs de l’antipsychiatrie italienne des années 70, une fidélité à la philosophie du secteur, des pratiques de <marquage typemarq="italique">care</marquage>, une éthique de l’exploration des ressources, le refus des violences faites aux malades, un humanisme soucieux du respect des personnes, des composantes libertaires dans la lutte contre des rapports de domination et un usage spontané d’un « petit » comportementalisme<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi>.</alinea>
-      </para>
-      <para>
-        <alinea>
-	La philosophie de ces innovations n’est en somme pas fixée, puisqu’elles sont réceptives aux luttes philosophiques, idéologiques et politiques. Elles ont besoin d’un regard critique et d’une écoute bienveillante, car les « usagers » de la psychiatrie y ont plus d’occasions d’expression possibles, que ce soit en entretien privé ou en prise de parole publique, que dans certains autres lieux de la psychiatrie. Les critiques formulées par les patients sur le système psychiatrique rejoignent celles que peuvent faire les psychanalystes sur les ravages de la procéduralisation et de la formalisation du travail relationnel. Une alliance est ici possible et nécessaire.</alinea>
-      </para>
-      <para>
-        <alinea>
-	La lutte idéologique et épistémologique est évidemment à mener dans ce champ contre la fascination du chiffre, de la « preuve », de la statistique, de la formalisation de l’informalisable, de la pulsion de cartographie et de généralité, des essais contrôlés randomisés. Contre ce scientisme, il faut rappeler la singularité des rencontres et des actes qui caractérisent toutes les professions de l’humain, la non pertinence d’une évaluation qui prétendrait mesurer les effets d’une pratique à court terme et selon les standards quantitatifs et théoriques de la recherche biomédicale, la valeur de la réflexivité pour les organisations et les professions, qui passe par la discussion collective travaillant les situations concrètes. L’intervention claire et critique, mais non sectaire, de la psychanalyse dans le débat public<renvoi idref="sdfootnote20sym" typeref="note">20</renvoi> ainsi que, surtout, les investissements pratiques des psychanalystes dans le champ, selon les diverses pratiques et dispositifs qu’ils peuvent développer ou investir, sont indispensables pour que la politique de santé mentale moderne ne réduise pas sa politique des subjectivités à une modalité de contrôle social, par la conjonction entre une « psychologisation » généralisée des rapports sociaux et le privilège donné au dressage comportemental, à la lutte contre la déviance et au formatage des émotions et des conduites.</alinea>
-      </para>
-      <para>
-        <alinea>
-	L’efficacité de cette politique de la psychanalyse dans le champ de la santé mentale réclamait un certain ajustement pragmatique à l’époque. Certaines résistances frontales sont suicidaires. Or, l’époque se caractérise par le déclin de l’autonomie du politique par rapport à l‘économique. À moins d’escompter l’avènement proche d’un monde qui ne serait pas sous le règne de l’économisme, la psychanalyse ne peut esquiver la question de l’argent, des budgets, de ses parts de marché ou de l’évaluation comptable des politiques publiques. La psychanalyse peut argumenter qu’en matière de soulagement réel des symptômes douloureux et de mal-être existentiel, elle est finalement, tout bien considéré, « compétitive ». Cette prise en compte, dans le débat public, des contraintes budgétaires ne l’empêcherait pas par ailleurs de mener la lutte idéologique nécessaire contre l’économisme, ni de référer sa validité aux critères issus de son expérience plutôt qu’aux critères technicistes ou gestionnaires.</alinea>
-      </para>
-      </section3>
+        </para>
       </section2>
-      <section2><titre><marquage typemarq="italique">Conclusion</marquage></titre>
-      <para>
-        <alinea>
+      <section2>
+        <titre><marquage typemarq="italique"
+          >Ce que font les psychanalystes du politique</marquage></titre>
+        <para>
+          <alinea>
+	Les psychanalystes interviennent nombreux dans l’espace public, par exemple en matière de mœurs et de législation familiale. On peut constater la diversité de leurs manières de faire de la politique ou de refuser d’en faire. Certains interviennent politiquement, mais explicitement « en tant que citoyens ». Certains estiment avoir, « à cause de leur pratique d’analystes », des choses pertinentes à dire sur certaines politiques publiques, ils interviennent donc dans le champ politique « comme psychanalystes experts ». Certains estiment que certaines positions politiques peuvent se « déduire » de la pratique analytique (par exemple, que l’hospitalité envers les étrangers serait impliquée par la position d’analyste, ou le soutien aux mouvements révolutionnaires démocratiques) et qu’ils peuvent donc prendre la parole, en tant « qu’analystes » (ou qu’« analysants ») sur les événements du monde (par exemple, Cooren 2015, Castoriadis 2011), ou encore que certaines positions morales (et donc politiques), peuvent se « déduire » de la théorie analytique. D’autres, à l’inverse, estiment qu’aucune morale, sagesse ou orientation politique ne peuvent s’en déduire<renvoi
+              idref="sdfootnote8sym" typeref="note">8</renvoi>.</alinea>
+        </para>
+        <para>
+          <alinea>
+	Le contenu des engagements est lui aussi divers. Dans l’Histoire mondiale de la psychanalyse, on voit bien qu’il n’y a pas d’accord entre analystes, ni sur les orientations des interventions légitimes au titre de la psychanalyse dans l’espace public, ni sur leur énonciation et leur forme. La politique fait embarras.</alinea>
+        </para>
+        <para>
+          <alinea>
+	 En principe, la psychanalyse n’est pas une vision du monde, mais plusieurs positions possibles se lisent dans la conception de la dimension politique implicite de la fin de la cure et finalement, dans l’articulation entre les positions politiques des analystes et leur version de la psychanalyse. On en identifiera trois :</alinea>
+        </para>
+        <para>
+          <alinea>
+	1) Le refus de faire de la psychanalyse une sagesse, de l’éthiciser ou de la politiser et éviter qu’elle ne soit porteuse de dépolitisation. Faire que les questions citoyennes puissent y être accueillies, ne veut pas dire que la psychanalyse aurait une conception politique du monde à défendre. Elle ne peut argumenter des positions politiques, ni prendre part à la question centrale de la philosophie politique : comment une société peut-elle être bien gouvernée ?</alinea>
+        </para>
+        <para>
+          <alinea>
+	2) L’assomption de dimensions éthiques et/ou morales (au sens de choix de mœurs) de la cure. Celle-ci peut se faire sous diverses formes, dont certaines dimensions « conservatrices » ont pu donner lieu à controverses (Zizek<renvoi
+              idref="sdfootnote9sym" typeref="note">9</renvoi>, Perreau<renvoi
+              idref="sdfootnote10sym" typeref="note">10</renvoi>, Dumoulin<renvoi
+              idref="sdfootnote11sym" typeref="note">11</renvoi>).</alinea>
+        </para>
+        <para>
+          <alinea>
+	3) L’affirmation d’un lien logique, « naturel » (Cooren 2015<renvoi
+              idref="sdfootnote12sym" typeref="note"
+            >12</renvoi>), d’une « solidarité intime », ou d’une continuité entre le projet et l’expérience de l’émancipation individuelle et l’engagement pour l’émancipation collective : démocratie, égalité, construction du commun, délibération, réflexivité, créativité institutionnelle (Castoriadis, Cooren, Zaltzman). Pour le dire en un mot, la cure menée à son terme rendrait le sujet démocrate.</alinea>
+        </para>
+        <para>
+          <alinea>
+	Bref, l’inconscient (des psychanalystes) comme celui de ses analysants, est politique. Sous les éthiques des psychanalystes réels, on trouve des choix politiques, conscients ou inconscients, et parfois le fantasme d’un monde où la psychanalyse permettrait au social d’optimiser son fonctionnement.</alinea>
+        </para>
+        <para>
+          <alinea>
+	Quant à l’impact de la cure sur les idées politiques des analysants, soit leur rapport au politique et à la citoyenneté, les affirmations opposées, de l’existence ou de l’absence d’incidence, ont toutes deux été argumentées. On ne trouve d’ailleurs pas, dans les textes psychanalytiques, de théorie articulée de l’incidence de la cure sur la subjectivation politique, mis à part chez Castoriadis qui, comme dit ci-dessus, lie explicitement émancipation psychique et émancipation politique, émancipation individuelle dans la cure et émancipation collective dans le monde.</alinea>
+        </para>
+      </section2>
+      <section2>
+        <titre><marquage typemarq="italique"
+            >Ce que les psychanalystes théorisent du politique </marquage></titre>
+        <para>
+          <alinea>
+	Avec Freud, la théorie psychanalytique prend le politique comme un objet central de connaissance. Il étudie les foules organisées, le leadership, les guerres, le rôle des pulsions de mort dans l’histoire des sociétés, le malaise dans la civilisation qui affecte les subjectivités, la trajectoire d’un président américain. Plus largement, au-delà d’applications à des objets délimités pour lesquels il pense pouvoir construire une clinique du politique, la civilisation est saisie par lui comme une politique des subjectivités. Le politique est donc un objet légitime et privilégié de la théorisation psychanalytique, ce qui donne lieu à une importante littérature, qui a parfois tendance à confondre le social et le politique.</alinea>
+        </para>
+        <para>
+          <alinea>
+	En ce point, une remarque. Il faut préciser la nature du politique, champ spécifique du social, qui n’est pas coextensif à celui-ci. Le social est quelque chose de plus large, de plus complexe : il comprend aussi le mode de production, la démographie, le religieux, le culturel, l’éducatif et les techniques. Le politique pourrait être ainsi défini : la réflexion stratégique et les pratiques de pouvoir concernant l’organisation de la société, l’agencement pratique et symbolique d’un groupe humain. C’est le langage qui permet l’émergence du politique (comme pratique et comme réflexion sur l’organisation du monde humain), dans la conflictualité, la pluralité des paroles et le mensonge.</alinea>
+        </para>
+        <para>
+          <alinea>
+	Qu’identifie la théorie freudienne ? Les contradictions de base du fait politique à travers ses effets sur l’individu. Vivre en société est naturel pour les humains, puisque nécessaire à la survie biologique de l’espèce. Pourtant, ce principe est en même temps contradictoire et traversé de tensions divisant les sujets, puisque ces individus vivent ensemble avec des désirs et des pulsions infinis et singuliers, des paroles plurielles et conflictuelles et en étant aux prises avec diverses formes de pulsions de mort. La société doit canaliser ou réprimer ces pulsions et fabriquer des subjectivités, si possible homogènes à ses régulations dominantes, et donc s’organiser pour ce faire. De ces trois problèmes invariants de toute société humaine (les pulsions qu’il faut domestiquer, les singularités qu’il faut combiner, les forces destructrices qu’il faut catalyser), par une action toujours au moins partiellement vouée à l’échec, « impossible », la psychanalyse a déjà fourni une théorie pleinement actuelle. Elle a, avec Freud, démontré en quoi le monde sociopolitique a des effets sur les sujets et en quoi ceux-ci contribuent à le créer. Ce volet de l’œuvre freudienne a été exploré et élargi par plusieurs auteurs<renvoi
+              idref="sdfootnote13sym" typeref="note">13</renvoi>.</alinea>
+        </para>
+        <para>
+          <alinea>
+	Il reste que la psychanalyse présente une limite intrinsèque par rapport à la pensée du politique. C’est une pensée de l’individu comme étant social, relationnel et divisé par son inconscient (qui est politique), mais ce n’est pas, à la différence de l’Histoire, l’anthropologie, la sociologie, la géographie, une pensée des structures sociales, socioéconomiques, démographiques, ni des rapports sociaux. Ce niveau des structures a une forme de consistance qui échappe, par définition et par paradigme, au point de vue psychanalytique. Cette consistance spécifique du politique, qui repose à la fois sur des déterminants non individuels technologiques, économiques, démographiques et sur des effets de compositions non prévus des actions individuelles, est à prendre en compte pour comprendre les actions, les événements et les mutations politiques. Pour comprendre, par exemple, les passages à l’acte djihadiste ou la haine raciale, il faut mobiliser conjointement les ressources théoriques de la psychanalyse et des sciences sociales. Il se peut que les psychanalystes sous-estiment cette résistance du réel sociopolitique à être pensé dans la théorie psychanalytique ou à être travaillé dans la cure, et cela ferait aussi partie de leurs propres résistances au politique. Il se peut aussi qu’ils aient du mal à penser l‘historicité. Or, il y a une histoire du symbolique et aussi une histoire de ce qui fait traumatisme.</alinea>
+        </para>
+        <para>
+          <alinea>
+	Une autre limite de la théorie psychanalytique du politique, qui pourrait être dépassée si les analystes y travaillaient, concerne un certain nombre d’impensés. Par exemple, si Freud analyse les phénomènes d’autorité, d’influence, de violence, de guerre, on peut remarquer que ses travaux ne traitent pas (ou très à la marge) de la démocratie ou de l’égalité, de leurs pratiques, de leur imaginaire, des processus historiques de recul, d’avancées ou d’invention de la démocratie. La psychanalyse ne thématise pas non plus la place de la nature dans la psyché et dans les rapports humains. Ces dimensions  importantes de la vie en société et de la politique constituent des « trous » dans la théorie psychanalytique.</alinea>
+        </para>
+      </section2>
+      <section2>
+        <titre>
+          <marquage typemarq="italique"
+          >Pistes pour une politique de la psychanalyse</marquage></titre>
+        <para>
+          <alinea>
+	À l’issue de ces remarques concernant divers aspects des rapports de la psychanalyse avec le politique, je voudrais proposer quelques pistes qui concernent ce en quoi les psychanalystes ont une responsabilité historique dans les affaires de la cité.</alinea>
+        </para>
+        <para>
+          <alinea>
+	Cette responsabilité se déploie dans plusieurs domaines d’intervention et par le biais de plusieurs domaines de travail : la cure type, le champ culturel, le champ politique, le champ de la psychiatrie (notamment la psychothérapie institutionnelle et les psychothérapies psychanalytiques, mais aussi comme on le verra, d’autres pratiques possibles, en cours d’invention), l’intervention psychosociologique (au sens large du terme), les institutions analytiques, etc. Je parlerai ici surtout du champ sanitaire, sur lequel je travaille en tant que sociologue et où les confrontations entre la psychanalyse et le cognitivo-comportementalisme sont parfois rudes et figées.  </alinea>
+        </para>
+        <section3>
+          <titre><marquage typemarq="italique"
+            >1. Défendre la psychanalyse profane</marquage></titre>
+          <para>
+            <alinea>
+	Le maintien du mot de « guérison » dans le champ psychanalytique est audacieux et précieux, à une époque où les psychiatres du service public y renoncent, au profit du terme de « rétablissement » ou de « réhabilitation », abandonnant conjointement même le terme de « maladie » pour y substituer  le terme « handicap », glissant en partie sous l’influence d’approches gestionnaires et sous l’influence des associations de patients, à des conceptions déficitaires de la pathologie, passant à des options uniquement compensatrices au niveau de la prise en charge. Il parait utile que les psychanalystes décrivent la « guérison », l’aller mieux spécifique que peut produire la cure, par opposition aux effets des techniques comportementales.</alinea>
+          </para>
+          <para>
+            <alinea>
+	Il paraît aussi socialement utile que les psychanalystes continuent à défendre la modalité spécifique d’autonomie professionnelle des psychanalystes français. La psychanalyse française maintient un mode de professionnalisation basé sur la « performance » (au sens artistique du terme) et la reconnaissance des pairs et des clients sans régulation administrative spécifique. Un des indices en témoignant est la possibilité, rare en Europe, de pouvoir exercer en France comme psychanalyste sans être ni médecin, ni psychologue, ni même « psychothérapeute » et le fait qu’il n’y ait pas d’ordre professionnel à qui l’État aurait délégué la police interne du groupe. C’est là une possibilité précieuse, symboliquement et politiquement. Cela constitue une condition organisationnelle favorisante — sans que cela soit une garantie — pour le maintien d’une psychanalyse laïque, à l’éthique singulariste et non normative, non mise au service de la biopolitique et de la normalisation des conduites. Il vaudrait politiquement la peine de continuer à la préserver.</alinea>
+          </para>
+        </section3>
+        <section3>
+          <titre><marquage typemarq="italique"
+              >2 - Accepter que l’analyse du politique implique l’interdisciplinarité</marquage></titre>
+          <para>
+            <alinea>
+	Le deuxième principe que je propose aux psychanalystes, s’ils veulent penser le monde contemporain et poursuivre l’effort théorique freudien, est qu’ils acceptent la double historicité du Symbolique et du Réel traumatiques, et donc fassent le deuil d’une autonomie absolue de leurs objets de connaissance, autonomie absolue qui ne saurait être qu’imaginaire.</alinea>
+          </para>
+          <para>
+            <alinea>
+	Un psychanalyste se doit aujourd’hui d’être cultivé en sciences sociales (économie politique, sociologie, anthropologie, sciences politiques), et pas seulement en arts, en littérature et en mythologie comme le recommandait Freud. Les ressources de compréhension du monde social actuel se situent aussi du côté des sciences sociales chez Marx, Foucault, Bourdieu, Castel et du côté de la philosophie chez Derrida, Badiou, Gauchet, pour ne citer que les plus grands noms. Ces disciplines sont actives et productrices, y compris chez des auteurs moins connus du grand public, et il paraît plus intéressant de les lire dans le texte que dans les recyclages qu’en font les commentateurs, avec des approximations d’une part, et un important temps de décalage temporel d’autre part. Marx évoquait le processus de mondialisation en 1848, Robert Castel décrivait dès 1970 l’avènement du rapport techniciste et dépolitisé à la psychè. La déferlante des techniques de l’évaluation, le développement de la formalisation-standardisation des pratiques sociales, du nouveau management privé et public, de « l’évaluationnite », ont été documentés par les sociologues dès les années 1995<renvoi
+                idref="sdfootnote14sym" typeref="note"
+              >14</renvoi>, de même que le remplacement des fonctionnements aristocratiques ou de castes par des fonctionnements oligarchiques auxquels on donne le nom de démocratie. Tout cela aurait mérité, dès ce moment-là, des batailles d’idées ou des analyses dont les psychanalystes auraient pu être partie prenante.</alinea>
+          </para>
+          <para>
+            <alinea>
+	Je précise qu’il s’agirait bien pour les psychanalystes d’être cultivés en sciences sociales et non pas d’importer et d’appliquer des concepts en faisant des raccourcis abusifs ou des transplantations théoriques sans précaution. Mon propos n’est surtout pas de défendre une sociologisation de la clinique psychanalytique du politique, ni à l’inverse une coloration psychanalytique de la sociologie, mais une certaine pluridisciplinarité qui respecte les spécificités épistémologiques et pourrait se penser grâce aux distinctions éclairantes proposées par Lemieux<renvoi
+                idref="sdfootnote15sym" typeref="note"
+              >15</renvoi>, comme démarquationiste et conversioniste.</alinea>
+          </para>
+          <para>
+            <alinea>
+	Aujourd’hui, analyser et comprendre le passage à l’acte djihadiste implique de conjoindre les efforts d’analyse des sciences sociales et de la psychanalyse<renvoi
+                idref="sdfootnote16sym" typeref="note">16</renvoi>.</alinea>
+          </para>
+        </section3>
+        <section3>
+          <titre>
+            <marquage typemarq="italique"
+            >3 - Accepter les normes du débat scientifique </marquage></titre>
+          <para>
+            <alinea>
+	Par ailleurs, la fétichisation des concepts est un obstacle majeur aux avancées du travail théorique. Il me semble préférable que les psychanalystes prennent la plume en respectant les normes du débat scientifique : non-dogmatisme, égalité des membres (même si certains textes y font référence), pas de vérité établie, savoirs rectifiables, effort de construction cumulative des savoirs, lutte contre la fragmentation du champ, obligation de lire les travaux des collègues, obligation de réponse aux objections, interdiction du plagiat et obligation de citer les sources, effort pour inventer, travail collectif des questions cliniques, interdiction de parler (en tant qu’analystes, sinon en nom personnel) de ce qui n’est pas le domaine de compétence, défense des spécificités épistémologiques et méthodologiques du faire science à propos de la psychè, dialogue avec les autres disciplines, défense de l’autonomie de la profession, en alliance avec les chercheurs et les artistes. Cela me semble plus pertinent politiquement que le fantasme d’un discours propre pour lequel le titre d’analyste donnerait le billet d’entrée ou pour lequel l’acte politique et subversif initial de « s’autoriser de soi-même » donnerait  un brevet définitif  de position subversive.</alinea>
+          </para>
+          <para>
+            <alinea>
+	Je ne propose pas de sacraliser les normes du débat scientifique ni les normes scientifiques, mais de les instrumentaliser pragmatiquement. De même que la démocratie semble aujourd’hui à la citoyenne que je suis le moins mauvais des gouvernements, les normes du débat scientifique me semblent les moins mauvaises aujourd’hui pour permettre à la communauté analytique de soutenir son inventivité.</alinea>
+          </para>
+        </section3>
+        <section3>
+          <titre>
+            <marquage typemarq="italique"
+              >4 - Ne pas abandonner le champ de la santé mentale </marquage></titre>
+          <para>
+            <alinea>
+	Le champ de la « santé mentale » répugne aux psychanalystes, qui voient dans le passage du vocable « psychiatrie » à celui de « santé mentale<renvoi
+                idref="sdfootnote17sym" typeref="note"
+              >17</renvoi> », le symbole de la montée de l’esprit gestionnaire, de la volonté d’éviction de la psychanalyse hors du travail psychiatrique, de la fin d’un modèle professionnel où un grand nombre de psychiatres étaient psychanalystes et vice versa.</alinea>
+          </para>
+          <para>
+            <alinea>
+	Je vais défendre un point de vue hétérodoxe, en m’appuyant ici sur l’activité de recherche sociologique que je développe depuis une douzaine d’années sur et avec les services psychiatriques, pour que les psychanalystes ne se désintéressent pas des pratiques de santé mentale.</alinea>
+          </para>
+          <para>
+            <alinea>
+	Les transformations objectives de la psychiatrie publique ont abouti concrètement au déclin de l’hospitalisation (réduction du nombre de lits, passage à des hospitalisations courtes et éventuellement répétées), émergence d’un réseau de soins entre le social, le socioculturel, le médicosocial et le sanitaire, dont la coordination et la coopération sont fort inégales d’un territoire à l’autre, entrée des représentants des « usagers » à plusieurs niveaux de l’institution. Le paradigme dominant manifeste une contradiction entre une économie morale de l’« inclusion » et une inflation normative qui aboutit à médicaliser et pathologiser toute souffrance. Enfin et surtout, depuis la fin des années 70, l’économique et le budgétaire sont au poste de commande de la politique de santé. Du coup, la question de « soigner l’institution » dont s’était emparée la psychothérapie institutionnelle<renvoi
+                idref="sdfootnote18sym" typeref="note"
+              >18</renvoi>, doit logiquement s’élargir et devenir : comment les psychanalystes peuvent-ils contribuer à « soigner » l’institution de la santé mentale, ce dont elle a absolument besoin, donc à « soigner » les services psychiatriques offerts sur un territoire, nommés « soins dans la communauté » ou « soins dans la ville » (même si soigner l’hôpital est toujours pertinent).</alinea>
+          </para>
+          <para>
+            <alinea>
+	La politique de santé mentale en France se caractérise, outre sa crise permanente et son morcellement, par une série d’innovations cliniques et institutionnelles : les équipes mobiles de psychiatrie, les Groupes d’entraide mutuelle, l’expérimentation « Un chez soi d’abord », le programme Émilia de Maison-Blanche sur les patients formateurs, l’expérimentation des médiateurs pairs en santé mentale, de l’évaluation de laquelle j’ai été chargée, la création des ateliers Ville et santé mentale, des Conseils locaux de santé ou de santé mentale, les forums usagers-soignants dans les services. On pourrait y ajouter le cas des centres médico-psychologiques qui éclatent dans la ville dans des lieux ordinaires divers, ou les infirmiers accompagnent les patients dans les lieux socioculturels ou sportifs d’usage commun, ce qui relève d’une philosophie du soin bien différente du club thérapeutique. Les GEM et tous les groupes d’auto et d’intersoutien sans soignant, par pathologie (par exemple, les « groupes d’entendeurs de voix »), qui se développent également, relèvent eux aussi d’une logique institutionnelle spécifique.</alinea>
+          </para>
+          <para>
+            <alinea>
+	Pour les psychanalystes, s’attacher à « soigner » cette institution morcelée et plurielle, qui postule parfois que la vie sociale ordinaire peut être plus soignante que l’hospitalisation, n’est certes pas simple et demandera de l’imagination. Cela implique à priori de laisser de côté un certain hospitalocentrisme (s’intéresser surtout à l’hôpital), de renoncer au psychiatrocentrisme (accepter le rôle soignant du tissu socioculturel, accepter l’idée que peut-être ce qui soigne ne se résume pas au travail des psychiatres, infirmiers psy et psychologues de secteur public), et même de renoncer à un certain CMP-centrisme (dans lequel les psychologues se réfugient en tentant de continuer à faire vivre, parfois contre une certaine hostilité, une psychothérapie psychanalytique, à côté des interventions cognitivo-comportementalistes de plus en plus valorisées).</alinea>
+          </para>
+          <para>
+            <alinea>
+	Bref, il s’agirait de renoncer à un certain sectarisme qui ne verrait dans ces innovations qu’une application pure et simple du « modèle québécois » et des passions gestionnaires, néolibérales et autoritaires. Non que les compromissions de la politique de santé mentale actuelle ne soient pas réelles et qu’il ne soit pas pertinent de les critiquer, mais ces innovations ne s’y réduisent pas. Elles restent ouvertes idéologiquement, oscillant entre les préoccupations gestionnaires, des souvenirs de l’antipsychiatrie italienne des années 70, une fidélité à la philosophie du secteur, des pratiques de <marquage
+                typemarq="italique"
+                >care</marquage>, une éthique de l’exploration des ressources, le refus des violences faites aux malades, un humanisme soucieux du respect des personnes, des composantes libertaires dans la lutte contre des rapports de domination et un usage spontané d’un « petit » comportementalisme<renvoi
+                idref="sdfootnote19sym" typeref="note">19</renvoi>.</alinea>
+          </para>
+          <para>
+            <alinea>
+	La philosophie de ces innovations n’est en somme pas fixée, puisqu’elles sont réceptives aux luttes philosophiques, idéologiques et politiques. Elles ont besoin d’un regard critique et d’une écoute bienveillante, car les « usagers » de la psychiatrie y ont plus d’occasions d’expression possibles, que ce soit en entretien privé ou en prise de parole publique, que dans certains autres lieux de la psychiatrie. Les critiques formulées par les patients sur le système psychiatrique rejoignent celles que peuvent faire les psychanalystes sur les ravages de la procéduralisation et de la formalisation du travail relationnel. Une alliance est ici possible et nécessaire.</alinea>
+          </para>
+          <para>
+            <alinea>
+	La lutte idéologique et épistémologique est évidemment à mener dans ce champ contre la fascination du chiffre, de la « preuve », de la statistique, de la formalisation de l’informalisable, de la pulsion de cartographie et de généralité, des essais contrôlés randomisés. Contre ce scientisme, il faut rappeler la singularité des rencontres et des actes qui caractérisent toutes les professions de l’humain, la non pertinence d’une évaluation qui prétendrait mesurer les effets d’une pratique à court terme et selon les standards quantitatifs et théoriques de la recherche biomédicale, la valeur de la réflexivité pour les organisations et les professions, qui passe par la discussion collective travaillant les situations concrètes. L’intervention claire et critique, mais non sectaire, de la psychanalyse dans le débat public<renvoi
+                idref="sdfootnote20sym" typeref="note"
+              >20</renvoi> ainsi que, surtout, les investissements pratiques des psychanalystes dans le champ, selon les diverses pratiques et dispositifs qu’ils peuvent développer ou investir, sont indispensables pour que la politique de santé mentale moderne ne réduise pas sa politique des subjectivités à une modalité de contrôle social, par la conjonction entre une « psychologisation » généralisée des rapports sociaux et le privilège donné au dressage comportemental, à la lutte contre la déviance et au formatage des émotions et des conduites.</alinea>
+          </para>
+          <para>
+            <alinea>
+	L’efficacité de cette politique de la psychanalyse dans le champ de la santé mentale réclamait un certain ajustement pragmatique à l’époque. Certaines résistances frontales sont suicidaires. Or, l’époque se caractérise par le déclin de l’autonomie du politique par rapport à l‘économique. À moins d’escompter l’avènement proche d’un monde qui ne serait pas sous le règne de l’économisme, la psychanalyse ne peut esquiver la question de l’argent, des budgets, de ses parts de marché ou de l’évaluation comptable des politiques publiques. La psychanalyse peut argumenter qu’en matière de soulagement réel des symptômes douloureux et de mal-être existentiel, elle est finalement, tout bien considéré, « compétitive ». Cette prise en compte, dans le débat public, des contraintes budgétaires ne l’empêcherait pas par ailleurs de mener la lutte idéologique nécessaire contre l’économisme, ni de référer sa validité aux critères issus de son expérience plutôt qu’aux critères technicistes ou gestionnaires.</alinea>
+          </para>
+        </section3>
+      </section2>
+      <section2>
+        <titre><marquage typemarq="italique">Conclusion</marquage></titre>
+        <para>
+          <alinea>
 	Le double fait que la psychanalyse n’est pas politique dans son intention, mais l’est dans ses effets sociétaux, est parfois dénié ou oublié. Or, considérer que la psychanalyse n’est pas une vision politique du monde, ni une éthique n’empêche pas qu’elle ait des effets éthiques et politiques dans le monde, dans la civilisation, dans la production des subjectivités, donc une responsabilité historique, dont elle ne peut se dédouaner. J’ai proposé à la discussion quelques principes qui en tiennent compte, concernant quelques domaines où elle a, à côté d’autres pratiques cliniques et d’autres disciplines intellectuelles, une responsabilité dans les affaires de la cité et lui permettraient de contribuer à la théorisation du vivre ensemble et à l’invention de pratiques qui le soutiennent.</alinea>
-      </para>
-      <para>
-        <alinea>
+        </para>
+        <para>
+          <alinea>
 	Pour leur mise en œuvre, ces principes impliquent de surmonter quelques difficultés ou quelques impasses. Positivement, sur le plan pratique, il s’agirait de développer activement l’intervention dans de nombreux lieux du social, comme une des conditions du maintien de ses conditions d’exercice et de son autorité culturelle, en une participation lucide aux métiers de l’humain (gouverner, éduquer, soigner) et y nouer les alliances utiles. Il faudrait aussi développer la théorie du politique contemporain, en acceptant les normes du débat scientifique et la pluridisciplinarité, sur des objets jusqu’ici esquivés (comme le désir de démocratie et d’égalité ou le désir de nature) et en affrontant le défi de l’historicité.</alinea>
-      </para>
-      <para>
-        <alinea>
+        </para>
+        <para>
+          <alinea>
 	Cependant, analyser sa propre influence sociopolitique ‒ ce qui est considérable ‒ impliquerait pour la théorie psychanalytique de repérer ses formes particulières et paradoxales de « résistance » au politique, dont j’ai mentionné deux risques, la dépolitisation et la politisation inavouée. Il s’agirait donc de déconstruire la résistance de la psychanalyse à penser son hétéronomie partielle. En effet, l’« idéal » de la psychanalyse comme théorie est, dans un certain nombre de textes, son autonomie radicale et sa pureté absolue, en refoulant sa perméabilité au sociétal, au politique. Selon cet idéal, la psychanalyse se représente alors à elle-même comme une pratique sociale absolument à part, radicalement étrangère, extraterritoriale, d’une autre essence que d’autres pratiques sociales, ce qu’elle est, certainement. Mais aussi, en même temps, c’est une pratique sociale comme une autre, influencée par les idéologies politiques ou politico-religieuses anciennes (le respect des hiérarchies), nouvelles (l’individualisme, la dépolitisation, le repli sur la sphère privée) ou organisationnelles (le travail artisanal) et, en tant que telle, elle peut et doit se prendre elle-même comme objet de sa propre théorie. C’est justement « cette part d’hétéronomie », ce « refoulé », qui est en permanence (périodiquement, à chaque période historique, et pour tout un chacun) à repenser et à réanalyser pour que la psychanalyse garde son caractère subversif, son étrangeté radicale et son autonomie.</alinea>
-      </para>
+        </para>
       </section2>
     </section1>
   </corps>
@@ -277,7 +343,16 @@
       <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
-          Cf. Jean-Marie Sauret, <marquage typemarq="italique">Psychanalyse et politique</marquage>, Toulouse, PUM, 2000, 205 p. ; Jacques-Alain Miller, <marquage typemarq="italique">Lacan et la politique</marquage>, Cités, Paris, Presses universitaires de France, 2003, 192 p. ; Claude Lévesque et René Major, « Politique et psychanalyse », <marquage typemarq="italique">Spirale</marquage>, n° 226, 2009, p. 18-24 ; Franck Chaumon, « Sujet de l’inconscient, subjectivité politique », <marquage typemarq="italique">Essaim</marquage> 1/2009 n° 22, p. 7-22 ; Sophie Aouillé, Pierre Bruno, Franck Chaumont, Guy Lerès, Michel Plon et Erik Porge, <marquage typemarq="italique">Manifeste pour la psychanalyse,</marquage> Paris, Éditions La Fabrique, 2010, 158 p.</alinea>
+          Cf. Jean-Marie Sauret, <marquage typemarq="italique"
+            >Psychanalyse et politique</marquage>, Toulouse, PUM, 2000, 205 p. ; Jacques-Alain Miller, <marquage
+            typemarq="italique"
+            >Lacan et la politique</marquage>, Cités, Paris, Presses universitaires de France, 2003, 192 p. ; Claude Lévesque et René Major, « Politique et psychanalyse », <marquage
+            typemarq="italique"
+            >Spirale</marquage>, n° 226, 2009, p. 18-24 ; Franck Chaumon, « Sujet de l’inconscient, subjectivité politique », <marquage
+            typemarq="italique"
+            >Essaim</marquage> 1/2009 n° 22, p. 7-22 ; Sophie Aouillé, Pierre Bruno, Franck Chaumont, Guy Lerès, Michel Plon et Erik Porge, <marquage
+            typemarq="italique"
+          >Manifeste pour la psychanalyse,</marquage> Paris, Éditions La Fabrique, 2010, 158 p.</alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>
@@ -287,22 +362,29 @@
       <note id="sdfootnote4sym">
         <no>4</no>
         <alinea>
-          Cf. Samuel Lézé, <marquage typemarq="italique">L’autorité des psychanalystes,</marquage> Paris, Presses universitaires de France, 2010, 216 p.</alinea>
+          Cf. Samuel Lézé, <marquage typemarq="italique"
+            >L’autorité des psychanalystes,</marquage> Paris, Presses universitaires de France, 2010, 216 p.</alinea>
       </note>
       <note id="sdfootnote5sym">
         <no>5</no>
         <alinea>
-          Michel Foucault, <marquage typemarq="italique">Histoire de la sexualité. I. La volonté de savoir, </marquage>Paris, Gallimard, 1976, 211 p.</alinea>
+          Michel Foucault, <marquage typemarq="italique"
+            >Histoire de la sexualité. I. La volonté de savoir, </marquage>Paris, Gallimard, 1976, 211 p.</alinea>
       </note>
       <note id="sdfootnote6sym">
         <no>6</no>
         <alinea>
-          Robert Castel <marquage typemarq="italique">La gestion des risques, de l’antipsychiatrie à l’après psychanalyse</marquage>, Paris, Éditions de Minuit, 1981, (2 édition 2011), 222 p.</alinea>
+          Robert Castel <marquage typemarq="italique"
+            >La gestion des risques, de l’antipsychiatrie à l’après psychanalyse</marquage>, Paris, Éditions de Minuit, 1981, (2 édition 2011), 222 p.</alinea>
       </note>
       <note id="sdfootnote7sym">
         <no>7</no>
         <alinea>
-          Sigmund Freud, « L’analyse avec fin et l’analyse sans fin », <marquage typemarq="italique">Résultats, idées, problèmes,</marquage> vol. II, Paris, PUF, 1985 (1937). Pour la manière dont la cure peut mettre en mouvement la vie professionnelle de l’analysant en lui permettant de choisir la sublimation, Cf. Lise Demailly, 2011, « Sublimations ordinaires et savoir y faire avec le symptôme », <marquage typemarq="italique">Cliniques méditerranéennes</marquage> <marquage typemarq="italique">2</marquage> (n° 84) p. 155-168.</alinea>
+          Sigmund Freud, « L’analyse avec fin et l’analyse sans fin », <marquage
+            typemarq="italique"
+            >Résultats, idées, problèmes,</marquage> vol. II, Paris, PUF, 1985 (1937). Pour la manière dont la cure peut mettre en mouvement la vie professionnelle de l’analysant en lui permettant de choisir la sublimation, Cf. Lise Demailly, 2011, « Sublimations ordinaires et savoir y faire avec le symptôme », <marquage
+            typemarq="italique">Cliniques méditerranéennes</marquage> <marquage typemarq="italique"
+            >2</marquage> (n° 84) p. 155-168.</alinea>
       </note>
       <note id="sdfootnote8sym">
         <no>8</no>
@@ -312,28 +394,41 @@
       <note id="sdfootnote9sym">
         <no>9</no>
         <alinea>
-          Slavoj Zizek, <marquage typemarq="italique">L’inconscient, c’est la politique,</marquage> Conférence à l’Université de Leeds le 23 mars 2011, <liensimple xlink:type="simple" xlink:href="http://www.lacanquotidien.fr/blog/2011/08/zizek-linconscient-cest-la-politique/">http://www.lacanquotidien.fr/blog/2011/08/zizek-linconscient-cest-la-politique/</liensimple>
+          Slavoj Zizek, <marquage typemarq="italique"
+            >L’inconscient, c’est la politique,</marquage> Conférence à l’Université de Leeds le 23 mars 2011, <liensimple
+            xlink:type="simple"
+            xlink:href="http://www.lacanquotidien.fr/blog/2011/08/zizek-linconscient-cest-la-politique/"
+            >http://www.lacanquotidien.fr/blog/2011/08/zizek-linconscient-cest-la-politique/</liensimple>
         </alinea>
       </note>
       <note id="sdfootnote10sym">
         <no>10</no>
         <alinea>
-          Bruno Perreau, « Faut-il brûler Legendre ? La fable du péril symbolique et de la police familiale », <marquage typemarq="italique">Vacarme</marquage> <marquage typemarq="italique">25</marquage>, 2003.</alinea>
+          Bruno Perreau, « Faut-il brûler Legendre ? La fable du péril symbolique et de la police familiale », <marquage
+            typemarq="italique">Vacarme</marquage>
+          <marquage typemarq="italique">25</marquage>, 2003.</alinea>
       </note>
       <note id="sdfootnote11sym">
         <no>11</no>
         <alinea>
-          Christian Demoulin, <marquage typemarq="italique">Se passer du père ?, </marquage> Collection Humus, Toulouse, Éditions Érès, 2009, 224 p.</alinea>
+          Christian Demoulin, <marquage typemarq="italique"
+            >Se passer du père ?, </marquage> Collection Humus, Toulouse, Éditions Érès, 2009, 224 p.</alinea>
       </note>
       <note id="sdfootnote12sym">
         <no>12</no>
         <alinea>
-          Cornelius Castoriadis, « La psychanalyse, projet et élucidation », dans <marquage typemarq="italique">Les Carrefours du labyrinthe</marquage>, Le Seuil, 1978 ; Jean Cooren, <marquage typemarq="italique">Autre pourrait être le monde</marquage>, Paris, Hermann, 2015, 166 p.</alinea>
+          Cornelius Castoriadis, « La psychanalyse, projet et élucidation », dans <marquage
+            typemarq="italique"
+            >Les Carrefours du labyrinthe</marquage>, Le Seuil, 1978 ; Jean Cooren, <marquage
+            typemarq="italique"
+          >Autre pourrait être le monde</marquage>, Paris, Hermann, 2015, 166 p.</alinea>
       </note>
       <note id="sdfootnote13sym">
         <no>13</no>
         <alinea>
-          Tout particulièrement Zaltzman.  Cf.  Nathalie Zaltzman, <marquage typemarq="italique">L’esprit du Mal,</marquage> Paris, Éditions de l’Olivier, 2007, 112 p.</alinea>
+          Tout particulièrement Zaltzman.  Cf.  Nathalie Zaltzman, <marquage
+            typemarq="italique"
+          >L’esprit du Mal,</marquage> Paris, Éditions de l’Olivier, 2007, 112 p.</alinea>
       </note>
       <note id="sdfootnote14sym">
         <no>14</no>
@@ -343,33 +438,47 @@
       <note id="sdfootnote15sym">
         <no>15</no>
         <alinea>
-          Cyril Lemieux, « Philosophie et sociologie : le prix du passage », dans <marquage typemarq="italique">Sociologie</marquage> 2/2012 (Vol. 3), p. 199-209. Il y propose trois modes d’articulation.  Le premier mode d’articulation entre disciplines, le démarcationnisme, prône le maintien d’une stricte étanchéité au nom de l’incompatibilité de leurs épistémologies respectives. Le deuxième, l’intégrationnisme, présuppose qu’il n’existe pas de véritable solution de continuité et qu’il est justifié, par conséquent, d’unifier en un seul discours leurs apports. Le troisième, le conversionnisme, consiste à autoriser l’emprunt de concepts et de schèmes de raisonnement à la condition expresse d’en payer le prix, c’est-à-dire de faire l’effort de les retraduire.</alinea>
+          Cyril Lemieux, « Philosophie et sociologie : le prix du passage », dans <marquage
+            typemarq="italique"
+          >Sociologie</marquage> 2/2012 (Vol. 3), p. 199-209. Il y propose trois modes d’articulation.  Le premier mode d’articulation entre disciplines, le démarcationnisme, prône le maintien d’une stricte étanchéité au nom de l’incompatibilité de leurs épistémologies respectives. Le deuxième, l’intégrationnisme, présuppose qu’il n’existe pas de véritable solution de continuité et qu’il est justifié, par conséquent, d’unifier en un seul discours leurs apports. Le troisième, le conversionnisme, consiste à autoriser l’emprunt de concepts et de schèmes de raisonnement à la condition expresse d’en payer le prix, c’est-à-dire de faire l’effort de les retraduire.</alinea>
       </note>
       <note id="sdfootnote16sym">
         <no>16</no>
         <alinea>
-          Cette démarche est approchée dans les travaux de Fethi Benslama. Cf. Fethi Benslama, <marquage typemarq="italique">L’idéal et la cruauté, subjectivité et politique de la radicalisation</marquage>, Fécamp, Éditions Lignes, 2015, 208 p.</alinea>
+          Cette démarche est approchée dans les travaux de Fethi Benslama. Cf. Fethi Benslama, <marquage
+            typemarq="italique"
+            >L’idéal et la cruauté, subjectivité et politique de la radicalisation</marquage>, Fécamp, Éditions Lignes, 2015, 208 p.</alinea>
       </note>
       <note id="sdfootnote17sym">
         <no>17</no>
         <alinea>
-          Mathieu<marquage typemarq="gras"> </marquage>Bellahsen<marquage typemarq="gras">, </marquage>
-          <marquage typemarq="italique">La santé mentale. Vers un bonheur sous contrôle</marquage>, Paris, La Fabrique, 2014, 186 p.</alinea>
+          Mathieu<marquage typemarq="gras"> </marquage>Bellahsen<marquage
+            typemarq="gras">, </marquage>
+          <marquage typemarq="italique"
+          >La santé mentale. Vers un bonheur sous contrôle</marquage>, Paris, La Fabrique, 2014, 186 p.</alinea>
       </note>
       <note id="sdfootnote18sym">
         <no>18</no>
         <alinea>
-          Jean Oury et Patrick Faugeras, <marquage typemarq="italique">Préalables à toute clinique des psychoses</marquage>, Paris, Éditions Érès, 2013, 256 p.</alinea>
+          Jean Oury et Patrick Faugeras, <marquage typemarq="italique"
+            >Préalables à toute clinique des psychoses</marquage>, Paris, Éditions Érès, 2013, 256 p.</alinea>
       </note>
       <note id="sdfootnote19sym">
         <no>19</no>
         <alinea>
-          Lise Demailly, Nadia Garnoussi, « Le savoir-faire des médiateurs de santé pairs en santé mentale, entre expérience, technique et style », <marquage typemarq="italique">Sciences et actions sociales</marquage> [en ligne], N° 1, 16 avril 2015, <liensimple xlink:type="simple" xlink:href="http://www.sas-revue.org/index.php/12-dossiers-n-1/18-le-savoir-faire-des-mediateurs-de-sante-pairs-en-sante-mentale-entre-experience-technique-et-style">http://www.sas-revue.org/index.php/12-dossiers-n-1/18-le-savoir-faire-des-mediateurs-de-sante-pairs-en-sante-mentale-entre-experience-technique-et-style</liensimple>.</alinea>
+          Lise Demailly, Nadia Garnoussi, « Le savoir-faire des médiateurs de santé pairs en santé mentale, entre expérience, technique et style », <marquage
+            typemarq="italique"
+            >Sciences et actions sociales</marquage> [en ligne], N° 1, 16 avril 2015, <liensimple
+            xlink:type="simple"
+            xlink:href="http://www.sas-revue.org/index.php/12-dossiers-n-1/18-le-savoir-faire-des-mediateurs-de-sante-pairs-en-sante-mentale-entre-experience-technique-et-style"
+            >http://www.sas-revue.org/index.php/12-dossiers-n-1/18-le-savoir-faire-des-mediateurs-de-sante-pairs-en-sante-mentale-entre-experience-technique-et-style</liensimple>.</alinea>
       </note>
       <note id="sdfootnote20sym">
         <no>20</no>
         <alinea>
-          Par exemple, l’intervention de Patrick Chemla « La guérison au sens de la psychanalyse, un enjeu paradoxal » dans Lise Demailly et Nadia Garnoussi,  <marquage typemarq="italique">Aller mieux, approches sociologiques</marquage>, Lille, Presses du septentrion, à paraître en juin 2016.</alinea>
+          Par exemple, l’intervention de Patrick Chemla « La guérison au sens de la psychanalyse, un enjeu paradoxal » dans Lise Demailly et Nadia Garnoussi,  <marquage
+            typemarq="italique"
+          >Aller mieux, approches sociologiques</marquage>, Lille, Presses du septentrion, à paraître en juin 2016.</alinea>
       </note>
     </grnote>
   </partiesann>

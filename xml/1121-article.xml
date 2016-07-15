@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028817ar" typeart="autre" lang="fr" ordseq="1">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article"
+  xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd"
+  qualtraitement="complet" idproprio="1028817ar" typeart="autre" lang="fr" ordseq="1">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -105,23 +108,60 @@
       </para>
       <para>
         <alinea>
-	Dans les années 2000, en cooccurrence avec l’émergence des technologies informatiques, est apparu un programme de recherche original et novateur habilement appelé les <marquage typemarq="italique">Digital Humanities</marquage>. Pour le monde anglophone, ce nom orientait des recherches dans une voie plus générale que ne le faisait la dénomination antérieure de <marquage typemarq="italique">Computers and the Humaniti</marquage>es. Dans le monde francophone, l’expression anglaise, traduite par l’expression « les <marquage typemarq="italique">humanités</marquage> <marquage typemarq="italique">numériques</marquage> » est plus récente et n’est pas sans poser des questions, non pas relativement au qualitatif « digital », mais plutôt au substantif « humanités ». Comme on le sait ces termes <marquage typemarq="italique">humanités</marquage> et les <marquage typemarq="italique">humanities</marquage> ne couvrent pas les mêmes territoires disciplinaires dans les deux langues. En anglais : <marquage typemarq="italique">humanities</marquage> est un terme traditionnel pour couvrir une partie de l’ensemble complémentaire des sciences dites « dures ». Il touchera surtout les sciences liées à la culture telles la sociologie, l’anthropologie culturelle, les sciences du langage, le droit, les pratiques artistiques (musique, théatre, peinture, danse) la philosophie critique, la littérature, et même le journalisme et le cinéma. Dans une acception plus précise, les <marquage typemarq="italique">humanities</marquage> couvriront les arts, les lettres, les media mais incluront plusieurs disciplines en sciences humaines critiques, par exemple la sociologie, la philosophie, etc.</alinea>
+	Dans les années 2000, en cooccurrence avec l’émergence des technologies informatiques, est apparu un programme de recherche original et novateur habilement appelé les <marquage
+            typemarq="italique"
+            >Digital Humanities</marquage>. Pour le monde anglophone, ce nom orientait des recherches dans une voie plus générale que ne le faisait la dénomination antérieure de <marquage
+            typemarq="italique"
+            >Computers and the Humaniti</marquage>es. Dans le monde francophone, l’expression anglaise, traduite par l’expression « les <marquage
+            typemarq="italique">humanités</marquage>
+          <marquage typemarq="italique"
+            >numériques</marquage> » est plus récente et n’est pas sans poser des questions, non pas relativement au qualitatif « digital », mais plutôt au substantif « humanités ». Comme on le sait ces termes <marquage
+            typemarq="italique">humanités</marquage> et les <marquage typemarq="italique"
+            >humanities</marquage> ne couvrent pas les mêmes territoires disciplinaires dans les deux langues. En anglais : <marquage
+            typemarq="italique"
+            >humanities</marquage> est un terme traditionnel pour couvrir une partie de l’ensemble complémentaire des sciences dites « dures ». Il touchera surtout les sciences liées à la culture telles la sociologie, l’anthropologie culturelle, les sciences du langage, le droit, les pratiques artistiques (musique, théatre, peinture, danse) la philosophie critique, la littérature, et même le journalisme et le cinéma. Dans une acception plus précise, les <marquage
+            typemarq="italique"
+          >humanities</marquage> couvriront les arts, les lettres, les media mais incluront plusieurs disciplines en sciences humaines critiques, par exemple la sociologie, la philosophie, etc.</alinea>
       </para>
       <para>
         <alinea>
-	Dans le monde francophone, italien, espagnol, les <marquage typemarq="italique">humanités </marquage>désignent généralement plus une tradition intellectuelle et même éthique de type <marquage typemarq="italique">humaniste</marquage> d’inspiration érasmienne qu’un champ disciplinaire universitaire.</alinea>
+	Dans le monde francophone, italien, espagnol, les <marquage typemarq="italique"
+            >humanités </marquage>désignent généralement plus une tradition intellectuelle et même éthique de type <marquage
+            typemarq="italique"
+          >humaniste</marquage> d’inspiration érasmienne qu’un champ disciplinaire universitaire.</alinea>
       </para>
       <para>
         <alinea>
-	On accepte cependant de plus en plus le recouvrement des deux extensions de ces termes <marquage typemarq="italique">Humanities </marquage>et <marquage typemarq="italique">Humanités</marquage>, surtout si on accole les qualificatifs <marquage typemarq="italique">digital </marquage>au premier et <marquage typemarq="italique">numérique</marquage> au second. Aux fins de notre analyse, nous admettrons ici ce néologisme des <marquage typemarq="italique">humanités numériques</marquage> et de <marquage typemarq="italique">digital</marquage> <marquage typemarq="italique">humanities. </marquage>Notre analyse de ce territoire ne portera pas sur la pratique effective qu’on peut trouver dans les diverses disciplines académiques<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>. Notre objectif est plutôt conceptuel. Nous interrogeons non pas les termes humanities ou humanities mais ce que signifie théoriquement les qualificatifs de <marquage typemarq="italique">numérique</marquage> et de <marquage typemarq="italique">digital </marquage>lorsqu’ils sont appliqués <marquage typemarq="italique">aux Humanities et aux Humanités. </marquage>Nous demanderons si la propriété d’être numérique est ce qui caractérise le mieux ce programme de recherche que sont les <marquage typemarq="italique">humanités</marquage> <marquage typemarq="italique">numériques</marquage> ou les <marquage typemarq="italique">digital humanities</marquage>. Et nous chercherons à voir en quoi ces concepts de <marquage typemarq="italique">numérique/digital</marquage> se distinguent de celui de computationnalité et quels sont les enjeux herméneutiques qui en découlent.</alinea>
+	On accepte cependant de plus en plus le recouvrement des deux extensions de ces termes <marquage
+            typemarq="italique">Humanities </marquage>et <marquage typemarq="italique"
+            >Humanités</marquage>, surtout si on accole les qualificatifs <marquage
+            typemarq="italique">digital </marquage>au premier et <marquage typemarq="italique"
+            >numérique</marquage> au second. Aux fins de notre analyse, nous admettrons ici ce néologisme des <marquage
+            typemarq="italique">humanités numériques</marquage> et de <marquage typemarq="italique"
+            >digital</marquage>
+          <marquage typemarq="italique"
+            >humanities. </marquage>Notre analyse de ce territoire ne portera pas sur la pratique effective qu’on peut trouver dans les diverses disciplines académiques<renvoi
+            idref="sdfootnote1sym" typeref="note"
+            >1</renvoi>. Notre objectif est plutôt conceptuel. Nous interrogeons non pas les termes humanities ou humanities mais ce que signifie théoriquement les qualificatifs de <marquage
+            typemarq="italique">numérique</marquage> et de <marquage typemarq="italique"
+            >digital </marquage>lorsqu’ils sont appliqués <marquage typemarq="italique"
+            >aux Humanities et aux Humanités. </marquage>Nous demanderons si la propriété d’être numérique est ce qui caractérise le mieux ce programme de recherche que sont les <marquage
+            typemarq="italique">humanités</marquage>
+          <marquage typemarq="italique">numériques</marquage> ou les <marquage typemarq="italique"
+            >digital humanities</marquage>. Et nous chercherons à voir en quoi ces concepts de <marquage
+            typemarq="italique"
+          >numérique/digital</marquage> se distinguent de celui de computationnalité et quels sont les enjeux herméneutiques qui en découlent.</alinea>
       </para>
       <para>
         <alinea>
-	Commençons par analyser quelques définitions prototypiques de ces termes h<marquage typemarq="italique">umanités/numériques ou digital humanities. </marquage>Une première définition nous est donnée par le centre de recherche de Digital Humanities de l’Université d’Oxford:</alinea>
+	Commençons par analyser quelques définitions prototypiques de ces termes h<marquage
+            typemarq="italique"
+          >umanités/numériques ou digital humanities. </marquage>Une première définition nous est donnée par le centre de recherche de Digital Humanities de l’Université d’Oxford:</alinea>
       </para>
       <para>
         <alinea>
-	By digital humanities, we mean research that uses information technology as a central part of its methodology, for creating and/or processing data…The use of the term digital Humanities] reflects a growing sense of the importance that digital tools and resources now have for humanities subjects<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi>.</alinea>
+	By digital humanities, we mean research that uses information technology as a central part of its methodology, for creating and/or processing data…The use of the term digital Humanities] reflects a growing sense of the importance that digital tools and resources now have for humanities subjects<renvoi
+            idref="sdfootnote2sym" typeref="note">2</renvoi>.</alinea>
       </para>
       <para>
         <alinea>
@@ -137,7 +177,17 @@
       </para>
       <para>
         <alinea>
-	Malgré des variantes, toutes ces définitions interprètent le digital et le numérique en termes de relation/médiation à un <marquage typemarq="italique">outil technologique </marquage>c’est-à-dire l’ordinateur ou le « computer ». Cependant, ces définitions s’intéressent plus aux impacts culturels et humains de cette technologie qu’à l’analyse technique des liens entre le numérique, la « technologie informatique » et la théorie de la computation qui lui est sous-jacente. On suppose ces liens connus du lecteur<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>. Mais comme on le verra, ceux-ci ne sont pas aussi si limpides qu’ils le semblent. Sur ce point, il est intéressant de noter qu’avant l’apparition de ces expressions <marquage typemarq="italique">Digital/Humanities ou Humanités numériques</marquage>, le territoire de recherche était nommé autrement. Par exemple, le Père De Busa ne parlait pas dans ses écrits de <marquage typemarq="italique">Digital humanities</marquage> mais bien de humanities <marquage typemarq="italique">computing. </marquage>Mais il interprétait ce <marquage typemarq="italique">computing</marquage> en termes d’automatisation de toutes les analyses des expressions humaines : </alinea>
+	Malgré des variantes, toutes ces définitions interprètent le digital et le numérique en termes de relation/médiation à un <marquage
+            typemarq="italique"
+            >outil technologique </marquage>c’est-à-dire l’ordinateur ou le « computer ». Cependant, ces définitions s’intéressent plus aux impacts culturels et humains de cette technologie qu’à l’analyse technique des liens entre le numérique, la « technologie informatique » et la théorie de la computation qui lui est sous-jacente. On suppose ces liens connus du lecteur<renvoi
+            idref="sdfootnote3sym" typeref="note"
+            >3</renvoi>. Mais comme on le verra, ceux-ci ne sont pas aussi si limpides qu’ils le semblent. Sur ce point, il est intéressant de noter qu’avant l’apparition de ces expressions <marquage
+            typemarq="italique"
+            >Digital/Humanities ou Humanités numériques</marquage>, le territoire de recherche était nommé autrement. Par exemple, le Père De Busa ne parlait pas dans ses écrits de <marquage
+            typemarq="italique">Digital humanities</marquage> mais bien de humanities <marquage
+            typemarq="italique">computing. </marquage>Mais il interprétait ce <marquage
+            typemarq="italique"
+          >computing</marquage> en termes d’automatisation de toutes les analyses des expressions humaines : </alinea>
       </para>
       <para>
         <alinea>
@@ -145,17 +195,32 @@
       </para>
       <para>
         <alinea>
-	Pour Mc Carthy (2008), l’un des artisans importants de l’émergence des Humanités numériques, ces définitions qui voient les DH comme : <marquage typemarq="italique">the application of the computer to the disciplines of the humanities, </marquage>sont trop générales. En fait, elles réduisent le numérique à de la technologie en focalisant l’attention sur la portée de celle-ci dans la culture ou dans toutes les expressions des activités humaines. Et pour lui, ces types de définition masquent le rôle effectif de l’ordinateur. Rôle qui ne réside pas dans des opérations numériques mais bien dans une médiation épistémique, à savoir : être une machine modélisante qui intervient entre un sujet cognitif et le monde : « <marquage typemarq="italique">Computers are essentially modeling machines, not knowledge jukeboxes  </marquage>»<marquage typemarq="italique"> (Mc Carthy, 2008 : chap. 19, p. 2). </marquage>
+	Pour Mc Carthy (2008), l’un des artisans importants de l’émergence des Humanités numériques, ces définitions qui voient les DH comme : <marquage
+            typemarq="italique"
+            >the application of the computer to the disciplines of the humanities, </marquage>sont trop générales. En fait, elles réduisent le numérique à de la technologie en focalisant l’attention sur la portée de celle-ci dans la culture ou dans toutes les expressions des activités humaines. Et pour lui, ces types de définition masquent le rôle effectif de l’ordinateur. Rôle qui ne réside pas dans des opérations numériques mais bien dans une médiation épistémique, à savoir : être une machine modélisante qui intervient entre un sujet cognitif et le monde : « <marquage
+            typemarq="italique"
+            >Computers are essentially modeling machines, not knowledge jukeboxes  </marquage>»<marquage
+            typemarq="italique"> (Mc Carthy, 2008 : chap. 19, p. 2). </marquage>
         </alinea>
       </para>
       <para>
         <alinea>
-	Nous partageons cette vision (Meunier, 2009). Tout comme bien d’autres technologies (par exemple, la photographie, le cinéma, le livre, etc.) l’ordinateur sert dans l’interaction cognitive et pratique d’un agent cognitif humain avec le monde et elle affecte sa culture et son environnement. Mais encore faut-il préciser davantage le type particulier de médiation qui est réalisée. Pour Mc Carthy, cette médiation de l’ordinateur en est une de précision <marquage typemarq="italique">mécanique</marquage> interne propre à une modélisation computationnelle : « <marquage typemarq="italique">the mechanical precision of the computational model</marquage>
-          <marquage typemarq="italique"> </marquage>». Et c’est à ce type de modélisation qu’il donne une finalité épistémique et épistémologique. L’ordinateur devient un outil de perception et un instrument de pensée : «<marquage typemarq="italique"> </marquage>
+	Nous partageons cette vision (Meunier, 2009). Tout comme bien d’autres technologies (par exemple, la photographie, le cinéma, le livre, etc.) l’ordinateur sert dans l’interaction cognitive et pratique d’un agent cognitif humain avec le monde et elle affecte sa culture et son environnement. Mais encore faut-il préciser davantage le type particulier de médiation qui est réalisée. Pour Mc Carthy, cette médiation de l’ordinateur en est une de précision <marquage
+            typemarq="italique"
+            >mécanique</marquage> interne propre à une modélisation computationnelle : « <marquage
+            typemarq="italique">the mechanical precision of the computational model</marquage>
+          <marquage typemarq="italique"
+            > </marquage>». Et c’est à ce type de modélisation qu’il donne une finalité épistémique et épistémologique. L’ordinateur devient un outil de perception et un instrument de pensée : «<marquage
+            typemarq="italique"> </marquage>
           <marquage typemarq="italique">an agent of perception and instrument of thought</marquage>
-          <marquage typemarq="italique"> </marquage>»<marquage typemarq="italique">. </marquage>Il permet de traduire des données originelles souvent imprécises en des données évidentes et renouvelantes :“ <marquage typemarq="italique">the flawless precision of the machine makes mechanically imprecise data obvious and obviously’</marquage>
+          <marquage typemarq="italique"> </marquage>»<marquage typemarq="italique"
+            >. </marquage>Il permet de traduire des données originelles souvent imprécises en des données évidentes et renouvelantes :“ <marquage
+            typemarq="italique"
+            >the flawless precision of the machine makes mechanically imprecise data obvious and obviously’</marquage>
           <marquage typemarq="italique"> </marquage>
-          <marquage typemarq="italique">. </marquage>Cependant ces notions de <marquage typemarq="italique">mécanisme</marquage> et de <marquage typemarq="italique">computation</marquage> sont peu définies. Elles sont de fait des notions complexes et appartiennent au fondement des mathématiques et de l’informatique. Et il nous apparait nécessaire de les expliciter davantage surtout dans le cadre de leur application aux humanités.</alinea>
+          <marquage typemarq="italique">. </marquage>Cependant ces notions de <marquage
+            typemarq="italique">mécanisme</marquage> et de <marquage typemarq="italique"
+            >computation</marquage> sont peu définies. Elles sont de fait des notions complexes et appartiennent au fondement des mathématiques et de l’informatique. Et il nous apparait nécessaire de les expliciter davantage surtout dans le cadre de leur application aux humanités.</alinea>
       </para>
     </section1>
     <section1>
@@ -167,11 +232,27 @@
       </para>
       <para>
         <alinea>
-	Une première sera dite <marquage typemarq="italique">intentionnelle </marquage>ou <marquage typemarq="italique">représentationnelle</marquage>. Elle visera à identifier dans un domaine quelconque, les artefacts et les tâches ou pratiques qui y sont effectuées. Mais cette identification sera faite en regard de l’observation et de la compréhension qu’en ont les utilisateurs, les spécialistes ou les experts. Et l’explication qu’on en donnera en appellera à des concepts issus du discours ordinaire tels par exemple ceux de <marquage typemarq="italique">représentations</marquage> et d’<marquage typemarq="italique">intention</marquage>. Une deuxième modélisation, appelée <marquage typemarq="italique">fonctionnelle, </marquage>traduira les objets et tâches décrits dans le premier modèle en termes d’intrant et de <marquage typemarq="italique">fonctions. </marquage>Les fonctions posséderont cependant une propriété mathématique très spécifique à savoir, être <marquage typemarq="italique">computables. </marquage>Enfin, la troisième modélisation dite <marquage typemarq="italique">physique ou matérielle</marquage> présentera les <marquage typemarq="italique">mécanismes</marquage> physiques qui sous-tendent la réalisation de ces fonctions computables. En informatique, ces mécanismes seront ceux d’une machine physique de type électronique communément appelé : un ordinateur.</alinea>
+	Une première sera dite <marquage typemarq="italique"
+            >intentionnelle </marquage>ou <marquage typemarq="italique"
+            >représentationnelle</marquage>. Elle visera à identifier dans un domaine quelconque, les artefacts et les tâches ou pratiques qui y sont effectuées. Mais cette identification sera faite en regard de l’observation et de la compréhension qu’en ont les utilisateurs, les spécialistes ou les experts. Et l’explication qu’on en donnera en appellera à des concepts issus du discours ordinaire tels par exemple ceux de <marquage
+            typemarq="italique">représentations</marquage> et d’<marquage typemarq="italique"
+            >intention</marquage>. Une deuxième modélisation, appelée <marquage typemarq="italique"
+            >fonctionnelle, </marquage>traduira les objets et tâches décrits dans le premier modèle en termes d’intrant et de <marquage
+            typemarq="italique"
+            >fonctions. </marquage>Les fonctions posséderont cependant une propriété mathématique très spécifique à savoir, être <marquage
+            typemarq="italique"
+            >computables. </marquage>Enfin, la troisième modélisation dite <marquage
+            typemarq="italique">physique ou matérielle</marquage> présentera les <marquage
+            typemarq="italique"
+          >mécanismes</marquage> physiques qui sous-tendent la réalisation de ces fonctions computables. En informatique, ces mécanismes seront ceux d’une machine physique de type électronique communément appelé : un ordinateur.</alinea>
       </para>
       <para>
         <alinea>
-	Pour illustrer l’interrelation entre ces trois modèles, nous prendrons ici l’exemple de la version électronique du jeu de tic-tac-toe. Pour expliquer comment ordinateur peut jouer au tic-tac-toe, il faut, dans un premier modèle, décrire le jeu tel que les joueurs humains se le représentent et le comprennent. Ils parleront ainsi des <marquage typemarq="italique">pièces, des règles, des mouvements admissibles (bouger à droite, faire échec, conquérir, etc.)</marquage>, <marquage typemarq="italique">des buts du jeu</marquage>, <marquage typemarq="italique">d’une joute gagnante</marquage>, etc. Dans le deuxième modèle, on traduira les objets ou artefacts et les tâches précédentes en termes d’intrants et d’extrant ou encore de fonctions/opérations computationnelles, c’est-à-dire en précisant les données et les algorithmes (une machine abstraite de Turing). Enfin, dans le troisième modèle, il faudra réaliser ces fonctions dans un ordinateur. Toute explication d’une technologie informatique présentera, explicitement ou implicitement ces trois types modèles. Et dans la mesure où les humanités numériques sont intimement liées à une technologie informatique, elles seront amenées aussi à produire ces trois types de modèles pour expliquer leur fonctionnement et justifier leur programme de recherche.</alinea>
+	Pour illustrer l’interrelation entre ces trois modèles, nous prendrons ici l’exemple de la version électronique du jeu de tic-tac-toe. Pour expliquer comment ordinateur peut jouer au tic-tac-toe, il faut, dans un premier modèle, décrire le jeu tel que les joueurs humains se le représentent et le comprennent. Ils parleront ainsi des <marquage
+            typemarq="italique"
+            >pièces, des règles, des mouvements admissibles (bouger à droite, faire échec, conquérir, etc.)</marquage>, <marquage
+            typemarq="italique">des buts du jeu</marquage>, <marquage typemarq="italique"
+            >d’une joute gagnante</marquage>, etc. Dans le deuxième modèle, on traduira les objets ou artefacts et les tâches précédentes en termes d’intrants et d’extrant ou encore de fonctions/opérations computationnelles, c’est-à-dire en précisant les données et les algorithmes (une machine abstraite de Turing). Enfin, dans le troisième modèle, il faudra réaliser ces fonctions dans un ordinateur. Toute explication d’une technologie informatique présentera, explicitement ou implicitement ces trois types modèles. Et dans la mesure où les humanités numériques sont intimement liées à une technologie informatique, elles seront amenées aussi à produire ces trois types de modèles pour expliquer leur fonctionnement et justifier leur programme de recherche.</alinea>
       </para>
       <para>
         <alinea>
@@ -183,19 +264,31 @@
 	La modélisation fonctionnelle et le numérique.</titre>
       <para>
         <alinea>
-	La première question nous invite à préciser le concept de <marquage typemarq="italique">numérique</marquage>. Normalement ce concept n’apparait ni dans le modèle représentationnel ni dans le modèle physique. Par exemple, pour modéliser le jeu tic-tac-toe, on ne parlera pas des entités et du mouvement du jeu en termes numériques. On utilisera plutôt des mots du langage ordinaire tels : des <marquage typemarq="italique">pièces, des grilles, des croix, des cercles des barres, des carrés, aller en haut, au milieu, en bas, à droite, à gauche, </marquage>etc. De plus, le modèle physique, à savoir celui pertinent pour l’ordinateur, n’utilisera pas non plus ce terme de numérique. De fait, contrairement à ce qu’on pense, l’ordinateur comme machine physique ne manipule pas du numérique, mais bien des configurations électriques<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>.</alinea>
+	La première question nous invite à préciser le concept de <marquage
+            typemarq="italique"
+            >numérique</marquage>. Normalement ce concept n’apparait ni dans le modèle représentationnel ni dans le modèle physique. Par exemple, pour modéliser le jeu tic-tac-toe, on ne parlera pas des entités et du mouvement du jeu en termes numériques. On utilisera plutôt des mots du langage ordinaire tels : des <marquage
+            typemarq="italique"
+            >pièces, des grilles, des croix, des cercles des barres, des carrés, aller en haut, au milieu, en bas, à droite, à gauche, </marquage>etc. De plus, le modèle physique, à savoir celui pertinent pour l’ordinateur, n’utilisera pas non plus ce terme de numérique. De fait, contrairement à ce qu’on pense, l’ordinateur comme machine physique ne manipule pas du numérique, mais bien des configurations électriques<renvoi
+            idref="sdfootnote4sym" typeref="note">4</renvoi>.</alinea>
       </para>
       <para>
         <alinea>
-	C’est dans le modèle fonctionnel/computationnel que le concept de <marquage typemarq="italique">numérique</marquage> apparait. Et il s’y retrouve à un endroit très spécifique. Le numérique désigne une forme sémiotique d’encodage de configurations électriques. Pour faciliter l’appariement avec les mathématiques, deux symboles de type « chiffres » (non des nombres!) ont été choisis pour cet encodage, à savoir les symboles 0 et 1 ou leur combinaison. Mais ils auraient pu être tout autre comme, par exemple, les symboles §et #.</alinea>
+	C’est dans le modèle fonctionnel/computationnel que le concept de <marquage
+            typemarq="italique"
+          >numérique</marquage> apparait. Et il s’y retrouve à un endroit très spécifique. Le numérique désigne une forme sémiotique d’encodage de configurations électriques. Pour faciliter l’appariement avec les mathématiques, deux symboles de type « chiffres » (non des nombres!) ont été choisis pour cet encodage, à savoir les symboles 0 et 1 ou leur combinaison. Mais ils auraient pu être tout autre comme, par exemple, les symboles §et #.</alinea>
       </para>
       <para>
         <alinea>
-	Cette appellation de « numérique » pour parler d’un système manipulant des symboles est cependant problématique. En effet, ces deux symboles ne désignent pas nécessairement des <marquage typemarq="italique">nombres</marquage> c’est-à-dire des entités dans l’univers numérique comme cela est habituellement le cas en mathématique. Ils désignent, dans un langage de programmation machine que des configurations électriques. Or ce que manipulera concrètement un ordinateur ne seront pas ces symboles eux-mêmes, mais les configurations électriques elles-mêmes que ces deux symboles, 0 et 1, encodent.</alinea>
+	Cette appellation de « numérique » pour parler d’un système manipulant des symboles est cependant problématique. En effet, ces deux symboles ne désignent pas nécessairement des <marquage
+            typemarq="italique"
+          >nombres</marquage> c’est-à-dire des entités dans l’univers numérique comme cela est habituellement le cas en mathématique. Ils désignent, dans un langage de programmation machine que des configurations électriques. Or ce que manipulera concrètement un ordinateur ne seront pas ces symboles eux-mêmes, mais les configurations électriques elles-mêmes que ces deux symboles, 0 et 1, encodent.</alinea>
       </para>
       <para>
         <alinea>
-	Par ailleurs le choix du terme <marquage typemarq="italique">numérique</marquage> n’est pas sans conséquence théorique. En effet, il laisse supposer que ces symboles eux-mêmes, 0 et 1, garantissent que les fonctions qui les manipuleront possèdent la propriété d’être computable. Une telle supposition, comme nous le verrons, va à l’encontre du concept même de <marquage typemarq="italique">computation</marquage>. Ce n’est pas parce qu’un intrant est représenté par des symboles par 0 et 1 que le traitement fonctionnel qui pourrait lui être appliqué serait computationnel. Une telle remarque nous mène directement à notre deuxième question : quelle est la nature de la computationnalité ?</alinea>
+	Par ailleurs le choix du terme <marquage typemarq="italique"
+            >numérique</marquage> n’est pas sans conséquence théorique. En effet, il laisse supposer que ces symboles eux-mêmes, 0 et 1, garantissent que les fonctions qui les manipuleront possèdent la propriété d’être computable. Une telle supposition, comme nous le verrons, va à l’encontre du concept même de <marquage
+            typemarq="italique"
+          >computation</marquage>. Ce n’est pas parce qu’un intrant est représenté par des symboles par 0 et 1 que le traitement fonctionnel qui pourrait lui être appliqué serait computationnel. Une telle remarque nous mène directement à notre deuxième question : quelle est la nature de la computationnalité ?</alinea>
       </para>
     </section1>
     <section1>
@@ -203,11 +296,27 @@
 	Le computationnel.</titre>
       <para>
         <alinea>
-	La vision populaire ce concept de computation n’est pas toujours des plus clairs. En effet, pour plusieurs personnes, il n’y a pas vraiment de différence entre un ordinateur et la computation. Pourtant, il y en a bien une. La <marquage typemarq="italique">computation</marquage> est un terme qui désigne en mathématiques une propriété formelle d’une fonction mathématique, alors que le terme <marquage typemarq="italique">ordinateur</marquage> désigne la machine physique particulière parmi plusieurs autres possibles peut effectuer concrètement le calcul d’une fonction. Mais ces deux notions ne sont pas sans liens importants : Si une fonction, en soi, n’est pas computable alors, elle ne peut être « calculée » par un ordinateur. Cependant, ce n’est pas l’ordinateur qui détermine si une fonction est en soi computable. Celle-ci doit posséder des propriétés spécifiques. Ainsi, la computationnalité est une notion logiquement antérieure à celle d’ordinateur<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>.</alinea>
+	La vision populaire ce concept de computation n’est pas toujours des plus clairs. En effet, pour plusieurs personnes, il n’y a pas vraiment de différence entre un ordinateur et la computation. Pourtant, il y en a bien une. La <marquage
+            typemarq="italique"
+            >computation</marquage> est un terme qui désigne en mathématiques une propriété formelle d’une fonction mathématique, alors que le terme <marquage
+            typemarq="italique"
+            >ordinateur</marquage> désigne la machine physique particulière parmi plusieurs autres possibles peut effectuer concrètement le calcul d’une fonction. Mais ces deux notions ne sont pas sans liens importants : Si une fonction, en soi, n’est pas computable alors, elle ne peut être « calculée » par un ordinateur. Cependant, ce n’est pas l’ordinateur qui détermine si une fonction est en soi computable. Celle-ci doit posséder des propriétés spécifiques. Ainsi, la computationnalité est une notion logiquement antérieure à celle d’ordinateur<renvoi
+            idref="sdfootnote5sym" typeref="note">5</renvoi>.</alinea>
       </para>
       <para>
         <alinea>
-	La computationnalité comme propriété formelle est de nature mathématique. Elle est liée au problème de Hilbert sur la <marquage typemarq="italique">calculabilité</marquage> c’est-à-dire de la manipulation formelle (sans signification) de symboles pour <marquage typemarq="italique">décider</marquage> si une formule particulière (une équation, une formule logique) <marquage typemarq="italique">appartient ou n’appartient pas à un système mathématique (celui de nombres). </marquage>Church reprendra ce concept en le définissant en termes de <marquage typemarq="italique">récursivité</marquage>. Et Turing<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi> (1936) démontrera qu’elle est <marquage typemarq="italique">équivalente</marquage> à la “ computation ’ effectuée par une machine physique mécanique dite machine de Turing. Plus tard, elle sera définie en termes algorithmiques (Markov 1960), génératifs (Post 1944) ou de combinatoires (Curry et Fey, 1958). Von Neuman (1945) démontrera à son tour que certaines architectures physiques des ordinateurs sont des machines de Turing concrètes. Ainsi, dans une formulation plus générale, on dira qu’une fonction est calculable ou computable, algorithmisable, etc. s’il existe <marquage typemarq="italique">une procédure effective</marquage> pour traiter des intrants et produire systématiquement des résultats. L’ordinateur est une architecture physique adéquate pour effectuer ce calcul d’une fonction. Il y a donc une différence formelle entre un ordinateur et la computation.</alinea>
+	La computationnalité comme propriété formelle est de nature mathématique. Elle est liée au problème de Hilbert sur la <marquage
+            typemarq="italique"
+            >calculabilité</marquage> c’est-à-dire de la manipulation formelle (sans signification) de symboles pour <marquage
+            typemarq="italique"
+            >décider</marquage> si une formule particulière (une équation, une formule logique) <marquage
+            typemarq="italique"
+            >appartient ou n’appartient pas à un système mathématique (celui de nombres). </marquage>Church reprendra ce concept en le définissant en termes de <marquage
+            typemarq="italique">récursivité</marquage>. Et Turing<renvoi idref="sdfootnote6sym"
+            typeref="note">6</renvoi> (1936) démontrera qu’elle est <marquage typemarq="italique"
+            >équivalente</marquage> à la “ computation ’ effectuée par une machine physique mécanique dite machine de Turing. Plus tard, elle sera définie en termes algorithmiques (Markov 1960), génératifs (Post 1944) ou de combinatoires (Curry et Fey, 1958). Von Neuman (1945) démontrera à son tour que certaines architectures physiques des ordinateurs sont des machines de Turing concrètes. Ainsi, dans une formulation plus générale, on dira qu’une fonction est calculable ou computable, algorithmisable, etc. s’il existe <marquage
+            typemarq="italique"
+          >une procédure effective</marquage> pour traiter des intrants et produire systématiquement des résultats. L’ordinateur est une architecture physique adéquate pour effectuer ce calcul d’une fonction. Il y a donc une différence formelle entre un ordinateur et la computation.</alinea>
       </para>
       <para>
         <alinea>
@@ -219,12 +328,28 @@
       </para>
       <para>
         <alinea>
-	La première propriété touche l’admissibilité des intrants <marquage typemarq="italique">(appelés arguments) </marquage>à une fonction computable<marquage typemarq="italique">. </marquage>Ceux-ci doivent être discrets ou « atomiques » c’est-à-dire non continus<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi>. Habituellement cet encodage numérique 0 et 1 exprime sémiotiquement cette propriété. La deuxième et la troisième propriété sont les plus importantes pour notre propos. Elles spécifient la nature de la procédure ou les opérations qui seront appliquées à ces intrants. En effet, celles-ci doivent être <marquage typemarq="italique">systématiques</marquage> et <marquage typemarq="italique">productives</marquage>, c’est-à-dire que les procédures doivent permettre de <marquage typemarq="italique">produire</marquage> de manière <marquage typemarq="italique">systématique</marquage> des séquences de symboles de plus en plus complexes ou de les réduire en des séquences de symboles plus simples. Ces deux propriétés de systématicité et de productivité sont des manières plus simples de parler de la <marquage typemarq="italique">récursivité</marquage>, de <marquage typemarq="italique">l’algorithmique</marquage> et de la <marquage typemarq="italique">combinatiorialité</marquage>. Mais ultimement ce sont ces deux propriétés qui permettront à une machine de Turing physique de manipuler physiquement les intrants. Et l’ordinateur est une forme électronique de cette machine de Turing. Enfin, il faut remarquer que si un système possède uniquement ces trois propriétés, il est de ce fait un système formel au sens de Hilbert. Et comme le souligneront plusieurs chercheurs, mais que resouligneront régulièrement Searle (1980) et Harnad (1990), pour le domaine cognitif, un tel système de fonctions computables est de nature essentiellement “ syntaxique ’. Il est certes interprétable, mais sa sémantique lui est externe. D’où l’importance pour les sciences cognitives que soit ajoutée la propriété d’interprétativité.</alinea>
+	La première propriété touche l’admissibilité des intrants <marquage
+            typemarq="italique">(appelés arguments) </marquage>à une fonction computable<marquage
+            typemarq="italique"
+            >. </marquage>Ceux-ci doivent être discrets ou « atomiques » c’est-à-dire non continus<renvoi
+            idref="sdfootnote8sym" typeref="note"
+            >8</renvoi>. Habituellement cet encodage numérique 0 et 1 exprime sémiotiquement cette propriété. La deuxième et la troisième propriété sont les plus importantes pour notre propos. Elles spécifient la nature de la procédure ou les opérations qui seront appliquées à ces intrants. En effet, celles-ci doivent être <marquage
+            typemarq="italique">systématiques</marquage> et <marquage typemarq="italique"
+            >productives</marquage>, c’est-à-dire que les procédures doivent permettre de <marquage
+            typemarq="italique">produire</marquage> de manière <marquage typemarq="italique"
+            >systématique</marquage> des séquences de symboles de plus en plus complexes ou de les réduire en des séquences de symboles plus simples. Ces deux propriétés de systématicité et de productivité sont des manières plus simples de parler de la <marquage
+            typemarq="italique">récursivité</marquage>, de <marquage typemarq="italique"
+            >l’algorithmique</marquage> et de la <marquage typemarq="italique"
+            >combinatiorialité</marquage>. Mais ultimement ce sont ces deux propriétés qui permettront à une machine de Turing physique de manipuler physiquement les intrants. Et l’ordinateur est une forme électronique de cette machine de Turing. Enfin, il faut remarquer que si un système possède uniquement ces trois propriétés, il est de ce fait un système formel au sens de Hilbert. Et comme le souligneront plusieurs chercheurs, mais que resouligneront régulièrement Searle (1980) et Harnad (1990), pour le domaine cognitif, un tel système de fonctions computables est de nature essentiellement “ syntaxique ’. Il est certes interprétable, mais sa sémantique lui est externe. D’où l’importance pour les sciences cognitives que soit ajoutée la propriété d’interprétativité.</alinea>
       </para>
       <para>
         <alinea>
-	Pour illustrer ce concept de computationnalité, nous prendrons deux exemples simples. Le premier illustre les dimensions atomiques et récursives d’une fonction calculable. Prenons ainsi une surface rectangulaire dont il faut « calculer » le nombre nécessaire de tuiles carrées pour la couvrir. Pour ce faire, il faut que les tuiles soient représentées par des symboles atomiques. Le chiffre 1 désignera la surface d’une tuile, les chiffres 3 et 2 désigneront respectivement les côtés du rectangle. On appliquera à ces symboles une fonction récursive d’addition. Une première addition sera appliquée successivement au chiffre 1 du premier coté pour donner le résultat noté 3. Ensuite, la même fonction sera appliquée au second côté (3) pour donner encore le résultat noté 3. Enfin, la même fonction d’addition sera appliquée au premier résultat noté 3 ainsi qu’au second 3 pour obtenir le résultat noté 6. Ainsi, le résultat final de toute la fonction sera appliqué récursivement sur des symboles. Dans les mathématiques classiques, cette fonction récursive sera représentée de manière très synthétique par des formules symboliques et exprimée dans une équation dite de multiplication : <marquage typemarq="italique">La surface S </marquage>
-          <marquage typemarq="italique">déf. </marquage>: S (x, y) = (x × y). Cette formulation est une manière conventionnelle de dire que la fonction  est récursive, algorithmique et combinatoire. Et, dans la terminologie de Fodor et Pylyshin, elle est <marquage typemarq="italique">atomique, systématique et productive</marquage>. En conséquence une machine de Turing pourra « calculer » cette fonction. On remarquera que ce calcul ne fait que manipuler symboles/chiffres et qu’il est indépendant de l’interprétation concrète qu’on pourrait leur donner: par exemple, surface d’une tuile en céramique, en tapis, en bois, etc.</alinea>
+	Pour illustrer ce concept de computationnalité, nous prendrons deux exemples simples. Le premier illustre les dimensions atomiques et récursives d’une fonction calculable. Prenons ainsi une surface rectangulaire dont il faut « calculer » le nombre nécessaire de tuiles carrées pour la couvrir. Pour ce faire, il faut que les tuiles soient représentées par des symboles atomiques. Le chiffre 1 désignera la surface d’une tuile, les chiffres 3 et 2 désigneront respectivement les côtés du rectangle. On appliquera à ces symboles une fonction récursive d’addition. Une première addition sera appliquée successivement au chiffre 1 du premier coté pour donner le résultat noté 3. Ensuite, la même fonction sera appliquée au second côté (3) pour donner encore le résultat noté 3. Enfin, la même fonction d’addition sera appliquée au premier résultat noté 3 ainsi qu’au second 3 pour obtenir le résultat noté 6. Ainsi, le résultat final de toute la fonction sera appliqué récursivement sur des symboles. Dans les mathématiques classiques, cette fonction récursive sera représentée de manière très synthétique par des formules symboliques et exprimée dans une équation dite de multiplication : <marquage
+            typemarq="italique">La surface S </marquage>
+          <marquage typemarq="italique"
+            >déf. </marquage>: S (x, y) = (x × y). Cette formulation est une manière conventionnelle de dire que la fonction  est récursive, algorithmique et combinatoire. Et, dans la terminologie de Fodor et Pylyshin, elle est <marquage
+            typemarq="italique"
+          >atomique, systématique et productive</marquage>. En conséquence une machine de Turing pourra « calculer » cette fonction. On remarquera que ce calcul ne fait que manipuler symboles/chiffres et qu’il est indépendant de l’interprétation concrète qu’on pourrait leur donner: par exemple, surface d’une tuile en céramique, en tapis, en bois, etc.</alinea>
       </para>
       <para>
         <alinea>
@@ -232,7 +357,10 @@
       </para>
       <para>
         <alinea>
-	Soit trois symboles <marquage typemarq="italique">a</marquage> et <marquage typemarq="italique">b</marquage> auquel on ajoute le méta-symbole →  qui signifie : <marquage typemarq="italique">se réécrit</marquage>
+	Soit trois symboles <marquage typemarq="italique">a</marquage> et <marquage
+            typemarq="italique"
+            >b</marquage> auquel on ajoute le méta-symbole →  qui signifie : <marquage
+            typemarq="italique">se réécrit</marquage>
         </alinea>
       </para>
       <para>
@@ -257,7 +385,8 @@
       </para>
       <para>
         <alinea>
-	 Cet ensemble de règles permettra alors de <marquage typemarq="italique">produire systématiquement</marquage> la séquence suivante de symbole</alinea>
+	 Cet ensemble de règles permettra alors de <marquage typemarq="italique"
+            >produire systématiquement</marquage> la séquence suivante de symbole</alinea>
       </para>
       <para>
         <alinea>
@@ -277,7 +406,7 @@
       </para>
       <para>
         <alinea>
-	<marquage typemarq="italique">- babbababbabbababbabab</marquage>…</alinea>
+          <marquage typemarq="italique">- babbababbabbababbabab</marquage>…</alinea>
       </para>
       <para>
         <alinea>
@@ -285,7 +414,11 @@
       </para>
       <para>
         <alinea>
-	Comme on le voit par ces exemples simples, une fonction est computable si les intrants, représentés par des symboles, sont atomiques et si les opérations sont systématiques et productives, c’est-à-dire récursives, algorithmiques, ou combinatoires. En conséquence, ce n’est pas le fait qu’une fonction admette des symboles de chiffres qui permet de dire qu’une fonction est computable. Certes, il y aura des cas où la computation se réalisera sur des <marquage typemarq="italique">symboles</marquage> de types chiffres, et qui seront interprétables comme des <marquage typemarq="italique">nombres</marquage>. Mais il existe de nombreux autres cas où elle pourra s’appliquer à des symboles qui ne sont pas des chiffres et qui sont sans lien avec des nombres. En conséquence, bien que chiffres ou symboles numériques 0 et 1 soient des intrants atomiques pour une fonction, il ne s’ensuit pas formellement que la fonction qui les manipulera sera computable. Être numérique n’est pas une condition nécessaire ni suffisante de la computationnalité.</alinea>
+	Comme on le voit par ces exemples simples, une fonction est computable si les intrants, représentés par des symboles, sont atomiques et si les opérations sont systématiques et productives, c’est-à-dire récursives, algorithmiques, ou combinatoires. En conséquence, ce n’est pas le fait qu’une fonction admette des symboles de chiffres qui permet de dire qu’une fonction est computable. Certes, il y aura des cas où la computation se réalisera sur des <marquage
+            typemarq="italique"
+            >symboles</marquage> de types chiffres, et qui seront interprétables comme des <marquage
+            typemarq="italique"
+          >nombres</marquage>. Mais il existe de nombreux autres cas où elle pourra s’appliquer à des symboles qui ne sont pas des chiffres et qui sont sans lien avec des nombres. En conséquence, bien que chiffres ou symboles numériques 0 et 1 soient des intrants atomiques pour une fonction, il ne s’ensuit pas formellement que la fonction qui les manipulera sera computable. Être numérique n’est pas une condition nécessaire ni suffisante de la computationnalité.</alinea>
       </para>
     </section1>
     <section1>
@@ -307,13 +440,11 @@
         <alinea>
 	Pour illustrer la non-computationnalité de certaines opérations ou fonctions, nous reprendrons ici des variantes de nos exemples précédents. Le premier nous est inspiré de Penrose (1994). Imaginons que pour couvrir la surface de notre rectangle précédent dont les côtés étaient de 3 par 2, nous ayons non plus des tuiles de forme carrée, mais des tuiles ayant des formes irrégulières atypiques comme celle-ci :</alinea>
       </para>
-      <para>
-          <figure>
-            <objetmedia flot="bloc">
-              <image id="img1121-1.png" typeimage="figure" desc=""/>
-            </objetmedia>
-          </figure>
-      </para>
+      <figure>
+        <objetmedia flot="bloc">
+          <image id="img1121-1.png" typeimage="figure" desc="" xlink:type="simple"/>
+        </objetmedia>
+      </figure>
       <para>
         <alinea>
 					 </alinea>
@@ -332,11 +463,14 @@
       </para>
       <para>
         <alinea>
-	Ce type de système d’équations est appelé <marquage typemarq="italique">diophantien</marquage>. Intuitivement, il semble facile de lui trouver des solutions algorithmiques. Au contraire, Matiyasevich (1970) a démontré qu’il n’en existait pas. Autrement dit, bien que les valeurs données aux variables de la fonction puissent être des nombres entiers et donc atomiques, ce type de système d’équations est non computable. Bref, ces deux exemples choisis parmi une infinité d’autres montrent que certains systèmes de fonctions mathématiques ne sont pas computables.</alinea>
+	Ce type de système d’équations est appelé <marquage typemarq="italique"
+            >diophantien</marquage>. Intuitivement, il semble facile de lui trouver des solutions algorithmiques. Au contraire, Matiyasevich (1970) a démontré qu’il n’en existait pas. Autrement dit, bien que les valeurs données aux variables de la fonction puissent être des nombres entiers et donc atomiques, ce type de système d’équations est non computable. Bref, ces deux exemples choisis parmi une infinité d’autres montrent que certains systèmes de fonctions mathématiques ne sont pas computables.</alinea>
       </para>
       <para>
         <alinea>
-	Cette question de la non-computationnalité est encore plus problématique qu’on le pense. En effet, il existe des systèmes, qui bien qu’opérant avec des fonctions computables peuvent, s’ils présentent une grande complexité, se transformer en systèmes non computables. Chaitin (1998) a récemment montré que plus les systèmes sont complexes, plus ils incluront de la redondance (ce qui assure une stabilité au système). Or, plus celle-ci est forte, plus elle risque de générer de l’aléatoire, ce qui, à son tour risque de diriger le système vers une probabilité absolue appelée <marquage typemarq="italique">Omega</marquage> qui, selon un théorème de Chaitin (1998), rendra le système non computable ! Autrement dit, bien qu’au départ un système complexe puisse sembler computable, il peut paradoxalement devenir un système non computable ! En conséquence, plus ce qui doit être modélisé fonctionnellement est complexe, plus les probabilités qu’il soit non computable sont fortes. Se pose alors la question importante suivante : si un ordinateur ne peut traiter que des fonctions computables, comment pourrait-il computer des fonctions en soi non computables ?</alinea>
+	Cette question de la non-computationnalité est encore plus problématique qu’on le pense. En effet, il existe des systèmes, qui bien qu’opérant avec des fonctions computables peuvent, s’ils présentent une grande complexité, se transformer en systèmes non computables. Chaitin (1998) a récemment montré que plus les systèmes sont complexes, plus ils incluront de la redondance (ce qui assure une stabilité au système). Or, plus celle-ci est forte, plus elle risque de générer de l’aléatoire, ce qui, à son tour risque de diriger le système vers une probabilité absolue appelée <marquage
+            typemarq="italique"
+          >Omega</marquage> qui, selon un théorème de Chaitin (1998), rendra le système non computable ! Autrement dit, bien qu’au départ un système complexe puisse sembler computable, il peut paradoxalement devenir un système non computable ! En conséquence, plus ce qui doit être modélisé fonctionnellement est complexe, plus les probabilités qu’il soit non computable sont fortes. Se pose alors la question importante suivante : si un ordinateur ne peut traiter que des fonctions computables, comment pourrait-il computer des fonctions en soi non computables ?</alinea>
       </para>
       <para>
         <alinea>
@@ -352,7 +486,11 @@
       </para>
       <para>
         <alinea>
-	Comme l’on voit cette notion de computation est complexe. Mais, au-delà des détails techniques, l’important pour nous ici est de voir que la distinction entre le numérique et le computationnel n’est pas uniquement une question terminologique ou sémantique. Chacun de ces termes aborde des objets et des problèmes théoriques spécifiques. Le <marquage typemarq="italique">numérique</marquage> touche un problème de représentation sémiotique, c’est-à-dire d’encodage formel – applicable à divers types d’intrants admissibles pour une machine de Turing, et ultimement pour un ordinateur. Le <marquage typemarq="italique">computationnel</marquage> pour sa part s’intéresse à un type particulier de fonctions qui peuvent être appliquées de manière récursive, algorithmique à des intrants atomiques. De cette différence des problèmes auxquels renvoient le numérique et le computationnel, il s’ensuit donc ce n’est pas le fait que des intrants soient numériques qui garantit que les fonctions qui pourraient les traiter soient elles-mêmes computationnelles. Autrement dit, un système numérique n’est pas toujours un système computationnel.</alinea>
+	Comme l’on voit cette notion de computation est complexe. Mais, au-delà des détails techniques, l’important pour nous ici est de voir que la distinction entre le numérique et le computationnel n’est pas uniquement une question terminologique ou sémantique. Chacun de ces termes aborde des objets et des problèmes théoriques spécifiques. Le <marquage
+            typemarq="italique"
+            >numérique</marquage> touche un problème de représentation sémiotique, c’est-à-dire d’encodage formel – applicable à divers types d’intrants admissibles pour une machine de Turing, et ultimement pour un ordinateur. Le <marquage
+            typemarq="italique"
+          >computationnel</marquage> pour sa part s’intéresse à un type particulier de fonctions qui peuvent être appliquées de manière récursive, algorithmique à des intrants atomiques. De cette différence des problèmes auxquels renvoient le numérique et le computationnel, il s’ensuit donc ce n’est pas le fait que des intrants soient numériques qui garantit que les fonctions qui pourraient les traiter soient elles-mêmes computationnelles. Autrement dit, un système numérique n’est pas toujours un système computationnel.</alinea>
       </para>
     </section1>
     <section1>
@@ -360,7 +498,13 @@
 	Le computationnel et le non computationnel dans les humanités numériques.</titre>
       <para>
         <alinea>
-	Les analyses précédentes sont des plus importantes pour comprendre un programme de recherche qui vise à étendre ces notions de <marquage typemarq="italique">numérique</marquage> et de <marquage typemarq="italique">computationnalité</marquage> à l’« univers » des humanités. Comme on le voit depuis quelques décennies maintenant, les technologies informatiques s’insèrent dans les multiples tâches et objets des humanités, même les plus classiques. Mais, quel que soit le projet dans lequel les humanités s’engageront, elles devront, dans leur méthodologie, explicitement ou implicitement construire une triple modélisation. Ainsi, un modèle représentationnel devra identifier des « entités », c’est-à-dire des artefacts, des faits, des objets et des tâches à réaliser qui sont spécifiques aux humanités. On peut penser ici aux textes et documents et à leur écriture, lecture, analyse, distribution, archivage<marquage typemarq="italique">, etc., </marquage>à la musique et à sa composition, interprétation, écoute, à la danse, aux rituels, à l’architecture, au cinéma, aux arts visuels, etc. Un modèle fonctionnel pour sa part devra traduire ces entités et tâches en des intrants et des fonctions. Et le modèle physique déterminera quels processus un ordinateur réalisera pour effectuer concrètement la computation de ces fonctions. Or, dans cette modélisation, les problèmes théoriques soulignés plus haut réapparaitront nécessairement. Et la question importante qui aura retenu notre attention plus haut réapparaitra : dans ces humanités, est-il possible de traduire la majorité des artefacts et des tâches en des unités atomiques ou discrètes et en des fonctions computables ? Autrement dit, <marquage typemarq="italique">les artefacts et tâches des humanités que l’on retrouve dans un modèle représentationnel et que l’on traduit dans un modèle fonctionnel comme des intrants et des fonctions, pourront-ils se voir attribuer les propriétés d’atomicité, de systématicité, de productivité pour qu’éventuellement ils puissent être traités par un ordinateur ? </marquage>
+	Les analyses précédentes sont des plus importantes pour comprendre un programme de recherche qui vise à étendre ces notions de <marquage
+            typemarq="italique">numérique</marquage> et de <marquage typemarq="italique"
+            >computationnalité</marquage> à l’« univers » des humanités. Comme on le voit depuis quelques décennies maintenant, les technologies informatiques s’insèrent dans les multiples tâches et objets des humanités, même les plus classiques. Mais, quel que soit le projet dans lequel les humanités s’engageront, elles devront, dans leur méthodologie, explicitement ou implicitement construire une triple modélisation. Ainsi, un modèle représentationnel devra identifier des « entités », c’est-à-dire des artefacts, des faits, des objets et des tâches à réaliser qui sont spécifiques aux humanités. On peut penser ici aux textes et documents et à leur écriture, lecture, analyse, distribution, archivage<marquage
+            typemarq="italique"
+            >, etc., </marquage>à la musique et à sa composition, interprétation, écoute, à la danse, aux rituels, à l’architecture, au cinéma, aux arts visuels, etc. Un modèle fonctionnel pour sa part devra traduire ces entités et tâches en des intrants et des fonctions. Et le modèle physique déterminera quels processus un ordinateur réalisera pour effectuer concrètement la computation de ces fonctions. Or, dans cette modélisation, les problèmes théoriques soulignés plus haut réapparaitront nécessairement. Et la question importante qui aura retenu notre attention plus haut réapparaitra : dans ces humanités, est-il possible de traduire la majorité des artefacts et des tâches en des unités atomiques ou discrètes et en des fonctions computables ? Autrement dit, <marquage
+            typemarq="italique"
+            >les artefacts et tâches des humanités que l’on retrouve dans un modèle représentationnel et que l’on traduit dans un modèle fonctionnel comme des intrants et des fonctions, pourront-ils se voir attribuer les propriétés d’atomicité, de systématicité, de productivité pour qu’éventuellement ils puissent être traités par un ordinateur ? </marquage>
         </alinea>
       </para>
       <para>
@@ -369,31 +513,58 @@
       </para>
       <para>
         <alinea>
-	Malgré ce qu’on peut penser, ces deux propriétés se retrouvent régulièrement appliquées aux artefacts et tâches des humanités. Ainsi, pour la condition d’atomicité, on peut identifier de nombreuses unités de types discrètes. Par exemple, en musique on aura <marquage typemarq="italique">la note, la portée, la pièce, le compositeur</marquage>, <marquage typemarq="italique">l’œuvre</marquage>, etc. ; en littérature, on aura <marquage typemarq="italique">le mot, la ligne, le chapitre, l’auteur, le livre, </marquage>etc. La peinture choisira <marquage typemarq="italique">la toile, le peintre, les périodes</marquage>, etc. Toutes ces entités discrètes sont facilement traduisibles en des formes atomiques encodables par des symboles, 0 et 1, dits binaires ou « digital », c’est-à-dire numériques. Un livre numérisé traduit chaque lettre et mot en une suite de tels symboles.</alinea>
+	Malgré ce qu’on peut penser, ces deux propriétés se retrouvent régulièrement appliquées aux artefacts et tâches des humanités. Ainsi, pour la condition d’atomicité, on peut identifier de nombreuses unités de types discrètes. Par exemple, en musique on aura <marquage
+            typemarq="italique">la note, la portée, la pièce, le compositeur</marquage>, <marquage
+            typemarq="italique">l’œuvre</marquage>, etc. ; en littérature, on aura <marquage
+            typemarq="italique"
+            >le mot, la ligne, le chapitre, l’auteur, le livre, </marquage>etc. La peinture choisira <marquage
+            typemarq="italique"
+          >la toile, le peintre, les périodes</marquage>, etc. Toutes ces entités discrètes sont facilement traduisibles en des formes atomiques encodables par des symboles, 0 et 1, dits binaires ou « digital », c’est-à-dire numériques. Un livre numérisé traduit chaque lettre et mot en une suite de tels symboles.</alinea>
       </para>
       <para>
         <alinea>
-	De plus, on trouvera aussi de nombreuses tâches qui peuvent aussi être traduites en des fonctions computationnelles. Souvent, ces tâches sont si intégrées qu’elles sont devenues des « automatismes ». Leur structure récursive est transparente et, parce qu’elles auront été réalisées à la main, leur structure algorithmique n’est pas évidente. Certaines d’entre elles sont très simples. Par exemple, on peut penser à <marquage typemarq="italique">copier, imprimer, paginer, indexer un texte, une pièce de musique, compter des mots, </marquage>etc. Certaines auront même des approches quantitatives cachées et floues. Par exemple, dans les partitions musicales, on aura des indicateurs quantitatifs flous comme <marquage typemarq="italique">piano, pianissimo, allégro, </marquage>etc. Et en littérature, en peinture, en danse, dans les films, les rituels certaines analyses encore plus complexes. Pensons par exemple à la comparaison de manuscrits. Une partie de cette tâche reposera sur des comparaisons entre parties de texte dont le but sera de découvrir des différences de formes atomiques (mots, séquences, etc.) et qu’on appellera des « variantes ». Bref, si on porte attention, on trouvera un grand nombre de tâches, mêmes complexes, qui sont traduisibles en des algorithmes c’est-à-dire en des fonctions computables.</alinea>
+	De plus, on trouvera aussi de nombreuses tâches qui peuvent aussi être traduites en des fonctions computationnelles. Souvent, ces tâches sont si intégrées qu’elles sont devenues des « automatismes ». Leur structure récursive est transparente et, parce qu’elles auront été réalisées à la main, leur structure algorithmique n’est pas évidente. Certaines d’entre elles sont très simples. Par exemple, on peut penser à <marquage
+            typemarq="italique"
+            >copier, imprimer, paginer, indexer un texte, une pièce de musique, compter des mots, </marquage>etc. Certaines auront même des approches quantitatives cachées et floues. Par exemple, dans les partitions musicales, on aura des indicateurs quantitatifs flous comme <marquage
+            typemarq="italique"
+          >piano, pianissimo, allégro, </marquage>etc. Et en littérature, en peinture, en danse, dans les films, les rituels certaines analyses encore plus complexes. Pensons par exemple à la comparaison de manuscrits. Une partie de cette tâche reposera sur des comparaisons entre parties de texte dont le but sera de découvrir des différences de formes atomiques (mots, séquences, etc.) et qu’on appellera des « variantes ». Bref, si on porte attention, on trouvera un grand nombre de tâches, mêmes complexes, qui sont traduisibles en des algorithmes c’est-à-dire en des fonctions computables.</alinea>
       </para>
       <para>
         <alinea>
-	Bien que ces artefacts et tâches existent effectivement dans les humanités, celles-ci, du moins pour les chercheurs experts, seront vues comme relativement simples et élémentaires. Elles ne sont pas, pour eux, les tâches les plus intéressantes. En effet, dans leur pratique, ces chercheurs voudront travailler sur des tâches autrement plus complexes que ces dernières, comme, par exemple : <marquage typemarq="italique">l’identification d’un style musical, la chorégraphie d’une danse, la formation des concepts, l’évolution de thèmes, la structure narrative, les liaisons intertextuelles, les biais épistémiques, les tendances architecturales, les conditions de production de discours, les structures argumentatives, la production d’une toile</marquage>, la <marquage typemarq="italique">préparation d’une exposition, la transmission des mêmes, </marquage>etc. Et il existe une infinité de tels types de tâches dans chaque sous-domaine des humanités. Aussi faut-il se demander s’il est possible de construire un modèle fonctionnel computationnel pour ces tâches très complexes. De quelle nature seront les fonctions ? Posséderont-elles toutes les conditions nécessaires pour qu’elles soient computationnelles, algorithmisables, récursives, combinatoires, etc. ? Les réponses à ces questions ne sont pas faciles. Postuler que la modélisation fonctionnelle computationnelle pour traduire adéquatement tant la multiplicité et la complexité de ces artefacts et de ces tâches que veulent réaliser les experts des humanités, est une hypothèse que peu de chercheurs seraient prêts à soutenir. Voyons cependant ce qu’il en est vraiment.</alinea>
+	Bien que ces artefacts et tâches existent effectivement dans les humanités, celles-ci, du moins pour les chercheurs experts, seront vues comme relativement simples et élémentaires. Elles ne sont pas, pour eux, les tâches les plus intéressantes. En effet, dans leur pratique, ces chercheurs voudront travailler sur des tâches autrement plus complexes que ces dernières, comme, par exemple : <marquage
+            typemarq="italique"
+            >l’identification d’un style musical, la chorégraphie d’une danse, la formation des concepts, l’évolution de thèmes, la structure narrative, les liaisons intertextuelles, les biais épistémiques, les tendances architecturales, les conditions de production de discours, les structures argumentatives, la production d’une toile</marquage>, la <marquage
+            typemarq="italique"
+          >préparation d’une exposition, la transmission des mêmes, </marquage>etc. Et il existe une infinité de tels types de tâches dans chaque sous-domaine des humanités. Aussi faut-il se demander s’il est possible de construire un modèle fonctionnel computationnel pour ces tâches très complexes. De quelle nature seront les fonctions ? Posséderont-elles toutes les conditions nécessaires pour qu’elles soient computationnelles, algorithmisables, récursives, combinatoires, etc. ? Les réponses à ces questions ne sont pas faciles. Postuler que la modélisation fonctionnelle computationnelle pour traduire adéquatement tant la multiplicité et la complexité de ces artefacts et de ces tâches que veulent réaliser les experts des humanités, est une hypothèse que peu de chercheurs seraient prêts à soutenir. Voyons cependant ce qu’il en est vraiment.</alinea>
       </para>
       <para>
         <alinea>
-	Commençons par étudier la propriété d’<marquage typemarq="italique">atomicité</marquage>. Pourquoi est-ce si difficile d’atomiser les artefacts complexes des humanités ? Peut-on, par exemple, atomiser les mouvements subtils d’une danse, les multiples variations d’une suite musicale, les intrigues d’un roman, ou encore la sculpturalité des statues géantes de l’Ile de Pâques ? Une telle atomisation de ces entités ou artefacts semble très difficile à réaliser. Ceux-ci sont d’une nature particulière.</alinea>
+	Commençons par étudier la propriété d’<marquage typemarq="italique"
+            >atomicité</marquage>. Pourquoi est-ce si difficile d’atomiser les artefacts complexes des humanités ? Peut-on, par exemple, atomiser les mouvements subtils d’une danse, les multiples variations d’une suite musicale, les intrigues d’un roman, ou encore la sculpturalité des statues géantes de l’Ile de Pâques ? Une telle atomisation de ces entités ou artefacts semble très difficile à réaliser. Ceux-ci sont d’une nature particulière.</alinea>
       </para>
       <para>
         <alinea>
-	Dans les humanités, les « entités » identifiées ne sont pas, comme dans d’autres sciences, des entités du monde physique c’est-à-dire, des « choses » ou des « objets matériels ». Les « entités » intéressantes sont avant de nature <marquage typemarq="italique">sémiotique. </marquage>Leur qualité première n’est pas d’être dénombrable, énumérable mais avant d’avoir un <marquage typemarq="italique">sens</marquage> ou une <marquage typemarq="italique">signification. </marquage>Dans les termes classiques de la phénoménologie ou de la philosophie du corps situé, cette propriété de sémioticité trouve son origine dans la relation que ces entités entretiennent avec les actions intentionnelles humaines. Hors de cette relation, ces entités ne sont que des « choses » d’un monde quelconque. Et on ne saurait même pas dire quelle chose elles sont dans ce monde. Par exemple, une tige circulaire et soudée de 1 millimètre d’épaisseur et de 1.5 centimètres de diamètre, dont la structure moléculaire est celle de l’or ou de titanium, n’est pas en soi un objet sémiotique. Mais elle peut le devenir dans un rituel de mariage, un engagement de couple. À ce moment elle devient une <marquage typemarq="italique">alliance</marquage>, une <marquage typemarq="italique">bague, </marquage>etc. Et ce n’est que comme entité sémiotique que cet objet physique devient intéressant dans une recherche dans les humanités. Et un artiste ne verra pas cet objet comme un anthropologue.</alinea>
+	Dans les humanités, les « entités » identifiées ne sont pas, comme dans d’autres sciences, des entités du monde physique c’est-à-dire, des « choses » ou des « objets matériels ». Les « entités » intéressantes sont avant de nature <marquage
+            typemarq="italique"
+            >sémiotique. </marquage>Leur qualité première n’est pas d’être dénombrable, énumérable mais avant d’avoir un <marquage
+            typemarq="italique">sens</marquage> ou une <marquage typemarq="italique"
+            >signification. </marquage>Dans les termes classiques de la phénoménologie ou de la philosophie du corps situé, cette propriété de sémioticité trouve son origine dans la relation que ces entités entretiennent avec les actions intentionnelles humaines. Hors de cette relation, ces entités ne sont que des « choses » d’un monde quelconque. Et on ne saurait même pas dire quelle chose elles sont dans ce monde. Par exemple, une tige circulaire et soudée de 1 millimètre d’épaisseur et de 1.5 centimètres de diamètre, dont la structure moléculaire est celle de l’or ou de titanium, n’est pas en soi un objet sémiotique. Mais elle peut le devenir dans un rituel de mariage, un engagement de couple. À ce moment elle devient une <marquage
+            typemarq="italique">alliance</marquage>, une <marquage typemarq="italique"
+            >bague, </marquage>etc. Et ce n’est que comme entité sémiotique que cet objet physique devient intéressant dans une recherche dans les humanités. Et un artiste ne verra pas cet objet comme un anthropologue.</alinea>
       </para>
       <para>
         <alinea>
-	Si, dans le cadre des humanités numériques, il faut construire un modèle fonctionnel pour le traitement informatique de tels objets, des difficultés importantes surgiront. D’une part, leur traduction en des intrants atomiques risque de faire disparaitre cette sémioticité. Par exemple, un geste dont la signification repose sur la fluidité, la souplesse et la continuité, risque de perdre sa signification lorsqu’il est déconstruit en mille et une unités discrètes. Un anneau qui est déconstruit en n propriétés (circonférence, épaisseur, structure moléculaire) aura peine à y superposer une propriété sémiotique. Le sens n’est pas une propriété de même type ou catégorie logique que des propriétés physiques. Ce serait comme décrire l’or en lui assignant les propriétés suivantes : est jaune, brillant, <marquage typemarq="italique">nom commun </marquage>! On voit la conséquence immédiate que peut entrainer une atomisation qui ne pourrait s’en ternir qu’à des propriétés non sémiotiques : elle fait disparaitre immédiatement l’intérêt d’un chercheur des humanités. Celui-ci ne s’intéresse pas aux « tiges de métal en or » mais aux « alliances » ! L’intérêt d’un littéraire pour un mot dans un poème écrit n’est pas sa quantité d’encre mais son sens.</alinea>
+	Si, dans le cadre des humanités numériques, il faut construire un modèle fonctionnel pour le traitement informatique de tels objets, des difficultés importantes surgiront. D’une part, leur traduction en des intrants atomiques risque de faire disparaitre cette sémioticité. Par exemple, un geste dont la signification repose sur la fluidité, la souplesse et la continuité, risque de perdre sa signification lorsqu’il est déconstruit en mille et une unités discrètes. Un anneau qui est déconstruit en n propriétés (circonférence, épaisseur, structure moléculaire) aura peine à y superposer une propriété sémiotique. Le sens n’est pas une propriété de même type ou catégorie logique que des propriétés physiques. Ce serait comme décrire l’or en lui assignant les propriétés suivantes : est jaune, brillant, <marquage
+            typemarq="italique"
+          >nom commun </marquage>! On voit la conséquence immédiate que peut entrainer une atomisation qui ne pourrait s’en ternir qu’à des propriétés non sémiotiques : elle fait disparaitre immédiatement l’intérêt d’un chercheur des humanités. Celui-ci ne s’intéresse pas aux « tiges de métal en or » mais aux « alliances » ! L’intérêt d’un littéraire pour un mot dans un poème écrit n’est pas sa quantité d’encre mais son sens.</alinea>
       </para>
       <para>
         <alinea>
-	Par ailleurs, si on tente de respecter la sémioticité de ces entités dans un modèle fonctionnel alors les intrants risquent de perdre leur atomicité. Et de ce fait, ils ne sont plus aussi facilement admissibles à des fonctions computationnelles. Une <marquage typemarq="italique">alliance-en-or-ayant-le –sens-d’engagement-d’un-couple-dans-une-communauté</marquage> est un tout complexe difficilement décomposable en unités atomiques. La vibration sonore en hertz d’une tige métallique est autre chose qu’une <marquage typemarq="italique">tonalité-musicale–en-harmonique-mineure–d’une-perfomance-musicale-pour-une-cérémonie–funéraire</marquage>.</alinea>
+	Par ailleurs, si on tente de respecter la sémioticité de ces entités dans un modèle fonctionnel alors les intrants risquent de perdre leur atomicité. Et de ce fait, ils ne sont plus aussi facilement admissibles à des fonctions computationnelles. Une <marquage
+            typemarq="italique"
+            >alliance-en-or-ayant-le –sens-d’engagement-d’un-couple-dans-une-communauté</marquage> est un tout complexe difficilement décomposable en unités atomiques. La vibration sonore en hertz d’une tige métallique est autre chose qu’une <marquage
+            typemarq="italique"
+            >tonalité-musicale–en-harmonique-mineure–d’une-perfomance-musicale-pour-une-cérémonie–funéraire</marquage>.</alinea>
       </para>
       <para>
         <alinea>
@@ -417,33 +588,41 @@
       </para>
       <para>
         <alinea>
-	Dans la première, il faut créer un modèle fonctionnel pour chacun des modèles représentationnels. Une telle situation est élégante mais problématique. Cela signifie que chaque modèle fonctionnel porte une signature spécifique. Elle vient du constructeur du modèle représentationnel. Par exemple, un modèle computationnel pour le traitement des modèles représentationnels des statues des Iles de Pâques, recevra une signature différente selon que celui-ci vient d’un anthropologue comme, par exemple un Metraux<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi> (1935, 1941) ou d’un archéologue, comme par exemple, d’un Pitts M. J.<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi> (2014). Et qu’en serait-il s’il venait d’un Levis Straus ou un Descola. Or ces constructeurs de modèles sont des agents cognitifs marqués par leur langue, leur culture, leurs disciplines, etc. Et les résultats de la computation en seront nécessairement marqués par ces signatures.</alinea>
+	Dans la première, il faut créer un modèle fonctionnel pour chacun des modèles représentationnels. Une telle situation est élégante mais problématique. Cela signifie que chaque modèle fonctionnel porte une signature spécifique. Elle vient du constructeur du modèle représentationnel. Par exemple, un modèle computationnel pour le traitement des modèles représentationnels des statues des Iles de Pâques, recevra une signature différente selon que celui-ci vient d’un anthropologue comme, par exemple un Metraux<renvoi
+            idref="sdfootnote9sym" typeref="note"
+            >9</renvoi> (1935, 1941) ou d’un archéologue, comme par exemple, d’un Pitts M. J.<renvoi
+            idref="sdfootnote10sym" typeref="note"
+          >10</renvoi> (2014). Et qu’en serait-il s’il venait d’un Levis Straus ou un Descola. Or ces constructeurs de modèles sont des agents cognitifs marqués par leur langue, leur culture, leurs disciplines, etc. Et les résultats de la computation en seront nécessairement marqués par ces signatures.</alinea>
       </para>
       <para>
         <alinea>
-	Dans la deuxième situation, contrairement la première, il se pourrait que, pour chacun des modèles représentationnels, il existe plus qu’un modèle fonctionnel<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>. Dans ce cas, il existerait une multiplicité de modèles fonctionnels pour chaque modèle représentationnel. Par exemple, si on utilisait un modèle représentationnel à la Levis Straus pour décrire les statues de l’Ile de Pâques, il se pourrait que le modèle computationnel réalisé par un informaticien de la tradition intelligence artificiel comme Minsky (1975) soit radicalement différent de celui construit par un informaticien de la tradition connexionniste comme Rumelhart et Mc Lelland (1986). Encore une fois, les résultats de la computation seraient différents dans les deux cas.</alinea>
+	Dans la deuxième situation, contrairement la première, il se pourrait que, pour chacun des modèles représentationnels, il existe plus qu’un modèle fonctionnel<renvoi
+            idref="sdfootnote11sym" typeref="note"
+          >11</renvoi>. Dans ce cas, il existerait une multiplicité de modèles fonctionnels pour chaque modèle représentationnel. Par exemple, si on utilisait un modèle représentationnel à la Levis Straus pour décrire les statues de l’Ile de Pâques, il se pourrait que le modèle computationnel réalisé par un informaticien de la tradition intelligence artificiel comme Minsky (1975) soit radicalement différent de celui construit par un informaticien de la tradition connexionniste comme Rumelhart et Mc Lelland (1986). Encore une fois, les résultats de la computation seraient différents dans les deux cas.</alinea>
       </para>
       <para>
         <alinea>
 	Mais on peut aussi complexifier ces deux situations. Imaginons que l’ensemble de ces nombreux modèles repose sur des sémantiques totalement autonomes et étanches l’un à l’autre : par exemple, si la sémantique des statues construite par un archéologue était complètement autonome et close par rapport à celle proposée par un anthropologue. Ainsi, ce que signifierait le mot « socle » dans un modèle serait radicalement différent dans les deux systèmes. Ou, encore, imaginons que leurs sémantiques se recouvrent ou se croisent. Par exemple, si pour ces statues géantes, la sémantique de l’archéologue et de l’anthropologue partageait certains éléments tels par exemple, la périodisation, l’usage, les visages, etc.</alinea>
       </para>
-      <para>
-          <figure>
-            <legende lang="fr"> 
-              <alinea><marquage typemarq="italique">Dessin de Julien Viaud alias Pierre Loti Statues géantes des ’Iles de Pâques’ <renvoi idref="sdfootnote12sym" typeref="note">12</renvoi>.</marquage></alinea>
-            </legende>
-            <objetmedia flot="bloc">
-              <image id="img1121-2.png" typeimage="figure" desc=""/>
-            </objetmedia>
-          </figure>
-      </para>
+      <figure>
+        <legende lang="fr">
+          <alinea><marquage typemarq="italique"
+                >Dessin de Julien Viaud alias Pierre Loti Statues géantes des ’Iles de Pâques’ <renvoi
+                idref="sdfootnote12sym" typeref="note">12</renvoi>.</marquage></alinea>
+        </legende>
+        <objetmedia flot="bloc">
+          <image id="img1121-2.png" typeimage="figure" desc="" xlink:type="simple"/>
+        </objetmedia>
+      </figure>
       <para>
         <alinea>
 	Dans les deux cas, la computationnalité qui y serait effectuée poserait des problèmes graves de compréhension et de comparaison des résultats. Ainsi, dans la première situation, parce les sémantiques sont autonomes et étanches, les résultats obtenus par un traitement computationnel réalisé sur les statues géantes à partir du modèle d’un archéologue ou d’un informaticien de la tradition connexionniste seraient incompréhensible et non comparables à ceux réalisés par l’anthropologue ou un informaticien de la tradition IA. Autrement dit, la sémantique des deux systèmes de modèles est hermétique l’une à l’autre.</alinea>
       </para>
       <para>
         <alinea>
-	Cependant, comme dans la deuxième situation où la sémantique des modèles se recouvre, il se pourrait que pour assurer et soutenir ce partage, il faille augmenter la redondance. Si tel est le cas, il y aurait certes plus de compréhension et la comparaison mutuelle des modèles. Mais comme le soutien Chaitin, la redondance<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi> dans ces modèles augmentera l’aléatoire. Et donc cela pourrait diriger le système vers du non computable. Et si tel est le cas, la belle fiabilité et validité qu’assurait la computation disparait. Un résultat computationnel en vaudra un autre.</alinea>
+	Cependant, comme dans la deuxième situation où la sémantique des modèles se recouvre, il se pourrait que pour assurer et soutenir ce partage, il faille augmenter la redondance. Si tel est le cas, il y aurait certes plus de compréhension et la comparaison mutuelle des modèles. Mais comme le soutien Chaitin, la redondance<renvoi
+            idref="sdfootnote13sym" typeref="note"
+          >13</renvoi> dans ces modèles augmentera l’aléatoire. Et donc cela pourrait diriger le système vers du non computable. Et si tel est le cas, la belle fiabilité et validité qu’assurait la computation disparait. Un résultat computationnel en vaudra un autre.</alinea>
       </para>
       <para>
         <alinea>
@@ -463,7 +642,9 @@
       </para>
       <para>
         <alinea>
-	Comment peut-on comprendre dans le cadre des HN ce rôle des oracles ? Récemment, Soare (1996, 2006, 2009, etc.), un des théoriciens importants de la théorie de la computation, proposa une interprétation originale de ces oracles, et des plus intéressantes pour notre propos. Il faut comprendre l’oracle, suggère-t-il, comme une <marquage typemarq="italique">source d’informations</marquage> et de solutions ad hoc que les fonctions non computables peuvent consulter pour résoudre leur problème. Pour les ordinateurs, Soare verra ces oracles comme des bases de données. Qui plus est, l’internet serait pour lui le prototype d’un tel oracle. Et pour les systèmes naturels, les oracles se trouveraient tout simplement dans l’environnement.</alinea>
+	Comment peut-on comprendre dans le cadre des HN ce rôle des oracles ? Récemment, Soare (1996, 2006, 2009, etc.), un des théoriciens importants de la théorie de la computation, proposa une interprétation originale de ces oracles, et des plus intéressantes pour notre propos. Il faut comprendre l’oracle, suggère-t-il, comme une <marquage
+            typemarq="italique"
+          >source d’informations</marquage> et de solutions ad hoc que les fonctions non computables peuvent consulter pour résoudre leur problème. Pour les ordinateurs, Soare verra ces oracles comme des bases de données. Qui plus est, l’internet serait pour lui le prototype d’un tel oracle. Et pour les systèmes naturels, les oracles se trouveraient tout simplement dans l’environnement.</alinea>
       </para>
       <para>
         <alinea>
@@ -471,11 +652,16 @@
       </para>
       <para>
         <alinea>
-	On peut traduire cette interprétation des oracles pour la positionner en regard du travail des chercheurs dans les humanités. En effet, s’il existe dans les humanités de nombreuses tâches qui sont intrinsèquement non-computables, on peut penser que leurs modèles fonctionnels devront eux aussi inclure une consultation d’oracles. Et comme le suggère Soare, ces oracles seront, pour les humanités, des sources complexes de formes sémiotiques dépositaires de telles informations. De fait, dans les humanités, ces formes sémiotiques ne sont pas si mystérieuses qu’elles le semblent. Nous dirions même qu’elles y sont omniprésentes. Elles prendront la forme <marquage typemarq="italique">de</marquage> <marquage typemarq="italique">texte, d’images, de cartes, de rituels, de chants, de films, des structures architecturales, etc. </marquage>Autrement dit, lorsque des modèles fonctionnels s’avèrent effectivement ou possiblement non computables, il faudra prévoir la possibilité de consulter des oracles constitués de formes sémiotiques où est déposé un savoir stabilisé et socialement partagé.</alinea>
+	On peut traduire cette interprétation des oracles pour la positionner en regard du travail des chercheurs dans les humanités. En effet, s’il existe dans les humanités de nombreuses tâches qui sont intrinsèquement non-computables, on peut penser que leurs modèles fonctionnels devront eux aussi inclure une consultation d’oracles. Et comme le suggère Soare, ces oracles seront, pour les humanités, des sources complexes de formes sémiotiques dépositaires de telles informations. De fait, dans les humanités, ces formes sémiotiques ne sont pas si mystérieuses qu’elles le semblent. Nous dirions même qu’elles y sont omniprésentes. Elles prendront la forme <marquage
+            typemarq="italique">de</marquage>
+          <marquage typemarq="italique"
+            >texte, d’images, de cartes, de rituels, de chants, de films, des structures architecturales, etc. </marquage>Autrement dit, lorsque des modèles fonctionnels s’avèrent effectivement ou possiblement non computables, il faudra prévoir la possibilité de consulter des oracles constitués de formes sémiotiques où est déposé un savoir stabilisé et socialement partagé.</alinea>
       </para>
       <para>
         <alinea>
-	En fait, cet oracle n’est pas nouveau pour les humanités. Il est connu depuis des siècles. Son nom est Hermès. Et il a souvent joué ce rôle d’oracle! Et lorsqu’il s’est mis à travailler sur les objets qu’on lui remettait, on appelait son travail <marquage typemarq="italique">interprétation</marquage> ou plus techniquement “ herméneutique ’. Ceci signifie plus concrètement que ces oracles sont des interprètes ou agents cognitifs, qui, eux-mêmes, possédant aussi un savoir pertinent, interviennent pour les assister dans la " calculabilité " des tâches à réaliser. Et ces agents-interprètes sont toujours sensibles à la dimension de signification en jeu dans la tâche à réaliser.</alinea>
+	En fait, cet oracle n’est pas nouveau pour les humanités. Il est connu depuis des siècles. Son nom est Hermès. Et il a souvent joué ce rôle d’oracle! Et lorsqu’il s’est mis à travailler sur les objets qu’on lui remettait, on appelait son travail <marquage
+            typemarq="italique"
+          >interprétation</marquage> ou plus techniquement “ herméneutique ’. Ceci signifie plus concrètement que ces oracles sont des interprètes ou agents cognitifs, qui, eux-mêmes, possédant aussi un savoir pertinent, interviennent pour les assister dans la " calculabilité " des tâches à réaliser. Et ces agents-interprètes sont toujours sensibles à la dimension de signification en jeu dans la tâche à réaliser.</alinea>
       </para>
       <para>
         <alinea>
@@ -495,12 +681,15 @@
       </para>
       <para>
         <alinea>
-	Comme le dit Penrose : <marquage typemarq="italique">Human intuition and insight... cannot be reduced to any set of computational rules. (Penrose, Shadows of the Mind :</marquage>
+	Comme le dit Penrose : <marquage typemarq="italique"
+            >Human intuition and insight... cannot be reduced to any set of computational rules. (Penrose, Shadows of the Mind :</marquage>
         </alinea>
       </para>
       <para>
         <alinea>
-	Une telle position ne serait pas originale. Même en mathématiques, tout n’est pas computable: “ <marquage typemarq="italique">undecidability and incompleteness are everywhere in mathematics ’ Chatin, Costa, Doria ; 2012 : xiii)</marquage>
+	Une telle position ne serait pas originale. Même en mathématiques, tout n’est pas computable: “ <marquage
+            typemarq="italique"
+            >undecidability and incompleteness are everywhere in mathematics ’ Chatin, Costa, Doria ; 2012 : xiii)</marquage>
         </alinea>
       </para>
       <para>
@@ -526,17 +715,23 @@
       <note id="sdfootnote1sym">
         <no>1</no>
         <alinea>
-	De fait, la pratique concrète des Humanités numériques est devenu problématique. Comme le souligne tout semble pouvoir être l’objet des humanités numériques. Ainsi, écrit-il dans <marquage typemarq="italique">Defining Digital Humanities</marquage>, « the term can mean anything from media studies to electronic art, from data mining to edutech, from scholarly editing to anarchic blogging, while inviting code junkies, digital artists, standards wonks, transhumanists, game theorists, free culture advocates, archivists, librarians, and edupunks under its capacious canvas. »</alinea>
+	De fait, la pratique concrète des Humanités numériques est devenu problématique. Comme le souligne tout semble pouvoir être l’objet des humanités numériques. Ainsi, écrit-il dans <marquage
+            typemarq="italique"
+          >Defining Digital Humanities</marquage>, « the term can mean anything from media studies to electronic art, from data mining to edutech, from scholarly editing to anarchic blogging, while inviting code junkies, digital artists, standards wonks, transhumanists, game theorists, free culture advocates, archivists, librarians, and edupunks under its capacious canvas. »</alinea>
       </note>
       <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
-	<liensimple xlink:type="simple" xlink:href="http://digital.humanities.ox.ac.uk/Support/whatarethedh.aspx ">Voir en ligne</liensimple> pour lire l’article « What are the Digital Humanities ? » publié sur le site du centre de recherche de <marquage typemarq="italique">Digital Humanities</marquage> de l’Université d’Oxford.</alinea>
+          <liensimple xlink:type="simple"
+            xlink:href="http://digital.humanities.ox.ac.uk/Support/whatarethedh.aspx "
+            >Voir en ligne</liensimple> pour lire l’article « What are the Digital Humanities ? » publié sur le site du centre de recherche de <marquage
+            typemarq="italique">Digital Humanities</marquage> de l’Université d’Oxford.</alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>
         <alinea>
-	Il est intéressant de remarquer que Père Busa dans ses écrits ne parlait pas de Digital humanities mais bien de <marquage typemarq="italique">humanities computing.</marquage>
+	Il est intéressant de remarquer que Père Busa dans ses écrits ne parlait pas de Digital humanities mais bien de <marquage
+            typemarq="italique">humanities computing.</marquage>
         </alinea>
       </note>
       <note id="sdfootnote4sym">
@@ -552,7 +747,9 @@
       <note id="sdfootnote6sym">
         <no>6</no>
         <alinea>
-	De manière spécifique et précise, cette thèse soutient « Que la même classe de fonctions partielles (et donc de fonctions totales) est obtenue dans chaque cas. » (Rogers 1987 :19) Autrement dit, pour chaque classe de fonctions récursives, une machine de Turing peut être trouvée. <marquage typemarq="italique">Il s’est avéré aussi que tous les modèles de machines computationnelles proposés ultérieurement définissent aussi une classe de fonctions qui peuvent toutes être décrites par des instructions définissant exactement le même type de fonctions computationnelles</marquage> .</alinea>
+	De manière spécifique et précise, cette thèse soutient « Que la même classe de fonctions partielles (et donc de fonctions totales) est obtenue dans chaque cas. » (Rogers 1987 :19) Autrement dit, pour chaque classe de fonctions récursives, une machine de Turing peut être trouvée. <marquage
+            typemarq="italique"
+            >Il s’est avéré aussi que tous les modèles de machines computationnelles proposés ultérieurement définissent aussi une classe de fonctions qui peuvent toutes être décrites par des instructions définissant exactement le même type de fonctions computationnelles</marquage> .</alinea>
       </note>
       <note id="sdfootnote7sym">
         <no>7</no>
@@ -572,7 +769,12 @@
       <note id="sdfootnote10sym">
         <no>10</no>
         <alinea>
-	Voir les découvertes faites par L archéologue Pitts par des moyens informatiques dans Pitts, M. et <marquage typemarq="italique">al</marquage>. (2014) et voir l’article « New and surprising discoveries about Mysterious Easter Island Statue : Origin of the Birdman Cult » (2013) sur Science World Report <liensimple xlink:type="simple" xlink:href="http://www.scienceworldreport.com/articles/6178/20130411/new-surprising-discoveries-mysterious-easter-island-statue-origin-birdman-cult.htm">voir en ligne</liensimple>.</alinea>
+	Voir les découvertes faites par L archéologue Pitts par des moyens informatiques dans Pitts, M. et <marquage
+            typemarq="italique"
+            >al</marquage>. (2014) et voir l’article « New and surprising discoveries about Mysterious Easter Island Statue : Origin of the Birdman Cult » (2013) sur Science World Report <liensimple
+            xlink:type="simple"
+            xlink:href="http://www.scienceworldreport.com/articles/6178/20130411/new-surprising-discoveries-mysterious-easter-island-statue-origin-birdman-cult.htm"
+            >voir en ligne</liensimple>.</alinea>
       </note>
       <note id="sdfootnote11sym">
         <no>11</no>

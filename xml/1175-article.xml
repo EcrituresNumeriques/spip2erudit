@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1905ear" typeart="autre" lang="fr" ordseq="1">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article"
+  xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd"
+  qualtraitement="complet" idproprio="1905ear" typeart="autre" lang="fr" ordseq="1">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -81,7 +84,7 @@
   </liminaire>
   <corps>
     <section1>
-	<titre>
+      <titre>
 		Introduction</titre>
 
       <para>
@@ -149,27 +152,35 @@
 	The fundamental symbol of Curvy A is a stylised river shape, curved, hence the name, which is essentially a Bézier curve (fig. 1). As it turns out, a more complex, asymmetric and packaged curve (that is, with more meanders) is intuitively more memorable, and allows for the mapping of more content in a single view (fig. 2). This river shape is a strand of loci (fig. 3), each being another strand for other loci (fig. 4) which are groups of noems of various shapes so as to facilitate their memorisation. The purpose of Curvy A is to capture some of the aspects of the interaction between long term and short term memory in the method of loci, and to make it writable in a procedural manner. Hence, being an externalisation of the method of loci, it is a media, albeit fundamentally different from writing. Among other things, it is a procedural writing.</alinea>
       </para>
       <figure>
-        <legende lang="fr"><alinea>Fig.1 Curvy A.1, a Bézier curve is figuring the highest loceme, itself mapping other quasi-self-similar locemes. The lowest level locemes are black dots, which in three dimensions could figure a stylised rock, just like the Bézier curves are stylised rivers. The lowest levels locemes are directly mapping noems, unlike the higher-level ones.</alinea></legende>
+        <legende lang="fr">
+          <alinea>Fig.1 Curvy A.1, a Bézier curve is figuring the highest loceme, itself mapping other quasi-self-similar locemes. The lowest level locemes are black dots, which in three dimensions could figure a stylised rock, just like the Bézier curves are stylised rivers. The lowest levels locemes are directly mapping noems, unlike the higher-level ones.</alinea>
+        </legende>
         <objetmedia flot="bloc">
-          <image id="img1175-1.png" typeimage="figure"/>
+          <image id="img1175-1.png" typeimage="figure" xlink:type="simple"/>
         </objetmedia>
       </figure>
       <figure>
-        <legende lang="fr"><alinea>Fig.2 Curvy A.2, first step : the curve is made more complex so as to map more locemes in the same space. As a stylised river, it has more asymmetric meanders, making it slightly more memorable.</alinea></legende>
+        <legende lang="fr">
+          <alinea>Fig.2 Curvy A.2, first step : the curve is made more complex so as to map more locemes in the same space. As a stylised river, it has more asymmetric meanders, making it slightly more memorable.</alinea>
+        </legende>
         <objetmedia flot="bloc">
-          <image id="img1175-2.png" typeimage="figure"/>
+          <image id="img1175-2.png" typeimage="figure" xlink:type="simple"/>
         </objetmedia>
       </figure>
       <figure>
-        <legende lang="fr"><alinea>Fig.3 Curvy A.2, second step : other quasi-self-similar locemes are added at the level below the second ones.</alinea></legende>
+        <legende lang="fr">
+          <alinea>Fig.3 Curvy A.2, second step : other quasi-self-similar locemes are added at the level below the second ones.</alinea>
+        </legende>
         <objetmedia flot="bloc">
-          <image id="img1175-3.png" typeimage="figure"/>
+          <image id="img1175-3.png" typeimage="figure" xlink:type="simple"/>
         </objetmedia>
       </figure>
       <figure>
-        <legende lang="fr"><alinea>Fig.4 Curvy A.2, third step : half of the locemes have been populated by the lowest level locemes (the dots, stylised rocks) each clustered in groups, and each associated with a single noem. Here the entire script is mapping about 630 noems and could be continued.</alinea></legende>
+        <legende lang="fr">
+          <alinea>Fig.4 Curvy A.2, third step : half of the locemes have been populated by the lowest level locemes (the dots, stylised rocks) each clustered in groups, and each associated with a single noem. Here the entire script is mapping about 630 noems and could be continued.</alinea>
+        </legende>
         <objetmedia flot="bloc">
-          <image id="img1175-4.png" typeimage="figure"/>
+          <image id="img1175-4.png" typeimage="figure" xlink:type="simple"/>
         </objetmedia>
       </figure>
     </section1>
@@ -198,434 +209,434 @@
     <grbiblio>
       <biblio>
         <titre>Bibliography:</titre>
-              
+
         <refbiblio>
 	ALDERMAN, G. (1996). The Memory Palace (HarperCollins).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	BACH-Y-RITA, P. (1972). Brain mechanisms in sensory substitution (Academic Press).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	BACH-Y-RITA, P. (1990). Brain plasticity as a basis for recovery of function in humans. Neuropsychologia 28, 547–554.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	BACH-Y-RITA, P. (1997). Substitution sensorielle et qualia. Perception et Intermodalité : Approches Actuelles de La Question de Molyneux 81–100.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	BACH-Y-RITA, P., and KERCEL, S.W. (2003). Sensory substitution and the human–machine interface. Trends in Cognitive Sciences 7, 541–546.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	BACH-Y-RITA, P., Collins, C.C., Saunders, F.A., White, B., and Scadden, L. (1969). Vision substitution by tactile image projection.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	BACH-Y-RITA, P., KACZMAREK, K.A., Tyler, M.E., and Garcia-Lara, J. (1998). Form perception with a 49-point electrotactile stimulus array on the tongue: a technical note. Journal of Rehabilitation Research and Development 35, 427–430.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	BARTOK, M. (2011). The Memory Palace (Free Press).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	BEWERNICK, H. (2010). The Storyteller’s Memory Palace: A Method of Interpretation Based on the Function of Memory Systems in Literature : Geoffrey Chaucer, William Langland, Salman Rushdie, Angela Carter, Thomas Pynchon and Paul Auster (New York).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	BLUMBERG, E.J., PETERSON, M.S., and PARASURAMAN, R. (2015). Enhancing multiple object tracking performance with noninvasive brain stimulation: a causal role for the anterior intraparietal sulcus. Frontiers in Systems Neuroscience 9.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	BOCCARA, C.N., SARGOLINI, F., THORESEN, V.H., SOLSTAD, T., WITTER, M.P., MOSER, E.I., and MOSER, M.-B. (2010). Grid cells in pre-and parasubiculum. Nature Neuroscience 13, 987–994.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	BUSH, V. (1945). As we may think.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	CHRISTENSEN, J., DOCZY, E., DURBIN, M., FINOMORE, V., FUNKE, M., McKINLEY, R., SATTERFIELD, K., SCHMIDT, R., SIDROW, K., and TRAVER, K. (2010). Neuroergonomics Deep Dive Literature Review, Volume 1: Neuroergonomics and Cognitive State (DTIC Document).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	CLARK, V.P., and PARASURAMAN, R. (2014). Neuroenhancement: enhancing brain and mind in health and in disease. Neuroimage 85, 889–894.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	CLARK, V.P., COFFMAN, B.A., MAYER, A.R., WEISEND, M.P., LANE, T.D., CALHOUN, V.D., RAYBOURN, E.M., GARCIA, C.M., and WASSERMANN, E.M. (2012). TDCS guided using fMRI significantly accelerates learning to identify concealed objects. Neuroimage 59, 117–128.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	COFFMAN, B.A., CLARK, V.P., and PARASURAMAN, R. (2014). Battery powered thought: enhancement of attention, learning, and memory in healthy adults using transcranial direct current stimulation. Neuroimage 85, 895–908.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	CONTY, L., TIJUS, C., HUGUEVILLE, L., COELHO, E., and GEORGE, N. (2006). Searching for asymmetries in the detection of gaze contact versus averted gaze under different head views: a behavioural study. Spatial Vision 19, 529–545.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	CONTY, L., N’DIAYE, K., TIJUS, C., and GEORGE, N. (2007). When eye creates the contact ! ERP evidence for early dissociation between direct and averted gaze motion processing. Neuropsychologia 45, 3024–3037.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	DEL CUL, A., BAILLET, S., and DEHAENE, S. (2007). Brain dynamics underlying the nonlinear threshold for access to consciousness. PLoS Biol 5, e260.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	DEL CUL, A., DEHAENE, S., REYES, P., BRAVO, E., and SLACHEVSKY, A. (2009). Causal role of prefrontal cortex in the threshold for access to consciousness. Brain 132, 2531–2540.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	DEHAENE, S. (2000). Geniuses and Prodigies. Math Horizons 18–21.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	DEHAENE, S., DEHAENE-LAMBERTZ, G., and COHEN, L. (1998a). Abstract representations of numbers in the animal and human brain. Trends in Neurosciences 21, 355–361.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	DEHAENE, S., KERSZBERG, M., and CHANGEUX, J.-P. (1998b). A neuronal model of a global workspace in effortful cognitive tasks. Proceedings of the National Academy of Sciences 95, 14529–14534.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	DEHAENE, S., SERGENT, C., and CHANGEUX, J.-P. (2003). A neuronal network model linking subjective reports and objective physiological data during conscious perception. Proceedings of the National Academy of Sciences 100, 8520–8525.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	DEHAENE, S., CHANGEUX, J.-P., NACCACHE, L., SACKUR, J., and SERGENT, C. (2006a). Conscious, preconscious, and subliminal processing: a testable taxonomy. Trends in Cognitive Sciences 10, 204–211.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	DEHAENE, S., IZARD, V., PICA, P., and SPELKE, E. (2006b). Core knowledge of geometry in an Amazonian indigene group. Science 311, 381–384.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	DEHAENE, S., IZARD, V., SPELKE, E., and PICA, P. (2008). Log or linear ? Distinct intuitions of the number scale in Western and Amazonian indigene cultures. Science 320, 1217–1220.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	DOELLER, C.F., BARRY, C., and BURGESS, N. (2010). Evidence for grid cells in a human memory network. Nature 463, 657–661.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	DUGGAN, K., and SHOUP, K. (2013). Business Gamification For Dummies (Wiley).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	FALCONE, B., and PARASURAMAN, R. (2012). Comparative Effects of First-Person Shooter Video Game Experience and Brain Stimulation on Threat Detection Learning. In Proceedings of the Human Factors and Ergonomics Society Annual Meeting, (Sage Publications), pp. 173–177.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	FALCONE, B., COFFMAN, B.A., CLARK, V.P., and PARASURAMAN, R. (2012). Transcranial direct current stimulation augments perceptual sensitivity and 24-hour retention in a complex threat detection task.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	FALCONE, B., McKENDRICK, R., and PARASURAMAN, R. (2013). A Shocking lack of Difference Noninvasive Brain Stimulation in Verbal and Spatial Working Memory. In Proceedings of the Human Factors and Ergonomics Society Annual Meeting, (SAGE Publications), pp. 129–133.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	FAUGERAS, F., ROHAUT, B., WEISS, N., BEKINSCHTEIN, T.A., GALANAUD, D., PUYBASSET, L., BOLGERT, F., SERGENT, C., COHEN, L., and DEHAENE, S. (2011). Probing consciousness with event-related potentials in the vegetative state. Neurology 77, 264–268.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	FEIGENSON, L., DEHAENE, S., and SPELKE, E. (2004). Core systems of number. Trends in Cognitive Sciences 8, 307–314.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	FEYDY, A., CARLIER, R., ROBY-BRAMI, A., BUSSEL, B., CAZALIS, F., PIEROT, L., BURNOD, Y., and MAIER, M.A. (2002). Longitudinal study of motor recovery after stroke recruitment and focusing of brain activation. Stroke 33, 1610–1617.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	FOER, J. (2011). Moonwalking with Einstein: The Art and Science of Remembering Everything (Penguin Books Limited).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	GALOTTI, K.M. (2008). Cognitive Psychology In and Out of the Laboratory: In and Out of the Laboratory (Thomson/Wadsworth).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	GEVINS, A., and Smith, M.E. (2006). Electroencephalography (EEG) in neuroergonomics. Neuroergonomics: The Brain at Work 15–31.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	GOLDSTEIN, E. (2007). Cognitive Psychology: Connecting Mind, Research and Everyday Experience (Cengage Learning).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	GREUTER, S., PARKER, J., STEWART, N., and LEACH, G. (2003a). Real-time procedural generation ofpseudo infinite’cities. In Proceedings of the 1st International Conference on Computer Graphics and Interactive Techniques in Australasia and South East Asia, (ACM), p. 87 – ff.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	GREUTER, S., PARKER, J., STEWART, N., and LEACH, G. (2003b). Undiscovered worlds–towards a framework for real-time procedural world generation. In Fifth International Digital Arts and Culture Conference, Melbourne, Australia,.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	HAMILTON, C. (1998). The Memory Palace (Kent State University Press).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	HANCOCK, P.A., and SZALMA, J.L. (2003). The future of neuroergonomics. Theoretical Issues in Ergonomics Science 4, 238–249.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	HANCOCK, P.A., and SZALMA, J.L., PARASURAMAN, R., and Rizzo, M. (2006). Stress and neuroergonomics. Neuroergonomics: The Brain at Work 195–206.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	HETTINGER, L.J., BRANCO, P., ENCARNACAO, L.M., and BONATO, P. (2003). Neuroadaptive technologies: applying neuroergonomics to the design of advanced interfaces. Theoretical Issues in Ergonomics Science 4, 220–237.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	HOLLIS, E. (2014). The Memory Palace: A Book of Lost Interiors (Counterpoint LLC).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	IZARD, V., and DEHAENE, S. (2008). Calibrating the mental number line. Cognition 106, 1221–1247.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	JOHNSON, A., and PROCTOR, R. (2013). Neuroergonomics: A cognitive neuroscience approach to human factors and ergonomics (Palgrave Macmillan).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	KACZMAREK, K.A., and BACH-Y-RITA, P. (1995). Tactile displays. Virtual Environments and Advanced Interface Design 349–414.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	KACZMAREK, K., WEBSTER, J.G., BACH-Y-RITA, P., and TOMPKINS, W.J. (1991). Electrotactile and vibrotactile displays for sensory substitution systems. Biomedical Engineering, IEEE Transactions on 38, 1–16.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	KAPP, K.M. (2012). The Gamification of Learning and Instruction: Game-based Methods and Strategies for Training and Education (Wiley).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	KENNEDY, T.M., TWETON, D.J., and COUNCIL, N.D.H. (2002). The Memory Palaces of the Dakotas (North Dakota Humanities Council).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	KILLIAN, E. (2013). Gamification 2.0 - A Concept: A brief introduction to games followed by a journey through human motivation, behavioural psychology, the concept of flow, ultimately to the realisation of Gamification 1.0 with its structural and content mechanisms. From there this short book promulgates the notion of Gamification 2.0 highlighting the idea of “Convergence’ with BigData &amp; Analytics to capture real-time information in order to monetize the motivations of game players.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	KOENING, J., LINDER, A.N., LEUTGEB, J.K., and LEUTGEB, S. (2011). The spatial periodicity of grid cells is not sustained during reduced theta oscillations. Science 332, 592–595.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	KOUIDER, S., DEHAENE, S., JOBERT, A., and LE BIHAN, D. (2007). Cerebral bases of subliminal and supraliminal priming during reading. Cerebral Cortex 17, 2019–2029.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	LANG, T., BERTHOLET, G., and MULETIER, C. (2014). La gamification: Ou l’art d’utiliser les mécaniques du jeu dans votre business (Eyrolles).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	LUBER, B., and LISANBY, S.H. (2014). Enhancement of human cognitive performance using transcranial magnetic stimulation (TMS). Neuroimage 85, 961–970.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	LYNDON, D., and MOORE, C.W. (1996). Chambers for a Memory Palace (MIT Press).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	MADIGAN, R. (2015). How Memory Works--and How to Make It Work for You: G1196 (Guilford Publications).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	MAGUIRE, E.A., HENSON, R.N., MUMMERY, C.J., and FRITH, C.D. (2001). Activity in prefrontal cortex, not hippocampus, varies parametrically with the increasing remoteness of memories. Neuroreport 12, 441–444.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	MANAGEMENT ASSOCIATION, I.R. (2015). Gamification: Concepts, Methodologies, Tools, and Applications: Concepts, Methodologies, Tools, and Applications (IGI Global).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	MARCZEWSKI, A. (2013). Gamification: A Simple Introduction (Andrzej Marczewski).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	MAREK, T., KARWOWSKI, W., and RICE, V. (2010). Advances in Understanding Human Performance: Neuroergonomics, Human Factors Design, and Special Populations (CRC Press).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	McKINLEY, R.A., BRIDGES, N., WALTERS, C.M., and NELSON, J. (2012). Modulating the brain at work using noninvasive transcranial stimulation. Neuroimage 59, 129–137.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	MOSER, E.I., KROPFF, E., and MOSER, M.-B. (2008a). Place cells, grid cells, and the brain’s spatial representation system. Annu. Rev. Neurosci. 31, 69–89.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	MOSER, E.I., KROPFF, E., and MOSER, M.-B. (2008b). Place cells, grid cells, and the brain’s spatial representation system. Annu. Rev. Neurosci. 31, 69–89.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	MOURAS, H., STOLERU, S., BITTOUN, J., GLUTRON, D., PELEGRINI-ISSAC, M., PARADIS, A.-L., and BURNOD, Y. (2003). Brain processing of visual sexual stimuli in healthy men: a functional magnetic resonance imaging study. Neuroimage 20, 855–869.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	NAKAZAWA, K., McHUGH, T.J., WILSON, M.A., and TONEGAWA, S. (2004). NMDA receptors, place cells and hippocampal spatial memory. Nature Reviews Neuroscience 5, 361–372.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	NELSON, J.T., McKINLEY, R.A., GOLOB, E.J., WARM, J.S., and PARASURAMAN R. (2014). Enhancing vigilance in operators with prefrontal cortex transcranial direct current stimulation (tDCS). Neuroimage 85, 909–917.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	NIEDER, A., and DEHAENE, S. (2009). Representation of number in the brain. Annual Review of Neuroscience 32, 185–208.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	NITSCHE, M., ASHMORE, C., HANKINSON, W., FITZPATRICK, R., KELLY, J., and MARGENAU, K. (2006). Designing procedural game spaces: A case study. Proceedings of FuturePlay 2006.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	O’KEEFE, J., and BURGESS, N. (2005). Dual phase and rate coding in hippocampal place cells: theoretical significance and relationship to entorhinal grid cells. Hippocampus 15, 853.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	PALLIER, C., DEVAUCHELLE, A.-D., and DEHAENE, S. (2011). Cortical representation of the constituent structure of sentences. Proceedings of the National Academy of Sciences 108, 2522–2527.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	PARASURAMAN, R. (2003). Neuroergonomics: Research and practice. Theoretical Issues in Ergonomics Science 4, 5–20.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	PARASURAMAN, R. (2011a). Neuroergonomics brain, cognition, and performance at work. Current Directions in Psychological Science 20, 181–186.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	PARASURAMAN, R. (2011b). Neuroergonomics brain, cognition, and performance at work. Current Directions in Psychological Science 20, 181–186.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	PARASURAMAN, R. (2015). Neuroergonomic perspectives on human systems integration: Mental workload, vigilance, adaptive automation, and training.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	PARASURAMAN, R., and GALSTER, S. (2013). Sensing, assessing, and augmenting threat detection: behavioral, neuroimaging, and brain stimulation evidence for the critical role of attention. Frontiers in Human Neuroscience 7.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	PARASURAMAN, R., and RIZZO, M. (2006). Neuroergonomics: The brain at work (Oxford University Press).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	PARASURAMAN, R., and WILSON, G.F. (2008). Putting the brain to work: Neuroergonomics past, present, and future. Human Factors: The Journal of the Human Factors and Ergonomics Society 50, 468–474.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	PARASURAMAN, R., GREENWOOD, P., SCHELDRUP, M., FALCONE, B., KIDWELL, B., and McKENDRICK, R. (2014). Neuroergonomics of Skill Acquisition: Genetic and Non-Invasive Brain Stimulation Studies. Advances in Cognitive Engineering and Neuroergonomics 11, 73.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	PARKS, N.A., MACLIN, E.L., LOW, K.A., BECK, D.M., FABIANI, M., and GRATTON, G. (2012). Examining cortical dynamics and connectivity with simultaneous single-pulse transcranial magnetic stimulation and fast optical imaging. Neuroimage 59, 2504–2510.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	PESENTI, M., ZAGO, L., CRIVELLO, F., MELLET, E., SAMSON, D., DUROUX, B., SERON, X., MAZOYER, B., and TZOURIO-MAZOYER, N. (2001). Mental calculation in a prodigy is sustained by right prefrontal and medial temporal areas. Nature Neuroscience 4, 103–107.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	PIAZZA, M., IZARD, V., PINEL, P., LE BIHAN, D., and DEHAENE, S. (2004). Tuning curves for approximate numerosity in the human intraparietal sulcus. Neuron 44, 547–555.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	PIOLINO, P., DESGRANGES, B., BENALI, K., and EUSTACHE, F. (2002). Episodic and semantic remote autobiographical memory in ageing. Memory 10, 239–257.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	PIOLINO, P., DESGRANGES, B., BELLIARD, S., MATUSZEWSKI, V., L       ALEVEE, C., DE LA SAYETTE, V., and EUSTACHE, F. (2003). Autobiographical memory and autonoetic consciousness: triple dissociation in neurodegenerative diseases. Brain 126, 2203–2219.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	PIOLINO, P., DESGRANGES, B., and EUSTACHE, F. (2009). Episodic autobiographical memories over the course of time: cognitive, neuropsychological and neuroimaging findings. Neuropsychologia 47, 2314–2329.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	REINERS, T., and WOOD, L. (2014). Gamification in Education and Business (Springer International Publishing).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	SAMPAIO, E., MARIS, S., and BACH-Y-RITA, P. (2001). Brain plasticity :“visual’acuity of blind persons via the tongue. Brain Research 908, 204–207.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	SANDRINI, M., COHEN, L.G., and COHEN-KADOSH, R. (2014). Effects of brain stimulation on declarative and procedural memories. The Stimulated Brain 237–256.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	SARTER, N., and SARTER, M. (2003). Neuroergonomics: Opportunities and challenges of merging cognitive neuroscience with cognitive ergonomics. Theoretical Issues in Ergonomics Science 4, 142–150.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	SMELIK, R., TUTENEL, T., de KRAKER, K.J., and BIDARRA, R. (2010). Integrating procedural generation and manual editing of virtual worlds. In Proceedings of the 2010 Workshop on Procedural Content Generation in Games, (ACM), p. 2.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	SOLSTAD, T., MOSER, E.I., and EINEVOLL, G.T. (2006). From grid cells to place cells: a mathematical model. Hippocampus 16, 1026–1031.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	SPENCE, J.D. (2008). The Memory Palace of Matteo Ricci (Quercus).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	THIOUX, M., PESENTI, M., COSTES, N., De VOLDER, A., and SERON, X. (2005). Task-independent semantic activation for numbers and animals. Cognitive Brain Research 24, 284–290.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	TIJUS, C.A., POITRENAUD, S., and RICHARD, J.-F. (1996). Propriétés, objets, procédures: les réseaux sémantiques d’action appliqués à la représentation des dispositifs techniques. Le Travail Humain 209–229.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	TULVING, E., and MARKOWITSCH, H.J. (1998). Episodic and declarative memory: role of the hippocampus. Hippocampus 8.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	TYLER, M., DANILOV, Y., and BACH-Y-RITA, P. (2003). Closing an open-loop control system: vestibular substitution through the tongue. Journal of Integrative Neuroscience 2, 159–164.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	VIARD, A., LEBRETON, K., CHETELAT, G., DESGRANGES, B., LANDEAU, B., YOUNG, A., DE LA SAYETTE, V., EUSTACHE, F., and PIOLINO, P. (2010). Patterns of hippocampal–neocortical interactions in the retrieval of episodic autobiographical memories across the entire life‐span of aged adults. Hippocampus 20, 153–165.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	WHITE, B.W., SAUNDERS, F.A., SCADDEN, L., BACH-Y-RITA, P., and COLLINS, C.C. (1970). Seeing with the skin. Perception &amp; Psychophysics 7, 23–27.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	WOOLLEY, B. (1993). Virtual Worlds: A Journey in Hype and Hyperreality (Penguin Books).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	WORTHEN, J.B., and HUNT, R.R. (2011). Mnemonology: Mnemonics for the 21st Century (Taylor &amp; Francis).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	ZAGO, L., and TZOURIO-MAZOYER, N. (2002). Distinguishing visuospatial working memory and complex mental calculation areas within the parietal lobes. Neuroscience Letters 331, 45–49.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	ZAGO, L., PESENTI, M., MELLET, E., CRIVELLO, F., MAZOYER, B., and TZOURIO-MAZOYER, N. (2001). Neural correlates of simple and complex mental calculation. Neuroimage 13, 314–327.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	ZAGO, L., PETIT, L., TURBELIN, M.-R., ANDERSSON, F., VIGNEAU, M., and TZOURIO-MAZOYER, N. (2008). How verbal and spatial manipulation networks contribute to calculation: an fMRI study. Neuropsychologia 46, 2403–2414.</refbiblio>
-      
-      
+
+
         <refbiblio>
 	ZICHERMANN, G., and CUNNINGHAM, C. (2011). Gamification by Design: Implementing Game Mechanics in Web and Mobile Apps (O’Reilly Media).</refbiblio>
-      
-      
+
+
         <refbiblio>
 	ZICHERMANN, G., and LINDER, J. (2013). The Gamification Revolution: How Leaders Leverage Game Mechanics to Crush the Competition (McGraw-Hill Education).</refbiblio>
-      
+
       </biblio>
     </grbiblio>
   </partiesann>
