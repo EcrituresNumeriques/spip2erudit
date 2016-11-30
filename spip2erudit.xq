@@ -5,7 +5,7 @@ xquery version "3.0" ;
  :
  : @version 0.3
  : @since 2015-11-04
- : @date 2016-05 
+ : @date 2016-05
  : @author emchateau
  :
  : @todo br, num structure, titres h2 etc.
@@ -34,7 +34,7 @@ declare variable $local:groupes := fn:doc($local:base || 'groupes.xml') ;
 declare function writeArticles($refs as map(*)*) as document-node()* {
   let $path := $local:base || '/xml/'
   for $ref in $refs
-  return 
+  return
     let $article := db:open('sens-public')//spip:spip_articles[spip:id_article = map:get($ref, 'num')]
     let $ref := map:put( $ref, 'issue', getIssue($article/spip:id_article/text())[1] )
     let $file := map:get($ref, 'num') || '-article' || '.xml'
@@ -43,7 +43,7 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
 };
 
 
-(:~ 
+(:~
  : This function builts the article content
  : @param $article the SPIP article
  : @param $ref the article references (id, num, vol, n)
@@ -59,19 +59,19 @@ declare function getArticle( $article as element(), $ref as map(*) ) as element(
   let $grnote := getNote($content)
   let $liminaire := getLiminaire($article)
   let $admin := getAdmin($article, $corps, $biblio, $grnote, $ref)
-  return 
+  return
     <article
-      xmlns="http://www.erudit.org/xsd/article" 
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-      xmlns:xlink="http://www.w3.org/1999/xlink" 
-      xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" 
-      qualtraitement="complet" 
-      idproprio="{map:get($ref, 'id')}" 
-      typeart="autre" 
-      lang="fr" 
-      ordseq="1">{ 
-        $admin, 
-        $liminaire, 
+      xmlns="http://www.erudit.org/xsd/article"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd"
+      qualtraitement="complet"
+      idproprio="{map:get($ref, 'id')}"
+      typeart="autre"
+      lang="fr"
+      ordseq="1">{
+        $admin,
+        $liminaire,
         $corps,
         <partiesann>{(
           $biblio,
@@ -81,10 +81,10 @@ declare function getArticle( $article as element(), $ref as map(*) ) as element(
 };
 
 
-(:~ 
+(:~
  : This function gets the biblio
  : @param $content the content to parse
- : @return an erudit 
+ : @return an erudit
  :)
 declare function getBiblio($content as element()) {
     for $biblio in $content//grbiblio
@@ -94,46 +94,46 @@ declare function getBiblio($content as element()) {
     return $biblio
 };
 
-(:~ 
+(:~
  : This function get the notes
  : @param $content the content to parse
- : @return an erudit 
+ : @return an erudit
  :)
 declare function getNote($content as element()) {
   for $grnote in $content//grnote
   return copy $grnote := $grnote
-        modify 
-          for $note in $content//note 
+        modify
+          for $note in $content//note
           return insert node $note into $grnote
         return $grnote
 };
 
-(:~ 
- : This function 
+(:~
+ : This function
  : @param $content the content to parse
- : @return an erudit 
+ : @return an erudit
  :)
 declare function getCleaned($content as element()) {
   let $childs := $content/node()[. instance of element()]
-  let $positions := 
+  let $positions :=
     for $s in $content/(grnote | grbiblio)
     return functx:index-of-node($childs, $s)
   let $first := $positions[1]
-  return copy $content := $content 
-    modify 
+  return copy $content := $content
+    modify
       for $n in $content/*[fn:position() >= $first]
       return delete node $n
     return $content
 };
 
-(:~ 
- : This function 
+(:~
+ : This function
  : @param $content the content to parse
- : @return an 
+ : @return an
  :)
 declare function getRestruct($element as element()) {
   let $childs := $element/node()[. instance of element()]
-  let $positions := 
+  let $positions :=
     for $s in $element/*[1] | $element/titre
     return functx:index-of-node($childs, $s)
   return partition($positions, $childs)
@@ -145,7 +145,7 @@ declare function getRestruct($element as element()) {
  : @param $article the SPIP article
  : @param $ref the article’s references
  : @return the admin xml erudit element
- : 
+ :
  : @todo check if word count include notes etc.
  : @todo add numero id <numero id="approchesind02027">
  :)
@@ -166,7 +166,7 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref
       </infoarticle>
       <revue id="sp01868" lang="fr">
         <titrerev>Sens public</titrerev>
-        <titrerevabr>SP</titrerevabr>
+        <titrerevabr>sp</titrerevabr>
         <idissnnum>2104-3272</idissnnum>
         { getDirector($article, $ref), getRedacteurchef($article, $ref) }
       </revue>
@@ -185,9 +185,9 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref
       <prod>
         <nomorg>Sens public</nomorg>
       </prod>
-      <prodnum> 
-        <nomorg>Sens public</nomorg> 
-      </prodnum> 
+      <prodnum>
+        <nomorg>Sens public</nomorg>
+      </prodnum>
       <diffnum>
         <nomorg>Sens public</nomorg>
       </diffnum>
@@ -206,14 +206,14 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref
  : @return the grDescripteur XML erudit element
  :)
 declare function getDescripteurs( $article as element(), $ref as map(*) ) as element()* {
-let $descripteurs := 
+let $descripteurs :=
   for $id in db:open('sens-public')//spip:spip_mots_articles[spip:id_article = $article/spip:id_article]/spip:id_mot
     let $mot := db:open('sens-public')//spip:spip_mots[spip:id_mot = $id]
     let $entry := $local:groupes/sp:list/sp:entry
-  return if ( fn:data($mot/spip:titre) = fn:data($entry/sp:label) ) 
-    then <descripteur>{ fn:data($entry[fn:data(sp:label) = fn:data($mot/spip:titre)]/sp:term) }</descripteur> 
+  return if ( fn:data($mot/spip:titre) = fn:data($entry/sp:label) )
+    then <descripteur>{ fn:data($entry[fn:data(sp:label) = fn:data($mot/spip:titre)]/sp:term) }</descripteur>
     else ()
-return if ($descripteurs) 
+return if ($descripteurs)
   then <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">{$descripteurs}</grdescripteur>
   else ()
 };
@@ -228,8 +228,8 @@ declare function getDirector( $article as element(), $ref as map(*) ) as element
 let $directorsByDates := fn:doc($local:base || 'directors.xml')
 let $date := fn:substring($article/spip:date, 1, 10) cast as xs:date
 for $director in $directorsByDates/sp:directors/sp:director
-  where $date > ($director/sp:date/@from cast as xs:date) and $date < ($director/sp:date/@to cast as xs:date) 
-  return 
+  where $date > ($director/sp:date/@from cast as xs:date) and $date < ($director/sp:date/@to cast as xs:date)
+  return
     <directeur sexe="{ $director/sp:sexe/text() }">
       <nompers>
         <prenom>{ $director//sp:forename/text() }</prenom>
@@ -243,7 +243,7 @@ for $director in $directorsByDates/sp:directors/sp:director
  : @param $article the SPIP article
  : @param $ref the article’s references
  : @return the redacteurchef xml erudit element
- : 
+ :
  : @todo factorize with getAuteurs
  : @todo sex and fonction
  : @todo add link with theme idrefs="th1"
@@ -255,8 +255,8 @@ declare function getRedacteurchef( $article as element(), $ref as map(*) ) as el
   for $authorsId in db:open('sens-public')//spip:spip_auteurs_articles[spip:id_article = $issue]/spip:id_auteur
     return
       for $author in db:open('sens-public')//spip:spip_auteurs[spip:id_auteur = $authorsId]/spip:nom
-      let $name := fn:tokenize($author/text(), '\*') 
-      return 
+      let $name := fn:tokenize($author/text(), '\*')
+      return
         <redacteurchef typerc="invite" sexe="masculin">
         { if ($theme != '') then attribute idrefs { $theme } else () }
           <fonction lang="fr"/>
@@ -280,16 +280,16 @@ declare function getDate($article, $nb) {
  :)
 declare function getIssue( $idSeq as xs:string* ) as xs:string* {
   for $item in $idSeq
-  return 
+  return
     let $dossiers := db:open('sens-public')//spip:spip_articles[spip:id_rubrique = '109']
-    return 
+    return
       for $lien in $dossiers//spip:a
       let $regex := '(.*?)spip\.php\?article' || $item
       where fn:matches($lien/@href, $regex)
         return $lien/ancestor::spip:spip_articles/spip:id_article/text()
 };
 
-(:~ 
+(:~
  : This function gets the Theme
  : @param $article the article to process
  : @param $ref the article’s references
@@ -322,7 +322,7 @@ declare function getLiminaire( $article as element() ) as element() {
   <liminaire>
     { getTitre($article),
       getAuteurs($article),
-      getResume($article), 
+      getResume($article),
       getMotclef($article) }
   </liminaire>
 };
@@ -337,8 +337,8 @@ declare function getLiminaire( $article as element() ) as element() {
 declare function getTitre($article as element() ) as element() {
   <grtitre>
     <titre>{ passthru($article/spip:titre, map{ '':'' }) }</titre>
-    { if ( $article/spip:soustitre != () ) 
-        then <sstitre>{ passthru($article/spip:soustitre, map{ '':'' }) }</sstitre> 
+    { if ( $article/spip:soustitre != () )
+        then <sstitre>{ passthru($article/spip:soustitre, map{ '':'' }) }</sstitre>
         else () }
   </grtitre>
 };
@@ -347,15 +347,15 @@ declare function getTitre($article as element() ) as element() {
  : this function get the authors
  : @param $article the SPIP article to process
  : @return the grauteur xml erudit element
- : 
+ :
  :)
 declare function getAuteurs($article as element() ) as element() {
   <grauteur>{
     for $id in db:open('sens-public')//spip:spip_auteurs_articles[spip:id_article = $article/spip:id_article]/spip:id_auteur
     return
       for $auteur in db:open('sens-public')//spip:spip_auteurs[spip:id_auteur = $id]/spip:nom
-      let $nom := fn:tokenize($auteur/text(), '\*') 
-      return 
+      let $nom := fn:tokenize($auteur/text(), '\*')
+      return
         <auteur id="{ 'spAuthor' || $id }">
           <nompers>
             <prenom>{ $nom[2] }</prenom>
@@ -375,17 +375,17 @@ declare function getResume($article as element() ) as element()* {
   let $regex := '\{\{(.*?)\s*?:?\}\}\s*?(.*)'
   let $ana := fn:analyze-string($article/spip:descriptif, $regex)
   for $match in $ana/fn:match
-return 
+return
   switch ($match)
-  case ($match[fn:contains(fn:group[@nr='1'], "Résumé")]) 
+  case ($match[fn:contains(fn:group[@nr='1'], "Résumé")])
     return <resume lang="fr">
              <alinea>{$match/fn:group[@nr='2']/text()}</alinea>
            </resume>
-  case ($match[fn:contains(fn:group[@nr='1'], "Abstract")]) 
+  case ($match[fn:contains(fn:group[@nr='1'], "Abstract")])
     return <resume lang="en">
              <alinea>{$match/fn:group[@nr='2']/text()}</alinea>
            </resume>
-  case ($match[fn:contains(fn:group[@nr='1'], "Resumen")]) 
+  case ($match[fn:contains(fn:group[@nr='1'], "Resumen")])
     return <resume lang="de">
              <alinea>{$match/fn:group[@nr='2']/text()}</alinea>
            </resume>
@@ -396,14 +396,14 @@ return
  : this function get the tags
  : @param $article the SPIP article
  : @return a sequence of grmotclef xml erudit element for various languages
- : @todo group by language fn:analyze-string($string, '\[([a-z]{2})\](.*?)') 
+ : @todo group by language fn:analyze-string($string, '\[([a-z]{2})\](.*?)')
  :)
 declare function getMotclef( $article as element() ) as element() {
   <grmotcle lang="fr">
     {
       for $id in db:open('sens-public')//spip:spip_mots_articles[spip:id_article = $article/spip:id_article]/spip:id_mot
       let $mot := db:open('sens-public')//spip:spip_mots[spip:id_mot = $id]
-      return if ($mot/spip:titre/spip:multi) 
+      return if ($mot/spip:titre/spip:multi)
         then let $mot := fn:tokenize($mot/spip:titre/spip:multi/text(), '\[[a-z]{2}\]') return <motcle>{ $mot[2] }</motcle>
         else <motcle>{ $mot/spip:titre/text() }</motcle>
     }
@@ -507,21 +507,21 @@ declare function p($node as element(spip:p)+, $options as map(*)) {
   case ( $node/spip:* instance of element(spip:figure) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
   case ( $node/spip:* instance of element(spip:audio) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
   case ( $node/spip:* instance of element(spip:blockquote) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
-  case ($node[fn:normalize-space(.)='Bibliographie']) 
-    return 
+  case ($node[fn:normalize-space(.)='Bibliographie'])
+    return
       <grbiblio>
         <biblio/>
       </grbiblio>
-  case ($node[fn:normalize-space(.)='Notes']) return 
+  case ($node[fn:normalize-space(.)='Notes']) return
       <grnote/>
-  case ($node[spip:a[fn:contains(@href, 'anc')]]) return 
+  case ($node[spip:a[fn:contains(@href, 'anc')]]) return
     <note id="{$node/spip:a/@name}">{
-           (<no>{ passthru($node/spip:a[1], $options) }</no>, 
+           (<no>{ passthru($node/spip:a[1], $options) }</no>,
            <alinea>{ passthru($node, $options) }</alinea>
          )
          }</note>
   case ($node[parent::spip:li]) return <alinea>{ passthru($node, $options) }</alinea>
-  case ($node[preceding-sibling::spip:a[fn:contains(@href, 'anc')]]) return 
+  case ($node[preceding-sibling::spip:a[fn:contains(@href, 'anc')]]) return
     <alinea>{ passthru($node, $options) }</alinea>
   default return
     <para>
@@ -583,8 +583,8 @@ declare function sup($node as element(spip:sup)+, $options as map(*)) {
 
 declare function span($node as element(spip:span)+, $options as map(*)) {
   switch ($node)
-  case ($node[@rend='italic' or @rend='it']) return 
-    <marquage typemarq="italique">{ passthru($node, $options) }</marquage> 
+  case ($node[@rend='italic' or @rend='it']) return
+    <marquage typemarq="italique">{ passthru($node, $options) }</marquage>
   default return passthru($node, $options)
 };
 
@@ -595,7 +595,7 @@ declare function img($node as element(spip:img)+, $options as map(*)) {
   let $imageName := functx:substring-after-last-match($node/@src, $regex)
   return
   <figure>
-    { if ($node/@alt != '') 
+    { if ($node/@alt != '')
       then <legende lang="fr">
              <alinea>{$node/@alt}</alinea>
            </legende>
@@ -610,7 +610,7 @@ declare function img($node as element(spip:img)+, $options as map(*)) {
 
 declare function figure($node as element(spip:figure)+, $options as map(*)) {
   <figure>
-    { if ($node/figcaption) 
+    { if ($node/figcaption)
       then <legende lang="fr">
              <alinea>{$node/figcaption/text()}</alinea>
            </legende>
@@ -626,7 +626,7 @@ declare function audio($node as element(spip:audio)+, $options as map(*)) {
   let $alt := fn:analyze-string($node, $regex)//fn:group[@nr="1"]/text() (: the file desc :)
   let $dir := fn:analyze-string($node, $regex)//fn:group[@nr="2"]/text() (: the file dir :)
   let $file := fn:analyze-string($node, $regex)//fn:group[@nr="3"]/text() (: the file name :)
-  return 
+  return
     <objet typeobj="audio">
       <objetmedia flot="bloc">
         <audio id="{$file}"/>
@@ -639,24 +639,24 @@ declare function br($node as element(spip:br), $options as map(*)) {
   ()
 };
 
-(:~ 
+(:~
  : ~:~:~:~:~:~:~:~:~
  :utilities
  : ~:~:~:~:~:~:~:~:~
  :)
 
-(:~ 
+(:~
  : This function give an index of nodes
  : @source http://www.xqueryfunctions.com/xq/functx_index-of-node.html
  :)
 declare function functx:index-of-node($nodes as node()* ,
-$nodeToFind as node() )  as xs:integer* 
-{     
+$nodeToFind as node() )  as xs:integer*
+{
   for $seq in (1 to fn:count($nodes))
   return $seq[$nodes[$seq] is $nodeToFind]
 };
 
-(:~ 
+(:~
  : This function recursively calculate the start elements with the other elements between as childs.
  : Take the first two indices of $positions and create a section element with the elements of $elements with positions between these two indices.
  : Then remove the first index of $position and do the recursive call.
@@ -674,13 +674,13 @@ declare function partition($positions as xs:integer*, $elements as element()*) a
       let $second := $positions[2]
       let $rest := fn:subsequence($positions, 2)
       return ( element section1 { fn:subsequence($elements, $first, $second - $first)}, partition($rest, $elements) )
-    ) 
+    )
     else if($nbSections eq 1)
     then ( element section1 { fn:subsequence($elements, $positions[1]) } )
     else ()
 };
 
-(:~ 
+(:~
  : This function counts words
  : @param $arg a string to proceed
  : @return the number of words in a string
@@ -692,7 +692,7 @@ declare function functx:word-count
    fn:count(fn:tokenize($arg, '\W+')[. != ''])
  };
 
-(:~ 
+(:~
  : This function returns a deepcopy
  : @param $element elements to process
  : @return a deep copy of the element and all sub-elements
@@ -708,7 +708,7 @@ declare function copy($element as element()) as element() {
       }
 };
 
-(:~ 
+(:~
  : This function removes empty elements
  : @param $node node to process
  : @return a deep copy without empty elements
@@ -719,9 +719,9 @@ declare function removeNilled($node as node()) as node()? {
   case document-node() return document {
       for $child in $node/node()
       return removeNilled($child) }
-  case element() return 
-    if($node/node()) 
-      then element { fn:node-name($node) } 
+  case element() return
+    if($node/node())
+      then element { fn:node-name($node) }
         { $node/attribute(),
           for $child in $node/node()
           return removeNilled($child) }
@@ -736,14 +736,14 @@ declare function functx:substring-after-last-match
    fn:replace($arg,fn:concat('^.*',$regex),'')
  };
 
-(:~ 
+(:~
  : This fuction gets the articles references
  : @return a map sequence with the article references from the identifiants.xml file
  : @rmq change [1] to the volume you want to transform
  :)
 let $doc := $local:base || 'identifiants.xml'
 let $refs := for $article in fn:doc($doc)//sp:article
-return map { 
+return map {
   'id' : fn:data($article/@id),
   'num' : fn:data($article),
   'vol' : fn:data($article/parent::sp:*/@id),
