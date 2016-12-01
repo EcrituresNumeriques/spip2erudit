@@ -90,12 +90,11 @@
     </grmotcle>
   </liminaire>
   <corps>
-    <section1>
-      <para>
-        <alinea><marquage typemarq="italique"
-          >Traduit de l’anglais par Servanne Monjour</marquage></alinea>
-      </para>
-      <section2>
+      <section1>
+        <para><alinea><marquage typemarq="italique"
+          >Traduit de l’anglais par Servanne Monjour</marquage></alinea></para>
+      </section1>
+      <section1>
         <titre>	Introduction</titre>
         <para>
           <alinea>
@@ -103,8 +102,8 @@
               typemarq="italique"
             >Sens public</marquage>, Nicolas Sauret, Yannick Maignien, Louise Merzeau, Michael Sinatra, Anne-Laure Brisac, Carole Dely et Roberto Gac.</alinea>
         </para>
-      </section2>
-      <section2>
+      </section1>
+      <section1>
         <titre>	Une histoire du terme</titre>
         <para>
           <alinea>
@@ -231,8 +230,8 @@
           <alinea>
 	Malgré son succès, le sens exact du terme n’a pas encore été clairement établi. Je propose donc d’en analyser ici les différentes significations ainsi que leurs relations.</alinea>
         </para>
-      </section2>
-      <section2>
+      </section1>
+      <section1>
         <titre>	Qu’est-ce que l’éditorialisation?</titre>
         <para>
           <alinea>
@@ -312,8 +311,8 @@
           <alinea>
 	Le troisième et dernier aspect de l’éditorialisation – son aspect pratique – nous amène du côté des pratiques, sans lesquelles les structures culturelle et technologique ne pourraient exister. En effet, les possibilités technologiques et la tradition culturelle ne suffisent pas à induire des pratiques. Si personne ne créait ou n’utilisait d’hypertextes, ces derniers n’existeraient pas. Par ailleurs, les pratiques ne sont pas seulement des applications des possibilités culturelles et technologiques : toute pratique est créative. Ces éléments nous permettent de souligner l’importance fondamentale du collectif dans les processus d’éditorialisation. Les différentes formes d’éditorialisation dépendent du fait que des actions particulières deviennent communes – ce qui signifie que des groupes de personnes commencent à les effectuer pour en faire peu à peu des pratiques. Considérons l’exemple des hashtags. L’action de mettre un # avant un mot dans l’environnement Twitter fait de celui-ci un mot-clé. À l’origine, cette action n’avait pas été prévue par la plateforme, car Twitter n’avait pas été conçue pour gérer des mots-clés. Puis, un premier usager a commencé à utiliser le #, bientôt suivi d’un groupe de personnes, et cette action est devenue une pratique – pratique qui a obligé Twitter à adapter sa plateforme, pour prendre en compte les mots-clés – que nous appelons aujourd’hui des hashtags. Pour le dire autrement, les pratiques influencent la technologie et la façonnent tout autant que les pratiques ont un fondement culturel – l’histoire des mots-clés le démontre clairement. Cela signifie que les trois aspects de l’éditorialisation – technologique, culturel et pratique – ne font qu’un. On ne peut les distinguer que d’un point de vue théorique.</alinea>
         </para>
-      </section2>
-      <section2>
+      </section1>
+      <section1>
         <titre>	La nature processuelle de l’éditorialisation</titre>
         <para>
           <alinea>
@@ -361,8 +360,8 @@
           <alinea>
 	À coup sûr, ces qualités caractérisent aussi en une certaine mesure l’édition papier. Mais encore une fois, ce principe ne déroge pas à l’idée selon laquelle il n’y a pas vraiment eu de révolution numérique, car la culture numérique s’inscrit dans la continuité de la culture prénumérique. Les différences sont davantage une question de degré que de qualité. Les tendances culturelles auxquelles nous assistons aujourd’hui ont des origines qui remontent loin dans le passé, et qui ne sont donc jamais complètement nouvelles. L’aspect processuel de la culture numérique en est un exemple. Ce phénomène n’est pas complètement inédit, mais il était moins prononcé dans la culture papier, culture qui insistait plutôt sur la possibilité de contrôler un processus bien défini et délimité.</alinea>
         </para>
-      </section2>
-      <section2>
+      </section1>
+      <section1>
         <titre>	La nature performative de l’éditorialisation</titre>
         <para>
           <alinea>
@@ -397,8 +396,8 @@
           <alinea>
 	Ces considérations nous conduisent ainsi à discuter de la nature ontologique de l’éditorialisation.</alinea>
         </para>
-      </section2>
-      <section2>
+      </section1>
+      <section1>
         <titre>	La nature ontologique de l’éditorialisation</titre>
         <para>
           <alinea>
@@ -452,8 +451,8 @@
           <alinea>
 	Nous pouvons donc conclure que l’éditorialisation est une façon de produire le réel et non un moyen de le représenter. Cette conclusion amène pourtant un nouveau problème : si nous abandonnons le paradigme de la représentation, il devient impossible de distinguer le réel de l’irréel, la vérité de la fiction. La définition logique de la vérité (Tarsky) est basée sur l’idée selon laquelle il existe une correspondance entre le signifiant et le signifié. Selon la définition de Tarsky, la proposition « A » est vraie si et seulement si le fait « A » est en train de se réaliser. Par exemple : la proposition « il pleut » est vraie si et seulement si, il est effectivement en train de pleuvoir. Mais cela signifie que pour être capable de décider de ce qui est vrai, nous devons identifier un signifiant (la phrase « il pleut ») et un signifié (le monde dans lequel il est véritablement en train de pleuvoir). Selon le paradigme performatif, la distinction n’est guère pertinente, ce qui signifie que ces questions concernant la vérité ou l’authenticité de l’éditorialisation sont posées en de mauvais termes.</alinea>
         </para>
-      </section2>
-      <section2>
+      </section1>
+      <section1>
         <titre>	La nature multiple de l’éditorialisation</titre>
         <para>
           <alinea>
@@ -481,8 +480,8 @@
               idref="sdfootnote27sym" typeref="note"
             >27</renvoi> doit être l’ontologie de la multiplicité des essences.</alinea>
         </para>
-      </section2>
-      <section2>
+      </section1>
+      <section1>
         <titre>	La nature collective de l’éditorialisation</titre>
         <para>
           <alinea>
@@ -526,8 +525,8 @@
           <alinea>
 	Pour y répondre, considérons plus attentivement les structures d’autorité qui sont révélées par le concept d’éditorialisation.</alinea>
         </para>
-      </section2>
-      <section2>
+      </section1>
+      <section1>
         <titre>	Éditorialisation et autorité</titre>
         <para>
           <alinea>
@@ -559,8 +558,8 @@
           <alinea>
 	L’espace numérique devrait ainsi être considéré comme un nouvel ordre politique, dans lequel d’anciennes formes d’autorité ont été réorganisées et ont pris de nouvelles significations.</alinea>
         </para>
-      </section2>
-      <section2>
+      </section1>
+      <section1>
         <titre>	Les autorités processuelles</titre>
         <para>
           <alinea>
@@ -633,8 +632,8 @@
           <alinea>
 	Ce dernier point nous amène à discuter d’une autre caractéristique de l’autorité numérique : sa qualité performative.</alinea>
         </para>
-      </section2>
-      <section2>
+      </section1>
+      <section1>
         <titre>	Les autorités performatives</titre>
         <para>
           <alinea>
@@ -646,8 +645,8 @@
           <alinea>
 	Ce principe s’applique à l’autorité des usagers, mais concerne tout autant celle des plateformes : de l’activité dépend la visibilité et de cette visibilité dépend l’autorité. Plus une plateforme est active, plus elle gagne en visibilité – et plus elle est considérée comme fiable. Google et sa politique de classement (basée sur l’index de citation) illustre très bien ce principe. Derrière le PageRank se cache l’idée selon laquelle plus un contenu est cité, puis il gagne en autorité. Mais cela implique un effet performatif propre à la production d’autorité : être visible détermine une augmentation de la visibilité et cette augmentation implique celle de l’autorité. En ce sens, dans l’espace numérique, il est facile de constater des lieux de concentration de l’autorité.</alinea>
         </para>
-      </section2>
-      <section2>
+      </section1>
+      <section1>
         <titre>	Les autorités non représentatives</titre>
         <para>
           <alinea>
@@ -676,8 +675,8 @@
           <alinea>
 	Cela nous conduit à questionner la relation entre la nature multiple de l’éditorialisation et l’autorité.</alinea>
         </para>
-      </section2>
-      <section2>
+      </section1>
+      <section1>
         <titre>	Les autorités multiples</titre>
         <para>
           <alinea>
@@ -699,8 +698,8 @@
           <alinea>
 	L’espace numérique est donc caractérisé par la coexistence de plusieurs autorités et celles-ci peuvent être différentes, voire contradictoires. Cette multiplicité détermine aussi que dans l’espace numérique, les autorités prénumériques coexistent avec les autorités natives du numérique. Par exemple, Google est une autorité qui détermine et mesure la pertinence des contenus, au même titre qu’une revue académique. Dans l’espace numérique, il est vrai qu’une page est pertinente parce qu’elle est la première à apparaître parmi les résultats de recherche, comme il est vrai qu’une autre page sera davantage pertinente, car elle se trouve sur le site d’une revue scientifique célèbre. En pratique, nous acceptons cette coexistence entre plusieurs autorités – même si elles diffèrent radicalement – de même que nous accordons à chacune notre confiance – bien que de façon différente. Nous pouvons nous fier à Tripadvisor, Wikipedia, Google, et en même temps accorder notre confiance au site institutionnel d’une université, d’une revue académique, d’un gouvernement – des autorités qui sont différentes et basées sur des modèles distincts.</alinea>
         </para>
-      </section2>
-      <section2>
+      </section1>
+      <section1>
         <titre>	Les autorités collectives</titre>
         <para>
           <alinea>
@@ -740,9 +739,9 @@
 	Est-il possible de transformer ces structures ? Quelles sont les formes d’interactions collectives qui peuvent produire un bien commun ? Qu’est-ce qui pourrait faire office d’autorité commune ? Il devient urgent de se poser ces questions, afin de poursuivre une réflexion critique sur les enjeux du numérique, dans la lignée de ce que Geert Lovink appelle notamment le « Net criticism<renvoi
               idref="sdfootnote44sym" typeref="note">44</renvoi> ».</alinea>
         </para>
-      </section2>
+      </section1>
 
-    </section1>
+    
   </corps>
   <partiesann>
     <grbiblio>
