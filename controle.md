@@ -3,8 +3,8 @@
 Après la migration automatisée, opérations à effectuer pour le contrôle éditorial des articles.
 
 - contrôler la présence des résumés //resume
-- contrôler la structure hiérarchique (section1 isolée, lorsqu’il y a un traducteur le mettre à la fin.
-- vérifier l’intégrité des notes (lorsque les notes débutent par un hyperlien, celui-ci a été supprimée) //partiesann/grnote/note 
+- contrôler la structure hiérarchique (section1 isolée //corps[count(section1)=1], lorsqu’il y a un traducteur le mettre à la fin.
+- vérifier l’intégrité des notes (lorsque les notes débutent par un hyperlien, celui-ci a été supprimé) //partiesann/grnote/note 
 - contrôler le nombre d’images dans chaque article fn:count(//figure)
 - contrôle les tableaux
 - Distinguer les articles en fonction de leur statut (article, compte-rendu, etc. attendre les valeurs d’Érudit) attribut @typeart sur <article>
