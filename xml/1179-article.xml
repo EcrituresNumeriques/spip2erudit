@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article"
-  xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd"
-  qualtraitement="complet" idproprio="1908ear" typeart="autre" lang="fr" ordseq="1">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1908ear" typeart="entretien" lang="fr" ordseq="1">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -39,9 +36,6 @@
       <pubnum>
         <date typedate="publication">2016-02-24</date>
       </pubnum>
-      <grtheme id="th">
-        <theme/>
-      </grtheme>
     </numero>
     <editeur>
       <nomorg>Département des littératures de langue française</nomorg>
@@ -87,18 +81,14 @@
     <section1>
       <figure>
         <objetmedia flot="bloc">
-          <image id="img1179-1.png" typeimage="figure" xlink:type="simple"/>
+          <image id="Andrii_Portnov.png" typeimage="figure"/>
         </objetmedia>
       </figure>
       <para>
         <alinea>
-          <marquage typemarq="italique">Valentyna Dymytrova<renvoi idref="sdfootnote1sym"
-              typeref="note">1</renvoi>
+	<marquage typemarq="italique">Valentyna Dymytrova<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>
           </marquage>
-          <marquage typemarq="italique"
-              > : L’Ukraine traverse aujourd’hui une grave période dans son histoire : le conflit diplomatique et militaire avec la Russie, la crise économique, la guerre dans le Donbass, la perte de la Crimée<renvoi
-              idref="sdfootnote2sym" typeref="note"
-            >2</renvoi>... Malgré cette actualité mouvementée, les références à certaines dates, symboles ou personnalités historiques scandent aujourd’hui plus que jamais les discours politique et médiatique en Ukraine. Peut-on y voir une instrumentalisation du passé à des fins politiques ?</marquage>
+          <marquage typemarq="italique"> : L’Ukraine traverse aujourd’hui une grave période dans son histoire : le conflit diplomatique et militaire avec la Russie, la crise économique, la guerre dans le Donbass, la perte de la Crimée<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi>... Malgré cette actualité mouvementée, les références à certaines dates, symboles ou personnalités historiques scandent aujourd’hui plus que jamais les discours politique et médiatique en Ukraine. Peut-on y voir une instrumentalisation du passé à des fins politiques ?</marquage>
         </alinea>
       </para>
       <para>
@@ -107,22 +97,16 @@
       </para>
       <para>
         <alinea>
-          <marquage typemarq="italique">VD :</marquage>
-          <marquage typemarq="italique"
-            >Si l’on regarde de près les mots et les symboles qui sont utilisés par les différentes parties du conflit russo-ukrainien, il s’agit de mots et de symboles qui nous viennent du passé et qui nous rappellent les différentes époques historiques. Prenons, par exemple, le ruban de Saint-Georges ou le terme « bandériste »…</marquage>
+	<marquage typemarq="italique">VD :</marquage> <marquage typemarq="italique">Si l’on regarde de près les mots et les symboles qui sont utilisés par les différentes parties du conflit russo-ukrainien, il s’agit de mots et de symboles qui nous viennent du passé et qui nous rappellent les différentes époques historiques. Prenons, par exemple, le ruban de Saint-Georges ou le terme « bandériste »…</marquage>
         </alinea>
       </para>
       <para>
         <alinea>
-	AP : Oui, mais il est très important de souligner que ces symboles et ces mots, comme le ruban de Saint-Georges ou Bandera, comme personnalité historique, ont tous des connotations historiques, mais sont employés dans le contexte des événements récents avec d’autres charges sémantiques. Par exemple, prenons le ruban Saint-Georges et rappelons-nous qu’il y a encore trois ans, ce ruban était en Ukraine l’un des symboles officiels de la victoire lors de la Deuxième guerre mondiale. Le président Iouchtchenko le portait, on peut trouver des photos d’archives qui le confirment. Qu’est-ce qui s’est passé ensuite ? Après Maïdan<renvoi
-            idref="sdfootnote3sym" typeref="note"
-          >3</renvoi>, quand les rubans de Saint-Georges ont été portés par des « Titushki », à savoir des criminels mercenaires, ce ruban a perdu sa légitimité dans la société ukrainienne postsoviétique. Le ruban Saint-Georges d’aujourd’hui et le ruban Saint-Georges d’il y a trois ans sont donc deux rubans différents. La même chose est arrivée aux figures de Bandera et « bandéristes ». Lorsque beaucoup d’Ukrainiens, y compris mes collègues, ou encore Ihor Kolomoyskyi, personnalité influente et gouverneur de la région de Dniepropetrovsk, ont commencé à se désigner « bandéristes » ou « judéo-banderistes », ils ont chargé ce mot d’une autre signification qui n’était pas celle des partisans de Stepan Bandera et de l’aile radicale de l’Organisation des nationalistes ukrainiens qu’il présidait. Il s’agissait pour eux de rejeter la propagande russe qui les qualifiait de « bandéristes ». Ainsi, les mots ou les symboles sont les mêmes, mais leur signification est très différente. Les mots et les symboles ne nous renvoient pas tout simplement aux événements du passé, ils sont constamment réinterprétés et c’est tout à fait normal, cela montre que l’Histoire n’est pas une chose statique et fixe, qu’elle est un processus de réinterprétation qui n’a pas ni de fin, ni même de début, car dès qu’on commence à parler de l’Histoire, on se trouve immédiatement confronté à des stéréotypes, des connaissances acquises, des modes intellectuels et des attentes de l’interlocuteur. L’Histoire est dynamique et il manque justement de dynamisme dans les récits qu’on fait des événements contemporains comme Maïdan ou la guerre en Syrie. On les décrit comme quelque chose de figé. Par exemple, il s’agit d’une grande simplification quand on dit que l’Ukraine a toujours été « banderiste » ou que la Russie a toujours été, dans son Histoire, avec le ruban Saint-Georges.</alinea>
+	AP : Oui, mais il est très important de souligner que ces symboles et ces mots, comme le ruban de Saint-Georges ou Bandera, comme personnalité historique, ont tous des connotations historiques, mais sont employés dans le contexte des événements récents avec d’autres charges sémantiques. Par exemple, prenons le ruban Saint-Georges et rappelons-nous qu’il y a encore trois ans, ce ruban était en Ukraine l’un des symboles officiels de la victoire lors de la Deuxième guerre mondiale. Le président Iouchtchenko le portait, on peut trouver des photos d’archives qui le confirment. Qu’est-ce qui s’est passé ensuite ? Après Maïdan<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>, quand les rubans de Saint-Georges ont été portés par des « Titushki », à savoir des criminels mercenaires, ce ruban a perdu sa légitimité dans la société ukrainienne postsoviétique. Le ruban Saint-Georges d’aujourd’hui et le ruban Saint-Georges d’il y a trois ans sont donc deux rubans différents. La même chose est arrivée aux figures de Bandera et « bandéristes ». Lorsque beaucoup d’Ukrainiens, y compris mes collègues, ou encore Ihor Kolomoyskyi, personnalité influente et gouverneur de la région de Dniepropetrovsk, ont commencé à se désigner « bandéristes » ou « judéo-banderistes », ils ont chargé ce mot d’une autre signification qui n’était pas celle des partisans de Stepan Bandera et de l’aile radicale de l’Organisation des nationalistes ukrainiens qu’il présidait. Il s’agissait pour eux de rejeter la propagande russe qui les qualifiait de « bandéristes ». Ainsi, les mots ou les symboles sont les mêmes, mais leur signification est très différente. Les mots et les symboles ne nous renvoient pas tout simplement aux événements du passé, ils sont constamment réinterprétés et c’est tout à fait normal, cela montre que l’Histoire n’est pas une chose statique et fixe, qu’elle est un processus de réinterprétation qui n’a pas ni de fin, ni même de début, car dès qu’on commence à parler de l’Histoire, on se trouve immédiatement confronté à des stéréotypes, des connaissances acquises, des modes intellectuels et des attentes de l’interlocuteur. L’Histoire est dynamique et il manque justement de dynamisme dans les récits qu’on fait des événements contemporains comme Maïdan ou la guerre en Syrie. On les décrit comme quelque chose de figé. Par exemple, il s’agit d’une grande simplification quand on dit que l’Ukraine a toujours été « banderiste » ou que la Russie a toujours été, dans son Histoire, avec le ruban Saint-Georges.</alinea>
       </para>
       <para>
         <alinea>
-          <marquage typemarq="italique">VD :</marquage>
-          <marquage typemarq="italique"
-            >Peut-on alors parler des « guerres des mémoires » dans le cas du conflit russo-ukrainien ?</marquage>
+	<marquage typemarq="italique">VD :</marquage> <marquage typemarq="italique">Peut-on alors parler des « guerres des mémoires » dans le cas du conflit russo-ukrainien ?</marquage>
         </alinea>
       </para>
       <para>
@@ -131,9 +115,7 @@
       </para>
       <para>
         <alinea>
-          <marquage typemarq="italique">VD :</marquage>
-          <marquage typemarq="italique"
-            >Il existe aussi une autre idée, pour moi aussi simplificatrice que la précédente, selon laquelle le conflit russo-ukrainien a été provoqué par Maïdan…</marquage>
+	<marquage typemarq="italique">VD :</marquage> <marquage typemarq="italique">Il existe aussi une autre idée, pour moi aussi simplificatrice que la précédente, selon laquelle le conflit russo-ukrainien a été provoqué par Maïdan…</marquage>
         </alinea>
       </para>
       <para>
@@ -146,22 +128,16 @@
       </para>
       <para>
         <alinea>
-          <marquage typemarq="italique">VD :</marquage>
-          <marquage typemarq="italique"
-            >Si l’on revient à l’Histoire, comment pouvez-vous commenter la nouvelle politique du gouvernement ukrainien dite de « décommunisation » qui a divisé l’opinion publique ukrainienne ?</marquage>
+	<marquage typemarq="italique">VD :</marquage> <marquage typemarq="italique">Si l’on revient à l’Histoire, comment pouvez-vous commenter la nouvelle politique du gouvernement ukrainien dite de « décommunisation » qui a divisé l’opinion publique ukrainienne ?</marquage>
         </alinea>
       </para>
       <para>
         <alinea>
-	AP : Je dirais que ces lois doivent être mises en contexte, soit celui de la guerre qui se poursuit malheureusement en Ukraine. Il s’agit d’une décision purement politique, dont l’objectif est très simple, à savoir dessiner le plus nettement possible une ligne symbolique de démarcation entre l’Ukraine et la Russie. Pour le dire plus simplement, si à Moscou, à Saint-Pétersbourg ou à Saratov, il y a des rues du nom de Lénine, Dzerjinski, Petrovski ou leurs monuments, la disparition de telles rues et de tels monuments en Ukraine permettrait de distinguer symboliquement la société russe et la société ukrainienne. C’est tout. C’est une motivation politique. Du point de vue juridique, j’en ai déjà parlé en Ukraine et à l’étranger<renvoi
-            idref="sdfootnote4sym" typeref="note"
-          >4</renvoi>, ces lois contredisent la Constitution de l’Ukraine et parfois même le droit européen. Qu’est-ce que cela veut dire ? À mon avis, ces lois ne seront jamais complètement appliquées. Il s’agit plutôt d’une déclaration que d’une norme législative systématique. Il faut bien l’expliquer, en France et dans d’autres pays européens comme l’Ukraine il arrive souvent qu’il existe une loi et une réalité sociale où cette loi s’applique très peu. Cela concerne les soi-disant lois de décommunisation.</alinea>
+	AP : Je dirais que ces lois doivent être mises en contexte, soit celui de la guerre qui se poursuit malheureusement en Ukraine. Il s’agit d’une décision purement politique, dont l’objectif est très simple, à savoir dessiner le plus nettement possible une ligne symbolique de démarcation entre l’Ukraine et la Russie. Pour le dire plus simplement, si à Moscou, à Saint-Pétersbourg ou à Saratov, il y a des rues du nom de Lénine, Dzerjinski, Petrovski ou leurs monuments, la disparition de telles rues et de tels monuments en Ukraine permettrait de distinguer symboliquement la société russe et la société ukrainienne. C’est tout. C’est une motivation politique. Du point de vue juridique, j’en ai déjà parlé en Ukraine et à l’étranger<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>, ces lois contredisent la Constitution de l’Ukraine et parfois même le droit européen. Qu’est-ce que cela veut dire ? À mon avis, ces lois ne seront jamais complètement appliquées. Il s’agit plutôt d’une déclaration que d’une norme législative systématique. Il faut bien l’expliquer, en France et dans d’autres pays européens comme l’Ukraine il arrive souvent qu’il existe une loi et une réalité sociale où cette loi s’applique très peu. Cela concerne les soi-disant lois de décommunisation.</alinea>
       </para>
       <para>
         <alinea>
-          <marquage typemarq="italique">VD :</marquage>
-          <marquage typemarq="italique"
-            >Selon vous, qu’est-ce qui attend l’Ukraine et la Russie ? Quelles seront les conséquences du conflit russo-ukrainien pour les deux pays ?</marquage>
+	<marquage typemarq="italique">VD :</marquage> <marquage typemarq="italique">Selon vous, qu’est-ce qui attend l’Ukraine et la Russie ? Quelles seront les conséquences du conflit russo-ukrainien pour les deux pays ?</marquage>
         </alinea>
       </para>
       <para>
@@ -170,21 +146,16 @@
       </para>
       <para>
         <alinea>
-          <marquage typemarq="italique">VD :</marquage>
-          <marquage typemarq="italique"
-            >Et en ce qui concerne l’avenir de l’Ukraine ? Ce pays a récemment connu des élections municipales. Est-ce que leurs résultats nous apprennent quelque chose par rapport à l’avenir du pays ?</marquage>
+	<marquage typemarq="italique">VD :</marquage> <marquage typemarq="italique">Et en ce qui concerne l’avenir de l’Ukraine ? Ce pays a récemment connu des élections municipales. Est-ce que leurs résultats nous apprennent quelque chose par rapport à l’avenir du pays ?</marquage>
         </alinea>
       </para>
       <para>
         <alinea>
-	AP : Je trouve que les résultats de ces élections sont assez positifs et je vais expliquer pourquoi. Ces élections ont montré quelques éléments importants pour l’Ukraine. D’abord, il existe dans ce pays une forte concurrence politique. Il n’y a pas un ou deux partis politiques, il y en a des dizaines et tous concourent réellement pour tout, pour des places au Parlement, pour le poste de maire, pour tout. Ensuite, ces élections ont montré que la plupart des Ukrainiens, malgré une situation économique difficile de guerre, votent d’une façon assez rationnelle, c’est-à-dire qu’ils ne votent pas en masse ni pour la droite, ni pour d’autres mouvements populistes-extrémistes. C’est une autre chose qu’après les élections, on découvre des scandales de corruption au sein des partis pour lesquels la plupart des Ukrainiens votent. Enfin, malgré tout, l’Ukraine a un vrai gouvernement de coalition. Autant que je sache, même au sein des conseils de régions et de villes, il y a toujours trois, quatre, cinq forces politiques. Il s’agit d’une vraie concurrence. Il ne s’agit pas évidemment d’une démocratie formée, mais d’une démocratie <marquage
-            typemarq="italique"
-          >in the making, in progress.</marquage> Cela donne de l’espoir. Cependant, il y a aussi des problèmes. D’abord, l’Ukraine ne peut pas être sûre que les combats ne reprendront pas avec une nouvelle violence et que les lignes de démarcation entre l’Ukraine et les républiques autoproclamées ne seront pas violées. Ensuite, la structure de l’économie ukrainienne est très complexe, c’est une économie oligarchique, qu’il faut réformer. Enfin, il y a le problème du vieillissement constant de l’infrastructure soviétique, je pense à des chemins de fer, des bâtiments, des lignes d’électrification, etc. Malheureusement, tout cela n’a pas été rénové en Ukraine depuis cinquante ou soixante ans. Un jour, l’Ukraine aura des graves soucis avec ces infrastructures et il faut y penser maintenant, mais je ne pense pas que cette situation est exaspérante. Avec une politique nationale intelligente et avec un soutien rationnel des institutions internationales, l’Ukraine a normalement une chance pour un développement moderniste, malgré tout.</alinea>
+	AP : Je trouve que les résultats de ces élections sont assez positifs et je vais expliquer pourquoi. Ces élections ont montré quelques éléments importants pour l’Ukraine. D’abord, il existe dans ce pays une forte concurrence politique. Il n’y a pas un ou deux partis politiques, il y en a des dizaines et tous concourent réellement pour tout, pour des places au Parlement, pour le poste de maire, pour tout. Ensuite, ces élections ont montré que la plupart des Ukrainiens, malgré une situation économique difficile de guerre, votent d’une façon assez rationnelle, c’est-à-dire qu’ils ne votent pas en masse ni pour la droite, ni pour d’autres mouvements populistes-extrémistes. C’est une autre chose qu’après les élections, on découvre des scandales de corruption au sein des partis pour lesquels la plupart des Ukrainiens votent. Enfin, malgré tout, l’Ukraine a un vrai gouvernement de coalition. Autant que je sache, même au sein des conseils de régions et de villes, il y a toujours trois, quatre, cinq forces politiques. Il s’agit d’une vraie concurrence. Il ne s’agit pas évidemment d’une démocratie formée, mais d’une démocratie <marquage typemarq="italique">in the making, in progress.</marquage> Cela donne de l’espoir. Cependant, il y a aussi des problèmes. D’abord, l’Ukraine ne peut pas être sûre que les combats ne reprendront pas avec une nouvelle violence et que les lignes de démarcation entre l’Ukraine et les républiques autoproclamées ne seront pas violées. Ensuite, la structure de l’économie ukrainienne est très complexe, c’est une économie oligarchique, qu’il faut réformer. Enfin, il y a le problème du vieillissement constant de l’infrastructure soviétique, je pense à des chemins de fer, des bâtiments, des lignes d’électrification, etc. Malheureusement, tout cela n’a pas été rénové en Ukraine depuis cinquante ou soixante ans. Un jour, l’Ukraine aura des graves soucis avec ces infrastructures et il faut y penser maintenant, mais je ne pense pas que cette situation est exaspérante. Avec une politique nationale intelligente et avec un soutien rationnel des institutions internationales, l’Ukraine a normalement une chance pour un développement moderniste, malgré tout.</alinea>
       </para>
       <para>
         <alinea>
-          <marquage typemarq="italique">VD :</marquage>
-          <marquage typemarq="italique">Un développement européen ?</marquage>
+	<marquage typemarq="italique">VD :</marquage> <marquage typemarq="italique">Un développement européen ?</marquage>
         </alinea>
       </para>
       <para>
@@ -193,19 +164,14 @@
       </para>
       <para>
         <alinea>
-          <marquage typemarq="italique">VD :</marquage>
-          <marquage typemarq="italique"
-            >Et pour finir, parlons un peu de la culture. Le prix Nobel de la littérature a été remis cette année à l’auteure biélorusse d’origine ukrainienne Svetlana Alexievitch, pour ses œuvres qui concernent directement les sociétés soviétique et postsoviétique. Comment pouvez-vous commenter cet événement ?</marquage>
+	<marquage typemarq="italique">VD :</marquage> <marquage typemarq="italique">Et pour finir, parlons un peu de la culture. Le prix Nobel de la littérature a été remis cette année à l’auteure biélorusse d’origine ukrainienne Svetlana Alexievitch, pour ses œuvres qui concernent directement les sociétés soviétique et postsoviétique. Comment pouvez-vous commenter cet événement ?</marquage>
         </alinea>
       </para>
       <para>
         <alinea>
 	AP : Je pense que la remise de ce prix n’est pas un hasard. La lauréate représente une articulation originale de plusieurs éléments, à savoir l’attention au phénomène de l’expérience soviétique et de son dépassement postsoviétique, une écrivaine biélorusse mais qui écrit en russe et enfin, une femme qui ne représente pas la prose féminine ou féministe à la mode. C’est très bien, j’espère que ce prix réveillera l’intérêt des lecteurs de l’Europe occidentale vers l’est du continent et vers les littératures russe, ukrainienne, polonaise ou roumaine. En fait, il s’agit d’une chance pour toute notre région de devenir plus visible dans la dimension littéraire mondiale.</alinea>
       </para>
-      <para>
-        <alinea>
-	 </alinea>
-      </para>
+      
     </section1>
   </corps>
   <partiesann>
@@ -213,20 +179,12 @@
       <note id="sdfootnote1sym">
         <no>1</no>
         <alinea>
-          Valentyna Dymytrova est docteure en sciences de l’information et de la communication, chercheure au laboratoire UMR 5206 Triangle de l’université de Lyon. Ses travaux portent sur la construction des identités politiques ukrainiennes dans les médias et les nouveaux médias. V. Dymytrova  a piloté le comité d’organisation du colloque international « L’espace politique ukrainien : conflits et recompositions » (ENS de Lyon, 26-27 juin 2014, <liensimple
-            xlink:type="simple" xlink:href="http://ukraine2014.sciencesconf.org/"
-            >http://ukraine2014.sciencesconf.org/</liensimple>) et codirigé l’ouvrage collectif « Penser l’Ukraine après Maïdan » (<marquage
-            typemarq="italique">Cahiers Sens Public</marquage>, n°17-18, avril 2015).</alinea>
+          Valentyna Dymytrova est docteure en sciences de l’information et de la communication, chercheure au laboratoire UMR 5206 Triangle de l’université de Lyon. Ses travaux portent sur la construction des identités politiques ukrainiennes dans les médias et les nouveaux médias. V. Dymytrova  a piloté le comité d’organisation du colloque international « L’espace politique ukrainien : conflits et recompositions » (ENS de Lyon, 26-27 juin 2014, <liensimple xlink:type="simple" xlink:href="http://ukraine2014.sciencesconf.org/">http://ukraine2014.sciencesconf.org/</liensimple>) et codirigé l’ouvrage collectif « Penser l’Ukraine après Maïdan » (<marquage typemarq="italique">Cahiers Sens Public</marquage>, n°17-18, avril 2015).</alinea>
       </note>
       <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
-          Pour une tentative de décryptage de cette situation, voir le numéro spécial des <marquage
-            typemarq="italique"
-            >Cahiers Sens Public</marquage> « Penser l’Ukraine après Maidan » (avril, 2015). En ligne : <liensimple
-            xlink:type="simple"
-            xlink:href="http://www.cairn.info/revue-cahiers-sens-public-2014-1.htm"
-            >http://www.cairn.info/revue-cahiers-sens-public-2014-1.htm</liensimple>.</alinea>
+          Pour une tentative de décryptage de cette situation, voir le numéro spécial des <marquage typemarq="italique">Cahiers Sens Public</marquage> « Penser l’Ukraine après Maidan » (avril, 2015). En ligne : <liensimple xlink:type="simple" xlink:href="http://www.cairn.info/revue-cahiers-sens-public-2014-1.htm">http://www.cairn.info/revue-cahiers-sens-public-2014-1.htm</liensimple>.</alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>
@@ -236,12 +194,7 @@
       <note id="sdfootnote4sym">
         <no>4</no>
         <alinea>
-          Voir l’article <marquage typemarq="italique"
-            >How to bid goodbye to Lenin in Ukraine</marquage> écrit par Andrii Portnov sur le site « Open democracy »<marquage
-            typemarq="italique"> </marquage>le 26 mai 2015. En ligne : <liensimple
-            xlink:type="simple"
-            xlink:href="https://www.opendemocracy.net/andriy-portnov/on-%E2%80%98decommunisation%E2%80%99-%E2%80%98identity%E2%80%99-and-legislating-history-in-ukraine"
-            >https://www.opendemocracy.net/andriy-portnov/on-‘decommunisation’-‘identity’-and-legislating-history-in-ukraine  </liensimple>
+          Voir l’article <marquage typemarq="italique">How to bid goodbye to Lenin in Ukraine</marquage> écrit par Andrii Portnov sur le site « Open democracy »<marquage typemarq="italique"> </marquage>le 26 mai 2015. En ligne : <liensimple xlink:type="simple" xlink:href="https://www.opendemocracy.net/andriy-portnov/on-%E2%80%98decommunisation%E2%80%99-%E2%80%98identity%E2%80%99-and-legislating-history-in-ukraine">https://www.opendemocracy.net/andriy-portnov/on-‘decommunisation’-‘identity’-and-legislating-history-in-ukraine  </liensimple>
         </alinea>
       </note>
     </grnote>

@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article"
-  xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd"
-  qualtraitement="complet" idproprio="1028821ar" typeart="autre" lang="fr" ordseq="1">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028821ar" typeart="chronique" lang="fr" ordseq="1">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -105,77 +102,45 @@
     <section1>
       <para>
         <alinea>
-	Le 29 octobre 2012, Le Président de la République rencontrait Éric Schmidt – ex-PDG et président exécutif de Google – en vue d’évoquer un certain nombre de problématiques dont la question de la fiscalité du numérique. Cette question est posée au regard de l’exterritorialité dont bénéficie Google qui lui permet de ne payer que 5 millions d’euros d’impôt sur les sociétés en France en 2011 pour un chiffre d’affaires estimé de 1,2 à 1,5 milliard d’euros dans l’hexagone au cours de cette même année<renvoi
-            idref="sdfootnote1sym" typeref="note"
-            >1</renvoi>. Google détient en effet 90% des parts de marché des moteurs de recherche en France et génère à ce titre d’importantes recettes publicitaires qui échappent au Trésor public français en raisin de montages financiers lui permettant de déclarer ses revenus en Irlande<renvoi
-            idref="sdfootnote2sym" typeref="note"
-            >2</renvoi>. L’administration fiscale envisagerait du reste d’imposer un redressement fiscal à l’entreprise américaine pour une somme qui pourrait s’élever à un milliard d’euros<renvoi
-            idref="sdfootnote3sym" typeref="note">3</renvoi>.</alinea>
+	Le 29 octobre 2012, Le Président de la République rencontrait Éric Schmidt – ex-PDG et président exécutif de Google – en vue d’évoquer un certain nombre de problématiques dont la question de la fiscalité du numérique. Cette question est posée au regard de l’exterritorialité dont bénéficie Google qui lui permet de ne payer que 5 millions d’euros d’impôt sur les sociétés en France en 2011 pour un chiffre d’affaires estimé de 1,2 à 1,5 milliard d’euros dans l’hexagone au cours de cette même année<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>. Google détient en effet 90% des parts de marché des moteurs de recherche en France et génère à ce titre d’importantes recettes publicitaires qui échappent au Trésor public français en raisin de montages financiers lui permettant de déclarer ses revenus en Irlande<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi>. L’administration fiscale envisagerait du reste d’imposer un redressement fiscal à l’entreprise américaine pour une somme qui pourrait s’élever à un milliard d’euros<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>.</alinea>
       </para>
       <para>
         <alinea>
-	Le débat public s’est toutefois polarisé sur la Lex Google suite à la demande formulée par l’association de la presse d’information politique et générale (IPG) d’instaurer un nouveau droit voisin du droit d’auteur dans le code de la propriété intellectuelle<renvoi
-            idref="sdfootnote4sym" typeref="note"
-            >4</renvoi>. Ainsi, les organismes de presse ne s’opposeraient pas au référencement et à la diffusion des liens hypertexte vers leurs articles par le prestataire d’un service de référencement ou l’exploitant d’un moteur de recherches en contrepartie d’une « rémunération équitable »<renvoi
-            idref="sdfootnote5sym" typeref="note"
-            >5</renvoi>. La création d’un tel droit contraindrait Google – ainsi que les autres exploitants de moteur de recherches – à verser une partie de leurs recettes publicitaires aux organismes de presse. En préalable à la rencontre avec le Chef de l’État, Google avait fait savoir par courrier qu’il « ne peut accepter que l’instauration d’un droit voisin pour le référencement de sites de presse français mette en cause son existence même et serait en conséquence contraint de ne plus référencer les sites français »<renvoi
-            idref="sdfootnote6sym" typeref="note">6</renvoi>. </alinea>
+	Le débat public s’est toutefois polarisé sur la Lex Google suite à la demande formulée par l’association de la presse d’information politique et générale (IPG) d’instaurer un nouveau droit voisin du droit d’auteur dans le code de la propriété intellectuelle<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>. Ainsi, les organismes de presse ne s’opposeraient pas au référencement et à la diffusion des liens hypertexte vers leurs articles par le prestataire d’un service de référencement ou l’exploitant d’un moteur de recherches en contrepartie d’une « rémunération équitable »<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>. La création d’un tel droit contraindrait Google – ainsi que les autres exploitants de moteur de recherches – à verser une partie de leurs recettes publicitaires aux organismes de presse. En préalable à la rencontre avec le Chef de l’État, Google avait fait savoir par courrier qu’il « ne peut accepter que l’instauration d’un droit voisin pour le référencement de sites de presse français mette en cause son existence même et serait en conséquence contraint de ne plus référencer les sites français »<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>. </alinea>
       </para>
       <para>
         <alinea>
-	Le Président de la République aurait laissé jusqu’à la fin de l’année à la société américaine et aux éditeurs français de presse pour trouver un terrain d’entente sur le droit voisin du droit d’auteur laissant entendre qu’il serait toujours possible de légiférer faute d’accord<renvoi
-            idref="sdfootnote7sym" typeref="note"
-            >7</renvoi>. Le débat sur la Lex Google met ainsi en lumière les difficultés qu’éprouvent les groupes de presse à élaborer un modèle économique viable depuis l’apparition de l’Internet. La presse écrite est en effet confrontée à une triple difficulté<renvoi
-            idref="sdfootnote8sym" typeref="note">8</renvoi> :</alinea>
+	Le Président de la République aurait laissé jusqu’à la fin de l’année à la société américaine et aux éditeurs français de presse pour trouver un terrain d’entente sur le droit voisin du droit d’auteur laissant entendre qu’il serait toujours possible de légiférer faute d’accord<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>. Le débat sur la Lex Google met ainsi en lumière les difficultés qu’éprouvent les groupes de presse à élaborer un modèle économique viable depuis l’apparition de l’Internet. La presse écrite est en effet confrontée à une triple difficulté<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi> :</alinea>
       </para>
       <listenonord signe="disque">
-        <elemliste>
-          <alinea>
-			L’érosion de la diffusion papier payante : seuls quatre quotidiens éditent désormais plus ou moins 400 000 exemplaires payants de leur journal à savoir <marquage
-              typemarq="italique">Ouest France</marquage> (838 334), <marquage typemarq="italique"
-              >L’Equipe </marquage>(401 819), <marquage typemarq="italique"
-              >Le Figaro </marquage>(400 940) et <marquage typemarq="italique"
-              >Le Monde </marquage>(378 238)<renvoi idref="sdfootnote9sym" typeref="note"
-            >9</renvoi>.</alinea>
-        </elemliste>
-        <elemliste>
-          <alinea>
-			L’essor de la diffusion papier gratuite : les titres traditionnels de la presse sont confrontés à la concurrence des journaux gratuits qui diffusent leurs éditions en grande quantité. <marquage
-              typemarq="italique">Direct Matin </marquage>diffuse 1 044 280 exemplaires, <marquage
-              typemarq="italique">20 minutes </marquage>diffuse 1 006 352 exemplaires et <marquage
-              typemarq="italique">Metro </marquage>770 736 exemplaires<renvoi
-              idref="sdfootnote10sym" typeref="note">10</renvoi>.</alinea>
-        </elemliste>
-        <elemliste>
-          <alinea>
-			La chute des recettes publicitaires : la part de la publicité dans les recettes des la presse nationale d’information générale et politique n’ont de cesse de chuter. Dans les faits, les recettes issues de la publicité ont atteint leur point le plus bas en 2010 après une chute très importante en 2009 et se situent désormais à 450 millions d’euros contre 870 millions en 1990<renvoi
-              idref="sdfootnote11sym" typeref="note">11</renvoi>.</alinea>
-        </elemliste>
-      </listenonord>
+	<elemliste>
+		<alinea>
+			L’érosion de la diffusion papier payante : seuls quatre quotidiens éditent désormais plus ou moins 400 000 exemplaires payants de leur journal à savoir <marquage typemarq="italique">Ouest France</marquage> (838 334), <marquage typemarq="italique">L’Equipe </marquage>(401 819), <marquage typemarq="italique">Le Figaro </marquage>(400 940) et <marquage typemarq="italique">Le Monde </marquage>(378 238)<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi>.</alinea>
+	</elemliste>
+	<elemliste>
+		<alinea>
+			L’essor de la diffusion papier gratuite : les titres traditionnels de la presse sont confrontés à la concurrence des journaux gratuits qui diffusent leurs éditions en grande quantité. <marquage typemarq="italique">Direct Matin </marquage>diffuse 1 044 280 exemplaires, <marquage typemarq="italique">20 minutes </marquage>diffuse 1 006 352 exemplaires et <marquage typemarq="italique">Metro </marquage>770 736 exemplaires<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>.</alinea>
+	</elemliste>
+	<elemliste>
+		<alinea>
+			La chute des recettes publicitaires : la part de la publicité dans les recettes des la presse nationale d’information générale et politique n’ont de cesse de chuter. Dans les faits, les recettes issues de la publicité ont atteint leur point le plus bas en 2010 après une chute très importante en 2009 et se situent désormais à 450 millions d’euros contre 870 millions en 1990<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>.</alinea>
+	</elemliste>
+</listenonord>
       <para>
         <alinea>
-	L’Internet a semblé constituer une solution à ces difficultés. Les organismes de presse peinent néanmoins à développer un modèle économique viable pour la diffusion de l’information sur leur site Internet. Les internautes sont attachés à l’idée que l’information doit être gratuite et que seul l’accès au réseau doit être payant. Seuls quelques sites tels que Médiapart ou @rrêts sur image arrivent à trouver un équilibre économique en étant intégralement payants. Les <marquage
-            typemarq="italique"
-            >pure players </marquage>tels que Rue89 ou Atlantico bénéficient pour leur part d’une main d’œuvre peu chère car constituée principalement de contributeurs non rémunérés. Ils peuvent ainsi essayer de dégager un modèle économique fondé uniquement sur la publicité bien que les résultats soient encore incertains. Ces sites 100% payant et les <marquage
-            typemarq="italique"
-          >pure players</marquage> réunis au sein du syndicat de la presse indépendante d’information en ligne (SPIIL) s’opposent du reste à la Lex Google dont ils attendent peu d’avantages.</alinea>
+	L’Internet a semblé constituer une solution à ces difficultés. Les organismes de presse peinent néanmoins à développer un modèle économique viable pour la diffusion de l’information sur leur site Internet. Les internautes sont attachés à l’idée que l’information doit être gratuite et que seul l’accès au réseau doit être payant. Seuls quelques sites tels que Médiapart ou @rrêts sur image arrivent à trouver un équilibre économique en étant intégralement payants. Les <marquage typemarq="italique">pure players </marquage>tels que Rue89 ou Atlantico bénéficient pour leur part d’une main d’œuvre peu chère car constituée principalement de contributeurs non rémunérés. Ils peuvent ainsi essayer de dégager un modèle économique fondé uniquement sur la publicité bien que les résultats soient encore incertains. Ces sites 100% payant et les <marquage typemarq="italique">pure players</marquage> réunis au sein du syndicat de la presse indépendante d’information en ligne (SPIIL) s’opposent du reste à la Lex Google dont ils attendent peu d’avantages.</alinea>
       </para>
       <para>
         <alinea>
-	Dans les faits, Internet est indissociable des contenus qu’il propose. Toutefois, les fournisseurs d’accès à Internet et les exploitants de moteurs de recherche sont pratiquement les seuls bénéficiaires de la plus value générée par la mise à disposition d’une information qu’ils ne produisent pas. Google se taille la part du lion dans les recettes publicitaires ; ce qui a pour conséquence qu’une « part croissante du budget publicitaire des grandes entreprises européennes et asiatiques est en train d’être réorientée des médias traditionnels (la plupart du temps locaux) vers les acteurs (essentiellement américains) de la publicité sur Internet »<renvoi
-            idref="sdfootnote12sym" typeref="note"
-          >12</renvoi>. En ce sens, les acteurs traditionnels de la presse ont des raisons de s’inquiéter de cette évolution.</alinea>
+	Dans les faits, Internet est indissociable des contenus qu’il propose. Toutefois, les fournisseurs d’accès à Internet et les exploitants de moteurs de recherche sont pratiquement les seuls bénéficiaires de la plus value générée par la mise à disposition d’une information qu’ils ne produisent pas. Google se taille la part du lion dans les recettes publicitaires ; ce qui a pour conséquence qu’une « part croissante du budget publicitaire des grandes entreprises européennes et asiatiques est en train d’être réorientée des médias traditionnels (la plupart du temps locaux) vers les acteurs (essentiellement américains) de la publicité sur Internet »<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi>. En ce sens, les acteurs traditionnels de la presse ont des raisons de s’inquiéter de cette évolution.</alinea>
       </para>
       <para>
         <alinea>
-	Le partage de la plus-value de l’Internet entre producteurs et diffuseurs est une problématique récurrente qui ne concerne pas que les éditeurs de presse. Ces derniers disposent toutefois d’un soutien financier important de la part de l’État depuis les états généraux de la presse écrite organisés en 2009. En 2012, ce sont 272,8 millions d’euros qui ont été distribués à ce secteur alors que l’État s’est engagé dans une politique de contractualisation avec les titres de presse<renvoi
-            idref="sdfootnote13sym" typeref="note"
-          >13</renvoi>. Il semble donc que la question la plus fondamentale soit d’assurer à l’État les recettes nécessaires pour honorer ses engagements vis-à-vis de la presse. En ce sens, la priorité devrait revenir à l’assujettissement de Google à l’impôt sur les sociétés.</alinea>
+	Le partage de la plus-value de l’Internet entre producteurs et diffuseurs est une problématique récurrente qui ne concerne pas que les éditeurs de presse. Ces derniers disposent toutefois d’un soutien financier important de la part de l’État depuis les états généraux de la presse écrite organisés en 2009. En 2012, ce sont 272,8 millions d’euros qui ont été distribués à ce secteur alors que l’État s’est engagé dans une politique de contractualisation avec les titres de presse<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi>. Il semble donc que la question la plus fondamentale soit d’assurer à l’État les recettes nécessaires pour honorer ses engagements vis-à-vis de la presse. En ce sens, la priorité devrait revenir à l’assujettissement de Google à l’impôt sur les sociétés.</alinea>
       </para>
       <para>
         <alinea>
-	La Lex Google a le mérite d’attirer l’attention sur ces nouvelles entreprises qui génèrent des profits sur un territoire sans être assujetties à l’impôt. Le fait que les Allemands et les Italiens adoptent un positionnement proche de celui de la France est important car cela permettra de mesurer l’effet d’une action collective suite à l’échec d’une instauration de la Lex Google en Belgique. Le précédent Google sera aussi important pour déterminer la fiscalité d’autres géants de l’Internet dont Facebook, Apple via I-Tunes ou encore Amazon<renvoi
-            idref="sdfootnote14sym" typeref="note">14</renvoi>.</alinea>
+	La Lex Google a le mérite d’attirer l’attention sur ces nouvelles entreprises qui génèrent des profits sur un territoire sans être assujetties à l’impôt. Le fait que les Allemands et les Italiens adoptent un positionnement proche de celui de la France est important car cela permettra de mesurer l’effet d’une action collective suite à l’échec d’une instauration de la Lex Google en Belgique. Le précédent Google sera aussi important pour déterminer la fiscalité d’autres géants de l’Internet dont Facebook, Apple via I-Tunes ou encore Amazon<renvoi idref="sdfootnote14sym" typeref="note">14</renvoi>.</alinea>
       </para>
     </section1>
   </corps>
@@ -184,21 +149,18 @@
       <note id="sdfootnote1sym">
         <no>1</no>
         <alinea>
-	 , <marquage typemarq="italique">La Tribune</marquage>, 29 octobre 2012.</alinea></note>
+          <liensimple xlink:type="simple" xlink:href="http://%20http//www.latribune.fr/technos-medias/medias/20121029trib000727862/lex-google-francois-hollande-menace-google-d-une-loi.html">« Lex Google : François Hollande menace Google d'une loi »</liensimple>, <marquage typemarq="italique">La Tribune</marquage>, 29 octobre 2012.</alinea>
+      </note>
       <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
-	 Les parts de marché des moteurs de recherches dans les principaux pays européens sont consultables <liensimple
-            xlink:type="simple"
-            xlink:href="http:// http://blog.aeronet-referencement.fr/index.php/moteurs-de-recherche/parts-marche-juillet-2012-4056/"
-            >sur le lien suivant.</liensimple>
+	 Les parts de marché des moteurs de recherches dans les principaux pays européens sont consultables <liensimple xlink:type="simple" xlink:href="http:// http://blog.aeronet-referencement.fr/index.php/moteurs-de-recherche/parts-marche-juillet-2012-4056/">sur le lien suivant.</liensimple>
         </alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>
         <alinea>
-	 , <marquage typemarq="italique"
-          >Le Journal du Dimanche, </marquage>31 octobre 2012.</alinea>
+          <liensimple xlink:type="simple" xlink:href="http://www.lejdd.fr/Medias/Internet/Actualite/Le-fisc-francais-reclamerait-un-milliard-d-euros-a-Google-572501">« Google dans le collimateur du fisc français ? »</liensimple>, <marquage typemarq="italique">Le Journal du Dimanche, </marquage>31 octobre 2012.</alinea>
       </note>
       <note id="sdfootnote4sym">
         <no>4</no>
@@ -208,72 +170,55 @@
       <note id="sdfootnote5sym">
         <no>5</no>
         <alinea>
-	 La proposition de l’association IPG est consultable <liensimple
-            xlink:type="simple"
-            xlink:href="http://fr.scribd.com/doc/111435335/Projet-de-Proposition-de-loi-sur-les-droits-voisins-pour-les-organismes-de-presse"
-            >sur le lien suivant.</liensimple>
+	 La proposition de l’association IPG est consultable <liensimple xlink:type="simple" xlink:href="http://fr.scribd.com/doc/111435335/Projet-de-Proposition-de-loi-sur-les-droits-voisins-pour-les-organismes-de-presse">sur le lien suivant.</liensimple>
         </alinea>
       </note>
       <note id="sdfootnote6sym">
         <no>6</no>
         <alinea>
-	 Des extraits de cette note sont notamment disponibles .</alinea>
+          Des extraits de cette note sont notamment disponibles <liensimple xlink:type="simple" xlink:href="http://www.27avril.com/blog/technologies/france-presse-en-ligne-google-menace-de-deferencer-les-sites-des-journaux-francais">sur le site suivant</liensimple>.</alinea>
       </note>
       <note id="sdfootnote7sym">
         <no>7</no>
         <alinea>
-	 Voir . </alinea>
+          Voir <liensimple xlink:type="simple" xlink:href="http://www.france24.com/fr/20121030-rencontre-hollande-google-editeurs-presse-saluent-une-avancee">sur France 24</liensimple>. </alinea>
       </note>
       <note id="sdfootnote8sym">
         <no>8</no>
         <alinea>
-	 Bernard Poulet, <marquage typemarq="italique"
-            >La fin des journaux et l’avenir de l’information</marquage>, Gallimard, Paris, 2 édition, 2011.</alinea>
+	 Bernard Poulet, <marquage typemarq="italique">La fin des journaux et l’avenir de l’information</marquage>, Gallimard, Paris, 2 édition, 2011.</alinea>
       </note>
       <note id="sdfootnote9sym">
         <no>9</no>
         <alinea>
-	 Office de Justification et de contrôle, <marquage typemarq="italique"
-            >Book 2011-2012. Presse payante grand public</marquage>, téléchargeable gratuitement <liensimple
-            xlink:type="simple" xlink:href="http://www.ojd.com/decouvrir/bureaux/pp"
-            >sur ce lien</liensimple>.</alinea>
+	 Office de Justification et de contrôle, <marquage typemarq="italique">Book 2011-2012. Presse payante grand public</marquage>, téléchargeable gratuitement <liensimple xlink:type="simple" xlink:href="http://www.ojd.com/decouvrir/bureaux/pp">sur ce lien</liensimple>.</alinea>
       </note>
       <note id="sdfootnote10sym">
         <no>10</no>
         <alinea>
-	 Office de Justification et de contrôle, <marquage typemarq="italique"
-            >Book 2011. Presse gratuite d’information</marquage>, téléchargeable gratuitement <liensimple
-            xlink:type="simple" xlink:href="http://www.ojd.com/decouvrir/bureaux/pp"
-            >sur ce lien</liensimple>.</alinea>
+	 Office de Justification et de contrôle, <marquage typemarq="italique">Book 2011. Presse gratuite d’information</marquage>, téléchargeable gratuitement <liensimple xlink:type="simple" xlink:href="http://www.ojd.com/decouvrir/bureaux/pp">sur ce lien</liensimple>.</alinea>
       </note>
       <note id="sdfootnote11sym">
         <no>11</no>
         <alinea>
-	 Direction générale des médias et de l’industrie culturelle, <marquage
-            typemarq="italique"
-            >Presse écrite 2011. Enquête rapide</marquage>, Paris, 2012, p. 13. <liensimple
-            xlink:type="simple" xlink:href="http://www.ddm.gouv.fr/article.php3?id_article=1768"
-            >Voir en ligne.</liensimple>
+	 Direction générale des médias et de l’industrie culturelle, <marquage typemarq="italique">Presse écrite 2011. Enquête rapide</marquage>, Paris, 2012, p. 13. <liensimple xlink:type="simple" xlink:href="http://www.ddm.gouv.fr/article.php3?id_article=1768">Voir en ligne.</liensimple>
         </alinea>
       </note>
       <note id="sdfootnote12sym">
         <no>12</no>
         <alinea>
-	 Didier Lombard, <marquage typemarq="italique"
-            >Le village numérique mondial</marquage>, Odile Jacob, Paris, 2008, p. 137.</alinea>
+	 Didier Lombard, <marquage typemarq="italique">Le village numérique mondial</marquage>, Odile Jacob, Paris, 2008, p. 137.</alinea>
       </note>
       <note id="sdfootnote13sym">
         <no>13</no>
         <alinea>
-          <liensimple xlink:type="simple"
-            xlink:href="http://www.observatoiredessubventions.com/2012/subventions-a-la-presse/"
-            >Voir en ligne. </liensimple>
+	 <liensimple xlink:type="simple" xlink:href="http://www.observatoiredessubventions.com/2012/subventions-a-la-presse/">Voir en ligne. </liensimple>
         </alinea>
       </note>
       <note id="sdfootnote14sym">
         <no>14</no>
         <alinea>
-	 , <marquage typemarq="italique">Atlantico</marquage>, 10 octobre 2012.</alinea>
+          <liensimple xlink:type="simple" xlink:href="http://www.atlantico.fr/decryptage/google-apple-amazon-france-peut-elle-imposer-regles-fiscales-nicolas-duboille-506891.html">« Google, Apple, Amazon : la France peut-elle imposer ses règles fiscales ? »</liensimple>, <marquage typemarq="italique">Atlantico</marquage>, 10 octobre 2012.</alinea>
       </note>
     </grnote>
   </partiesann>

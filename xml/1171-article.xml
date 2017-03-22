@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article"
-  xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd"
-  qualtraitement="complet" idproprio="1899ear" typeart="autre" lang="fr" ordseq="1">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1899ear" typeart="chronique" lang="en" ordseq="1">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -40,9 +37,6 @@
       <pubnum>
         <date typedate="publication">2015-11-23</date>
       </pubnum>
-      <grtheme id="th">
-        <theme/>
-      </grtheme>
     </numero>
     <editeur>
       <nomorg>Département des littératures de langue française</nomorg>
@@ -86,8 +80,7 @@
     <section1>
       <para>
         <alinea>
-	« We have set up games and parties that take place one after another throughout the year, special, wonderful and everyday fun-filled entertainment that drives away sorrow. The significance of the city generates all the resources of the earth and we enjoy the production of both the world and of our country. Ours is a city that is open to all. At the time of the action, we rely more on our own courage than on preparations and ruses of war ». Thucydides, <marquage
-            typemarq="italique">The Peloponnesian War</marquage>, II, 38-39</alinea>
+	« We have set up games and parties that take place one after another throughout the year, special, wonderful and everyday fun-filled entertainment that drives away sorrow. The significance of the city generates all the resources of the earth and we enjoy the production of both the world and of our country. Ours is a city that is open to all. At the time of the action, we rely more on our own courage than on preparations and ruses of war ». Thucydides, <marquage typemarq="italique">The Peloponnesian War</marquage>, II, 38-39</alinea>
       </para>
       <para>
         <alinea>
@@ -97,23 +90,19 @@
         <alinea>
 	My father has not seen the tragedy that struck his city. He disappeared a week earlier, he took with him the fears of a child persecuted during the Nazi and collaborationist occupation, the pride of being the son of a great history of progress, freedom and tolerance, and the honour to believe that his generation, as Stéphane Hessel described it to me one evening (I had told him all over again), faced its challenges – the economic and political reconstruction of Europe, the overcoming of ideological and national differences and the decolonization. Accordingly, it allowed the future generations to carry out tasks. Is this optimism still in season ?</alinea>
       </para>
-      <figure>
-        <legende lang="fr">
-          <alinea><marquage typemarq="italique"
-              >Illustration 1 : Paris Boulevard Voltaire, photo : GW</marquage></alinea>
-        </legende>
-        <objetmedia flot="bloc">
-          <image id="img1171-1.jpg" typeimage="figure" desc="" xlink:type="simple"/>
-        </objetmedia>
-      </figure>
       <para>
         <alinea>
-          <liensimple xlink:type="simple" xlink:href=""
-            />While preparing to host a Conference on the future of our climate, Paris has become the City of Martyrs resulting from a highly modern form of political violence, a co-ordinated ground attack by enemy commandos. This operation required the permeability between the international jihadist networks and the ground set for operation : this was a mission for the French agents<renvoi
-            idref="sdfootnote1sym" typeref="note"
-            >1</renvoi>. If the suicide bombers of the Stade of France<renvoi idref="sdfootnote2sym"
-            typeref="note"
-          >2</renvoi> had been able to persuade the guards to allow them to enter without a ticket, as they had tried to do, their suicide attack would have taken place during the television broadcast of the France-Germany match attended by the French President and the German Minister Steinmaier. The attacks in Paris are reprisals, a response to the ability of Western countries to undertake missions far from their homeland. The response by Daech seems to lie in the very area where we are fighting with them. The States involved in the international system attempt targeted strikes – Daech targets town centres, vulnerable places, if any. The impact of terrible acts affirms their power, motivates volunteers to join them and divides their opponents. On this front, their total victory in Paris augurs tragic consequences despite diplomatic adjustments that would be to the benefit of Bachar el-Assad.</alinea>
+          <figure>
+            <objetmedia flot="bloc">
+              <image id="img_1171_A.jpg" typeimage="figure" desc=""/>
+            </objetmedia>
+          </figure>
+	<marquage typemarq="italique">Illustration 1: Paris Boulevard Voltaire, photo :GW</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	<liensimple xlink:type="simple" xlink:href=""/>While preparing to host a Conference on the future of our climate, Paris has become the City of Martyrs resulting from a highly modern form of political violence, a co-ordinated ground attack by enemy commandos. This operation required the permeability between the international jihadist networks and the ground set for operation : this was a mission for the French agents<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>. If the suicide bombers of the Stade of France<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> had been able to persuade the guards to allow them to enter without a ticket, as they had tried to do, their suicide attack would have taken place during the television broadcast of the France-Germany match attended by the French President and the German Minister Steinmaier. The attacks in Paris are reprisals, a response to the ability of Western countries to undertake missions far from their homeland. The response by Daech seems to lie in the very area where we are fighting with them. The States involved in the international system attempt targeted strikes – Daech targets town centres, vulnerable places, if any. The impact of terrible acts affirms their power, motivates volunteers to join them and divides their opponents. On this front, their total victory in Paris augurs tragic consequences despite diplomatic adjustments that would be to the benefit of Bachar el-Assad.</alinea>
       </para>
       <para>
         <alinea>
@@ -129,31 +118,23 @@
 	SACRIFICE</titre>
       <para>
         <alinea>
-	Whether European or not, whether or not returning from Syria, some individuals may sacrifice themselves by assassinating in cold blood, dozens of other young people who came to party on a Friday night. The decision of self-sacrifice is influenced by motivation and such obscure commitments as the individuals. Nothing outside the individual experiences can explain this<renvoi
-            idref="sdfootnote3sym" typeref="note"
-            >3</renvoi>. Their act is irrevocably an oath of violence leading to suicide. The mercenaries of the Bataclan carried out a military operation and the machine-gunners from the terraces attacked the freedom of an urban lifestyle. Their nihilism targets our society that has tolerance and free communication at its heart. André Glucksmann, the theorist of war who disappeared a few days before the event, had looked into this question : « He who is prepared to sacrifice himself considers himself worthy of sacrificing others. In this way, terrorism amounts to a sort of "mysticism", "an absolute self-possession", "a downward ecstasy", preaches Tchen in <marquage
-            typemarq="italique"
-            >La Condition humaine</marquage>, where Malraux echoes the words of Dostoïevski<renvoi
-            idref="sdfootnote4sym" typeref="note">4</renvoi>. »</alinea>
+	Whether European or not, whether or not returning from Syria, some individuals may sacrifice themselves by assassinating in cold blood, dozens of other young people who came to party on a Friday night. The decision of self-sacrifice is influenced by motivation and such obscure commitments as the individuals. Nothing outside the individual experiences can explain this<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>. Their act is irrevocably an oath of violence leading to suicide. The mercenaries of the Bataclan carried out a military operation and the machine-gunners from the terraces attacked the freedom of an urban lifestyle. Their nihilism targets our society that has tolerance and free communication at its heart. André Glucksmann, the theorist of war who disappeared a few days before the event, had looked into this question : « He who is prepared to sacrifice himself considers himself worthy of sacrificing others. In this way, terrorism amounts to a sort of "mysticism", "an absolute self-possession", "a downward ecstasy", preaches Tchen in <marquage typemarq="italique">La Condition humaine</marquage>, where Malraux echoes the words of Dostoïevski<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>. »</alinea>
       </para>
-      <figure>
-        <legende lang="fr">
-          <alinea><marquage typemarq="italique"
-              >Illustration 2 : Paris Fluctuat nec mergitur, photo : GW</marquage></alinea>
-        </legende>
-        <objetmedia flot="bloc">
-          <image id="img1171-2.jpg" typeimage="figure" desc="" xlink:type="simple"/>
-        </objetmedia>
-      </figure>
       <para>
         <alinea>
-          <liensimple xlink:type="simple" xlink:href=""
-            />Their sacrifice results from destroying both the means and the ends. Essentializing their hatred or justifying it would still be a victory to them. René Girard, who also, very recently died, had expressed his failure to understand, in 2008. <marquage
-            typemarq="italique"
-            >« The novelty as compared with the Western heroism involves imposing suffering and death, if necessary allowing oneself to undergo them. This "extreme rise" in violence stems from our world. I believe we are attached to life in a way that does not allow us to attain it. Terrorism is going beyond us, we feel like we can no longer think. It is a threat, which is apparent from the very fact that it is not understood. There is no negotiating</marquage>
+          <figure>
+            <objetmedia flot="bloc">
+              <image id="img_1171_B.jpg" typeimage="figure" desc=""/>
+            </objetmedia>
+          </figure> 
+	<marquage typemarq="italique">Illustration 2: Paris Fluctuat nec mergitur, photo: GW</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+	<liensimple xlink:type="simple" xlink:href=""/>Their sacrifice results from destroying both the means and the ends. Essentializing their hatred or justifying it would still be a victory to them. René Girard, who also, very recently died, had expressed his failure to understand, in 2008. <marquage typemarq="italique">« The novelty as compared with the Western heroism involves imposing suffering and death, if necessary allowing oneself to undergo them. This "extreme rise" in violence stems from our world. I believe we are attached to life in a way that does not allow us to attain it. Terrorism is going beyond us, we feel like we can no longer think. It is a threat, which is apparent from the very fact that it is not understood. There is no negotiating</marquage>
           <renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>
-          <marquage typemarq="italique">.</marquage> <marquage typemarq="italique"
-          >»</marquage> Girard remains Clausewitzian : political goals can be attained only by controlling the wave of violence that characterizes war. Suicide bombers who are forcing a merciless battle, including those who wanted it are expecting it to increase the tactical differences between the opponents of the Islamic State and to render them incapable of collaborative action.</alinea>
+          <marquage typemarq="italique">.</marquage> <marquage typemarq="italique">»</marquage> Girard remains Clausewitzian : political goals can be attained only by controlling the wave of violence that characterizes war. Suicide bombers who are forcing a merciless battle, including those who wanted it are expecting it to increase the tactical differences between the opponents of the Islamic State and to render them incapable of collaborative action.</alinea>
       </para>
       <para>
         <alinea>
@@ -165,25 +146,16 @@
 	VIOLENCE</titre>
       <para>
         <alinea>
-	In the face of the challenge gone out to all those who believe that the movement of people and ideas promotes peace, fundamentally opposed to any ideology of closing territories and withdrawing into oneself, let us create emergency laboratories for <marquage
-            typemarq="italique">« living together in harmony</marquage>
-          <renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>
-          <marquage typemarq="italique">»</marquage>.</alinea>
+	In the face of the challenge gone out to all those who believe that the movement of people and ideas promotes peace, fundamentally opposed to any ideology of closing territories and withdrawing into oneself, let us create emergency laboratories for <marquage typemarq="italique">« living together in harmony</marquage>
+          <renvoi idref="sdfootnote6sym" typeref="note">6</renvoi> <marquage typemarq="italique">»</marquage>.</alinea>
       </para>
       <para>
         <alinea>
-          <liensimple xlink:type="simple" xlink:href=""
-            /> How can we think that it is already the case ? I can think of a text. While laying out a « Moral » in 1947, Sartre objects to any fascination for an isolated act or the commando action. Some may imagine creating conditions for a radical salvation, an <marquage
-            typemarq="italique"
-            >Apocalypse</marquage>, but this idea remains abstract, it does not fit into a concrete context of a political conflict. Any sacrificial act cannot lead to a new era. About the Stern Group, he points out : « Terrorist. Nevertheless, it does not focus on human liberation like most terrorists but just Palestine and the neutralization of the Middle East. Certainly, other goals may follow, but at this point, violence is justified from a strictly defined business point of view. And probably also this company is moving towards human liberation. But liberation is defined because of certain set conditions. Accordingly, the only path for action justifies violence (against violence)<renvoi
-            idref="sdfootnote7sym" typeref="note"
-          >7</renvoi>. » Exerting violence is justified by demonstrating that it is a response, counter-violence. This is what makes some accept to use blind instruments, and an organization that gains from this sacrifice of its members demonstrates its determination.</alinea>
+	<liensimple xlink:type="simple" xlink:href=""/> How can we think that it is already the case ? I can think of a text. While laying out a « Moral » in 1947, Sartre objects to any fascination for an isolated act or the commando action. Some may imagine creating conditions for a radical salvation, an <marquage typemarq="italique">Apocalypse</marquage>, but this idea remains abstract, it does not fit into a concrete context of a political conflict. Any sacrificial act cannot lead to a new era. About the Stern Group, he points out : « Terrorist. Nevertheless, it does not focus on human liberation like most terrorists but just Palestine and the neutralization of the Middle East. Certainly, other goals may follow, but at this point, violence is justified from a strictly defined business point of view. And probably also this company is moving towards human liberation. But liberation is defined because of certain set conditions. Accordingly, the only path for action justifies violence (against violence)<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>. » Exerting violence is justified by demonstrating that it is a response, counter-violence. This is what makes some accept to use blind instruments, and an organization that gains from this sacrifice of its members demonstrates its determination.</alinea>
       </para>
       <para>
         <alinea>
-	However, this extreme violence creates or justifies a set of standards making it a world order and not just a means of pressure : « I can set the destruction as a means to an end above its purpose. In the latter case, I affirm the insignificance of everything that exists in relation to me, and my goal. Violence implies nihilism. […] As with any activity involving the same time value, violence has its own justification, this means that by its very existence, it claims the right to being […] Thus violence is Manichean. It believes in a world order, but manipulated by ill-will […] You just need to destroy the obstruction for the order to appear<renvoi
-            idref="sdfootnote8sym" typeref="note"
-          >8</renvoi>… » According to Sartre, perpetrating extreme violence means compromising the end that we pursue by viewing it as an absolute that we must attain at all costs. The dilemma of the historical moral is that the means are not appropriate for moving towards attaining the very end. The course of pursuing the ends in history involves accepting failure (temporary), and not making violence absolute. This will be central to his writing up to the Critique de la raison dialectique.</alinea>
+	However, this extreme violence creates or justifies a set of standards making it a world order and not just a means of pressure : « I can set the destruction as a means to an end above its purpose. In the latter case, I affirm the insignificance of everything that exists in relation to me, and my goal. Violence implies nihilism. […] As with any activity involving the same time value, violence has its own justification, this means that by its very existence, it claims the right to being […] Thus violence is Manichean. It believes in a world order, but manipulated by ill-will […] You just need to destroy the obstruction for the order to appear<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi>… » According to Sartre, perpetrating extreme violence means compromising the end that we pursue by viewing it as an absolute that we must attain at all costs. The dilemma of the historical moral is that the means are not appropriate for moving towards attaining the very end. The course of pursuing the ends in history involves accepting failure (temporary), and not making violence absolute. This will be central to his writing up to the Critique de la raison dialectique.</alinea>
       </para>
       <para>
         <alinea>
@@ -195,20 +167,11 @@
 	EVENT</titre>
       <para>
         <alinea>
-          <liensimple xlink:type="simple" xlink:href=""
-            /> One further aspect of Sartre’s thoughts that is essential should be mentioned. It concerns the multi-dimensionality of the event, which « goes through thousand consciousnesses at a time<renvoi
-            idref="sdfootnote9sym" typeref="note"
-            >9</renvoi>. » It goes beyond climactic acts. The full meaning of the event is outside of its authors’ control. « The way to experience the event is part of the event itself. The public outrage under a decree falls under the event of the decree. […] Precisely because this active meaning is multidimensional, the event means imbalance, and it is a decentred proliferation. […] In its external nature, the event is a thousand times separated from itself as the actual interpretations are part of the event, making up the event and each one is external to the other.[…] The innumerable cracks in the event are unsettled, it is impossible to put them together in any place<renvoi
-            idref="sdfootnote10sym" typeref="note"
-            >10</renvoi>. » An event always surprises its audience. It will be internalized by each of them, turning into a course of personal action before becoming historic. So it is with the Bataclan : before rejoining the « collective memory<renvoi
-            idref="sdfootnote11sym" typeref="note"
-          >11</renvoi> » which will eliminate the key aspects, the event obliges everyone to take a stance and to get involved actively. The separation of the consciousness that breaks up the event also encourages everyone to attempt reaching out to others, which will then transform the experience into a historical fact.</alinea>
+	<liensimple xlink:type="simple" xlink:href=""/> One further aspect of Sartre’s thoughts that is essential should be mentioned. It concerns the multi-dimensionality of the event, which « goes through thousand consciousnesses at a time<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi>. » It goes beyond climactic acts. The full meaning of the event is outside of its authors’ control. « The way to experience the event is part of the event itself. The public outrage under a decree falls under the event of the decree. […] Precisely because this active meaning is multidimensional, the event means imbalance, and it is a decentred proliferation. […] In its external nature, the event is a thousand times separated from itself as the actual interpretations are part of the event, making up the event and each one is external to the other.[…] The innumerable cracks in the event are unsettled, it is impossible to put them together in any place<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>. » An event always surprises its audience. It will be internalized by each of them, turning into a course of personal action before becoming historic. So it is with the Bataclan : before rejoining the « collective memory<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi> » which will eliminate the key aspects, the event obliges everyone to take a stance and to get involved actively. The separation of the consciousness that breaks up the event also encourages everyone to attempt reaching out to others, which will then transform the experience into a historical fact.</alinea>
       </para>
       <para>
         <alinea>
-          <liensimple xlink:type="simple" xlink:href=""
-            /> If this is true, the historical dialectic of the Bataclan Generation begins with the immediate reactions from those who had to deal with the shock without any mediation. Reactions of witnesses and direct victims were released. I would like to look at the staff members at Paris hospitals, who were on the front lines, without any hindsight. Bruno Riou, Dean of the Faculty of Medicine, states : « We stood together in horrendous conditions. It was nonetheless an altogether unusual situation, with wounds of war. Ten to twelve operating room staff worked side by side. And we could attend to the fifty people injured we treated. One must say that the solidarity was incredible. Interns, department heads, surgeons came to <marquage
-            typemarq="italique">help</marquage>
+	<liensimple xlink:type="simple" xlink:href=""/> If this is true, the historical dialectic of the Bataclan Generation begins with the immediate reactions from those who had to deal with the shock without any mediation. Reactions of witnesses and direct victims were released. I would like to look at the staff members at Paris hospitals, who were on the front lines, without any hindsight. Bruno Riou, Dean of the Faculty of Medicine, states : « We stood together in horrendous conditions. It was nonetheless an altogether unusual situation, with wounds of war. Ten to twelve operating room staff worked side by side. And we could attend to the fifty people injured we treated. One must say that the solidarity was incredible. Interns, department heads, surgeons came to <marquage typemarq="italique">help</marquage>
           <marquage typemarq="italique"> us. I am very </marquage>
           <marquage typemarq="italique">proud</marquage>
           <marquage typemarq="italique"> of this mobilization</marquage>
@@ -218,20 +181,15 @@
       </para>
       <para>
         <alinea>
-          <liensimple xlink:type="simple" xlink:href=""
-            /> The immediate transition from shock to action fosters resilience : despite the shock that divides and creates a serious disconnect, the human solidarity is preserved, the feeling of goodwill came to the rescue of our troubled minds. The solidarity is subsequently developing worldwide, through social networks and gatherings combined. Let us rely on it to oppose the intelligence that is associated with barbarity. <marquage
-            typemarq="italique"
-            >Sens public </marquage>was created in 2002 in response to the significant change in the political landscape in France, which created a shock wave that was emotionally powerful. The example of generations that have overcome antagonisms and massacres of the twentieth century by their mobilization will be able to inspire us. Beyond the war against Daech and the hope for a possible way out of the Arab political confinement, an education policy and dialogue remains open. Jean-François Bayart finds in these attacks the « boomerang effect » of a misguided policy ever since the first oil crisis in 1973<renvoi
-            idref="sdfootnote13sym" typeref="note"
-          >13</renvoi>. Dreaming of a public opinion that is magically in solidarity with the oppressed Arab populations and voting to support the suburban young Muslims seems to be a pious hope. That does not prevent supporting democratic actions everywhere, or fostering the « Republican pathway » in our country. This is indeed the challenge of living together. The Bataclan Generation will prepare the path to take it over. By creating these laboratories for living together, alongside other initiatives to be implemented for summing up the event, we are hoping to set this generation to live up to its own event.</alinea>
+	<liensimple xlink:type="simple" xlink:href=""/> The immediate transition from shock to action fosters resilience : despite the shock that divides and creates a serious disconnect, the human solidarity is preserved, the feeling of goodwill came to the rescue of our troubled minds. The solidarity is subsequently developing worldwide, through social networks and gatherings combined. Let us rely on it to oppose the intelligence that is associated with barbarity. <marquage typemarq="italique">Sens public </marquage>was created in 2002 in response to the significant change in the political landscape in France, which created a shock wave that was emotionally powerful. The example of generations that have overcome antagonisms and massacres of the twentieth century by their mobilization will be able to inspire us. Beyond the war against Daech and the hope for a possible way out of the Arab political confinement, an education policy and dialogue remains open. Jean-François Bayart finds in these attacks the « boomerang effect » of a misguided policy ever since the first oil crisis in 1973<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi>. Dreaming of a public opinion that is magically in solidarity with the oppressed Arab populations and voting to support the suburban young Muslims seems to be a pious hope. That does not prevent supporting democratic actions everywhere, or fostering the « Republican pathway » in our country. This is indeed the challenge of living together. The Bataclan Generation will prepare the path to take it over. By creating these laboratories for living together, alongside other initiatives to be implemented for summing up the event, we are hoping to set this generation to live up to its own event.</alinea>
       </para>
-
+      
       <para>
         <alinea>
 	Translation by Amudha LINGESWARAN</alinea>
       </para>
-
-
+      
+      
     </section1>
   </corps>
   <partiesann>
@@ -239,68 +197,38 @@
       <note id="sdfootnote1sym">
         <no>1</no>
         <alinea>
-          The risk of such an attack has been known for some time. The diplomatic inability to counter Assad and the open conflict with Daech made it fatal. When arrested in August by the French police, a jihadist mentioned Abdelhamid Abaaoud’s plan for attacking a concert hall – <liensimple
-            xlink:type="simple"
-            xlink:href="http://www.leparisien.fr/faits-divers/l-ombre-d-abaaoud-derriere-les-attentats-de-paris-17-11-2015-5285037.php"
-            >See here</liensimple> and <liensimple xlink:type="simple"
-            xlink:href="http://www.lemonde.fr/attaques-a-paris/article/2015/11/16/qui-est-abdelhamid-abaaoud-le-commanditaire-presume-des-attaques-de-paris_4811009_4809495.html"
-            >there</liensimple>.</alinea>
+          The risk of such an attack has been known for some time. The diplomatic inability to counter Assad and the open conflict with Daech made it fatal. When arrested in August by the French police, a jihadist mentioned Abdelhamid Abaaoud’s plan for attacking a concert hall – <liensimple xlink:type="simple" xlink:href="http://www.leparisien.fr/faits-divers/l-ombre-d-abaaoud-derriere-les-attentats-de-paris-17-11-2015-5285037.php">See here</liensimple> and <liensimple xlink:type="simple" xlink:href="http://www.lemonde.fr/attaques-a-paris/article/2015/11/16/qui-est-abdelhamid-abaaoud-le-commanditaire-presume-des-attaques-de-paris_4811009_4809495.html">there</liensimple>.</alinea>
       </note>
       <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
-          <liensimple xlink:type="simple"
-            xlink:href="http://www.parismatch.com/Actu/International/Bilal-Hadfi-kamikaze-de-20-ans-866517"
-            >See here</liensimple>.</alinea>
+          <liensimple xlink:type="simple" xlink:href="http://www.parismatch.com/Actu/International/Bilal-Hadfi-kamikaze-de-20-ans-866517">See here</liensimple>.</alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>
         <alinea>
-          The intellectual tendency of seeking a link with a religious requirement, in any way, is an absurd logical circle. If we find a precept sanctioning crime, the question would be why few people are executing it. Assigning an act of bloodthirsty barbarism for a maiden test is an equally irrational presupposition as that noticing the coincidence with Friday the thirteenth... The jihadist Reda Hame had told the police that he was being blackmailed : to be executed in Syria or to commit an attack in Europe - <liensimple
-            xlink:type="simple"
-            xlink:href="http://www.leparisien.fr/faits-divers/l-ombre-d-abaaoud-derriere-les-attentats-de-paris-17-11-2015-5285037.php"
-            >See here</liensimple>.</alinea>
+          The intellectual tendency of seeking a link with a religious requirement, in any way, is an absurd logical circle. If we find a precept sanctioning crime, the question would be why few people are executing it. Assigning an act of bloodthirsty barbarism for a maiden test is an equally irrational presupposition as that noticing the coincidence with Friday the thirteenth... The jihadist Reda Hame had told the police that he was being blackmailed : to be executed in Syria or to commit an attack in Europe - <liensimple xlink:type="simple" xlink:href="http://www.leparisien.fr/faits-divers/l-ombre-d-abaaoud-derriere-les-attentats-de-paris-17-11-2015-5285037.php">See here</liensimple>.</alinea>
       </note>
       <note id="sdfootnote4sym">
         <no>4</no>
         <alinea>
-          <liensimple xlink:type="simple"
-            xlink:href="http://www.lefigaro.fr/culture/2015/11/10/03004-20151110ARTFIG00102-quand-andre-glucksmann-evoquait-le-terrorisme-dans-une-tribune-au-figaro.php"
-            >See here</liensimple>.</alinea>
+          <liensimple xlink:type="simple" xlink:href="http://www.lefigaro.fr/culture/2015/11/10/03004-20151110ARTFIG00102-quand-andre-glucksmann-evoquait-le-terrorisme-dans-une-tribune-au-figaro.php">See here</liensimple>.</alinea>
       </note>
       <note id="sdfootnote5sym">
         <no>5</no>
         <alinea>
-          <liensimple xlink:type="simple"
-            xlink:href="http://reforme.net/une/religion/lapocalypse-a-commence"
-            >See here</liensimple>.</alinea>
+          <liensimple xlink:type="simple" xlink:href="http://reforme.net/une/religion/lapocalypse-a-commence">See here</liensimple>.</alinea>
       </note>
       <note id="sdfootnote6sym">
         <no>6</no>
         <alinea>
-          <marquage typemarq="italique">The term : *CONVIVANCE n. f. 18</marquage>
-          <marquage typemarq="italique"/>
-          <marquage typemarq="italique"
-            >century, « the experience of living together » entered 2004 the Addendum of the Dictionnaire de l’Académie française. Derived from the Old French word convivre, « living together », with an impact, on the 20</marquage>
-          <marquage typemarq="italique"/>
-          <marquage typemarq="italique"/>
-          <marquage typemarq="italique"
-            >century, from the Spanish word convivencia. This is a situation where communities, different human groups live together within one </marquage>
-          <marquage typemarq="italique">
-            <marquage typemarq="italique"
-              >society maintaining neighbourly relations, harmony and exchange. The living together of Muslims, Jews and Christians in Spain ended in 1492. Also, refer to this eulogy to Florence Delay. </marquage>
-          </marquage>
-          <marquage typemarq="italique"/>
-          <marquage typemarq="italique">
-            <marquage typemarq="italique">.</marquage>
-          </marquage>
+          <marquage typemarq="italique">The term : *CONVIVANCE n. f. 18 century, « the experience of living together » entered 2004 the Addendum of the Dictionnaire de l’Académie française. Derived from the Old French word convivre, « living together », with an impact, on the 20 century, from the Spanish word convivencia. This is a situation where communities, different human groups live together within one society maintaining neighbourly relations, harmony and exchange. The living together of Muslims, Jews and Christians in Spain ended in 1492. Also, refer to this eulogy to Florence Delay.</marquage> <liensimple xlink:type="simple" xlink:href="http://www.academie-francaise.fr/une-tres-vieille-convivance">See here</liensimple>.
         </alinea>
       </note>
       <note id="sdfootnote7sym">
         <no>7</no>
         <alinea>
-           Sartre, Jean-Paul, <marquage typemarq="italique"
-            >Cahiers pour une Morale (1947-1948)</marquage>, Paris, Gallimard, 1983, p. 176.</alinea>
+           Sartre, Jean-Paul, <marquage typemarq="italique">Cahiers pour une Morale (1947-1948)</marquage>, Paris, Gallimard, 1983, p. 176.</alinea>
       </note>
       <note id="sdfootnote8sym">
         <no>8</no>
@@ -316,57 +244,25 @@
         <no>10</no>
         <alinea>
           <marquage typemarq="italique"> </marquage>
-          <marquage typemarq="italique"
-            >A more substantial extract from this : « The way to experience the event is part of the event itself. The public outrage under a decree falls under the event of the decree. […] Precisely because this active meaning is multidimensional, the event means imbalance and it is a decentred proliferation. Moreover, every consciousness, even if it uses the inertia, merely because it captures the event according to its own principles, gives it synthetic unity and the synthetic development of the Spirit. However, the nothingness that separates the consciousness from the Other brings in passivity. Active as it synthesizes, the consciousness is passive as separated by the nothingness. The troubled separation is the passivity. Thus, in its external nature, the event is a thousand times separated from itself as the actual interpretations are part of the event, making up the event and each one is external to the other. […] The innumerable cracks in the event are unsettled, it is impossible to put them together in any place. There is simply an outside in the inside, outside the self that is constantly reacting. It is this inside-outside relationship that causes the event to elude all : its inertia, its own heaviness does not derive from a physical inertia but from a constant recovery. » Ibid., pp. 40-41.</marquage>
+          <marquage typemarq="italique">A more substantial extract from this : « The way to experience the event is part of the event itself. The public outrage under a decree falls under the event of the decree. […] Precisely because this active meaning is multidimensional, the event means imbalance and it is a decentred proliferation. Moreover, every consciousness, even if it uses the inertia, merely because it captures the event according to its own principles, gives it synthetic unity and the synthetic development of the Spirit. However, the nothingness that separates the consciousness from the Other brings in passivity. Active as it synthesizes, the consciousness is passive as separated by the nothingness. The troubled separation is the passivity. Thus, in its external nature, the event is a thousand times separated from itself as the actual interpretations are part of the event, making up the event and each one is external to the other. […] The innumerable cracks in the event are unsettled, it is impossible to put them together in any place. There is simply an outside in the inside, outside the self that is constantly reacting. It is this inside-outside relationship that causes the event to elude all : its inertia, its own heaviness does not derive from a physical inertia but from a constant recovery. » Ibid., pp. 40-41.</marquage>
         </alinea>
       </note>
       <note id="sdfootnote11sym">
         <no>11</no>
         <alinea>
-          <liensimple xlink:type="simple"
-            xlink:href="http://classiques.uqac.ca/classiques/Halbwachs_maurice/memoire_collective/memoire_collective.html"
-            >See here</liensimple>.</alinea>
+          <liensimple xlink:type="simple" xlink:href="http://classiques.uqac.ca/classiques/Halbwachs_maurice/memoire_collective/memoire_collective.html">See here</liensimple>.</alinea>
       </note>
       <note id="sdfootnote12sym">
         <no>12</no>
         <alinea>
-          <marquage typemarq="italique"> </marquage>
           <marquage typemarq="italique">
-            <liensimple xlink:type="simple"
-              xlink:href="http://www.lemonde.fr/attaques-a-paris/article/2015/11/14/aux-urgences-de-la-pitie-salpetriere-familles-et-amis-cherchent-des-nouvelles-de-leurs-proches_4810174_4809495.html">
-              <marquage typemarq="italique">See here</marquage>
-            </liensimple>
-          </marquage>
-          <marquage typemarq="italique"> </marquage>
-          <marquage typemarq="italique">Also, for instance, see </marquage>
-          <marquage typemarq="italique">
-            <liensimple xlink:type="simple"
-              xlink:href="http://www.lemonde.fr/attaques-a-paris/article/2015/11/15/dans-les-hopitaux-parisiens-apres-une-nuit-de-crise_4810229_4809495.html"
-              >here</liensimple>
-          </marquage>
-          <marquage typemarq="italique"> </marquage>
-          <marquage typemarq="italique">and </marquage>
-          <marquage typemarq="italique">
-            <liensimple xlink:type="simple"
-              xlink:href="http://www.lemonde.fr/attaques-a-paris/article/2015/11/15/a-l-hopital-la-pitie-salpetriere-comme-l-equipage-d-un-sous-marin-en-immersion_4810396_4809495.html"
-              >there</liensimple>
-          </marquage>
-          <marquage typemarq="italique"> </marquage>
-          <marquage typemarq="italique">or </marquage>
-          <marquage typemarq="italique"/>
-          <marquage typemarq="italique"/>
-          <marquage typemarq="italique">and </marquage>
-          <marquage typemarq="italique"/>
-          <marquage typemarq="italique">.</marquage>
-          <marquage typemarq="italique"> </marquage>
+            <liensimple xlink:type="simple" xlink:href="http://www.lemonde.fr/attaques-a-paris/article/2015/11/14/aux-urgences-de-la-pitie-salpetriere-familles-et-amis-cherchent-des-nouvelles-de-leurs-proches_4810174_4809495.html">See here</liensimple>. Also, for instance, see <liensimple xlink:type="simple" xlink:href="http://www.lemonde.fr/attaques-a-paris/article/2015/11/15/dans-les-hopitaux-parisiens-apres-une-nuit-de-crise_4810229_4809495.html">here</liensimple> and <liensimple xlink:type="simple" xlink:href="http://www.lemonde.fr/attaques-a-paris/article/2015/11/15/a-l-hopital-la-pitie-salpetriere-comme-l-equipage-d-un-sous-marin-en-immersion_4810396_4809495.html">there</liensimple> or <liensimple xlink:type="simple" xlink:href="http://www.lefigaro.fr/actualite-france/2015/11/14/01016-20151114ARTFIG00241-dans-les-hopitaux-parisiens-les-chirurgiens-pratiquent-la-medecine-de-guerre.php">still here</liensimple> and <liensimple xlink:type="simple" xlink:href="http://www.liberation.fr/france/2015/11/14/dans-les-hopitaux-une-mobilisation-exemplaire_1413446">finally here</liensimple>.</marquage>
         </alinea>
       </note>
       <note id="sdfootnote13sym">
         <no>13</no>
         <alinea>
-          <liensimple xlink:type="simple"
-            xlink:href="http://www.liberation.fr/debats/2015/11/15/le-retour-du-boomerang_1413552"
-            >See here</liensimple>.</alinea>
+          <liensimple xlink:type="simple" xlink:href="http://www.liberation.fr/debats/2015/11/15/le-retour-du-boomerang_1413552">See here</liensimple>.</alinea>
       </note>
     </grnote>
   </partiesann>

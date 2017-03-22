@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article"
-  xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd"
-  qualtraitement="complet" idproprio="1895ear" typeart="autre" lang="fr" ordseq="1">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1895ear" typeart="cr" lang="fr" ordseq="1">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -38,9 +35,6 @@
       <pubnum>
         <date typedate="publication">2015-11-02</date>
       </pubnum>
-      <grtheme id="th">
-        <theme/>
-      </grtheme>
     </numero>
     <editeur>
       <nomorg>Département des littératures de langue française</nomorg>
@@ -85,77 +79,45 @@
     <section1>
       <para>
         <alinea>
-          <marquage typemarq="italique">R</marquage>
-          <marquage typemarq="italique">iflessione e trascendenza</marquage> (<marquage
-            typemarq="italique"
-            >itinerari a partire da Levinas</marquage>), texte de Marcello Vitali Rosati, fut publié par la maison d’édition italienne Edizioni ETS (<liensimple
-            xlink:type="simple"
-            xlink:href="http://www.edizioniets.com/scheda.asp?n=88-467-0677-3&amp;from=&amp;fk_s="
-            >Voir en ligne</liensimple>) en mars 2003, alors que l’auteur était jeune doctorant en philosophie à l’Université de Pise. Le livre (170 pages) est divisé en cinq chapitres précédés d’une introduction et suivis d’une vaste bibliographie sur le philosophe franco-lituanien (1906-1995). Mais, plus qu’une analyse des idées lévinassiennes, Vitali Rosati, en fin logicien, expose les fondements de ce qu’il appelle une nouvelle logique de la transcendance et de la réflexion à partir d’une critique de la logique mise en œuvre par Lévinas dans son éthique. Cette note de lecture, avec ce qu’elle peut avoir de personnel et de subjectif comme toute lecture, met donc l’accent non pas sur la « philosophie » de Lévinas (lui-même récusait la philosophie ontologique traditionnelle), mais sur la succession explosive des idées de Vitali Rosati, dont la dimension esthétique est bien rendue par <marquage
-            typemarq="italique"
-            >La cabeza rafaelesca explotando</marquage>, le tableau de Salvador Dalí choisi par l’éditeur pour illustrer la couverture du livre. Un texte philosophique peut être aussi « beau » qu’un texte poétique. Ne peut-on pas lire le <marquage
-            typemarq="italique"
-          >Tractatus Logico-Philosophicus</marquage> du jeune Wittgenstein comme le plus beau des poèmes mathématiques ?</alinea>
+	<marquage typemarq="italique">R</marquage>
+          <marquage typemarq="italique">iflessione e trascendenza</marquage> (<marquage typemarq="italique">itinerari a partire da Levinas</marquage>), texte de Marcello Vitali Rosati, fut publié par la maison d’édition italienne Edizioni ETS (<liensimple xlink:type="simple" xlink:href="http://www.edizioniets.com/scheda.asp?n=88-467-0677-3&amp;from=&amp;fk_s=">Voir en ligne</liensimple>) en mars 2003, alors que l’auteur était jeune doctorant en philosophie à l’Université de Pise. Le livre (170 pages) est divisé en cinq chapitres précédés d’une introduction et suivis d’une vaste bibliographie sur le philosophe franco-lituanien (1906-1995). Mais, plus qu’une analyse des idées lévinassiennes, Vitali Rosati, en fin logicien, expose les fondements de ce qu’il appelle une nouvelle logique de la transcendance et de la réflexion à partir d’une critique de la logique mise en œuvre par Lévinas dans son éthique. Cette note de lecture, avec ce qu’elle peut avoir de personnel et de subjectif comme toute lecture, met donc l’accent non pas sur la « philosophie » de Lévinas (lui-même récusait la philosophie ontologique traditionnelle), mais sur la succession explosive des idées de Vitali Rosati, dont la dimension esthétique est bien rendue par <marquage typemarq="italique">La cabeza rafaelesca explotando</marquage>, le tableau de Salvador Dalí choisi par l’éditeur pour illustrer la couverture du livre. Un texte philosophique peut être aussi « beau » qu’un texte poétique. Ne peut-on pas lire le <marquage typemarq="italique">Tractatus Logico-Philosophicus</marquage> du jeune Wittgenstein comme le plus beau des poèmes mathématiques ?</alinea>
       </para>
       <para>
         <alinea>
-	Ce qui facilite et rend très agréable la lecture de <marquage typemarq="italique"
-            >Riflessione e trascendenza</marquage>, outre la transparence et l’exactitude du langage philosophique de l’auteur, c’est la richesse lexicale et la flexibilité syntaxique de la langue italienne, qui s’introduit aisément dans les recoins les plus abstraits de la philosophie et de la logique formelle<renvoi
-            idref="sdfootnote1sym" typeref="note"
-            >1</renvoi>. Ceci explique que cette note de lecture soit tissée avec des citations du texte original (prélevées directement dans l’édition italienne qui sert de référence bibliographique), leur traduction apparaissant dans les notes en fin d’article, sauf lorsque leur brièveté ou la coïncidence des racines latines communes des mots italiens et des mots français rendent la traduction superflue. <marquage
-            typemarq="italique">Sens public</marquage> est une revue plurilingue.</alinea>
+	Ce qui facilite et rend très agréable la lecture de <marquage typemarq="italique">Riflessione e trascendenza</marquage>, outre la transparence et l’exactitude du langage philosophique de l’auteur, c’est la richesse lexicale et la flexibilité syntaxique de la langue italienne, qui s’introduit aisément dans les recoins les plus abstraits de la philosophie et de la logique formelle<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>. Ceci explique que cette note de lecture soit tissée avec des citations du texte original (prélevées directement dans l’édition italienne qui sert de référence bibliographique), leur traduction apparaissant dans les notes en fin d’article, sauf lorsque leur brièveté ou la coïncidence des racines latines communes des mots italiens et des mots français rendent la traduction superflue. <marquage typemarq="italique">Sens public</marquage> est une revue plurilingue.</alinea>
       </para>
       <para>
         <alinea>
-	Dans l’« <marquage typemarq="italique"
-            >Introduzione</marquage> » du livre, Vitali Rosati donne une première définition du concept de « réflexion » (<marquage
-            typemarq="italique">riflessione</marquage>) :</alinea>
+	Dans l’« <marquage typemarq="italique">Introduzione</marquage> » du livre, Vitali Rosati donne une première définition du concept de « réflexion » (<marquage typemarq="italique">riflessione</marquage>) :</alinea>
       </para>
       <para>
         <alinea>
-          <marquage typemarq="italique"
-            >In un senso generalissimo e provvisorio intendiamo per </marquage>
+	<marquage typemarq="italique">In un senso generalissimo e provvisorio intendiamo per </marquage>
           <marquage typemarq="italique"> " </marquage>
           <marquage typemarq="italique">riflessione </marquage>
           <marquage typemarq="italique">"</marquage>
-          <marquage typemarq="italique"
-            > proprio questa struttura : il soggetto, nel cercare un rapporto con l’alterità, funge da specchio, luogo di apparizione, e di contatto insieme, di tutto ciò che è altro. Nel </marquage>
+          <marquage typemarq="italique"> proprio questa struttura : il soggetto, nel cercare un rapporto con l’alterità, funge da specchio, luogo di apparizione, e di contatto insieme, di tutto ciò che è altro. Nel </marquage>
           <marquage typemarq="italique"> " </marquage>
           <marquage typemarq="italique">riflettere</marquage>
           <marquage typemarq="italique">  "</marquage>
-          <marquage typemarq="italique"
-            > il soggetto crea in se stesso il luogo di incontro con ciò che è altro da lui. Senza un </marquage>
+          <marquage typemarq="italique"> il soggetto crea in se stesso il luogo di incontro con ciò che è altro da lui. Senza un </marquage>
           <marquage typemarq="italique"> "</marquage>
           <marquage typemarq="italique">i o rifletto </marquage>
           <marquage typemarq="italique">"</marquage>
-          <marquage typemarq="italique"
-            > ogni immagine è destinata a dileguarsi, l’alterità non può essere in nessun modo incontrata</marquage>
+          <marquage typemarq="italique"> ogni immagine è destinata a dileguarsi, l’alterità non può essere in nessun modo incontrata</marquage>
           <renvoi idref="sdfootnote2sym" typeref="note">2</renvoi>
           <marquage typemarq="italique">.</marquage>
         </alinea>
       </para>
       <para>
         <alinea>
-	Et il signale, immédiatement, l’incompatibilité de ce concept avec celui de « transcendance », fondement ultime de l’« altérité » (<marquage
-            typemarq="italique">alterità</marquage>) : « <marquage typemarq="italique"
-            >La trascendenza è la possibilità della differenza assoluta dell’alterità</marquage>
+	Et il signale, immédiatement, l’incompatibilité de ce concept avec celui de « transcendance », fondement ultime de l’« altérité » (<marquage typemarq="italique">alterità</marquage>) : « <marquage typemarq="italique">La trascendenza è la possibilità della differenza assoluta dell’alterità</marquage>
           <marquage typemarq="italique">
-            <renvoi idref="sdfootnote3sym" typeref="note"
-          >3</renvoi> </marquage>». Mais (et celle-ci est l’une des questions fondamentales de la pensée lévinassienne), comment un rapport avec une altérité qui reste absolument autre est-il possible, c’est-à-dire un rapport qui ne détruise pas l’altérité, mais qui la conserve ?</alinea>
+            <renvoi idref="sdfootnote3sym" typeref="note">3</renvoi> </marquage>». Mais (et celle-ci est l’une des questions fondamentales de la pensée lévinassienne), comment un rapport avec une altérité qui reste absolument autre est-il possible, c’est-à-dire un rapport qui ne détruise pas l’altérité, mais qui la conserve ?</alinea>
       </para>
       <para>
         <alinea>
-	Dès le premier chapitre, Vitali Rosati examine la logique de la tentative de Lévinas pour dépasser la philosophie traditionnelle d’ascendance aristotélicienne, fondée sur l’ontologie et la question de l’Être<marquage
-            typemarq="italique"
-            >.</marquage> Comme chacun sait, le penseur franco-lituanien veut mettre en place une philosophie fondée sur l’éthique et l’analyse de la relation entre le Même (<marquage
-            typemarq="italique">il Medesimo</marquage>) et l’Autre (<marquage typemarq="italique"
-            >l’Altro</marquage>). Pour lui, l’Autre en tant qu’Autre n’est pas un objet qui peut devenir mien ou qui devient moi, l’Autre ne peut pas m’appartenir, il ne s’aplatit (<marquage
-            typemarq="italique"
-            >appiattisce</marquage>) pas sous moi, il se retire dans l’absolu de son mystère. Cette relation rappelle inéluctablement la <marquage
-            typemarq="italique"
-            >Phénoménologie de l’Esprit</marquage> de Hegel, dont la critique, à l’égal de celle du <marquage
-            typemarq="italique"
-          >Dasein</marquage> heideggérien, est primordiale pour Lévinas.</alinea>
+	Dès le premier chapitre, Vitali Rosati examine la logique de la tentative de Lévinas pour dépasser la philosophie traditionnelle d’ascendance aristotélicienne, fondée sur l’ontologie et la question de l’Être<marquage typemarq="italique">.</marquage> Comme chacun sait, le penseur franco-lituanien veut mettre en place une philosophie fondée sur l’éthique et l’analyse de la relation entre le Même (<marquage typemarq="italique">il Medesimo</marquage>) et l’Autre (<marquage typemarq="italique">l’Altro</marquage>). Pour lui, l’Autre en tant qu’Autre n’est pas un objet qui peut devenir mien ou qui devient moi, l’Autre ne peut pas m’appartenir, il ne s’aplatit (<marquage typemarq="italique">appiattisce</marquage>) pas sous moi, il se retire dans l’absolu de son mystère. Cette relation rappelle inéluctablement la <marquage typemarq="italique">Phénoménologie de l’Esprit</marquage> de Hegel, dont la critique, à l’égal de celle du <marquage typemarq="italique">Dasein</marquage> heideggérien, est primordiale pour Lévinas.</alinea>
       </para>
       <para>
         <alinea>
@@ -163,82 +125,24 @@
       </para>
       <para>
         <alinea>
-	L’uomo hegeliano è soddisfatto, non ha bisogno di niente altro e per questo è chiuso ad ogni possibile alterità. Il sapere assoluto è un’infinita libertà de manomissione, appropriazione e soddisfazione, che non lascia spazio al desiderio né al bisogno. Il lavoro del pensiero hegeliano non tende a " lasciare la Cosa così com’è ", bensì a sopraffarla, a tradirla per farla cadere nelle proprie mani, ad appropiarsene come un beni di consumo. E fa questo con le cose come con gli uomini<renvoi
-            idref="sdfootnote4sym" typeref="note">4</renvoi>.</alinea>
+	L’uomo hegeliano è soddisfatto, non ha bisogno di niente altro e per questo è chiuso ad ogni possibile alterità. Il sapere assoluto è un’infinita libertà de manomissione, appropriazione e soddisfazione, che non lascia spazio al desiderio né al bisogno. Il lavoro del pensiero hegeliano non tende a " lasciare la Cosa così com’è ", bensì a sopraffarla, a tradirla per farla cadere nelle proprie mani, ad appropiarsene come un beni di consumo. E fa questo con le cose come con gli uomini<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>.</alinea>
       </para>
       <para>
         <alinea>
-	Or, cette référence à <marquage typemarq="italique"
-            >l’uomo hegeliano </marquage>approche plutôt la définition du « maître » dans le cheminement que fait la conscience de soi vers l’<marquage
-            typemarq="italique"
-            >autocoscienza (Selbstwebusstsein), </marquage>mouvement décrit étape par étape dans la <marquage
-            typemarq="italique"
-            >Phénoménologie de l’Esprit. </marquage>La référence à la critique lévinassienne de Hegel ne tient pas compte du « serviteur », <marquage
-            typemarq="italique"
-            >uomo</marquage> autant que le maître, mais qui travaille pour satisfaire (<marquage
-            typemarq="italique">soddisfare</marquage>) celui-ci. L’homme comme <marquage
-            typemarq="italique">serviteur</marquage> n’est pas satisfait (<marquage
-            typemarq="italique"
-            >soddisfatto</marquage>). Néanmoins, il est, comme conscience de soi identique à la conscience de soi de celui qui deviendra le <marquage
-            typemarq="italique"
-            >maître</marquage>, le seul des deux qui se trouve dans la voie qui le mènera, grâce à son travail (<marquage
-            typemarq="italique">former</marquage>), vers sa libération et la <marquage
-            typemarq="italique">Selbstwebusstsein</marquage>. En revanche, le <marquage
-            typemarq="italique">maître</marquage> « jouissif », éphémèrement <marquage
-            typemarq="italique"
-            >soddisfatto</marquage>, est destiné à être abandonné à son désespoir lorsque son <marquage
-            typemarq="italique">serviteur</marquage> se sera reconnu dans la <marquage
-            typemarq="italique"
-            >forme</marquage> de son œuvre (travail) et, par conséquent, quand il n’aura plus besoin de la reconnaissance du <marquage
-            typemarq="italique"
-            >maître</marquage>. On pourrait se demander si cette imprécision dans le rappel du concept de l’<marquage
-            typemarq="italique"
-            >uomo</marquage> hégélien, rappel excluant le serviteur, ne cacherait pas un <marquage
-            typemarq="italique"
-            >proton pseudos</marquage> qui affaiblirait, dès sa racine, la pensée lévinassienne. D’ailleurs, dans le sous-chapitre « <marquage
-            typemarq="italique"
-            >La critica a Heidegger e all’ontologia</marquage> », Vitali Rosati repère (et d’une certaine façon, excuse) d’autres imprécisions de Lévinas <marquage
-            typemarq="italique"
-            >: « Non è certo possibile pensare che il sottile ingegno levinassiano non sia stato capace di una lettura più attenta di Essere e Tempo</marquage>». Aurait-il fait, en revanche, une lecture peu attentive de Hegel ?</alinea>
+	Or, cette référence à <marquage typemarq="italique">l’uomo hegeliano </marquage>approche plutôt la définition du « maître » dans le cheminement que fait la conscience de soi vers l’<marquage typemarq="italique">autocoscienza (Selbstwebusstsein), </marquage>mouvement décrit étape par étape dans la <marquage typemarq="italique">Phénoménologie de l’Esprit. </marquage>La référence à la critique lévinassienne de Hegel ne tient pas compte du « serviteur », <marquage typemarq="italique">uomo</marquage> autant que le maître, mais qui travaille pour satisfaire (<marquage typemarq="italique">soddisfare</marquage>) celui-ci. L’homme comme <marquage typemarq="italique">serviteur</marquage> n’est pas satisfait (<marquage typemarq="italique">soddisfatto</marquage>). Néanmoins, il est, comme conscience de soi identique à la conscience de soi de celui qui deviendra le <marquage typemarq="italique">maître</marquage>, le seul des deux qui se trouve dans la voie qui le mènera, grâce à son travail (<marquage typemarq="italique">former</marquage>), vers sa libération et la <marquage typemarq="italique">Selbstwebusstsein</marquage>. En revanche, le <marquage typemarq="italique">maître</marquage> « jouissif », éphémèrement <marquage typemarq="italique">soddisfatto</marquage>, est destiné à être abandonné à son désespoir lorsque son <marquage typemarq="italique">serviteur</marquage> se sera reconnu dans la <marquage typemarq="italique">forme</marquage> de son œuvre (travail) et, par conséquent, quand il n’aura plus besoin de la reconnaissance du <marquage typemarq="italique">maître</marquage>. On pourrait se demander si cette imprécision dans le rappel du concept de l’<marquage typemarq="italique">uomo</marquage> hégélien, rappel excluant le serviteur, ne cacherait pas un <marquage typemarq="italique">proton pseudos</marquage> qui affaiblirait, dès sa racine, la pensée lévinassienne. D’ailleurs, dans le sous-chapitre « <marquage typemarq="italique">La critica a Heidegger e all’ontologia</marquage> », Vitali Rosati repère (et d’une certaine façon, excuse) d’autres imprécisions de Lévinas <marquage typemarq="italique">: « Non è certo possibile pensare che il sottile ingegno levinassiano non sia stato capace di una lettura più attenta di Essere e Tempo</marquage>». Aurait-il fait, en revanche, une lecture peu attentive de Hegel ?</alinea>
       </para>
       <para>
         <alinea>
-	La pensée de Lévinas pose incontestablement des problèmes dans sa formulation logique. C’est l’un des motifs pour lesquels Vitali Rosati, en logicien averti, fera un effort considérable pour offrir au lecteur une vision de l’éthique lévinassienne moins étrangère à la pensée ontologique traditionnelle. Celle-ci nous vient, bel et bien, de la Grèce antique et elle s’étend de Socrate à Heidegger et son concept de <marquage
-            typemarq="italique"
-            >Dasein</marquage>. Sans doute, l’un des obstacles majeurs pour saisir Lévinas, c’est le remplacement qu’il propose de l’ontologie (comme <marquage
-            typemarq="italique"
-            >philosophia prima</marquage>) par l’éthique, remplacement qui va, répétons-le, à l’encontre de la logique aristotélicienne et de ses principes fondamentaux. D’après Lévinas, pour la philosophie classique, l’altérité serait toujours relative à l’ipséité (<marquage
-            typemarq="italique"
-            >ipseità</marquage>) qui la connaît. Afin que la relation avec l’altérité puisse se donner <marquage
-            typemarq="italique"
-          >absolument</marquage>, elle ne peut pas être cognitive mais éthique.</alinea>
+	La pensée de Lévinas pose incontestablement des problèmes dans sa formulation logique. C’est l’un des motifs pour lesquels Vitali Rosati, en logicien averti, fera un effort considérable pour offrir au lecteur une vision de l’éthique lévinassienne moins étrangère à la pensée ontologique traditionnelle. Celle-ci nous vient, bel et bien, de la Grèce antique et elle s’étend de Socrate à Heidegger et son concept de <marquage typemarq="italique">Dasein</marquage>. Sans doute, l’un des obstacles majeurs pour saisir Lévinas, c’est le remplacement qu’il propose de l’ontologie (comme <marquage typemarq="italique">philosophia prima</marquage>) par l’éthique, remplacement qui va, répétons-le, à l’encontre de la logique aristotélicienne et de ses principes fondamentaux. D’après Lévinas, pour la philosophie classique, l’altérité serait toujours relative à l’ipséité (<marquage typemarq="italique">ipseità</marquage>) qui la connaît. Afin que la relation avec l’altérité puisse se donner <marquage typemarq="italique">absolument</marquage>, elle ne peut pas être cognitive mais éthique.</alinea>
       </para>
       <para>
         <alinea>
-	Vitali Rosati confirme que l’éthique lévinassienne est caractérisée par des structures différentes de celles de la logique formelle : «<marquage
-            typemarq="italique"
-            > Le idee levinassiane non rispettano i principi della logica formale, sembrano piuttosto basarsi su una logica " altra "</marquage> » Pour sortir de cet étonnant cul-de-sac dans lequel semble s’enfermer Lévinas, il faut donc découvrir une nouvelle logique, différente aussi bien de la logique hégélienne que de la logique formelle. C’est ce que tentera de faire l’audacieux doctorant à partir du deuxième chapitre, « <marquage
-            typemarq="italique">Etica et Logica </marquage>» et ses deux sous-chapitres, « <marquage
-            typemarq="italique">Oltre la logica formale</marquage> » et la « <marquage
-            typemarq="italique">Logica dell’etica</marquage> »<marquage typemarq="italique"
-            >, </marquage>introduisant un véritable suspens dans son livre<marquage
-            typemarq="italique">.</marquage> « <marquage typemarq="italique"
-            >La nostra tesi è che la filosofia di Levinas possa essere totalmente interpretata come le costruzione di una logica altra o, meglio, di una logica dell’altrimenti. L’etica è logica, una logica che va al di là della logica formale e della dialettica</marquage> », signale-t-il, envisageant une «<marquage
-            typemarq="italique"
-            > logica della trascendenza </marquage>», au-delà de la logique formelle et de ses principes fondamentaux, notamment le principe d’identité et le principe de non-contradiction, principes que Lévinas transgresse : «<marquage
-            typemarq="italique"
-            > Ciò che lo induce ad una così grave trasgressione è la necessità […] di poter avere una molteplicità che non si riduca ad unità. A tale irriducibilità è infatti legata la possibiltà dell’alterità. Se tale riduzione fosse possibile […], l’appiattimento dell’Altro sul Medesimo sarebbe inevitabile</marquage>
+	Vitali Rosati confirme que l’éthique lévinassienne est caractérisée par des structures différentes de celles de la logique formelle : «<marquage typemarq="italique"> Le idee levinassiane non rispettano i principi della logica formale, sembrano piuttosto basarsi su una logica " altra "</marquage> » Pour sortir de cet étonnant cul-de-sac dans lequel semble s’enfermer Lévinas, il faut donc découvrir une nouvelle logique, différente aussi bien de la logique hégélienne que de la logique formelle. C’est ce que tentera de faire l’audacieux doctorant à partir du deuxième chapitre, « <marquage typemarq="italique">Etica et Logica </marquage>» et ses deux sous-chapitres, « <marquage typemarq="italique">Oltre la logica formale</marquage> » et la « <marquage typemarq="italique">Logica dell’etica</marquage> »<marquage typemarq="italique">, </marquage>introduisant un véritable suspens dans son livre<marquage typemarq="italique">.</marquage> « <marquage typemarq="italique">La nostra tesi è che la filosofia di Levinas possa essere totalmente interpretata come le costruzione di una logica altra o, meglio, di una logica dell’altrimenti. L’etica è logica, una logica che va al di là della logica formale e della dialettica</marquage> », signale-t-il, envisageant une «<marquage typemarq="italique"> logica della trascendenza </marquage>», au-delà de la logique formelle et de ses principes fondamentaux, notamment le principe d’identité et le principe de non-contradiction, principes que Lévinas transgresse : «<marquage typemarq="italique"> Ciò che lo induce ad una così grave trasgressione è la necessità […] di poter avere una molteplicità che non si riduca ad unità. A tale irriducibilità è infatti legata la possibiltà dell’alterità. Se tale riduzione fosse possibile […], l’appiattimento dell’Altro sul Medesimo sarebbe inevitabile</marquage>
           <marquage typemarq="italique">.</marquage> »</alinea>
       </para>
       <para>
         <alinea>
-	À partir de cette constatation, l’auteur commence à ponctuer son texte de notes de logique formelle d’une grande précision mathématique, cette même logique définie par Lévinas comme « logique de l’immanent », système qui empêche la possibilité de l’altérité. Pour la pensée lévinassienne, la logique formelle doit être surmontée. Vitali Rosati précise : « <marquage
-            typemarq="italique"
-            >La logica è un sistema. Come tale è ciò che rende  simmetrica  ogni asimmetria, ciò che può dare giudizi su tutto, ciò che può tematizzare e totalizzare. Anche se vi fosse, dunque, una qualche differenza tra Medesimo ed Altro, essa viene ridotta nella totalizzazione sistematica</marquage> ». Puis, il analyse les objections que Derrida, s’imaginant à la place de Parménide, adresse à Lévinas dans <marquage
-            typemarq="italique"
-            >Violence et Métaphysique</marquage>.Les objections derridiennes (l’altérité ne peut être que l’altérité de quelque chose, l’Autre ne peut être donc absolument Autre) semblent démasquer «<marquage
-            typemarq="italique"
-          > un errore banale, quasi una distrazione di Levinas</marquage> ». Derrida, d’ailleurs, se refuse à prendre au sérieux l’affirmation de Lévinas selon laquelle l’être se produit comme multiplicité, mais que celle-ci ne pourrait, en aucun cas, se trouver réduite à l’unité.</alinea>
+	À partir de cette constatation, l’auteur commence à ponctuer son texte de notes de logique formelle d’une grande précision mathématique, cette même logique définie par Lévinas comme « logique de l’immanent », système qui empêche la possibilité de l’altérité. Pour la pensée lévinassienne, la logique formelle doit être surmontée. Vitali Rosati précise : « <marquage typemarq="italique">La logica è un sistema. Come tale è ciò che rende  simmetrica  ogni asimmetria, ciò che può dare giudizi su tutto, ciò che può tematizzare e totalizzare. Anche se vi fosse, dunque, una qualche differenza tra Medesimo ed Altro, essa viene ridotta nella totalizzazione sistematica</marquage> ». Puis, il analyse les objections que Derrida, s’imaginant à la place de Parménide, adresse à Lévinas dans <marquage typemarq="italique">Violence et Métaphysique</marquage>.Les objections derridiennes (l’altérité ne peut être que l’altérité de quelque chose, l’Autre ne peut être donc absolument Autre) semblent démasquer «<marquage typemarq="italique"> un errore banale, quasi una distrazione di Levinas</marquage> ». Derrida, d’ailleurs, se refuse à prendre au sérieux l’affirmation de Lévinas selon laquelle l’être se produit comme multiplicité, mais que celle-ci ne pourrait, en aucun cas, se trouver réduite à l’unité.</alinea>
       </para>
       <para>
         <alinea>
@@ -246,70 +150,42 @@
       </para>
       <para>
         <alinea>
-	la logica formale si basa su una concezione del tempo come continuo. È possibile in ogni momento parlare logicamente del futuro in quanto il tempo è qualcosa di omogeneo. L’ammissione di una discontinuità del tempo porterebbe ad una serie di paradossi che la logica formale non può accettare. Sarebbe impensabile la validità del principio di causalità per chi penssase la possibilità di  " salti " del tempo, di spezzature qui tronchino la relazione tra presente passato e futuro […] D’altra parte pensare il tempo come continuo e ipotizzare una relazione logica stretta e indiscutibile tra gli instanti che lo compongono rende difficile la possibilità dell’ alterità<renvoi
-            idref="sdfootnote12sym" typeref="note">12</renvoi>.</alinea>
+	la logica formale si basa su una concezione del tempo come continuo. È possibile in ogni momento parlare logicamente del futuro in quanto il tempo è qualcosa di omogeneo. L’ammissione di una discontinuità del tempo porterebbe ad una serie di paradossi che la logica formale non può accettare. Sarebbe impensabile la validità del principio di causalità per chi penssase la possibilità di  " salti " del tempo, di spezzature qui tronchino la relazione tra presente passato e futuro […] D’altra parte pensare il tempo come continuo e ipotizzare una relazione logica stretta e indiscutibile tra gli instanti che lo compongono rende difficile la possibilità dell’ alterità<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi>.</alinea>
       </para>
       <para>
         <alinea>
-	Lévinas propose un Temps discontinu, dont la caractéristique fondamentale est l’impossibilité de synchroniser des instants divers. C’est ce qu’il appelle « diachronie » : la diachronie est l’impossibilité de coller un instant à l’autre. L’identité diachronique n’est pas valide pour la logique formelle, à savoir, le fait qu’une chose reste ce qu’elle est. Évidemment, le principe de causalité est aussi mis en question. Dans ce cas, comment expliquer, par exemple, le lien de la paternité, la relation père-fils, où l’un est la cause de l’autre ? Ce sont ces structures éthiques, non explicables par la logique traditionnelle, que le penseur franco-lituanien appelle « intrigues » (<marquage
-            typemarq="italique">intrigo</marquage>), structures qui empêchent que «<marquage
-            typemarq="italique"
-            > la sua etica venga inglobata da una logica ancora più potente : la dialettica</marquage> ».</alinea>
+	Lévinas propose un Temps discontinu, dont la caractéristique fondamentale est l’impossibilité de synchroniser des instants divers. C’est ce qu’il appelle « diachronie » : la diachronie est l’impossibilité de coller un instant à l’autre. L’identité diachronique n’est pas valide pour la logique formelle, à savoir, le fait qu’une chose reste ce qu’elle est. Évidemment, le principe de causalité est aussi mis en question. Dans ce cas, comment expliquer, par exemple, le lien de la paternité, la relation père-fils, où l’un est la cause de l’autre ? Ce sont ces structures éthiques, non explicables par la logique traditionnelle, que le penseur franco-lituanien appelle « intrigues » (<marquage typemarq="italique">intrigo</marquage>), structures qui empêchent que «<marquage typemarq="italique"> la sua etica venga inglobata da una logica ancora più potente : la dialettica</marquage> ».</alinea>
       </para>
       <para>
         <alinea>
-          <liensimple xlink:type="simple" xlink:href=""/>Dans le sous-chapitre « <marquage
-            typemarq="italique">La Logica dell’etica</marquage> »<marquage typemarq="italique"
-            >, </marquage>Vitali Rosati, après avoir révisé les concepts du Dire et du Dit, constate que la structure lévinassienne la plus incompatible avec la logique formelle, c’est l’asymétrie (dissymétrie ou asymétrie éthique). En examinant les conséquences d’une telle assertion, il conclut que l’impossibilité d’établir la différence entre relations asymétriques et relations symétriques déterminerait l’effondrement de toute la logique formelle. C’est sur ce point que la tentative de Vitali Rosati va se croiser avec le travail du psychiatre et psychanalyste Ignacio Matte Blanco<renvoi
-            idref="sdfootnote14sym" typeref="note">14</renvoi>, notamment dans son livre <marquage
-            typemarq="italique"
-            >L’inconscio come insiemi infiniti, </marquage>où Matte Blanco interprète l’Inconscient freudien du point de vue de la logique mathématique<renvoi
-            idref="sdfootnote15sym" typeref="note">15</renvoi>.</alinea>
+	<liensimple xlink:type="simple" xlink:href=""/>Dans le sous-chapitre « <marquage typemarq="italique">La Logica dell’etica</marquage> »<marquage typemarq="italique">, </marquage>Vitali Rosati, après avoir révisé les concepts du Dire et du Dit, constate que la structure lévinassienne la plus incompatible avec la logique formelle, c’est l’asymétrie (dissymétrie ou asymétrie éthique). En examinant les conséquences d’une telle assertion, il conclut que l’impossibilité d’établir la différence entre relations asymétriques et relations symétriques déterminerait l’effondrement de toute la logique formelle. C’est sur ce point que la tentative de Vitali Rosati va se croiser avec le travail du psychiatre et psychanalyste Ignacio Matte Blanco<renvoi idref="sdfootnote14sym" typeref="note">14</renvoi>, notamment dans son livre <marquage typemarq="italique">L’inconscio come insiemi infiniti, </marquage>où Matte Blanco interprète l’Inconscient freudien du point de vue de la logique mathématique<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi>.</alinea>
       </para>
       <para>
         <alinea>
-	Matte Blanco décrit l’Inconscient en tant qu’entité psychique fondée sur une logique symétrique qui considère toutes les relations comme symétriques et qui ne connaît pas l’asymétrie<renvoi
-            idref="sdfootnote16sym" typeref="note"
-            >16</renvoi>. Cette logique est totalement incompatible avec les principes de la logique formelle… à l’instar de la logique mise en œuvre par Lévinas, qui décrit l’espace qui va du Même à l’Autre comme irréversible, donc hétérogène et asymétrique. Vitali Rosati souligne : <marquage
-            typemarq="italique"
-            >« Possiamo opporre all’enunciato matteblanchiano il seguente : l’etica tratta la relazione inversa de qualsiasi relazione come se non fosse in nessun caso identica alla relazione. In altre parole tratta le relazioni simmetriche come se fossero assimetriche</marquage> ». Il continue le contrepoint avec Matte Blanco, cette fois sur les notions d’Espace et de Temps. Si les relations asymétriques ne sont pas disponibles (comme ce serait le cas dans la « logique » de l’Inconscient), la succession des moments dans un ordre sériel ne peut pas exister. Il n’y a plus de distinction entre passé, présent et futur. Quant à l’Espace, il n’existerait plus de différence entre les dimensions de grandeur. Bien entendu, on peut dire la même chose s’agissant des relations symétriques : « <marquage
-            typemarq="italique"
-            >L’assenza di relazioni simmetriche determina una pari sparizione di qualsiasi tipo di ordinamento</marquage> ».</alinea>
+	Matte Blanco décrit l’Inconscient en tant qu’entité psychique fondée sur une logique symétrique qui considère toutes les relations comme symétriques et qui ne connaît pas l’asymétrie<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi>. Cette logique est totalement incompatible avec les principes de la logique formelle… à l’instar de la logique mise en œuvre par Lévinas, qui décrit l’espace qui va du Même à l’Autre comme irréversible, donc hétérogène et asymétrique. Vitali Rosati souligne : <marquage typemarq="italique">« Possiamo opporre all’enunciato matteblanchiano il seguente : l’etica tratta la relazione inversa de qualsiasi relazione come se non fosse in nessun caso identica alla relazione. In altre parole tratta le relazioni simmetriche come se fossero assimetriche</marquage> ». Il continue le contrepoint avec Matte Blanco, cette fois sur les notions d’Espace et de Temps. Si les relations asymétriques ne sont pas disponibles (comme ce serait le cas dans la « logique » de l’Inconscient), la succession des moments dans un ordre sériel ne peut pas exister. Il n’y a plus de distinction entre passé, présent et futur. Quant à l’Espace, il n’existerait plus de différence entre les dimensions de grandeur. Bien entendu, on peut dire la même chose s’agissant des relations symétriques : « <marquage typemarq="italique">L’assenza di relazioni simmetriche determina una pari sparizione di qualsiasi tipo di ordinamento</marquage> ».</alinea>
       </para>
       <para>
         <alinea>
-	Par la suite, Vitali Rosati remarque que « l<marquage typemarq="italique"
-            >e implicazioni dell’etica levinassiana sono ancor più paradossali di quelle dell’Inconscio matteblanchiano per quanto riguarda il problema</marquage>
-          <marquage typemarq="italique"
-            >dell’universalizzazione</marquage> ». En effet, en relation au problème de l’universalisation, les structures lévinassiennes sont encore plus paradoxales que celles de Matte Blanco, car si la logique symétrique permet une universalisation totale (même si non conforme à la logique formelle), l’éthique de Lévinas empêche toute forme d’universalisation et donc de langage (puisqu’elle suppose la possibilité de conceptualiser, de réunir un groupe de termes sous une définition unique). Derrida s’en étonnait. Lévinas oppose à l’universalisation son concept d’« anarchie », où les liens sont coupés entre les termes. Ainsi, par exemple, la « responsabilité » (<marquage
-            typemarq="italique"
-            >responsabilità</marquage>), concept de l’éthique traditionnelle, est définie par Lévinas comme « anarchique ». La « responsabilité » précéderait tout engagement, elle n’a pas une origine propre du fait de la structure asymétrique qui lie le Même à l’Autre. Donc, le Même peut être responsable de l’Autre avant de l’avoir rencontré… formule à la fois merveilleuse et difficilement imaginable. Bref. Puisque l’éthique de Lévinas et son concept d’« anarchie » semblent déterminer la fin de la logique traditionnelle et de la philosophie classique, Vitali Rosati se pose, avec d’autant plus de pertinence, la question : «<marquage
-            typemarq="italique"
-            > È possibile la strutturazione di una logica della trascendenza ? </marquage>
-          <marquage typemarq="italique"
-            >Di un sistema che non sia sistema e che d’altra parte sia capace di gestire la paradossalità del rapporto con un’alterità che rimanga tale, una alterità assoluta, assolta anche dal rapporto con lo stesso sistema che la gestisce </marquage>
+	Par la suite, Vitali Rosati remarque que « l<marquage typemarq="italique">e implicazioni dell’etica levinassiana sono ancor più paradossali di quelle dell’Inconscio matteblanchiano per quanto riguarda il problema</marquage> <marquage typemarq="italique">dell’universalizzazione</marquage> ». En effet, en relation au problème de l’universalisation, les structures lévinassiennes sont encore plus paradoxales que celles de Matte Blanco, car si la logique symétrique permet une universalisation totale (même si non conforme à la logique formelle), l’éthique de Lévinas empêche toute forme d’universalisation et donc de langage (puisqu’elle suppose la possibilité de conceptualiser, de réunir un groupe de termes sous une définition unique). Derrida s’en étonnait. Lévinas oppose à l’universalisation son concept d’« anarchie », où les liens sont coupés entre les termes. Ainsi, par exemple, la « responsabilité » (<marquage typemarq="italique">responsabilità</marquage>), concept de l’éthique traditionnelle, est définie par Lévinas comme « anarchique ». La « responsabilité » précéderait tout engagement, elle n’a pas une origine propre du fait de la structure asymétrique qui lie le Même à l’Autre. Donc, le Même peut être responsable de l’Autre avant de l’avoir rencontré… formule à la fois merveilleuse et difficilement imaginable. Bref. Puisque l’éthique de Lévinas et son concept d’« anarchie » semblent déterminer la fin de la logique traditionnelle et de la philosophie classique, Vitali Rosati se pose, avec d’autant plus de pertinence, la question : «<marquage typemarq="italique"> È possibile la strutturazione di una logica della trascendenza ? </marquage>
+          <marquage typemarq="italique">Di un sistema che non sia sistema e che d’altra parte sia capace di gestire la paradossalità del rapporto con un’alterità che rimanga tale, una alterità assoluta, assolta anche dal rapporto con lo stesso sistema che la gestisce </marquage>
           <renvoi idref="sdfootnote20sym" typeref="note">20</renvoi>
-          <marquage typemarq="italique"
-          >?</marquage> » Voilà, mieux profilé, son défi et son pari.</alinea>
+          <marquage typemarq="italique">?</marquage> » Voilà, mieux profilé, son défi et son pari.</alinea>
       </para>
       <para>
         <alinea>
-	D’emblée, le troisième chapitre, « <marquage typemarq="italique"
-            >Ritornare allo specchio</marquage> » (Retour au miroir), affichera son ambition :</alinea>
+	D’emblée, le troisième chapitre, « <marquage typemarq="italique">Ritornare allo specchio</marquage> » (Retour au miroir), affichera son ambition :</alinea>
       </para>
       <para>
         <alinea>
-          <marquage typemarq="italique">Il </marquage>
+	<marquage typemarq="italique">Il </marquage>
           <marquage typemarq="italique"> " </marquage>
           <marquage typemarq="italique">ritorno allo specchio </marquage>
           <marquage typemarq="italique">" </marquage>
-          <marquage typemarq="italique"
-            >che analizzaremo non sarà mostrato come una necessità insita nel pensiero levinassiano, necessità non vista dal filosofo e che la nostra intelligenza dei testi avrebbe scoperto. Tale </marquage>
+          <marquage typemarq="italique">che analizzaremo non sarà mostrato come una necessità insita nel pensiero levinassiano, necessità non vista dal filosofo e che la nostra intelligenza dei testi avrebbe scoperto. Tale </marquage>
           <marquage typemarq="italique">" </marquage>
           <marquage typemarq="italique">ritorno allo specchio </marquage>
           <marquage typemarq="italique">"</marquage>
-          <marquage typemarq="italique"
-            > sarà piuttosto mostrato come una nuova possibilità, forse più feconda, di una </marquage>
+          <marquage typemarq="italique"> sarà piuttosto mostrato come una nuova possibilità, forse più feconda, di una </marquage>
           <marquage typemarq="italique"> "</marquage>
           <marquage typemarq="italique">stasi etica</marquage>
           <marquage typemarq="italique">"</marquage>
@@ -320,323 +196,117 @@
       </para>
       <para>
         <alinea>
-	 Ce retour à <marquage typemarq="italique"
-            >lo specchio </marquage>est très significatif. Déjà dans l’« <marquage
-            typemarq="italique"
-            >Introduzione</marquage> », Vitali Rosati y fait référence lorsqu’il définit provisoirement son concept de <marquage
-            typemarq="italique"
-            >riflessione</marquage> avant d’entrer dans l’analyse du Même et de l’Autre. Il y reviendra souvent dans les chapitres suivants, notamment dans le quatrième quand il se proposera d’aller vers une <marquage
-            typemarq="italique"
-            >nuova riflessione</marquage>. Nonobstant, l’auteur n’analyse pas <marquage
-            typemarq="italique">lo</marquage>
-          <marquage typemarq="italique"
-            >specchio</marquage> comme la métaphore qui a été utilisée non seulement en philosophie, mais aussi en psychologie, particulièrement par Lacan dans sa théorie du « stade du miroir », pensée qui n’est pas étrangère à celle de son collègue psychanalyste, Matte Blanco. Cela l’aurait sans doute conduit à analyser la métaphore socratique et platonicienne de la caverne et, peut-être, à approfondir les analogies possibles (ou plutôt impossibles) entre l’hypothétique reflet spéculaire du corps de l’enfant lacanien et l’affrontement de deux consciences de soi identiques décrit dans la <marquage
-            typemarq="italique">Phénoménologie de l’Esprit</marquage>
-          <marquage typemarq="italique">.</marquage>
-        </alinea>
+	 Ce retour à <marquage typemarq="italique">lo specchio </marquage>est très significatif. Déjà dans l’« <marquage typemarq="italique">Introduzione</marquage> », Vitali Rosati y fait référence lorsqu’il définit provisoirement son concept de <marquage typemarq="italique">riflessione</marquage> avant d’entrer dans l’analyse du Même et de l’Autre. Il y reviendra souvent dans les chapitres suivants, notamment dans le quatrième quand il se proposera d’aller vers une <marquage typemarq="italique">nuova riflessione</marquage>. Nonobstant, l’auteur n’analyse pas <marquage typemarq="italique">lo</marquage> <marquage typemarq="italique">specchio</marquage> comme la métaphore qui a été utilisée non seulement en philosophie, mais aussi en psychologie, particulièrement par Lacan dans sa théorie du « stade du miroir », pensée qui n’est pas étrangère à celle de son collègue psychanalyste, Matte Blanco. Cela l’aurait sans doute conduit à analyser la métaphore socratique et platonicienne de la caverne et, peut-être, à approfondir les analogies possibles (ou plutôt impossibles) entre l’hypothétique reflet spéculaire du corps de l’enfant lacanien et l’affrontement de deux consciences de soi identiques décrit dans la <marquage typemarq="italique">Phénoménologie de l’Esprit</marquage>
+          <marquage typemarq="italique">.</marquage> </alinea>
       </para>
       <para>
         <alinea>
-	« <marquage typemarq="italique"
-            >Ritornare a lo specchio</marquage> » est peut-être le chapitre le plus complexe du livre. Vouloir le résumer serait trop hasardeux comme, d’ailleurs, toute tentative de résumer fidèlement l’ensemble de l’ouvrage, d’autant plus que l’auteur établit des liens très subtils (et risqués) entre <marquage
-            typemarq="italique">Atene</marquage> et <marquage typemarq="italique"
-            >Gerusalemme, </marquage>entre pensée grecque et pensée hébraïque. Les raccourcis textuels, inévitables dans une note de lecture, enferment toujours la possibilité de déformations conceptuelles et de malentendus… c’est tout à fait logique ! Vitali Rosati prévient, au début du chapitre, non sans une certaine ambigüité, qu’il veut éviter « <marquage
-            typemarq="italique"
-            >dei fraintendimenti che ci sembrerebbero particolarmente svianti […] </marquage>
-          <marquage typemarq="italique"
-            >È chiaro, alla luce dell’interpretazione in chiave logica che ne abbiamo dato, che non è assolutamente possibile trovare degli "errori" o delle "contraddizioni" nel pensiero levinassiano</marquage> ». Effectivement, comme s’il s’agissait d’un « joker », l’asymétrie qui régit logiquement l’éthique de Lévinas réussit à résoudre toute apparente impasse dans ses théories. Elle empêche de la sorte un retour à l’ontologie traditionnelle. En tout état de cause, Vitali Rosati, s’inspirant encore de la pensée de Matte Blanco («<marquage
-            typemarq="italique"
-            > Il sistema inconscio tratta la relazione inversa di qualsiasi relazione come se fosse identica alla relazione. </marquage>
-          <marquage typemarq="italique"
-            >In altre parole, tratta le relazioni asimmetriche come se fossero simmetriche</marquage> »)<marquage
-            typemarq="italique"
-            >,</marquage> se posera à nouveau la question concernant l’asymétrie dans la logique de Lévinas : comment est-il possible de parler de symétrie <marquage
-            typemarq="italique">asymétriquement </marquage>?</alinea>
+	« <marquage typemarq="italique">Ritornare a lo specchio</marquage> » est peut-être le chapitre le plus complexe du livre. Vouloir le résumer serait trop hasardeux comme, d’ailleurs, toute tentative de résumer fidèlement l’ensemble de l’ouvrage, d’autant plus que l’auteur établit des liens très subtils (et risqués) entre <marquage typemarq="italique">Atene</marquage> et <marquage typemarq="italique">Gerusalemme, </marquage>entre pensée grecque et pensée hébraïque. Les raccourcis textuels, inévitables dans une note de lecture, enferment toujours la possibilité de déformations conceptuelles et de malentendus… c’est tout à fait logique ! Vitali Rosati prévient, au début du chapitre, non sans une certaine ambigüité, qu’il veut éviter « <marquage typemarq="italique">dei fraintendimenti che ci sembrerebbero particolarmente svianti […] </marquage>
+          <marquage typemarq="italique">È chiaro, alla luce dell’interpretazione in chiave logica che ne abbiamo dato, che non è assolutamente possibile trovare degli "errori" o delle "contraddizioni" nel pensiero levinassiano</marquage> ». Effectivement, comme s’il s’agissait d’un « joker », l’asymétrie qui régit logiquement l’éthique de Lévinas réussit à résoudre toute apparente impasse dans ses théories. Elle empêche de la sorte un retour à l’ontologie traditionnelle. En tout état de cause, Vitali Rosati, s’inspirant encore de la pensée de Matte Blanco («<marquage typemarq="italique"> Il sistema inconscio tratta la relazione inversa di qualsiasi relazione come se fosse identica alla relazione. </marquage>
+          <marquage typemarq="italique">In altre parole, tratta le relazioni asimmetriche come se fossero simmetriche</marquage> »)<marquage typemarq="italique">,</marquage> se posera à nouveau la question concernant l’asymétrie dans la logique de Lévinas : comment est-il possible de parler de symétrie <marquage typemarq="italique">asymétriquement </marquage>?</alinea>
       </para>
       <para>
         <alinea>
-	Dans le sous-chapitre « <marquage typemarq="italique"
-            >Pretendere l’etica</marquage> »,<marquage typemarq="italique"
-            > </marquage>il va se pencher sur des concepts qui se trouvent d’ordinaire à la base de l’éthique traditionnelle, tels que « volonté », « responsabilité », « souffrance », « patience » (<marquage
-            typemarq="italique"
-            >volontà, responsabilità, sofferenza, pazienza</marquage>) et il va situer la naissance de l’éthique dans le passage de la souffrance à la patience : « <marquage
-            typemarq="italique"
-            >Questo passaggio dalla sofferenza alla pazienza è la nascita dell’ etica</marquage> ». Mais il ne s’attardera pas beaucoup plus sur ces concepts qu’il ne le fît auparavant sur les définitions lévinassiennes du « visage » (<marquage
-            typemarq="italique">volto</marquage>) et de la « trace » (<marquage typemarq="italique"
-            >traccia</marquage>) dans « <marquage typemarq="italique"
-            >La critica a Heiddeger e all’ ontologia</marquage> »<marquage typemarq="italique"
-            >. </marquage> Ses analyses se concentrent essentiellement, nous insistons, sur les aspects logiques de la pensée de Lévinas. Ainsi, étudiant la constitution du <marquage
-            typemarq="italique"
-            >soggetto </marquage>(sujet), il arrivera à l’« ici » lévinassien. L’ici est « <marquage
-            typemarq="italique"
-            >pre-riflessivo </marquage>». Sa caractéristique principale, avant même d’être « pre- », est celle d’être dans l’« entre » de l’« entre-temps » (<marquage
-            typemarq="italique">fra-tempo</marquage>). L’<marquage typemarq="italique"
-            >ici</marquage> est, essentiellement, <marquage typemarq="italique"
-            >instant. </marquage>Et c’est dans le <marquage typemarq="italique"
-            >fra </marquage>(l’<marquage typemarq="italique"
-          >entre</marquage>) que naît la possibilité de l’éthique.</alinea>
+	Dans le sous-chapitre « <marquage typemarq="italique">Pretendere l’etica</marquage> »,<marquage typemarq="italique"> </marquage>il va se pencher sur des concepts qui se trouvent d’ordinaire à la base de l’éthique traditionnelle, tels que « volonté », « responsabilité », « souffrance », « patience » (<marquage typemarq="italique">volontà, responsabilità, sofferenza, pazienza</marquage>) et il va situer la naissance de l’éthique dans le passage de la souffrance à la patience : « <marquage typemarq="italique">Questo passaggio dalla sofferenza alla pazienza è la nascita dell’ etica</marquage> ». Mais il ne s’attardera pas beaucoup plus sur ces concepts qu’il ne le fît auparavant sur les définitions lévinassiennes du « visage » (<marquage typemarq="italique">volto</marquage>) et de la « trace » (<marquage typemarq="italique">traccia</marquage>) dans « <marquage typemarq="italique">La critica a Heiddeger e all’ ontologia</marquage> »<marquage typemarq="italique">. </marquage> Ses analyses se concentrent essentiellement, nous insistons, sur les aspects logiques de la pensée de Lévinas. Ainsi, étudiant la constitution du <marquage typemarq="italique">soggetto </marquage>(sujet), il arrivera à l’« ici » lévinassien. L’ici est « <marquage typemarq="italique">pre-riflessivo </marquage>». Sa caractéristique principale, avant même d’être « pre- », est celle d’être dans l’« entre » de l’« entre-temps » (<marquage typemarq="italique">fra-tempo</marquage>). L’<marquage typemarq="italique">ici</marquage> est, essentiellement, <marquage typemarq="italique">instant. </marquage>Et c’est dans le <marquage typemarq="italique">fra </marquage>(l’<marquage typemarq="italique">entre</marquage>) que naît la possibilité de l’éthique.</alinea>
       </para>
       <para>
         <alinea>
-	Le <marquage typemarq="italique"
-            >qui</marquage> (ici) comme « instant » mènera Vitali Rosati à réexaminer l’<marquage
-            typemarq="italique"
-            >exaiphnes</marquage> chez Platon (laissant la porte ouverte à ses réflexions sur la physique quantique), à Plotin, à la <marquage
-            typemarq="italique">kinesis</marquage> et à la <marquage typemarq="italique"
-            >stasis, </marquage>au <marquage typemarq="italique"
-            >soggetto etico </marquage>(oxymoron pour tout lévinassien), à l’<marquage
-            typemarq="italique"
-            >epochè</marquage>, etc. Cela toujours avec la crainte de tomber dans le « <marquage
-            typemarq="italique"
-            >sistematismo in cui ogni filosofia della differenza finisce per cadere : l’etica diventa un sistema, un nuovo Spirito assoluto</marquage>».<marquage
-            typemarq="italique"
-            > </marquage>Hegel est toujours ressenti comme une menace. Conscient de la complexité de son texte, l’auteur propose vers la fin du chapitre son propre résumé, puis il conclut en accueillant la conclusion (<marquage
-            typemarq="italique">ingiunzione</marquage>) de Derrida dans <marquage
-            typemarq="italique">Violence et Métaphysique </marquage>: « <marquage
-            typemarq="italique"
-            >Il pensiero dell’Altro come assolutamente altro è profondamente legato all’ ebraismo, ma svanisce alla luce  del logos greco […] </marquage>
-          <marquage typemarq="italique"
-            >Il futuro della filosofia levinassina potrebbe essere un ritorno a la classicità per " risvegliare " il logos greco dormiente</marquage> ».</alinea>
+	Le <marquage typemarq="italique">qui</marquage> (ici) comme « instant » mènera Vitali Rosati à réexaminer l’<marquage typemarq="italique">exaiphnes</marquage> chez Platon (laissant la porte ouverte à ses réflexions sur la physique quantique), à Plotin, à la <marquage typemarq="italique">kinesis</marquage> et à la <marquage typemarq="italique">stasis, </marquage>au <marquage typemarq="italique">soggetto etico </marquage>(oxymoron pour tout lévinassien), à l’<marquage typemarq="italique">epochè</marquage>, etc. Cela toujours avec la crainte de tomber dans le « <marquage typemarq="italique">sistematismo in cui ogni filosofia della differenza finisce per cadere : l’etica diventa un sistema, un nuovo Spirito assoluto</marquage>».<marquage typemarq="italique"> </marquage>Hegel est toujours ressenti comme une menace. Conscient de la complexité de son texte, l’auteur propose vers la fin du chapitre son propre résumé, puis il conclut en accueillant la conclusion (<marquage typemarq="italique">ingiunzione</marquage>) de Derrida dans <marquage typemarq="italique">Violence et Métaphysique </marquage>: « <marquage typemarq="italique">Il pensiero dell’Altro come assolutamente altro è profondamente legato all’ ebraismo, ma svanisce alla luce  del logos greco […] </marquage>
+          <marquage typemarq="italique">Il futuro della filosofia levinassina potrebbe essere un ritorno a la classicità per " risvegliare " il logos greco dormiente</marquage> ».</alinea>
       </para>
       <para>
         <alinea>
-	Au début du quatrième chapitre, « <marquage typemarq="italique"
-            >Riflessione e molteplicità</marquage> »<marquage typemarq="italique"
-            >, </marquage>le jeune auteur rappelle émotivement ceci : <marquage typemarq="italique"
-            >« Non siamo ebrei</marquage> ». «<marquage typemarq="italique"
-            > Siamo anche greci e soprattutto, quando si fa filosofia, siamo innanzi tutto greci</marquage> ». Et il ajoute : « <marquage
-            typemarq="italique"
-            >L’ébraicità non è qualcosa che può essere imposto. Come può allora entrare nella filosofia e cambiare le sue leggi e i suoi fondamenti ?</marquage> » Dans ces assertions il n’y a, bien sûr, aucun rejet du philosophe juif, envers lequel il laisse transparaître toujours un profond respect. Il met simplement l’accent sur la possibilité d’un retour à l’ontologie, admettant que sa propre pensée s’éloigne de celle de Lévinas : «<marquage
-            typemarq="italique"
-            > la nostra prospettiva si allontana da quella levinassiana</marquage> ». Cet éloignement va déterminer chez lui une façon différente de comprendre le terme « Autre », lequel, pour Lévinas, signifie l’« autre homme ». « <marquage
-            typemarq="italique"
-            >L’Altro non è solo l’altro uomo, l’alterità è tutto ciò che rimane indipendente da qualsiasi rapporto : da ora in poi il termine Altro dovrà essere inteso come sinonimo di trascendenza</marquage> », prévient-il, car il voit désormais les choses différemment : <marquage
-            typemarq="italique"
-            >« Nella nostra ottica le cose cambiano. Anche un oggetto è "Altro" in quanto diverso dal soggetto chi cerca con esso un rapporto</marquage> ».</alinea>
+	Au début du quatrième chapitre, « <marquage typemarq="italique">Riflessione e molteplicità</marquage> »<marquage typemarq="italique">, </marquage>le jeune auteur rappelle émotivement ceci : <marquage typemarq="italique">« Non siamo ebrei</marquage> ». «<marquage typemarq="italique"> Siamo anche greci e soprattutto, quando si fa filosofia, siamo innanzi tutto greci</marquage> ». Et il ajoute : « <marquage typemarq="italique">L’ébraicità non è qualcosa che può essere imposto. Come può allora entrare nella filosofia e cambiare le sue leggi e i suoi fondamenti ?</marquage> » Dans ces assertions il n’y a, bien sûr, aucun rejet du philosophe juif, envers lequel il laisse transparaître toujours un profond respect. Il met simplement l’accent sur la possibilité d’un retour à l’ontologie, admettant que sa propre pensée s’éloigne de celle de Lévinas : «<marquage typemarq="italique"> la nostra prospettiva si allontana da quella levinassiana</marquage> ». Cet éloignement va déterminer chez lui une façon différente de comprendre le terme « Autre », lequel, pour Lévinas, signifie l’« autre homme ». « <marquage typemarq="italique">L’Altro non è solo l’altro uomo, l’alterità è tutto ciò che rimane indipendente da qualsiasi rapporto : da ora in poi il termine Altro dovrà essere inteso come sinonimo di trascendenza</marquage> », prévient-il, car il voit désormais les choses différemment : <marquage typemarq="italique">« Nella nostra ottica le cose cambiano. Anche un oggetto è "Altro" in quanto diverso dal soggetto chi cerca con esso un rapporto</marquage> ».</alinea>
       </para>
       <para>
         <alinea>
-	Pour éclairer sa nouvelle démarche, il lui faudra donc établir une nouvelle signification (<marquage
-            typemarq="italique">risemantizzazione</marquage>) du concept de « réflexion » (<marquage
-            typemarq="italique"
-            >riflessione</marquage>), objectif qui le poussera à poser les bases (dans le cinquième et dernier chapitre) de sa « <marquage
-            typemarq="italique"
-            >logica della riflessione »</marquage>, en rappelant que beaucoup de structures qui se trouvent à la base du concept de réflexion ne sont pas compatibles avec la logique formelle et engendrent des apories similaires à celles qui naissent de l’éthique lévinassienne. D’autre part, il insistera sur la possibilité de maintenir l’analogie de la réflexion avec celle du phénomène physique : la réflexion donnera toujours à l’altérité la possibilité de paraître comme dans un miroir, de se concrétiser en s’exprimant. Et dans le sous-chapitre « <marquage
-            typemarq="italique">V</marquage>
-          <marquage typemarq="italique"
-            >erso una nuova riflessione</marquage> », il va proposer sa propre définition, toujours provisoire, de la réflexion : «<marquage
-            typemarq="italique"
-            > Chiamamo ‘‘riflessione’’ qualsiasi contatto tra l’essente e l’alterità</marquage>».</alinea>
+	Pour éclairer sa nouvelle démarche, il lui faudra donc établir une nouvelle signification (<marquage typemarq="italique">risemantizzazione</marquage>) du concept de « réflexion » (<marquage typemarq="italique">riflessione</marquage>), objectif qui le poussera à poser les bases (dans le cinquième et dernier chapitre) de sa « <marquage typemarq="italique">logica della riflessione »</marquage>, en rappelant que beaucoup de structures qui se trouvent à la base du concept de réflexion ne sont pas compatibles avec la logique formelle et engendrent des apories similaires à celles qui naissent de l’éthique lévinassienne. D’autre part, il insistera sur la possibilité de maintenir l’analogie de la réflexion avec celle du phénomène physique : la réflexion donnera toujours à l’altérité la possibilité de paraître comme dans un miroir, de se concrétiser en s’exprimant. Et dans le sous-chapitre « <marquage typemarq="italique">V</marquage>
+          <marquage typemarq="italique">erso una nuova riflessione</marquage> », il va proposer sa propre définition, toujours provisoire, de la réflexion : «<marquage typemarq="italique"> Chiamamo ‘‘riflessione’’ qualsiasi contatto tra l’essente e l’alterità</marquage>».</alinea>
       </para>
       <para>
         <alinea>
-	L’analyse faite par Vitali Rosati à propos de l’expression de l’altérité est particulièrement intéressante : « <marquage
-            typemarq="italique"
-            >L’alterità può esprimersi quanto vuole, se non c’è qualcuno che la ascolta essa rimarrà  nel buio : non ci sarà nessun rapporto. È necessario che il soggetto non ponga un veto all’ incontro […] L’Altro si esprime sempre per qualcuno</marquage>». Il rappelle que pour Lévinas, l’éthique a besoin d’une structure autoréférentielle comme fondement : « <marquage
-            typemarq="italique"
-            >L’autoreferenzialità in un rapporto con l’alterità sembra essere la prima condizione di possibilità di tale rapporto</marquage> <marquage
-            typemarq="italique">
-            <renvoi idref="sdfootnote36sym" typeref="note"
-          >36</renvoi> </marquage>». Mais l’autoréférence n’est pas seulement le savoir du savoir ou l’auto positionnement du sujet. L’autoréférence consiste à se placer comme destinataire du message de l’altérité :</alinea>
+	L’analyse faite par Vitali Rosati à propos de l’expression de l’altérité est particulièrement intéressante : « <marquage typemarq="italique">L’alterità può esprimersi quanto vuole, se non c’è qualcuno che la ascolta essa rimarrà  nel buio : non ci sarà nessun rapporto. È necessario che il soggetto non ponga un veto all’ incontro […] L’Altro si esprime sempre per qualcuno</marquage>». Il rappelle que pour Lévinas, l’éthique a besoin d’une structure autoréférentielle comme fondement : « <marquage typemarq="italique">L’autoreferenzialità in un rapporto con l’alterità sembra essere la prima condizione di possibilità di tale rapporto</marquage> <marquage typemarq="italique">
+            <renvoi idref="sdfootnote36sym" typeref="note">36</renvoi> </marquage>». Mais l’autoréférence n’est pas seulement le savoir du savoir ou l’auto positionnement du sujet. L’autoréférence consiste à se placer comme destinataire du message de l’altérité :</alinea>
       </para>
       <para>
         <alinea>
-	Il soggetto si apre nel sentimento di essere la condizione de la possibilità dell’espressione dell’Altro : senza di me (autoriferimento) la voce rimana inaudita […] L’alterità si esprime "<marquage
-            typemarq="italique"
-            >per me</marquage>" non significa che io verrò in possesso dell’alterità, ma che io sono il mezzo di espressione dell’alterità<renvoi
-            idref="sdfootnote37sym" typeref="note">37</renvoi>.</alinea>
+	Il soggetto si apre nel sentimento di essere la condizione de la possibilità dell’espressione dell’Altro : senza di me (autoriferimento) la voce rimana inaudita […] L’alterità si esprime "<marquage typemarq="italique">per me</marquage>" non significa che io verrò in possesso dell’alterità, ma che io sono il mezzo di espressione dell’alterità<renvoi idref="sdfootnote37sym" typeref="note">37</renvoi>.</alinea>
       </para>
       <para>
         <alinea>
-	 Cette structure ne doit pas être confondue avec celle de la « représentation », dans laquelle l’image représentée est prise pour la réelle. Contrairement à l’image représentée, l’image reflétée reste quelque chose qui n’est pas possédé par le sujet, car celui-ci n’est que le moyen de l’expression de l’altérité. D’ailleurs, « <marquage
-            typemarq="italique"
-            >si può parlare dell’alterità solo in quanto riflessa</marquage>», insiste Vitali Rosati, tout en ajoutant qu’il y a diverses formes de rapport à l’altérité qu’on peut appeler « réflexives », parmi lesquelles les « authentiques » et les « inauthentiques » selon la façon de comprendre l’autoréférence. Quand le « pour moi » est compris comme moyen d’expression de l’altérité, la réflexion est authentique. Elle ne l’est pas si le « pour moi » est compris comme « possession ». Dans ce cas, l’altérité n’est nullement trouvée<renvoi
-            idref="sdfootnote40sym" typeref="note"
-            >40</renvoi>. Quand le « pour moi » est considéré comme un moyen d’expression, la relation avec l’altérité peut se consolider<renvoi
-            idref="sdfootnote41sym" typeref="note">41</renvoi>.</alinea>
+	 Cette structure ne doit pas être confondue avec celle de la « représentation », dans laquelle l’image représentée est prise pour la réelle. Contrairement à l’image représentée, l’image reflétée reste quelque chose qui n’est pas possédé par le sujet, car celui-ci n’est que le moyen de l’expression de l’altérité. D’ailleurs, « <marquage typemarq="italique">si può parlare dell’alterità solo in quanto riflessa</marquage>», insiste Vitali Rosati, tout en ajoutant qu’il y a diverses formes de rapport à l’altérité qu’on peut appeler « réflexives », parmi lesquelles les « authentiques » et les « inauthentiques » selon la façon de comprendre l’autoréférence. Quand le « pour moi » est compris comme moyen d’expression de l’altérité, la réflexion est authentique. Elle ne l’est pas si le « pour moi » est compris comme « possession ». Dans ce cas, l’altérité n’est nullement trouvée<renvoi idref="sdfootnote40sym" typeref="note">40</renvoi>. Quand le « pour moi » est considéré comme un moyen d’expression, la relation avec l’altérité peut se consolider<renvoi idref="sdfootnote41sym" typeref="note">41</renvoi>.</alinea>
       </para>
       <para>
         <alinea>
-	Parti à la recherche d’une logique de la réflexion, Vitali Rosati va maintenant entrer dans la problématique de l’unité et de la multiplicité. Il s’interroge : « <marquage
-            typemarq="italique"
-            >Come è possibile che la riflessione sia un’unità quando l’alterità  assoluta, che pure è riflessa, resta inafferrabile ? C’è bisogno di una rottura all’interno della riflessione, è necessario che essa sia molteplice e che la sua molteplicità non sia in nessun modo riducibile ad unità</marquage> ». Et il précise : «<marquage
-            typemarq="italique"
-            > La riflessione è principio molteplice in quanto è l’unico piano dal quale è possibile fare filosofia, ma è frammentario</marquage>». Ensuite, dans la même perspective pour structurer une logique de la réflexion, il va analyser les termes de cohérence et d’incohérence comme une autre façon de reformuler la relation entre unité et multiplicité. Il se pose la question : « <marquage
-            typemarq="italique"
-            >In che senso si può parlare di coerenza o incoerenza dell’io ?</marquage> » Il s’approche alors de la problématique du « sujet » (<marquage
-            typemarq="italique">soggetto</marquage>).</alinea>
+	Parti à la recherche d’une logique de la réflexion, Vitali Rosati va maintenant entrer dans la problématique de l’unité et de la multiplicité. Il s’interroge : « <marquage typemarq="italique">Come è possibile che la riflessione sia un’unità quando l’alterità  assoluta, che pure è riflessa, resta inafferrabile ? C’è bisogno di una rottura all’interno della riflessione, è necessario che essa sia molteplice e che la sua molteplicità non sia in nessun modo riducibile ad unità</marquage> ». Et il précise : «<marquage typemarq="italique"> La riflessione è principio molteplice in quanto è l’unico piano dal quale è possibile fare filosofia, ma è frammentario</marquage>». Ensuite, dans la même perspective pour structurer une logique de la réflexion, il va analyser les termes de cohérence et d’incohérence comme une autre façon de reformuler la relation entre unité et multiplicité. Il se pose la question : « <marquage typemarq="italique">In che senso si può parlare di coerenza o incoerenza dell’io ?</marquage> » Il s’approche alors de la problématique du « sujet » (<marquage typemarq="italique">soggetto</marquage>).</alinea>
       </para>
       <para>
         <alinea>
-	Essayant de définir le « <marquage typemarq="italique"
-            >soggetto</marquage> », Vitali Rosati affirme que celui-ci est un ensemble de propositions logiques, lieu d’une iconologie, et que dans la philosophie traditionnelle l’iconologie de la psyché coïncide avec le sujet lui-même. Or, l’iconologie de la psyché est un ensemble d’images qui peut être considéré aussi comme un ensemble de propositions. Revenant à Matte Blanco et à la logique symétrique avec laquelle le psychanalyste interprète le fonctionnement de l’Inconscient, Vitali Rosati avoue qu’il ne trouve aucun motif qui le pousse à considérer que l’Inconscient ne fasse pas partie de l’iconologie de la psyché. Il affirme même que «<marquage
-            typemarq="italique"
-            > nelle sue manifestazioni (ad essempio, nei sogni) l’"inconscio" ha un’influenza ed una presenza nell’ iconologia della mente a volte superiore a quella che vi ha la vita "cosciente". L’iconologia della mente accetta in sé immagini tra loro contraddittorie, paradossali, che negano ogni principio logico</marquage>
+	Essayant de définir le « <marquage typemarq="italique">soggetto</marquage> », Vitali Rosati affirme que celui-ci est un ensemble de propositions logiques, lieu d’une iconologie, et que dans la philosophie traditionnelle l’iconologie de la psyché coïncide avec le sujet lui-même. Or, l’iconologie de la psyché est un ensemble d’images qui peut être considéré aussi comme un ensemble de propositions. Revenant à Matte Blanco et à la logique symétrique avec laquelle le psychanalyste interprète le fonctionnement de l’Inconscient, Vitali Rosati avoue qu’il ne trouve aucun motif qui le pousse à considérer que l’Inconscient ne fasse pas partie de l’iconologie de la psyché. Il affirme même que «<marquage typemarq="italique"> nelle sue manifestazioni (ad essempio, nei sogni) l’"inconscio" ha un’influenza ed una presenza nell’ iconologia della mente a volte superiore a quella che vi ha la vita "cosciente". L’iconologia della mente accetta in sé immagini tra loro contraddittorie, paradossali, che negano ogni principio logico</marquage>
           <marquage typemarq="italique">
             <renvoi idref="sdfootnote45sym" typeref="note">45</renvoi> </marquage>».</alinea>
       </para>
       <para>
         <alinea>
-	La division entre Inconscient et Conscient ne serait que le résultat du préjugé qui veut que l’iconologie de la psyché soit cohérente. Pour cacher la nature contradictoire de l’iconologie de la psyché, on cache les contradictions dans une partie « obscure », tout en essayant de maintenir dans une partie « lumineuse » la validité des lois de la logique traditionnelle. «<marquage
-            typemarq="italique"
-            > Chi non avesse studiato la logica formale non troverebbe nessuna paradossalità nei paradossi che la minano</marquage> », prévient-il<marquage
-            typemarq="italique"
-            >. </marquage>Or, la prétendue cohérence de l’iconologie de la psyché est ce qui a permis de hausser le Moi au niveau de l’Esprit. Même l’éternité et l’immortalité de l’Esprit ont été fondées sur la cohérence. D’ailleurs, la division entre Esprit et Corps ressemble à celle entre Conscient et Inconscient. Mais le Moi, le sujet, ne peut pas être Esprit parce qu’il n’a pas la caractéristique primordiale de celui-ci : il n’est pas « uni ». « <marquage
-            typemarq="italique">L’io non è, dunque, che un corpo</marquage> ».</alinea>
+	La division entre Inconscient et Conscient ne serait que le résultat du préjugé qui veut que l’iconologie de la psyché soit cohérente. Pour cacher la nature contradictoire de l’iconologie de la psyché, on cache les contradictions dans une partie « obscure », tout en essayant de maintenir dans une partie « lumineuse » la validité des lois de la logique traditionnelle. «<marquage typemarq="italique"> Chi non avesse studiato la logica formale non troverebbe nessuna paradossalità nei paradossi che la minano</marquage> », prévient-il<marquage typemarq="italique">. </marquage>Or, la prétendue cohérence de l’iconologie de la psyché est ce qui a permis de hausser le Moi au niveau de l’Esprit. Même l’éternité et l’immortalité de l’Esprit ont été fondées sur la cohérence. D’ailleurs, la division entre Esprit et Corps ressemble à celle entre Conscient et Inconscient. Mais le Moi, le sujet, ne peut pas être Esprit parce qu’il n’a pas la caractéristique primordiale de celui-ci : il n’est pas « uni ». « <marquage typemarq="italique">L’io non è, dunque, che un corpo</marquage> ».</alinea>
       </para>
       <para>
         <alinea>
-	 Vitali Rosati considère que le concept de corps est lié à celui de l’<marquage
-            typemarq="italique"
-            >autoconservation</marquage> parce que la première caractéristique du corps serait celle de vouloir se conserver lui-même. L’Esprit ne serait qu’une invention qui permet au corps de s’autoconserver. Ce qui attire le corps vers l’Esprit est seulement la cohérence de celui-ci parce que la cohérence est « survie ». Évidemment, toutes ces affirmations sont discutables, comme le laisse entendre Vitali Rosati lui-même, qui parle d’une analyse approfondie dans une recherche future. Avec une grande lucidité, il remarque que le Moi (<marquage
-            typemarq="italique"
-            >io)</marquage> voudrait posséder l’iconologie de la psyché en devenant son « artisan ». Cependant le Moi n’est pas l’artisan de l’iconologie de la psyché, comme il n’est pas non plus l’artisan de lui-même. Le Moi coïncide avec l’iconologie de la psyché, mais celle-ci n’est pas sa production. Elle est plutôt un croisement de réflexions, de rapports avec l’altérité reflétée qui ont « en soi » leur « pour soi ». En ce sens, le Moi-Corps n’est pas patron de lui-même, il est incohérent et fragmentaire. Être « corps » signifie être déjà incohérent, être déjà initié (<marquage
-            typemarq="italique"
-            >iniziati</marquage>), être déjà iconologie fragmentaire et contradictoire. « <marquage
-            typemarq="italique"
-            >D’altra parte l’io-corpo (tutto ciò chi resta del uomo) deve avere un qualche ruolo nel rapporto con l’alterità. Ne è prova il fatto stesso che è un uomo chi può scrivere delle idee simili […] L’uomo è la possibilità d’apparizione concreta (corporale) dell’espressione dell’alterità riflessa</marquage> ». Et Vitali Rosati conclut : <marquage
-            typemarq="italique"
-            >« In questo senso, l’uomo è, principalmente, scrittura, concretizzazione del linguagio</marquage> ».</alinea>
+	 Vitali Rosati considère que le concept de corps est lié à celui de l’<marquage typemarq="italique">autoconservation</marquage> parce que la première caractéristique du corps serait celle de vouloir se conserver lui-même. L’Esprit ne serait qu’une invention qui permet au corps de s’autoconserver. Ce qui attire le corps vers l’Esprit est seulement la cohérence de celui-ci parce que la cohérence est « survie ». Évidemment, toutes ces affirmations sont discutables, comme le laisse entendre Vitali Rosati lui-même, qui parle d’une analyse approfondie dans une recherche future. Avec une grande lucidité, il remarque que le Moi (<marquage typemarq="italique">io)</marquage> voudrait posséder l’iconologie de la psyché en devenant son « artisan ». Cependant le Moi n’est pas l’artisan de l’iconologie de la psyché, comme il n’est pas non plus l’artisan de lui-même. Le Moi coïncide avec l’iconologie de la psyché, mais celle-ci n’est pas sa production. Elle est plutôt un croisement de réflexions, de rapports avec l’altérité reflétée qui ont « en soi » leur « pour soi ». En ce sens, le Moi-Corps n’est pas patron de lui-même, il est incohérent et fragmentaire. Être « corps » signifie être déjà incohérent, être déjà initié (<marquage typemarq="italique">iniziati</marquage>), être déjà iconologie fragmentaire et contradictoire. « <marquage typemarq="italique">D’altra parte l’io-corpo (tutto ciò chi resta del uomo) deve avere un qualche ruolo nel rapporto con l’alterità. Ne è prova il fatto stesso che è un uomo chi può scrivere delle idee simili […] L’uomo è la possibilità d’apparizione concreta (corporale) dell’espressione dell’alterità riflessa</marquage> ». Et Vitali Rosati conclut : <marquage typemarq="italique">« In questo senso, l’uomo è, principalmente, scrittura, concretizzazione del linguagio</marquage> ».</alinea>
       </para>
       <para>
         <alinea>
-	L’écriture (<marquage typemarq="italique"
-            >scrittura</marquage>) apparaît maintenant en tant que telle dans le texte. Parlant du « commencement » dans le dernier sous-chapitre « <marquage
-            typemarq="italique"
-            >Una ridefinizione del concetto di inizio »</marquage>, Vitali Rosati critique les idées de Lévinas sur un « <marquage
-            typemarq="italique">principio primo</marquage> » : « <marquage typemarq="italique"
-            >Levinas cade qui in una trappola linguistica che smentisce clamorosamente le sue intenzioni smascherando dietro l’ebreo errante il volto del Socrate filosofante</marquage> ». Il reprend la question de l’écriture et de l’<marquage
-            typemarq="italique"
-            >inizio</marquage>, notamment sur le commencement d’un conte littéraire (<marquage
-            typemarq="italique"
-            >racconto</marquage>), pris comme exemple du commencement comme choix délibéré. « <marquage
-            typemarq="italique"
-            >L’inizio comme scelta è un cercare di riportare nella finzione l’ordine mancante nella realtà. Questo è l’inizio della scrittura, il grido di un uomo che cerca di ritrovare la sua sostanzialità almeno iniziando in senso tradizionale</marquage> ». Or, si le commencement était vraiment un choix, il ne serait nullement un commencement, signale-t-il, avant de poursuivre sa critique sur la responsabilité (<marquage
-            typemarq="italique"
-            >responsabilità), </marquage>laquelle selon Lévinas se positionnerait avant tout commencement <marquage
-            typemarq="italique"
-            >(prima di ogni scelta),</marquage> assertion qui, d’après Vitali Rosati, ne fait qu’empirer les choses (<marquage
-            typemarq="italique">peggiorare le cose</marquage>). En tout cas, pour lui «<marquage
-            typemarq="italique"
-            > la riflessione ha bisogno di un inizio e tale inizio non può essere ricercato che in chi sembra essere il fruitore della riflessione : l’uomo. Sembrerebbe che non esista riflessione senza uomo dunque quest’ultimo è l’inizio della riflessione</marquage> ».</alinea>
+	L’écriture (<marquage typemarq="italique">scrittura</marquage>) apparaît maintenant en tant que telle dans le texte. Parlant du « commencement » dans le dernier sous-chapitre « <marquage typemarq="italique">Una ridefinizione del concetto di inizio »</marquage>, Vitali Rosati critique les idées de Lévinas sur un « <marquage typemarq="italique">principio primo</marquage> » : « <marquage typemarq="italique">Levinas cade qui in una trappola linguistica che smentisce clamorosamente le sue intenzioni smascherando dietro l’ebreo errante il volto del Socrate filosofante</marquage> ». Il reprend la question de l’écriture et de l’<marquage typemarq="italique">inizio</marquage>, notamment sur le commencement d’un conte littéraire (<marquage typemarq="italique">racconto</marquage>), pris comme exemple du commencement comme choix délibéré. « <marquage typemarq="italique">L’inizio comme scelta è un cercare di riportare nella finzione l’ordine mancante nella realtà. Questo è l’inizio della scrittura, il grido di un uomo che cerca di ritrovare la sua sostanzialità almeno iniziando in senso tradizionale</marquage> ». Or, si le commencement était vraiment un choix, il ne serait nullement un commencement, signale-t-il, avant de poursuivre sa critique sur la responsabilité (<marquage typemarq="italique">responsabilità), </marquage>laquelle selon Lévinas se positionnerait avant tout commencement <marquage typemarq="italique">(prima di ogni scelta),</marquage> assertion qui, d’après Vitali Rosati, ne fait qu’empirer les choses (<marquage typemarq="italique">peggiorare le cose</marquage>). En tout cas, pour lui «<marquage typemarq="italique"> la riflessione ha bisogno di un inizio e tale inizio non può essere ricercato che in chi sembra essere il fruitore della riflessione : l’uomo. Sembrerebbe che non esista riflessione senza uomo dunque quest’ultimo è l’inizio della riflessione</marquage> ».</alinea>
       </para>
       <para>
         <alinea>
-	Le chapitre IV finit avec un rappel de l’<marquage typemarq="italique"
-            >exaiphnes</marquage> platonicien et du <marquage typemarq="italique"
-            >fra</marquage> (entre) : «<marquage typemarq="italique"
-            > L’inizio rimanda sempre ad un passaggio tra moto e quiete, ad un presente che non è ancora presente, ma non è neanche futuro. Ogni origini e ogni inizio sono sempre un "fra". Bisogna vedere comme interpretare questo "fra"</marquage> ». Vitali Rosati y retournera dans le cinquième et dernier chapitre, <marquage
-            typemarq="italique"
-            >« Una logica della riflessione »</marquage>, spécialement lorsqu’il aura recours au concept de « <marquage
-            typemarq="italique">fra-tempo</marquage> » (l’entre-temps).</alinea>
+	Le chapitre IV finit avec un rappel de l’<marquage typemarq="italique">exaiphnes</marquage> platonicien et du <marquage typemarq="italique">fra</marquage> (entre) : «<marquage typemarq="italique"> L’inizio rimanda sempre ad un passaggio tra moto e quiete, ad un presente che non è ancora presente, ma non è neanche futuro. Ogni origini e ogni inizio sono sempre un "fra". Bisogna vedere comme interpretare questo "fra"</marquage> ». Vitali Rosati y retournera dans le cinquième et dernier chapitre, <marquage typemarq="italique">« Una logica della riflessione »</marquage>, spécialement lorsqu’il aura recours au concept de « <marquage typemarq="italique">fra-tempo</marquage> » (l’entre-temps).</alinea>
       </para>
       <para>
         <alinea>
-	 <marquage typemarq="italique"
-            >Una logica delle riflessione</marquage> va donc clore le travail de Vitali Rosati, lequel, bien entendu, laissera les portes ouvertes pour de nouvelles recherches qui permettront de clarifier, de compléter et d’enrichir sa propre pensée. Dans ce chapitre, il continue à faire appel à la logique mathématique qui va l’aider à établir finalement sa « logique de la transcendance » et une « logique de la rencontre avec l’Autre » (<marquage
-            typemarq="italique"
-            >logica dell’incontro con l’altro)</marquage>. Pour y aboutir, il va s’appuyer, une fois de plus, sur les idées de Matte Blanco sur l’Inconscient et la logique symétrique que le psychanalyste voit à l’œuvre dans son fonctionnement. Mais auparavant, il va redéfinir, avec une précision accrue, le concept de <marquage
-            typemarq="italique">riflessione : </marquage>«<marquage typemarq="italique"
-            > L’atto che attraverso un ripiegamento su se stesso consente un’espressione dell’alterità e l’instaurazione di un rapporto con essa</marquage> ». Or, la réflexion est un principe multiple qui, en tant que tel, se structure en plans <marquage
-            typemarq="italique"
-            >(piani)</marquage> de réflexion indépendants. Pour un plan précis de réflexion, tous les autres sont transcendants. La transcendance sera la situation dans laquelle se trouvent les plans de réflexions par rapport à un plan donné. Mais qu’est-ce qu’un plan de réflexion ? « <marquage
-            typemarq="italique"
-            >Esso è un insieme di proposizioni, in senso generalissimo, che trovano la loro "origine" in un’espressione dell’Altro passata attraverso un per sé autoreferenziale</marquage> ». Et Vitali Rosati précise que, dans tous les cas, le plan de réflexion peut être défini comme une iconologie.</alinea>
+	 <marquage typemarq="italique">Una logica delle riflessione</marquage> va donc clore le travail de Vitali Rosati, lequel, bien entendu, laissera les portes ouvertes pour de nouvelles recherches qui permettront de clarifier, de compléter et d’enrichir sa propre pensée. Dans ce chapitre, il continue à faire appel à la logique mathématique qui va l’aider à établir finalement sa « logique de la transcendance » et une « logique de la rencontre avec l’Autre » (<marquage typemarq="italique">logica dell’incontro con l’altro)</marquage>. Pour y aboutir, il va s’appuyer, une fois de plus, sur les idées de Matte Blanco sur l’Inconscient et la logique symétrique que le psychanalyste voit à l’œuvre dans son fonctionnement. Mais auparavant, il va redéfinir, avec une précision accrue, le concept de <marquage typemarq="italique">riflessione : </marquage>«<marquage typemarq="italique"> L’atto che attraverso un ripiegamento su se stesso consente un’espressione dell’alterità e l’instaurazione di un rapporto con essa</marquage> ». Or, la réflexion est un principe multiple qui, en tant que tel, se structure en plans <marquage typemarq="italique">(piani)</marquage> de réflexion indépendants. Pour un plan précis de réflexion, tous les autres sont transcendants. La transcendance sera la situation dans laquelle se trouvent les plans de réflexions par rapport à un plan donné. Mais qu’est-ce qu’un plan de réflexion ? « <marquage typemarq="italique">Esso è un insieme di proposizioni, in senso generalissimo, che trovano la loro "origine" in un’espressione dell’Altro passata attraverso un per sé autoreferenziale</marquage> ». Et Vitali Rosati précise que, dans tous les cas, le plan de réflexion peut être défini comme une iconologie.</alinea>
       </para>
       <para>
         <alinea>
-	Ayant procédé, comme dans une spirale ascendante, à une redéfinition de la <marquage
-            typemarq="italique"
-            >riflessione</marquage>, Vitali Rosati se voit désormais contraint à redéfinir les lois de la logique : « <marquage
-            typemarq="italique"
-            >La logica formale non basta a spiegare l’incontro con l’alterità</marquage> ». C’est la raison ultime pour laquelle il a cherché à formuler sa <marquage
-            typemarq="italique"
-          >logica de la trascendenza</marquage>. Comment doit-on configurer cette logique de la transcendance ? Il propose la thèse suivante :</alinea>
+	Ayant procédé, comme dans une spirale ascendante, à une redéfinition de la <marquage typemarq="italique">riflessione</marquage>, Vitali Rosati se voit désormais contraint à redéfinir les lois de la logique : « <marquage typemarq="italique">La logica formale non basta a spiegare l’incontro con l’alterità</marquage> ». C’est la raison ultime pour laquelle il a cherché à formuler sa <marquage typemarq="italique">logica de la trascendenza</marquage>. Comment doit-on configurer cette logique de la transcendance ? Il propose la thèse suivante :</alinea>
       </para>
       <para>
         <alinea>
-	Seguiamo una suggestione di Matte Blanco alla quale dobbiamo lo spunto delle idee che stiamo per proporre. Nello stesso testo a cui ci riferivamo parlando de la logica simmetrica che starebbe alla base del funzionamento dell’inconscio fino a identificarsi con lo stesso inconscio, Matte Blanco si accorge di una necessità analoga à quella che abbiamo avvertito […] : la necessità, appunto di conciliare il principio di non contraddizzione con la possibilità reale della contraddizione<renvoi
-            idref="sdfootnote57sym" typeref="note">57</renvoi>.</alinea>
+	Seguiamo una suggestione di Matte Blanco alla quale dobbiamo lo spunto delle idee che stiamo per proporre. Nello stesso testo a cui ci riferivamo parlando de la logica simmetrica che starebbe alla base del funzionamento dell’inconscio fino a identificarsi con lo stesso inconscio, Matte Blanco si accorge di una necessità analoga à quella che abbiamo avvertito […] : la necessità, appunto di conciliare il principio di non contraddizzione con la possibilità reale della contraddizione<renvoi idref="sdfootnote57sym" typeref="note">57</renvoi>.</alinea>
       </para>
       <para>
         <alinea>
-	 <marquage typemarq="italique"
-            >« L’idea matteblanchiana è questa... »</marquage> (L’idée matteblanquienne est celle-ci), annonce Vitali Rosati avant de l’expliquer et de la résumer en termes de logique traditionnelle. Il s’agit d’identifier un point, d’abord sur une ligne droite dans un espace unidimensionnel, puis d’identifier ce même point dans un espace tridimensionnel. Et il démontre que si le principe de non-contradiction est respecté sur deux dimensions, il est dépassé si on ajoute une troisième dimension ou plus (n-dimension). C’est «<marquage
-            typemarq="italique"
-            > la logica n-dimensionale prospettata da Matte Blanco</marquage> ». Alors, en faisant le détour par les concepts de proposition et d’icône, il arrive à une définition logique des plans de réflexions : « <marquage
-            typemarq="italique"
-            >Un piano di riflessione è un sistema a due dimensioni nel quale ad ogni punto (x, y) è associata una proposizione, cioè un’icona</marquage> ».</alinea>
+	 <marquage typemarq="italique">« L’idea matteblanchiana è questa... »</marquage> (L’idée matteblanquienne est celle-ci), annonce Vitali Rosati avant de l’expliquer et de la résumer en termes de logique traditionnelle. Il s’agit d’identifier un point, d’abord sur une ligne droite dans un espace unidimensionnel, puis d’identifier ce même point dans un espace tridimensionnel. Et il démontre que si le principe de non-contradiction est respecté sur deux dimensions, il est dépassé si on ajoute une troisième dimension ou plus (n-dimension). C’est «<marquage typemarq="italique"> la logica n-dimensionale prospettata da Matte Blanco</marquage> ». Alors, en faisant le détour par les concepts de proposition et d’icône, il arrive à une définition logique des plans de réflexions : « <marquage typemarq="italique">Un piano di riflessione è un sistema a due dimensioni nel quale ad ogni punto (x, y) è associata una proposizione, cioè un’icona</marquage> ».</alinea>
       </para>
       <para>
         <alinea>
-          <liensimple xlink:type="simple" xlink:href=""
-            />À partir de là, et suivant toujours les idées et suggestions de Matte Blanco, il va croiser, moyennant des chiffres et des formules de logique mathématique (impossibles à reproduire dans une simple note de lecture comme celle-ci), le concept lévinassien de « diachronie », qu’il va utiliser pour désigner l’incohérence entre les lignes droites qui constituent les plans de réflexions : <marquage
-            typemarq="italique"
-            >« La retta (x, 1) è diacronica rispetto alla retta (x, 2)</marquage>». C’est cette diachronie, qui caractérise le Temps de la réflexion, qui la rend différente d’elle-même. Vitali Rosati reviendra encore au <marquage
-            typemarq="italique">fra-tempo</marquage> (entre-temps), à l’<marquage
-            typemarq="italique">exaiphnes </marquage>qui est (<marquage typemarq="italique"
-            >sta</marquage>) entre le présent et le non encore présent, un passé qui n’est pas encore passé. « <marquage
-            typemarq="italique"
-            >La struttura della diacronia e del fra-tempo impediscono che la riflessione ricada nelle critiche levinassiane. Lo spostarsi traslandosi della retta e la diacronia della traslazione impediscono una riduzione dell’alterità al piano di riflessione. La riflessione non ha in questo senso, niente in comune con la rappresentazione</marquage> ». Et il ajoutera encore une caractéristique du « plan de réflexion », essentielle pour l’analyse du rapport avec l’altérité : l’<marquage
-            typemarq="italique"
-          >incomplétude</marquage>, c’est à dire le manque, dans l’iconologie du plan de réflexion, de quelques icônes.</alinea>
+	<liensimple xlink:type="simple" xlink:href=""/>À partir de là, et suivant toujours les idées et suggestions de Matte Blanco, il va croiser, moyennant des chiffres et des formules de logique mathématique (impossibles à reproduire dans une simple note de lecture comme celle-ci), le concept lévinassien de « diachronie », qu’il va utiliser pour désigner l’incohérence entre les lignes droites qui constituent les plans de réflexions : <marquage typemarq="italique">« La retta (x, 1) è diacronica rispetto alla retta (x, 2)</marquage>». C’est cette diachronie, qui caractérise le Temps de la réflexion, qui la rend différente d’elle-même. Vitali Rosati reviendra encore au <marquage typemarq="italique">fra-tempo</marquage> (entre-temps), à l’<marquage typemarq="italique">exaiphnes </marquage>qui est (<marquage typemarq="italique">sta</marquage>) entre le présent et le non encore présent, un passé qui n’est pas encore passé. « <marquage typemarq="italique">La struttura della diacronia e del fra-tempo impediscono che la riflessione ricada nelle critiche levinassiane. Lo spostarsi traslandosi della retta e la diacronia della traslazione impediscono una riduzione dell’alterità al piano di riflessione. La riflessione non ha in questo senso, niente in comune con la rappresentazione</marquage> ». Et il ajoutera encore une caractéristique du « plan de réflexion », essentielle pour l’analyse du rapport avec l’altérité : l’<marquage typemarq="italique">incomplétude</marquage>, c’est à dire le manque, dans l’iconologie du plan de réflexion, de quelques icônes.</alinea>
       </para>
       <para>
         <alinea>
-	Le livre aboutit à la « <marquage typemarq="italique"
-            >Logica dell’incontro con l’altro</marquage> », où Vitali Rosati introduit son concept de « diatopie » : <marquage
-            typemarq="italique"
-            >« Introdurremo […] una nuova nozione, parallela a quella di diacronia che permetteva di gestire l’opposizione tra unità e molteplicità senza una riduzione della seconda sulla la prima e una conseguente contestualizzazione e limitazione del principio di non contraddizione : la nozione di diatopia. (La diatopia) è l’impossibilità per il piano di riflessione di muoversi in alcune dimensione</marquage> ». Or, tandis que la diachronie implique la possibilité de mouvement pour (<marquage
-            typemarq="italique"
-            >per</marquage>) le plan de réflexion, la diatopie empêche tout (<marquage
-            typemarq="italique"
-          >ogni</marquage>) mouvement. La diatopie est la structure qui caractérise logiquement la transcendance. L’altérité est transcendante en tant qu’elle est diatopique.</alinea>
+	Le livre aboutit à la « <marquage typemarq="italique">Logica dell’incontro con l’altro</marquage> », où Vitali Rosati introduit son concept de « diatopie » : <marquage typemarq="italique">« Introdurremo […] una nuova nozione, parallela a quella di diacronia che permetteva di gestire l’opposizione tra unità e molteplicità senza una riduzione della seconda sulla la prima e una conseguente contestualizzazione e limitazione del principio di non contraddizione : la nozione di diatopia. (La diatopia) è l’impossibilità per il piano di riflessione di muoversi in alcune dimensione</marquage> ». Or, tandis que la diachronie implique la possibilité de mouvement pour (<marquage typemarq="italique">per</marquage>) le plan de réflexion, la diatopie empêche tout (<marquage typemarq="italique">ogni</marquage>) mouvement. La diatopie est la structure qui caractérise logiquement la transcendance. L’altérité est transcendante en tant qu’elle est diatopique.</alinea>
       </para>
       <para>
         <alinea>
-	Après quelques précisions logiques mathématiques sur « le plan donnant » (<marquage
-            typemarq="italique">il piano donante</marquage>) et « le plan récepteur » (<marquage
-            typemarq="italique"
-            >il piano ricevente)</marquage> et l’analyse de la concordance (<marquage
-            typemarq="italique"
-            >concordanza</marquage>) entre les points des plans différents dans l’espace n-dimensionnel établissant un lien entre eux, même lorsqu’ils sont séparés par une diatopie insurmontable, Vitali Rosati affirme que «<marquage
-            typemarq="italique"
-            > la struttura del piano di riflessione permette un rapporto autentico con l’alterità che non è assolutamente eticamente connotato</marquage> ».<marquage
-            typemarq="italique"
-            > </marquage>Le lecteur du livre peut alors se poser la question : ce rapport ne peut-il pas être aussi <marquage
-            typemarq="italique">esthétique </marquage>?</alinea>
+	Après quelques précisions logiques mathématiques sur « le plan donnant » (<marquage typemarq="italique">il piano donante</marquage>) et « le plan récepteur » (<marquage typemarq="italique">il piano ricevente)</marquage> et l’analyse de la concordance (<marquage typemarq="italique">concordanza</marquage>) entre les points des plans différents dans l’espace n-dimensionnel établissant un lien entre eux, même lorsqu’ils sont séparés par une diatopie insurmontable, Vitali Rosati affirme que «<marquage typemarq="italique"> la struttura del piano di riflessione permette un rapporto autentico con l’alterità che non è assolutamente eticamente connotato</marquage> ».<marquage typemarq="italique"> </marquage>Le lecteur du livre peut alors se poser la question : ce rapport ne peut-il pas être aussi <marquage typemarq="italique">esthétique </marquage>?</alinea>
       </para>
       <para>
         <alinea>
-	La crainte majeure pour Vitali Rosati est toujours le risque de voir ses considérations menacées par le systématisme totalitaire. Comment une logique n-dimensionnelle peut ne pas rechuter dans l’Esprit Absolu hégélien ? La réponse se trouverait, précisément, dans les concepts de diachronie et de diatopie qui sont comme des ruptures, des cassures. La diachronie est l’impossibilité de coller deux instants. La diatopie, à son tour, est la rupture entre deux plans de réflexion. L’Absolu totalitaire semble loin… L’audacieux doctorant a réussi à montrer comment la logique – outil par excellence de l’intellect – peut s’introduire partout. Et, en ce qui concerne sa propre logique de la transcendance, il indique, sans le dire, des pistes pour aller vers ce que nous pourrions appeler une « Psychologie de la transcendance » (<marquage
-            typemarq="italique"
-            >l’io, l’io-corpo</marquage>), une « Anthropologie de la transcendance » (<marquage
-            typemarq="italique"
-            >l’uomo inizio della reflessione, l’uomo scrittore</marquage>) et même une « Esthétique de la transcendance » (<marquage
-            typemarq="italique"
-            >scrittura, inizio, finzione</marquage>), esthétique qui devrait permettre, entre autres, de comprendre en termes logiques la littérature narrative et l’intertextualité. Quant à l’ontologie, récusée par Lévinas, il résout le problème avec un nouveau concept, la « <marquage
-            typemarq="italique"
-            >metaontologia</marquage> ». D’après lui, la méta-ontologie ne peut être qu’un plan de réflexion (<marquage
-            typemarq="italique"
-          >piano di reflessione</marquage>). Elle est un « philosopher » sur l’ontologie, « philosopher » qui est, lui-même, ontologie, et sa valeur consiste en son pouvoir de rendre compte d’un rapport authentique avec l’altérité, mais sans la détruire.</alinea>
+	La crainte majeure pour Vitali Rosati est toujours le risque de voir ses considérations menacées par le systématisme totalitaire. Comment une logique n-dimensionnelle peut ne pas rechuter dans l’Esprit Absolu hégélien ? La réponse se trouverait, précisément, dans les concepts de diachronie et de diatopie qui sont comme des ruptures, des cassures. La diachronie est l’impossibilité de coller deux instants. La diatopie, à son tour, est la rupture entre deux plans de réflexion. L’Absolu totalitaire semble loin… L’audacieux doctorant a réussi à montrer comment la logique – outil par excellence de l’intellect – peut s’introduire partout. Et, en ce qui concerne sa propre logique de la transcendance, il indique, sans le dire, des pistes pour aller vers ce que nous pourrions appeler une « Psychologie de la transcendance » (<marquage typemarq="italique">l’io, l’io-corpo</marquage>), une « Anthropologie de la transcendance » (<marquage typemarq="italique">l’uomo inizio della reflessione, l’uomo scrittore</marquage>) et même une « Esthétique de la transcendance » (<marquage typemarq="italique">scrittura, inizio, finzione</marquage>), esthétique qui devrait permettre, entre autres, de comprendre en termes logiques la littérature narrative et l’intertextualité. Quant à l’ontologie, récusée par Lévinas, il résout le problème avec un nouveau concept, la « <marquage typemarq="italique">metaontologia</marquage> ». D’après lui, la méta-ontologie ne peut être qu’un plan de réflexion (<marquage typemarq="italique">piano di reflessione</marquage>). Elle est un « philosopher » sur l’ontologie, « philosopher » qui est, lui-même, ontologie, et sa valeur consiste en son pouvoir de rendre compte d’un rapport authentique avec l’altérité, mais sans la détruire.</alinea>
       </para>
       <para>
         <alinea>
-	Pour finir, Vitali Rosati pose quelques questions auxquelles il promet de trouver une réponse dans une étude à venir. Quelle place l’homme-corps doit-il assumer dans une philosophie de l’altérité ? Cette question est solidement liée au sens philosophique de l’histoire : <marquage
-            typemarq="italique"
-            >« La domanda ’che cosa ne è dell’uomo ?’ sarà strettamente legata alla domanda “che cosa ne è della storia’ ?</marquage> ». Et il s’interroge sur une autre problématique fondamentale :</alinea>
+	Pour finir, Vitali Rosati pose quelques questions auxquelles il promet de trouver une réponse dans une étude à venir. Quelle place l’homme-corps doit-il assumer dans une philosophie de l’altérité ? Cette question est solidement liée au sens philosophique de l’histoire : <marquage typemarq="italique">« La domanda ’che cosa ne è dell’uomo ?’ sarà strettamente legata alla domanda “che cosa ne è della storia’ ?</marquage> ». Et il s’interroge sur une autre problématique fondamentale :</alinea>
       </para>
       <para>
         <alinea>
-          <marquage typemarq="italique"
-            >Abbiamo infatti accennato che il ruolo che l’uomo-corpo potrebbe giocare nella metaontologia sarebbe quello di ‘‘scrittura’’. Ora la scrittura detiene il privileggio di un legame particolarissimo con il linguaggio. Il problema dell’uomo sarà legato anche al problema del rapporto tra riflessione e linguagio</marquage>.</alinea>
+	<marquage typemarq="italique">Abbiamo infatti accennato che il ruolo che l’uomo-corpo potrebbe giocare nella metaontologia sarebbe quello di ‘‘scrittura’’. Ora la scrittura detiene il privileggio di un legame particolarissimo con il linguaggio. Il problema dell’uomo sarà legato anche al problema del rapporto tra riflessione e linguagio</marquage>.</alinea>
       </para>
       <para>
         <alinea>
-	Le lecteur de <marquage typemarq="italique"
-          >Riflessione e trascendenza</marquage> pourrait donc se poser la question : quel est le rôle de l’homme-corps dans l’histoire, de l’homme capable d’établir un lien privilégié avec le langage à travers l’écriture, c’est-à dire, de l’homme en tant que lecteur-écrivain ?</alinea>
+	Le lecteur de <marquage typemarq="italique">Riflessione e trascendenza</marquage> pourrait donc se poser la question : quel est le rôle de l’homme-corps dans l’histoire, de l’homme capable d’établir un lien privilégié avec le langage à travers l’écriture, c’est-à dire, de l’homme en tant que lecteur-écrivain ?</alinea>
       </para>
-
+      
     </section1>
   </corps>
   <partiesann>
@@ -644,19 +314,12 @@
       <note id="sdfootnote1sym">
         <no>1</no>
         <alinea>
-	 Rappelons que c’est Dante Allighieri, au début du XIV siècle, qui posa les bases linguistiques de l’italien moderne dans <marquage
-            typemarq="italique"
-            >De Vulgari Eloquentia</marquage>, ouvrage où il va recenser des dizaines de dialectes parlés dans ce qu’est aujourd’hui l’Italie, à laquelle il offrit le ciment de son unité sociale et politique. Il structura l’italien à partir de son dialecte florentin natal, le toscan, la langue poétique de <marquage
-            typemarq="italique"
-          >La Divine Comédie</marquage>, œuvre considérée par beaucoup comme le sommet de la littérature occidentale.</alinea>
+	 Rappelons que c’est Dante Allighieri, au début du XIV siècle, qui posa les bases linguistiques de l’italien moderne dans <marquage typemarq="italique">De Vulgari Eloquentia</marquage>, ouvrage où il va recenser des dizaines de dialectes parlés dans ce qu’est aujourd’hui l’Italie, à laquelle il offrit le ciment de son unité sociale et politique. Il structura l’italien à partir de son dialecte florentin natal, le toscan, la langue poétique de <marquage typemarq="italique">La Divine Comédie</marquage>, œuvre considérée par beaucoup comme le sommet de la littérature occidentale.</alinea>
       </note>
       <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
-	 « Dans un sens très général et provisoire, nous comprenons par " réflexion " la structure suivante : le sujet, cherchant un rapport avec l’altérité, sert de miroir, de lieu d’apparition et de contact de tout ce qui est autre. Dans le " refléter " le sujet crée, en lui-même, le lieu de rencontre avec ce qui est autre. Sans un "je reflète", toute image est destinée à se dissiper, l’altérité ne peut être trouvée en aucune façon ».  « <marquage
-            typemarq="italique">Introduzione</marquage> », Marcello Vitali Rosati, <marquage
-            typemarq="italique"
-            >Riflessione e trascendenza : itinerari a partire da Levinas</marquage>, Pisa, Edizioni ETS, 2003, p. 11.</alinea>
+	 « Dans un sens très général et provisoire, nous comprenons par " réflexion " la structure suivante : le sujet, cherchant un rapport avec l’altérité, sert de miroir, de lieu d’apparition et de contact de tout ce qui est autre. Dans le " refléter " le sujet crée, en lui-même, le lieu de rencontre avec ce qui est autre. Sans un "je reflète", toute image est destinée à se dissiper, l’altérité ne peut être trouvée en aucune façon ».  « <marquage typemarq="italique">Introduzione</marquage> », Marcello Vitali Rosati, <marquage typemarq="italique">Riflessione e trascendenza : itinerari a partire da Levinas</marquage>, Pisa, Edizioni ETS, 2003, p. 11.</alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>
@@ -671,22 +334,17 @@
       <note id="sdfootnote5sym">
         <no>5</no>
         <alinea>
-	 Hegel, <marquage typemarq="italique"
-          >La Phénoménologie de l’Esprit</marquage>, chapitre IV « Indépendance et dépendance de la conscience de soi. Domination et servitude ».</alinea>
+	 Hegel, <marquage typemarq="italique">La Phénoménologie de l’Esprit</marquage>, chapitre IV « Indépendance et dépendance de la conscience de soi. Domination et servitude ».</alinea>
       </note>
       <note id="sdfootnote6sym">
         <no>6</no>
         <alinea>
-	 « Certes, il n’est pas possible de penser que le subtil talent lévinassien n’ait pas été capable d’une lecture plus attentive de <marquage
-            typemarq="italique">Être et Temps</marquage> ». M. Vitali Rosati, <marquage
-            typemarq="italique"
-          >Riflessione e trascendenza</marquage>, Ibid., note 18, p. 28.</alinea>
+	 « Certes, il n’est pas possible de penser que le subtil talent lévinassien n’ait pas été capable d’une lecture plus attentive de <marquage typemarq="italique">Être et Temps</marquage> ». M. Vitali Rosati, <marquage typemarq="italique">Riflessione e trascendenza</marquage>, Ibid., note 18, p. 28.</alinea>
       </note>
       <note id="sdfootnote7sym">
         <no>7</no>
         <alinea>
-	 « Les idées lévinassiennes ne respectent pas les principes de la logique formelle, elles semblent plutôt se fonder sur une logique "autre". » « <marquage
-            typemarq="italique">Introduzione</marquage> », Ibid., p. 13.</alinea>
+	 « Les idées lévinassiennes ne respectent pas les principes de la logique formelle, elles semblent plutôt se fonder sur une logique "autre". » « <marquage typemarq="italique">Introduzione</marquage> », Ibid., p. 13.</alinea>
       </note>
       <note id="sdfootnote8sym">
         <no>8</no>
@@ -721,22 +379,12 @@
       <note id="sdfootnote14sym">
         <no>14</no>
         <alinea>
-	 Ignacio Matte Blanco (Santiago du Chili, 1908 – Rome, 1995), professeur de psychiatrie et de psychanalyse à la Faculté de médecine de l’Université du Chili dans les années 50-60, <marquage
-            typemarq="italique">Doctor Honoris Causa</marquage> de l’Université de Pise.</alinea>
+	 Ignacio Matte Blanco (Santiago du Chili, 1908 – Rome, 1995), professeur de psychiatrie et de psychanalyse à la Faculté de médecine de l’Université du Chili dans les années 50-60, <marquage typemarq="italique">Doctor Honoris Causa</marquage> de l’Université de Pise.</alinea>
       </note>
       <note id="sdfootnote15sym">
         <no>15</no>
         <alinea>
-	 Matte Blanco est l’auteur de nombreux livres en espagnol, en anglais et en italien, notamment <marquage
-            typemarq="italique">" Lo Psíquico y la Naturaleza Humana </marquage>", <marquage
-            typemarq="italique"
-            >" Estudios de Psicología Dinámica" </marquage>(Editorial Universitaria, Universidad de Chile, 1952/1954), <marquage
-            typemarq="italique"
-            >" Thinking, Feeling and Being " </marquage>(The New Library of Psychoanalysis, London, 1988), " <marquage
-            typemarq="italique"
-            >L’inconscio come insieme infiniti "</marquage> (Einaudi, Torino, 1981), <marquage
-            typemarq="italique"
-            >"Preludi della bi-logica, 1-2, Riflessioni sulla psicodinamica" </marquage>(Liguori,  Napoli, 2003), etc.</alinea>
+	 Matte Blanco est l’auteur de nombreux livres en espagnol, en anglais et en italien, notamment <marquage typemarq="italique">" Lo Psíquico y la Naturaleza Humana </marquage>", <marquage typemarq="italique">" Estudios de Psicología Dinámica" </marquage>(Editorial Universitaria, Universidad de Chile, 1952/1954), <marquage typemarq="italique">" Thinking, Feeling and Being " </marquage>(The New Library of Psychoanalysis, London, 1988), " <marquage typemarq="italique">L’inconscio come insieme infiniti "</marquage> (Einaudi, Torino, 1981), <marquage typemarq="italique">"Preludi della bi-logica, 1-2, Riflessioni sulla psicodinamica" </marquage>(Liguori,  Napoli, 2003), etc.</alinea>
       </note>
       <note id="sdfootnote16sym">
         <no>16</no>
@@ -746,8 +394,7 @@
       <note id="sdfootnote17sym">
         <no>17</no>
         <alinea>
-	 « Nous pouvons opposer à l’énoncé matteblanquien, l’énoncé suivant : l’éthique voit la relation inverse de n’importe quelle relation comme si elle n’était dans aucun cas identique à celle du départ. Autrement dit, elle tient compte des relations symétriques comme si elles étaient asymétriques. » M. Vitali Rosati, <marquage
-            typemarq="italique">Riflessione e trascendenza</marquage>, Ibid., p. 60.</alinea>
+	 « Nous pouvons opposer à l’énoncé matteblanquien, l’énoncé suivant : l’éthique voit la relation inverse de n’importe quelle relation comme si elle n’était dans aucun cas identique à celle du départ. Autrement dit, elle tient compte des relations symétriques comme si elles étaient asymétriques. » M. Vitali Rosati, <marquage typemarq="italique">Riflessione e trascendenza</marquage>, Ibid., p. 60.</alinea>
       </note>
       <note id="sdfootnote18sym">
         <no>18</no>
@@ -772,9 +419,7 @@
       <note id="sdfootnote22sym">
         <no>22</no>
         <alinea>
-	 Si on peut comprendre et accepter la métaphore du miroir en philosophie et en logique, ce recours « spéculaire » est beaucoup moins évident en psychologie. Par exemple, lorsque Lacan l’utilise pour parler du « stade du miroir » dans son interprétation de la psychanalyse freudienne, il abuse de la <marquage
-            typemarq="italique"
-          >Phénoménologie de l’Esprit  </marquage>en remplaçant la conscience de soi par un objet inanimé… fût-il le mieux poli et le plus étincelant des miroirs en argent.</alinea>
+	 Si on peut comprendre et accepter la métaphore du miroir en philosophie et en logique, ce recours « spéculaire » est beaucoup moins évident en psychologie. Par exemple, lorsque Lacan l’utilise pour parler du « stade du miroir » dans son interprétation de la psychanalyse freudienne, il abuse de la <marquage typemarq="italique">Phénoménologie de l’Esprit  </marquage>en remplaçant la conscience de soi par un objet inanimé… fût-il le mieux poli et le plus étincelant des miroirs en argent.</alinea>
       </note>
       <note id="sdfootnote23sym">
         <no>23</no>
@@ -784,9 +429,7 @@
       <note id="sdfootnote24sym">
         <no>24</no>
         <alinea>
-	 « Le système de l’Inconscient traite la relation inverse de n’importe quelle relation comme si elle était identique à la relation. Autrement dit, il traite les relations asymétriques comme si elles étaient symétriques. » Matte Blanco, <marquage
-            typemarq="italique"
-          >L’ inconscio come insieme infiniti</marquage>, Einaudi, Torino, 1981, cité par M. Vitali Rosati, Ibid., note 21, p. 59-60.</alinea>
+	 « Le système de l’Inconscient traite la relation inverse de n’importe quelle relation comme si elle était identique à la relation. Autrement dit, il traite les relations asymétriques comme si elles étaient symétriques. » Matte Blanco, <marquage typemarq="italique">L’ inconscio come insieme infiniti</marquage>, Einaudi, Torino, 1981, cité par M. Vitali Rosati, Ibid., note 21, p. 59-60.</alinea>
       </note>
       <note id="sdfootnote25sym">
         <no>25</no>
@@ -856,9 +499,7 @@
       <note id="sdfootnote38sym">
         <no>38</no>
         <alinea>
-	 On peut faire la comparaison avec le roman, fondé sur la représentation des images qui sont prises pour la réalité. Le roman « représente », tandis que l’intertexte « reflète ». (<liensimple
-            xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1007"
-            >Sens Public, Bakhtine, le roman et l’intertexte</liensimple>).</alinea>
+	 On peut faire la comparaison avec le roman, fondé sur la représentation des images qui sont prises pour la réalité. Le roman « représente », tandis que l’intertexte « reflète ». (<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1007">Sens Public, Bakhtine, le roman et l’intertexte</liensimple>).</alinea>
       </note>
       <note id="sdfootnote39sym">
         <no>39</no>
@@ -868,18 +509,13 @@
       <note id="sdfootnote40sym">
         <no>40</no>
         <alinea>
-	 C’est ce qui arrive dans le roman, que nous pourrions peut-être considérer, suivant la logique de la réflexion et de la transcendance, comme une forme réflexive inauthentique, où l’écrivain et le lecteur se trouvent irrémédiablement séparés. L’altérité n’est jamais trouvée. (<liensimple
-            xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1007"
-            >Sens Public, Bakhtine, le roman et l’intertexte</liensimple>
-          <liensimple xlink:type="simple"
-            xlink:href="http://www.sens-public.org/spip.php?article1007">)</liensimple>.</alinea>
+	 C’est ce qui arrive dans le roman, que nous pourrions peut-être considérer, suivant la logique de la réflexion et de la transcendance, comme une forme réflexive inauthentique, où l’écrivain et le lecteur se trouvent irrémédiablement séparés. L’altérité n’est jamais trouvée. (<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1007">Sens Public, Bakhtine, le roman et l’intertexte</liensimple>
+          <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1007">)</liensimple>.</alinea>
       </note>
       <note id="sdfootnote41sym">
         <no>41</no>
         <alinea>
-	 Dans l’intertexte, ouvert au lecteur-écrivain, l’altérité peut se consolider esthétiquement. Bien entendu, il ne s’agit ici que de simples analogies rendues possibles par la logique définie par Vitali Rosati. (<liensimple
-            xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1007"
-            >Sens Public, Bakhtine, le roman et l’intertexte</liensimple>).</alinea>
+	 Dans l’intertexte, ouvert au lecteur-écrivain, l’altérité peut se consolider esthétiquement. Bien entendu, il ne s’agit ici que de simples analogies rendues possibles par la logique définie par Vitali Rosati. (<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1007">Sens Public, Bakhtine, le roman et l’intertexte</liensimple>).</alinea>
       </note>
       <note id="sdfootnote42sym">
         <no>42</no>
@@ -919,9 +555,7 @@
       <note id="sdfootnote49sym">
         <no>49</no>
         <alinea>
-	 « En ce sens, l’homme est, principalement, écriture, concrétisation du langage. », Ibid., p.120. Cette proposition ouvre les portes à une véritable révolution dans la communication humaine en général, et dans la littérature en particulier : l’homme-communicant, notamment dans l’univers du numérique, cesse d’être un simple lecteur comme dans le roman, il peut devenir « lecteur-écrivain », comme dans l’intertexte. (<liensimple
-            xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1007"
-            >Sens Public, Bakhtine, le roman et l’intertexte</liensimple>).</alinea>
+	 « En ce sens, l’homme est, principalement, écriture, concrétisation du langage. », Ibid., p.120. Cette proposition ouvre les portes à une véritable révolution dans la communication humaine en général, et dans la littérature en particulier : l’homme-communicant, notamment dans l’univers du numérique, cesse d’être un simple lecteur comme dans le roman, il peut devenir « lecteur-écrivain », comme dans l’intertexte. (<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1007">Sens Public, Bakhtine, le roman et l’intertexte</liensimple>).</alinea>
       </note>
       <note id="sdfootnote50sym">
         <no>50</no>
@@ -931,11 +565,7 @@
       <note id="sdfootnote51sym">
         <no>51</no>
         <alinea>
-	 « Le commencement comme choix est une recherche pour mettre dans la fiction l’ordre manquant dans la réalité. Ceci est le début de l’écriture, le cri de l’homme qui veut retrouver sa substantialité au moins en commençant dans un sens traditionnel. », Ibid., note 22, p. 125. Dans le roman il y a un début et une fin. Dans l’intertexte, forme narrative ouverte, évolutive dans le temps, il n’y a ni commencement, ni fin préalablement fixés. Par exemple, dans tout <marquage
-            typemarq="italique"
-            >Faust </marquage> (inéluctablement intertextuel), le commencement est au-delà de son écriture, dans la légende de l’homme qui l’a inspirée, le Docteur Faust (Knittlingen 1480 - Staufen 1540 ). (<liensimple
-            xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1007"
-            >SP, Bakhtine, le roman et l’intertexte</liensimple>).</alinea>
+	 « Le commencement comme choix est une recherche pour mettre dans la fiction l’ordre manquant dans la réalité. Ceci est le début de l’écriture, le cri de l’homme qui veut retrouver sa substantialité au moins en commençant dans un sens traditionnel. », Ibid., note 22, p. 125. Dans le roman il y a un début et une fin. Dans l’intertexte, forme narrative ouverte, évolutive dans le temps, il n’y a ni commencement, ni fin préalablement fixés. Par exemple, dans tout <marquage typemarq="italique">Faust </marquage> (inéluctablement intertextuel), le commencement est au-delà de son écriture, dans la légende de l’homme qui l’a inspirée, le Docteur Faust (Knittlingen 1480 - Staufen 1540 ). (<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1007">SP, Bakhtine, le roman et l’intertexte</liensimple>).</alinea>
       </note>
       <note id="sdfootnote52sym">
         <no>52</no>
@@ -945,8 +575,7 @@
       <note id="sdfootnote53sym">
         <no>53</no>
         <alinea>
-	  « Le commencement demande toujours un passage entre mouvement et quiétude, un présent qui n’est pas encore présent, mais pas non plus futur. Toute origine et tout commencement sont toujours un "entre". Il faut voir comment interpréter cet "entre" », Ibid<marquage
-            typemarq="italique">.</marquage>, p. 124.</alinea>
+	  « Le commencement demande toujours un passage entre mouvement et quiétude, un présent qui n’est pas encore présent, mais pas non plus futur. Toute origine et tout commencement sont toujours un "entre". Il faut voir comment interpréter cet "entre" », Ibid<marquage typemarq="italique">.</marquage>, p. 124.</alinea>
       </note>
       <note id="sdfootnote54sym">
         <no>54</no>
@@ -956,9 +585,7 @@
       <note id="sdfootnote55sym">
         <no>55</no>
         <alinea>
-	 « C’est un ensemble de propositions qui trouvent leur origine dans une expression de l’Autre qui est passée par un "pour soi" autoréférentiel », Ibid., p. 132. Voici encore une analogie possible avec l’intertexte, forme narrative post-romanesque tissée avec un ensemble de citations qui trouvent leur origine dans l’expression de l’auteur cité. Cette expression est passée par un « pour soi » autoréférentiel, l’écrivain intertextuel, lequel n’aplatit pas sous lui l’écrivain cité (comme cela advient dans le plagiat), détruisant toute altérité. (<liensimple
-            xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1007"
-            >SP, Bakhtine, le roman et l’intertexte</liensimple>).</alinea>
+	 « C’est un ensemble de propositions qui trouvent leur origine dans une expression de l’Autre qui est passée par un "pour soi" autoréférentiel », Ibid., p. 132. Voici encore une analogie possible avec l’intertexte, forme narrative post-romanesque tissée avec un ensemble de citations qui trouvent leur origine dans l’expression de l’auteur cité. Cette expression est passée par un « pour soi » autoréférentiel, l’écrivain intertextuel, lequel n’aplatit pas sous lui l’écrivain cité (comme cela advient dans le plagiat), détruisant toute altérité. (<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1007">SP, Bakhtine, le roman et l’intertexte</liensimple>).</alinea>
       </note>
       <note id="sdfootnote56sym">
         <no>56</no>
@@ -968,8 +595,7 @@
       <note id="sdfootnote57sym">
         <no>57</no>
         <alinea>
-	 « Nous suivons une suggestion de Matte Blanco qui nous a inspiré les idées que nous allons proposer. Dans le même texte auquel nous faisions référence en parlant de la logique symétrique qui serait à la base du fonctionnement de l’Inconscient, Matte Blanco s’aperçoit d’un besoin analogue à celui que nous avons signalé […] : la nécessité de concilier le principe de non-contradiction avec la possibilité réelle de la contradiction », Ibid<marquage
-            typemarq="italique">.</marquage>, p. 143.</alinea>
+	 « Nous suivons une suggestion de Matte Blanco qui nous a inspiré les idées que nous allons proposer. Dans le même texte auquel nous faisions référence en parlant de la logique symétrique qui serait à la base du fonctionnement de l’Inconscient, Matte Blanco s’aperçoit d’un besoin analogue à celui que nous avons signalé […] : la nécessité de concilier le principe de non-contradiction avec la possibilité réelle de la contradiction », Ibid<marquage typemarq="italique">.</marquage>, p. 143.</alinea>
       </note>
       <note id="sdfootnote58sym">
         <no>58</no>
