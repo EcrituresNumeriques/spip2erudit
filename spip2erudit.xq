@@ -577,8 +577,8 @@ declare function strong($node as element(spip:strong)+, $options as map(*)) {
 declare function sup($node as element(spip:sup)+, $options as map(*)) {
   switch ($node)
   case ($node[fn:contains(@href, 'sym')]) return passthru($node, $options)
-  case (fn:normalize-space($node) != '') return <exposant>{ passthru($node, $options) }</exposant>
-  default return ()
+  case ($node[fn:normalize-space(.) != '']) return <exposant>{ passthru($node, $options) }</exposant>
+  default return ('bug')
 };
 
 declare function span($node as element(spip:span)+, $options as map(*)) {
