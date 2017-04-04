@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1223ear" typeart="autre" lang="fr" ordseq="1">
+  <admin>
+    <infoarticle>
+      <idpublic scheme="doi">null</idpublic>
+      <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
+        <descripteur>Arts et littérature</descripteur>
+        <descripteur>FRBNF119405056</descripteur>
+        <descripteur>Technology</descripteur>
+        <descripteur>Internet</descripteur>
+      </grdescripteur>
+      <nbpara>16</nbpara>
+      <nbmot>3764</nbmot>
+      <nbfig>0</nbfig>
+      <nbtabl>0</nbtabl>
+      <nbimage>0</nbimage>
+      <nbaudio>0</nbaudio>
+      <nbvideo>0</nbvideo>
+      <nbrefbiblio>0</nbrefbiblio>
+      <nbnote>0</nbnote>
+    </infoarticle>
+    <revue id="sp01868" lang="fr">
+      <titrerev>Sens public</titrerev>
+      <titrerevabr>sp</titrerevabr>
+      <idissnnum>2104-3272</idissnnum>
+      <directeur sexe="masculin">
+        <nompers>
+          <prenom>Marcello</prenom>
+          <nomfamille>Vitali-Rosati</nomfamille>
+        </nompers>
+      </directeur>
+    </revue>
+    <numero id="sp063">
+      <pub>
+        <annee>2016</annee>
+      </pub>
+      <pubnum>
+        <date typedate="publication">2016-03-18</date>
+      </pubnum>
+      <grtheme id="th">
+        <theme/>
+      </grtheme>
+    </numero>
+    <editeur>
+      <nomorg>Département des littératures de langue française</nomorg>
+    </editeur>
+    <prod>
+      <nomorg>Sens public</nomorg>
+    </prod>
+    <prodnum>
+      <nomorg>Sens public</nomorg>
+    </prodnum>
+    <diffnum>
+      <nomorg>Sens public</nomorg>
+    </diffnum>
+    <histpapier>
+      <alinea>néant</alinea>
+    </histpapier>
+    <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
+    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+  </admin>
+  <liminaire>
+    <grtitre>
+      <titre>Éditorialisation et littérature</titre>
+    </grtitre>
+    <grauteur>
+      <auteur id="spAuthor276">
+        <nompers>
+          <prenom>Roberto</prenom>
+          <nomfamille>Gac</nomfamille>
+        </nompers>
+      </auteur>
+    </grauteur>
+    <resume lang="fr">
+      <alinea> Depuis sa création, Sens public est apparu dans le champ des médias comme une structure à l'avant-garde de changements décisifs pour l'évolution de la société contemporaine. Son fonctionnement a permis que des démarches culturelles synergiques puissent coïncider en son sein, donnant lieu à « un réseau d'intelligences » qui s'élève au-dessus des lourdeurs institutionnelles surannées. C'est ainsi que des phénomènes comme l'éditorialisation et l'intertexte, nettement avant-gardistes, ont pu se rejoindre tout en multipliant leur potentiel de développement, aussi bien dans le monde de la communication que dans celui de la littérature.</alinea>
+    </resume>
+    <grmotcle lang="fr">
+      <motcle>focus</motcle>
+      <motcle>Arts et lettres</motcle>
+      <motcle>Édition, presse et médias</motcle>
+      <motcle>Roman</motcle>
+      <motcle>Technologies</motcle>
+      <motcle>Internet</motcle>
+      <motcle>Écritures numériques et éditorialisation</motcle>
+    </grmotcle>
+  </liminaire>
+  <corps>
+    <section1>
+      <para>
+        <alinea>En mars 2005, au Salon du Livre de Paris, comme seul et modeste ornement du stand de<marquage typemarq="italique">Sens public</marquage>, était affichée en taille « poster » une reproduction intégrale du Manifeste pour une Nouvelle Littérature, ponctuée d’un signe d’interrogation. Dans le texte on pouvait lire : « pas de nouvelle littérature sans nouvelle édition », phrase qui résumait la problématique peut-être centrale de l’évolution de la littérature contemporaine, notamment narrative, et de son produit emblématique, le roman. Dix ans plus tard, la réponse est là : la nouvelle édition, c’est l’<marquage typemarq="italique">éditorialisation</marquage>. Et la nouvelle forme narrative qui trouve son épanouissement grâce à l’éditorialisation, c’est l’<marquage typemarq="italique">intertexte.</marquage>Qu’est-ce que l’éditorialisation ? Deux réponses apparaissent, rappelant analogiquement Einstein et sa théorie de la relativité : celle, restreinte, de Marcello Vitali-Rosati, qui ne concerne principalement que le monde de l’édition ; l’autre, plus générale, de Gérard Wormser, qui englobe un ensemble beaucoup plus vaste de manifestations de l’univers du numérique. Commençons par cette dernière : « Nous nommons "éditorialisation" le processus d’explicitation dialogique qui permet aux groupes de structurer leurs échanges pour devenir acteurs des réseaux de connaissance », note Wormser dans son invitation au colloque « Mondialisation et Editorialisation » (Salon Dionys’Hum, 2015). Allons maintenant vers la définition la plus restreinte, celle qui se limite au monde de l’édition : « On peut définir l’éditorialisation comme un ensemble d’appareils techniques (le réseau, les serveurs, les plateformes, les CMS, les algorithmes des moteurs de recherche), de structures (l’hypertexte, le multimédia, les métadonnées), de pratiques (l’annotation, les commentaires, les recommandations via les réseaux sociaux) qui permet de produire et d’organiser un contenu sur le web<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi> », propose Vitali-Rosati.</alinea>
+      </para>
+      <para>
+        <alinea>Dans mon essai « <liensimple xlink:type="simple" xlink:href="/spip.php?article1007">Bakhtine, le roman et l’intertexte</liensimple>
+          <renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> », j’ai tenté d’établir la différence entre ces deux modalités de la littérature narrative, l’intertexte étant en quelque sorte, d’un point de vue esthétique, la suite du roman, forme littéraire prédominante depuis l’invention de l’imprimerie au XVe siècle. L’émergence de nouvelles technologies autour de l’écriture et de la lecture a rendu possible un bouleversement fondamental du roman traditionnel, forme narrative esthétiquement fermée, tout en préparant la voie à une forme ouverte, l’intertexte. Parlant de l’éditorialisation, Vitali-Rosati précise que celle-ci est « une instance de mise en forme et de structuration d’un contenu qui ne se limite pas à un contexte fermé et bien délimité (une revue, par exemple), ni à un groupe d’acteurs prédéfini (les éditeurs), mais qui implique une ouverture dans l’espace (plusieurs plateformes) et dans le temps (plusieurs acteurs et sans limitation de date). Cette ouverture est une des principales différences entre l’édition et l’éditorialisation<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi> ». Or, on pourrait dire quelque chose d’analogue sur le roman, limité par son contexte fermé, dépendant pour sa diffusion d’un groupe prédéfini d’acteurs (les éditeurs), tandis que l’intertexte implique une ouverture dans l’espace (références à plusieurs œuvres) et dans le temps (intervention sur le texte toujours possible), indépendamment d’un groupe d’acteurs défini préalablement. Cette ouverture constitue, dans sa formulation esthétique, l’une des principales différences entre le roman et l’intertexte en tant que formes de la littérature narrative.</alinea>
+      </para>
+      <para>
+        <alinea>Rappelons brièvement, pour clarifier les choses, l’évolution de la littérature narrative depuis l’invention de l’imprimerie. Jusqu’à Gutenberg, le « roman » (on appelait ainsi, depuis le XIIe siècle, les longues narrations en vers comme le<marquage typemarq="italique">Roman de la Rose</marquage>) était laborieusement calligraphié par des copistes professionnels pour assurer la diffusion du manuscrit original. L’auteur était conscient de cette limitation et il choisissait, logiquement, la narration en vers, plus resserrée et moins laborieuse à reproduire que le récit en prose. Grâce à cette « technologie » de l’époque, l’œuvre de Guillaume de Lorris et de Jean de Meung atteignit un tirage d’environ 250 exemplaires en un siècle et demi, deuxième best-seller du Moyen Age après<marquage typemarq="italique">La Divine Comédie</marquage>, vendue à plus de 400 exemplaires entre la date de sa création au début du XIIIe siècle et l’invention de l’imprimerie vers 1450.</alinea>
+      </para>
+      <para>
+        <alinea>À partir de cette date, les romanciers auraient à leur disposition un outil révolutionnaire qui leur permettrait d’écrire en prose sans être contraints par les limites de la versification, et de diffuser leurs œuvres à des milliers d’exemplaires. François Rabelais n’en finira pas de se féliciter d’avoir eu la chance de compter sur l’invention de Gutenberg, laquelle permit l’écriture et la diffusion de sa volumineuse pentalogie, les<marquage typemarq="italique">Cinq Livres</marquage>qui racontent les aventures de Gargantua et de Pantagruel (1532-1552). Le roman moderne prenait ainsi naissance, aboutissant à des sommets comme<marquage typemarq="italique">Don Quijote de la Mancha</marquage>au début du XVIIe siècle (1605), fulgurant best-seller traduit rapidement en plusieurs langues européennes, ou<marquage typemarq="italique">Tristram Shandy</marquage>de Laurence Sterne au XVIIIe (1759), avant d’entrer dans le siècle romanesque par excellence, le XIXe, où le roman (français, surtout) allait profiter des améliorations techniques de l’imprimerie imposées par le développement de la presse et l’apparition de la linotype vers 1885. Viendrait ensuite notre XXe siècle avec le remplacement graduel de la linotypie par la photocomposition, procédé qui allait favoriser, entre autres, l’apparition des « best-sellers d’hypermarché », tirés à des millions d’exemplaires.</alinea>
+      </para>
+      <para>
+        <alinea>Le roman moderne est donc tributaire de l’imprimerie, non seulement en ce qui concerne sa publication et sa diffusion, mais aussi d’un point de vue esthétique. Rabelais exultait car la nouvelle technique lui permettait d’écrire de longues tirades en prose et de jouer avec le langage en allant jusqu’à s’essayer, avec une délicieuse drôlerie, au plurilinguisme. Et Laurence Sterne, romancier largement « intertextuel » (Cervantès fut l’un de ses maîtres, souvent cité dans ses textes, comme lui-même sera cité largement par Diderot dans<marquage typemarq="italique">Jacques le Fataliste</marquage>), joue à merveille des possibilités formelles offertes par les imprimantes de son époque : petits dessins, pages noires, pages blanches, caractères typographiques insolites, polices d’écriture variées, etc. Mais en dépit de toutes ces audaces, qui vont se développer de plus en plus jusqu’au XXe siècle pour culminer dans<marquage typemarq="italique">Finnegans Wake</marquage>de James Joyce, la structure narrative du roman reste fermée. D’un côté il y a l’auteur, de l’autre, le lecteur, tous deux irrémédiablement séparés. Tout au plus, le lecteur possède-t-il la liberté imaginaire de fantasmer et de s’identifier avec les personnages inventés par l’auteur et, à la rigueur, de dialoguer avec celui-ci dans sa fantaisie. Mais écriture et lecture restent séparées par une barrière infranchissable : le livre imprimé, matériellement inerte.</alinea>
+      </para>
+      <para>
+        <alinea>Gogol, le romancier disciple de Pouchkine, voulut changer cet état de choses en s’adressant aux lecteurs, auxquels il demandait de s’introduire dans ses textes non seulement pour les commenter, mais aussi pour les corriger et les enrichir. Au XXe siècle, l’écrivain argentin Julio Cortázar tenta, lui aussi, de sortir des limites fermées du roman en écrivant<marquage typemarq="italique">Rayuela</marquage>(Marelle) ou<marquage typemarq="italique">62, modelo para armar</marquage>(62, maquette à monter), « antiromans » où il invite le lecteur à décider lui-même de la succession des chapitres et de son parcours de lecture. Mais, comme pour Gogol, sa tentative d’intéresser le lecteur à la création littéraire, voire à l’écriture, est restée sans lendemain en l’absence d’un processus technique adéquat. Ce processus technique existe désormais : c’est l’éditorialisation, dont une des qualités révolutionnaires est celle de rendre franchissable la barrière entre l’écrivain et son lecteur, lequel, de lecteur « passif » dans le cas du roman, peut devenir lecteur « actif » (ou lecteur-écrivain) dans le cas de l’intertexte<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Bien entendu, si les moyens techniques ont une influence indéniable sur l’évolution de la littérature narrative (« les techniques conditionnent la structure de la pensée », note Vitali-Rosati, citant Bruno Bachimont), celle-ci obéit avant tout aux règles purement esthétiques qui déterminent les caractéristiques de la narration. L’une de ces caractéristiques structurelles, c’est l’intertextualité. Celle-ci a été définie dans la deuxième moitié du XXe siècle par des sémiologues européens (Genette, Barthes, Kristeva, Todorov) mais, comme nous l’avons confirmé lors des débats organisés par<liensimple xlink:type="simple" xlink:href="http://roberto-gac.com/presentation/evenements/item/180-vald-2006">
+            <marquage typemarq="italique">Sens public</marquage>au château de Valderrobles</liensimple>, l’intertextualité est une donnée de la haute littérature depuis toujours (<marquage typemarq="italique">Eneide/Iliade, Eneide/Divine Comédie, Ulysse/ Odyssée</marquage>, etc.).</alinea>
+      </para>
+      <para>
+        <alinea>Peut-être l’exemple le plus frappant est-il celui de<marquage typemarq="italique">Faust</marquage>. L’origine de la légende du Docteur Faust date à peu près du début du XVIe siècle et sa première textualisation correspond au<marquage typemarq="italique">Volksbuch von</marquage>
+          <marquage typemarq="italique">Doktor Johann Faust</marquage>, ouvrage édité et présenté en 1587 à la Foire du Livre de Frankfurt. Depuis lors, les versions de la légende vont se multiplier (Marlowe, Lessing, Goethe, Lenau, Pessoa, Mann, Boulgakov, Valéry, Butor, etc.), dépassant le cadre de la littérature et envahissant celui de la musique (Berlioz, Gounod, Busoni, etc.), de la peinture (Rembrandt, Delacroix, Scheffer, etc.) du cinéma (Murnau, Yuzna, Sokourov, etc.) et même de la télévision (Pauwels). Le mécanisme de base de la prolifération littéraire de la légende, c’est l’intertextualité (dans les autres cas nous parlerons, comme au château de Valderrobres,<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/article.php3?id_article=376">d’interpicturalité, d’intermusicalité</liensimple>, d’intercinématographie). Or, si l’intertextualité est déjà couramment décelable à l’époque de l’imprimerie, atteignant son point culminant avec<marquage typemarq="italique">Uysses</marquage>de James Joyce (œuvre construite entièrement, chapitre par chapitre, en intertextualité avec l’<marquage typemarq="italique">Odyssée</marquage>), ce n’est que maintenant, propulsée par l’écriture électronique, qu’elle a évolué jusqu’à produire un nouveau genre narratif, l’intertexte, structuré fondamentalement sur le « dialogue » entre les textes, le dialogisme intertextuel. C’est le cas de<marquage typemarq="italique">La Société des Hommes Célestes</marquage>
+          <marquage typemarq="italique">(Un Faust Latino-américain)</marquage>, intertexte tissé avec de nombreux<marquage typemarq="italique">Faust</marquage>classiques et publié en 2005 dans sa version papier par<marquage typemarq="italique">Sens public</marquage>(réédition Create Space 2012<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>). La version partiellement<liensimple xlink:type="simple" xlink:href="http://roberto-gac.com/textes-en-lignes/SHC/">éditorialisée</liensimple>
+          <renvoi idref="sdfootnote6sym" typeref="note">6</renvoi> est accessible sur le site<liensimple xlink:type="simple" xlink:href="http://www.roberto-gac.com/">www.roberto-gac.com</liensimple>.</alinea>
+      </para>
+      <para>
+        <alinea>L’intertextualité implique l’ouverture d’un texte à un autre texte, et plus le jeu intertextuel est explicite, plus on s’éloigne du roman conventionnel. Le roman imprimé, fermé et matériellement inerte face au lecteur, s’accommode mal de la méthode intertextuelle. Dans la plupart des cas, les références intertextuelles sont d’ordre purement métaphoriques et non pas métonymiques, comme c’est la règle de base dans l’intertexte (la métaphore n’est pas exclue, bien entendu). Souvent les références du romancier aux autres textes sont inconscientes, involontaires et parfois dissimulées, comme dans le plagiat, modalité frauduleuse et inférieure de l’intertextualité. L’édition traditionnelle favorise ce type de narrative fondé sur le dialogisme imaginaire, inhérent au roman. Par contre, dans l’intertexte le procédé métonymique ouvre la voie au dialogisme matériel entre des textes expressément mis en relation. La fiction intertextuelle se détache du niveau illusoire et subjectif qui caractérise la fiction romanesque. Le roman, surtout le roman contemporain le plus en vogue<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>, cherche - comme jadis le roman de chevalerie dénoncé par Cervantès – à « faire rêver » le lecteur, à lui permettre de « s’évader de la réalité ». La fiction romanesque, pur caprice subjectif du romancier, est coupée de tout contrôle, elle est livrée à elle-même et à tous les dérapages possibles, y compris pathologiques, comme dans un délire paranoïaque<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi>. Dans l’intertexte, la fiction est soumise au dialogue intertextuel et à sa dimension collective, elle cherche à entrer (comme Gogol le rêvait et Cortázar le voulait) dans la sphère de la conscience objective en compagnie du lecteur-actif, du lecteur-écrivain, et lui propose non pas les moyens trompeurs d’une évasion éphémère de la souffrance existentielle, mais le chemin d’une éventuelle compréhension de l’être<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Pour sa part, l’édition conventionnelle, qui fait l’éloge de la « liberté de création » revendiquée par les romanciers, soumet en réalité l’écrivain aux lois et aux limites du marché littéraire, tandis que l’éditorialisation libère sa créativité et lui permet de s’épanouir sans autres contraintes que celles imposées par le développement de l’œuvre à accomplir. Les limites formelles du roman sont désormais surmontables esthétiquement grâce à l’intertexte et à ce qui deviendra, à n’en pas douter, son moyen habituel de diffusion, l’éditorialisation, tous deux phénomènes synergiques et révolutionnaires et, de ce fait, marginalisés ou minimisés par les acteurs institutionnels, toujours en place, du monde de l’édition et de la communication. Cette résistance à la nouveauté technique et esthétique est d’autant plus considérable qu’il s’agit de préserver le flux des capitaux et la stabilité du marché littéraire appuyée sur le roman et ses « best-sellers », glorifiés inlassablement par les médias. « Les œuvres singulières ont-elles encore une chance ou bien la soumission logique aux produits marchandisés est-elle le préalable de toute reconnaissance ? », s’interroge Gérard Wormser dans « Mondialisation et Éditorialisation ». Si l’intertexte et l’éditorialisation ont en commun l’ouverture esthétique et technique, impossible dans le cas du roman et de l’édition conventionnelle, ils partagent aussi une nouvelle conception de l’auteur et de la création. Le roman est le produit, en principe, d’un individu, le romancier, et il est diffusé par un autre individu, l’éditeur (en réalité, derrière eux se cachent, dans une totale abnégation, une foule de collaborateurs anonymes). Toute dimension de travail collectif est plus ou moins occultée, effacée, oubliée. L’intertexte, dans la mesure où il est ouvert métonymiquement à d’autres textes, s’ouvre nécessairement aux auteurs cités. Il est donc collectif par définition. Bien entendu, cela implique que l’intertextualité soit esthétiquement explicite, il faut le répéter. Sans quoi, la dimension collective disparaît et la qualité esthétique s’en ressent nécessairement. C’est, en quelque sorte, ce que Joyce a voulu souligner en nommant<marquage typemarq="italique">Ulysse</marquage>son intertexte précurseur tissé autour de l’<marquage typemarq="italique">Odyssée</marquage>. Or, la dimension collective ne peut être que renforcée et perfectionnée par l’éditorialisation, laquelle, contrairement à l’édition, ne dépend pas d’un individu-éditeur, maître d’un mécanisme de diffusion scellé et cacheté d’après ses intérêts individuels, mais d’un ensemble d’acteurs.</alinea>
+      </para>
+      <bloccitation>
+        <alinea>
+          <para>
+            <alinea>L’ouverture de l’éditorialisation par rapport à l’édition papier implique une certaine perte de contrôle de l’éditeur sur les contenus. On pourrait dire que l’éditeur ne représente plus qu’une partie de l’instance éditoriale qui est devenue beaucoup plus large. Cette ouverture est ce qui relie l’éditorialisation à une forme particulière de circulation du savoir et des contenus en général : une forme en réseau, disséminée et fragmentaire. L’éditorialisation produit une sorte d’intelligence en réseau – ou un réseau d’intelligences. Le concept d’éditorialisation renvoie donc à une dimension collective du savoir,</alinea>
+          </para>
+        </alinea>
+      </bloccitation>
+      <para>
+        <alinea>souligne Vitali-Rosati (cf. note 1). « Et à une dimension collective de la littérature », pourrait-on ajouter.</alinea>
+      </para>
+      <para>
+        <alinea>Toutefois, la dimension collective de l’intertexte et de l’éditorialisation n’exclut pas la dimension individuelle de la création, bien au contraire. En effet, toute véritable collectivité est faite de véritables individualités, et l’épanouissement collectif ne peut qu’assurer l’épanouissement individuel – et vice-versa. Dans l’univers romanesque traditionnel, l’aspect collectif est souvent réduit au travail accompli par les employés des maisons d’éditions (réécritures, corrections des manuscrits, maquettes, etc.) et au « succès éditorial », autrement dit, au nombre d’exemplaires vendus par les libraires, aux critiques commandées aux journalistes et aux prix littéraires octroyés par des jurys soumis aux goûts et aux exigences du marché.</alinea>
+      </para>
+      <para>
+        <alinea>Nous traversons, de toute évidence, une étape de transition, aussi bien en ce qui concerne l’intertexte que l’éditorialisation. Mais l’éditorialisation, comme l’intertexte, se développe par paliers. On pourrait parler, à la rigueur, de « degrés » d’éditorialisation, comme on peut parler de degrés d’intertextualité dans un intertexte. À cet égard, mon expérience avec<liensimple xlink:type="simple" xlink:href="http://roberto-gac.com/ecrits/espanol/libros/madre-montana-jazmin-cronica-de-1973i">
+            <marquage typemarq="italique">Madre/ Montaña / Jazmín (Crónica de 1973)</marquage>
+          </liensimple>me semble significative. Le récit raconte les luttes d’indépendance des peuples latino-américains contre l’empire espagnol au XIXe siècle et contre l’empire états-unien au XXe siècle. Écrit en espagnol, le texte est parsemé de plans de bataille et il a été rédigé en intertextualité avec<marquage typemarq="italique">La Mère</marquage>de Gorki,<marquage typemarq="italique">La Montagne Magique</marquage>de Thomas Mann et la<marquage typemarq="italique">Comarca del Jazmín</marquage>du poète chilien Oscar Castro. Construit en tenant compte des définitions du carré et de la spirale selon Klee et Kandinsky, utilisant le rouge pour le récit politique et le bleu pour le récit érotique qui lui sert de contrepoint, cet intertexte présentait des difficultés évidentes pour son édition papier traditionnelle. L’édition numérique s’imposait, car<marquage typemarq="italique">on édite un roman, mais on éditorialise un intertexte</marquage>. Malheureusement, la tâche semblait au-dessus des moyens techniques disponibles en France à ce moment-là (2009). C’est alors que je découvris Create Space USA, la structure d’autoédition numérique d’Amazon<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>. Je constatai que, de la même façon que l’intertexte et l’éditorialisation ouvrent au « lecteur » la possibilité de devenir « auteur », l’autoédition numérique ouvre à l’« auteur » la possibilité de devenir « éditeur »<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>. En très peu de temps, l’intertexte<liensimple xlink:type="simple" xlink:href="http://roberto-gac.com/ecrits/espanol/libros/madre-montana-jazmin-cronica-de-1973i">
+            <marquage typemarq="italique">Madre/Montaña/Jazmín</marquage>
+          </liensimple>était publié exactement comme je le voulais et, en plus, distribué mondialement par Amazon.com. Publication d’ailleurs programmée en coïncidence voulue avec les célébrations du bicentenaire de l’indépendance de l’Amérique Latine (2010). Ce fut pour moi une expérience très éclairante, car je compris que la création littéraire peut se prolonger esthétiquement à l’édition elle-même. L’autoédition, outre la grande liberté de choix formels qu’elle offre à l’écrivain, liberté pratiquement inexistante dans l’édition traditionnelle (laquelle exècre et exclut l’auteur-éditeur, cela va de soi), permet aussi de s’introduire dans un texte et de le corriger aisément même après sa publication, c’est-à-dire au-delà du temps et de l’espace… comme le précise Vitali-Rosati quand il décrit les caractéristiques de l’éditorialisation. L’autoédition d’une œuvre n’est nullement une solution de facilité temporaire et rudimentaire, dans l’attente que le texte soit récupéré par un éditeur conventionnel « comme il faut » (selon le jargon des journalistes littéraires), mais un élément décisif dont il faut absolument tenir compte dans la théorisation et le développement pratique de l’éditorialisation. En effet, aussi bien le « lecteur » que « l’auteur » peuvent participer activement, en tant qu’éditorialistes virtuels, au réseau éditorial. Nous pouvons dire que c’est déjà le cas dans la mesure où les « plateformes » numériques utilisées dans les expériences en cours répondent au concept de la « self-edition », ainsi que les blogues et les sites personnels. Par conséquent, les acteurs de la triade traditionnelle « [éditeur] [auteur] [lecteur] », où les trois « individus » du phénomène littéraire restent séparés dans une passivité structurelle (le lecteur est passif par rapport à l’auteur, l’auteur passif par rapport à l’éditeur et celui-ci passif par rapport à la création littéraire à proprement parler), s’intègrent collectivement et activement dans un même « réseau d’intelligences » comme le veut techniquement le processus de l’éditorialisation… et esthétiquement l’intertexte. L’un est la meilleure preuve de l’existence et de la nécessité de l’autre : la relation entre technologie et culture est incontournable.</alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <note id="sdfootnote1sym">
+        <no>1</no>
+        <alinea>Marcello Vitali-Rosati, « <liensimple xlink:type="simple" xlink:href="http://blog.sens-public.org/marcellovitalirosati/editorialization-research-review/">Editorialization : Research Review</liensimple> »,<marquage typemarq="italique">Culture Numérique,</marquage>
+          <liensimple xlink:type="simple" xlink:href="http://blog.sens-public.org/marcellovitalirosati/editorialization-research-review/">http://blog.sens-public.org/marcellovitalirosati/editorialization-research-review/</liensimple>, dernier accès le 13-10-2015.</alinea>
+      </note>
+      <note id="sdfootnote2sym">
+        <no>2</no>
+        <alinea>Roberto Gac, « Bakhtine, le roman et l’intertexte »,<marquage typemarq="italique">
+            <liensimple xlink:type="simple" xlink:href="http://roberto-gac.com/lintertexte/bakhtine-roman-intertexte">Pour une Nouvelle Littérature</liensimple>,</marquage>CreateSpace Independant Publishing Platform, 2013, p. 35-126.</alinea>
+      </note>
+      <note id="sdfootnote3sym">
+        <no>3</no>
+        <alinea>Marcello Vitali-Rosati,<marquage typemarq="italique">op</marquage>.<marquage typemarq="italique">cit</marquage>.</alinea>
+      </note>
+      <note id="sdfootnote4sym">
+        <no>4</no>
+        <alinea>Pour les notions de « lecteur passif », « lecteur actif » et « lecteur-écrivain », voir Roberto Gac, « Bakthine, le roman et l’intertexte »,<marquage typemarq="italique">
+            <liensimple xlink:type="simple" xlink:href="http://roberto-gac.com/lintertexte/bakhtine-roman-intertexte">Pour une Nouvelle Littérature</liensimple>,</marquage>p. 91-98.</alinea>
+      </note>
+      <note id="sdfootnote5sym">
+        <no>5</no>
+        <alinea>Roberto Gac,<marquage typemarq="italique">,</marquage>édition Sens Public, Paris, 2005.</alinea>
+      </note>
+      <note id="sdfootnote6sym">
+        <no>6</no>
+        <alinea>Actuellement, seul la dernière partie de<marquage typemarq="italique">La Société des Hommes Célestes,<liensimple xlink:type="simple" xlink:href="http://roberto-gac.com/textes-en-lignes/Chateau/chateau.htm">Le Château de Méphistophélès ou L’Examen de Faustologie</liensimple>
+          </marquage>, a été intégralement éditorialisé (2005/2006).</alinea>
+      </note>
+      <note id="sdfootnote7sym">
+        <no>7</no>
+        <alinea>« Romans en vogue » : Van Gogh aurait dit « <liensimple xlink:type="simple" xlink:href="https://books.google.fr/books?id=NfziAAAAQBAJ&amp;pg=PA67&amp;lpg=PA67&amp;dq=Van+Gogh+Museum+in+Amsterdam+les+romans+parisiens&amp;source=bl&amp;o#v=onepage&amp;q=Van%20Gogh%20Museum%20in%20Amsterdam%20les%20romans%20parisiens&amp;f=false">Romans parisiens</liensimple> », titre qu’il a donné à son célèbre tableau où apparaissent des piles de livres identiques, sans aucun attrait particulier. Bien sûr, le « roman historique » et le « roman reportage » pourraient être considérés comme des exceptions, mais au fond le mécanisme de la fiction y est toujours illusoire et subjectif.</alinea>
+      </note>
+      <note id="sdfootnote8sym">
+        <no>8</no>
+        <alinea>Hubert Haddad, romancier de la Nouvelle Fiction, reconnaît que pour écrire un « vrai » roman, l’écrivain doit accepter d’être fou. En vérité, entre un délire paranoïaque bien structuré et un roman ordinaire, la seule distance, c’est l’écriture.</alinea>
+      </note>
+      <note id="sdfootnote9sym">
+        <no>9</no>
+        <alinea>Cette incapacité formelle du roman est peut-être l’une des raisons qui poussa Jean-Paul Sartre à quitter l’écriture romanesque pour choisir le chemin de la philosophie.</alinea>
+      </note>
+      <note id="sdfootnote10sym">
+        <no>10</no>
+        <alinea>Je suis bien obligé, en dépit de ma méfiance envers les entreprises multinationales, de faire référence à CreateSpace… à l’instar des romanciers parlant de leurs éditeurs. Les pourfendeurs des nouvelles technologies de l’édition se trouvent souvent parmi les romanciers, chaudement soutenus par la presse et par les éditeurs conventionnels. Jonathan Franzen, l’un des écrivains étendards de l’intelligentsia américaine (il a fait la « une » de Time Magazine avec son best-seller Freedom), à propos duquel tous les critiques sérieux s’accordent à reconnaître le style rétrograde, genre 19e siècle, affirme, dans un entretien au journal espagnol El País (7 oct, 2015), qu’ « Internet tue le journalisme » et que la soi-disant « démocratie digitale » est une « bêtise ». Il dénonce aussi les grandes plateformes d’Internet (Amazon, Google, Facebook, etc.), dont la richesse « obscène » ne serait que le produit du travail gratuit fourni par les usagers eux-mêmes, véritables dindons de la farce technologique. Bref. S’il est vrai qu’un dysfonctionnement sournois menace les acquis des nouvelles technologies, il est évident qu’un dispositif comme celui de l’autoédition style Create Space, invraisemblablement « démocratique », implique un progrès considérable par rapport à l’édition conventionnelle, fondée sur la division du travail. L’édition prétendument « littéraire » est réservée à une élite soigneusement choisie, cloisonnée et protégée, celle qui va dans le sens de l’esthétique et de l’éthique bourgeoises. Bien sûr, pour mieux saisir le phénomène dans tous ses aspects et sortir de l’abstraction spéculative, il faut essayer et pratiquer la nouvelle technique, laquelle est valable en soi, indépendamment d’Amazon, des multinationales et du commerce en général. Cela dit, l’autoédition en elle-même ne suffit pas pour changer les données de la littérature devenue « parole putanisée ». Néanmoins, elle peut aider à mettre fin aux dérives commerciales de l’édition actuelle et favoriser l’essor d’une esthétique indépendante des valeurs prônées par les « Grands Patrons » de l’industrie éditoriale. Le processus de l’éditorialisation ne peut pas ignorer ce nouveau phénomène, bien au contraire, il devrait l’incorporer pour potentialiser son développement et son expansion culturelle.</alinea>
+      </note>
+      <note id="sdfootnote11sym">
+        <no>11</no>
+        <alinea>Aucune comparaison possible avec l’édition « à compte d’auteur », financée par celui-ci et totalement conventionnelle. Malheureusement, maintes structures d’autoédition se rapprochent de plus en plus, pour des raisons commerciales, de l’édition « à compte d’auteur ».</alinea>
+      </note>
+    </section1>
+  </corps>
+  <partiesann/>
+</article>

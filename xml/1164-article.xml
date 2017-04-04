@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028815ar" typeart="essai" lang="fr" ordseq="1">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028815ar" typeart="Essais" lang="fr" ordseq="1">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -12,7 +12,7 @@
         <descripteur>Welby, Victoria (1837-1912)</descripteur>
       </grdescripteur>
       <nbpara>80</nbpara>
-      <nbmot>6846</nbmot>
+      <nbmot>6792</nbmot>
       <nbfig>6</nbfig>
       <nbtabl>0</nbtabl>
       <nbimage>6</nbimage>
@@ -23,7 +23,7 @@
     </infoarticle>
     <revue id="sp01868" lang="fr">
       <titrerev>Sens public</titrerev>
-      <titrerevabr>SP</titrerevabr>
+      <titrerevabr>sp</titrerevabr>
       <idissnnum>2104-3272</idissnnum>
       <directeur sexe="masculin">
         <nompers>
@@ -39,6 +39,9 @@
       <pubnum>
         <date typedate="publication">2015-09-24</date>
       </pubnum>
+      <grtheme id="th">
+        <theme/>
+      </grtheme>
     </numero>
     <editeur>
       <nomorg>Département des littératures de langue française</nomorg>
@@ -71,7 +74,7 @@
       </auteur>
     </grauteur>
     <resume lang="fr">
-      <alinea> Prenant le parti d’étudier la culture numérique émergente selon des rapports de continuité plutôt que de rupture, cet article envisage la question de l’auctorialité féminine sur le web au regard du mythe antique de Dibutade. Il semble en effet que Dibutade, en sa qualité de figure fondatrice de nombreuses pratiques artistiques, nous permet de porter un éclairage tout à fait intéressant sur la façon dont certaines bloggeuses affirment leur statut de femme auteur, jouant rôle majeur et moteur dans l'émergence et la reconnaissance d'une littérature numérique (conçue en ligne, publiée en ligne). Les analyses conduites dans cet article entendent souligner le potentiel esthétique de certaines pratiques d’écriture en ligne souvent ignorées par les études littéraires : les profils Facebook, les blogues érotiques voire pornographiques. </alinea>
+      <alinea> Prenant le parti d’étudier la culture numérique émergente selon des rapports de continuité plutôt que de rupture, cet article envisage la question de l’auctorialité féminine sur le web au regard du mythe antique de Dibutade. Il semble en effet que Dibutade, en sa qualité de figure fondatrice de nombreuses pratiques artistiques, nous permet de porter un éclairage tout à fait intéressant sur la façon dont certaines bloggeuses affirment leur statut de femme auteur, jouant rôle majeur et moteur dans l'émergence et la reconnaissance d'une littérature numérique (conçue en ligne, publiée en ligne). Les analyses conduites dans cet article entendent souligner le potentiel esthétique de certaines pratiques d’écriture en ligne souvent ignorées par les études littéraires : les profils Facebook, les blogues érotiques voire pornographiques.</alinea>
     </resume>
     <grmotcle lang="fr">
       <motcle>focus</motcle>
@@ -87,16 +90,14 @@
   <corps>
     <section1>
       <para>
-        <alinea>
-	L’expression « Dibutade 2.0 », mariage anachronique entre une figure mythologique apparue pour la première fois chez Pline l’ancien et le <marquage typemarq="italique">World Wide Web</marquage>, mérite sans doute quelques clarifications liminaires. Prenant le parti théorique et méthodologique, notamment défendu par Milad Doueihi<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>, d’étudier la culture numérique selon des rapports de continuité plutôt que de rupture, la relation que je cherche à tisser ici entre une forme d’auctorialité féminine à l’ère d’Internet et le mythe antique de Dibutade peut en effet paraître incongrue, sinon périlleuse. À ma connaissance, cet héritage n’a nullement été explicitement revendiqué par les écrivaines hypermédiatiques que j’aurai l’occasion de citer ou d’étudier plus en détails dans cet article. Il me semble pourtant que Dibutade, en sa qualité de figure fondatrice de l’art, éclaire sous un jour fort intéressant la réflexion générale sur l’auctorialité féminine, comme la question plus précise du déploiement de cette auctorialité à l’ère numérique. Passant pour l’une des premières femmes artistes, l’une des premières femmes auteurs, Dibutade est connue, rappelons-le, pour avoir tracé le profil de son amant contre un mur en suivant le contour de son ombre projetée. Cette esthétique du profil, ce jeu entre ombre et lumière, cette préoccupation mémorielle ou indicielle et, enfin, cette thématique amoureuse, ont permis à la jeune fille originaire de Corinthe de servir au cours de l’histoire de nombreux discours sur l’origine des arts visuels, depuis le bas-relief à la photographie, en passant par le dessin ou la peinture. Il va sans dire que cette anecdote en apparence féministe, qui veut que l’invention de l’art soit l’œuvre d’une jeune fille, a de quoi séduire : voilà de quoi redonner aux femmes, longtemps ignorées et peu représentées dans les discours sur l’art (sauf bien évidemment à titre de muse), une certaine légitimité en tant que créatrice – plutôt qu’inspiratrice. Dès lors, pourquoi ne pas décliner davantage la figure pour en faire la patronne de pratiques d’écriture numérique encore émergentes ?</alinea>
+        <alinea>L’expression « Dibutade 2.0 », mariage anachronique entre une figure mythologique apparue pour la première fois chez Pline l’ancien et le<marquage typemarq="italique">World Wide Web</marquage>, mérite sans doute quelques clarifications liminaires. Prenant le parti théorique et méthodologique, notamment défendu par Milad Doueihi<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>, d’étudier la culture numérique selon des rapports de continuité plutôt que de rupture, la relation que je cherche à tisser ici entre une forme d’auctorialité féminine à l’ère d’Internet et le mythe antique de Dibutade peut en effet paraître incongrue, sinon périlleuse. À ma connaissance, cet héritage n’a nullement été explicitement revendiqué par les écrivaines hypermédiatiques que j’aurai l’occasion de citer ou d’étudier plus en détails dans cet article. Il me semble pourtant que Dibutade, en sa qualité de figure fondatrice de l’art, éclaire sous un jour fort intéressant la réflexion générale sur l’auctorialité féminine, comme la question plus précise du déploiement de cette auctorialité à l’ère numérique. Passant pour l’une des premières femmes artistes, l’une des premières femmes auteurs, Dibutade est connue, rappelons-le, pour avoir tracé le profil de son amant contre un mur en suivant le contour de son ombre projetée. Cette esthétique du profil, ce jeu entre ombre et lumière, cette préoccupation mémorielle ou indicielle et, enfin, cette thématique amoureuse, ont permis à la jeune fille originaire de Corinthe de servir au cours de l’histoire de nombreux discours sur l’origine des arts visuels, depuis le bas-relief à la photographie, en passant par le dessin ou la peinture. Il va sans dire que cette anecdote en apparence féministe, qui veut que l’invention de l’art soit l’œuvre d’une jeune fille, a de quoi séduire : voilà de quoi redonner aux femmes, longtemps ignorées et peu représentées dans les discours sur l’art (sauf bien évidemment à titre de muse), une certaine légitimité en tant que créatrice – plutôt qu’inspiratrice. Dès lors, pourquoi ne pas décliner davantage la figure pour en faire la patronne de pratiques d’écriture numérique encore émergentes ?</alinea>
       </para>
     </section1>
     <section1>
-      <titre>
-	I. Aux origines de l’art, une fable féministe ? (Dibutade)</titre>
+      <titre>I. Aux origines de l’art, une fable féministe ? (Dibutade)</titre>
       <para>
         <alinea>
-	<figure>
+          <figure>
             <objetmedia flot="bloc">
               <image id="dibutade_Chateau_de_Versailles__salon_des_nobles__Dibutade_ou_l_Origine_de_la_peinture__Jean-Baptiste_Regnault.jpg" typeimage="figure" desc=""/>
             </objetmedia>
@@ -104,97 +105,75 @@
         </alinea>
       </para>
       <para>
-        <alinea>
-	Encore faut-il, avant toute chose, préciser les contours de la figure de Dibutade, cette héroïne problématique qui, il faut bien le reconnaître, bénéficie d’une présence aussi inconditionnelle qu’anecdotique dans la plupart des textes théoriques et critiques consacrés aux arts visuels depuis la fin de la Renaissance<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> : dans ces traités, le mythe des origines, justement, sert la plupart du temps avec efficacité différentes stratégies introductives sans faire l’objet de plus d’attention. Cette place liminaire mais limitée dans le discours sur l’art explique sans doute le manque de popularité d’une figure dont les lecteurs n’ont souvent qu’une connaissance approximative. Mais si Dibutade n’aura jamais eu l’aura des célèbres Méduse, Narcisse ou Pygmalion, omniprésents dans les écrits sur l’art, c’est peut-être avant tout parce qu’elle n’existe pas, tel que nous le fait remarquer Françoise Frontisi-Ducroux, qui lui a consacré plusieurs études très documentées<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>. Le texte de Pline dans lequel la jeune femme est mentionnée pour la toute première fois fait en effet office d’acte de naissance manqué :</alinea>
+        <alinea>Encore faut-il, avant toute chose, préciser les contours de la figure de Dibutade, cette héroïne problématique qui, il faut bien le reconnaître, bénéficie d’une présence aussi inconditionnelle qu’anecdotique dans la plupart des textes théoriques et critiques consacrés aux arts visuels depuis la fin de la Renaissance<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> : dans ces traités, le mythe des origines, justement, sert la plupart du temps avec efficacité différentes stratégies introductives sans faire l’objet de plus d’attention. Cette place liminaire mais limitée dans le discours sur l’art explique sans doute le manque de popularité d’une figure dont les lecteurs n’ont souvent qu’une connaissance approximative. Mais si Dibutade n’aura jamais eu l’aura des célèbres Méduse, Narcisse ou Pygmalion, omniprésents dans les écrits sur l’art, c’est peut-être avant tout parce qu’elle n’existe pas, tel que nous le fait remarquer Françoise Frontisi-Ducroux, qui lui a consacré plusieurs études très documentées<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>. Le texte de Pline dans lequel la jeune femme est mentionnée pour la toute première fois fait en effet office d’acte de naissance manqué :</alinea>
       </para>
       <bloccitation>
-        <alinea>
-	En voilà assez et plus qu’il n’en faut sur la peinture. Il serait convenable d’y rattacher ce qui concerne le modelage. En utilisant lui aussi la terre, le potier Butades de Sicyone, découvrit le premier l’art de modeler des portraits en argile ; cela se passait à Corinthe, et il dut son invention à sa fille [filia opera], qui était amoureuse d’un jeune homme ; celui-ci partant pour l’étranger, elle entoura d’une ligne l’ombre de son visage projetée sur le mur par la lumière d’une lanterne ; son père appliqua de l’argile sur l’esquisse, et en fit un relief qu’il mit à durcir au feu avec le reste de ses autres poteries, après l’avoir fait sécher ; cette œuvre, dit-on, fut conservée au Nymphaeum jusqu’à l’époque du sac de Corinthe par Mummius<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>.</alinea>
+        <alinea>En voilà assez et plus qu’il n’en faut sur la peinture. Il serait convenable d’y rattacher ce qui concerne le modelage. En utilisant lui aussi la terre, le potier Butades de Sicyone, découvrit le premier l’art de modeler des portraits en argile ; cela se passait à Corinthe, et il dut son invention à sa fille [filia opera], qui était amoureuse d’un jeune homme ; celui-ci partant pour l’étranger, elle entoura d’une ligne l’ombre de son visage projetée sur le mur par la lumière d’une lanterne ; son père appliqua de l’argile sur l’esquisse, et en fit un relief qu’il mit à durcir au feu avec le reste de ses autres poteries, après l’avoir fait sécher ; cette œuvre, dit-on, fut conservée au Nymphaeum jusqu’à l’époque du sac de Corinthe par Mummius<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>.</alinea>
       </bloccitation>
       <para>
-        <alinea>
-	Ainsi, point de Dibutade chez Pline, mais une « fille de Butadès », potier de son état, à qui l’on devrait l’invention du bas-relief, de la <marquage typemarq="italique">plastice</marquage> ou figuration plastique, dans une œuvre réalisée à partir du profil que sa fille aura tracé sur un mur. Ce n’est qu’à la Renaissance que la jeune femme réapparaît en tant que <marquage typemarq="italique">Dibutade</marquage>, sans doute après déformation de la forme italienne ancienne « <marquage typemarq="italique">figlia di Butades</marquage>
-          <renvoi idref="sdfootnote5sym" typeref="note">5</renvoi> ». Un peu plus tard encore, le XVIII siècle consacre la figure de la jeune amoureuse sous une forme qui nous est désormais familière, d’abord au sein de traités consacrés à la peinture (dont elle est promue inventrice), puis dans des œuvres picturales ou littéraires globalement mineures – dès 1688, François le Bouyer de Fontennelle lui consacre un poème, « Dibutadis à Polémon » –, tandis que les peintres néoclassiques en feront un sujet de prédilection, comme on le constate avec Jean-Baptiste Regnault (1785) ou Joseph Benoît Suvée (1791) par exemple, qui signent chacun une version de <marquage typemarq="italique">Dibutade ou l’Origine de la peinture</marquage>.</alinea>
+        <alinea>Ainsi, point de Dibutade chez Pline, mais une « fille de Butadès », potier de son état, à qui l’on devrait l’invention du bas-relief, de la<marquage typemarq="italique">plastice</marquage>ou figuration plastique, dans une œuvre réalisée à partir du profil que sa fille aura tracé sur un mur. Ce n’est qu’à la Renaissance que la jeune femme réapparaît en tant que<marquage typemarq="italique">Dibutade</marquage>, sans doute après déformation de la forme italienne ancienne « <marquage typemarq="italique">figlia di Butades</marquage>
+          <renvoi idref="sdfootnote5sym" typeref="note">5</renvoi> ». Un peu plus tard encore, le XVIII<exposant>e</exposant>siècle consacre la figure de la jeune amoureuse sous une forme qui nous est désormais familière, d’abord au sein de traités consacrés à la peinture (dont elle est promue inventrice), puis dans des œuvres picturales ou littéraires globalement mineures – dès 1688, François le Bouyer de Fontennelle lui consacre un poème, « Dibutadis à Polémon » –, tandis que les peintres néoclassiques en feront un sujet de prédilection, comme on le constate avec Jean-Baptiste Regnault (1785) ou Joseph Benoît Suvée (1791) par exemple, qui signent chacun une version de<marquage typemarq="italique">Dibutade ou l’Origine de la peinture</marquage>.</alinea>
       </para>
       <para>
-        <alinea>
-	Depuis son invention tardive à partir d’un passage mal traduit – ou sur-traduit à dessein – de l’œuvre de Pline, le mythe de Dibutade n’aura donc cessé d’être reformulé et réinvesti en fonction des nouveaux enjeux de la représentation artistique. C’est ainsi que la jeune corinthienne s’est tout à la fois prêtée au discours sur le dessin, la gravure, la peinture, la sculpture, et même plus récemment au discours sur la photographie, dont elle rappellerait selon Derrida le principe d’indicialité :</alinea>
+        <alinea>Depuis son invention tardive à partir d’un passage mal traduit – ou sur-traduit à dessein – de l’œuvre de Pline, le mythe de Dibutade n’aura donc cessé d’être reformulé et réinvesti en fonction des nouveaux enjeux de la représentation artistique. C’est ainsi que la jeune corinthienne s’est tout à la fois prêtée au discours sur le dessin, la gravure, la peinture, la sculpture, et même plus récemment au discours sur la photographie, dont elle rappellerait selon Derrida le principe d’indicialité :</alinea>
       </para>
       <bloccitation>
-        <alinea>
-	Dibutade ne voit pas son amant, soit qu’elle lui tourne le dos, plus constante qu’un Orphée, soit qu’il lui tourne le dos ou que leurs regards ne puissent en tout cas se croiser […] : comme si voir était interdit pour dessiner, comme si on ne dessinait qu’à la condition de ne pas voir, comme si le dessin était une déclaration d’amour destinée ou ordonnée à l’invisibilité de l’autre, à moins qu’elle ne naisse de voir l’autre soustrait au voir. Que Dibutade, la main parfois guidée par Cupidon (un Amour qui voit et qui n’a pas ici les yeux bandés) suive alors les traits d’une ombre ou d’une silhouette, qu’elle dessine sur la paroi d’un mur ou sur un voile, dans tous les cas une skiagraphia, cette écriture de l’ombre, inaugure un art de l’aveuglement. La perception appartient dès l’origine au souvenir. Elle écrit, donc elle aime déjà dans la nostalgie. Détachée du présent de la perception, tombée de la chose même qui se partage ainsi, une ombre est une mémoire simultanée, la baguette de Dibutade est un bâton d’aveugle<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>.</alinea>
+        <alinea>Dibutade ne voit pas son amant, soit qu’elle lui tourne le dos, plus constante qu’un Orphée, soit qu’il lui tourne le dos ou que leurs regards ne puissent en tout cas se croiser […] : comme si voir était interdit pour dessiner, comme si on ne dessinait qu’à la condition de ne pas voir, comme si le dessin était une déclaration d’amour destinée ou ordonnée à l’invisibilité de l’autre, à moins qu’elle ne naisse de voir l’autre soustrait au voir. Que Dibutade, la main parfois guidée par Cupidon (un Amour qui voit et qui n’a pas ici les yeux bandés) suive alors les traits d’une ombre ou d’une silhouette, qu’elle dessine sur la paroi d’un mur ou sur un voile, dans tous les cas une skiagraphia, cette écriture de l’ombre, inaugure un art de l’aveuglement. La perception appartient dès l’origine au souvenir. Elle écrit, donc elle aime déjà dans la nostalgie. Détachée du présent de la perception, tombée de la chose même qui se partage ainsi, une ombre est une mémoire simultanée, la baguette de Dibutade est un bâton d’aveugle<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>.</alinea>
       </bloccitation>
       <para>
-        <alinea>
-	Dibutade est donc, pour reprendre l’expression de l’helléniste Françoise Frontisi-Ducroux, une « inventrice inventée » et, le moins que l’on puisse dire, c’est que cette invention n’est pas aussi féministe qu’elle le semble. Chez Pline, où elle n’est même pas nommée, la jeune fille est dépossédée de tout génie créateur au profit de son père, reconnu comme le véritable inventeur du bas-relief. Et si de leur côté les artistes classiques et néo-classiques remettent Dibutade au centre de l’histoire, c’est seulement pour en faire l’instrument des passions.</alinea>
+        <alinea>Dibutade est donc, pour reprendre l’expression de l’helléniste Françoise Frontisi-Ducroux, une « inventrice inventée » et, le moins que l’on puisse dire, c’est que cette invention n’est pas aussi féministe qu’elle le semble. Chez Pline, où elle n’est même pas nommée, la jeune fille est dépossédée de tout génie créateur au profit de son père, reconnu comme le véritable inventeur du bas-relief. Et si de leur côté les artistes classiques et néo-classiques remettent Dibutade au centre de l’histoire, c’est seulement pour en faire l’instrument des passions.</alinea>
       </para>
       <para>
-        <alinea>
-	Certains n’hésitent pas à dramatiser le récit fondateur – en soulignant la séparation entre les deux amants – tout en insistant sur le motif du caecus amor. Fontenelle, chez qui le jeune amant est baptisé pour l’occasion Polémon, fera ainsi dire à Dibutade :</alinea>
+        <alinea>Certains n’hésitent pas à dramatiser le récit fondateur – en soulignant la séparation entre les deux amants – tout en insistant sur le motif du caecus amor. Fontenelle, chez qui le jeune amant est baptisé pour l’occasion Polémon, fera ainsi dire à Dibutade :</alinea>
       </para>
       <para>
-        <alinea>
-	Alors en la suivant du bout d’une baguette,</alinea>
+        <alinea>Alors en la suivant du bout d’une baguette,</alinea>
       </para>
       <para>
-        <alinea>
-	Je trace une image de toi ;</alinea>
+        <alinea>Je trace une image de toi ;</alinea>
       </para>
       <para>
-        <alinea>
-	Une image, il est vrai, peu distincte, imparfaite,</alinea>
+        <alinea>Une image, il est vrai, peu distincte, imparfaite,</alinea>
       </para>
       <para>
-        <alinea>
-	Mais enfin charmante pour moi.</alinea>
+        <alinea>Mais enfin charmante pour moi.</alinea>
       </para>
       <para>
-        <alinea>
-	Dibutade, attentif à ce qu’Amour invente,</alinea>
+        <alinea>Dibutade, attentif à ce qu’Amour invente,</alinea>
       </para>
       <para>
-        <alinea>
-	Conçoit aussitôt le dessein</alinea>
+        <alinea>Conçoit aussitôt le dessein</alinea>
       </para>
       <para>
-        <alinea>
-	De tailler cette pierre en figure vivante,</alinea>
+        <alinea>De tailler cette pierre en figure vivante,</alinea>
       </para>
       <para>
-        <alinea>
-	Selon l’ébauche de ma main.</alinea>
+        <alinea>Selon l’ébauche de ma main.</alinea>
       </para>
       <para>
-        <alinea>
-	Ainsi, cher Polémon, commence la sculpture,</alinea>
+        <alinea>Ainsi, cher Polémon, commence la sculpture,</alinea>
       </para>
       <para>
-        <alinea>
-	Grâce à ces heureux hasards.</alinea>
+        <alinea>Grâce à ces heureux hasards.</alinea>
       </para>
       <para>
-        <alinea>
-	L’Amour qui sut jadis débrouiller la Nature,</alinea>
+        <alinea>L’Amour qui sut jadis débrouiller la Nature,</alinea>
       </para>
       <para>
-        <alinea>
-	Aujourd’hui fait naître les Arts<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>.</alinea>
+        <alinea>Aujourd’hui fait naître les Arts<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>.</alinea>
       </para>
       <para>
-        <alinea>
-	La jeune femme est donc guidée par l’amour, ou comme le précise Derrida par « la main de Cupidon », à qui revient la <marquage typemarq="italique">paternité</marquage> (comme le veut l’usage) de l’invention. Ainsi la jeune Dibutade aura même servi bien malgré elle des discours antiféministes. L’ancien révolutionnaire de 1789 Sylvain Maréchal, dans son <marquage typemarq="italique">Projet d’une loi portant défense d’apprendre à lire aux femmes</marquage> (1801), explique ainsi : « La raison veut que dans les arts du dessin, de la peinture et de la gravure, les femmes ne perdent pas le temps à porter leur prétentions au-delà de celles de la sensible Dibutade. Cette jeune beauté de Sycione, traça sur la muraille, à la lueur d’une lampe, le pourtour de son jeune ami obligé de faire un long voyage. […] Les femmes sont nées pour être aimables et vertueuses, non pour devenir des virtuoses et des savantes<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi>. »</alinea>
+        <alinea>La jeune femme est donc guidée par l’amour, ou comme le précise Derrida par « la main de Cupidon », à qui revient la<marquage typemarq="italique">paternité</marquage>(comme le veut l’usage) de l’invention. Ainsi la jeune Dibutade aura même servi bien malgré elle des discours antiféministes. L’ancien révolutionnaire de 1789 Sylvain Maréchal, dans son<marquage typemarq="italique">Projet d’une loi portant défense d’apprendre à lire aux femmes</marquage>(1801), explique ainsi : « La raison veut que dans les arts du dessin, de la peinture et de la gravure, les femmes ne perdent pas le temps à porter leur prétentions au-delà de celles de la sensible Dibutade. Cette jeune beauté de Sycione, traça sur la muraille, à la lueur d’une lampe, le pourtour de son jeune ami obligé de faire un long voyage. […] Les femmes sont nées pour être aimables et vertueuses, non pour devenir des virtuoses et des savantes<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi>. »</alinea>
       </para>
       <para>
-        <alinea>
-	Cette généalogie quelque peu hasardeuse, et dans une certaine mesure déceptive, ne doit pas faire oublier les enjeux majeurs soulevés par le mythe, tant du point de vue de la pensée esthétique que de celui de la reconnaissance progressive du potentiel artistique des femmes. La fille de Butades, en donnant naissance à la représentation figurée à partir d’une ombre projetée, crée une scène originaire qui déterminera la constitution de l’idée d’art dans la culture occidentale – pensons au concept de mimésis, notamment. Devenue Dibutade, elle témoigne de la progressive mais difficile légitimation des femmes artistes, constituant d’ailleurs un sujet abondamment traité par les femmes peintres entre la fin du XVIII siècle et la première moitié du XIX, soit au moment où celles-ci commencent à gagner une certaine légitimité<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi>. L’art contemporain compte de fait lui aussi ses quelques variations autour du mythe de Dibutade, revendiquées ou non. La plasticienne Kara Walker, avec ses grandes silhouettes noires traitant l’histoire de l’esclavage, travaillant les notions de race et d’identité, incarne au plus près la figure de la jeune Corinthienne par sa démarche esthétique. Chez Francine Van Horne, Dibutade est réinvestie comme sujet pictural, entourant cette fois-ci les traits d’une autre femme. Mais c’est surtout chez la photographe Karen Knorr, avec son cliché « The Pencil of Nature », que nous pouvons observer une véritable réappropriation féministe du mythe, tentant de prendre une revanche sur la tradition antique et néoclassique. Chez Karen Knorr, l’artiste et son modèle sont des femmes, toutes deux assises au pied de la « tradition classique » – l’imposante statue de marbre d’un corps masculin décapité par le cadrage. Cette composition ironique de l’image – issue de la série « Académies » (1994-2005), critique ouverte de l’académisme – souligne la dimension patriarcale de l’histoire de l’art et semble interroger, au tournant du XXI siècle, la place des femmes dans les institutions artistiques contemporaines (la série de clichés a d’ailleurs été réalisée dans un ensemble de musées européens). De Pline à Karen Knorr, Dibutade, inventrice inventée, n’aura donc cessé d’être remodelée au gré de l’évolution des arts, accompagnant l’affirmation progressive de l’auctorialité féminine. Affranchie de la tutelle du père, la jeune femme aura gagné un nom ; affranchie des passions, elle aura gagné peu à peu une fragile reconnaissance en tant qu’artiste, en tant qu’auteur.</alinea>
+        <alinea>Cette généalogie quelque peu hasardeuse, et dans une certaine mesure déceptive, ne doit pas faire oublier les enjeux majeurs soulevés par le mythe, tant du point de vue de la pensée esthétique que de celui de la reconnaissance progressive du potentiel artistique des femmes. La fille de Butades, en donnant naissance à la représentation figurée à partir d’une ombre projetée, crée une scène originaire qui déterminera la constitution de l’idée d’art dans la culture occidentale – pensons au concept de mimésis, notamment. Devenue Dibutade, elle témoigne de la progressive mais difficile légitimation des femmes artistes, constituant d’ailleurs un sujet abondamment traité par les femmes peintres entre la fin du XVIII<exposant>e</exposant>siècle et la première moitié du XIX<exposant>e</exposant>, soit au moment où celles-ci commencent à gagner une certaine légitimité<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi>. L’art contemporain compte de fait lui aussi ses quelques variations autour du mythe de Dibutade, revendiquées ou non. La plasticienne Kara Walker, avec ses grandes silhouettes noires traitant l’histoire de l’esclavage, travaillant les notions de race et d’identité, incarne au plus près la figure de la jeune Corinthienne par sa démarche esthétique. Chez Francine Van Horne, Dibutade est réinvestie comme sujet pictural, entourant cette fois-ci les traits d’une autre femme. Mais c’est surtout chez la photographe Karen Knorr, avec son cliché « The Pencil of Nature », que nous pouvons observer une véritable réappropriation féministe du mythe, tentant de prendre une revanche sur la tradition antique et néoclassique. Chez Karen Knorr, l’artiste et son modèle sont des femmes, toutes deux assises au pied de la « tradition classique » – l’imposante statue de marbre d’un corps masculin décapité par le cadrage. Cette composition ironique de l’image – issue de la série « Académies » (1994-2005), critique ouverte de l’académisme – souligne la dimension patriarcale de l’histoire de l’art et semble interroger, au tournant du XXI<exposant>e</exposant>siècle, la place des femmes dans les institutions artistiques contemporaines (la série de clichés a d’ailleurs été réalisée dans un ensemble de musées européens). De Pline à Karen Knorr, Dibutade, inventrice inventée, n’aura donc cessé d’être remodelée au gré de l’évolution des arts, accompagnant l’affirmation progressive de l’auctorialité féminine. Affranchie de la tutelle du père, la jeune femme aura gagné un nom ; affranchie des passions, elle aura gagné peu à peu une fragile reconnaissance en tant qu’artiste, en tant qu’auteur.</alinea>
       </para>
     </section1>
     <section1>
-      <titre>
-	II. Dibutade « 2.0 » : problématique de l’auctorialité féminine sur le web (Anne Archet)</titre>
+      <titre>II. Dibutade « 2.0 » : problématique de l’auctorialité féminine sur le web (Anne Archet)</titre>
       <para>
         <alinea>
-	<figure>
+          <figure>
             <objetmedia flot="bloc">
               <image id="Archet-femme-invisible.jpg" typeimage="figure" desc=""/>
             </objetmedia>
@@ -202,36 +181,29 @@
         </alinea>
       </para>
       <para>
-        <alinea>
-	J’en reviens donc à ma proposition : « Dibutade 2.0 ». Si l’analogie que je dessine n’a fait l’objet d’aucune revendication explicite, elle n’est pas pour autant sans fondement : au cours de nos navigations sur les sites et les blogues littéraires, sur les réseaux sociaux où les auteurs sont de plus en plus actifs, la figure de Dibutade se dessine en creux à travers un corpus d’écrivaines qui, entre autres points communs, entretiennent une réflexion à propos de leur statut de femme, d’auteur, et plus encore de leur statut de « femmes auteurs ». Elles s’appellent Anne Archet, Victoria Welby, Les Fourchettes, Sarah-Maude Beauchesne, Cécile Portier, Émilie Notéris, Geneviève Pettersen, Madame Chose, Lora Zepam, Juliette Mézenc, Chloé Delaume… Dans cette liste non exhaustive se trouvent de nombreux pseudonymes, des avatars, dont certains sont partagés par une même personne de chair et d’os. Ces avatars, nous pourrons les renommer « profils d’auteurs » tant ils jouent d’une représentation partielle et fragmentaire de l’écrivaine, parfois érigée en personnage de fiction, à partir d’une exploitation ludique des potentialités formelles des dispositifs numériques. En d’autres termes, ces profils d’écrivain(es) font œuvre en même temps qu’ils construisent une fonction auctoriale, et même une fiction auctoriale. La nature de la femme auteur serait justement de refuser toute nature, de construire son identité à partir d’un torpillage de l’impératif référentiel. Anne Archet use de façon radicale de ce procédé sur son blogue <marquage typemarq="italique">Lubricités</marquage>. Si le lecteur se livre à l’expérience très simple de consulter le profil de l’auteure dans l’onglet « à propos », il est renvoyé vers la page « Anne Archet, cette inconnue », qui catalogue une série de dispositifs texte/image à la fois ludiques et poétiques sous des titres divers : « Les mémoires de la pétroleuse nymphomane : Ou l’autobiographie temporaire d’une menteuse qui ne s’en cache même pas » ; « Portrait de la femme invisible devant son miroir : Mort à toutes les identités » ; « Foire aux questions : Des réponses évasives à toutes vos questions » ; « Entrevues et questionnaires : Vous pouvez toujours aller les lire, mais je vous assure que vous ne saurez jamais qui je suis vraiment. »</alinea>
+        <alinea>J’en reviens donc à ma proposition : « Dibutade 2.0 ». Si l’analogie que je dessine n’a fait l’objet d’aucune revendication explicite, elle n’est pas pour autant sans fondement : au cours de nos navigations sur les sites et les blogues littéraires, sur les réseaux sociaux où les auteurs sont de plus en plus actifs, la figure de Dibutade se dessine en creux à travers un corpus d’écrivaines qui, entre autres points communs, entretiennent une réflexion à propos de leur statut de femme, d’auteur, et plus encore de leur statut de « femmes auteurs ». Elles s’appellent Anne Archet, Victoria Welby, Les Fourchettes, Sarah-Maude Beauchesne, Cécile Portier, Émilie Notéris, Geneviève Pettersen, Madame Chose, Lora Zepam, Juliette Mézenc, Chloé Delaume… Dans cette liste non exhaustive se trouvent de nombreux pseudonymes, des avatars, dont certains sont partagés par une même personne de chair et d’os. Ces avatars, nous pourrons les renommer « profils d’auteurs » tant ils jouent d’une représentation partielle et fragmentaire de l’écrivaine, parfois érigée en personnage de fiction, à partir d’une exploitation ludique des potentialités formelles des dispositifs numériques. En d’autres termes, ces profils d’écrivain(es) font œuvre en même temps qu’ils construisent une fonction auctoriale, et même une fiction auctoriale. La nature de la femme auteur serait justement de refuser toute nature, de construire son identité à partir d’un torpillage de l’impératif référentiel. Anne Archet use de façon radicale de ce procédé sur son blogue<marquage typemarq="italique">Lubricités</marquage>. Si le lecteur se livre à l’expérience très simple de consulter le profil de l’auteure dans l’onglet « à propos », il est renvoyé vers la page « Anne Archet, cette inconnue », qui catalogue une série de dispositifs texte/image à la fois ludiques et poétiques sous des titres divers : « Les mémoires de la pétroleuse nymphomane : Ou l’autobiographie temporaire d’une menteuse qui ne s’en cache même pas » ; « Portrait de la femme invisible devant son miroir : Mort à toutes les identités » ; « Foire aux questions : Des réponses évasives à toutes vos questions » ; « Entrevues et questionnaires : Vous pouvez toujours aller les lire, mais je vous assure que vous ne saurez jamais qui je suis vraiment. »</alinea>
       </para>
       <para>
-        <alinea>
-	Ouvrons par exemple la page du « Portrait de la femme invisible devant son miroir » :</alinea>
+        <alinea>Ouvrons par exemple la page du « Portrait de la femme invisible devant son miroir » :</alinea>
       </para>
       <bloccitation>
-        <alinea>
-	D’abord, on m’a contrainte à être une « fille », cet être inférieur et faible qui n’a le droit d’exister qu’en fonction des autres, qui doit séduire à tout prix et prendre soin de tout le monde en souriant sans discontinuer, qui doit être sage, ne pas dire de gros mots, ne pas tacher sa foutue robe, être parfaite en tous points tout en n’étant surtout pas trop intelligente, parce que personne n’aime une fille trop maline<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>.</alinea>
+        <alinea>D’abord, on m’a contrainte à être une « fille », cet être inférieur et faible qui n’a le droit d’exister qu’en fonction des autres, qui doit séduire à tout prix et prendre soin de tout le monde en souriant sans discontinuer, qui doit être sage, ne pas dire de gros mots, ne pas tacher sa foutue robe, être parfaite en tous points tout en n’étant surtout pas trop intelligente, parce que personne n’aime une fille trop maline<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>.</alinea>
       </bloccitation>
       <para>
-        <alinea>
-	Résolument féministe, le portrait s’articule autour d’une photographie dont la composition n’est pas sans rappeler le mythe de l’ombre projetée, et le destin de Dibutade, elle-même condamnée à demeurer dans l’ombre de son père. Chez Anne Archet comme chez d’autres, cette oscillation constante entre visibilité et invisibilité, ombre et lumière, exhibition (puisque l’auteure est particulièrement active sur les réseaux sociaux, où se met en place son écriture autofictionnelle imprégnée d’érotisme) et anonymat (Anne Archet refuse toujours de révéler son visage, et de livrer son identité civile), dessine une série d’analogies à la fois formelles et thématiques avec la tradition visuelle et textuelle du mythe de Dibutade. L’expression « Dibutade 2.0 » proposée ici suppose donc un double objectif. D’une part, il s’agit d’intégrer des pratiques d’écriture hypermédiatiques dans le cadre d’une réflexion historique sur l’auctorialité féminine. D’autre part, le patronage de Dibutade doit permettre de reconnaître le rôle majeur et moteur que jouent les femmes dans l’émergence et la reconnaissance de la littérature numérique. Car, tout comme le suggère Benoît Bordeleau sur son blog littéraire et photographique Hoche’Élague, « [l]’auteur est peut-être mort, mais il écrit encore ; les auteures, elles, existent en dehors des contraintes grammaticales et échappent ainsi au destin tragique et funeste de leur homologue masculin<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>. » La remarque fait mouche au-delà du jeu de mots : elle suggère qu’il y aurait une spécificité de l’auctorialité féminine<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi> – laquelle semble faire œuvre en même temps qu’elle se construit. À travers le prisme de Dibutade, nous pouvons ainsi envisager la littérarité de pratiques d’écriture en ligne souvent ignorées parce qu’elles semblent exclure tout potentiel poétique. Deux aspects du mythe sont particulièrement concernés :</alinea>
+        <alinea>Résolument féministe, le portrait s’articule autour d’une photographie dont la composition n’est pas sans rappeler le mythe de l’ombre projetée, et le destin de Dibutade, elle-même condamnée à demeurer dans l’ombre de son père. Chez Anne Archet comme chez d’autres, cette oscillation constante entre visibilité et invisibilité, ombre et lumière, exhibition (puisque l’auteure est particulièrement active sur les réseaux sociaux, où se met en place son écriture autofictionnelle imprégnée d’érotisme) et anonymat (Anne Archet refuse toujours de révéler son visage, et de livrer son identité civile), dessine une série d’analogies à la fois formelles et thématiques avec la tradition visuelle et textuelle du mythe de Dibutade. L’expression « Dibutade 2.0 » proposée ici suppose donc un double objectif. D’une part, il s’agit d’intégrer des pratiques d’écriture hypermédiatiques dans le cadre d’une réflexion historique sur l’auctorialité féminine. D’autre part, le patronage de Dibutade doit permettre de reconnaître le rôle majeur et moteur que jouent les femmes dans l’émergence et la reconnaissance de la littérature numérique. Car, tout comme le suggère Benoît Bordeleau sur son blog littéraire et photographique Hoche’Élague, « [l]’auteur est peut-être mort, mais il écrit encore ; les auteures, elles, existent en dehors des contraintes grammaticales et échappent ainsi au destin tragique et funeste de leur homologue masculin<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>. » La remarque fait mouche au-delà du jeu de mots : elle suggère qu’il y aurait une spécificité de l’auctorialité féminine<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi>– laquelle semble faire œuvre en même temps qu’elle se construit. À travers le prisme de Dibutade, nous pouvons ainsi envisager la littérarité de pratiques d’écriture en ligne souvent ignorées parce qu’elles semblent exclure tout potentiel poétique. Deux aspects du mythe sont particulièrement concernés :</alinea>
       </para>
       <para>
-        <alinea>
-	1 – Si Dibutade est, d’une part, celle qui trace le profil, quel rapport peut-on dessiner entre cette œuvre d’art originaire et cet autre objet qui trouve aujourd’hui une incroyable fortune sur les réseaux sociaux : le fameux profil d’utilisateur, tels que Facebook ou Twitter l’ont popularisé ?</alinea>
+        <alinea>1 – Si Dibutade est, d’une part, celle qui trace le profil, quel rapport peut-on dessiner entre cette œuvre d’art originaire et cet autre objet qui trouve aujourd’hui une incroyable fortune sur les réseaux sociaux : le fameux profil d’utilisateur, tels que Facebook ou Twitter l’ont popularisé ?</alinea>
       </para>
       <para>
-        <alinea>
-	2 – Si, d’autre part, le geste créateur de la jeune corinthienne est celui d’une jeune fille amoureuse, il est tentant d’esquisser une réflexion sur les rapports entre la création et le désir féminin, alors que les écrivaines citées plus tôt déploient, dans leurs écrits en ligne, des stratégies érotiques diverses. Traçant cette fois-ci leur propre profil, elles affirment leur statut de femmes auteurs, tandis que l’être aimé devient interchangeable. En d’autres termes, la Dibutade contemporaine serait-elle finalement devenue féministe ?</alinea>
+        <alinea>2 – Si, d’autre part, le geste créateur de la jeune corinthienne est celui d’une jeune fille amoureuse, il est tentant d’esquisser une réflexion sur les rapports entre la création et le désir féminin, alors que les écrivaines citées plus tôt déploient, dans leurs écrits en ligne, des stratégies érotiques diverses. Traçant cette fois-ci leur propre profil, elles affirment leur statut de femmes auteurs, tandis que l’être aimé devient interchangeable. En d’autres termes, la Dibutade contemporaine serait-elle finalement devenue féministe ?</alinea>
       </para>
     </section1>
     <section1>
-      <titre>
-	III. Profil de la femme auteur : les usages poétiques du réseau social (Victoria Welby)</titre>
+      <titre>III. Profil de la femme auteur : les usages poétiques du réseau social (Victoria Welby)</titre>
       <para>
         <alinea>
-	<figure>
+          <figure>
             <objetmedia flot="bloc">
               <image id="profil_welby2.jpg" typeimage="figure" desc=""/>
             </objetmedia>
@@ -239,224 +211,180 @@
         </alinea>
       </para>
       <para>
-        <alinea>
-	Sur le web, la femme auteur s’inscrit et s’affirme en premier lieu dans un espace numérique bien connu mais souvent ignoré par les études littéraires : le profil d’utilisateur, avec lequel l’internaute est devenu familier depuis que les grands réseaux sociaux – Facebook en tête – en ont fait un dispositif incontournable. Mais si le « profil » m’intéresse ici, c’est aussi en ce qu’il renvoie au mythe des origines de l’art, et à l’œuvre première de Dibutade. D’abord ancrée dans le domaine de la représentation visuelle pour qualifier un portrait <marquage typemarq="italique">de côté</marquage>, une esquisse des <marquage typemarq="italique">contours</marquage>, figure ou visage à moitié montré – c’est-à-dire à moitié caché –, la forme de profil s’inscrit effectivement dans une longue et riche tradition artistique, depuis la peinture pariétale à l’art de la silhouette au XVIII siècle. Récupéré par la psychanalyse à partir des années 1920, le <marquage typemarq="italique">profil psychologique</marquage> est alors entendu selon un sens figuré aujourd’hui passé dans l’usage courant, pour désigner les principaux traits de caractère d’un individu. Dans la foulée, il sera intégré au jargon judiciaire (on pense ici aux travaux de Bertillon), tandis que les <marquage typemarq="italique">profileurs</marquage> établissent des typologies criminelles. Un peu plus tard encore, le <marquage typemarq="italique">profil professionnel</marquage> recherché par les recruteurs ou les responsables en ressources humaines se dote d’une connotation plus positive – qui renvoie d’ailleurs, dans le cas présent, à la définition problématique des compétences attribuées à l’auteur, et en particulier à la femme auteur. Enfin, tout récemment, le terme aura encore gagné en popularité grâce à des dispositifs tels que Facebook ou Twitter, qui fusionnent et redéterminent les principales acceptions historiques du terme – profil visuel et profil psychologique. Cet espace du profil, et <marquage typemarq="italique">de profil</marquage>, offre une vitrine sans précédent à l’écrivain hypermédiatique (qui peut ainsi court-circuiter les canaux institutionnels de l’édition, tissant de nouvelles relations avec son lecteur), tout en lui offrant une scène où construire sa figure auctoriale. En ce sens, nous avons tout intérêt à reconnaître le potentiel poétique des profils d’utilisateur, un potentiel qui procède notamment d’une pratique de détournement ludique des connotations associées au fait numérique<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi>.</alinea>
+        <alinea>Sur le web, la femme auteur s’inscrit et s’affirme en premier lieu dans un espace numérique bien connu mais souvent ignoré par les études littéraires : le profil d’utilisateur, avec lequel l’internaute est devenu familier depuis que les grands réseaux sociaux – Facebook en tête – en ont fait un dispositif incontournable. Mais si le « profil » m’intéresse ici, c’est aussi en ce qu’il renvoie au mythe des origines de l’art, et à l’œuvre première de Dibutade. D’abord ancrée dans le domaine de la représentation visuelle pour qualifier un portrait<marquage typemarq="italique">de côté</marquage>, une esquisse des<marquage typemarq="italique">contours</marquage>, figure ou visage à moitié montré – c’est-à-dire à moitié caché –, la forme de profil s’inscrit effectivement dans une longue et riche tradition artistique, depuis la peinture pariétale à l’art de la silhouette au XVIII<exposant>e</exposant>siècle. Récupéré par la psychanalyse à partir des années 1920, le<marquage typemarq="italique">profil psychologique</marquage>est alors entendu selon un sens figuré aujourd’hui passé dans l’usage courant, pour désigner les principaux traits de caractère d’un individu. Dans la foulée, il sera intégré au jargon judiciaire (on pense ici aux travaux de Bertillon), tandis que les<marquage typemarq="italique">profileurs</marquage>établissent des typologies criminelles. Un peu plus tard encore, le<marquage typemarq="italique">profil professionnel</marquage>recherché par les recruteurs ou les responsables en ressources humaines se dote d’une connotation plus positive – qui renvoie d’ailleurs, dans le cas présent, à la définition problématique des compétences attribuées à l’auteur, et en particulier à la femme auteur. Enfin, tout récemment, le terme aura encore gagné en popularité grâce à des dispositifs tels que Facebook ou Twitter, qui fusionnent et redéterminent les principales acceptions historiques du terme – profil visuel et profil psychologique. Cet espace du profil, et<marquage typemarq="italique">de profil</marquage>, offre une vitrine sans précédent à l’écrivain hypermédiatique (qui peut ainsi court-circuiter les canaux institutionnels de l’édition, tissant de nouvelles relations avec son lecteur), tout en lui offrant une scène où construire sa figure auctoriale. En ce sens, nous avons tout intérêt à reconnaître le potentiel poétique des profils d’utilisateur, un potentiel qui procède notamment d’une pratique de détournement ludique des connotations associées au fait numérique<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi>.</alinea>
       </para>
       <para>
-        <alinea>
-	Ce profil de la femme auteur est exploité de façon tout à fait originale chez l’écrivaine québécoise Victoria Welby qui, à côté de ses publications régulières sur son site personnel, investit les réseaux sociaux classiques (Facebook, Twitter, LinkedIn) mais aussi, de façon plus surprenante, le site de petites annonces en ligne Kijiji, où elle s’attribue le titre d’« écrivaine publique » dans une annonce au contenu explicite :</alinea>
+        <alinea>Ce profil de la femme auteur est exploité de façon tout à fait originale chez l’écrivaine québécoise Victoria Welby qui, à côté de ses publications régulières sur son site personnel, investit les réseaux sociaux classiques (Facebook, Twitter, LinkedIn) mais aussi, de façon plus surprenante, le site de petites annonces en ligne Kijiji, où elle s’attribue le titre d’« écrivaine publique » dans une annonce au contenu explicite :</alinea>
       </para>
       <para>
-        <alinea>
-	« Victoria Welby, écrivaine publique, rédaction de :</alinea>
+        <alinea>« Victoria Welby, écrivaine publique, rédaction de :</alinea>
       </para>
       <listenonord signe="disque">
-	<elemliste>
-		<alinea>
-			lettres d’amour /correspondances érotiques / récits licencieux / scénarios lubriques.</alinea>
-	</elemliste>
-	<elemliste>
-		<alinea>
-			50 $ de l’heure, une heure minimum. Le texte sera réécrit jusqu’à deux fois si la cliente, le client ne le trouve pas satisfaisant<renvoi idref="sdfootnote14sym" typeref="note">14</renvoi>. »</alinea>
-	</elemliste>
-</listenonord>
+        <elemliste>
+          <alinea>lettres d’amour /correspondances érotiques / récits licencieux / scénarios lubriques.</alinea>
+        </elemliste>
+        <elemliste>
+          <alinea>50 $ de l’heure, une heure minimum. Le texte sera réécrit jusqu’à deux fois si la cliente, le client ne le trouve pas satisfaisant<renvoi idref="sdfootnote14sym" typeref="note">14</renvoi>. »</alinea>
+        </elemliste>
+      </listenonord>
       <para>
-        <alinea>
-	Victoria Welby convoque ainsi, sur un site de petites annonces disgracieux et saturé de publicités, la figure de l’écrivain public, longtemps discréditée au cours de son histoire. Ce descendant du scribe antique et de l’écrivain de rue médiéval appartient en effet à un corps de métier ancien, traditionnellement spécialisé dans la rédaction de courriers administratifs, la plupart du temps au service des analphabètes. En d’autres termes, si l’écrivain public peut se targuer d’une indéniable fonction sociale, c’est aux dépens de sa fonction auctoriale réduite à minima – et avec elle, le principe de propriété intellectuelle, la reconnaissance d’une créativité artistique, désormais remplacée par une offre de service tarifée à 50$ de l’heure. Écrire ne serait-il donc qu’un métier comme un autre ? En féminisant le titre pour se présenter comme « écrivaine publique », Victoria Welby joue en tout cas de la confusion qui vient s’opérer avec la « femme publique », laquelle exerce une toute autre profession, elle aussi « vieille comme le monde ». À cet égard, l’annonce Kijiji assume à la fois une fonction ludique mais aussi transgressive. C’est d’ailleurs avec un plaisir non dissimulé que Victoria Welby fait régulièrement état de sa propre censure en dressant la liste des espaces, virtuels ou non, qui l’ont bannie : Facebook, l’aéroport montréalais Pierre-Elliot-Trudeau, mais aussi le site Kijijii, qui aura supprimé cette annonce au bout de quelques mois.</alinea>
+        <alinea>Victoria Welby convoque ainsi, sur un site de petites annonces disgracieux et saturé de publicités, la figure de l’écrivain public, longtemps discréditée au cours de son histoire. Ce descendant du scribe antique et de l’écrivain de rue médiéval appartient en effet à un corps de métier ancien, traditionnellement spécialisé dans la rédaction de courriers administratifs, la plupart du temps au service des analphabètes. En d’autres termes, si l’écrivain public peut se targuer d’une indéniable fonction sociale, c’est aux dépens de sa fonction auctoriale réduite à minima – et avec elle, le principe de propriété intellectuelle, la reconnaissance d’une créativité artistique, désormais remplacée par une offre de service tarifée à 50$ de l’heure. Écrire ne serait-il donc qu’un métier comme un autre ? En féminisant le titre pour se présenter comme « écrivaine publique », Victoria Welby joue en tout cas de la confusion qui vient s’opérer avec la « femme publique », laquelle exerce une toute autre profession, elle aussi « vieille comme le monde ». À cet égard, l’annonce Kijiji assume à la fois une fonction ludique mais aussi transgressive. C’est d’ailleurs avec un plaisir non dissimulé que Victoria Welby fait régulièrement état de sa propre censure en dressant la liste des espaces, virtuels ou non, qui l’ont bannie : Facebook, l’aéroport montréalais Pierre-Elliot-Trudeau, mais aussi le site Kijijii, qui aura supprimé cette annonce au bout de quelques mois.</alinea>
       </para>
       <para>
-        <alinea>
-	Le détournement du profil procède ainsi d’une stratégie ludique d’affirmation et de singularisation de l’« Auteur », terme qui caractérise Victoria Welby sur sa page Facebook. À cette figure d’« écrivaine publique » correspondrait donc avant tout un profil public d’écrivaine, ou encore une identité auctoriale entièrement numérique. Dans cette autofiction de profil, le double fictif peut être rebaptisé « avatar », tant pour garantir un principe d’anonymat que pour façonner un personnage à part entière, à la fois personnage d’écrivaine publique et personnage public de l’écrivaine :</alinea>
+        <alinea>Le détournement du profil procède ainsi d’une stratégie ludique d’affirmation et de singularisation de l’« Auteur », terme qui caractérise Victoria Welby sur sa page Facebook. À cette figure d’« écrivaine publique » correspondrait donc avant tout un profil public d’écrivaine, ou encore une identité auctoriale entièrement numérique. Dans cette autofiction de profil, le double fictif peut être rebaptisé « avatar », tant pour garantir un principe d’anonymat que pour façonner un personnage à part entière, à la fois personnage d’écrivaine publique et personnage public de l’écrivaine :</alinea>
       </para>
       <bloccitation>
-        <alinea>
-	Victoria Welby est un personnage né, un peu au hasard des choses, dans un site de rencontres virtuelles. Parce que son auteure ne voulait pas d’un pseudonyme numéroté (ç’aurait été une insulte à son imagination), elle a fini par emprunter le nom d’une autre. Intello et sémioticienne elle-même, elle a affublé son avatar du nom d’une sémioticienne anglaise, nécessairement méconnue des gens fréquentant les sites de rencontres.</alinea>
-	
-            <alinea>
-		La première sortie publique de Victoria Welby (c’est-à-dire en dehors des sites de rencontres) a eu lieu en mai 2006, dans le cadre de deux projets littéraires faisant usage du blogue comme plateforme de publication. […]. Ne voulant associer ni son vrai nom, ni son adresse courriel principale à ces projets, l’auteure a décidé de réutiliser Victoria Welby comme avatar. Tous ses projets de littérature, hypermédiatique ou non, sont désormais signés de ce nom. Elle a bien commis une ou deux choses littéraires sous son vrai nom, mais elle les donne désormais comme des productions de Victoria Welby sous un pseudonyme<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi>.</alinea>
-       
+        <alinea>Victoria Welby est un personnage né, un peu au hasard des choses, dans un site de rencontres virtuelles. Parce que son auteure ne voulait pas d’un pseudonyme numéroté (ç’aurait été une insulte à son imagination), elle a fini par emprunter le nom d’une autre. Intello et sémioticienne elle-même, elle a affublé son avatar du nom d’une sémioticienne anglaise, nécessairement méconnue des gens fréquentant les sites de rencontres.<para>
+            <alinea>La première sortie publique de Victoria Welby (c’est-à-dire en dehors des sites de rencontres) a eu lieu en mai 2006, dans le cadre de deux projets littéraires faisant usage du blogue comme plateforme de publication. […]. Ne voulant associer ni son vrai nom, ni son adresse courriel principale à ces projets, l’auteure a décidé de réutiliser Victoria Welby comme avatar. Tous ses projets de littérature, hypermédiatique ou non, sont désormais signés de ce nom. Elle a bien commis une ou deux choses littéraires sous son vrai nom, mais elle les donne désormais comme des productions de Victoria Welby sous un pseudonyme<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi>.</alinea>
+          </para>
+        </alinea>
       </bloccitation>
       <para>
-        <alinea>
-	Chez Victoria Welby, l’avatar qui porte le nom construit à partir d’une sémioticienne du XIXe siècle aura presque gagné son autonomie, au point que les quelques « choses littéraires » produites par l’auteure de chair et d’os sous son identité civile sont présentées comme des productions de Victoria Welby <marquage typemarq="italique">sous un pseudonyme</marquage>. L’identité virtuelle devient ainsi l’identité réelle de la femme auteur, laquelle « [s’inscrit] souvent en creux dans son existence<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi>», sans pour autant s’y superposer complètement : l’écriture de profil est avant tout une écriture autofictionnelle.</alinea>
+        <alinea>Chez Victoria Welby, l’avatar qui porte le nom construit à partir d’une sémioticienne du XIXe siècle aura presque gagné son autonomie, au point que les quelques « choses littéraires » produites par l’auteure de chair et d’os sous son identité civile sont présentées comme des productions de Victoria Welby<marquage typemarq="italique">sous un pseudonyme</marquage>. L’identité virtuelle devient ainsi l’identité réelle de la femme auteur, laquelle « [s’inscrit] souvent en creux dans son existence<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi>», sans pour autant s’y superposer complètement : l’écriture de profil est avant tout une écriture autofictionnelle.</alinea>
       </para>
       <para>
-        <alinea>
-	Sur Facebook ou sur Twitter, le profil de Welby est complété par une photographie qui ne révèle en majorité que des vues… de profil : visage de côté, corps à moitié dissimulé ou fragmenté. Et parmi ces clichés du profil et de profil, on sera notamment frappé par ceux captés à l’aide du logiciel PhotoBooth et de son filtre « crayon de couleur ». On sait combien le (faux) vieillissement des photographies est aujourd’hui à la mode, alors que de nombreux logiciels, applications très simples à utiliser, proposent de donner un petit cachet d’authenticité supplémentaire à nos images numériques en leur conférant des « effets argentiques » (pensons Instagram, Hipstamatic, PixlR-omatic). Mais ici, cette manipulation est d’autant plus surprenante qu’elle choisit de ramener l’image à une ère préphotographique, celle du crayon, du fusain, en d’autres termes celle du dessin – soit celle de Dibutade. Bien entendu, on se demandera : qui se dévoile sur ces clichés ? Il semblerait en effet que c’est bel et bien l’écrivaine de chair et d’os qui vient incarner son personnage, et non l’inverse. Tout comme chez Anne Archet qui se refuse à livrer des informations sur son identité civile, où à la manière de Chloé Delaume qui se décrit elle-même comme un « personnage de fiction », chez Welby les tensions tissées entre l’auteur (une instance d’abord paratextuelle), l’écrivain (lui-même tiraillé entre le métier et l’art d’écrire), le personnage d’écrivain (soit un narrateur auctorial) et la personne elle-même constituent l’originalité même du profil qui, nourri de la somme de ces confusions, tend à s’imposer comme une nouvelle instance indépendante, au potentiel poétique incontestable.</alinea>
+        <alinea>Sur Facebook ou sur Twitter, le profil de Welby est complété par une photographie qui ne révèle en majorité que des vues… de profil : visage de côté, corps à moitié dissimulé ou fragmenté. Et parmi ces clichés du profil et de profil, on sera notamment frappé par ceux captés à l’aide du logiciel PhotoBooth et de son filtre « crayon de couleur ». On sait combien le (faux) vieillissement des photographies est aujourd’hui à la mode, alors que de nombreux logiciels, applications très simples à utiliser, proposent de donner un petit cachet d’authenticité supplémentaire à nos images numériques en leur conférant des « effets argentiques » (pensons Instagram, Hipstamatic, PixlR-omatic). Mais ici, cette manipulation est d’autant plus surprenante qu’elle choisit de ramener l’image à une ère préphotographique, celle du crayon, du fusain, en d’autres termes celle du dessin – soit celle de Dibutade. Bien entendu, on se demandera : qui se dévoile sur ces clichés ? Il semblerait en effet que c’est bel et bien l’écrivaine de chair et d’os qui vient incarner son personnage, et non l’inverse. Tout comme chez Anne Archet qui se refuse à livrer des informations sur son identité civile, où à la manière de Chloé Delaume qui se décrit elle-même comme un « personnage de fiction », chez Welby les tensions tissées entre l’auteur (une instance d’abord paratextuelle), l’écrivain (lui-même tiraillé entre le métier et l’art d’écrire), le personnage d’écrivain (soit un narrateur auctorial) et la personne elle-même constituent l’originalité même du profil qui, nourri de la somme de ces confusions, tend à s’imposer comme une nouvelle instance indépendante, au potentiel poétique incontestable.</alinea>
       </para>
     </section1>
     <section1>
-      <titre>
-	IV. Les « travailleuses du texte » : littérature, érotisme, pornographie, obscène (Anne Archet)</titre>
+      <titre>IV. Les « travailleuses du texte » : littérature, érotisme, pornographie, obscène (Anne Archet)</titre>
       <para>
         <alinea>
-	<figure>
+          <figure>
             <objetmedia flot="bloc">
               <image id="Avertissement_AnneArchet.png" typeimage="figure" desc=""/>
             </objetmedia>
           </figure>
-          
+          <figure>
+            <objetmedia flot="bloc">
+              <image id="" typeimage="figure" desc=""/>
+            </objetmedia>
+          </figure>
         </alinea>
       </para>
       <para>
-        <alinea>
-	Victoria Welby ne s’en cache nullement : elle est née en ligne, sur un site de rencontres virtuelles. Ce personnage d’écrivaine produit avant tout une littérature érotique en livrant le récit de ses aventures amoureuses, en explorant la question du désir féminin, en jouant avec la frontière entre érotisme et pornographie. À tracer sur son « mur » Facebook le profil de ses amours contrariées, Victoria Welby nous rappelle encore sa lointaine ancêtre corinthienne. Mais à la différence de son aînée, cette Dibutade postmoderne fréquente assidûment des sites de rencontres en ligne qui lui permettent de remplacer ses amants aussitôt qu’ils disparaissent. À cet égard, la « Dibutade 2.0 » n’est plus cette jeune femme dont l’inventivité est le fruit du <marquage typemarq="italique">caecus amor </marquage>: désormais, elle fait publiquement part de ses désirs et de ses fantasmes. En d’autres termes, cette Dibutade est enfin féministe, et joue sans hésiter avec son image, se définissant avec beaucoup d’ironie comme une « travailleuse du texte » selon l’expression d’Émilie Notéris. La formule – autre déclinaison possible de « l’écrivaine publique » proposée par Victoria Welby – est d’autant plus pertinente qu’elle comprend au moins deux des principaux traits de profil propres à la femme auteur de l’ère numérique. D’une part, un engagement féministe se traduisant notamment par la production d’une littérature à caractère érotique, alors que l’écriture se fait lieu d’expression et de revendication du désir féminin. D’autre part, une attention portée au texte, une maîtrise du langage et de ses subtilités, de ses potentialités poétiques. Victoria Welby, Emilie Notéris, Les Fourchettes, Cy Jung… les « travailleuses du texte » ne manquent pas pour illustrer mon propos, mais c’est encore une fois Anne Archet, trop brièvement citée plus tôt, qui m’occupera maintenant.</alinea>
+        <alinea>Victoria Welby ne s’en cache nullement : elle est née en ligne, sur un site de rencontres virtuelles. Ce personnage d’écrivaine produit avant tout une littérature érotique en livrant le récit de ses aventures amoureuses, en explorant la question du désir féminin, en jouant avec la frontière entre érotisme et pornographie. À tracer sur son « mur » Facebook le profil de ses amours contrariées, Victoria Welby nous rappelle encore sa lointaine ancêtre corinthienne. Mais à la différence de son aînée, cette Dibutade postmoderne fréquente assidûment des sites de rencontres en ligne qui lui permettent de remplacer ses amants aussitôt qu’ils disparaissent. À cet égard, la « Dibutade 2.0 » n’est plus cette jeune femme dont l’inventivité est le fruit du<marquage typemarq="italique">caecus amor </marquage>: désormais, elle fait publiquement part de ses désirs et de ses fantasmes. En d’autres termes, cette Dibutade est enfin féministe, et joue sans hésiter avec son image, se définissant avec beaucoup d’ironie comme une « travailleuse du texte » selon l’expression d’Émilie Notéris. La formule – autre déclinaison possible de « l’écrivaine publique » proposée par Victoria Welby – est d’autant plus pertinente qu’elle comprend au moins deux des principaux traits de profil propres à la femme auteur de l’ère numérique. D’une part, un engagement féministe se traduisant notamment par la production d’une littérature à caractère érotique, alors que l’écriture se fait lieu d’expression et de revendication du désir féminin. D’autre part, une attention portée au texte, une maîtrise du langage et de ses subtilités, de ses potentialités poétiques. Victoria Welby, Emilie Notéris, Les Fourchettes, Cy Jung… les « travailleuses du texte » ne manquent pas pour illustrer mon propos, mais c’est encore une fois Anne Archet, trop brièvement citée plus tôt, qui m’occupera maintenant.</alinea>
       </para>
       <para>
-        <alinea>
-	Sur ses blogues, et en particulier sur <marquage typemarq="italique">Lubricités</marquage>, Anne Archet inscrit explicitement ses textes au sein de la tradition érotique littéraire francophone. Ses titres sont choisis de façon à se placer sans équivoque sous le patronage des classiques du genre : <marquage typemarq="italique">Histoires d’oOoh</marquage> renvoie bien évidemment à <marquage typemarq="italique">Histoire d’Ô</marquage>, qui fût, rappelons-le, l’un des premiers textes érotiques écrits par une femme et présenté comme tel ; <marquage typemarq="italique">La conférence interrompue Ou la philosophie dans le 3½, transcription de cinq enregistrements audionumériques</marquage> se réfère à Sade et sa <marquage typemarq="italique">Philosophie dans le boudoir</marquage> – le marquis de Sade qui, par ailleurs, est pastiché et parodié dans le texte <marquage typemarq="italique">Dialogue entre une prêtresse et une moribonde</marquage>, transcription féminine et féministe du <marquage typemarq="italique">Dialogue entre un prêtre et un moribond </marquage>:</alinea>
+        <alinea>Sur ses blogues, et en particulier sur<marquage typemarq="italique">Lubricités</marquage>, Anne Archet inscrit explicitement ses textes au sein de la tradition érotique littéraire francophone. Ses titres sont choisis de façon à se placer sans équivoque sous le patronage des classiques du genre :<marquage typemarq="italique">Histoires d’oOoh</marquage>renvoie bien évidemment à<marquage typemarq="italique">Histoire d’Ô</marquage>, qui fût, rappelons-le, l’un des premiers textes érotiques écrits par une femme et présenté comme tel ;<marquage typemarq="italique">La conférence interrompue Ou la philosophie dans le 3½, transcription de cinq enregistrements audionumériques</marquage>se réfère à Sade et sa<marquage typemarq="italique">Philosophie dans le boudoir</marquage>– le marquis de Sade qui, par ailleurs, est pastiché et parodié dans le texte<marquage typemarq="italique">Dialogue entre une prêtresse et une moribonde</marquage>, transcription féminine et féministe du<marquage typemarq="italique">Dialogue entre un prêtre et un moribond </marquage>:</alinea>
       </para>
       <para>
-        <alinea>
-	LA MORIBONDE. — La libération collective passe par la libération individuelle. Si je dois me plier bêtement à un code moral élaboré par je ne sais quelle représentante patentée et autoproclamée de mon sexe – opprimé, il va sans dire – je vois mal en quoi je contribuerai à la libération de mes sœurs. Et encore moins à la mienne… et c’est celle qui m’importe le plus.</alinea>
+        <alinea>LA MORIBONDE. — La libération collective passe par la libération individuelle. Si je dois me plier bêtement à un code moral élaboré par je ne sais quelle représentante patentée et autoproclamée de mon sexe – opprimé, il va sans dire – je vois mal en quoi je contribuerai à la libération de mes sœurs. Et encore moins à la mienne… et c’est celle qui m’importe le plus.</alinea>
       </para>
       <para>
-        <alinea>
-	LA PRÊTRESSE. — Tu veux faire ce que tu veux? Ma pauvre vieille! Ne comprends-tu pas que ce que tu penses « vouloir » est en réalité un conditionnement patriarcal? Les hommes te contrôlent à un point tel que tu prends leurs exigences pour tes désirs ! On ne s’en sort pas : nous devons agir selon nos vrais désirs, nos vraies natures !</alinea>
+        <alinea>LA PRÊTRESSE. — Tu veux faire ce que tu veux? Ma pauvre vieille! Ne comprends-tu pas que ce que tu penses « vouloir » est en réalité un conditionnement patriarcal? Les hommes te contrôlent à un point tel que tu prends leurs exigences pour tes désirs ! On ne s’en sort pas : nous devons agir selon nos vrais désirs, nos vraies natures !</alinea>
       </para>
       <para>
-        <alinea>
-	LA MORIBONDE. — Et moi je dis que ce que tu penses être ta « vraie nature » est un conditionnement patriarcal – le plus vieux et le plus éculé d’ailleurs.</alinea>
+        <alinea>LA MORIBONDE. — Et moi je dis que ce que tu penses être ta « vraie nature » est un conditionnement patriarcal – le plus vieux et le plus éculé d’ailleurs.</alinea>
       </para>
       <para>
-        <alinea>
-	LA PRÊTRESSE. — Peuh.</alinea>
+        <alinea>LA PRÊTRESSE. — Peuh.</alinea>
       </para>
       <para>
-        <alinea>
-	LA MORIBONDE. — Pfff.</alinea>
+        <alinea>LA MORIBONDE. — Pfff.</alinea>
       </para>
       <para>
-        <alinea>
-	(Elles boivent un peu de thé.)</alinea>
+        <alinea>(Elles boivent un peu de thé.)</alinea>
       </para>
       <para>
-        <alinea>
-	LA PRÊTRESSE. — On est vraiment baisées, hein?</alinea>
+        <alinea>LA PRÊTRESSE. — On est vraiment baisées, hein?</alinea>
       </para>
       <para>
-        <alinea>
-	LA MORIBONDE. — Dans tous les sens du terme, ma vieille.</alinea>
+        <alinea>LA MORIBONDE. — Dans tous les sens du terme, ma vieille.</alinea>
       </para>
       <para>
-        <alinea>
-	L’écriture est soignée, chez Anne Archet, aussi bien lorsqu’il s’agit de manier les assonances et les allitérations que lorsqu’il faut rompre tout à coup avec ce qui pourrait passer pour une certaine préciosité du style (laquelle vient notamment rappeler le grand siècle de la littérature érotique et du libertinage, celui de Sade), de façon à mélanger brusquement les registres et à bousculer, un peu plus, le lecteur qui serait resté trop passif.</alinea>
+        <alinea>L’écriture est soignée, chez Anne Archet, aussi bien lorsqu’il s’agit de manier les assonances et les allitérations que lorsqu’il faut rompre tout à coup avec ce qui pourrait passer pour une certaine préciosité du style (laquelle vient notamment rappeler le grand siècle de la littérature érotique et du libertinage, celui de Sade), de façon à mélanger brusquement les registres et à bousculer, un peu plus, le lecteur qui serait resté trop passif.</alinea>
       </para>
       <para>
-        <alinea>
-	Pas sûr, pourtant, que le compliment soit apprécié par la principale intéressée, qui publie dans un article de blogue :</alinea>
+        <alinea>Pas sûr, pourtant, que le compliment soit apprécié par la principale intéressée, qui publie dans un article de blogue :</alinea>
       </para>
       <para>
-        <alinea>
-	J’écris de la pornographie.</alinea>
+        <alinea>J’écris de la pornographie.</alinea>
       </para>
       <para>
-        <alinea>
-	Pas de la littérature érotique.</alinea>
+        <alinea>Pas de la littérature érotique.</alinea>
       </para>
       <para>
-        <alinea>
-	Encore moins de la littérature tout court.</alinea>
+        <alinea>Encore moins de la littérature tout court.</alinea>
       </para>
       <para>
-        <alinea>
-	[…]</alinea>
+        <alinea>[…]</alinea>
       </para>
       <para>
-        <alinea>
-	La pornographie n’est ni éthique ni morale</alinea>
+        <alinea>La pornographie n’est ni éthique ni morale</alinea>
       </para>
       <para>
-        <alinea>
-	La pornographie n’est pas un humanisme</alinea>
+        <alinea>La pornographie n’est pas un humanisme</alinea>
       </para>
       <para>
-        <alinea>
-	La pornographie que j’écris</alinea>
+        <alinea>La pornographie que j’écris</alinea>
       </para>
       <para>
-        <alinea>
-	Ne sent pas l’ambre, le musc, le benjoin et l’encens,</alinea>
+        <alinea>Ne sent pas l’ambre, le musc, le benjoin et l’encens,</alinea>
       </para>
       <para>
-        <alinea>
-	Ne chante pas les transports de l’esprit et des sens</alinea>
+        <alinea>Ne chante pas les transports de l’esprit et des sens</alinea>
       </para>
       <para>
-        <alinea>
-	Elle sent la pisse et le fauve</alinea>
+        <alinea>Elle sent la pisse et le fauve</alinea>
       </para>
       <para>
-        <alinea>
-	Elle a la consistance gluante du KY merdeux</alinea>
+        <alinea>Elle a la consistance gluante du KY merdeux</alinea>
       </para>
       <para>
-        <alinea>
-	Qui souille le gland hilare du sodomite</alinea>
+        <alinea>Qui souille le gland hilare du sodomite</alinea>
       </para>
       <para>
-        <alinea>
-	Elle est plissée comme un scrotum</alinea>
+        <alinea>Elle est plissée comme un scrotum</alinea>
       </para>
       <para>
-        <alinea>
-	Elle a la couleur d’une petite culotte tachée</alinea>
+        <alinea>Elle a la couleur d’une petite culotte tachée</alinea>
       </para>
       <para>
-        <alinea>
-	Elle se fout du consentement</alinea>
+        <alinea>Elle se fout du consentement</alinea>
       </para>
       <para>
-        <alinea>
-	De l’union sacrée entre deux êtres</alinea>
+        <alinea>De l’union sacrée entre deux êtres</alinea>
       </para>
       <para>
-        <alinea>
-	Elle en a rien à branler</alinea>
+        <alinea>Elle en a rien à branler</alinea>
       </para>
       <para>
-        <alinea>
-	De la dignité de la personne humaine<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi>
+        <alinea>De la dignité de la personne humaine<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi>
         </alinea>
       </para>
       <para>
-        <alinea>
-	Ce texte, éminemment poétique, adroitement composé et structuré par des anaphores, des gradations et des parallélismes, se laisse si bien prêter à l’analyse stylistique qu’il est difficile d’adhérer pleinement au message qu’il affiche pourtant : la limite entre pornographie et érotisme serait-elle tracée dès que l’on abandonne les « transports de l’esprit et des sens » pour se ranger du côté des odeurs de « pisse » et de « fauve » ? La « Littérature » se doit-elle d’être « éthique », « morale » (mais selon quels critères) ? Rien n’est moins sûr. En effet, n’est-il pas vrai, plutôt, que « le travail sur la langue constitue la véritable esthétique des [récits] “inavouables“, qui se trouve apparaître ainsi d’elle-même, sans que l’on ait besoin de la justifier par interprétations intrinsèques<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi>» ? Cette remarque, que Michel Gailliard formule à propos de l’œuvre de Sade, s’applique parfaitement à l’écriture d’Anne Archet et d’autres travailleuses du texte.</alinea>
+        <alinea>Ce texte, éminemment poétique, adroitement composé et structuré par des anaphores, des gradations et des parallélismes, se laisse si bien prêter à l’analyse stylistique qu’il est difficile d’adhérer pleinement au message qu’il affiche pourtant : la limite entre pornographie et érotisme serait-elle tracée dès que l’on abandonne les « transports de l’esprit et des sens » pour se ranger du côté des odeurs de « pisse » et de « fauve » ? La « Littérature » se doit-elle d’être « éthique », « morale » (mais selon quels critères) ? Rien n’est moins sûr. En effet, n’est-il pas vrai, plutôt, que « le travail sur la langue constitue la véritable esthétique des [récits] “inavouables“, qui se trouve apparaître ainsi d’elle-même, sans que l’on ait besoin de la justifier par interprétations intrinsèques<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi>» ? Cette remarque, que Michel Gailliard formule à propos de l’œuvre de Sade, s’applique parfaitement à l’écriture d’Anne Archet et d’autres travailleuses du texte.</alinea>
       </para>
       <para>
-        <alinea>
-	En même temps qu’elle détourne de grands textes de la littérature érotique, Anne Archet peaufine sa stratégie subversive en s’adonnant au pastiche du dispositif numérique. En entrant sur le blogue Lubricités, le lecteur-internaute est en effet accueilli par une fenêtre d’avertissement indiquant :</alinea>
+        <alinea>En même temps qu’elle détourne de grands textes de la littérature érotique, Anne Archet peaufine sa stratégie subversive en s’adonnant au pastiche du dispositif numérique. En entrant sur le blogue Lubricités, le lecteur-internaute est en effet accueilli par une fenêtre d’avertissement indiquant :</alinea>
       </para>
       <bloccitation>
-        <alinea>
-	Les textes qui suivent sont réservées [sic] aux grandes personnes. Si tu es mineur(e) (pas si tu travailles dans une mine, bien sûr) tu peux être extrêmement horriblement terrorisé(e) et traumatisé(e) incroyablement à vie à un point tel que tu ne peux pas imaginer, puisque tu es encore trop jeune pour être exposé(e) à une littérature aussi vile qui en plus de tout et par dessus le marché exploite les instincts les plus abjects de la nature humaine.</alinea>
-            <alinea>
-		En effet, tu as appris au catéchisme que si Dieu dans Son infinie sagesse a donné un sexe à l’Homme et à la Femme ce n’est qu’à une unique fin : qu’ils s’en servent pour procréer et saturer la surface du globe de petits morveux, et rien d’autre.</alinea>
+        <alinea>Les textes qui suivent sont réservées [sic] aux grandes personnes. Si tu es mineur(e) (pas si tu travailles dans une mine, bien sûr) tu peux être extrêmement horriblement terrorisé(e) et traumatisé(e) incroyablement à vie à un point tel que tu ne peux pas imaginer, puisque tu es encore trop jeune pour être exposé(e) à une littérature aussi vile qui en plus de tout et par dessus le marché exploite les instincts les plus abjects de la nature humaine.<para>
+            <alinea>En effet, tu as appris au catéchisme que si Dieu dans Son infinie sagesse a donné un sexe à l’Homme et à la Femme ce n’est qu’à une unique fin : qu’ils s’en servent pour procréer et saturer la surface du globe de petits morveux, et rien d’autre.</alinea>
+          </para>
+        </alinea>
       </bloccitation>
       <para>
-        <alinea>
-	Dans ce pastiche évident des avertissements d’usage lancé à l’internaute en visite sur un site pornographique (avertissement auquel ledit internaute doit répondre s’il est en âge de consulter les contenus potentiellement choquants pour un public mineur), Anne Archet démontre la structure pornographique intrinsèque au dispositif numérique : c’est notamment en présence de cette fenêtre que le contenu devient licencieux. Ainsi, le pastiche ne touche pas tant la forme que les connotations associées au web, et plus particulièrement ce que l’on qualifiera de « pornographie structurelle du dispositif-Internet<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi> », selon les termes de Marcello Vitali-Rosati. Cette association entre le médium numérique et la pornographie prend encore davantage de relief lorsque l’on remarque, avec Jean-Jacques Pauvert<renvoi idref="sdfootnote20sym" typeref="note">20</renvoi>, le rôle majeur que l’imprimerie a joué dans la constitution de ce genre. Pauvert, en effet, souligne une corrélation paradoxale entre le développement de l’imprimerie (qui a favorisé la diffusion d’écrits érotiques), l’intensification des politiques de censures (car les autorités, avant la diffusion de l’érotique imprimé, n’accordaient pas tant d’importance à un phénomène encore marginal), et l’apogée de la littérature érotique, pour laquelle le principe de subversion (qui n’existe que s’il y a censure) est un critère définitoire.</alinea>
+        <alinea>Dans ce pastiche évident des avertissements d’usage lancé à l’internaute en visite sur un site pornographique (avertissement auquel ledit internaute doit répondre s’il est en âge de consulter les contenus potentiellement choquants pour un public mineur), Anne Archet démontre la structure pornographique intrinsèque au dispositif numérique : c’est notamment en présence de cette fenêtre que le contenu devient licencieux. Ainsi, le pastiche ne touche pas tant la forme que les connotations associées au web, et plus particulièrement ce que l’on qualifiera de « pornographie structurelle du dispositif-Internet<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi> », selon les termes de Marcello Vitali-Rosati. Cette association entre le médium numérique et la pornographie prend encore davantage de relief lorsque l’on remarque, avec Jean-Jacques Pauvert<renvoi idref="sdfootnote20sym" typeref="note">20</renvoi>, le rôle majeur que l’imprimerie a joué dans la constitution de ce genre. Pauvert, en effet, souligne une corrélation paradoxale entre le développement de l’imprimerie (qui a favorisé la diffusion d’écrits érotiques), l’intensification des politiques de censures (car les autorités, avant la diffusion de l’érotique imprimé, n’accordaient pas tant d’importance à un phénomène encore marginal), et l’apogée de la littérature érotique, pour laquelle le principe de subversion (qui n’existe que s’il y a censure) est un critère définitoire.</alinea>
       </para>
       <para>
-        <alinea>
-	Dans ses dernières interventions, Pauvert déplorait la mort de l’érotisme, selon lui imputable à deux facteurs. D’abord, l’apparition puis l’optimisation progressive de nouveaux médiums (la photographie, le cinéma, mais surtout plus récemment le développement du web) qui, d’un modèle de diffusion suffisamment efficace pour générer une censure finalement stimulante, auront conduit vers un modèle de diffusion massive, banalisant les contenus potentiellement licencieux au point d’annuler tout sentiment érotique<renvoi idref="sdfootnote21sym" typeref="note">21</renvoi>. Je laisse pour l’instant de côté cet argument pour suivre jusqu’au bout le raisonnement de Pauvert, qui pourra surprendre ou révolter les lecteurs, et en particulier les lectrices. Car ce sont en effet les femmes, secondées par les homosexuels, qui en second lieu auraient précipité selon lui la disparition de l’érotisme :</alinea>
+        <alinea>Dans ses dernières interventions, Pauvert déplorait la mort de l’érotisme, selon lui imputable à deux facteurs. D’abord, l’apparition puis l’optimisation progressive de nouveaux médiums (la photographie, le cinéma, mais surtout plus récemment le développement du web) qui, d’un modèle de diffusion suffisamment efficace pour générer une censure finalement stimulante, auront conduit vers un modèle de diffusion massive, banalisant les contenus potentiellement licencieux au point d’annuler tout sentiment érotique<renvoi idref="sdfootnote21sym" typeref="note">21</renvoi>. Je laisse pour l’instant de côté cet argument pour suivre jusqu’au bout le raisonnement de Pauvert, qui pourra surprendre ou révolter les lecteurs, et en particulier les lectrices. Car ce sont en effet les femmes, secondées par les homosexuels, qui en second lieu auraient précipité selon lui la disparition de l’érotisme :</alinea>
       </para>
       <bloccitation>
-        <alinea>
-	Les femmes, comme les homosexuels qui écrivent, croient parler de sexe mais en fait n’en parlent plus. C’est du déballage, rien de plus. Les femmes, sous prétexte de s’emparer à leur tour de tous les moyens d’expression érotiques, y ont introduit une brutalité nouvelle sous l’autre prétexte de naturel et de progrès dans l’expression de la sexualité. Dès 1990, elles ont bourré leurs livres de sexe, ce qui mène à une platitude jamais atteinte. Une platitude que l’on ne peut même plus dénoncer sous peine d’être accusé de discrimination sexiste<renvoi idref="sdfootnote22sym" typeref="note">22</renvoi>.</alinea>
+        <alinea>Les femmes, comme les homosexuels qui écrivent, croient parler de sexe mais en fait n’en parlent plus. C’est du déballage, rien de plus. Les femmes, sous prétexte de s’emparer à leur tour de tous les moyens d’expression érotiques, y ont introduit une brutalité nouvelle sous l’autre prétexte de naturel et de progrès dans l’expression de la sexualité. Dès 1990, elles ont bourré leurs livres de sexe, ce qui mène à une platitude jamais atteinte. Une platitude que l’on ne peut même plus dénoncer sous peine d’être accusé de discrimination sexiste<renvoi idref="sdfootnote22sym" typeref="note">22</renvoi>.</alinea>
       </bloccitation>
       <para>
-        <alinea>
-	De la part de l’éditeur d’Histoire d’O, le constat est sévère. Injuste aussi, dès lors que l’on observe les pratiques d’écriture de nos « Dibutade 2.0 ». Se sont-elles « emparées » des moyens d’expression érotiques ? Elles ont surtout forgé une écriture originale, entretenant à l’égard des « pères » du genre un subtil jeu de parodie-hommage, à l’instar d’Anne Archet. Un jeu qu’elles exercent aussi à l’égard du médium numérique, de ses formes, de ses usages, et des connotations qui lui sont désormais associées. Ainsi, loin du grand déballage annoncé, ces écrivaines hypermédiatiques font preuve d’une appropriation raisonnée des dispositifs numériques, construisant avec pudeur et humour des avatars permettant d’esquiver une exposition totale de soi.</alinea>
+        <alinea>De la part de l’éditeur d’Histoire d’O, le constat est sévère. Injuste aussi, dès lors que l’on observe les pratiques d’écriture de nos « Dibutade 2.0 ». Se sont-elles « emparées » des moyens d’expression érotiques ? Elles ont surtout forgé une écriture originale, entretenant à l’égard des « pères » du genre un subtil jeu de parodie-hommage, à l’instar d’Anne Archet. Un jeu qu’elles exercent aussi à l’égard du médium numérique, de ses formes, de ses usages, et des connotations qui lui sont désormais associées. Ainsi, loin du grand déballage annoncé, ces écrivaines hypermédiatiques font preuve d’une appropriation raisonnée des dispositifs numériques, construisant avec pudeur et humour des avatars permettant d’esquiver une exposition totale de soi.</alinea>
       </para>
     </section1>
     <section1>
       <titre>
-	<marquage typemarq="italique">Conclusion – traces, traçabilité, tracés (Cécile Portier)</marquage>
+        <marquage typemarq="italique">Conclusion – traces, traçabilité, tracés (Cécile Portier)</marquage>
       </titre>
       <para>
         <alinea>
-	<figure>
+          <figure>
             <objetmedia flot="bloc">
               <image id="Etant_donnee123.jpg" typeimage="figure" desc=""/>
             </objetmedia>
@@ -464,216 +392,192 @@
         </alinea>
       </para>
       <para>
-        <alinea>
-	Si, comme le veut l’adage, « l’érotisme c’est la pornographie des autres », ne serait-ce pas au lecteur de trancher ? Exploitant les potentialités du web 2.0, ou du web <marquage typemarq="italique">participatif</marquage>, le lecteur / internaute est en effet fortement sollicité dans la fiction hypermédiatique <marquage typemarq="italique">Étant donnée</marquage> de Cécile Portier, auquel ont participé près d’une quinzaine d’artistes. Le projet s’inscrit, comme bien d’autres dispositifs étudiés jusqu’ici, dans le détournement-hommage d’une œuvre bien connue : <marquage typemarq="italique">Étant donnés</marquage>, l’une des réalisations les plus érotiques de Marcel Duchamp où, glissant son regard par un trou creusé dans une porte, le spectateur est placé en position de voyeur afin d’observer le corps dénudé d’une femme allongée dans l’herbe. Chez Cécile Portier, qui décline au féminin le titre de l’œuvre, Étant donnée met en scène une femme, retrouvée nue et amnésique dans un terrain vague. Au lecteur de la « rhabiller » de sa vie, grâce aux données numériques collectées sur son identité. Car,</alinea>
+        <alinea>Si, comme le veut l’adage, « l’érotisme c’est la pornographie des autres », ne serait-ce pas au lecteur de trancher ? Exploitant les potentialités du web 2.0, ou du web<marquage typemarq="italique">participatif</marquage>, le lecteur / internaute est en effet fortement sollicité dans la fiction hypermédiatique<marquage typemarq="italique">Étant donnée</marquage>de Cécile Portier, auquel ont participé près d’une quinzaine d’artistes. Le projet s’inscrit, comme bien d’autres dispositifs étudiés jusqu’ici, dans le détournement-hommage d’une œuvre bien connue :<marquage typemarq="italique">Étant donnés</marquage>, l’une des réalisations les plus érotiques de Marcel Duchamp où, glissant son regard par un trou creusé dans une porte, le spectateur est placé en position de voyeur afin d’observer le corps dénudé d’une femme allongée dans l’herbe. Chez Cécile Portier, qui décline au féminin le titre de l’œuvre, Étant donnée met en scène une femme, retrouvée nue et amnésique dans un terrain vague. Au lecteur de la « rhabiller » de sa vie, grâce aux données numériques collectées sur son identité. Car,</alinea>
       </para>
       <bloccitation>
-        <alinea>
-	si nous sommes les premiers producteurs des traces numériques qui nous concernent, nous en sommes très peu auteurs. Les données produites à notre insu sont quantitativement plus importantes que celles que nous pensons maîtriser, dans un discours, une rhétorique consciente et personnelle. De plus, nous sommes des « auteurs » quasiment analphabètes : nous avons peu accès, nous ne savons que très peu lire les données qui nous définissent. Et pourtant, d’autres savent lire et exploiter ces données. […] La trace était par définition ce qui pouvait se brouiller, elle devient l’élément clé de la traçabilité, ce régime d’écriture où le doute n’existe pas. Ce qui nous est refusé, dans cette nouvelle définition de la trace, c’est la possibilité d’inventer d’autres causes<renvoi idref="sdfootnote23sym" typeref="note">23</renvoi>.</alinea>
+        <alinea>si nous sommes les premiers producteurs des traces numériques qui nous concernent, nous en sommes très peu auteurs. Les données produites à notre insu sont quantitativement plus importantes que celles que nous pensons maîtriser, dans un discours, une rhétorique consciente et personnelle. De plus, nous sommes des « auteurs » quasiment analphabètes : nous avons peu accès, nous ne savons que très peu lire les données qui nous définissent. Et pourtant, d’autres savent lire et exploiter ces données. […] La trace était par définition ce qui pouvait se brouiller, elle devient l’élément clé de la traçabilité, ce régime d’écriture où le doute n’existe pas. Ce qui nous est refusé, dans cette nouvelle définition de la trace, c’est la possibilité d’inventer d’autres causes<renvoi idref="sdfootnote23sym" typeref="note">23</renvoi>.</alinea>
       </bloccitation>
       <para>
-        <alinea>
-	Il y aurait beaucoup à dire au sujet de ce projet hypermédiatique remarquablement réalisé, tant d’un point de vue technique que poétique. Mais puisqu’il faut maintenant conclure, c’est la première partie du dispositif, « Inexorable », qui retiendra mon attention. « Inexorable » est une pièce interactive réalisée par Alexandra Saemmer, reproduisant à l’écran le dispositif duchampien pour cependant l’expurger de tout aspect pornographique : le corps féminin dénudé apparaît dans l’herbe, où il s’évanouit aussitôt. Le lecteur peut cependant le faire réapparaître en promenant le curseur de façon à révéler sur son passage des pixels de chair qui s’effaceront en moins d’une seconde. L’effet, des plus sensuels, est démultiplié lorsque l’action est réalisée avec un appareil tactile : car c’est en caressant l’écran, et l’image à l’écran, que le corps se laisse entrevoir sans jamais se révéler complètement de nouveau.</alinea>
+        <alinea>Il y aurait beaucoup à dire au sujet de ce projet hypermédiatique remarquablement réalisé, tant d’un point de vue technique que poétique. Mais puisqu’il faut maintenant conclure, c’est la première partie du dispositif, « Inexorable », qui retiendra mon attention. « Inexorable » est une pièce interactive réalisée par Alexandra Saemmer, reproduisant à l’écran le dispositif duchampien pour cependant l’expurger de tout aspect pornographique : le corps féminin dénudé apparaît dans l’herbe, où il s’évanouit aussitôt. Le lecteur peut cependant le faire réapparaître en promenant le curseur de façon à révéler sur son passage des pixels de chair qui s’effaceront en moins d’une seconde. L’effet, des plus sensuels, est démultiplié lorsque l’action est réalisée avec un appareil tactile : car c’est en caressant l’écran, et l’image à l’écran, que le corps se laisse entrevoir sans jamais se révéler complètement de nouveau.</alinea>
       </para>
       <para>
-        <alinea>
-	Cette fonction optique-tactile, optimisée grâce aux fonctionnalités des appareils contemporains, n’est pas le propre de la « machine » informatique – ordinateur ou tablette. On la retrouve déjà au cœur du geste de Dibutade qui, pour conserver la trace du profil de son amant, associait la main et l’œil, devenant selon les mots de Françoise Frontisi Ducroux le « réceptacle d’un reflet qui est l’ombre de celui qui plonge son regard dans l’œil d’autrui… […] [L]a coré corinthienne est celle qui reçoit, enregistre l’ombre de l’objet aimé et dont la main, tel le pseudopode visuel qui sort de l’œil, vient palper le contour de cette ombre<renvoi idref="sdfootnote24sym" typeref="note">24</renvoi>. » De même, le dispositif <marquage typemarq="italique">Étant donnée</marquage> engage des propriétés haptiques (capitales dans le cadre d’une stratégie érotique) procédant d’une <marquage typemarq="italique">poétique du tracé</marquage> aux implications politiques majeures. Avec le développement du web 2.0, les conditions de production du soi auront en effet bien changé. Comme l’explique Louise Merzeau, notre identité est désormais en concurrence avec une entité purement numérique :</alinea>
+        <alinea>Cette fonction optique-tactile, optimisée grâce aux fonctionnalités des appareils contemporains, n’est pas le propre de la « machine » informatique – ordinateur ou tablette. On la retrouve déjà au cœur du geste de Dibutade qui, pour conserver la trace du profil de son amant, associait la main et l’œil, devenant selon les mots de Françoise Frontisi Ducroux le « réceptacle d’un reflet qui est l’ombre de celui qui plonge son regard dans l’œil d’autrui… […] [L]a coré corinthienne est celle qui reçoit, enregistre l’ombre de l’objet aimé et dont la main, tel le pseudopode visuel qui sort de l’œil, vient palper le contour de cette ombre<renvoi idref="sdfootnote24sym" typeref="note">24</renvoi>. » De même, le dispositif<marquage typemarq="italique">Étant donnée</marquage>engage des propriétés haptiques (capitales dans le cadre d’une stratégie érotique) procédant d’une<marquage typemarq="italique">poétique du tracé</marquage>aux implications politiques majeures. Avec le développement du web 2.0, les conditions de production du soi auront en effet bien changé. Comme l’explique Louise Merzeau, notre identité est désormais en concurrence avec une entité purement numérique :</alinea>
       </para>
       <bloccitation>
-        <alinea>
-	La personne qui sert de filtre à l’information n’est pas celle de nos CV, de nos appartenances et de nos papiers d’identité (même si, de plus en plus, elle en tient lieu). C’est une entité purement numérique qui se résume à la collection des traces laissées par nos connexions : requêtes, téléchargements, géolocalisation, achats, mais aussi contenus produits, copiés, repris, etc. Nous n’avons qu’une connaissance approximative de cette identité disséminée sur les réseaux. Opérateurs, marchands, moteurs de recherche et services de renseignements en savent plus sur nos comportements numériques que nous-mêmes, car ils ont la capacité de les archiver, de les recouper et de les modéliser.</alinea>
-            <alinea>
-		La première protection contre « l’expropriation identitaire » consiste donc à reprendre la main sur la gestion de nos traces – en déposant un nom de domaine, en administrant un site, en agrégeant ses favoris… D’une façon générale, face à l’impossibilité de se soustraire aux systèmes de surveillance, où l’acteur enregistre lui-même les indices de sa présence, qui peut l’aider à préserver l’intégrité de son identité<renvoi idref="sdfootnote25sym" typeref="note">25</renvoi>.</alinea>
+        <alinea>La personne qui sert de filtre à l’information n’est pas celle de nos CV, de nos appartenances et de nos papiers d’identité (même si, de plus en plus, elle en tient lieu). C’est une entité purement numérique qui se résume à la collection des traces laissées par nos connexions : requêtes, téléchargements, géolocalisation, achats, mais aussi contenus produits, copiés, repris, etc. Nous n’avons qu’une connaissance approximative de cette identité disséminée sur les réseaux. Opérateurs, marchands, moteurs de recherche et services de renseignements en savent plus sur nos comportements numériques que nous-mêmes, car ils ont la capacité de les archiver, de les recouper et de les modéliser.<para>
+            <alinea>La première protection contre « l’expropriation identitaire » consiste donc à reprendre la main sur la gestion de nos traces – en déposant un nom de domaine, en administrant un site, en agrégeant ses favoris… D’une façon générale, face à l’impossibilité de se soustraire aux systèmes de surveillance, où l’acteur enregistre lui-même les indices de sa présence, qui peut l’aider à préserver l’intégrité de son identité<renvoi idref="sdfootnote25sym" typeref="note">25</renvoi>.</alinea>
+          </para>
+        </alinea>
       </bloccitation>
       <para>
-        <alinea>
-	Chez Cécile Portier, Anne Archet ou Victoria Welby, le détournement ludique et littéraire des dispositifs numériques fait justement acte de résistance contre cette « expropriation identitaire ». À la trace numérique responsable du <marquage typemarq="italique">profilage</marquage> de l’usager, elles opposent un <marquage typemarq="italique">tracé de leurres numériques</marquage> (auto)fictifs et poétiques dont il faut, plus que jamais, reconnaître la fonction politique. Ces « êtres de données », comme on a pu parler d’« êtres de papier », torpillent cette traçabilité numérique pour exploiter l’autre « face » du profil, celle qui est encore cachée, encore à inventer : « Et le faire avec nous tous, qui la lisons, et qui aussi l’écrivons, mais cette fois-ci, comme de l’intérieur, comme si c’était nous, comme si c’était de  notre propre liberté (de vie, d’écriture) qu’il s’agissait<renvoi idref="sdfootnote26sym" typeref="note">26</renvoi>. »</alinea>
+        <alinea>Chez Cécile Portier, Anne Archet ou Victoria Welby, le détournement ludique et littéraire des dispositifs numériques fait justement acte de résistance contre cette « expropriation identitaire ». À la trace numérique responsable du<marquage typemarq="italique">profilage</marquage>de l’usager, elles opposent un<marquage typemarq="italique">tracé de leurres numériques</marquage>(auto)fictifs et poétiques dont il faut, plus que jamais, reconnaître la fonction politique. Ces « êtres de données », comme on a pu parler d’« êtres de papier », torpillent cette traçabilité numérique pour exploiter l’autre « face » du profil, celle qui est encore cachée, encore à inventer : « Et le faire avec nous tous, qui la lisons, et qui aussi l’écrivons, mais cette fois-ci, comme de l’intérieur, comme si c’était nous, comme si c’était de  notre propre liberté (de vie, d’écriture) qu’il s’agissait<renvoi idref="sdfootnote26sym" typeref="note">26</renvoi>. »</alinea>
       </para>
-      
+      <para>
+        <alinea> </alinea>
+      </para>
     </section1>
   </corps>
   <partiesann>
     <grbiblio>
-      <biblio><titre>Bibliographie</titre>
-        <refbiblio>
-	ARCHET, Anne, <marquage typemarq="italique">Lubricités, Les Cahiers d’Anne Archet</marquage>, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://archet.net/">http://archet.net</liensimple> &amp;gt; (consulté le 1er septembre 2015).</refbiblio>
-        <refbiblio>
-	-- <marquage typemarq="italique">Flegmatique, le blogue flegmatique d’Anne Archet</marquage>, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://flegmatique.net/">http://flegmatique.net</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
-        <refbiblio>
-	CANDEL Etienne et GOMEZ-MEIJA Gustavo, « Écrire l’auteur : la pratique éditoriale comme construction socioculturelle de la littérarité des textes sur le Web », <marquage typemarq="italique">L’auteur en réseaux, les réseaux de l’auteur</marquage>, DESEILLIGNY Orianne et DUCAS Sylvie (dir.), Paris, Presses Universitaires de Paris Ouest, coll. « orbis litterarum », 2013, p. 49-70.</refbiblio>
-        <refbiblio>
-	DERRIDA Jacques, <marquage typemarq="italique">Mémoires d’aveugle. L’Autoportrait et autres ruines</marquage>, Paris, Réunion des musées nationaux, 1990.</refbiblio>
-        <refbiblio>
-	DOUEIHI Milad, <marquage typemarq="italique">La grande conversion numérique</marquage>, Seuil, Paris, 2008.</refbiblio>
-        <refbiblio>
-	-- <marquage typemarq="italique">Pour un humanisme numérique</marquage>, Seuil, Paris, 2011.</refbiblio>
-        <refbiblio>
-	FRONTISI-DUCROUX, Françoise, « La fille de Dibutade, ou l’inventrice inventée », <marquage typemarq="italique">Cahiers du genre</marquage>, Paris, p. 133-151.</refbiblio>
-        <refbiblio>
-	-- <marquage typemarq="italique">Ouvrages de dames. Ariane, Hélène, Pénélope…</marquage>, Paris, Seuil, 2009, coll. « La librairie du XXI siècle ».</refbiblio>
-        <refbiblio>
-	GAILLIARD, Michel, <marquage typemarq="italique">Le langage de l’obscénité, Étude stylistique des romans de Sade : Les Cent Vingt Journées de Sodome, les trois Justine et Histoire de Juliette</marquage>, Paris, Honoré Champion, 2006.</refbiblio>
-        <refbiblio>
-	LE BOUYER de FONTENELLE, François, <marquage typemarq="italique">Œuvres</marquage>, t. V, Paris, Bastien/Servières, 1790.</refbiblio>
-        <refbiblio>
-	MARÉCHAL, Sylvain, <marquage typemarq="italique">Projet d’une loi portant défense d’apprendre à lire aux femmes (1801) suivi des réponses de Marie-Armande Gacon-Dufour et Albertine Clément-Hémery</marquage>, Textes présentés par Bernard Jolibert. Paris, L’Harmattan, 2007.</refbiblio>
-        <refbiblio>
-	MERZEAU, Louise, « Du signe à la trace : l’information sur mesure », <marquage typemarq="italique">Hermes</marquage>, CNRS-Editions, 2009, p. 23-29.</refbiblio>
-        <refbiblio>
-	ORDINE, Nuccio, <marquage typemarq="italique">Le Seuil de l’ombre</marquage>, traduction Luc Hersant, Paris, Les Belles Lettres, 2003.</refbiblio>
-        <refbiblio>
-	PLINE, <marquage typemarq="italique">Histoire naturelle, </marquage>Livre XXXV, chap. 43, traduction Jean-Michel Croisille, 1985.</refbiblio>
-        <refbiblio>
-	PORTIER, Cécile, « <marquage typemarq="italique">Etant donnée</marquage>, Une fable poétique sur le régime de nos traces numériques, sur ce qu’il change à notre façon d’être au monde. », <marquage typemarq="italique">Itinéraires, Littératures, Textes, Cultures </marquage>(à paraître).</refbiblio>
-        <refbiblio>
-	-- <marquage typemarq="italique">Petite Racine</marquage>, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://petiteracine.net/wordpress/">http://petiteracine.net/wordpress/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
-        <refbiblio>
-	-- <marquage typemarq="italique">Étant Donnée</marquage>, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://etantdonnee.net/">http://etantdonnee.net</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
-        <refbiblio>
-	REVOL, Bertrand, « L’image est ses ombres », <marquage typemarq="italique">L’Ombre de l’image, de la falsification à l’infigurable</marquage>, GAGNEBIN M. (dir.), Seyssel, Éditions Champ Vallon, coll. « L’Or d’Atalante », 2003, p. 29-65.</refbiblio>
-        <refbiblio>
-	VITALI-ROSATI, Marcello, « Voir l’invisible, Gygès et la pornographie Facebook », <marquage typemarq="italique">Sens Public</marquage>, Févier 2012, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article912">http://www.sens-public.org/spip.php?article912</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
-        <refbiblio>
-	WELBY, Victoria, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://victoriawelby.ca/">http://victoriawelby.ca</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
-        <refbiblio>
-	 </refbiblio>
-        <refbiblio>
-	&amp;lt;<liensimple xlink:type="simple" xlink:href="http://flegmatique.net/2013/02/21/portrait-de-la-femme-invisible-devant-son-miroir/">http://flegmatique.net/2013/02/21/portrait-de-la-femme-invisible-devant-son-miroir/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
-        <refbiblio>
-	&amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.hebdo.ch/hebdo/culture/detail/«lérotisme-nexiste-plus»">http://www.hebdo.ch/hebdo/culture/detail/%C2%ABl%C3%A9rotisme-nexiste-plus%C2%BB</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
+      <biblio>
+        <refbiblio>ARCHET, Anne,<marquage typemarq="italique">Lubricités, Les Cahiers d’Anne Archet</marquage>, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://archet.net/">http://archet.net</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
+        <refbiblio>--<marquage typemarq="italique">Flegmatique, le blogue flegmatique d’Anne Archet</marquage>, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://flegmatique.net/">http://flegmatique.net</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
+        <refbiblio>CANDEL Etienne et GOMEZ-MEIJA Gustavo, « Écrire l’auteur : la pratique éditoriale comme construction socioculturelle de la littérarité des textes sur le Web »,<marquage typemarq="italique">L’auteur en réseaux, les réseaux de l’auteur</marquage>, DESEILLIGNY Orianne et DUCAS Sylvie (dir.), Paris, Presses Universitaires de Paris Ouest, coll. « orbis litterarum », 2013, p. 49-70.</refbiblio>
+        <refbiblio>DERRIDA Jacques,<marquage typemarq="italique">Mémoires d’aveugle. L’Autoportrait et autres ruines</marquage>, Paris, Réunion des musées nationaux, 1990.</refbiblio>
+        <refbiblio>DOUEIHI Milad,<marquage typemarq="italique">La grande conversion numérique</marquage>, Seuil, Paris, 2008.</refbiblio>
+        <refbiblio>--<marquage typemarq="italique">Pour un humanisme numérique</marquage>, Seuil, Paris, 2011.</refbiblio>
+        <refbiblio>FRONTISI-DUCROUX, Françoise, « La fille de Dibutade, ou l’inventrice inventée »,<marquage typemarq="italique">Cahiers du genre</marquage>, Paris, p. 133-151.</refbiblio>
+        <refbiblio>--<marquage typemarq="italique">Ouvrages de dames. Ariane, Hélène, Pénélope…</marquage>, Paris, Seuil, 2009, coll. « La librairie du XXI<exposant>e</exposant>siècle ».</refbiblio>
+        <refbiblio>GAILLIARD, Michel,<marquage typemarq="italique">Le langage de l’obscénité, Étude stylistique des romans de Sade : Les Cent Vingt Journées de Sodome, les trois Justine et Histoire de Juliette</marquage>, Paris, Honoré Champion, 2006.</refbiblio>
+        <refbiblio>LE BOUYER de FONTENELLE, François,<marquage typemarq="italique">Œuvres</marquage>, t. V, Paris, Bastien/Servières, 1790.</refbiblio>
+        <refbiblio>MARÉCHAL, Sylvain,<marquage typemarq="italique">Projet d’une loi portant défense d’apprendre à lire aux femmes (1801) suivi des réponses de Marie-Armande Gacon-Dufour et Albertine Clément-Hémery</marquage>, Textes présentés par Bernard Jolibert. Paris, L’Harmattan, 2007.</refbiblio>
+        <refbiblio>MERZEAU, Louise, « Du signe à la trace : l’information sur mesure »,<marquage typemarq="italique">Hermes</marquage>, CNRS-Editions, 2009, p. 23-29.</refbiblio>
+        <refbiblio>ORDINE, Nuccio,<marquage typemarq="italique">Le Seuil de l’ombre</marquage>, traduction Luc Hersant, Paris, Les Belles Lettres, 2003.</refbiblio>
+        <refbiblio>PLINE,<marquage typemarq="italique">Histoire naturelle,</marquage>Livre XXXV, chap. 43, traduction Jean-Michel Croisille, 1985.</refbiblio>
+        <refbiblio>PORTIER, Cécile, « <marquage typemarq="italique">Etant donnée</marquage>, Une fable poétique sur le régime de nos traces numériques, sur ce qu’il change à notre façon d’être au monde. »,<marquage typemarq="italique">Itinéraires, Littératures, Textes, Cultures</marquage>(à paraître).</refbiblio>
+        <refbiblio>--<marquage typemarq="italique">Petite Racine</marquage>, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://petiteracine.net/wordpress/">http://petiteracine.net/wordpress/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
+        <refbiblio>--<marquage typemarq="italique">Étant Donnée</marquage>, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://etantdonnee.net/">http://etantdonnee.net</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
+        <refbiblio>REVOL, Bertrand, « L’image est ses ombres »,<marquage typemarq="italique">L’Ombre de l’image, de la falsification à l’infigurable</marquage>, GAGNEBIN M. (dir.), Seyssel, Éditions Champ Vallon, coll. « L’Or d’Atalante », 2003, p. 29-65.</refbiblio>
+        <refbiblio>VITALI-ROSATI, Marcello, « Voir l’invisible, Gygès et la pornographie Facebook »,<marquage typemarq="italique">Sens Public</marquage>, Févier 2012, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article912">http://www.sens-public.org/spip.php?article912</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
+        <refbiblio>WELBY, Victoria, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://victoriawelby.ca/">http://victoriawelby.ca</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
+        <refbiblio> </refbiblio>
+        <refbiblio>&amp;lt;<liensimple xlink:type="simple" xlink:href="http://flegmatique.net/2013/02/21/portrait-de-la-femme-invisible-devant-son-miroir/">http://flegmatique.net/2013/02/21/portrait-de-la-femme-invisible-devant-son-miroir/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
+        <refbiblio>&amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.hebdo.ch/hebdo/culture/detail/«lérotisme-nexiste-plus»">http://www.hebdo.ch/hebdo/culture/detail/%C2%ABl%C3%A9rotisme-nexiste-plus%C2%BB</liensimple>&amp;gt; (consulté le 1er septembre 2015).</refbiblio>
       </biblio>
     </grbiblio>
     <grnote>
       <note id="sdfootnote1sym">
         <no>1</no>
         <alinea>
-	Consulter notamment Milad Doueihi, <marquage typemarq="italique">La grande conversion numérique</marquage>, Seuil : Paris, 2008 et <marquage typemarq="italique">Pour un humanisme numérique</marquage>, Seuil : Paris, 2011. </alinea>
+          Consulter notamment Milad Doueihi,<marquage typemarq="italique">La grande conversion numérique</marquage>, Seuil : Paris, 2008 et<marquage typemarq="italique">Pour un humanisme numérique</marquage>, Seuil : Paris, 2011. </alinea>
       </note>
       <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
-	Par exemple, chez Alberti, qui reprend le mythe dans son ouvrage fondateur pour la peinture moderne, <marquage typemarq="italique">De Pictura</marquage>, 1536. Sur le sujet, consulter notamment Victor I Stoichita, <marquage typemarq="italique">Brève histoire de l’ombre</marquage>, Genève : Groz, 2000. Au XVI siècle, Vasari revient lui aussi sur le texte de Pline dans ses écrits sur l’art (voir l’étude que lui consacre Nuccio Ordine, <marquage typemarq="italique">Le Seuil de l’ombre</marquage>, Paris, Les belles lettres, 2003, p. 269 <marquage typemarq="italique">sq</marquage>).</alinea>
+          Par exemple, chez Alberti, qui reprend le mythe dans son ouvrage fondateur pour la peinture moderne,<marquage typemarq="italique">De Pictura</marquage>, 1536. Sur le sujet, consulter notamment Victor I Stoichita,<marquage typemarq="italique">Brève histoire de l’ombre</marquage>, Genève : Groz, 2000. Au XVI<exposant>e</exposant>siècle, Vasari revient lui aussi sur le texte de Pline dans ses écrits sur l’art (voir l’étude que lui consacre Nuccio Ordine,<marquage typemarq="italique">Le Seuil de l’ombre</marquage>, Paris, Les belles lettres, 2003, p. 269<marquage typemarq="italique">sq</marquage>).</alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>
         <alinea>
-	Françoise Frontisi-Ducroux, « La fille de Dibutade, ou l’inventrice inventée », <marquage typemarq="italique">Cahiers du genre</marquage>, Paris : L’Harmattan, 2007, n°43 ; <marquage typemarq="italique">Ouvrages de Ariane dames, Ariane, Hélène, Pénélope…</marquage>, Paris, Seuil, 2009, coll. « La librairie du XXI siècle ».</alinea>
+          Françoise Frontisi-Ducroux, « La fille de Dibutade, ou l’inventrice inventée »,<marquage typemarq="italique">Cahiers du genre</marquage>, Paris : L’Harmattan, 2007, n°43 ;<marquage typemarq="italique">Ouvrages de Ariane dames, Ariane, Hélène, Pénélope…</marquage>, Paris, Seuil, 2009, coll. « La librairie du XXI<exposant>e</exposant>siècle ».</alinea>
       </note>
       <note id="sdfootnote4sym">
         <no>4</no>
         <alinea>
-	Pline, <marquage typemarq="italique">Histoire naturelle</marquage>, Livre XXXV, chap. 43, traduction Jean-Michel Croisille, 1985 (je souligne).</alinea>
+          Pline,<marquage typemarq="italique">Histoire naturelle</marquage>, Livre XXXV, chap. 43, traduction Jean-Michel Croisille, 1985 (je souligne).</alinea>
       </note>
       <note id="sdfootnote5sym">
         <no>5</no>
         <alinea>
-	Voir sur le sujet Bertrand Revol, « L’image et ses ombres », <marquage typemarq="italique">in L’Ombre de l’image, de la falsification à l’infigurable</marquage>, dir. Murielle Gagnebin, Seyssel, Éditions Champ Vallon, coll. « L’Or d’Atalante », 2003, p. 39. Ou encore Nuccio Ordine, <marquage typemarq="italique">Le Seuil de l’ombre</marquage>, traduction Luc Hersant, Paris :Les Belles Lettres, 2003.</alinea>
+          Voir sur le sujet Bertrand Revol, « L’image et ses ombres »,<marquage typemarq="italique">in L’Ombre de l’image, de la falsification à l’infigurable</marquage>, dir. Murielle Gagnebin, Seyssel, Éditions Champ Vallon, coll. « L’Or d’Atalante », 2003, p. 39. Ou encore Nuccio Ordine,<marquage typemarq="italique">Le Seuil de l’ombre</marquage>, traduction Luc Hersant, Paris :Les Belles Lettres, 2003.</alinea>
       </note>
       <note id="sdfootnote6sym">
         <no>6</no>
         <alinea>
-	Jacques Derrida, <marquage typemarq="italique">Mémoires d’aveugle, L’Autoportrait et autres ruines</marquage>, Paris, Réunion des musées nationaux, 1990, p. 54.</alinea>
+          Jacques Derrida,<marquage typemarq="italique">Mémoires d’aveugle, L’Autoportrait et autres ruines</marquage>, Paris, Réunion des musées nationaux, 1990, p. 54.</alinea>
       </note>
       <note id="sdfootnote7sym">
         <no>7</no>
         <alinea>
-	François Le Bouyer de Fontennelle, <marquage typemarq="italique">Œuvres</marquage>, Tome V, Paris : Bastien/Servières, 1790, « Lettres à l’imitation des héroïnes d’Ovide », p. 154.</alinea>
+          François Le Bouyer de Fontennelle,<marquage typemarq="italique">Œuvres</marquage>, Tome V, Paris : Bastien/Servières, 1790, « Lettres à l’imitation des héroïnes d’Ovide », p. 154.</alinea>
       </note>
       <note id="sdfootnote8sym">
         <no>8</no>
         <alinea>
-	Sylvain Maréchal, <marquage typemarq="italique">Projet d’une loi portant défense d’apprendre à lire aux femmes (1801) suivi des réponses de Marie-Armande Gacon-Dufour et Albertine Clément-Hémery</marquage>, Textes présentés par Bernard Jolibert. Paris : L’Harmattan, 2007.</alinea>
+          Sylvain Maréchal,<marquage typemarq="italique">Projet d’une loi portant défense d’apprendre à lire aux femmes (1801) suivi des réponses de Marie-Armande Gacon-Dufour et Albertine Clément-Hémery</marquage>, Textes présentés par Bernard Jolibert. Paris : L’Harmattan, 2007.</alinea>
       </note>
       <note id="sdfootnote9sym">
         <no>9</no>
         <alinea>
-	Voir Françoise Frontisi-Ducroux, <marquage typemarq="italique">op</marquage>. <marquage typemarq="italique">cit</marquage>., ainsi que Denise Noël, « Les femmes peintres dans la seconde moitié du XIX siècle », <marquage typemarq="italique">Clio. Femmes, Genre, Histoire</marquage>, 2004, [en ligne] : &amp;lt;<liensimple xlink:type="simple" xlink:href="http://clio.revues.org/646">http://clio.revues.org/646</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+          Voir Françoise Frontisi-Ducroux,<marquage typemarq="italique">op</marquage>.<marquage typemarq="italique">cit</marquage>., ainsi que Denise Noël, « Les femmes peintres dans la seconde moitié du XIX<exposant>e</exposant>siècle »,<marquage typemarq="italique">Clio. Femmes, Genre, Histoire</marquage>, 2004, [en ligne] : &amp;lt;<liensimple xlink:type="simple" xlink:href="http://clio.revues.org/646">http://clio.revues.org/646</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </note>
       <note id="sdfootnote10sym">
         <no>10</no>
         <alinea>
-          Anne Archet, « Portrait de la femme invisible devant son miroir », <liensimple xlink:type="simple" xlink:href="http://flegmatique.net/2013/02/21/portrait-de-la-femme-invisible-devant-son-miroir/">http://flegmatique.net/2013/02/21/portrait-de-la-femme-invisible-devant-son-miroir/</liensimple> (consulté le 1er septembre 2015).</alinea>
+          Anne Archet, « Portrait de la femme invisible devant son miroir »,</alinea>
       </note>
       <note id="sdfootnote11sym">
         <no>11</no>
         <alinea>
-	Benoît Bordeleau, « L’auteur est peut-être mort… », <marquage typemarq="italique">Hoche’Elague </marquage>[En ligne]<marquage typemarq="italique">, Espace littéraire et photographique</marquage>, 2 février 2014, &amp;lt;<liensimple xlink:type="simple" xlink:href="https://bbordeleau.wordpress.com/2014/02/02/lauteur-est-peut-etre-mort-lit4810/">https://bbordeleau.wordpress.com/2014/02/02/lauteur-est-peut-etre-mort-lit4810/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+          Benoît Bordeleau, « L’auteur est peut-être mort… »,<marquage typemarq="italique">Hoche’Elague</marquage>[En ligne]<marquage typemarq="italique">, Espace littéraire et photographique</marquage>, 2 février 2014, &amp;lt;<liensimple xlink:type="simple" xlink:href="https://bbordeleau.wordpress.com/2014/02/02/lauteur-est-peut-etre-mort-lit4810/">https://bbordeleau.wordpress.com/2014/02/02/lauteur-est-peut-etre-mort-lit4810/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </note>
       <note id="sdfootnote12sym">
         <no>12</no>
         <alinea>
-	Voir aussi Paule Mackrous, « Écriveuses du Web : abondance et remix », <marquage typemarq="italique">Itinéraires</marquage> [En ligne], 2014-1 | 2015, 1er février 2015 &amp;lt;URL : <liensimple xlink:type="simple" xlink:href="http://itineraires.revues.org/2276">http://itineraires.revues.org/2276</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+          Voir aussi Paule Mackrous, « Écriveuses du Web : abondance et remix »,<marquage typemarq="italique">Itinéraires</marquage>[En ligne], 2014-1 | 2015, 1er février 2015 &amp;lt;URL :<liensimple xlink:type="simple" xlink:href="http://itineraires.revues.org/2276">http://itineraires.revues.org/2276</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </note>
       <note id="sdfootnote13sym">
         <no>13</no>
         <alinea>
-	Sur cette question des connotations, voir notamment Étienne Candel et Gustavo Gomez-Meija, « Écrire l’auteur : la pratique éditoriale comme construction socioculturelle de la littérarité des textes sur le Web », <marquage typemarq="italique">L’auteur en réseaux, les réseaux de l’auteur</marquage>, Orianne Deseilligny et Sylvie Ducas (dir.), Paris : Presses Universitaires de Paris Ouest, 2013, coll. « orbis litterarum ».</alinea>
+          Sur cette question des connotations, voir notamment Étienne Candel et Gustavo Gomez-Meija, « Écrire l’auteur : la pratique éditoriale comme construction socioculturelle de la littérarité des textes sur le Web »,<marquage typemarq="italique">L’auteur en réseaux, les réseaux de l’auteur</marquage>, Orianne Deseilligny et Sylvie Ducas (dir.), Paris : Presses Universitaires de Paris Ouest, 2013, coll. « orbis litterarum ».</alinea>
       </note>
       <note id="sdfootnote14sym">
         <no>14</no>
         <alinea>
-	La page n’existe plus aujourd’hui, vraisemblablement censurée par Kijiji. Victoria Welby en a publié une capture d’écran que l’on peut consulter sur son site, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://victoriawelby.ca/écrivaine-publique-censurée-par-kijiji">http://victoriawelby.ca/écrivaine-publique-censurée-par-kijiji</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+          La page n’existe plus aujourd’hui, vraisemblablement censurée par Kijiji. Victoria Welby en a publié une capture d’écran que l’on peut consulter sur son site, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://victoriawelby.ca/écrivaine-publique-censurée-par-kijiji">http://victoriawelby.ca/écrivaine-publique-censurée-par-kijiji</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </note>
       <note id="sdfootnote15sym">
         <no>15</no>
         <alinea>
-	Victoria Welby, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://victoriawelby.ca/bio">http://victoriawelby.ca/bio</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+          Victoria Welby, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://victoriawelby.ca/bio">http://victoriawelby.ca/bio</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </note>
       <note id="sdfootnote16sym">
         <no>16</no>
         <alinea>
-	Victoria Welby, « Me and you and everyone who reads us », 30 mai 2011, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://victoriawelby.ca/blogue/me-and-you-and-everyone-who-reads-us">http://victoriawelby.ca/blogue/me-and-you-and-everyone-who-reads-us</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+          Victoria Welby, « Me and you and everyone who reads us », 30 mai 2011, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://victoriawelby.ca/blogue/me-and-you-and-everyone-who-reads-us">http://victoriawelby.ca/blogue/me-and-you-and-everyone-who-reads-us</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </note>
       <note id="sdfootnote17sym">
         <no>17</no>
         <alinea>
-	Anne Archet, « Confession de la pornographe », <marquage typemarq="italique">Lubricités </marquage>[en ligne], 22 décembre 2011, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://archet.net/2011/12/confession-de-la-pornographe/">http://archet.net/2011/12/confession-de-la-pornographe/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+          Anne Archet, « Confession de la pornographe »,<marquage typemarq="italique">Lubricités</marquage>[en ligne], 22 décembre 2011, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://archet.net/2011/12/confession-de-la-pornographe/">http://archet.net/2011/12/confession-de-la-pornographe/</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </note>
       <note id="sdfootnote18sym">
         <no>18</no>
         <alinea>
-	Michel Gailliard, <marquage typemarq="italique">Le langage de l’obscénité, Étude stylistique des romans de Sade : Les Cent Vingt Journées de Sodome, les trois Justine et Histoire de Juliette</marquage>, Paris : Honoré Champion, 2006, p. 441.</alinea>
+          Michel Gailliard,<marquage typemarq="italique">Le langage de l’obscénité, Étude stylistique des romans de Sade : Les Cent Vingt Journées de Sodome, les trois Justine et Histoire de Juliette</marquage>, Paris : Honoré Champion, 2006, p. 441.</alinea>
       </note>
       <note id="sdfootnote19sym">
         <no>19</no>
         <alinea>
-	Marcello Vitali-Rosati, « Voir l’invisible, Gygès et la pornographie Facebook », <marquage typemarq="italique">Sens Public </marquage>[en ligne], Févier 2012, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article912">http://www.sens-public.org/spip.php?article912</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
+          Marcello Vitali-Rosati, « Voir l’invisible, Gygès et la pornographie Facebook »,<marquage typemarq="italique">Sens Public</marquage>[en ligne], Févier 2012, &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article912">http://www.sens-public.org/spip.php?article912</liensimple>&amp;gt; (consulté le 1er septembre 2015).</alinea>
       </note>
       <note id="sdfootnote20sym">
         <no>20</no>
         <alinea>
-	Jean-Jacques Pauvert, <marquage typemarq="italique">Métamorphose du sentiment érotique</marquage>, Paris : JC Lattès, 2011.</alinea>
+          Jean-Jacques Pauvert,<marquage typemarq="italique">Métamorphose du sentiment érotique</marquage>, Paris : JC Lattès, 2011.</alinea>
       </note>
       <note id="sdfootnote21sym">
         <no>21</no>
         <alinea>
-	« Que peut bien être devenue l’image érotique ? Comme le reste des représentations, elle a commencé à se multiplier. Et dès la seconde moitié du XIX siècle, avec les représentations photographiques, la clandestinité de cette multiplication lui gardant encore un reste d’existence. Puis, dans le courant du XX siècle, arrive le cinéma, qui anime la photographie, avec les films pornographiques (toujours clandestins, bien sûr, ce qui en limite encore la diffusion). Ensuite expansion publique de l’érotisme cinématographique, avec les films (érotiques, pornographiques ? en tout cas maintenant au grand jour) de la fin du XX siècle. L’érotisme commence donc à toucher peu à peu les masses, d’abord un peu réticentes, puis gagnées chaque jour davantage par cette promesse de fêtes nouvelles. Et l’érotisme se répand par les images. De plus en plus. Grignotant chaque jour la vie quotidienne. Gagnant au fil des années droit de cité, parmi les multiples droits de cité. Jusqu’à conquérir complètement aujourd’hui les cervelles par une vulgarisation accélérée, innombrable, qui retire à l’image érotique toute la force qu’elle a pu avoir un temps. », Jean-Jacques Pauvert, <marquage typemarq="italique">idem</marquage>, p. 298. </alinea>
+          « Que peut bien être devenue l’image érotique ? Comme le reste des représentations, elle a commencé à se multiplier. Et dès la seconde moitié du XIX<exposant>e</exposant>siècle, avec les représentations photographiques, la clandestinité de cette multiplication lui gardant encore un reste d’existence. Puis, dans le courant du XX<exposant>e</exposant>siècle, arrive le cinéma, qui anime la photographie, avec les films pornographiques (toujours clandestins, bien sûr, ce qui en limite encore la diffusion). Ensuite expansion publique de l’érotisme cinématographique, avec les films (érotiques, pornographiques ? en tout cas maintenant au grand jour) de la fin du XX<exposant>e</exposant>siècle. L’érotisme commence donc à toucher peu à peu les masses, d’abord un peu réticentes, puis gagnées chaque jour davantage par cette promesse de fêtes nouvelles. Et l’érotisme se répand par les images. De plus en plus. Grignotant chaque jour la vie quotidienne. Gagnant au fil des années droit de cité, parmi les multiples droits de cité. Jusqu’à conquérir complètement aujourd’hui les cervelles par une vulgarisation accélérée, innombrable, qui retire à l’image érotique toute la force qu’elle a pu avoir un temps. », Jean-Jacques Pauvert,<marquage typemarq="italique">idem</marquage>, p. 298. </alinea>
       </note>
       <note id="sdfootnote22sym">
         <no>22</no>
         <alinea>
-          Jean-Jacques Pauvert, entretien dans <marquage typemarq="italique">L’Hebdo</marquage>, 23 mai 2001, <liensimple xlink:type="simple" xlink:href="http://www.hebdo.ch/hebdo/culture/detail/%C2%AB%C2%A0l%C3%A9rotisme-nexiste-plus%C2%A0%C2%BB">http://www.hebdo.ch/hebdo/culture/detail/%C2%AB%C2%A0l%C3%A9rotisme-nexiste-plus%C2%A0%C2%BB</liensimple> (consulté le 1er septembre 2015).</alinea>
+          Jean-Jacques Pauvert, entretien dans<marquage typemarq="italique">L’Hebdo</marquage>, 23 mai 2001,</alinea>
       </note>
       <note id="sdfootnote23sym">
         <no>23</no>
         <alinea>
-	Cécile Portier, « <marquage typemarq="italique">Etant donnée</marquage>, Une fable poétique sur le régime de nos traces numériques, sur ce qu’il change à notre façon d’être au monde. », <marquage typemarq="italique">Itinéraires, Littératures, Textes, Cultures </marquage>(à paraître).</alinea>
+          Cécile Portier, « <marquage typemarq="italique">Etant donnée</marquage>, Une fable poétique sur le régime de nos traces numériques, sur ce qu’il change à notre façon d’être au monde. »,<marquage typemarq="italique">Itinéraires, Littératures, Textes, Cultures</marquage>(à paraître).</alinea>
       </note>
       <note id="sdfootnote24sym">
         <no>24</no>
         <alinea>
-	Françoise Frontisi-Ducroux, <marquage typemarq="italique">op. cit.</marquage>
+          Françoise Frontisi-Ducroux, <marquage typemarq="italique">op. c</marquage>
+          <marquage typemarq="italique">it.</marquage>
         </alinea>
       </note>
       <note id="sdfootnote25sym">
         <no>25</no>
         <alinea>
-	Louise Merzeau, « Du signe à la trace : l’information sur mesure », <marquage typemarq="italique">Hermes</marquage>, CNRS-Editions, 2009. </alinea>
+          Louise Merzeau, « Du signe à la trace : l’information sur mesure »,<marquage typemarq="italique">Hermes</marquage>, CNRS-Editions, 2009. </alinea>
       </note>
       <note id="sdfootnote26sym">
         <no>26</no>
         <alinea>
-	Cécile Portier, « <marquage typemarq="italique">Etant donnée</marquage>, Une fable poétique sur le régime de nos traces numériques, sur ce qu’il change à notre façon d’être au monde. », <marquage typemarq="italique">op. cit.</marquage>
+          Cécile Portier, « <marquage typemarq="italique">Etant donnée</marquage>, Une fable poétique sur le régime de nos traces numériques, sur ce qu’il change à notre façon d’être au monde. », <marquage typemarq="italique">op. c</marquage>
+          <marquage typemarq="italique">it.</marquage>
         </alinea>
       </note>
     </grnote>

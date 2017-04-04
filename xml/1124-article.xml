@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1872ear" typeart="essai" lang="fr" ordseq="1">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1872ear" typeart="Essais" lang="fr" ordseq="1">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -9,7 +9,7 @@
         <descripteur>France</descripteur>
       </grdescripteur>
       <nbpara>29</nbpara>
-      <nbmot>4109</nbmot>
+      <nbmot>4026</nbmot>
       <nbfig>0</nbfig>
       <nbtabl>0</nbtabl>
       <nbimage>0</nbimage>
@@ -20,7 +20,7 @@
     </infoarticle>
     <revue id="sp01868" lang="fr">
       <titrerev>Sens public</titrerev>
-      <titrerevabr>SP</titrerevabr>
+      <titrerevabr>sp</titrerevabr>
       <idissnnum>2104-3272</idissnnum>
       <directeur sexe="masculin">
         <nompers>
@@ -36,6 +36,9 @@
       <pubnum>
         <date typedate="publication">2015-01-22</date>
       </pubnum>
+      <grtheme id="th">
+        <theme/>
+      </grtheme>
     </numero>
     <editeur>
       <nomorg>Département des littératures de langue française</nomorg>
@@ -80,381 +83,160 @@
   <corps>
     <section1>
       <para>
-        <alinea>
-	Longtemps considéré comme une vitrine démocratique en Afrique francophone avec les mandats successifs du président Alpha O. Konaré<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi> (1992-2002) et du « consensualiste<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> » Amadou T. Touré<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi> (2002-2012), le Mali (Thiriot,1999 : 348-377, 2002 ; Bertrand, 1992 : 9-23) s’est posé comme une « Success story » de démocratie multipartite, mais cet « exceptionnel environnement socio-politique » (Baudais et Chauzal 2006 : 68) au sein duquel tous les partis politiques étaient invités à prendre part au management des affaires de l’État (Camara, 2011 : 79) a volé en éclats avec le coup d’État du 22 mars 2012 et la création, par le capitaine Amadou Haya Sanogo, du CNRDRE<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>. Parallèlement aux turbulences socio-politiques qui prévalaient dans la capitale institutionnelle, Bamako, le Nord du pays a été le théâtre de nombreux conflits, notamment la menace de partition de la République de l’Azawad, les actes terroristes d’AQMI, les revendications diverses du MNLA<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>, du MUJAO<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi> et d’Ansar-dine. Cette partition <marquage typemarq="italique">de facto</marquage> du Mali fit ainsi le lit des analyses négatives et hâtives, terreau des <marquage typemarq="italique">scénarios</marquage> bellicistes qui s’inscrivaient en faux contre les dynamiques initiées par le gouvernement malien, dont l’optique était d’organiser les élections présidentielles de juillet et août 2013<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>. Toutefois, ces élections réussies ne peuvent occulter les problèmes structurels du Mali, entre autres, la « question touarègue », la porosité des frontières, la présence des groupes terroristes au Nord du pays et les dynamiques de développement. Il n’est donc pas superfétatoire d’avoir d’autres lunettes analytiques qui s’inscrivent dans une dynamique de reconstruction et de développement de ce pays aux acteurs multiples. La vertu première de l’action publique internationale du codéveloppement est sans conteste la modalité idoine de son étude qui oscille entre la <marquage typemarq="italique">mise en sens</marquage> et la <marquage typemarq="italique">mise en action</marquage>. Or, quel qu’ait été le bien-fondé scientifique et institutionnel de ces approches, force est de reconnaître que leurs extensions de compétence encourent une critique particulièrement grave portant sur la mise en œuvre de cette action publique, dans la mesure où elles ne peuvent être complètes si elles excluent des acteurs non-institutionnels. Notre réflexion est un effort pour comprendre la nature, les modalités et les fonctionnalités des interactions entre des acteurs de développement multiples, aux registres différents (local, régional, national, transnational, supranational, international, public-privé) en tant qu’ils participent à la mise en œuvre multi-niveaux et asymétrique du codéveloppement franco-malien.</alinea>
+        <alinea>Longtemps considéré comme une vitrine démocratique en Afrique francophone avec les mandats successifs du président Alpha O. Konaré<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>(1992-2002) et du « consensualiste<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> » Amadou T. Touré<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>(2002-2012), le Mali (Thiriot,1999 : 348-377, 2002 ; Bertrand, 1992 : 9-23) s’est posé comme une « Success story » de démocratie multipartite, mais cet « exceptionnel environnement socio-politique » (Baudais et Chauzal 2006 : 68) au sein duquel tous les partis politiques étaient invités à prendre part au management des affaires de l’État (Camara, 2011 : 79) a volé en éclats avec le coup d’État du 22 mars 2012 et la création, par le capitaine Amadou Haya Sanogo, du CNRDRE<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>. Parallèlement aux turbulences socio-politiques qui prévalaient dans la capitale institutionnelle, Bamako, le Nord du pays a été le théâtre de nombreux conflits, notamment la menace de partition de la République de l’Azawad, les actes terroristes d’AQMI, les revendications diverses du MNLA<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>, du MUJAO<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>et d’Ansar-dine. Cette partition<marquage typemarq="italique">de facto</marquage>du Mali fit ainsi le lit des analyses négatives et hâtives, terreau des<marquage typemarq="italique">scénarios</marquage>bellicistes qui s’inscrivaient en faux contre les dynamiques initiées par le gouvernement malien, dont l’optique était d’organiser les élections présidentielles de juillet et août 2013<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>. Toutefois, ces élections réussies ne peuvent occulter les problèmes structurels du Mali, entre autres, la « question touarègue », la porosité des frontières, la présence des groupes terroristes au Nord du pays et les dynamiques de développement. Il n’est donc pas superfétatoire d’avoir d’autres lunettes analytiques qui s’inscrivent dans une dynamique de reconstruction et de développement de ce pays aux acteurs multiples. La vertu première de l’action publique internationale du codéveloppement est sans conteste la modalité idoine de son étude qui oscille entre la<marquage typemarq="italique">mise en sens</marquage>et la<marquage typemarq="italique">mise en action</marquage>. Or, quel qu’ait été le bien-fondé scientifique et institutionnel de ces approches, force est de reconnaître que leurs extensions de compétence encourent une critique particulièrement grave portant sur la mise en œuvre de cette action publique, dans la mesure où elles ne peuvent être complètes si elles excluent des acteurs non-institutionnels. Notre réflexion est un effort pour comprendre la nature, les modalités et les fonctionnalités des interactions entre des acteurs de développement multiples, aux registres différents (local, régional, national, transnational, supranational, international, public-privé) en tant qu’ils participent à la mise en œuvre multi-niveaux et asymétrique du codéveloppement franco-malien.</alinea>
       </para>
     </section1>
     <section1>
-      <titre>
-	I. Une nouvelle rationalité politique :<marquage typemarq="italique">Continuum</marquage> ou changement ?</titre>
+      <titre>I. Une nouvelle rationalité politique :<marquage typemarq="italique">Continuum</marquage>ou changement ?</titre>
       <para>
-        <alinea>
-	Pour beaucoup d’auteurs<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi>, le codéveloppement ne serait qu’une nouvelle dénomination d’un terme lié à la vulgate du développement et s’inscrirait dans les débats classiques sur le développement.</alinea>
+        <alinea>Pour beaucoup d’auteurs<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi>, le codéveloppement ne serait qu’une nouvelle dénomination d’un terme lié à la vulgate du développement et s’inscrirait dans les débats classiques sur le développement.</alinea>
       </para>
-      <section2><titre>	A. <marquage typemarq="italique">Continuum</marquage> des anciennes pratiques de développement …</titre>
+      <titre2>A. <marquage typemarq="italique">Continuum</marquage>des anciennes pratiques de développement …</titre2>
       <para>
-        <alinea>
-	Une interrogation demeure toutefois à savoir si le codéveloppement n’est qu’une nouvelle version des thèses développementalistes<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi> et de la dépendance<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>. Cette conception idéal-typique met en exergue les inégalités de développement entre le Nord et le Sud. Le Nord serait ainsi « un système dans lequel un noyau donne les impulsions, draine des richesses des périphéries qu’il capitalise à son profit, exerce une surveillance politique et économique sur les auréoles<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>» (R. Brunet et O. Dolfius, 1990). Ces « dynamiques du dehors » influencent les mécanismes de modernisation de ces sociétés dont les règles du jeu sont définies en dehors d’elles. Cette dépendance des sociétés <marquage typemarq="italique">périphériques</marquage> africaines vis-à-vis de celles du <marquage typemarq="italique">centre</marquage> se manifeste par une <marquage typemarq="italique">asymétrie</marquage> non seulement politique mais économique des échanges. La dépendance politique de ces sociétés africaines va de pair avec leur assujettissement à « un type complexe d’impérialisme<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi> » (Badie, 1994) qui dérive de leur situation périphérique dans un système dirigé par des économies centrales<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi>. Il convient toutefois de ne pas occulter la perspective du développement, qui est relative au changement induit par des acteurs multiples et asymétriques.</alinea>
+        <alinea>Une interrogation demeure toutefois à savoir si le codéveloppement n’est qu’une nouvelle version des thèses développementalistes<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi>et de la dépendance<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>. Cette conception idéal-typique met en exergue les inégalités de développement entre le Nord et le Sud. Le Nord serait ainsi « un système dans lequel un noyau donne les impulsions, draine des richesses des périphéries qu’il capitalise à son profit, exerce une surveillance politique et économique sur les auréoles<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>» (R. Brunet et O. Dolfius, 1990). Ces « dynamiques du dehors » influencent les mécanismes de modernisation de ces sociétés dont les règles du jeu sont définies en dehors d’elles. Cette dépendance des sociétés<marquage typemarq="italique">périphériques</marquage>africaines vis-à-vis de celles du<marquage typemarq="italique">centre</marquage>se manifeste par une<marquage typemarq="italique">asymétrie</marquage>non seulement politique mais économique des échanges. La dépendance politique de ces sociétés africaines va de pair avec leur assujettissement à « un type complexe d’impérialisme<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi> » (Badie, 1994) qui dérive de leur situation périphérique dans un système dirigé par des économies centrales<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi>. Il convient toutefois de ne pas occulter la perspective du développement, qui est relative au changement induit par des acteurs multiples et asymétriques.</alinea>
       </para>
-      </section2><section2><titre>	B. … ou changement induit par des nouveaux acteurs ?</titre>
+      <titre2>B. … ou changement induit par des nouveaux acteurs ?</titre2>
       <para>
         <alinea>
-	<marquage typemarq="italique">A priori</marquage>, les interrogations soulevées par le terme codéveloppement semblent légitimes et susceptibles d’engager plusieurs analyses. Objet d’une médiatisation accrue tant pour sa substance que pour les pratiques qu’il suscite, ce terme interpelle de multiples acteurs. L’émergence sur l’agenda politique du codéveloppement en France est en effet intervenue dans un contexte de crise sociale, avec la régularisation des « <marquage typemarq="italique">Sans-papiers</marquage>
+          <marquage typemarq="italique">A priori</marquage>, les interrogations soulevées par le terme codéveloppement semblent légitimes et susceptibles d’engager plusieurs analyses. Objet d’une médiatisation accrue tant pour sa substance que pour les pratiques qu’il suscite, ce terme interpelle de multiples acteurs. L’émergence sur l’agenda politique du codéveloppement en France est en effet intervenue dans un contexte de crise sociale, avec la régularisation des « <marquage typemarq="italique">Sans-papiers</marquage>
           <renvoi idref="sdfootnote14sym" typeref="note">14</renvoi>
-          <marquage typemarq="italique"> </marquage>»<marquage typemarq="italique"> </marquage>au lendemain de l’évacuation de l’église Saint-Bernard à Paris, jusque-là occupée par des groupes issus de l’immigration africaine en situation irrégulière<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi>. Ce terme est apparu dans le discours public (français) en 1997 et a été plusieurs fois repris par les gouvernements successifs, avec des corrélats changeants<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi> car, chaque fois que l’on est en présence d’un processus de formulation d’une politique publique, on peut, de fait, identifier un mécanisme de fabrication d’images, d’idées et de valeurs qui vont constituer une vision du monde pour les parties prenantes (Engueleguele, 2002 : 238). Lors de son déplacement au Mali en décembre 2006, Brigitte Girardin définissait le codéveloppement comme « toute action d’aide au développement à laquelle participent des migrants vivants en France<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi>. » Ce discours plaide en faveur d’une rhétorique apparemment consensuelle dont le curseur n’a cessé d’osciller entre la maîtrise des flux migratoires et la promotion du développement des pays pourvoyeurs de migrants.</alinea>
+          <marquage typemarq="italique"> </marquage>»<marquage typemarq="italique"/>au lendemain de l’évacuation de l’église Saint-Bernard à Paris, jusque-là occupée par des groupes issus de l’immigration africaine en situation irrégulière<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi>. Ce terme est apparu dans le discours public (français) en 1997 et a été plusieurs fois repris par les gouvernements successifs, avec des corrélats changeants<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi>car, chaque fois que l’on est en présence d’un processus de formulation d’une politique publique, on peut, de fait, identifier un mécanisme de fabrication d’images, d’idées et de valeurs qui vont constituer une vision du monde pour les parties prenantes (Engueleguele, 2002 : 238). Lors de son déplacement au Mali en décembre 2006, Brigitte Girardin définissait le codéveloppement comme « toute action d’aide au développement à laquelle participent des migrants vivants en France<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi>. » Ce discours plaide en faveur d’une rhétorique apparemment consensuelle dont le curseur n’a cessé d’osciller entre la maîtrise des flux migratoires et la promotion du développement des pays pourvoyeurs de migrants.</alinea>
       </para>
       <para>
-        <alinea>
-	Le codéveloppement révèle la relation ambivalente entre deux termes aux apparences antinomiques que sont les migrations et le développement ; autrement dit, comment passe-t-on d’une migration révélatrice d’un sous-développement à une migration facteur de développement ? (Gonin, 2003) Appréhender cette équation revient ainsi, pour Wihtol de Wenden (2004), à s’interroger sur le fait de savoir si la migration et le développement se génèrent l’un et l’autre, et si l’équation <marquage typemarq="italique">a priori</marquage> contre-intuitive, « plus il y a de migration, plus il y a de développement » (en termes de transferts monétaires, culturels, voire démocratiques), et « plus il y a de développement, plus il y a de migrations » (car les déséquilibres socio-économiques génèrent l’exode rural et les nouvelles mobilités) se vérifie. Ce terme « implique, de par sa définition même, une participation active de la société civile, qui est d’ailleurs le plus souvent, à l’initiative des projets […] ; l’objectif étant ainsi de favoriser des échanges, des bonnes pratiques, et de promouvoir des synergies entre les différents intervenants qui mettent en œuvre des projets de codéveloppement<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi> ». Ce terme ne prend réellement sa consistance que dans les actions concrètes menées sur le terrain. Il reste que la réflexion sur le codéveloppement ne saurait être complète sans une analyse approfondie de ses dynamiques par « le bas ».</alinea>
+        <alinea>Le codéveloppement révèle la relation ambivalente entre deux termes aux apparences antinomiques que sont les migrations et le développement ; autrement dit, comment passe-t-on d’une migration révélatrice d’un sous-développement à une migration facteur de développement ? (Gonin, 2003) Appréhender cette équation revient ainsi, pour Wihtol de Wenden (2004), à s’interroger sur le fait de savoir si la migration et le développement se génèrent l’un et l’autre, et si l’équation<marquage typemarq="italique">a priori</marquage>contre-intuitive, « plus il y a de migration, plus il y a de développement » (en termes de transferts monétaires, culturels, voire démocratiques), et « plus il y a de développement, plus il y a de migrations » (car les déséquilibres socio-économiques génèrent l’exode rural et les nouvelles mobilités) se vérifie. Ce terme « implique, de par sa définition même, une participation active de la société civile, qui est d’ailleurs le plus souvent, à l’initiative des projets […] ; l’objectif étant ainsi de favoriser des échanges, des bonnes pratiques, et de promouvoir des synergies entre les différents intervenants qui mettent en œuvre des projets de codéveloppement<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi> ». Ce terme ne prend réellement sa consistance que dans les actions concrètes menées sur le terrain. Il reste que la réflexion sur le codéveloppement ne saurait être complète sans une analyse approfondie de ses dynamiques par « le bas ».</alinea>
       </para>
-      </section2>
     </section1>
     <section1>
-      <titre>
-	II. Une nouvelle rationalité politique : interactions entre l’approche élitiste du « haut » et les modes populaires d’action du « bas »</titre>
+      <titre>II. Une nouvelle rationalité politique : interactions entre l’approche élitiste du « haut » et les modes populaires d’action du « bas »</titre>
       <para>
-        <alinea>
-	Le second axe de cet article consiste à expliquer la dynamique opératoire des acteurs multi-niveaux qui partagent une « raison pour agir ». À cet égard, il en résulte immanquablement un déplacement de perspective induit par l’implication et l’interaction d’une synergie d’acteurs asymétriques et aux desseins convergents. S’il va de soi que cette intelligibilité novatrice de l’action publique s’inscrit à rebours des visions habituelles du développement, il importe de souligner qu’elle s’emploie à dégager un trait notable, celui relatif à l’interaction entre le « haut » et le « bas ». La spécificité de cette interrelation réside dans le consensus, dans l’articulation de dynamiques socio-politiques centripètes, creuset de processus catalyseurs. Cette imbrication d’acteurs multiples permet non seulement de revisiter les dynamiques du « bas », mais surtout de mettre en valeur les ressources multiples du capital social de la migration.</alinea>
+        <alinea>Le second axe de cet article consiste à expliquer la dynamique opératoire des acteurs multi-niveaux qui partagent une « raison pour agir ». À cet égard, il en résulte immanquablement un déplacement de perspective induit par l’implication et l’interaction d’une synergie d’acteurs asymétriques et aux desseins convergents. S’il va de soi que cette intelligibilité novatrice de l’action publique s’inscrit à rebours des visions habituelles du développement, il importe de souligner qu’elle s’emploie à dégager un trait notable, celui relatif à l’interaction entre le « haut » et le « bas ». La spécificité de cette interrelation réside dans le consensus, dans l’articulation de dynamiques socio-politiques centripètes, creuset de processus catalyseurs. Cette imbrication d’acteurs multiples permet non seulement de revisiter les dynamiques du « bas », mais surtout de mettre en valeur les ressources multiples du capital social de la migration.</alinea>
       </para>
-      <section2><titre>	A. Analyse du capital de la migration : les <marquage typemarq="italique">Remittances</marquage> et les investissements des migrants</titre>
+      <titre2>A. Analyse du capital de la migration : les<marquage typemarq="italique">Remittances</marquage>et les investissements des migrants</titre2>
       <para>
-        <alinea>
-	Très récemment pris en compte dans l’analyse scientifique, les transferts financiers des migrants, ou <marquage typemarq="italique">Remittances, </marquage>ont un impact sur le développement local des régions de départ. Appréhendés comme des bénéfices matériels de la situation migratoire, les <marquage typemarq="italique">Remittances</marquage> ne sont pas aisément quantifiables à cause de la diversité des situations migratoires qui se vérifient dans le caractère formel ou informel des transactions financières. De manière générale, les mécanismes des transferts sont moins étudiés que les expéditeurs et les récepteurs. Avant d’analyser la création de nouveaux instruments de transferts financiers, il convient au préalable d’analyser les pratiques usuelles, tant formelles qu’informelles.</alinea>
+        <alinea>Très récemment pris en compte dans l’analyse scientifique, les transferts financiers des migrants, ou<marquage typemarq="italique">Remittances,</marquage>ont un impact sur le développement local des régions de départ. Appréhendés comme des bénéfices matériels de la situation migratoire, les<marquage typemarq="italique">Remittances</marquage>ne sont pas aisément quantifiables à cause de la diversité des situations migratoires qui se vérifient dans le caractère formel ou informel des transactions financières. De manière générale, les mécanismes des transferts sont moins étudiés que les expéditeurs et les récepteurs. Avant d’analyser la création de nouveaux instruments de transferts financiers, il convient au préalable d’analyser les pratiques usuelles, tant formelles qu’informelles.</alinea>
       </para>
       <para>
-        <alinea>
-	La multiplicité des transferts existants offre un éventail de possibilités susceptibles de satisfaire les besoins des migrants. De manière générale, on distingue deux types de transferts que les migrants choisissent en fonction de leur situation administrative sur le territoire dans lequel ils se trouvent : les transferts formels et les transferts informels. Les raisons qui incitent les migrants à utiliser les modes de transferts extra-bancaires sont de plusieurs ordres, au premier rang desquels nous citons les écarts de cours entre le marché parallèle et le marché officiel susceptibles de jouer un rôle majeur. La seconde raison évoquée par les migrants est fondée sur l’accessibilité des guichets au sein d’un réseau national bancaire concerné. La faiblesse des couvertures nationales bancaires est comblée de plus en plus dans certains pays avec des alliances entre les sociétés de transferts rapides, les banques et les établissements de micro-finance. Une variable importante de cette dynamique relative aux transferts informels concerne les migrants en situation irrégulière. La quantification difficile de ce sous-groupe rend malaisée la constitution d’un échantillonnage précis et fiable de ces transactions financières. Le problème spécifique que l’on rencontre avec les transferts liés aux investissements collectifs est qu’ils portent sur des sommes importantes que les migrants s’engagent néanmoins à confier à un individu, sans garantie autre que la pression sociale de la communauté. Selon un rapport de la Banque africaine de développement, le transfert par «<marquage typemarq="italique"> valise </marquage>»<marquage typemarq="italique">, </marquage>assuré par les <marquage typemarq="italique">porteurs</marquage>, représenterait 70% de l’informel. Les porteurs transporteraient ainsi un montant minimum de 10 000 euros en espèces et le montant des frais de commissions, associé à la marge bénéficiaire couvrirait ainsi les frais de voyage<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi>. Le tableau suivant présente une classification des différents types de transferts financiers des migrants, sur la base des données du FSP-Codéveloppement Mali élaborées en 2004.</alinea>
+        <alinea>La multiplicité des transferts existants offre un éventail de possibilités susceptibles de satisfaire les besoins des migrants. De manière générale, on distingue deux types de transferts que les migrants choisissent en fonction de leur situation administrative sur le territoire dans lequel ils se trouvent : les transferts formels et les transferts informels. Les raisons qui incitent les migrants à utiliser les modes de transferts extra-bancaires sont de plusieurs ordres, au premier rang desquels nous citons les écarts de cours entre le marché parallèle et le marché officiel susceptibles de jouer un rôle majeur. La seconde raison évoquée par les migrants est fondée sur l’accessibilité des guichets au sein d’un réseau national bancaire concerné. La faiblesse des couvertures nationales bancaires est comblée de plus en plus dans certains pays avec des alliances entre les sociétés de transferts rapides, les banques et les établissements de micro-finance. Une variable importante de cette dynamique relative aux transferts informels concerne les migrants en situation irrégulière. La quantification difficile de ce sous-groupe rend malaisée la constitution d’un échantillonnage précis et fiable de ces transactions financières. Le problème spécifique que l’on rencontre avec les transferts liés aux investissements collectifs est qu’ils portent sur des sommes importantes que les migrants s’engagent néanmoins à confier à un individu, sans garantie autre que la pression sociale de la communauté. Selon un rapport de la Banque africaine de développement, le transfert par«<marquage typemarq="italique"> valise </marquage>»<marquage typemarq="italique">,</marquage>assuré par les<marquage typemarq="italique">porteurs</marquage>, représenterait 70% de l’informel. Les porteurs transporteraient ainsi un montant minimum de10 000 eurosen espèces et le montant des frais de commissions, associé à la marge bénéficiaire couvrirait ainsi les frais de voyage<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi>. Le tableau suivant présente une classification des différents types de transferts financiers des migrants, sur la base des données du FSP-Codéveloppement Mali élaborées en 2004.</alinea>
       </para>
-        
-        <tableau id="ta1">
-          <no>Tableau I</no>
-          <legende lang="fr">
-            <alinea>Tableau I : <marquage typemarq="italique">systèmes de transferts financiers des migrants maliens</marquage><renvoi idref="sdfootnote20sym" typeref="note">20</renvoi></alinea>
-          </legende>
-          <tabtexte type="5" lang="fr">
-            <tabentete>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Systèmes de transferts
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea><marquage typemarq="gras">Coût
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea><marquage typemarq="gras">Avantages
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea><marquage typemarq="gras">Inconvénients
-                </marquage></alinea></tabcelluled>
-              </tabligne>
-            </tabentete>
-            <tabgrligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Informels
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea></alinea></tabcelluled>
-                <tabcelluled><alinea></alinea></tabcelluled>
-                <tabcelluled><alinea></alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Valise
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea>Variable</alinea></tabcelluled>
-                <tabcelluled><alinea>Simple</alinea></tabcelluled>
-                <tabcelluled><alinea>Lent, peu sûr</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Fax
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea>Cher mais non apparent</alinea></tabcelluled>
-                <tabcelluled><alinea>Cher, permet à l'expéditeur d'être sûr de l'emploi de ses fonds</alinea></tabcelluled>
-                <tabcelluled><alinea></alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">En nature
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea>Cher mais non apparent</alinea></tabcelluled>
-                <tabcelluled><alinea>Cher, permet à l'expéditeur d'être sûr de l'emploi de ses fond</alinea></tabcelluled>
-                <tabcelluled><alinea>Réseaux limités ou déplacement du bénédiciaire</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Formels
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea></alinea></tabcelluled>
-                <tabcelluled><alinea></alinea></tabcelluled>
-                <tabcelluled><alinea></alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Banques françaises
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea>Élevés : 15 à 20 euros du côté français et tout autant du côté malien</alinea></tabcelluled>
-                <tabcelluled><alinea>Relative rapidité si bénéficiaire et expéditeur ont des comptes dans les banques correspondantes</alinea></tabcelluled>
-                <tabcelluled><alinea>Réseaux limités, détention de comptes bancaires obligatoire</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Western Union
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea>18% à 14% en fontion des montants</alinea></tabcelluled>
-                <tabcelluled><alinea>Rapidité, réseaux étendus grâce aux multiples partenaires</alinea></tabcelluled>
-                <tabcelluled><alinea>Coûts élevés</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Poste mandats
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea>peu élevé</alinea></tabcelluled>
-                <tabcelluled><alinea>Bons réseaux</alinea></tabcelluled>
-                <tabcelluled><alinea>Lents, peu sûrs</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Banques maliennes
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea>8 à 10 euros</alinea></tabcelluled>
-                <tabcelluled><alinea>Accessibles aux migrants</alinea></tabcelluled>
-                <tabcelluled><alinea>Réseau limité</alinea></tabcelluled>
-              </tabligne>
-            </tabgrligne>
-          </tabtexte>
-        </tableau>
-        
-      </section2>
-      <section2><titre>	B. Les mécanismes des transferts financiers de l’épargne des migrants maliens</titre>
       <para>
-        <alinea>
-	Les différents types de transferts de l’épargne des migrants se regroupent en deux catégories, elles- mêmes subdivisées  en sous-catégories.</alinea>
-      </para>
-        <section3>
-          <titre>Les transferts  informels : une quantification malaisée</titre>
-      <para>
-        <alinea>
-	Ces mécanismes de transferts sont utilisés par les migrants pour des raisons diverses, au rang desquelles, la situation irrégulière sur le territoire d’accueil, la méfiance envers les systèmes bancaire, les écarts de change, les habitudes enracinées et le coût moindre du transfert assuré par les amis ou les parents. Nous avons choisi de faire une analyse de deux sous-catégories de transferts informels : la «<marquage typemarq="italique"> valise </marquage>» et le «<marquage typemarq="italique"> fax </marquage>»<marquage typemarq="italique">.</marquage>
+        <alinea>Tableau I :<marquage typemarq="italique">systèmes de transferts financiers des migrants maliens</marquage>
+          <renvoi idref="sdfootnote20sym" typeref="note">20</renvoi>
         </alinea>
       </para>
-        </section3>
-        <section3>
-          <titre>Le transfert par « valise »</titre>
       <para>
-        <alinea>
-	La confiance et la proximité sont les maîtres mots de ce type de transferts : l’argent en numéraire est confié par le migrant, ou une association de migrants, à une personne de confiance qui doit retourner dans le pays d’origine. Ce moyen de transfert est simple, peu rapide et moins sûr à cause de tous les aléas inhérents au voyage et aux éventualités de détournement. Ce type de transferts offre des garanties réelles lorsqu’il s’agit d’un intermédiaire proche, car la pression sociale garantit le respect des termes du contrat. Ce type de transferts ne peut cependant pas répondre à des besoins urgents et ne permet pas une quantification précise des flux financiers d’un pays à l’autre tout autant que la définition précise des contours de ce marché. L’autre mode de transfert informel que nous avons choisi d’étudier est connu sous la dénomination de transfert par «<marquage typemarq="italique"> fax </marquage>»<marquage typemarq="italique">.</marquage>
+        <alinea> </alinea>
+      </para>
+      <marquage typemarq="gras">Systèmes de transferts</marquage>
+      <marquage typemarq="gras">Coût</marquage>
+      <marquage typemarq="gras">Avantages</marquage>
+      <marquage typemarq="gras">Inconvénients</marquage>
+      <marquage typemarq="gras">Informels</marquage>
+      <marquage typemarq="gras">Valise</marquage>
+      <marquage typemarq="gras">Fax</marquage>
+      <marquage typemarq="gras">En nature</marquage>
+      <marquage typemarq="gras">Formels</marquage>
+      <marquage typemarq="gras">Banques françaises</marquage>
+      <marquage typemarq="gras">Western Union</marquage>
+      <marquage typemarq="gras">Poste mandats</marquage>
+      <marquage typemarq="gras">Banques maliennes</marquage>
+      <titre2>B. Les mécanismes des transferts financiers de l’épargne des migrants maliens</titre2>
+      <para>
+        <alinea>Les différents types de transferts de l’épargne des migrants se regroupent en deux catégories, elles- mêmes subdivisées  en sous-catégories.</alinea>
+      </para>
+      <titre3>Les transferts  informels : une quantification malaisée</titre3>
+      <para>
+        <alinea>Ces mécanismes de transferts sont utilisés par les migrants pour des raisons diverses, au rang desquelles, la situation irrégulière sur le territoire d’accueil, la méfiance envers les systèmes bancaire, les écarts de change, les habitudes enracinées et le coût moindre du transfert assuré par les amis ou les parents. Nous avons choisi de faire une analyse de deux sous-catégories de transferts informels : la «<marquage typemarq="italique"> valise </marquage>» et le «<marquage typemarq="italique"> fax </marquage>»<marquage typemarq="italique">.</marquage>
         </alinea>
       </para>
-        </section3>
-        <section3>
-          <titre>Le transfert par « fax »</titre>
+      <titre3>Le transfert par « valise »</titre3>
       <para>
-        <alinea>
-	Ce type de transferts fonctionne grâce à un binôme de personnes liées par une relation de confiance : l’une d’entre elles reçoit les fonds en espèces du migrant en France ainsi que les indications précises sur le bénéficiaire en Afrique. Il communique ensuite par fax ou par téléphone ces indications à l’autre membre du binôme au Mali ou au Sénégal, ce dernier se chargeant de délivrer les espèces ou la marchandise au bénéficiaire désigné. Ce mode de transfert est rapide car les fonds sont disponibles en temps réel, la seule exigence pour le bénéficiaire est son déplacement auprès du pourvoyeur de fonds qui peut être un commerçant ou une association villageoise. L’étude sur la valorisation de l’épargne des migrants maliens en France (2004) permet de mettre en lumière le pourcentage des montants transférés par « fax », dont les coûts de transferts sont de 10% à 3%, avec une dégressivité en fonction du montant : de 100 000 Francs CFA à un million de francs CFA. Au Mali, le système qui était initialement assuré par quelques commerçants à Bamako et à Kayes s’étend de plus en plus dans les villages. Face à la faible couverture bancaire des pays du Sud, aux coûts des transferts bancaires des sociétés privées et à l’insécurité des transferts informels, des mécanismes de transferts semi-formels se sont créés qui sont à cheval entre le formel et l’informel.</alinea>
+        <alinea>La confiance et la proximité sont les maîtres mots de ce type de transferts : l’argent en numéraire est confié par le migrant, ou une association de migrants, à une personne de confiance qui doit retourner dans le pays d’origine. Ce moyen de transfert est simple, peu rapide et moins sûr à cause de tous les aléas inhérents au voyage et aux éventualités de détournement. Ce type de transferts offre des garanties réelles lorsqu’il s’agit d’un intermédiaire proche, car la pression sociale garantit le respect des termes du contrat. Ce type de transferts ne peut cependant pas répondre à des besoins urgents et ne permet pas une quantification précise des flux financiers d’un pays à l’autre tout autant que la définition précise des contours de ce marché. L’autre mode de transfert informel que nous avons choisi d’étudier est connu sous la dénomination de transfert par «<marquage typemarq="italique"> fax </marquage>»<marquage typemarq="italique">.</marquage>
+        </alinea>
       </para>
-        </section3>
-        <section3>
-          <titre>Les transferts semi-formels : un entre-deux compensatoire</titre>
+      <titre3>Le transfert par « fax »</titre3>
       <para>
-        <alinea>
-	Face à l’inadéquation des services formels de transferts par rapport aux réalités locales de non-bancarisation de la majorité des populations et aux coûts pratiqués par les sociétés de transferts, des systèmes de compensation entre des associés dans le pays d’accueil et d’origine ont progressivement été mis en place. Les problèmes de délai ne se posent plus avec ces structures semi-formelles qui offrent aux migrants des coûts de transferts inférieurs à ceux pratiqués par des sociétés de transferts classiques. Les Groupements d’Intérêt Economique (G.I.E) sont, en la matière, emblématiques. Ces G.I.E fonctionnent sur le « double-espace<renvoi idref="sdfootnote21sym" typeref="note">21</renvoi> » et offrent des prestations relatives aux transferts des capitaux des migrants et à la livraison de produits de consommation (Dieng, 2000). Les G.I.E proposent également un service de conseils et d’appui gratuit aux migrants confrontés à des difficultés administratives et aux porteurs de projets. Cette gratuité de l’activité de conseils est un avantage réel de la structure par rapport aux traditionnelles institutions financières. Le système de paiement à terme selon un échéancier préétabli est très attrayant pour les migrants et leurs familles dans le pays d’origine. Il n’y a pas de transferts réguliers de fonds, seulement des livraisons de matériel deux fois par an et les deux structures fonctionnent ensuite par simple compensation, ce qui permet la rapidité des transactions et assure le fonctionnement par compensation.</alinea>
+        <alinea>Ce type de transferts fonctionne grâce à un binôme de personnes liées par une relation de confiance : l’une d’entre elles reçoit les fonds en espèces du migrant en France ainsi que les indications précises sur le bénéficiaire en Afrique. Il communique ensuite par fax ou par téléphone ces indications à l’autre membre du binôme au Mali ou au Sénégal, ce dernier se chargeant de délivrer les espèces ou la marchandise au bénéficiaire désigné. Ce mode de transfert est rapide car les fonds sont disponibles en temps réel, la seule exigence pour le bénéficiaire est son déplacement auprès du pourvoyeur de fonds qui peut être un commerçant ou une association villageoise. L’étude sur la valorisation de l’épargne des migrants maliens en France (2004) permet de mettre en lumière le pourcentage des montants transférés par « fax », dont les coûts de transferts sont de 10% à 3%, avec une dégressivité en fonction du montant : de 100 000 Francs CFA à un million de francs CFA. Au Mali, le système qui était initialement assuré par quelques commerçants à Bamako et à Kayes s’étend de plus en plus dans les villages. Face à la faible couverture bancaire des pays du Sud, aux coûts des transferts bancaires des sociétés privées et à l’insécurité des transferts informels, des mécanismes de transferts semi-formels se sont créés qui sont à cheval entre le formel et l’informel.</alinea>
       </para>
-        </section3>
-        <section3>
-          <titre>Les transferts formels : une lisibilité financière relative</titre>
+      <titre3>Les transferts semi-formels : un entre-deux compensatoire</titre3>
       <para>
-        <alinea>
-	Nous établissons une distinction entre les sociétés internationales spécialisées dans le transfert financier et les transferts réalisés par certaines banques africaines domiciliées en France.</alinea>
+        <alinea>Face à l’inadéquation des services formels de transferts par rapport aux réalités locales de non-bancarisation de la majorité des populations et aux coûts pratiqués par les sociétés de transferts, des systèmes de compensation entre des associés dans le pays d’accueil et d’origine ont progressivement été mis en place. Les problèmes de délai ne se posent plus avec ces structures semi-formelles qui offrent aux migrants des coûts de transferts inférieurs à ceux pratiqués par des sociétés de transferts classiques. Les Groupements d’Intérêt Economique (G.I.E) sont, en la matière, emblématiques. Ces G.I.E fonctionnent sur le « double-espace<renvoi idref="sdfootnote21sym" typeref="note">21</renvoi> » et offrent des prestations relatives aux transferts des capitaux des migrants et à la livraison de produits de consommation (Dieng, 2000). Les G.I.E proposent également un service de conseils et d’appui gratuit aux migrants confrontés à des difficultés administratives et aux porteurs de projets. Cette gratuité de l’activité de conseils est un avantage réel de la structure par rapport aux traditionnelles institutions financières. Le système de paiement à terme selon un échéancier préétabli est très attrayant pour les migrants et leurs familles dans le pays d’origine. Il n’y a pas de transferts réguliers de fonds, seulement des livraisons de matériel deux fois par an et les deux structures fonctionnent ensuite par simple compensation, ce qui permet la rapidité des transactions et assure le fonctionnement par compensation.</alinea>
       </para>
-        </section3>
-        <section3>
-          <titre>Les réseaux spécialisés : Western Union</titre>
+      <titre3> Les transferts formels : une lisibilité financière relative</titre3>
       <para>
-        <alinea>
-	La société <marquage typemarq="italique">Western Union</marquage> est une entreprise financière spécialisée dans le transfert financier et dont le siège social est à Greenwood Village, dans le Colorado. En 1989, elle commença à offrir ses services en dehors de l’Amérique du Nord. En 1993, <marquage typemarq="italique">Western Union</marquage> introduisait son service«<marquage typemarq="italique"> Money in Minutes </marquage>»<marquage typemarq="italique">, </marquage>permettant ainsi de rendre les fonds disponibles immédiatement après leur expédition. La procédure est simple : l’expéditeur donne en numéraire à l’agence <marquage typemarq="italique">Western Union</marquage> le montant à transférer ainsi que les frais, l’agence procède au transfert électronique et donne à l’expéditeur un code ou MTCN (le Money Transfer Control Number). Ce dernier communique ainsi au bénéficiaire le numéro de code ; il n’aura plus qu’à effectuer le retrait. En 2006, la compagnie comptait plus de 270 000 points de présence (via des partenaires) dans plus de 200 pays et territoires. La principale caractéristique de ce mode de transfert est sa rapidité. Comme pour le transfert par fax, il est réalisé en temps réel et la seule contrainte du bénéficiaire est son déplacement au point de retrait des fonds. Au Mali, <marquage typemarq="italique">Western Union</marquage> a eu à passer de nombreux accords avec les banques et la poste. Son réseau de points de retrait est plus vaste que celui d’une banque, malgré le fait qu’il soit limité aux villes administratives et aux principales régions de cercle. Cependant, le coût des transferts est considéré très élevé par les migrants : de 4% à 18% selon les montants transférés. Longtemps considérés comme des mécanismes de transferts sécurisants, de nombreuses suspicions de détournement d’argent émergent de certains pays en Afrique. Au Sénégal, le système a subi une défaillance, car de l’argent envoyé au Sénégal par des migrants a été retiré par des tierces personnes qui connaissaient les mots de passe et les codes secrets des bénéficiaires<renvoi idref="sdfootnote22sym" typeref="note">22</renvoi>.</alinea>
+        <alinea>Nous établissons une distinction entre les sociétés internationales spécialisées dans le transfert financier et les transferts réalisés par certaines banques africaines domiciliées en France.</alinea>
       </para>
-        
-        <tableau id="ta2">
-          <no>Tableau II</no>
-          <legende lang="fr">
-            <alinea>Tableau II : <marquage typemarq="italique">Comparaison des performances des principaux systèmes de transferts pour un montant moyen de 300 euros au départ de la France<renvoi idref="sdfootnote23sym" typeref="note">23</renvoi></marquage></alinea>
-          </legende>
-          <tabtexte type="5" lang="fr">
-            <tabentete>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">
-                  Modes de transfert
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea><marquage typemarq="gras">Coût
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea><marquage typemarq="gras">Durée
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea><marquage typemarq="gras">Condition seuil d'accès
-                </marquage></alinea></tabcelluled>
-              </tabligne>
-            </tabentete>
-            <tabgrligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Western Union
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea>29,00 euros</alinea></tabcelluled>
-                <tabcelluled><alinea>10 minutes</alinea></tabcelluled>
-                <tabcelluled><alinea>Migrant titulaire d'une pièce d'identité</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Money Gram
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea>23,00 euros</alinea></tabcelluled>
-                <tabcelluled><alinea>10 minutes</alinea></tabcelluled>
-                <tabcelluled><alinea>Migrant titulaire d'une pièce d'identité</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">1 transfert bancaire
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea>10,00 euros</alinea></tabcelluled>
-                <tabcelluled><alinea>2 jours</alinea></tabcelluled>
-                <tabcelluled><alinea>Migrant et bénéficiaire bancarisés</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">1 transfert espèce
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea>20,00 euros</alinea></tabcelluled>
-                <tabcelluled><alinea>2 jours</alinea></tabcelluled>
-                <tabcelluled><alinea>Migrant bancarisé</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Mandat postal ordinaire
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea>10,60 euros</alinea></tabcelluled>
-                <tabcelluled><alinea>3 à 5 jours</alinea></tabcelluled>
-                <tabcelluled><alinea>Migrant titulaire d'une pièce d'identité</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Mandat postal express
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea>16,70 euros</alinea></tabcelluled>
-                <tabcelluled><alinea>12 heures</alinea></tabcelluled>
-                <tabcelluled><alinea>Migrant titulaire d'une pièce d'identité</alinea></tabcelluled>
-              </tabligne>
-            </tabgrligne>
-          </tabtexte>
-        </tableau>
-          
-        </section3>
-      </section2>
-      <section2><titre>	C. Les transferts financiers au service du développement</titre>
+      <titre3>Les réseaux spécialisés : Western Union</titre3>
       <para>
-        <alinea>
-	Dans sa version originelle, le codéveloppement s’appuie sur le constat de la forte mobilisation des migrants sahéliens en faveur de leur pays d’origine. L’une des missions de l’ancien MIIINDS consistait à « mobiliser les instruments permettant aux migrants d’agir en faveur de leur pays d’origine<renvoi idref="sdfootnote24sym" typeref="note">24</renvoi> »<marquage typemarq="italique">. </marquage>Au Mali, une partie du territoire voit son développement tributaire de ces relations avec sa diaspora ; l’économie de ce pays pauvre est fortement dépendante des transferts de fonds des migrants et les dynamiques de développement reposent en grande partie sur les associations de ressortissants installés à l’étranger, en étroite relation avec les associations de développement local. L’importance des transferts de fonds et des expériences locales ou régionales des migrants, acteurs du développement, montrent que la migration est un facteur d’accompagnement parmi d’autres, un instrument du développement et du désenclavement d’un pays ou d’une région donnée.</alinea>
-      </para>
-        <section3>
-          <titre>Évaluation de l’engagement des migrants dans le secteur social</titre>
-      <para>
-        <alinea>
-	Les représentations en termes de solidarité s’illustrent par des croyances sociales sur les projets de développement susceptibles d’améliorer les conditions de vie des populations locales. Le constat général est que les investissements des associations migrantes sont surtout axées sur les secteurs de développement rural, à savoir, la santé, l’éducation, les projets hydrauliques. Comme le souligne Goulven Le Bahers et Lisa Gauvrit (2004)<renvoi idref="sdfootnote25sym" typeref="note">25</renvoi>, les investissements hydrauliques initiés dès les années 1970 sont les plus nombreux. L’étude menée par ces deux auteures démontre que le secteur éducatif est l’un des secteurs prioritaires d’investissement actuel en termes d’investissement financier. Les associations de migrants jouent un rôle important dans l’initiative et la réalisation d’infrastructures scolaires. La majorité des projets éducatifs ont été initiés par les migrants. Dans le reste des cas, ce sont les villageois et les élus communaux qui sont à l’origine des projets. Même si un nombre significatif d’écoles sont désormais réalisées par les communes, comme le stipule la loi (malienne), les collectivités locales restent encore minoritairement maîtres d’ouvrages face aux migrants et aux populations. La gestion d’un projet d’école fait intervenir des acteurs divers, aux responsabilités multiples<renvoi idref="sdfootnote26sym" typeref="note">26</renvoi>.</alinea>
+        <alinea>La société<marquage typemarq="italique">Western Union</marquage>est une entreprise financière spécialisée dans le transfert financier et dont le siège social est à Greenwood Village, dans le Colorado. En 1989, elle commença à offrir ses services en dehors de l’Amérique du Nord. En 1993,<marquage typemarq="italique">Western Union</marquage>introduisait son service«<marquage typemarq="italique"> Money in Minutes </marquage>»<marquage typemarq="italique">,</marquage>permettant ainsi de rendre les fonds disponibles immédiatement après leur expédition. La procédure est simple : l’expéditeur donne en numéraire à l’agence<marquage typemarq="italique">Western Union</marquage>le montant à transférer ainsi que les frais, l’agence procède au transfert électronique et donne à l’expéditeur un code ou MTCN (le Money Transfer Control Number). Ce dernier communique ainsi au bénéficiaire le numéro de code ; il n’aura plus qu’à effectuer le retrait. En 2006, la compagnie comptait plus de270 000points de présence (via des partenaires) dans plus de 200 pays et territoires. La principale caractéristique de ce mode de transfert est sa rapidité. Comme pour le transfert par fax, il est réalisé en temps réel et la seule contrainte du bénéficiaire est son déplacement au point de retrait des fonds. Au Mali,<marquage typemarq="italique">Western Union</marquage>a eu à passer de nombreux accords avec les banques et la poste. Son réseau de points de retrait est plus vaste que celui d’une banque, malgré le fait qu’il soit limité aux villes administratives et aux principales régions de cercle. Cependant, le coût des transferts est considéré très élevé par les migrants : de 4% à 18% selon les montants transférés. Longtemps considérés comme des mécanismes de transferts sécurisants, de nombreuses suspicions de détournement d’argent émergent de certains pays en Afrique. Au Sénégal, le système a subi une défaillance, car de l’argent envoyé au Sénégal par des migrants a été retiré par des tierces personnes qui connaissaient les mots de passe et les codes secrets des bénéficiaires<renvoi idref="sdfootnote22sym" typeref="note">22</renvoi>.</alinea>
       </para>
       <para>
-        <alinea>
-	Le tableau suivant récapitule le détail du budget par rubrique et le plan de financement des réalisations<renvoi idref="sdfootnote27sym" typeref="note">27</renvoi>.</alinea>
+        <alinea>Tableau II :<marquage typemarq="italique">Comparaison des performances des principaux systèmes de transferts pour un montant moyen de 300 euros au départ de la France<renvoi idref="sdfootnote23sym" typeref="note">23</renvoi>
+          </marquage>
+        </alinea>
       </para>
-        
-        <tableau id="ta3">
-          <no>Tableau III</no>
-          <legende lang="fr">
-            <alinea>Tableau III : <marquage typemarq="italique">Budget et plan de financement de l’école de Bambila</marquage>
-              <renvoi idref="sdfootnote28sym" typeref="note">28</renvoi></alinea>
-          </legende>
-          <tabtexte type="5" lang="fr">
-            <tabentete>
-              <tabligne>
-                <tabcelluled>
-                  <alinea><marquage typemarq="gras">Montant total du projet en F CFA</marquage></alinea>
-                </tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">
-                  Désignation
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea><marquage typemarq="gras">Bénéficiaires
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea><marquage typemarq="gras">Migrants
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea><marquage typemarq="gras">FSP
-                </marquage></alinea></tabcelluled>
-                <tabcelluled><alinea><marquage typemarq="gras">Total
-                </marquage></alinea></tabcelluled>
-              </tabligne>
-            </tabentete>
-            <tabgrligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Salles de classe et blocs sanitaires</marquage></alinea></tabcelluled>
-                <tabcelluled><alinea>5 266 000</alinea></tabcelluled>
-                <tabcelluled><alinea>3 330 152</alinea></tabcelluled>
-                <tabcelluled><alinea>9 191 176</alinea></tabcelluled>
-                <tabcelluled><alinea>17 787 328</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Bâtiment de direction</marquage></alinea></tabcelluled>
-                <tabcelluled><alinea></alinea></tabcelluled>
-                <tabcelluled><alinea></alinea></tabcelluled>
-                <tabcelluled><alinea>3 062 762</alinea></tabcelluled>
-                <tabcelluled><alinea>3 062 762</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Logement des enseignants</marquage></alinea></tabcelluled>
-                <tabcelluled><alinea></alinea></tabcelluled>
-                <tabcelluled><alinea>3 366 409</alinea></tabcelluled>
-                <tabcelluled><alinea>12 381 281</alinea></tabcelluled>
-                <tabcelluled><alinea>15 747 690</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Clôture de l'école</marquage></alinea></tabcelluled>
-                <tabcelluled><alinea></alinea></tabcelluled>
-                <tabcelluled><alinea></alinea></tabcelluled>
-                <tabcelluled><alinea>4 654 789</alinea></tabcelluled>
-                <tabcelluled><alinea>4 654 789</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">voyage de suivi et frais divers</marquage></alinea></tabcelluled>
-                <tabcelluled><alinea></alinea></tabcelluled>
-                <tabcelluled><alinea>1 300 894</alinea></tabcelluled>
-                <tabcelluled><alinea></alinea></tabcelluled>
-                <tabcelluled><alinea>1 300 894</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Mobilier scolaire</marquage></alinea></tabcelluled>
-                <tabcelluled><alinea></alinea></tabcelluled>
-                <tabcelluled><alinea>983 954</alinea></tabcelluled>
-                <tabcelluled><alinea></alinea></tabcelluled>
-                <tabcelluled><alinea>983 954</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">TOTAL GÉNÉRAL</marquage></alinea></tabcelluled>
-                <tabcelluled><alinea>5 266 000</alinea></tabcelluled>
-                <tabcelluled><alinea>8 981 409</alinea></tabcelluled>
-                <tabcelluled><alinea>29 290 008</alinea></tabcelluled>
-                <tabcelluled><alinea>43 357 417</alinea></tabcelluled>
-              </tabligne>
-              <tabligne>
-                <tabcelluled><alinea><marquage typemarq="gras">Ratio</marquage></alinea></tabcelluled>
-                <tabcelluled><alinea>12,10%</alinea></tabcelluled>
-                <tabcelluled><alinea>20,63%</alinea></tabcelluled>
-                <tabcelluled><alinea>67,28%</alinea></tabcelluled>
-                <tabcelluled><alinea>100,00%</alinea></tabcelluled>
-              </tabligne>
-            </tabgrligne>
-          </tabtexte>
-        </tableau>
-        
       <para>
-        <alinea>
-	Les projets dans le secteur de la santé constituent, avec les projets hydrauliques et éducatifs, l’essentiel des investissements des migrants dans le développement local de leur région. Au Mali, la réalisation d’infrastructures de santé communautaire ne débuta qu’au début des années 1990. Dans ce pays, les services de santé primaires sont soumis à une gestion participative de la part des communautés. Avec la mise en œuvre de la décentralisation et des nouveaux programmes de santé, la commune joue un rôle non négligeable dans le système de santé. Il convient, au préalable, d’éclaircir le mode de fonctionnement d’un centre de santé programmé ainsi que les rôles des acteurs, afin de mieux analyser l’intervention des associations de migrants dans ce domaine. Le CSCOM (Centre de Santé Communautaire) est l’infrastructure de base qui comprend un dispensaire, une maternité et une pharmacie. Chaque CSCOM correspond à une aire de santé, dont la taille doit permettre une fréquentation suffisante pour assurer les coûts de fonctionnement (environ un CSCOM pour 5 000 habitants<renvoi idref="sdfootnote29sym" typeref="note">29</renvoi>.</alinea>
+        <alinea> </alinea>
       </para>
-        </section3>
-      </section2>
+      <marquage typemarq="gras">Modes de transfert</marquage>
+      <marquage typemarq="gras">Coût</marquage>
+      <marquage typemarq="gras">Durée</marquage>
+      <marquage typemarq="gras">Condition seuil d’accès</marquage>
+      <marquage typemarq="gras">Western Union</marquage>
+      <marquage typemarq="gras">Money Gram</marquage>
+      <marquage typemarq="gras">1 transfert bancaire</marquage>
+      <marquage typemarq="gras">1 transfert espèce</marquage>
+      <marquage typemarq="gras">Mandat postal ordinaire</marquage>
+      <marquage typemarq="gras">Mandat postal express</marquage>
+      <titre2>C. Les transferts financiers au service du développement</titre2>
+      <para>
+        <alinea>Dans sa version originelle, lecodéveloppements’appuie sur le constat de la forte mobilisation des migrants sahéliens en faveur de leur pays d’origine. L’une des missions de l’ancien MIIINDS consistait à « mobiliser les instruments permettant aux migrants d’agir en faveur de leur pays d’origine<renvoi idref="sdfootnote24sym" typeref="note">24</renvoi> »<marquage typemarq="italique">.</marquage>Au Mali, une partie du territoire voit son développement tributaire de ces relations avec sa diaspora ; l’économie de ce pays pauvre est fortement dépendante des transferts de fonds des migrants et les dynamiques de développement reposent en grande partie sur les associations de ressortissants installés à l’étranger, en étroite relation avec les associations de développement local. L’importance des transferts de fonds et des expériences locales ou régionales des migrants, acteurs du développement, montrent que la migration est un facteur d’accompagnement parmi d’autres, un instrument du développement et du désenclavement d’un pays ou d’une région donnée.</alinea>
+      </para>
+      <titre3>Évaluation de l’engagement des migrants dans le secteur social</titre3>
+      <para>
+        <alinea>Les représentations en termes de solidarité s’illustrent par des croyances sociales sur les projets de développement susceptibles d’améliorer les conditions de vie des populations locales. Le constat général est que les investissements des associations migrantes sont surtout axées sur les secteurs de développement rural, à savoir, la santé, l’éducation, les projets hydrauliques. Comme le souligne Goulven Le Bahers et Lisa Gauvrit (2004)<renvoi idref="sdfootnote25sym" typeref="note">25</renvoi>, les investissements hydrauliques initiés dès les années 1970 sont les plus nombreux. L’étude menée par ces deux auteures démontre que le secteur éducatif est l’un des secteurs prioritaires d’investissement actuel en termes d’investissement financier. Les associations de migrants jouent un rôle important dans l’initiative et la réalisation d’infrastructures scolaires. La majorité des projets éducatifs ont été initiés par les migrants. Dans le reste des cas, ce sont les villageois et les élus communaux qui sont à l’origine des projets. Même si un nombre significatif d’écoles sont désormais réalisées par les communes, comme le stipule la loi (malienne), les collectivités locales restent encore minoritairement maîtres d’ouvrages face aux migrants et aux populations. La gestion d’un projet d’école fait intervenir des acteurs divers, aux responsabilités multiples<renvoi idref="sdfootnote26sym" typeref="note">26</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Le tableau suivant récapitule le détail du budget par rubrique et le plan de financement des réalisations<renvoi idref="sdfootnote27sym" typeref="note">27</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Tableau III :<marquage typemarq="italique">Budget et plan de financement de l’école de Bambila</marquage>
+          <renvoi idref="sdfootnote28sym" typeref="note">28</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <marquage typemarq="gras">Montant total du projet en F CFA</marquage>
+      <marquage typemarq="gras">Désignation</marquage>
+      <marquage typemarq="gras">Bénéficiaires</marquage>
+      <marquage typemarq="gras">Migrants</marquage>
+      <marquage typemarq="gras">FSP</marquage>
+      <marquage typemarq="gras">Total</marquage>
+      <marquage typemarq="gras">Salles de classe et blocs sanitaires</marquage>
+      <marquage typemarq="gras">Bâtiment de direction</marquage>
+      <marquage typemarq="gras">Logement des enseignants</marquage>
+      <marquage typemarq="gras">Clôture de l’école</marquage>
+      <marquage typemarq="gras">voyage de suivi et frais divers</marquage>
+      <marquage typemarq="gras">Mobilier scolaire</marquage>
+      <marquage typemarq="gras">TOTAL GÉNÉRAL</marquage>
+      <marquage typemarq="gras">Ratio</marquage>
+      <para>
+        <alinea>Les projets dans le secteur de la santé constituent, avec les projets hydrauliques et éducatifs, l’essentiel des investissements des migrants dans le développement local de leur région. Au Mali, la réalisation d’infrastructures de santé communautaire ne débuta qu’au début des années 1990. Dans ce pays, les services de santé primaires sont soumis à une gestion participative de la part des communautés. Avec la mise en œuvre de la décentralisation et des nouveaux programmes de santé, la commune joue un rôle non négligeable dans le système de santé. Il convient, au préalable, d’éclaircir le mode de fonctionnement d’un centre de santé programmé ainsi que les rôles des acteurs, afin de mieux analyser l’intervention des associations de migrants dans ce domaine. Le CSCOM (Centre de Santé Communautaire) est l’infrastructure de base qui comprend un dispensaire, une maternité et une pharmacie. Chaque CSCOM correspond à une aire de santé, dont la taille doit permettre une fréquentation suffisante pour assurer les coûts de fonctionnement (environ un CSCOM pour 5 000 habitants<renvoi idref="sdfootnote29sym" typeref="note">29</renvoi>.</alinea>
+      </para>
     </section1>
     <section1>
-      <titre>
-	CONCLUSION GÉNÉRALE</titre>
+      <titre>CONCLUSION GÉNÉRALE</titre>
       <para>
-        <alinea>
-	En matière de migration internationale, le pessimisme l’a emporté, à tout le moins est-il manifestement dans l’air du temps. Il est assez frappant de constater à quel point les discours (politiques) sont de plus en plus enclins à faire de l’autre le bouc-émissaire et l’exutoire permettant de biaiser la réalité. Or, l’on ne saurait passer sous silence les bénéfices liés à l’optimisation de la migration, aussi bien dans le territoire de départ que dans celui d’accueil. Analyser le codéveloppement revient à mettre en lumière la complexité d’un terme qui a fait irruption sur la scène internationale des migrations et du développement. Cette question a été longtemps négligée, comme le confirme le Secrétaire général de l’ONU, Ban Ki-Moon, lors du Forum Mondial sur la migration et le développement : « Pendant de nombreuses années, les États Membres de l’Organisation des Nations Unies ont eu des difficultés à discuter du problème délicat des migrations sur la scène internationale. Ce sujet n’a donc jamais été prioritaire à l’ordre du jour de l’ONU – et ce, jusqu’au Dialogue de haut niveau qui a eu lieu en septembre dernier au siège de l’Organisation à New York » ; ce nouveau processus au niveau mondial consacre ainsi « une ère nouvelle », « une ère de la mobilité<renvoi idref="sdfootnote30sym" typeref="note">30</renvoi> » dont la dynamique, pour le ministre français Brice Hortefeux, consistait à « encourager le développement des pays d’origine en prenant en compte, mieux que par le passé, la question des flux migratoires<renvoi idref="sdfootnote31sym" typeref="note">31</renvoi> ». Pour Ban Ki-Moon, « Les États Membres de l’organisation des Nations Unies ont eu des difficultés à discuter du problème délicat des migrations sur la scène internationale […]. Nous devons saisir l’occasion pour commencer à transformer en une possibilité ce qui, trop souvent, est perçu comme une menace. Nous sommes dans l’obligation de comprendre les implications du phénomène des migrations, d’apprendre les uns des autres et d’édifier les partenariats qui mettront les migrations au service du développement […] Ce que nous constatons ensemble en réunissant ce forum, est que nous vivons dans une ère nouvelle – une ère de mobilité […] et nous ne pouvons arrêter cette force de la nature humaine ». Ainsi, pour le secrétaire général des Nations Unies, les dynamiques migratoires concernent tous les pays tant au départ qu’à l’arrivée.</alinea>
+        <alinea>En matière de migration internationale, le pessimisme l’a emporté, à tout le moins est-il manifestement dans l’air du temps. Il est assez frappant de constater à quel point les discours (politiques) sont de plus en plus enclins à faire de l’autre le bouc-émissaire et l’exutoire permettant de biaiser la réalité. Or, l’on ne saurait passer sous silence les bénéfices liés à l’optimisation de la migration, aussi bien dans le territoire de départ que dans celui d’accueil. Analyser le codéveloppement revient à mettre en lumière la complexité d’un terme qui a fait irruption sur la scène internationale des migrations et du développement. Cette question a été longtemps négligée, comme le confirme le Secrétaire général de l’ONU, Ban Ki-Moon, lors du Forum Mondial sur la migration et le développement : « Pendant de nombreuses années, les États Membres de l’Organisation des Nations Unies ont eu des difficultés à discuter du problème délicat des migrations sur la scène internationale. Ce sujet n’a donc jamais été prioritaire à l’ordre du jour de l’ONU – et ce, jusqu’au Dialogue de haut niveau qui a eu lieu en septembre dernier au siège de l’Organisation à New York » ; ce nouveau processus au niveau mondial consacre ainsi « une ère nouvelle », « une ère de la mobilité<renvoi idref="sdfootnote30sym" typeref="note">30</renvoi> » dont la dynamique, pour le ministre français Brice Hortefeux, consistait à « encourager le développement des pays d’origine en prenant en compte, mieux que par le passé, la question des flux migratoires<renvoi idref="sdfootnote31sym" typeref="note">31</renvoi> ». Pour Ban Ki-Moon, « Les États Membres de l’organisation des Nations Unies ont eu des difficultés à discuter du problème délicat des migrations sur la scène internationale […]. Nous devons saisir l’occasion pour commencer à transformer en une possibilité ce qui, trop souvent, est perçu comme une menace. Nous sommes dans l’obligation de comprendre les implications du phénomène des migrations, d’apprendre les uns des autres et d’édifier les partenariats qui mettront les migrations au service du développement […] Ce que nous constatons ensemble en réunissant ce forum, est que nous vivons dans une ère nouvelle – une ère de mobilité […] et nous ne pouvons arrêter cette force de la nature humaine ». Ainsi, pour le secrétaire général des Nations Unies, les dynamiques migratoires concernent tous les pays tant au départ qu’à l’arrivée.</alinea>
       </para>
       <para>
-        <alinea>
-	Sous un autre angle de vue, ce n’est pas le moindre des mérites d’ouvrir la voie à l’expression d’acteurs multi-niveaux et asymétriques qui partagent une « raison pour agir ». À cet égard, il en résulte immanquablement un déplacement de perspective induit par l’implication et l’interaction d’une synergie d’acteurs (internationaux, supranationaux, nationaux, régionaux et locaux) aux desseins convergents. Cette analyse permet surtout de faire le constat d’une nette déconstruction des États comme acteurs unitaires contraints de composer avec de multiples acteurs. S’il va de soi que cette intelligibilité novatrice de l’action publique s’inscrit à rebours des visions habituelles du développement, car elle intègre le volet migratoire comme composante de la politique institutionnelle de développement, il importe de souligner que cette perspective conclusive s’emploie à dégager deux traits notables : l’interaction entre les approches élitiste par le « haut » et populaire par le « bas » et l’apologie du capital social de la migration par l’optimisation des pratiques de développement.</alinea>
+        <alinea>Sous un autre angle de vue, ce n’est pas le moindre des mérites d’ouvrir la voie à l’expression d’acteurs multi-niveaux et asymétriques qui partagent une « raison pour agir ». À cet égard, il en résulte immanquablement un déplacement de perspective induit par l’implication et l’interaction d’une synergie d’acteurs (internationaux, supranationaux, nationaux, régionaux et locaux) aux desseins convergents. Cette analyse permet surtout de faire le constat d’une nette déconstruction des États comme acteurs unitaires contraints de composer avec de multiples acteurs. S’il va de soi que cette intelligibilité novatrice de l’action publique s’inscrit à rebours des visions habituelles du développement, car elle intègre le volet migratoire comme composante de la politique institutionnelle de développement, il importe de souligner que cette perspective conclusive s’emploie à dégager deux traits notables : l’interaction entre les approches élitiste par le « haut » et populaire par le « bas » et l’apologie du capital social de la migration par l’optimisation des pratiques de développement.</alinea>
       </para>
       <para>
-        <alinea>
-	N’y a-t-il pas quelque risque à transposer ainsi les pratiques sociales de codéveloppement dans le champ de la coopération internationale en raison de la participation des migrants aux projets de développement ? La question disparaît naturellement dès lors que ces acteurs directs et indirects en tirent une série d’avantages liés à leur statut de médiateurs. Seule une amplitude conceptuelle suffisante est de nature à concevoir l’instrumentalisation de l’espace de relégation auquel étaient assignés les migrants et leur investissement dans les dynamiques transnationales de développement.</alinea>
+        <alinea>N’y a-t-il pas quelque risque à transposer ainsi les pratiques sociales de codéveloppement dans le champ de la coopération internationale en raison de la participation des migrants aux projets de développement ? La question disparaît naturellement dès lors que ces acteurs directs et indirects en tirent une série d’avantages liés à leur statut de médiateurs. Seule une amplitude conceptuelle suffisante est de nature à concevoir l’instrumentalisation de l’espace de relégation auquel étaient assignés les migrants et leur investissement dans les dynamiques transnationales de développement.</alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
       </para>
     </section1>
   </corps>
@@ -463,170 +245,159 @@
       <note id="sdfootnote1sym">
         <no>1</no>
         <alinea>
-	F. Azam, analyse les différents mandats d’Alpha Oumar Konare dans son mémoire de DEA qui s’intitule <marquage typemarq="italique">Le réveil démocratique au Mali : dynamisme politique et mobilisation ethno-régionale</marquage>, mémoire de DEA, Bordeaux, 1998-1999.</alinea>
+          F. Azam, analyse les différents mandats d’Alpha Oumar Konare dans son mémoire de DEA qui s’intitule<marquage typemarq="italique">Le réveil démocratique au Mali : dynamisme politique et mobilisation ethno-régionale</marquage>,mémoire de DEA, Bordeaux, 1998-1999.</alinea>
       </note>
       <note id="sdfootnote2sym">
         <no>2</no>
         <alinea>
-	Il sera plusieurs fois appelé pour servir de médiateur entre deux parties prenantes d’un conflit.</alinea>
+          Il sera plusieurs fois appelé pour servir de médiateur entre deux parties prenantes d’un conflit.</alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>
         <alinea>
-	Après le renversement de M. Traore, il quittera, comme il s’y était engagé, le pouvoir pour le remettre entre les mains des électeurs. Pour O. Makalou, « en transmettant le pouvoir – comme il s’y était engagé initialement – à Alpha Oumar Konare – premier président démocratiquement élu du Mali indépendant, Amadou Toumani Touré a prouvé qu’il était un homme d’honneur. Ce faisant, il a acquis une place honorable dans l’histoire contemporaine de l’Afrique indépendante » dans O. Makalou, <marquage typemarq="italique">Rapport de synthèse</marquage>, Coalition Mondiale pour l’Afrique, Centre d’Études et de Recherche pour la Démocratie et le Développement Économique et Social (CERDES), Bamako, document ronéotypé, 1995, p. 107-108. Pour C. Fay, « le gouvernement de transition d’Amadou Toumani Touré a été marqué par les pluies et les crues les plus abondantes depuis longtemps, il était donc un « chef crémeux » (<marquage typemarq="italique">kaanankekanawdo</marquage>), et cela, associé à sa victoire présentée comme « guerrière » contre Moussa, lui a valu un prestige certain », « La démocratie au Mali, ou le pouvoir en pâture », <marquage typemarq="italique">Cahiers d’Etudes Africaines</marquage>, XXXV (1), n°137, 1995, p. 41.</alinea>
+          Après le renversement de M. Traore, il quittera, comme il s’y était engagé, le pouvoir pour le remettre entre les mains des électeurs. Pour O. Makalou, « en transmettant le pouvoir – comme il s’y était engagé initialement – à Alpha Oumar Konare – premier président démocratiquement élu du Mali indépendant, Amadou Toumani Touré a prouvé qu’il était un homme d’honneur. Ce faisant, il a acquis une place honorable dans l’histoire contemporaine de l’Afrique indépendante » dans O. Makalou,<marquage typemarq="italique">Rapport de synthèse</marquage>, Coalition Mondiale pour l’Afrique, Centre d’Études et de Recherche pour la Démocratie et le Développement Économique et Social (CERDES), Bamako, document ronéotypé, 1995, p. 107-108. Pour C. Fay, « le gouvernement de transition d’Amadou Toumani Touré a été marqué par les pluies et les crues les plus abondantes depuis longtemps, il était donc un « chef crémeux » (<marquage typemarq="italique">kaanankekanawdo</marquage>), et cela, associé à sa victoire présentée comme « guerrière » contre Moussa, lui a valu un prestige certain », « La démocratie au Mali, ou le pouvoir en pâture »,<marquage typemarq="italique">Cahiers d’Etudes Africaines</marquage>, XXXV (1), n°137, 1995, p. 41.</alinea>
       </note>
       <note id="sdfootnote4sym">
         <no>4</no>
         <alinea>
-	Le CNRDRE ou Comité National pour le Redressement de la Démocratie et la Sécurité de l’État est le nom de l’organe au pouvoir au Mali après le coup d’État du 22 mars 2012.Composé essentiellement de sous-officiers, son siège est le camp militaire de Kati, situé à une quinzaine de kilomètres de Bamako. Du 22 mars au 12 avril 2012, le CNRDRE est l’autorité suprême au Mali. Pendant cette vingtaine de jours, profitant de la confusion qui régnait dans la capitale institutionnelle, Bamako, les troupes du MNLA et d’Ançar Dine occupèrent des points stratégiques. Peu de temps après le coup d’État, la partition <marquage typemarq="italique">de facto </marquage>du Mali devint ainsi consécutive aux victoires des rebelles Touaregs soutenus par les groupes Djihadistes dans le Nord. La proclamation de la République de l’Azawad et le blocus imposé par la CEDAO obligèrent la junte et le CNRDRE à rendre le pouvoir aux civils.</alinea>
+          Le CNRDRE ou Comité National pour le Redressement de la Démocratie et la Sécurité de l’État est le nom de l’organe au pouvoir au Mali après le coup d’État du 22 mars 2012.Composé essentiellement de sous-officiers, son siège est le camp militaire de Kati, situé à une quinzaine de kilomètres de Bamako. Du 22 mars au 12 avril 2012, le CNRDRE est l’autorité suprême au Mali. Pendant cette vingtaine de jours, profitant de la confusion qui régnait dans la capitale institutionnelle, Bamako, les troupes du MNLA et d’Ançar Dine occupèrent des points stratégiques. Peu de temps après le coup d’État, la partition<marquage typemarq="italique">de facto</marquage>du Mali devint ainsi consécutive aux victoires des rebelles Touaregs soutenus par les groupes Djihadistes dans le Nord. La proclamation de la République de l’Azawad et le blocus imposé par la CEDAO obligèrent la junte et le CNRDRE à rendre le pouvoir aux civils.</alinea>
       </note>
       <note id="sdfootnote5sym">
         <no>5</no>
         <alinea>
-	Le MNLA ou Mouvement national de libération de l’Azawad.</alinea>
+          Le MNLA ou Mouvement national de libération de l’Azawad.</alinea>
       </note>
       <note id="sdfootnote6sym">
         <no>6</no>
         <alinea>
-	En revendiquant, le 10 décembre 2011, l’enlèvement deux mois plus tôt, dans l’ouest de l’Algérie, de trois coopérants européens, de nationalités espagnole et italienne, le Mouvement pour l’unicité et le djihad en Afrique de l’Ouest (MUJAO) signait son acte de naissance. Le mouvement, qui s’est donné pour objectif d’étendre l’insurrection djihadiste à toute l’Afrique de l’Ouest, venait alors de faire scission avec Al-Qaida au Maghreb islamique (AQMI). Le MUJAO est devenu l’un des maîtres du nord du Mali. Après l’offensive lancée en janvier 2012 dans le nord du Mali par la rébellion touareg du Mouvement national pour la libération de l’Azawad (MNLA), alors alliée à AQMI, le MUJAO y devient un acteur majeur aux côtés de la branche maghrébine d’Al-Qaida et d’un autre groupe islamiste, ANSAR EDDINE (" défenseurs de l’islam ").</alinea>
+          En revendiquant, le 10 décembre 2011, l’enlèvement deux mois plus tôt, dans l’ouest de l’Algérie, de trois coopérants européens, de nationalités espagnole et italienne, le Mouvement pour l’unicité et le djihad en Afrique de l’Ouest (MUJAO) signait son acte de naissance. Le mouvement, qui s’est donné pour objectif d’étendre l’insurrection djihadiste à toute l’Afriquede l’Ouest, venait alors defairescission avecAl-Qaidaau Maghreb islamique (AQMI). Le MUJAO est devenu l’un des maîtres du nord du Mali. Après l’offensive lancée en janvier 2012 dans le nord duMalipar la rébellion touareg du Mouvement national pour la libération de l’Azawad (MNLA), alors alliée à AQMI, le MUJAO y devient un acteur majeur aux côtés de la branche maghrébine d’Al-Qaida et d’un autre groupe islamiste, ANSAR EDDINE (" défenseurs de l’islam ").</alinea>
       </note>
       <note id="sdfootnote7sym">
         <no>7</no>
         <alinea>
-	La loi électorale adoptée au Mali le 27 mai 2013 prévoyait l’organisation du premier tour des élections présidentielles le 28 juillet et du second tour le 11 août 2013. Initialement prévue en 2012, cette élection, qui n’a pas pu se tenir à cette période à cause du coup d’État militaire, s’est déroulée sans incident majeur. Malgré certains cafouillages, le taux de participation fut relativement satisfaisant, avec 48,98% de votants au 1 tour et 25,78% au second tour. Le candidat du Rassemblement pour le Mali, Ibrahim Boubacar Keita, fut le vainqueur de ce scrutin présidentiel avec 39,79% de voix au premier tour et 77,61% au second tour.</alinea>
+          La loi électorale adoptée au Mali le 27 mai 2013 prévoyait l’organisation du premier tour des élections présidentielles le 28 juillet et du second tour le 11 août 2013. Initialement prévue en 2012, cette élection, qui n’a pas pu se tenir à cette période à cause du coup d’État militaire, s’est déroulée sans incident majeur. Malgré certains cafouillages, le taux de participation fut relativement satisfaisant, avec 48,98% de votants au 1<exposant>er</exposant>tour et 25,78% au second tour. Le candidat du Rassemblement pour le Mali, Ibrahim Boubacar Keita, fut le vainqueur de ce scrutin présidentiel avec 39,79% de voix au premier tour et 77,61% au second tour.</alinea>
       </note>
       <note id="sdfootnote8sym">
         <no>8</no>
         <alinea>
-	De nombreux auteurs, au rang desquels Sami Nair (1997) et dans une dynamique complémentaire Christophe Daum (2007), estiment qu’il est impossible de réfléchir sur le codéveloppement sans évoquer les mesures concrètes qui ont formé la substance de cette action publique internationale.</alinea>
+          De nombreux auteurs, au rang desquels Sami Nair (1997) et dans une dynamique complémentaire Christophe Daum (2007), estiment qu’il est impossible de réfléchir sur le codéveloppement sans évoquer les mesures concrètes qui ont formé la substance de cette action publique internationale.</alinea>
       </note>
       <note id="sdfootnote9sym">
         <no>9</no>
         <alinea>
-	Il convient de relever que le développement a généré une littérature prolixe et a été l’objet de multiples analyses. Les thèses développementalistes dérivent des théories économiques des années 1950, notamment l’approche de Rostow pour qui l’épanouissement des sociétés se réalise à travers la succession de cinq étapes, dont la dernière correspond à celle de la consommation de masse. Pour ce dernier, le Tiers-monde tente de sortir de la seconde phase et se trouve confronté aux problèmes politiques et économiques qu’a connus l’Europe dès la fin du XVIII siècle. À partir du milieu des années 1950, un certain nombre de travaux envisagent l’avènement des pratiques politiques modernes en liaison avec l’épanouissement des variables socio-économiques quantifiables. Ces thèses, qualifiées de « développementalistes » sont d’une grande diversité théorique. Elles établissent une relation de causalité entre la croissance économique et le changement politique.</alinea>
+          Il convient de relever que le développement a généré une littérature prolixe et a été l’objet de multiples analyses. Les thèses développementalistes dérivent des théories économiques des années 1950, notamment l’approche de Rostow pour qui l’épanouissement des sociétés se réalise à travers la succession de cinq étapes, dont la dernière correspond à celle de la consommation de masse. Pour ce dernier, le Tiers-monde tente de sortir de la seconde phase et se trouve confronté aux problèmes politiques et économiques qu’a connus l’Europe dès la fin du XVIII<exposant>e</exposant>siècle. À partir du milieu des années 1950, un certain nombre de travaux envisagent l’avènement des pratiques politiques modernes en liaison avec l’épanouissement des variables socio-économiques quantifiables. Ces thèses, qualifiées de « développementalistes » sont d’une grande diversité théorique. Elles établissent une relation de causalité entre la croissance économique et le changement politique.</alinea>
       </note>
       <note id="sdfootnote10sym">
         <no>10</no>
         <alinea>
-	Le sous-développement de l’Afrique a aussi été analysé comme le résultat de la dépendance économique des sociétés du Sud, vis-à-vis de celles du Nord. Bien que divergentes, les théoriciens de la <marquage typemarq="italique">dépendance </marquage>et les tenants du paradigme des relations <marquage typemarq="italique">Centre-périphérie </marquage>ont des affinités intellectuelles.</alinea>
+          Le sous-développement de l’Afrique a aussi été analysé comme le résultat de la dépendance économique des sociétés du Sud, vis-à-vis de celles du Nord. Bien que divergentes, les théoriciens de la<marquage typemarq="italique">dépendance</marquage>et les tenants du paradigme des relations<marquage typemarq="italique">Centre-périphérie</marquage>ont des affinités intellectuelles.</alinea>
       </note>
       <note id="sdfootnote11sym">
         <no>11</no>
         <alinea>
-	Les sociétés africaines en général et la société malienne en particulier se trouvent ainsi façonnées par un système de dépendance et de contrôle politique et économique.</alinea>
+          Les sociétés africaines en général et la société malienne en particulier se trouvent ainsi façonnées par un système de dépendance et de contrôle politique et économique.</alinea>
       </note>
       <note id="sdfootnote12sym">
         <no>12</no>
         <alinea>
-	Pour Bertrand Badie, cette forme d’hégémonie exerce un effet considérable sur le développement des sociétés dominées selon des modalités qui ont été mises à jour par des chercheurs se réclamant d’une <marquage typemarq="italique">sociologie de la dépendance</marquage> ou d’une <marquage typemarq="italique">sociologie de l’impérialisme</marquage>.</alinea>
+          Pour Bertrand Badie, cette forme d’hégémonie exerce un effet considérable sur le développement des sociétés dominées selon des modalités qui ont été mises à jour par des chercheurs se réclamant d’une<marquage typemarq="italique">sociologie de la dépendance</marquage>ou d’une<marquage typemarq="italique">sociologie de l’impérialisme</marquage>.</alinea>
       </note>
       <note id="sdfootnote13sym">
         <no>13</no>
         <alinea>
-	Pour de plus amples développements et dans une logique de cohérence, les thèses relatives à la théorie de la dépendance sont  étudiées de manière analogique avec l’incontournable référence économique de la migration.</alinea>
+          Pour de plus amples développements et dans une logique de cohérence, les thèses relatives à la théorie de la dépendance sont  étudiées de manière analogique avec l’incontournable référence économique de la migration.</alinea>
       </note>
       <note id="sdfootnote14sym">
         <no>14</no>
         <alinea>
-	Le terme «<marquage typemarq="italique"> Sans-papiers </marquage>», selon la définition qu’en donne le dictionnaire <marquage typemarq="italique">Larousse</marquage>, désigne des personnes qui ne possèdent pas de documents qui leur permettent de justifier de leur identité et, si elles sont étrangères de la régularité de leur situation [en France]. Cf. <marquage typemarq="italique">Dictionnaire Le Larousse</marquage>, 2000, p. 916. Le statut juridique des « <marquage typemarq="italique">Sans-papiers </marquage>» revêt plusieurs formes :</alinea>
-        <listenonord signe="disque">
-          <elemliste><alinea>La situation la plus récurrente est relative aux individus entrés de façon clandestine sur le territoire national (français).</alinea></elemliste>
-          <elemliste><alinea>Le second cas de figure concerne les personnes qui sont demeurées sur le territoire national après expiration de la durée de leur titre de séjour.</alinea></elemliste>
-          <elemliste><alinea>Le troisième cas est celui de personnes nées de parents immigrés et qui à leur majorité n'ont pas effectué une demande de naturalisation.</alinea></elemliste>
-          <elemliste><alinea>Enfin, la dernière facette de ce statut juridique est relative à la situation exceptionnelle des personnes dénationalisées.</alinea></elemliste>
-        </listenonord>
+          Le terme«<marquage typemarq="italique"> Sans-papiers </marquage>», selon la définition qu’en donne le dictionnaire<marquage typemarq="italique">Larousse</marquage>, désigne des personnes qui ne possèdent pas de documents qui leur permettent de justifier de leur identité et, si elles sont étrangères de la régularité de leur situation [en France]. Cf.<marquage typemarq="italique">Dictionnaire Le Larousse</marquage>, 2000, p. 916. Le statut juridique des« <marquage typemarq="italique">Sans-papiers </marquage>»revêt plusieurs formes :</alinea>
       </note>
       <note id="sdfootnote15sym">
         <no>15</no>
         <alinea>
-	Tout au long de l’été 1996, des immigrés africains ont fait l’actualité, révélant au grand jour leur condition de personnes sans statut légal sur le territoire français.</alinea>
+          Tout au long de l’été 1996, des immigrés africains ont fait l’actualité, révélant au grand jour leur condition de personnes sans statut légal sur le territoire français.</alinea>
       </note>
       <note id="sdfootnote16sym">
         <no>16</no>
         <alinea>
-	Nous ne pouvons oublier, à ce propos, que durant l’élection présidentielle française d’Avril-Mai 2007, tous les candidats avaient fait état du codéveloppement comme une panacée en termes de résolution des questions migratoires.</alinea>
+          Nous ne pouvons oublier, à ce propos, que durant l’élection présidentielle française d’Avril-Mai 2007, tous les candidats avaient fait état du codéveloppement comme une panacée en termes de résolution des questions migratoires.</alinea>
       </note>
       <note id="sdfootnote17sym">
         <no>17</no>
         <alinea>
-	Lire notamment l’intervention de Mme B. Girardin, ministre délégué à la coopération, au développement et à la francophonie, Forum national des acteurs du codéveloppement, 18 décembre 2006.</alinea>
+          Lire notamment l’intervention de Mme B. Girardin, ministre délégué à la coopération, au développement et à la francophonie, Forum national des acteurs ducodéveloppement, 18 décembre 2006.</alinea>
       </note>
       <note id="sdfootnote18sym">
         <no>18</no>
         <alinea>
-	Il convient de relever que le codéveloppement étant un terme récent et complexe, la littérature sur la question est limitée. Les monographies existantes analysent exclusivement soit les questions de développement, soit les questions migratoires.</alinea>
+          Il convient de relever que lecodéveloppementétant un terme récent et complexe, la littérature sur la question est limitée. Les monographies existantes analysent exclusivement soit les questions de développement, soit les questions migratoires.</alinea>
       </note>
       <note id="sdfootnote19sym">
         <no>19</no>
         <alinea>
-	Le rapport de la Banque Africaine de Développement (2007) est très instructif, car il catégorise les différents types de transferts financiers des migrants.</alinea>
+          Le rapport de la Banque Africaine de Développement (2007) est très instructif, car il catégorise les différents types de transferts financiers des migrants.</alinea>
       </note>
       <note id="sdfootnote20sym">
         <no>20</no>
         <alinea>
-	Source : Étude sur la valorisation de l’épargne des migrants maliens en France. FSP-Codéveloppement Mali, Octobre 2004.</alinea>
+          Source :Étude sur la valorisation de l’épargne des migrants maliens en France. FSP-Codéveloppement Mali, Octobre 2004.</alinea>
       </note>
       <note id="sdfootnote21sym">
         <no>21</no>
         <alinea>
-	Ce « double-espace » s’appréhende dans une perspective géographique, à savoir, la France et le Mali.</alinea>
+          Ce « double-espace » s’appréhende dans une perspective géographique, à savoir, la France et le Mali.</alinea>
       </note>
       <note id="sdfootnote22sym">
         <no>22</no>
         <alinea>
-	De nombreuses personnes se sont ainsi plaintes de n’avoir pas été en mesure d’effectuer des retraits des sommes qui leur étaient dues aux guichets de l’agence Western Union hébergés par la CBAO (Compagnie bancaire de l’Afrique occidentale) à Dakar. Cet article est consultable <liensimple xlink:type="simple" xlink:href="http://www.seneweb.com/news/article/30369.php">en ligne</liensimple>.</alinea>
+          De nombreuses personnes se sont ainsi plaintes de n’avoir pas été en mesure d’effectuer des retraits des sommes qui leur étaient dues aux guichets de l’agence Western Union hébergés par la CBAO (Compagnie bancaire de l’Afrique occidentale) à Dakar. Cet article est consultable<liensimple xlink:type="simple" xlink:href="http://www.seneweb.com/news/article/30369.php">en ligne</liensimple>.</alinea>
       </note>
       <note id="sdfootnote23sym">
         <no>23</no>
         <alinea>
-	Source : Banque africaine de développement, <marquage typemarq="italique">Les transferts de fonds des migrants, un enjeu de développement, </marquage>Rapport provisoire, Octobre 2007, p. 27.</alinea>
+          Source :Banque africaine de développement,<marquage typemarq="italique">Les transferts de fonds des migrants, un enjeu de développement,</marquage>Rapport provisoire, Octobre 2007, p. 27.</alinea>
       </note>
       <note id="sdfootnote24sym">
         <no>24</no>
         <alinea>
-	Voir <liensimple xlink:type="simple" xlink:href="http://www.immigration.interieur.gouv.fr/?id_article=111%25e2%2580%2593%25209k">en ligne</liensimple>.</alinea>
+          Voir<liensimple xlink:type="simple" xlink:href="http://www.immigration.interieur.gouv.fr/?id_article=111%25e2%2580%2593%25209k">en ligne</liensimple>.</alinea>
       </note>
       <note id="sdfootnote25sym">
         <no>25</no>
         <alinea>
-	Pour ces auteurs, les migrants sont intervenus régulièrement pour remédier aux difficultés d’approvisionnement en eau potable de leurs villages d’origine touchés par la sécheresse. Ces projets hydrauliques mis en œuvre par les associations migrantes concernent la construction ou la réfection des puits traditionnels ou à grand diamètre, des forages équipés de pompes (manuelles, à pied, solaire), de puits citernes et d’adduction d’eau potable. Le projet et la réalisation d’adduction en eau potable du village de Darsalam Oulouma est assez emblématique, car il révèle les représentations, les ressources et les interactions des acteurs. Le village de Darsalam Oulouma est situé à 35 km au sud de Kayes sur la route Kayes-Sadiola. Il fait partie de la commune de Sadiola et sa population actuelle est estimée à environ 1 500 habitants. Le village occupe une superficie de 100 ha. L’agriculture et l’élevage sont les principales activités économiques de la localité. Le village connaît une forte émigration des jeunes vers l’extérieur, notamment en France et en Amérique. Les transferts de devises par la diaspora occupent une place prépondérante dans l’économie du village.</alinea>
+          Pour ces auteurs, les migrants sont intervenus régulièrement pour remédier aux difficultés d’approvisionnement en eau potable de leurs villages d’origine touchés par la sécheresse. Ces projets hydrauliques mis en œuvre par les associations migrantes concernent la construction ou la réfection des puits traditionnels ou à grand diamètre, des forages équipés de pompes (manuelles, à pied, solaire), de puits citernes et d’adduction d’eau potable. Le projet et la réalisation d’adduction en eau potable du village de Darsalam Oulouma est assez emblématique, car il révèle les représentations, les ressources et les interactions des acteurs. Le village de Darsalam Oulouma est situé à 35 km au sud de Kayes sur la route Kayes-Sadiola. Il fait partie de la commune de Sadiola et sa population actuelle est estimée à environ 1 500 habitants. Le village occupe une superficie de 100 ha. L’agriculture et l’élevage sont les principales activités économiques de la localité. Le village connaît une forte émigration des jeunes vers l’extérieur, notamment en France et en Amérique. Les transferts de devises par la diaspora occupent une place prépondérante dans l’économie du village.</alinea>
       </note>
       <note id="sdfootnote26sym">
         <no>26</no>
         <alinea>
-	De manière générale, la mise en place d’une école publique fait l’objet d’une demande d’agrément par la commune auprès de l’académie ou des centres d’animation pédagogique avant la réalisation des travaux. L’agrément n’est validé que si le projet entre dans les normes et le nombre d’infrastructures prévues par le cadre officiel, comme l’atteste la création de l’école de Bambila. Ce village est situé dans la commune rurale de Tomora et sa population actuelle est estimée à 2 000 habitants. Le projet d’extension de l’école a été porté par le village à travers l’association villageoise de Bambila dont la création officielle date du 18 mars 1996, en partenariat avec les ressortissants du village en France regroupés au sein de l’association des ressortissants de Bambila ou ARB. Comme de nombreuses associations, celle-ci se déploie sur le double plan national (malien) et français. Lors de la réalisation de l’école (3 salles de classe en banco en 1996, puis trois salles en dur en 2000, sur financement des migrants), l’Association Villageoise de Bambila a géré les chantiers. La gestion financière s’est faite par l’intermédiaire de son président, M. Lassana Diaby, qui est également conseiller municipal et représentant du bureau de l’Association des Parents d’élèves. Le coût total de ce projet éducatif s’élevait ainsi à 43 537 417 Fcfa. L’apport des bénéficiaires s’élevait à 5 266 000 F CFA, soit 12,10% du budget. La contribution financière des migrants fut de 8 981 409 CFA. L’apport du Fonds de Solidarité Prioritaire (Mali) constituait ainsi 67,28% du budget, soit un montant total de 29 290 008 FCFA.</alinea>
+          De manière générale, la mise en place d’une école publique fait l’objet d’une demande d’agrément par la commune auprès de l’académie ou des centres d’animation pédagogique avant la réalisation des travaux. L’agrément n’est validé que si le projet entre dans les normes et le nombre d’infrastructures prévues par le cadre officiel, comme l’atteste la création de l’école de Bambila. Ce village est situé dans la commune rurale de Tomora et sa population actuelle est estimée à 2 000 habitants. Le projet d’extension de l’école a été porté par le village à travers l’association villageoise de Bambila dont la création officielle date du 18 mars 1996, en partenariat avec les ressortissants du village en France regroupés au sein de l’association des ressortissants de Bambila ou ARB. Comme de nombreuses associations, celle-ci se déploie sur le double plan national (malien) et français. Lors de la réalisation de l’école (3 salles de classe en banco en 1996, puis trois salles en dur en 2000, sur financement des migrants), l’Association Villageoise de Bambila a géré les chantiers. La gestion financière s’est faite par l’intermédiaire de son président, M. Lassana Diaby, qui est également conseiller municipal et représentant du bureau de l’Association des Parents d’élèves. Le coût total de ce projet éducatif s’élevait ainsi à 43 537 417 Fcfa. L’apport des bénéficiaires s’élevait à 5 266 000 F CFA, soit 12,10% du budget. La contribution financière des migrants fut de 8 981 409 CFA. L’apport du Fonds de Solidarité Prioritaire (Mali) constituait ainsi 67,28% du budget, soit un montant total de 29 290 008 FCFA.</alinea>
       </note>
       <note id="sdfootnote27sym">
         <no>27</no>
         <alinea>
-	Ce document de synthèse a été réalisé par l’AGED-Kayes, qui est un opérateur technique du codéveloppement au Mali.</alinea>
+          Ce document de synthèse a été réalisé par l’AGED-Kayes, qui est un opérateur technique ducodéveloppementau Mali.</alinea>
       </note>
       <note id="sdfootnote28sym">
         <no>28</no>
         <alinea>
-	Source : Document d’instruction de l’école de Bambila, AGED-Kayes, 2007.</alinea>
+          Source :Document d’instruction de l’école de Bambila, AGED-Kayes, 2007.</alinea>
       </note>
       <note id="sdfootnote29sym">
         <no>29</no>
         <alinea>
-	L. Gauvrit et G. le Bahers, <marquage typemarq="italique">Op.</marquage>
+          L. Gauvrit et G. le Bahers,<marquage typemarq="italique">Op.</marquage>
           <marquage typemarq="italique"> </marquage>
           <marquage typemarq="italique">cit</marquage>., p. 59.</alinea>
       </note>
       <note id="sdfootnote30sym">
         <no>30</no>
         <alinea>
-	Pour Ban Ki-Moon, ce forum se présentait comme une « étape historique » sur la scène internationale et les migrations furent qualifiées de « force de la nature […] au cours de laquelle de nombreux êtres humains se déplaceront de plus en plus », Discours au Forum mondial sur la migration et le développement, Bruxelles, 9-11 juillet 2007. Dans le droit fil de l’irruption sur la scène internationale de nombreuses initiatives relatives au développement et aux migrations, l’on peut citer entre autres :</alinea>
-        <listenonord signe="disque">
-          <elemliste><alinea>La conférence ministérielle euro-africaine sur la migration et le développement (Rabah, 10-11 juillet 2008).</alinea></elemliste>
-          <elemliste><alinea>La seconde conférence euro-africaine sur la migration et le développement ou Rabah 2 (Paris, 25 novembre 2008).</alinea></elemliste>
-          <elemliste><alinea>Le Pacte européen sur les migrations et l'asile, adopté par le conseil européen le 16 octobre 2008 à Paris.</alinea></elemliste>
-        </listenonord>
+          Pour Ban Ki-Moon, ce forum se présentait comme une « étape historique » sur la scène internationale et les migrations furent qualifiées de « force de la nature […] au cours de laquelle de nombreux êtres humains se déplaceront de plus en plus », Discours au Forum mondial sur la migration et le développement, Bruxelles, 9-11 juillet 2007. Dans le droit fil de l’irruption sur la scène internationale de nombreuses initiatives relatives au développement et aux migrations, l’on peut citer entre autres :</alinea>
       </note>
       <note id="sdfootnote31sym">
         <no>31</no>
         <alinea>
-	Discours de Brice Hortefeux, ministre de l’immigration, de l’intégration, de l’identité nationale et du codéveloppement, « Journées de la coopération internationale et du développement », Paris, 18 juillet 2007. Il convient de préciser que M. Hortefeux a été ministre du 18 mai 2007 au 15 janvier 2009 ; son successeur depuis lors est M. Eric Besson.</alinea>
+          Discours de Brice Hortefeux, ministre de l’immigration, de l’intégration, de l’identité nationale et du codéveloppement, « Journées de la coopération internationale et du développement », Paris, 18 juillet 2007. Il convient de préciser que M. Hortefeux a été ministre du 18 mai 2007 au 15 janvier 2009 ; son successeur depuis lors est M. Eric Besson.</alinea>
       </note>
     </grnote>
   </partiesann>

@@ -33,10 +33,28 @@ declare variable $local:groupes := fn:doc($local:base || 'groupes.xml') ;
  :)
 declare function writeArticles($refs as map(*)*) as document-node()* {
   let $path := $local:base || '/xml/'
+  let $rubriques := map {
+  '55' : 'Revue en ligne',
+  '58' : 'Essais',
+  '60' : 'Créations',
+  '65' : 'L édition papier de Sens Public',
+  '68' : 'Archives',
+  '71' : 'Infos Revue',
+  '76' : 'Lectures',
+  '107': 'Actes de colloque',
+  '109': 'Dossiers',
+  '113': 'Entretiens',
+  '114': 'Chroniques',
+  '115': 'Qui sommes-nous ?',
+  '116': '2. Infos générales',
+  '118': 'Lu sur le web',
+  '119': '3. Autres informations'
+  }
   for $ref in $refs
   return
     let $article := db:open('sens-public')//spip:spip_articles[spip:id_article = map:get($ref, 'num')]
     let $ref := map:put( $ref, 'issue', getIssue($article/spip:id_article/text())[1] )
+    let $ref := map:put( $ref, 'rubrique', map:get( $rubriques, $article/spip:id_rubrique/text()))
     let $file := map:get($ref, 'num') || '-article' || '.xml'
     let $article := getArticle($article, $ref)
     return file:write($path || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
@@ -59,6 +77,7 @@ declare function getArticle( $article as element(), $ref as map(*) ) as element(
   let $grnote := getNote($content)
   let $liminaire := getLiminaire($article)
   let $admin := getAdmin($article, $corps, $biblio, $grnote, $ref)
+  let $typeart := map:get( $ref, 'rubrique')
   return
     <article
       xmlns="http://www.erudit.org/xsd/article"
@@ -67,7 +86,7 @@ declare function getArticle( $article as element(), $ref as map(*) ) as element(
       xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd"
       qualtraitement="complet"
       idproprio="{map:get($ref, 'id')}"
-      typeart="autre"
+      typeart="{$typeart}"
       lang="fr"
       ordseq="1">{
         $admin,
@@ -578,7 +597,7 @@ declare function sup($node as element(spip:sup)+, $options as map(*)) {
   switch ($node)
   case ($node[fn:contains(@href, 'sym')]) return passthru($node, $options)
   case ($node[fn:normalize-space(.) != '']) return <exposant>{ passthru($node, $options) }</exposant>
-  default return ('bug')
+  default return ()
 };
 
 declare function span($node as element(spip:span)+, $options as map(*)) {

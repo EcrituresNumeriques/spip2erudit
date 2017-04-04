@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1221ear" typeart="autre" lang="fr" ordseq="1">
+  <admin>
+    <infoarticle>
+      <idpublic scheme="doi">null</idpublic>
+      <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
+        <descripteur>Philosophie</descripteur>
+        <descripteur>Cinéma</descripteur>
+        <descripteur>Danse</descripteur>
+      </grdescripteur>
+      <nbpara>33</nbpara>
+      <nbmot>2193</nbmot>
+      <nbfig>0</nbfig>
+      <nbtabl>0</nbtabl>
+      <nbimage>0</nbimage>
+      <nbaudio>0</nbaudio>
+      <nbvideo>0</nbvideo>
+      <nbrefbiblio>0</nbrefbiblio>
+      <nbnote>19</nbnote>
+    </infoarticle>
+    <revue id="sp01868" lang="fr">
+      <titrerev>Sens public</titrerev>
+      <titrerevabr>sp</titrerevabr>
+      <idissnnum>2104-3272</idissnnum>
+      <directeur sexe="masculin">
+        <nompers>
+          <prenom>Marcello</prenom>
+          <nomfamille>Vitali-Rosati</nomfamille>
+        </nompers>
+      </directeur>
+      <redacteurchef typerc="invite" sexe="masculin" idrefs="th941">
+        <fonction lang="fr"/>
+        <nompers>
+          <prenom>Jean-Yves</prenom>
+          <nomfamille>Heurtebise</nomfamille>
+        </nompers>
+      </redacteurchef>
+    </revue>
+    <numero id="sp044">
+      <pub>
+        <annee>2015</annee>
+      </pub>
+      <pubnum>
+        <date typedate="publication">2015-03-18</date>
+      </pubnum>
+      <grtheme id="th941">
+        <theme>Je e(s)t un Autre - Philosophie et Esthétiques du dédoublement</theme>
+      </grtheme>
+    </numero>
+    <editeur>
+      <nomorg>Département des littératures de langue française</nomorg>
+    </editeur>
+    <prod>
+      <nomorg>Sens public</nomorg>
+    </prod>
+    <prodnum>
+      <nomorg>Sens public</nomorg>
+    </prodnum>
+    <diffnum>
+      <nomorg>Sens public</nomorg>
+    </diffnum>
+    <histpapier>
+      <alinea>néant</alinea>
+    </histpapier>
+    <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
+    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+  </admin>
+  <liminaire>
+    <grtitre>
+      <titre>Je e(s)t un Autre - Philosophie et Esthétiques du dédoublement</titre>
+    </grtitre>
+    <grauteur>
+      <auteur id="spAuthor748">
+        <nompers>
+          <prenom>Jean-Yves</prenom>
+          <nomfamille>Heurtebise</nomfamille>
+        </nompers>
+      </auteur>
+    </grauteur>
+    <resume lang="fr">
+      <alinea> Vouloir étudier les notions de double et de dédoublement, c’est tenter de repenser la notion d’identité. C’est chercher à saisir la constitution de la subjectivité et de la personne dans le rapport du Je et de l’autre, c’est chercher à penser leur rapport : pas simplement de l’autre en tant que autrui mais de l’autre en tant que autre du Je. Et cela à différents niveaux autant philosophique, que politique et psychologique. Au point de vue philosophique et plus encore épistémologique, notre intention serait de redéfinir la notion de « sujet » pour sortir du point de vue classique en s’aidant notamment des concepts propres au champ de la physique quantique. Il faudrait penser une figure de la subjectivité n’impliquant pas nécessairement l’identité à soi.</alinea>
+    </resume>
+    <grmotcle lang="fr">
+      <motcle>focus</motcle>
+      <motcle>Philosophie</motcle>
+      <motcle>Cinéma</motcle>
+      <motcle>Danse</motcle>
+      <motcle>Je e(s)t un Autre - Philosophie et Esthétiques du dédoublement</motcle>
+      <motcle>essais</motcle>
+    </grmotcle>
+  </liminaire>
+  <corps>
+    <section1>
+      <para>
+        <alinea>SOMMAIRE</alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <para>
+        <alinea>I. SCISSIPARITÉS (HORREUR CLINIQUE)</alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <para>
+        <alinea>
+          <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article941">
+            <marquage typemarq="italique">Je e(s)t un Autre</marquage>
+          </liensimple>Jean-Yves Heurtebise</alinea>
+      </para>
+      <para>
+        <alinea>
+          <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article949">Dead Ringers<marquage typemarq="italique">de Cronenberg, ou la gémellité monstrueuse réduplication de soi</marquage>
+          </liensimple>Julien Pallotta</alinea>
+      </para>
+      <para>
+        <alinea>
+          <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article948">
+            <marquage typemarq="italique">Sur</marquage>Sisters<marquage typemarq="italique">de Brian de Palma: le double et le monstre</marquage>
+          </liensimple>Edith Girval</alinea>
+      </para>
+      <para>
+        <alinea>
+          <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article950">
+            <marquage typemarq="italique">Clinique de l’Image: Schizophrénie et Paranoïa</marquage>
+          </liensimple>Ariane Bilheran</alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <para>
+        <alinea>II. RÉCONCILIATION (UNITÉ MULTIPLE DU TEMPS) </alinea>
+      </para>
+      <para>
+        <alinea>
+          <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article951">
+            <marquage typemarq="italique">Grandeur d’âme et désagrégation du moi. Autour du film</marquage>Kill Bill: volume 2<marquage typemarq="italique">(USA 2004) de Quentin Tarantino</marquage>
+          </liensimple>Idriss Aberkane</alinea>
+      </para>
+      <para>
+        <alinea>
+          <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article938">
+            <marquage typemarq="italique">L’être aux aguets: une esthétique de la distraction</marquage>
+          </liensimple>Ariane Maugery</alinea>
+      </para>
+      <para>
+        <alinea>
+          <liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/spip.php?article1148">
+            <marquage typemarq="italique">Double Face: Temps et Espace dans</marquage>Persona<marquage typemarq="italique">de Bergman et</marquage>Le Miroir<marquage typemarq="italique">de Tarkovski</marquage>
+          </liensimple>Jean-Yves Heurtebise</alinea>
+      </para>
+    </section1>
+    <section1>
+      <titre> </titre>
+    </section1>
+    <section1>
+      <titre> </titre>
+    </section1>
+    <section1>
+      <titre>Présentation du colloque</titre>
+      <para>
+        <alinea>Vouloir étudier les notions de double et de dédoublement, c’est tenter de repenser la notion d’identité. C’est chercher à saisir la constitution de la subjectivité et de la personne dans le rapport du Je et de l’autre, c’est chercher à penser leur rapport : pas simplement de l’autre en tant que autrui mais de l’autre en tant que autre du Je. Et cela à différents niveaux autant philosophique, que politique et psychologique. Au point de vue philosophique et plus encore épistémologique, notre intention serait de redéfinir la notion de « sujet » pour sortir du point de vue classique en s’aidant notamment des concepts propres au champ de la physique quantique. Il faudrait penser une figure de la subjectivité n’impliquant pas nécessairement l’identité à soi. À l’ancien « moi » classique possédant une unité atomique indécomposable et ses propriétés attributives fixes s’opposerait un Je quantique, c’est-à-dire défini comme une probabilité de présence dans un champ subjectif, défini par des superpositions d’états au sein desquels le même et l’autre deviennent complémentaires. Du point de vue politique, penser le rapport du Je à l’autre, ce n’est pas simplement dire l’enfer c’est les autres, c’est penser que la reconnaissance de l’autre en soi-même permet l’acceptation du Je que sont les autres. Du point de vue psychologique, on essaiera de mettre en avant les différents niveaux d’expression du Double : le double comme réplique et clone, clone actuel, physique avec la peur du clonage ou clone virtuel ou avatar avec la création d’un double à la fois fantasmatique et conventionnel ; mais aussi le double comme alter ego, projection mentale à partir de laquelle ou contre laquelle on se constitue, alter ego modèle et idole ou contre-modèle et ennemi.</alinea>
+      </para>
+      <para>
+        <alinea>Enfin, penser le double, c’est de façon plus générale tenter de repenser le rapport entre une série de couples conceptuels qui sont attachés à ces notions de double et de dédoublement, c’est-à-dire penser les rapports entre actuel et virtuel, image et réel, action et représentation.</alinea>
+      </para>
+      <para>
+        <alinea>L’urgence aujourd’hui à penser le Double vient notamment de la prolifération dite « virtuelle », en réalité actuelle, trop actuelle, de notre être à travers le monde dédoublé du réseau Internet. Ce Double prend une forme soit fictionnelle, avec la production d’un Avatar qui illustre le souhait puéril d’une norme naïve de la « beauté » (comme dans Second Life où l’on voit comment le processus d’imitation comportemental ne se contente pas de régir les rapports sociaux mais entraîne la production virtuelle d’un réel apparent), soit autobiographique avec la production de « blogs » ou l’insertion dans des réseaux sociaux divers (de type Facebook), traduisant un véritable désir de clonage virtuel (avec les risques que cette identification virtuelle complète de soi comporte pour notre liberté actuelle). L’intersection entre la réalité fictionnelle et la réalité autobiographique du Double pouvant produire d’étranges collisions. On prendra brièvement pour exemple ce fait divers : une femme nommée S. Rymer, ayant connu une enfance douloureuse (père violent décédé tôt, mère alcoolique, grande sœur qui meurt brûlée à vingt ans), a été condamnée en 2008 à douze ans de prison pour avoir laissé mourir de faim son fils de quatre ans. L’Avatar ou le Double intervient ici en ce que, parallèlement, alors que son fils est alité, elle passe l’essentiel de son temps sur Internet, intervenant dans un forum de discussion pour futures mères, devenant la référente de ce forum<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>La production du Double semblerait venir d’une fuite devant la réalité<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> : notre seuil de tolérance de « vérité » étant dépassé par la « réalité », nous produisons un réel « virtuel » qui nous permet d’y échapper<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>. Le résultat est double : par là nous déréalisons la « vérité » (ce qui est vrai n’est pas réel, c’est au-delà du réel), en même temps que nous rendons fausse la « réalité » (le réel n’est pas vrai, tout n’est qu’illusion). Cette fuite a pour conséquence une addiction au « réel » créé pour échapper à la réalité<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>. C’est là qu’apparaît la limite de cette attitude : non pas dans la fuite elle-même ou le refus de la « réalité/vérité » (c’est cette fausse unité qu’il s’agit de mettre en question) mais dans l’arrêt brutal de cette fuite, dans la stase du sujet dans le réel dédoublé.</alinea>
+      </para>
+      <para>
+        <alinea>Mais, derechef, quelle est cette vérité que nous voulons fuir, cette réalité à laquelle nous souhaitons échapper ? Pour Otto Rank, le Double serait créé par notre refus d’accepter l’inacceptable de notre mort inévitable et prochaine, de notre vie éphémère voire inutile : l’idée du Double procéderait en réalité du désir d’une vie après la Mort, du refus de la Mort et de l’invention d’une âme qui double le corps, d’un moi spirituel qui double le corps mortel<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>Pour Freud, la thématique du Double est propre au sentiment de l’inquiétante étrangeté, qui pour Freud « prend naissance dans la vie réelle lorsque des complexes infantiles<marquage typemarq="italique">refoulés</marquage>sont ranimés par quelque impression extérieure, ou bien lorsque de primitives convictions<marquage typemarq="italique">surmontées</marquage>semblent de nouveau être confirmées »<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>. Ce que marque la peur du Double, ce serait la peur de la castration. Mais il faut voir plus loin dans la mesure où cette peur elle-même traduit une impossibilité de produire dans l’actuel du fait d’une production qui se déploie dans le virtuel<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>. La peur du Double c’est la peur de l’enfantement : c’est la peur d’un enfantement dont le produit survivrait en nous et se développerait en nous contre nous-mêmes. Le double nous met face à l’énigme angoissante de la présence du Je dans un corps, comme à l’insistance du corps dans le Je.</alinea>
+      </para>
+      <para>
+        <alinea>Le double est comme l’expression d’une double terreur éprouvée face à soi-même : quelle est cette voix qui parle en moi ? À qui appartiennent cet amas d’organes qui respirent, digèrent, défèquent à travers moi ? Le mystère de la présence invisible d’un Je qui parle en moi est figuré hystériquement<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi>dans l’image visible d’un Double muet qui nous hante.</alinea>
+      </para>
+      <para>
+        <alinea>Le Double traduit un<marquage typemarq="italique">double bind </marquage>: l’impossibilité de vivre à la fois avec et sans son double. C’est pourquoi on note que dans les histoires de Double, la mort du Double est aussi la mort, physique ou psychique, du sujet dont le Double était la doublure<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi> : l’assassinat du double s’identifie à un suicide du sujet. C’est ce qui se produit dans<marquage typemarq="italique">William Wilson</marquage>de Poe mais également dans<marquage typemarq="italique">Le portrait de Dorian Gray</marquage>d’Oscar Wilde où par la destruction de son portrait qui portait en lui tous les stigmates de sa vie dissolue, le héros se suicide lui-même. Le sujet est confronté à une double impossibilité : impossibilité de vivre avec son double et impossibilité de vivre sans son double. Autrement dit, impossibilité pour le sujet à la fois d’être lui-même et de ne pas être lui.</alinea>
+      </para>
+      <para>
+        <alinea>Or nous voudrions proposer l’hypothèse que cette double impossibilité doit se comprendre non de façon négative comme peur de la castration ou refus de la mort mais comme de façon positive comme présence en nous des puissances du devenir, comme manifestation inconsciente de notre puissance vitale de changement.</alinea>
+      </para>
+      <para>
+        <alinea>C’est là que l’on passe du double au dédoublement.</alinea>
+      </para>
+      <para>
+        <alinea>Dans le dédoublement, la doublure n’est jamais la réplique (le Double), c’est au contraire ce qui exprime la différence. Dans le dédoublement, le double n’est pas l’autre de l’un mais une des doublures de l’autre.<marquage typemarq="italique">Il y a là comme deux états différents du Double : d’un côté, le Double est ce qui s’oppose à soi comme une réplique externe de notre être interne ; d’un autre côté, la Doublure est ce qui se relie à soi comme la différence interne d’une multiplicité virtuelle.</marquage>Nous sommes toujours autres que nous-mêmes : dans le Double nous nous identifions à l’Autre que nous sommes ; dans le Dédoublement, c’est nous-mêmes qui devenons autres.</alinea>
+      </para>
+      <para>
+        <alinea>Ce n’est pas simplement Je est un autre mais Je est d’autres<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Il est intéressant de noter que dans la plupart des histoires de Double, c’est en vérité le thème de la multiplicité qui apparaît. Ainsi dans<marquage typemarq="italique">Le Portrait de Dorian Gray</marquage>d’Oscar Wilde : « Telle était en tout cas l’opinion de Dorian Gray. Il s’étonnait de la psychologie superficielle de ceux qui conçoivent le moi de l’homme comme simple, permanent, certain et composé d’une seule essence. Pour lui l’homme était un être doté de myriades de vies et de myriades de sensations, une créature complexe et multiforme portant en elles d’étranges héritages de pensée et de passion et, dans sa chair même, la souillure des monstrueuses maladies des morts<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi> ».</alinea>
+      </para>
+      <para>
+        <alinea>De même dans le récit<marquage typemarq="italique">Ombres</marquage>de Poe :</alinea>
+      </para>
+      <bloccitation>
+        <alinea>« Et alors, tous les sept, nous nous dressâmes d’horreur sur nos sièges, et nous nous tenions tremblants, frissonnants, effarés ; car le timbre  de la voix de l’Ombre n’était pas le timbre d’un seul individu, mais d’une multitude d’êtres ; et cette voix, variant ses inflexions de syllabe en syllabe, tombait confusément dans nos oreilles en imitant les accents connus et familiers de mille et mille amis disparus ! »<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi>
+        </alinea>
+      </bloccitation>
+      <para>
+        <alinea>De même enfin dans la nouvelle de Lovecraft<marquage typemarq="italique">Démons et merveilles</marquage>où le récit du dédoublement du personnage se conclut ainsi :</alinea>
+      </para>
+      <bloccitation>
+        <alinea>« Soudain, il ressentit alors une terreur plus grande que celle qu’aucune des Formes aurait pu lui inspirer – une terreur qu’il ne pouvait fuir parce qu’elle faisait partie de lui-même […] Par-delà l’Ultime Porte, il comprenait à présent, dans un éclair de frayeur destructrice, qu’il n’était pas une seule personne mais une foule de personnes. Il était au même instant présent en de multiples lieux. »<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi>
+        </alinea>
+      </bloccitation>
+      <para>
+        <alinea>En effet, ce qui nous dédouble, c’est la traversée de forces qui nous dépassent<renvoi idref="sdfootnote14sym" typeref="note">14</renvoi>. Ainsi, le créateur vit son œuvre comme une excroissance qui vit en lui et menace de le détruire s’il ne pousse pas la naissance de ce Double à son ultime dédoublement<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi>. Ce qui est mis à jour, c’est finalement une virtualité vraie : non pas le faux virtuel d’une identité fictive ou narcissique numérisé mais les puissances cachées, les potentialités furtives de notre être-limite<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Il y aurait deux états du Double et du dédoublement : un dédoublement interne, qui nous confronte à l’impossible nécessité de l’identité et qui tend à se confondre avec la répétition pure (le Double et l’identification hystérique) et un dédoublement externe qui est pure différence et bifurcation (le dédoublement et la démultiplication créatrice).</alinea>
+      </para>
+      <para>
+        <alinea>Penser le double et dédoublement ce sera tenter de penser la relation comme telle. Non pas simplement penser la relation à l’autre dans ce cas limite où l’autre est soi mais soi comme un autre mais plus encore penser l’autre de la relation : penser la relation à la relation. Ce qui nous définit, c’est la relation à nous-mêmes et non pas nous-mêmes comme terme de cette relation. Le sujet est la relation à autre chose que lui-même et il ne se constitue comme sujet que par le retour de la relation sur elle-même. C’est dans le retour sur « lui-même » que se constitue un « même » de cette relation à soi : un sujet. Le Double et le Dédoublement apparaît dans les légers décalages ou les terribles écarts entre le sujet et lui-même dans sa relation à soi.</alinea>
+      </para>
+      <para>
+        <alinea>Ainsi le thème du double et du dédoublement permettrait de repenser la notion de sujet en distinguant deux faces : le Double comme figure d’un sujet sans subjectivité (un individu fantôme, une identité sans personnalité)  et le Dédoublement comme présence d’une subjectivité sans sujet (un ensemble d’affects non déterminables). Au croisement des deux émerge la réalité floue et indistincte que nous appelons nous-mêmes<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi>, cet autre que nous efforçons sans cesse de rendre le plus proche possible de soi<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi>en repoussant sans cesse la bordure où logent les démons du non-soi<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Dans cette perspective, ce numéro propose de regrouper un certain nombre d’interventions ayant eu lieu au cours de l’année 2008/2009 au Collège International de Philosophie, à la Maison Populaire de Montreuil et dans le cadre des Écrans Philosophiques, réalisés conjointement par le CIPh et la Maison Populaire, en y ajoutant quelques contributions externes. Ces différents articles auront pour thème commun d’interroger les notions de double et de dédoublement dans ces différentes<marquage typemarq="italique">figures</marquage>au cinéma et dans l’art vidéo.</alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+    </section1>
+  </corps>
+  <partiesann>
+    <grnote>
+      <note id="sdfootnote1sym">
+        <no>1</no>
+        <alinea> Cf.<liensimple xlink:type="simple" xlink:href="http://www.libeorleans.fr/libe/2008/04/sophie-mre-infa.html">Voir en ligne</liensimple>
+        </alinea>
+      </note>
+      <note id="sdfootnote2sym">
+        <no>2</no>
+        <alinea> Cf. Clément Rosset,<marquage typemarq="italique">Le réel</marquage> <marquage typemarq="italique">et son double</marquage>, Gallimard, 1976, p. 10 « Le réel n’est admis que sous certaines conditions et seulement jusqu’à un certain point : s’il abuse et se montre déplaisant, la tolérance est suspendue. Un arrêt de perception met alors la conscience à l’abri de tout spectacle indésirable. »</alinea>
+      </note>
+      <note id="sdfootnote3sym">
+        <no>3</no>
+        <alinea> Cf. Friedrich Nietzsche,<marquage typemarq="italique">Par delà bien et mal</marquage>, 2, § 39 : « Il pourrait y avoir quelque chose de vrai et qui fût au plus haut point nuisible et dangereux : il pourrait même appartenir à la constitution fondamentale de l’existence que l’on périsse à la connaissance totale du vrai – de sorte que la force d’un esprit se mesurerait à la dose de vérité qu’il pourrait exactement supporter, pour être plus explicite, au degré auquel il lui serait nécessaire qu’elle fût atténuée, voilée, adoucie, assourdie, faussée. » Cf.<marquage typemarq="italique">Ecce Homo, comment on devient ce que l’on est</marquage>, Avant propos, § 3 : « Quelle dose de vérité un esprit sait-il<marquage typemarq="italique">supporter</marquage>, sait-il<marquage typemarq="italique">risquer</marquage> ? Voilà qui, de plus en plus, devint pour moi le vrai critère des valeurs ». Cf.<marquage typemarq="italique">Fragments posthumes,</marquage>1885, 35 [69],<marquage typemarq="italique">KSA,</marquage>11, p. 540 : « La dose de<marquage typemarq="italique">vérité</marquage>qu’un être humain supporte sans dégénérer, c’est<marquage typemarq="italique">sa mesure</marquage> ».</alinea>
+      </note>
+      <note id="sdfootnote4sym">
+        <no>4</no>
+        <alinea> Cf. McDougall J., L’économie psychique de l’addiction,<marquage typemarq="italique">Revue française de psychanalyse</marquage>, 2004/2, Volume 68, pp. 511-527 : « la solution addictive est une solution<marquage typemarq="italique">somato-psychique au stress mental</marquage> ».</alinea>
+      </note>
+      <note id="sdfootnote5sym">
+        <no>5</no>
+        <alinea> Cf. Otto Rank,<marquage typemarq="italique">Don Juan et le Double</marquage>, chapitre 7, Payot, 1932. « Il apparaît avec évidence que c’est le narcissisme primitif, se sentant particulièrement menacé par la destruction inévitable du Moi, qui a créé comme toute première représentation de l’âme une image aussi exacte que possible du Moi corporel, c’est-à-dire un véritable Double pour<marquage typemarq="italique">donner ainsi un démenti à la mort par le dédoublement du Moi sous forme d’ombre ou de reflet</marquage>. Avec le développement de l’intelligence chez l’homme et la notion consécutive de culpabilité, le Double qui, à l’origine, était un substitut concret du Moi, devient maintenant un diable ou un<marquage typemarq="italique">contraire</marquage>du Moi, qui détruit le Moi au lieu de le remplacer. Ainsi l’individu, sachant qu’il doit mourir, se punit lui-même par la conception d’un diable, ennemi de son âme. Il vit avec la conscience de sa disparition prochaine ou plutôt avec un sentiment de culpabilité qui lui fait constamment craindre un arrêt de mort »</alinea>
+      </note>
+      <note id="sdfootnote6sym">
+        <no>6</no>
+        <alinea> Cf. Sigmund Freud,<marquage typemarq="italique">Essais de psychanalyse appliquée</marquage>, L’inquiétante étrangeté, chapitre 3, Gallimard, 1933.</alinea>
+      </note>
+      <note id="sdfootnote7sym">
+        <no>7</no>
+        <alinea> Cf. Sarah Kofman, Le<marquage typemarq="italique">double</marquage>e(s)t le diable : L’inquiétante étrangeté de<marquage typemarq="italique">L’homme au sable</marquage>,<marquage typemarq="italique">Revue française de psychanalyse</marquage>, 1974, n° 38, pp. 25-56.</alinea>
+      </note>
+      <note id="sdfootnote8sym">
+        <no>8</no>
+        <alinea> Cf. Gilles Deleuze,<marquage typemarq="italique">Bacon, Logique de la sensation</marquage>, La Différence, 1996, pp. 17 : « Bacon a souvent dit que dans le domaine des figures, l’ombre avait autant de présence que le corps ; mais l’ombre n’acquiert cette présence que parce qu’elle s’échappe du corps, elle est le corps qui s’est échappé par tel ou tel point de son contour ».</alinea>
+      </note>
+      <note id="sdfootnote9sym">
+        <no>9</no>
+        <alinea> Cf. Sarah Kofman, Vautour Rouge (Le Double dans<marquage typemarq="italique">Les</marquage>
+          <marquage typemarq="italique">Élixirs</marquage>
+          <marquage typemarq="italique">du Diable</marquage>d’Hoffmann), in<marquage typemarq="italique">Mimésis des articulations</marquage>, ouvrage collectif, Jacques Derrida, Jean-Luc Nancy &amp; al., Aubier-Flammarion, 1975, pp. 95-163 : « Comme dans toutes les histoires de double la mort de l’un signe l’arrêt de l’autre ».</alinea>
+      </note>
+      <note id="sdfootnote10sym">
+        <no>10</no>
+        <alinea> Cf. Claude Simon,<marquage typemarq="italique">La corde raide</marquage> : « Je est d’autres. D’autres choses, d’autres odeurs, d’autres sons, d’autres personnes, d’autres lieux, d’autres temps » – cité par Lucien Dällenbach, in « Le Tissu de mémoire », postface de<marquage typemarq="italique">La Route des Flandres</marquage>, Minuit, 1993, p. 299.</alinea>
+      </note>
+      <note id="sdfootnote11sym">
+        <no>11</no>
+        <alinea> Cf. Oscar Wilde,<marquage typemarq="italique">Le Portrait de Dorian Gray</marquage>, Livre de poche, p. 193.</alinea>
+      </note>
+      <note id="sdfootnote12sym">
+        <no>12</no>
+        <alinea>
+          <marquage typemarq="italique"> </marquage>Cf. Edgar Allan Poe,<marquage typemarq="italique">Ombre</marquage>, Robert Laffont, 1989, p. 197.</alinea>
+      </note>
+      <note id="sdfootnote13sym">
+        <no>13</no>
+        <alinea>
+          <marquage typemarq="italique"> </marquage>Cf. Howard Philips Lovecraft,<marquage typemarq="italique">Démons et merveilles</marquage>,<marquage typemarq="italique">Œuvres</marquage>, tome III, p. 175, Robert Laffont, 1992.</alinea>
+      </note>
+      <note id="sdfootnote14sym">
+        <no>14</no>
+        <alinea> Cf. Friedrich Nietzsche, Lettre à Peter Gast, 1882 : « Je me fais si souvent l’effet d’un griffonnage qu’une puissance inconnue tracerait sur le papier pour essayer une nouvelle plume. » – cité par Marie-Louise Mallet, Nietzsche : l’énigme de l’écoute, in<marquage typemarq="italique">L’écoute</marquage>, Peter Szendy, L’Harmattan, 2000.</alinea>
+      </note>
+      <note id="sdfootnote15sym">
+        <no>15</no>
+        <alinea> Cf. Michel Tournier,<marquage typemarq="italique">Le vent Paraclet</marquage>, Gallimard, 1977, pp. 183-4 : « au bout de peu de temps mon livre est doué d’un nombre plus grand de pièce, organes, éléments de transmission, réservoirs, soupapes et bielles que je n’en puis concevoir en même temps. Il échappe à ma maîtrise, et se prend à vivre d’une vie propre. J’en deviens alors le jardinier, le serviteur, pire encore le sous-produit, ce que l’œuvre fait sous elle en se faisant. Je vis dans la servitude d’un monstre naissant, croissant, multipliant, aux exigences péremptoires […] Et quand elle me lâche, quand gorgée de ma substance, elle commence à rouler de par le monde, je gis exsangue, vidé, écœuré, épuisé, hanté par des idées de mort. »</alinea>
+      </note>
+      <note id="sdfootnote16sym">
+        <no>16</no>
+        <alinea> Cf. Henri Michaux : « Derrière le visage aux traits immobiles […] un autre visage supérieurement mobile bouillonne, se contracte, mijote dans un insupportable paroxysme. Derrière les traits figés, cherchant désespérément une issue, les expressions comme une bande de chiens hurleurs… » – cité par Nathalie Barberger, in « Bouche bée »,<marquage typemarq="italique">Rue Descartes</marquage>, 2002/4, n° 38, pp. 71-82.</alinea>
+      </note>
+      <note id="sdfootnote17sym">
+        <no>17</no>
+        <alinea> Arthur Rimbaud,<marquage typemarq="italique">Œuvres complètes</marquage>, Gallimard, 1963, Correspondance, « À Paul Demeny / 15 mai 1871 », p. 270 : « Si les vieux imbéciles n’avaient pas trouvé du Moi que la signification fausse, nous n’aurions pas à balayer ces millions de squelettes qui, depuis un temps infini, ont accumulé les produits de leur intelligence borgnesse, en s’en clamant les auteurs. »</alinea>
+      </note>
+      <note id="sdfootnote18sym">
+        <no>18</no>
+        <alinea> Henri Michaux,<marquage typemarq="italique">Plume</marquage>, « Postface », in<marquage typemarq="italique">Œuvres complètes</marquage>, Pléiade tome I, Gallimard, 1998, p. 663 : « La plus grande fatigue de la journée serait due à l’effort, à la tension nécessaire pour garder un même moi à travers les tentations continuelles de le changer. On veut trop être quelqu’un. »</alinea>
+      </note>
+      <note id="sdfootnote19sym">
+        <no>19</no>
+        <alinea> Charlotte Brontë, « Sur Emily Brontë », in<marquage typemarq="italique">Poèmes</marquage>, traduction Pierre Leyris, Gallimard, 2003 : « Aujourd’hui pourtant je renonce à chercher le séjour fantôme/ Car vide de tout réconfort, son immensité me consterne, / Et toutes les visions surgies, qui se succèdent par légions,/ Rapprochent le monde irréel de trop inquiétante manière. »</alinea>
+      </note>
+    </grnote>
+  </partiesann>
+</article>

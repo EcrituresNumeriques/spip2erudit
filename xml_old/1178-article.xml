@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1907ear" typeart="autre" lang="fr" ordseq="1">
+  <admin>
+    <infoarticle>
+      <idpublic scheme="doi">null</idpublic>
+      <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
+        <descripteur>Arts et littérature</descripteur>
+        <descripteur>Cinéma</descripteur>
+        <descripteur>Europe</descripteur>
+        <descripteur>Pasolini, Pier Paolo (1922-1975)</descripteur>
+      </grdescripteur>
+      <nbpara>15</nbpara>
+      <nbmot>2581</nbmot>
+      <nbfig>0</nbfig>
+      <nbtabl>0</nbtabl>
+      <nbimage>0</nbimage>
+      <nbaudio>0</nbaudio>
+      <nbvideo>0</nbvideo>
+      <nbrefbiblio>0</nbrefbiblio>
+      <nbnote>0</nbnote>
+    </infoarticle>
+    <revue id="sp01868" lang="fr">
+      <titrerev>Sens public</titrerev>
+      <titrerevabr>sp</titrerevabr>
+      <idissnnum>2104-3272</idissnnum>
+      <directeur sexe="masculin">
+        <nompers>
+          <prenom>Marcello</prenom>
+          <nomfamille>Vitali-Rosati</nomfamille>
+        </nompers>
+      </directeur>
+    </revue>
+    <numero id="sp01946">
+      <pub>
+        <annee>2016</annee>
+      </pub>
+      <pubnum>
+        <date typedate="publication">2016-02-15</date>
+      </pubnum>
+      <grtheme id="th">
+        <theme/>
+      </grtheme>
+    </numero>
+    <editeur>
+      <nomorg>Département des littératures de langue française</nomorg>
+    </editeur>
+    <prod>
+      <nomorg>Sens public</nomorg>
+    </prod>
+    <prodnum>
+      <nomorg>Sens public</nomorg>
+    </prodnum>
+    <diffnum>
+      <nomorg>Sens public</nomorg>
+    </diffnum>
+    <histpapier>
+      <alinea>néant</alinea>
+    </histpapier>
+    <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
+    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+  </admin>
+  <liminaire>
+    <grtitre>
+      <titre>Pasolini, à la mesure du réel</titre>
+    </grtitre>
+    <grauteur>
+      <auteur id="spAuthor1125">
+        <nompers>
+          <prenom>William</prenom>
+          <nomfamille>Delisle</nomfamille>
+        </nompers>
+      </auteur>
+    </grauteur>
+    <grmotcle lang="fr">
+      <motcle>focus</motcle>
+      <motcle>Arts et lettres</motcle>
+      <motcle>Cinéma</motcle>
+      <motcle>Europe</motcle>
+      <motcle>Pasolini*Pier,Paolo</motcle>
+    </grmotcle>
+  </liminaire>
+  <corps>
+    <section1>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">Pulsions pasoliniennes</marquage>
+          <marquage typemarq="italique">
+            <renvoi idref="sdfootnote1sym" typeref="note">1</renvoi> </marquage>se présente comme une réflexion sur le contemporain, dans une lutte continuelle du corps et de la parole. Fabrice Bourlez nous livre l’exercice deleuzien d’une critique de la psychanalyse et des théories du genre à travers l’œuvre de Pier Paolo Pasolini (1922-1975). Marqué par l’assassinat du poète, par l’héritage « intempestif » qu’il nous a laissé, par « l’inactualité » de sa pensée et de ses actes, Fabrice Bourlez réhabilite la parole de Pasolini qui forme la diversité inhérente à notre espèce, une diversité désabusée et réprimée.<marquage typemarq="italique">Pulsions</marquage>est une lecture importante de ce qui reste d’amour dans la révolte, de ce qui se situe en dehors de toutes barrières, de l’homme au plus sensationnel de ses contradictions.</alinea>
+      </para>
+      <para>
+        <alinea>Descendre en enfer avec Pasolini n’est pas la plus simple des activités intellectuelles. Et pourtant, c’est exactement ce que fait Fabrice Bourlez. En commençant son essai par la mort de Pasolini, par la marque de la « malemort », il initie le dialogue entre ce dernier et les autres « maestri » de cette époque, un dialogue qui n’a pas nécessairement eu lieu. Foucault, Lacan, Deleuze, Barthes, sont tous des hommes qui ont eu une grande influence sur la pensée de Pasolini. À travers l’élaboration de son théâtre, de son cinéma et de sa poésie, la présence des structuralistes se fait sentir lorsqu’elle parle à la place du poète italien. Comme le dit Maurice Blanchot dans les<marquage typemarq="italique">Entretiens infinis</marquage>: à « cette place sans occupant qui est ma seule identité, voilà ce qui rend un instant la mort joyeuse, aléatoire<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> ». Fabrice Bourlez veut introduire ici l’idée que l’œuvre pasolinienne sert à décentrer la pensée à travers un enseignement unique, à travers des formes et des lieux qui n’ont pas de noms, qui ne s’expriment que par la découverte paradoxale de leur propre négation. C’est ce qu’il appelle le « dehors » qui n’est pas extériorité, mais ce qui ne peut pas être analysé conformément à la théorie, ce qui « précède » dans l’après-coup. Après la mort de Pasolini, son œuvre peut ainsi se lire comme une source du contemporain. Elle forme une logique de la contradiction, la rend plastique, matérielle, pour que de cet « aléatoire » se forme les différences.</alinea>
+      </para>
+      <para>
+        <alinea>La mort du poète assassiné était un acte de désespoir. Fabrice Bourlez en parle comme l’inévitable conséquence des agissements critiques de Pasolini face à la société moderne d’après-guerre. En fait, le poète critiqua avec virulence la nouvelle culture qui se formait devant lui. Cette culture, qui est en fait le fondement de notre société de consommation, rendait toutes les sphères de la société conformes aux idéaux capitalistes de confort, de simplicité et de facilité. La langue italienne était normalisée par la télévision, la radio et les journaux, laissant de côté les trésors de sa diversité<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi> . Les corps n’avaient plus de « grâce », ne vivaient plus de plaisirs singuliers. Ainsi, c’est dans ses attaques que Pasolini faisait résonner l’urgence d’agir, sans pauses réelles, contre « un ordre horrible fondé sur la possession et la destruction<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi> ». Le travail de Fabrice Bourlez reprend là où celui de Pasolini s’est brusquement terminé, là où les structuralistes se sont arrêtés. Il questionne ainsi « le geste même de la pensée » et s’insurge contre l’ordre préétabli<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Pour les nouvelles communautés philosophiques qui évoluèrent aux États-Unis pendant les années soixante-dix, les penseurs de la<marquage typemarq="italique">French Theory</marquage>ont été les catalyseurs d’un combat intellectuel et social de plus en plus complexe. Ce sont les conceptions de la sexualité qui étaient questionnées sur les campus universitaires américains, à une époque où le sida commençait ses ravages. Le combat des minorités sexuelles, des<marquage typemarq="italique">queer</marquage>, contre la société hétéro-normative était plus dur, plus féroce à ce moment où cette dernière se protégeait de ceux et celles qui avaient le « cancer des homosexuels ». Fabrice Bourlez fait référence à la théoricienne post-féministe française, Monique Wittig, plus particulièrement à son ouvrage<marquage typemarq="italique">La Pensée straight</marquage>
+          <renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>. Celle-ci nous sensibilise à l’ordre symbolique amené par les structuralistes, les mêmes qui l’ont déconstruit plus tard, pour y repérer les mécanismes de normalisation sauvage et totalitaire, d’injustices que vivent les différences dans la société, d’assouvissement au signifiant. Il faut, pour se sortir de ce rejet meurtrier, bousculer les règles, faire de celles-ci une parodie d’elles-mêmes. Une rage ressort de ces injustices, autant pour Pasolini, l’homosexuel, l’homme civil, le poète indigné, que pour des théoriciens comme Wittig. Mais est-elle la même pour les deux ? Fabrice Bourlez montre que ce rapprochement n’est pas aussi facile à faire qu’à dire, car de nombreuses différences existent entre les pulsions pasoliniennes et le pouvoir subversif du mouvement<marquage typemarq="italique">queer</marquage>. C’est là que l’auteur pousse le questionnement au-delà du simple combat contre l’ordre symbolique et la société désavouée de ses propres différences.</alinea>
+      </para>
+      <para>
+        <alinea>Revenons aux œuvres de Pasolini, les dernières :<marquage typemarq="italique">Pétrole</marquage>et<marquage typemarq="italique">Salò ou les 120 journées de Sodome</marquage>. C’est surtout à partir de ces deux œuvres, l’une littéraire et l’autre cinématographique, que Fabrice Bourlez cherche les errements des pulsions pasoliniennes. Dans le film, qui, on le rappelle, a fait énormément de bruit à sa sortie et sème encore aujourd’hui la pagaille dans les institutions, Pasolini arrive au plus loin de sa recherche d’une « langue de la poésie du cinéma». Cette langue se base sur la sortie de la narration de ce qui est conventionnel et de sa transposition à la source du cinéma : « sa première qualité onirique, barbare, irrégulière, agressive, visionnaire». La narration de<marquage typemarq="italique">Salò</marquage>n’est pas ce qu’attendent les spectateurs, soit une voix rassurante et claire sur les buts du film ; elle est cruelle, directe, incompréhensible, illisible. Il sacrifie la jeunesse, la rend esclave, tout autant que les maîtres, à une logique corrompue du pouvoir. Pour Pétrole, la structure n’existe pas. Elle est « fragmentaire », utilise d’autres façons de rendre ce « quelque chose d’écrit<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi> », cette substance sans nom et illisible. Les dernières œuvres pasoliniennes se veulent du réel et forcent la fiction à s’y soumettre.</alinea>
+      </para>
+      <para>
+        <alinea>Avec ce retour au réel, Fabrice Bourlez complexifie la relation entre la psychanalyse et Pasolini. Il ouvre un autre volet des pulsions pasoliniennes, davantage axé sur la réhabilitation de la parole comme langage de l’inconscient. Son œuvre étant truffée de références aux découvertes freudiennes et à un dialogue beaucoup plus marqué avec Lacan, Pasolini utilise le vocabulaire relié à la névrose, au rêve et à la clinique psychanalytique. Mais Fabrice Bourlez nous met en garde contre toute psychologisation de l’œuvre pasolinienne : elle n’est que poétique. Malgré tout ce que l’on pouvait croire de ses influences, Pasolini affirmait avoir la réalité comme seule idole. De ce fait, Fabrice Bourlez rend discutables les liens entre la psychanalyse et la réalité pasolinienne en introduisant la pensée de Deleuze. Pour le philosophe français, la langue de la réalité n’est pas un langage, mais « une forme plastique […] formée sémiotiquement, esthétiquement, pragmatiquement<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi> ». Effectivement, Pasolini va à contre-courant du symbolique, de la loi du Père<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>dans le langage ; il incarne l’informe, le stigmatisé, celui qui refuse la domination du symbolique, le corps. Il est donc à l’avance d’une éventuelle clinique psychanalytique basée sur le réel.</alinea>
+      </para>
+      <para>
+        <alinea>Dans le même ordre d’idée, mais sur le plan des théories du genre, Fabrice Bourlez fait référence à l’anthropologue Gayle Rubin et à son interprétation du problème de la domination masculine. Pour l’Américaine, la seule façon de déstabiliser l’ordre symbolique, qui sous-tend la domination masculine sur le reste des corps, serait de l’ébranler de l’intérieur, en l’occurrence<marquage typemarq="italique">via</marquage>la psychanalyse elle-même. Théorie de la sexualité avant tout, la clinique analytique pourrait servir d’arme contre les conceptions rigides d’un idéal sexuel bourgeois. Selon Fabrice Bourlez, un rapprochement entre l’œuvre de Pasolini, où les corps sont transformés, où la langue est dénuée de sens, où il nous montre l’inconcevable, et les théories du genre peut se faire, mais à quelques conditions. Il rejoint ici Rubin dans la critique de la montée du communautarisme chez les minorités sexuelles, idée qu’aurait condamnée Pasolini, lui qui aimait uniquement ce qui était en dehors de toute hiérarchisation, de toute règle. C’est dans cette optique que le poète développe le « style indirect libre » : le mouvement de caméra, l’écriture, ne doit pas suivre une linéarité préétablie ; il doit soutenir ceux et celles qui sont à l’extérieur du récit, ceux et celles que l’on ne montre pas. Cependant, comme Fabrice Bourlez le fait remarquer, Pasolini ne serait pas fidèle à lui-même s’il ne se contredisait pas. C’est ainsi qu’il condamne, à la fin de sa vie, tout son travail cinématographique précédent, en voyant la société s’en prendre à ces corps qu’il croyait intouchables et uniques. Pasolini combat la perversion par la perversion avec<marquage typemarq="italique">Salò</marquage>, où rien n’est laissé pour compte, où les corps sont dictés d’un fascisme à un autre. N’y a-t-il pas dans l’attitude de Pasolini une forte opposition aux théories du genre ?</alinea>
+      </para>
+      <para>
+        <alinea>Pasolini, dans son propre paradoxe, mêle les théoriciens du mouvement<marquage typemarq="italique">queer</marquage>dans l’acceptation ou le rejet de son caractère intempestif. Dans la douleur du poète, dans sa négation du passé et du présent, dans sa nostalgie des pauvres, dans sa volonté de montrer la chair, les corps « dans toute leur opacité », le poète italien brouille les pistes en se mettant constamment en échec. De cette manière, on ne sait jamais vraiment s’il est contre l’ordre symbolique ou s’il tombe dans un conservatisme daté. En contre-point, les membres du mouvement queer revendiquent activement une redéfinition des pouvoirs, une auto-nomination en tant que minorités, une résistance de la différence<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi>. Fabrice Bourlez propose alors de voir Pasolini, non pas comme un précurseur de la théorie<marquage typemarq="italique">queer</marquage>, mais comme un éclaireur de « l’expérience directe du magma de la réalité<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi> ». C’est là que la psychanalyse prend toute son importance.</alinea>
+      </para>
+      <para>
+        <alinea>Réduire Pasolini à ses frustrations serait une grave erreur, tant il y a de choses à dire sur lui. En fait, Pasolini affabule les repères familiaux, les déconstruits à travers la chute des pères, leur « foirade » répétée. C’est précisément sur ce sujet que Pasolini se rapproche le plus des théories<marquage typemarq="italique">queer</marquage>, et ce, par le biais de la psychanalyse. Fabrice Bourlez termine son essai sur ce rapprochement, en montrant que l’œuvre de Pasolini, du début jusqu’à la fin, sert à « la révision de l’ordre moral, castrateur, traditionnellement associé à la figure du père dans le complexe d’Œdipe<renvoi idref="sdfootnote14sym" typeref="note">14</renvoi> ». L’auteur de l’essai constate que le poète, à travers ses relations familiales, jongle avec la théorie psychanalytique de façon presque ironique. On ne sait pas s’il est sérieux lorsqu’il fait appel aux références phares de la psychanalyse, ou s’il use de son pouvoir paradoxal pour les déconstruire elles aussi. Du moins, Pasolini détourne l’Œdipe traditionnel, unique, en le frappant à la logique du réel, le morcelant en plusieurs versions. Comme on l’a vu plus tôt, le poète ne se situerait ni du côté du névrosé, sujet de la castration, du manque, ni du côté du psychotique, celui qui a tout dans l’hallucination, mais dans la poétique. Mais dans cette poétique, n’y a-t-il pas un amour du fétichiste « pour les choses du monde<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi>» ? Fabrice Bourlez interprète cet amour comme un éloge de la perversion, le pervers étant celui qui « fétichise l’objet pour ne pas voir le manque dans l’Autre». En fait, le fétiche est « force de révélation, réinvention prometteuse du langage ». C’est dans le langage que Pasolini utilise sa perversion de façon à mettre en échec les pères, à éloigner les réalisations humaines du sens et à en faire une éthique de la pulsion.</alinea>
+      </para>
+      <para>
+        <alinea>Cette pulsion, que Fabrice Bourlez nomme « pasolinienne », est le fruit d’un travail qui se remet en cause à répétition ; un travail qui se vit à travers les corps, qui les transperce, qui touche à la diversité de ceux-ci et les bouscule jusqu’à les vider de leur sens. On se retrouve devant ce « quelque chose d’écrit » qui revient constamment, comme le leitmotiv d’une forme qui défie le symbolique, comme une manifestation de ce « réel qui se dérobe<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi>», du corps marqué par le langage. Pasolini n’incarne pas la simple sublimation pulsionnelle ; il fait d’elle une arme contre l’ordre préétabli. Il personnifie la pulsion de mort de Freud comme défense ultime contre la fascisation de notre société. Comme le dit Fabrice, Pasolini libère le désir dans l’échec ; c’est le « triple ratage pasolinien : vulnérabilité du langage, du pouvoir et du sexe<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi>».</alinea>
+      </para>
+      <para>
+        <alinea>Comprendre les pulsions pasoliniennes, c’est se laisser prendre par ce lieu de ratage qui ne soutient que la parole distincte de chacun. C’est s’approcher le plus possible de la mort pour l’affronter par la suite. On n’est plus dans la tolérance, dans l’acceptation de soi ; on dépasse le jugement, l’impératif qui nous contraint dans nos corps. C’est dans cette direction que Fabrice Bourlez enligne son travail depuis quelques années, vers une adaptation de la clinique psychanalytique à un contemporain qui expose de plus en plus notre diversité.</alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <note id="sdfootnote1sym">
+        <no>1</no>
+        <alinea>Fabrice Bourlez,<marquage typemarq="italique">Pulsions Pasoliniennes</marquage>, Dijon, Les Presses du Réel, 2015.</alinea>
+      </note>
+      <note id="sdfootnote2sym">
+        <no>2</no>
+        <alinea>Maurice Blanchot,<marquage typemarq="italique">L’Entretien infini</marquage>, Paris, Gallimard, 1969, p.458,<marquage typemarq="italique">in</marquage>Bourlez,<marquage typemarq="italique">Pulsions Pasoliniennes</marquage>,<marquage typemarq="italique">op.cit</marquage>., p. 4.</alinea>
+      </note>
+      <note id="sdfootnote3sym">
+        <no>3</no>
+        <alinea>Ce que l’auteur nomme « homologation du langage »,<marquage typemarq="italique">in Pulsions pasoliniennes</marquage>,<marquage typemarq="italique">op.cit</marquage>., p. 8.</alinea>
+      </note>
+      <note id="sdfootnote4sym">
+        <no>4</no>
+        <alinea>Pier Paolo Pasolini,<marquage typemarq="italique">Contre la télévision et autres textes sur la politique et la société</marquage>, Besançon, Les solitaires intempestifs, 2005 (traduction française de H. Joubert-Laurencin et C. Michel), p. 71,<marquage typemarq="italique">in</marquage>Bourlez, Pulsions pasoliniennes,<marquage typemarq="italique">op.cit</marquage>., p.8.</alinea>
+      </note>
+      <note id="sdfootnote5sym">
+        <no>5</no>
+        <alinea> Voir les positions de l’auteur sur la théorie post-humaine et son écho dans la psychanalyse et la pensée moderne,<marquage typemarq="italique">in</marquage>Bourlez, « Corps contemporains : vers des pulsions "post-humaines" ? »,<marquage typemarq="italique">Champ psy</marquage>2/2013 (n° 64), p. 9-24 (en ligne), URL : www.cairn.info/revue-champ-psychosomatique-2013-2-page-9.htm. Consulté le 7 février.</alinea>
+      </note>
+      <note id="sdfootnote6sym">
+        <no>6</no>
+        <alinea>Monique Wittig,<marquage typemarq="italique">La Pensée straight</marquage>, Paris, Balland, 2001.</alinea>
+      </note>
+      <note id="sdfootnote7sym">
+        <no>7</no>
+        <alinea>Pier Paolo Pasolini,<marquage typemarq="italique">Expérience hérétique. Langue et cinéma</marquage>(tr. fr. de A. Rocchi Pullberg), Paris, Payot, 1976, p. 154,<marquage typemarq="italique">in</marquage>Bourlez,<marquage typemarq="italique">Pulsions pasoliniennes</marquage>,<marquage typemarq="italique">op.cit</marquage>., p. 29.</alinea>
+      </note>
+      <note id="sdfootnote8sym">
+        <no>8</no>
+        <alinea>Pasolini,<marquage typemarq="italique">Expérience hérétique</marquage>,<marquage typemarq="italique">op.cit</marquage>., p. 179.</alinea>
+      </note>
+      <note id="sdfootnote9sym">
+        <no>9</no>
+        <alinea>Pier Paolo Pasolini,<marquage typemarq="italique">Petrolio</marquage>, Torino, Einaudi, 1992, p. 155,<marquage typemarq="italique">in</marquage>Bourlez,<marquage typemarq="italique">Pulsions pasoliniennes, op.cit</marquage>., p. 33.</alinea>
+      </note>
+      <note id="sdfootnote10sym">
+        <no>10</no>
+        <alinea>Gilles Deleuze,<marquage typemarq="italique">Cinéma 2 : l’Image-Temps</marquage>, Paris, Minuit, 1985, p. 44,<marquage typemarq="italique">in</marquage>Bourlez,<marquage typemarq="italique">Pulsions Pasoliniennes</marquage>,<marquage typemarq="italique">op.cit</marquage>., p.41.</alinea>
+      </note>
+      <note id="sdfootnote11sym">
+        <no>11</no>
+        <alinea>Le premier Lacan (1950-1958), celui du retour à Freud, stipulait que le symbolique était dicté par le Père, celui qui refuse, qui dit non à la jouissance du sujet (l’Œdipe). C’est le moment où il introduit l’ordre symbolique.</alinea>
+      </note>
+      <note id="sdfootnote12sym">
+        <no>12</no>
+        <alinea>Voir Teresa de Lauretis,<marquage typemarq="italique">in</marquage>
+          <marquage typemarq="italique">Culture populaire et théorie queer : de Foucault à Cronenberg</marquage>, Paris, La Dispute, 2007.</alinea>
+      </note>
+      <note id="sdfootnote13sym">
+        <no>13</no>
+        <alinea>Pasolini, « Dal laboratorio », in<marquage typemarq="italique">Empirismo eretico, Saggi sulla letteratura e sull’arte</marquage>, Milano, I Meridiani, Mondadori, 1999,<marquage typemarq="italique">in</marquage>Bourlez,<marquage typemarq="italique">Pulsions pasoliniennes</marquage>,<marquage typemarq="italique">op.cit</marquage>., p. 78.</alinea>
+      </note>
+      <note id="sdfootnote14sym">
+        <no>14</no>
+        <alinea>Bourlez,<marquage typemarq="italique">Pulsions pasoliniennes</marquage>,<marquage typemarq="italique">op.cit</marquage>., p. 84.</alinea>
+      </note>
+      <note id="sdfootnote15sym">
+        <no>15</no>
+        <alinea>Pasolini,<marquage typemarq="italique">Empirismo eretico</marquage>,<marquage typemarq="italique">op.cit</marquage>., p. 231,<marquage typemarq="italique">in</marquage>Bourlez,<marquage typemarq="italique">Pulsions pasoliniennes</marquage>,<marquage typemarq="italique">op.cit</marquage>., p.96.</alinea>
+      </note>
+      <note id="sdfootnote16sym">
+        <no>16</no>
+        <alinea>Bourlez,<marquage typemarq="italique">Pulsions pasoliniennes</marquage>,<marquage typemarq="italique">op.cit</marquage>., p. 97.</alinea>
+      </note>
+      <note id="sdfootnote17sym">
+        <no>17</no>
+        <alinea>Jacques Lacan,<marquage typemarq="italique">Le Séminaire</marquage>, Livre XI, les quatre concepts fondamentaux de la psychanalyse 1964, Paris, Seuil, 1973, p.64,<marquage typemarq="italique">in</marquage>Bourlez,<marquage typemarq="italique">Pulsions pasoliniennes</marquage>,<marquage typemarq="italique">op.cit.</marquage>, p. 106.</alinea>
+      </note>
+      <note id="sdfootnote18sym">
+        <no>18</no>
+        <alinea>Bourlez,<marquage typemarq="italique">Pulsions pasoliniennes</marquage>,<marquage typemarq="italique">op.cit</marquage>., p. 111.</alinea>
+      </note>
+    </section1>
+  </corps>
+  <partiesann/>
+</article>

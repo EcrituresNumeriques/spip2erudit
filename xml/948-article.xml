@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1218ear" typeart="essai" lang="fr" ordseq="1">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1218ear" typeart="Essais" lang="fr" ordseq="1">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -9,7 +9,7 @@
         <descripteur>Hitchcock, Alfred (1899-1980)</descripteur>
       </grdescripteur>
       <nbpara>27</nbpara>
-      <nbmot>2213</nbmot>
+      <nbmot>2164</nbmot>
       <nbfig>0</nbfig>
       <nbtabl>0</nbtabl>
       <nbimage>0</nbimage>
@@ -20,7 +20,7 @@
     </infoarticle>
     <revue id="sp01868" lang="fr">
       <titrerev>Sens public</titrerev>
-      <titrerevabr>SP</titrerevabr>
+      <titrerevabr>sp</titrerevabr>
       <idissnnum>2104-3272</idissnnum>
       <directeur sexe="masculin">
         <nompers>
@@ -72,7 +72,7 @@
     <grauteur>
       <auteur id="spAuthor987">
         <nompers>
-          <prenom>Edith </prenom>
+          <prenom>Edith</prenom>
           <nomfamille>Girval</nomfamille>
         </nompers>
       </auteur>
@@ -89,141 +89,110 @@
     </grmotcle>
   </liminaire>
   <corps>
-      <section1>
-      <titre>
-	1. La thématique du double monstrueux : les sœurs siamoises</titre>
+    <section1>
+      <titre2>1. La thématique du double monstrueux : les sœurs siamoises</titre2>
       <para>
-        <alinea>
-	Le film aborde tout d’abord la thématique du double et du dédoublement à travers la figure des sœurs siamoises, figure qui appartient au registre du monstrueux (c’est-à-dire de ce qui résiste aux codifications « normales », « habituelles »). Il s’agit de deux sœurs qui sont de vraies jumelles : apparemment, nous avons affaire à deux fois la même personne, les deux sœurs sont le double l’une de l’autre, mais en réalité, deux identités émergent. En plus d’être jumelles (c’est-à-dire issues d’une même cellule qui s’est divisée en deux), elles sont siamoises : ce sont deux corps inséparés qui communiquent. Ce qu’il y a de monstrueux chez elles, c’est qu’elles résultent d’un processus de dédoublement qui est demeuré <marquage typemarq="italique">inachevé</marquage>. On peut donc repérer une double monstruosité dans cette figure du siamois : la monstruosité de la gémellité, tout d’abord (une cellule qui se dédouble) ; mais aussi la monstruosité du siamois (le dédoublement n’aboutit pas, séparation n’est pas complète).</alinea>
+        <alinea>Le film aborde tout d’abord la thématique du double et du dédoublement à travers la figure des sœurs siamoises, figure qui appartient au registre du monstrueux (c’est-à-dire de ce qui résiste aux codifications « normales », « habituelles »). Il s’agit de deux sœurs qui sont de vraies jumelles : apparemment, nous avons affaire à deux fois la même personne, les deux sœurs sont le double l’une de l’autre, mais en réalité, deux identités émergent. En plus d’être jumelles (c’est-à-dire issues d’une même cellule qui s’est divisée en deux), elles sont siamoises : ce sont deux corps inséparés qui communiquent. Ce qu’il y a de monstrueux chez elles, c’est qu’elles résultent d’un processus de dédoublement qui est demeuré<marquage typemarq="italique">inachevé</marquage>. On peut donc repérer une double monstruosité dans cette figure du siamois : la monstruosité de la gémellité, tout d’abord (une cellule qui se dédouble) ; mais aussi la monstruosité du siamois (le dédoublement n’aboutit pas, séparation n’est pas complète).</alinea>
+      </para>
+      <para>
+        <alinea>Le siamois est donc un être au milieu d’un processus, dont l’identité réside dans l’inachèvement de ce processus. Il ne se trouve ni dans l’unité d’une cellule, ni dans le double des jumeaux : le siamois questionne la notion d’identité en ce sens qu’il se situe dans l’inachèvement de deux formes d’identités-unités possibles. On n’est ni dans le Un ni dans le Deux/Duo : on est donc dans un entre-Deux.</alinea>
+      </para>
+      <para>
+        <alinea>Le Siamois est donc fondamentalement un être biologique<marquage typemarq="italique">un</marquage>mais qui tend vers le<marquage typemarq="italique">deux</marquage>. Il est animé par une tension entre l’unité (un corps, un esprit) et la Dualité (deux corps, deux esprits). Lorsqu’elles ne sont pas séparées physiquement, lorsqu’elles sont une, c’est-à-dire liées par un corps qui les rend indissociables, les deux sœurs tendent vers la différenciation, aspirent au dédoublement : Danielle veut vivre sa vie propre, et sa sœur souffre de l’unité corporelle qui lui impose de vivre la vie de Danielle. Chacune aspire à la séparation ; leur relation se construit sur le mode de l’opposition : leur caractère s’affirme par contraste, ou par contradiction. On pourrait finalement dire que, jusque dans ce qui fait qu’elles ont une identité propre, leur personnalité, elles ne peuvent se penser ou se construire que l’une par rapport à l’autre. Lorsqu’elles sont enfin séparées par une opération, la double monstruosité de la gémellité siamoise pourrait se résoudre, en ce sens que l’unité corporelle est brisée et que la duplication gémellaire elle-même disparaît avec la mort d’une des deux sœurs. Mais dans l’unité enfin atteinte de la survivante, Danielle, la question du double va refaire surface : à l’intérieur de ce corps unique restant va s’opérer une fusion des deux sœurs, puisque les deux personnalités finissent par coexister dans le même esprit et le même corps. La séparation et l’unité ne permettent pas de régler le problème du Double : à l’impossible différentiation, à l’impossible séparation corporelle, succède la schizophrénie, entre-deux interne à la psyché. Celle des deux sœurs qui survit seule intériorise la Dualité à travers un dédoublement de personnalité, elle accueille la personnalité de l’Autre en elle-même. </alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <titre2>2. Niveau formel : une poétique du double, de la reprise</titre2>
+      <para>
+        <alinea>On peut se demander si<marquage typemarq="italique">Sisters</marquage>est un film maniériste (c’est-à-dire un film qui se contente de reproduire la manière d’un Maître, et qui exhibe de la manière la plus ostensible ses procédés formels). La question de l’identité est dupliquée au niveau formel par un questionnement sur le cinéma et sur la création cinématographique.</alinea>
+      </para>
+      <para>
+        <alinea>On repère nettement dans le film la reprise de motifs hitchcockiens. Il s’agit néanmoins d’une manière singulière de faire de la reprise ; on a pu parler à ce propos de « pseudo-remake »<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>, ou encore de « pseudo-citation ». Deux films principaux sont l’objet de ce traitement :<marquage typemarq="italique">Psychose</marquage>(<marquage typemarq="italique">Psycho</marquage>) et<marquage typemarq="italique">Fenêtre sur cour</marquage>(<marquage typemarq="italique">Rear window</marquage>).<marquage typemarq="italique">Sisters</marquage>est donc construit à partir de la duplication d’un double modèle. On retrouve le motif du Siamois : une duplication et une hybridation. Deux films sont mélangés en Un.</alinea>
       </para>
       <para>
         <alinea>
-	Le siamois est donc un être au milieu d’un processus, dont l’identité réside dans l’inachèvement de ce processus. Il ne se trouve ni dans l’unité d’une cellule, ni dans le double des jumeaux : le siamois questionne la notion d’identité en ce sens qu’il se situe dans l’inachèvement de deux formes d’identités-unités possibles. On n’est ni dans le Un ni dans le Deux/Duo : on est donc dans un entre-Deux.</alinea>
+          <marquage typemarq="italique">Psycho </marquage>:<marquage typemarq="italique">Sisters</marquage>en reprend des accessoires (le couteau), des motifs très précis (la main tendue de la victime<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi>), des moments (la scène de nettoyage après le meurtre), et, bien sûr, des thèmes (schizophrénie meurtrière, identité scindée après la mort d’un proche).</alinea>
+      </para>
+      <para>
+        <alinea>Les deux films utilisent en outre un même procédé qui consiste à faire exister pendant une bonne partie du film un personnage qui n’existe en fait que mentalement (l’utilisation de voix et d’ombres pour faire exister la Mère dans<marquage typemarq="italique">Psycho</marquage>et la Sœur siamoise dans<marquage typemarq="italique">Sisters</marquage>).</alinea>
       </para>
       <para>
         <alinea>
-	Le Siamois est donc fondamentalement un être biologique <marquage typemarq="italique">un</marquage> mais qui tend vers le <marquage typemarq="italique">deux</marquage>. Il est animé par une tension entre l’unité (un corps, un esprit) et la Dualité (deux corps, deux esprits). Lorsqu’elles ne sont pas séparées physiquement, lorsqu’elles sont une, c’est-à-dire liées par un corps qui les rend indissociables, les deux sœurs tendent vers la différenciation, aspirent au dédoublement : Danielle veut vivre sa vie propre, et sa sœur souffre de l’unité corporelle qui lui impose de vivre la vie de Danielle. Chacune aspire à la séparation ; leur relation se construit sur le mode de l’opposition : leur caractère s’affirme par contraste, ou par contradiction. On pourrait finalement dire que, jusque dans ce qui fait qu’elles ont une identité propre, leur personnalité, elles ne peuvent se penser ou se construire que l’une par rapport à l’autre. Lorsqu’elles sont enfin séparées par une opération, la double monstruosité de la gémellité siamoise pourrait se résoudre, en ce sens que l’unité corporelle est brisée et que la duplication gémellaire elle-même disparaît avec la mort d’une des deux sœurs. Mais dans l’unité enfin atteinte de la survivante, Danielle, la question du double va refaire surface : à l’intérieur de ce corps unique restant va s’opérer une fusion des deux sœurs, puisque les deux personnalités finissent par coexister dans le même esprit et le même corps. La séparation et l’unité ne permettent pas de régler le problème du Double : à l’impossible différentiation, à l’impossible séparation corporelle, succède la schizophrénie, entre-deux interne à la psyché. Celle des deux sœurs qui survit seule intériorise la Dualité à travers un dédoublement de personnalité, elle accueille la personnalité de l’Autre en elle-même. </alinea>
-      </para>
-      </section1>
-      <section1>
-      <titre>
-	2. Niveau formel : une poétique du double, de la reprise</titre>
-      <para>
-        <alinea>
-	On peut se demander si <marquage typemarq="italique">Sisters</marquage> est un film maniériste (c’est-à-dire un film qui se contente de reproduire la manière d’un Maître, et qui exhibe de la manière la plus ostensible ses procédés formels). La question de l’identité est dupliquée au niveau formel par un questionnement sur le cinéma et sur la création cinématographique.</alinea>
+          <marquage typemarq="italique">Sisters</marquage>emprunte à<marquage typemarq="italique">Psycho</marquage>un autre motif, plus discret peut-être : le voyeurisme de Norman Bates, voyeurisme qui est sans conteste nettement plus thématisé dans<marquage typemarq="italique">Rear Window</marquage>.</alinea>
       </para>
       <para>
         <alinea>
-	On repère nettement dans le film la reprise de motifs hitchcockiens. Il s’agit néanmoins d’une manière singulière de faire de la reprise ; on a pu parler à ce propos de « pseudo-remake »<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>, ou encore de « pseudo-citation ». Deux films principaux sont l’objet de ce traitement : <marquage typemarq="italique">Psychose</marquage> (<marquage typemarq="italique">Psycho</marquage>) et <marquage typemarq="italique">Fenêtre sur cour</marquage> (<marquage typemarq="italique">Rear window</marquage>). <marquage typemarq="italique">Sisters</marquage> est donc construit à partir de la duplication d’un double modèle. On retrouve le motif du Siamois : une duplication et une hybridation. Deux films sont mélangés en Un.</alinea>
+          <marquage typemarq="italique">Rear Window </marquage>développe en effet de manière très explicite le motif du voyeurisme, que reprend De Palma dans<marquage typemarq="italique">Sisters</marquage>(et dans nombre de ses films depuis<marquage typemarq="italique">Greetings</marquage>en 1968). Dans le film d’Hitchcock et dans celui de De Palma, un journaliste enquête sur un meurtre qu’il a vu ou pense avoir vu en observant ses voisins par la fenêtre. Et dans les deux cas, le ou la journaliste commence par se heurter à une résistance de son entourage (les proches de Jeffries dans<marquage typemarq="italique">Rear Window</marquage>, et la police dans<marquage typemarq="italique">Sisters</marquage>).</alinea>
       </para>
       <para>
-        <alinea>
-	<marquage typemarq="italique">Psycho </marquage>: <marquage typemarq="italique">Sisters </marquage>en reprend des accessoires (le couteau), des motifs très précis (la main tendue de la victime<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi>), des moments (la scène de nettoyage après le meurtre), et, bien sûr, des thèmes (schizophrénie meurtrière, identité scindée après la mort d’un proche).</alinea>
+        <alinea>Les trois films participent du genre policier, mais la duplication entraîne chez De Palma une prise de distance, une variation par rapport au genre et à la forme ; avec<marquage typemarq="italique">Sisters</marquage>, De Palma renverse la forme hitchcockienne du récit policier. Dans<marquage typemarq="italique">Psycho</marquage>, le spectateur croit connaître l’identité du meurtrier et est détrompé par la révélation finale du film ; c’est également ce qui se passe dans<marquage typemarq="italique">Sisters</marquage>de manière plus progressive. Mais si, dans<marquage typemarq="italique">Psycho</marquage>, une résolution de l’intrigue a lieu dans le film à la suite de l’entretien entre Bates et le psychiatre – les traces matérielles refont (littéralement) surface dans le dernier plan du film où voiture et cadavre sont extraits de l’étang – en revanche, dans<marquage typemarq="italique">Sisters</marquage>, on assiste au processus inverse. Le spectateur finit bien par connaître l’identité du meurtrier, mais il n’y a pas de véritable résolution de l’intrigue en ce sens que toutes les traces et les preuves disparaissent :</alinea>
       </para>
       <para>
-        <alinea>
-	Les deux films utilisent en outre un même procédé qui consiste à faire exister pendant une bonne partie du film un personnage qui n’existe en fait que mentalement (l’utilisation de voix et d’ombres pour faire exister la Mère dans <marquage typemarq="italique">Psycho </marquage>et la Sœur siamoise dans <marquage typemarq="italique">Sisters</marquage>).</alinea>
+        <alinea>a. disparition du témoignage : le témoin dit qu’il n’y a pas eu de meurtre. </alinea>
       </para>
       <para>
-        <alinea>
-	<marquage typemarq="italique">Sisters </marquage>emprunte à <marquage typemarq="italique">Psycho</marquage> un autre motif, plus discret peut-être : le voyeurisme de Norman Bates, voyeurisme qui est sans conteste nettement plus thématisé dans <marquage typemarq="italique">Rear Window</marquage>.</alinea>
+        <alinea>b. le corps de la victime disparaît : au regard de la loi, il ne peut pas y avoir eu de meurtre (d’une certaine manière, l’acte est effacé. )</alinea>
       </para>
       <para>
-        <alinea>
-	<marquage typemarq="italique">Rear Window </marquage>développe en effet de manière très explicite le motif du voyeurisme, que reprend De Palma dans <marquage typemarq="italique">Sisters</marquage> (et dans nombre de ses films depuis <marquage typemarq="italique">Greetings</marquage> en 1968). Dans le film d’Hitchcock et dans celui de De Palma, un journaliste enquête sur un meurtre qu’il a vu ou pense avoir vu en observant ses voisins par la fenêtre. Et dans les deux cas, le ou la journaliste commence par se heurter à une résistance de son entourage (les proches de Jeffries dans <marquage typemarq="italique">Rear Window</marquage>, et la police dans <marquage typemarq="italique">Sisters</marquage>).</alinea>
+        <alinea>c. il ne peut pas y avoir d’arrestation, ni de châtiment de la meurtrière et de son complice car ils sont morts (aucune justice ne peut être rendue, contrairement à ce qu’exige généralement le genre policier).</alinea>
       </para>
       <para>
-        <alinea>
-	Les trois films participent du genre policier, mais la duplication entraîne chez De Palma une prise de distance, une variation par rapport au genre et à la forme ; avec <marquage typemarq="italique">Sisters</marquage>, De Palma renverse la forme hitchcockienne du récit policier. Dans <marquage typemarq="italique">Psycho</marquage>, le spectateur croit connaître l’identité du meurtrier et est détrompé par la révélation finale du film ; c’est également ce qui se passe dans <marquage typemarq="italique">Sisters </marquage>de manière plus progressive. Mais si, dans <marquage typemarq="italique">Psycho</marquage>, une résolution de l’intrigue a lieu dans le film à la suite de l’entretien entre Bates et le psychiatre – les traces matérielles refont (littéralement) surface dans le dernier plan du film où voiture et cadavre sont extraits de l’étang – en revanche, dans <marquage typemarq="italique">Sisters</marquage>, on assiste au processus inverse. Le spectateur finit bien par connaître l’identité du meurtrier, mais il n’y a pas de véritable résolution de l’intrigue en ce sens que toutes les traces et les preuves disparaissent :</alinea>
+        <alinea>On vient de voir que De Palma met de la distance dans sa reprise : cette manière de dupliquer la source cinématographique en la mettant à distance se retrouve dans tout le film : c’est une poétique générale.</alinea>
       </para>
       <para>
-        <alinea>
-	a. disparition du témoignage : le témoin dit qu’il n’y a pas eu de meurtre. </alinea>
+        <alinea>Ainsi, le film de De Palma opère également une reprise distanciée des motifs voyeuristes de<marquage typemarq="italique">Rear Window</marquage>.<marquage typemarq="italique">RW</marquage>, par la récurrence des « cadres dans le cadre », opère une mise en abyme du voyeurisme du spectateur de cinéma, et présente par là même le cinéma comme voyeurisme, comme art de voyeur. La constante observation des fenêtres par le héros opère une duplication « en profondeur » de l’écran de cinéma (le début de film, par le lever des stores, opère une sorte de lever de rideau très théâtral et annonce que nous allons assister à un spectacle : la vision d’un spectacle est donc clairement suggérée), en même temps que la multiplication de ces fenêtres divise l’écran dans sa surface. Ces deux aspects sont repris par De Palma, mais en étant démultipliés ou littéralisés. Ainsi, dans<marquage typemarq="italique">Sisters</marquage>, l’emboîtement des regards est porté à son comble. Le début du film est très caractéristique de la manière dont De Palma reprend les procédés hitchcockiens : à l’intérieur de l’écran de cinéma, on a un écran de TV qui nous montre un autre écran dans lequel on voit un voyeur, lui-même en train de regarder une comédienne (l’actrice Margot Kidder) qui joue une comédienne (le personnage d’une comédienne). De Palma multiplie les niveaux, les emboîtements, il semble mener à épuisement le motif hitchcockien du cinéma dans le cinéma : cette mise en abyme vertigineuse de l’acte de représentation ne peut-elle pas être vue comme un maniérisme ?</alinea>
       </para>
       <para>
-        <alinea>
-	b. le corps de la victime disparaît : au regard de la loi, il ne peut pas y avoir eu de meurtre (d’une certaine manière, l’acte est effacé. )</alinea>
+        <alinea>On pourrait évoquer une tendance au maniérisme à propos de nombreuses scènes de<marquage typemarq="italique">Sisters </marquage>: par exemple la reprise de l’image de la main tendue de la victime, qui subit elle aussi un traitement singulier, et prend une dimension citationnelle et méta-cinématographique : </alinea>
       </para>
       <para>
-        <alinea>
-	c. il ne peut pas y avoir d’arrestation, ni de châtiment de la meurtrière et de son complice car ils sont morts (aucune justice ne peut être rendue, contrairement à ce qu’exige généralement le genre policier).</alinea>
+        <alinea>a. Dans<marquage typemarq="italique">Psycho,</marquage>la main de Marion Crane (Janet Leigh) touche le cadre de l’écran, c’est-à-dire est directement tendue au spectateur.</alinea>
       </para>
       <para>
-        <alinea>
-	On vient de voir que De Palma met de la distance dans sa reprise : cette manière de dupliquer la source cinématographique en la mettant à distance se retrouve dans tout le film : c’est une poétique générale.</alinea>
+        <alinea>b. Dans<marquage typemarq="italique">Sisters</marquage>, la main touche le cadre de la fenêtre, encadrée par le<marquage typemarq="italique">split-screen</marquage>, et est aperçue par la journaliste ; on voit que la variation de De Palma consiste à ajouter sans cesse des médiations : d’autres regards, d’autres cadres qui empêchent un lien direct entre spectateur et image (l’acte scopique n’est plus vécu, mais vu à travers d’infinies médiations, il devient un processus autonome, interne au film).</alinea>
       </para>
       <para>
-        <alinea>
-	Ainsi, le film de De Palma opère également une reprise distanciée des motifs voyeuristes de <marquage typemarq="italique">Rear Window</marquage>. <marquage typemarq="italique">RW</marquage>, par la récurrence des « cadres dans le cadre », opère une mise en abyme du voyeurisme du spectateur de cinéma, et présente par là même le cinéma comme voyeurisme, comme art de voyeur. La constante observation des fenêtres par le héros opère une duplication « en profondeur » de l’écran de cinéma (le début de film, par le lever des stores, opère une sorte de lever de rideau très théâtral et annonce que nous allons assister à un spectacle : la vision d’un spectacle est donc clairement suggérée), en même temps que la multiplication de ces fenêtres divise l’écran dans sa surface. Ces deux aspects sont repris par De Palma, mais en étant démultipliés ou littéralisés. Ainsi, dans <marquage typemarq="italique">Sisters</marquage>, l’emboîtement des regards est porté à son comble. Le début du film est très caractéristique de la manière dont De Palma reprend les procédés hitchcockiens : à l’intérieur de l’écran de cinéma, on a un écran de TV qui nous montre un autre écran dans lequel on voit un voyeur, lui-même en train de regarder une comédienne (l’actrice Margot Kidder) qui joue une comédienne (le personnage d’une comédienne). De Palma multiplie les niveaux, les emboîtements, il semble mener à épuisement le motif hitchcockien du cinéma dans le cinéma : cette mise en abyme vertigineuse de l’acte de représentation ne peut-elle pas être vue comme un maniérisme ?</alinea>
+        <alinea>Nous avons fait remarquer que la reprise d’Hitchcock par De Palma se faisait sur le mode de la démultiplication, mais elle s’opère aussi sur le mode de la littéralisation : la multiplication des images à travers les fenêtres de<marquage typemarq="italique">RW</marquage>est ainsi reprise par De Palma sous la forme du<marquage typemarq="italique">sp</marquage>
+          <marquage typemarq="italique">lit screen</marquage>, moment d’agilité technique qui deviendra la « marque » du réalisateur. De Palma, en utilisant ce procédé, fait passer le thème du cinéma dans le cinéma d’un statut de motif interne au film (les fenêtres de<marquage typemarq="italique">RW</marquage>) au statut de procédé technique, qui attire l’attention sur la construction elle-même du film (le montage) et duplique le thème du double au niveau de la forme. Dans ce jeu d’échos entre montage et motifs, le<marquage typemarq="italique">split screen</marquage>va alors prendre trois significations principales :</alinea>
       </para>
       <para>
-        <alinea>
-	On pourrait évoquer une tendance au maniérisme à propos de nombreuses scènes de <marquage typemarq="italique">Sisters </marquage>: par exemple la reprise de l’image de la main tendue de la victime, qui subit elle aussi un traitement singulier, et prend une dimension citationnelle et méta-cinématographique : </alinea>
+        <alinea>1. le<marquage typemarq="italique">split screen</marquage>« visuel » : il fait figurer sur un même écran, simultanément, champ et contre-champ (appel à l’aide de la victime / témoin qui assiste impuissant : l’action est donnée depuis les deux points de vue ).</alinea>
       </para>
       <para>
-        <alinea>
-	a. Dans <marquage typemarq="italique">Psycho, </marquage>la main de Marion Crane (Janet Leigh) touche le cadre de l’écran, c’est-à-dire est directement tendue au spectateur.</alinea>
+        <alinea> 2. le<marquage typemarq="italique">split screen</marquage>« compte-à-rebours », de suspense : deux actions parallèles ont lieu, la question étant, quand vont-elles se rejoindre ? (La journaliste aura-t-elle le temps d’empêcher le nettoyage des lieux du crime avec l’aide de la police ? La meurtrière et son complice auront-ils le temps de nettoyer la scène du crime avant que la police n’arrive ?) Le suspense est donc redoublé par rapport à un film classique, qui ne nous laisserait attendre que d’un côté (celui du meurtrier ou celui du témoin / police). Cela crée en même temps une situation ambivalente pour le spectateur qui frémit à la fois d’impatience avec la journaliste (les bons) et de peur avec les criminels (les méchants).</alinea>
       </para>
       <para>
-        <alinea>
-	b. Dans <marquage typemarq="italique">Sisters</marquage>, la main touche le cadre de la fenêtre, encadrée par le <marquage typemarq="italique">split-screen</marquage>, et est aperçue par la journaliste ; on voit que la variation de De Palma consiste à ajouter sans cesse des médiations : d’autres regards, d’autres cadres qui empêchent un lien direct entre spectateur et image (l’acte scopique n’est plus vécu, mais vu à travers d’infinies médiations, il devient un processus autonome, interne au film).</alinea>
+        <alinea>3. Enfin, et surtout, le procédé stylistique exprime la thématique du film (le dédoublement schizophrénique), et par là même en donne un indice<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>. (Scène où les deux parties de l’écran montrent Danielle Breton filmée de face et de dos, symbolisant son esprit scindé en deux).</alinea>
       </para>
       <para>
-        <alinea>
-	Nous avons fait remarquer que la reprise d’Hitchcock par De Palma se faisait sur le mode de la démultiplication, mais elle s’opère aussi sur le mode de la littéralisation : la multiplication des images à travers les fenêtres de <marquage typemarq="italique">RW</marquage> est ainsi reprise par De Palma sous la forme du <marquage typemarq="italique">sp</marquage>
-          <marquage typemarq="italique">lit screen</marquage>, moment d’agilité technique qui deviendra la « marque » du réalisateur. De Palma, en utilisant ce procédé, fait passer le thème du cinéma dans le cinéma d’un statut de motif interne au film (les fenêtres de <marquage typemarq="italique">RW</marquage>) au statut de procédé technique, qui attire l’attention sur la construction elle-même du film (le montage) et duplique le thème du double au niveau de la forme. Dans ce jeu d’échos entre montage et motifs, le <marquage typemarq="italique">split screen </marquage>va alors prendre trois significations principales :</alinea>
+        <alinea>On peut dire que la scène de meurtre de<marquage typemarq="italique">Sisters</marquage> est un exemple parfait de<marquage typemarq="italique">virtuosité maniériste</marquage>, à tel point que le<marquage typemarq="italique">split screen</marquage>est devenu la signature stylistique de De Palma. Le maniérisme n’est-il ici qu’un pur jeu de formes ? </alinea>
+      </para>
+      <titre2>Conclusion</titre2>
+      <para>
+        <alinea>La mise à distance, la duplication, etc. , sont des thèmes qui ont un sens pour faire du cinéma par rapport à la fois à l’histoire du cinéma et à l’histoire des États-Unis.</alinea>
       </para>
       <para>
-        <alinea>
-	1. le <marquage typemarq="italique">split screen</marquage> « visuel » : il fait figurer sur un même écran, simultanément, champ et contre-champ (appel à l’aide de la victime / témoin qui assiste impuissant : l’action est donnée depuis les deux points de vue ).</alinea>
+        <alinea>La référence hitchcockienne doit se comprendre comme une tentative de faire du cinéma à une époque où l’âge d’or d’Hollywood n’est plus qu’un souvenir. De Palma considère sa pratique du cinéma comme un travail d’adaptation des classiques (ex. entretien dans lequel il dit considérer son travail comme celui d’un metteur en scène adaptant Shakespeare).</alinea>
       </para>
       <para>
-        <alinea>
-	 2. le <marquage typemarq="italique">split screen</marquage> « compte-à-rebours », de suspense : deux actions parallèles ont lieu, la question étant, quand vont-elles se rejoindre ? (La journaliste aura-t-elle le temps d’empêcher le nettoyage des lieux du crime avec l’aide de la police ? La meurtrière et son complice auront-ils le temps de nettoyer la scène du crime avant que la police n’arrive ?) Le suspense est donc redoublé par rapport à un film classique, qui ne nous laisserait attendre que d’un côté (celui du meurtrier ou celui du témoin / police). Cela crée en même temps une situation ambivalente pour le spectateur qui frémit à la fois d’impatience avec la journaliste (les bons) et de peur avec les criminels (les méchants).</alinea>
+        <alinea>D’autre part, la duplication des cadres, la mise à distance de l’image ne doivent pas être vues simplement comme un pur maniérisme qui mettrait en doute la réalité de l’élément cinéma au moment même de sa production, mais sont surtout à lire comme une vision des États-Unis des années 1970 : le traumatisme de l’assassinat de JFK, puis le scandale du Watergate se traduisent dans l’œuvre de De Palma par un doute généralisé sur les preuves, une mise en question de l’image (ou du son dans<marquage typemarq="italique">Blow Out</marquage>). Le thème du cinéma dans le cinéma, le questionnement incessant de la valeur et de la réalité des images sont ainsi plus qu’une réflexion sur le genre cinématographique, elles expriment les obsessions de l’Amérique de ces années-là.</alinea>
       </para>
-      <para>
-        <alinea>
-	3. Enfin, et surtout, le procédé stylistique exprime la thématique du film (le dédoublement schizophrénique), et par là même en donne un indice<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>. (Scène où les deux parties de l’écran montrent Danielle Breton filmée de face et de dos, symbolisant son esprit scindé en deux).</alinea>
-      </para>
-      <para>
-        <alinea>
-	On peut dire que la scène de meurtre de <marquage typemarq="italique">Sisters </marquage> est un exemple parfait de <marquage typemarq="italique">virtuosité maniériste</marquage>, à tel point que le <marquage typemarq="italique">split screen</marquage> est devenu la signature stylistique de De Palma. Le maniérisme n’est-il ici qu’un pur jeu de formes ? </alinea>
-      </para>
-      </section1>
-      <section1>
-      <titre>
-	Conclusion</titre>
-      <para>
-        <alinea>
-	La mise à distance, la duplication, etc. , sont des thèmes qui ont un sens pour faire du cinéma par rapport à la fois à l’histoire du cinéma et à l’histoire des États-Unis.</alinea>
-      </para>
-      <para>
-        <alinea>
-	La référence hitchcockienne doit se comprendre comme une tentative de faire du cinéma à une époque où l’âge d’or d’Hollywood n’est plus qu’un souvenir. De Palma considère sa pratique du cinéma comme un travail d’adaptation des classiques (ex. entretien dans lequel il dit considérer son travail comme celui d’un metteur en scène adaptant Shakespeare).</alinea>
-      </para>
-      <para>
-        <alinea>
-	D’autre part, la duplication des cadres, la mise à distance de l’image ne doivent pas être vues simplement comme un pur maniérisme qui mettrait en doute la réalité de l’élément cinéma au moment même de sa production, mais sont surtout à lire comme une vision des États-Unis des années 1970 : le traumatisme de l’assassinat de JFK, puis le scandale du Watergate se traduisent dans l’œuvre de De Palma par un doute généralisé sur les preuves, une mise en question de l’image (ou du son dans <marquage typemarq="italique">Blow Out</marquage>). Le thème du cinéma dans le cinéma, le questionnement incessant de la valeur et de la réalité des images sont ainsi plus qu’une réflexion sur le genre cinématographique, elles expriment les obsessions de l’Amérique de ces années-là.</alinea>
-      </para>
-      </section1>
-    
+    </section1>
   </corps>
   <partiesann>
     <grnote>
       <note id="sdfootnote1sym">
         <no>1</no>
-        <alinea>
-	 Cf. l’article de Pierre Ancelin dans la revue <marquage typemarq="italique">L’Art du cinéma</marquage>.</alinea>
+        <alinea> Cf. l’article de Pierre Ancelin dans la revue<marquage typemarq="italique">L’Art du cinéma</marquage>.</alinea>
       </note>
       <note id="sdfootnote2sym">
         <no>2</no>
-        <alinea>
-	 Véritable obsession de De Palma : elle revient à la fin de <marquage typemarq="italique">Blow out </marquage>(1981), autre film produit d’une poétique du « pseudo-remake ».</alinea>
+        <alinea> Véritable obsession de De Palma : elle revient à la fin de<marquage typemarq="italique">Blow out</marquage>(1981), autre film produit d’une poétique du « pseudo-remake ».</alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>
-        <alinea>
-	 De ce point de vue, on peut rappeler que Richard Fleischer avait déjà multiplié une dizaine de cadres dans l’écran de <marquage typemarq="italique">L’Etrangleur de Boston</marquage> (1968) qui reste l’une des plus brillantes utilisations du procédé du <marquage typemarq="italique">split screen</marquage> au cinéma.</alinea>
+        <alinea> De ce point de vue, on peut rappeler que Richard Fleischer avait déjà multiplié une dizaine de cadres dans l’écran de<marquage typemarq="italique">L’Etrangleur de Boston</marquage>(1968) qui reste l’une des plus brillantes utilisations du procédé du<marquage typemarq="italique">split screen</marquage>au cinéma.</alinea>
       </note>
     </grnote>
   </partiesann>

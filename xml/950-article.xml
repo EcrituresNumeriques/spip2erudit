@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1219ear" typeart="essai" lang="fr" ordseq="1">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1219ear" typeart="Essais" lang="fr" ordseq="1">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -9,7 +9,7 @@
         <descripteur>Cinéma</descripteur>
       </grdescripteur>
       <nbpara>98</nbpara>
-      <nbmot>7257</nbmot>
+      <nbmot>7231</nbmot>
       <nbfig>0</nbfig>
       <nbtabl>0</nbtabl>
       <nbimage>0</nbimage>
@@ -20,7 +20,7 @@
     </infoarticle>
     <revue id="sp01868" lang="fr">
       <titrerev>Sens public</titrerev>
-      <titrerevabr>SP</titrerevabr>
+      <titrerevabr>sp</titrerevabr>
       <idissnnum>2104-3272</idissnnum>
       <directeur sexe="masculin">
         <nompers>
@@ -67,7 +67,7 @@
   </admin>
   <liminaire>
     <grtitre>
-      <titre>Clinique de l’Image : Schizophrénie et Paranoïa </titre>
+      <titre>Clinique de l’Image : Schizophrénie et Paranoïa</titre>
     </grtitre>
     <grauteur>
       <auteur id="spAuthor989">
@@ -89,428 +89,328 @@
   </liminaire>
   <corps>
     <section1>
-      <titre>
-	Dédoublement et identité : notions de psychopathologie</titre>
+      <titre>Dédoublement et identité : notions de psychopathologie</titre>
       <para>
-        <alinea>
-	La psychanalyse pose la question de l’identité et du qui suis-je ? Le parcours psychanalytique est en effet celui où un sujet cherche à trouver qui il est, ce qui lui convient, ce qui fait séparation entre lui et les autres. La psychanalyse le rend à soi.</alinea>
+        <alinea>La psychanalyse pose la question de l’identité et du qui suis-je ? Le parcours psychanalytique est en effet celui où un sujet cherche à trouver qui il est, ce qui lui convient, ce qui fait séparation entre lui et les autres. La psychanalyse le rend à soi.</alinea>
       </para>
-      <section2><titre>	La famille</titre>
+      <titre2>La famille</titre2>
       <para>
-        <alinea>
-	Chacun est d’abord le produit d’une famille, dans l’histoire de laquelle il s’inscrit. Il en porte les forces comme les blessures, et surtout naît à une place. Cette place lui a été assignée d’office, c’est celle du désir (ou du non-désir) du couple parental, mais aussi des grands-parents, et plus généralement, des ancêtres.</alinea>
+        <alinea>Chacun est d’abord le produit d’une famille, dans l’histoire de laquelle il s’inscrit. Il en porte les forces comme les blessures, et surtout naît à une place. Cette place lui a été assignée d’office, c’est celle du désir (ou du non-désir) du couple parental, mais aussi des grands-parents, et plus généralement, des ancêtres.</alinea>
       </para>
       <para>
-        <alinea>
-	L’enfant est ainsi souvent voué à un rôle qui constitue son identité : rôle réparateur pour les parents, la plupart du temps, rôle de défouloir, parfois. Il peut s’agir, par exemple, de l’enfant « infirmier », auprès de qui le parent sollicite en permanence des câlins et une consolation pour les frustrations que la vie lui a occasionnées. Je pense plus précisément à une patiente, qui est venue en thérapie car elle ne savait plus qui elle était, car elle était en permanence dans un rôle de « sauveur », de réparateur des souffrances d’autrui, sans jamais s’écouter ni s’autoriser à mettre une limite à ce rôle. Il se trouve que cette patiente, cadette de la fratrie, avait passé son enfance à consoler sa mère de la tristesse créée par un mari absent, volage et distant, et à lui faire oublier sa solitude. A cinquante ans passés, la patiente était encore enferrée dans la culpabilité d’avoir « osé » trahir sa mère en partant faire des études à l’étranger. Cette culpabilité était encore la marque de l’illusion de sa toute-puissance infantile, du désir de combler la dépression de sa mère. Le travail thérapeutique a consisté, entre autres, à faire le deuil de cette illusion de toute-puissance infantile et de ce rôle de « sauveur ».</alinea>
+        <alinea>L’enfant est ainsi souvent voué à un rôle qui constitue son identité : rôle réparateur pour les parents, la plupart du temps, rôle de défouloir, parfois. Il peut s’agir, par exemple, de l’enfant « infirmier », auprès de qui le parent sollicite en permanence des câlins et une consolation pour les frustrations que la vie lui a occasionnées. Je pense plus précisément à une patiente, qui est venue en thérapie car elle ne savait plus qui elle était, car elle était en permanence dans un rôle de « sauveur », de réparateur des souffrances d’autrui, sans jamais s’écouter ni s’autoriser à mettre une limite à ce rôle. Il se trouve que cette patiente, cadette de la fratrie, avait passé son enfance à consoler sa mère de la tristesse créée par un mari absent, volage et distant, et à lui faire oublier sa solitude. A cinquante ans passés, la patiente était encore enferrée dans la culpabilité d’avoir « osé » trahir sa mère en partant faire des études à l’étranger. Cette culpabilité était encore la marque de l’illusion de sa toute-puissance infantile, du désir de combler la dépression de sa mère. Le travail thérapeutique a consisté, entre autres, à faire le deuil de cette illusion de toute-puissance infantile et de ce rôle de « sauveur ».</alinea>
       </para>
       <para>
-        <alinea>
-	L’enfant défouloir, c’est celui sur lequel les parents déchargent leur agressivité et leur violence, pour éviter de la rendre publique hors de la sphère familiale.</alinea>
+        <alinea>L’enfant défouloir, c’est celui sur lequel les parents déchargent leur agressivité et leur violence, pour éviter de la rendre publique hors de la sphère familiale.</alinea>
       </para>
       <para>
-        <alinea>
-	Mais l’enfant, dans les cas moins sérieux, reste toujours le produit d’une attente. Il a souvent été le produit d’un désir, encore que ce désir soit obscur lui aussi : désir de fusion, désir de filiation (créer un prolongement de sa chair et poursuivre la lignée) désir de garder l’autre par l’enfant, désir d’être enceinte sans mesurer ce qu’est ensuite un enfant… Il est toujours difficile pour ceux qui ont engendré d’imaginer que le produit de cet engendrement sera différent d’eux, profondément différent et qu’il se séparera d’eux un jour pour voler de ses propres ailes.</alinea>
+        <alinea>Mais l’enfant, dans les cas moins sérieux, reste toujours le produit d’une attente. Il a souvent été le produit d’un désir, encore que ce désir soit obscur lui aussi : désir de fusion, désir de filiation (créer un prolongement de sa chair et poursuivre la lignée) désir de garder l’autre par l’enfant, désir d’être enceinte sans mesurer ce qu’est ensuite un enfant… Il est toujours difficile pour ceux qui ont engendré d’imaginer que le produit de cet engendrement sera différent d’eux, profondément différent et qu’il se séparera d’eux un jour pour voler de ses propres ailes.</alinea>
       </para>
       <para>
-        <alinea>
-	Car, à vrai dire, l’enfant existe toujours dans le discours parental, avant même de naître. Il existe dans les projections que font sur lui ses parents, son entourage, et une société toute entière.</alinea>
+        <alinea>Car, à vrai dire, l’enfant existe toujours dans le discours parental, avant même de naître. Il existe dans les projections que font sur lui ses parents, son entourage, et une société toute entière.</alinea>
       </para>
       <para>
-        <alinea>
-	L’enfant est tributaire d’une histoire familiale, de ses interdits et tabous, de ses notions de loyautés, de ses devoirs. Son identité est déjà d’être le fils ou la fille d’Un Tel, et d’en porter la filiation. Le devoir parental est de l’aider à s’autonomiser, c’est-à-dire à créer au fur et à mesure de sa croissance, une identité propre. Ce devoir, comme je peux le constater dans ma clinique, est tout sauf évident.</alinea>
+        <alinea>L’enfant est tributaire d’une histoire familiale, de ses interdits et tabous, de ses notions de loyautés, de ses devoirs. Son identité est déjà d’être le fils ou la fille d’Un Tel, et d’en porter la filiation. Le devoir parental est de l’aider à s’autonomiser, c’est-à-dire à créer au fur et à mesure de sa croissance, une identité propre. Ce devoir, comme je peux le constater dans ma clinique, est tout sauf évident.</alinea>
       </para>
-      </section2><section2><titre>	Les identifications</titre>
+      <titre2>Les identifications</titre2>
       <para>
-        <alinea>
-	Pour l’enfant, la construction progressive de son identité passe par ce que l’on appelle des modèles identificatoires. C’est parce qu’il veut ressembler à tel ou tel adulte qu’il peut concevoir ce qui lui plaît en lui, et désirer grandir pour lui ressembler. Ces modèles peuvent être pluriels dans l’enfance (l’admiration pour ses parents, pour un professeur de musique, un entraîneur sportif…), ou ils peuvent être inexistants, dans le cas où l’enfant ne parvient pas à trouver autour de lui un adulte qui fasse modèle pour lui.</alinea>
+        <alinea>Pour l’enfant, la construction progressive de son identité passe par ce que l’on appelle des modèles identificatoires. C’est parce qu’il veut ressembler à tel ou tel adulte qu’il peut concevoir ce qui lui plaît en lui, et désirer grandir pour lui ressembler. Ces modèles peuvent être pluriels dans l’enfance (l’admiration pour ses parents, pour un professeur de musique, un entraîneur sportif…), ou ils peuvent être inexistants, dans le cas où l’enfant ne parvient pas à trouver autour de lui un adulte qui fasse modèle pour lui.</alinea>
       </para>
       <para>
-        <alinea>
-	Tout enfant traverse ainsi, dès ses premières désillusions sur les adultes qui l’entourent, une période où il va se construire une famille imaginaire. Il serait le fils d’un prince et d’une princesse, dans un royaume lointain, et bientôt retrouverait ses vrais parents et son statut d’héritier. C’est ce que l’on appelle « le roman familial ». Cette période reste circonscrite dans le temps, hormis dans les cas où la désillusion est trop forte, et où elle demeure jusqu’à l’âge adulte. C’est ainsi que chez des sujets adultes délirants, qui traînent avec eux une souffrance colossale, le roman familial pourra perdurer, comme chez ces patients qui revendiquent des filiations divines dans leur délire.</alinea>
+        <alinea>Tout enfant traverse ainsi, dès ses premières désillusions sur les adultes qui l’entourent, une période où il va se construire une famille imaginaire. Il serait le fils d’un prince et d’une princesse, dans un royaume lointain, et bientôt retrouverait ses vrais parents et son statut d’héritier. C’est ce que l’on appelle « le roman familial ». Cette période reste circonscrite dans le temps, hormis dans les cas où la désillusion est trop forte, et où elle demeure jusqu’à l’âge adulte. C’est ainsi que chez des sujets adultes délirants, qui traînent avec eux une souffrance colossale, le roman familial pourra perdurer, comme chez ces patients qui revendiquent des filiations divines dans leur délire.</alinea>
       </para>
       <para>
-        <alinea>
-	Et puis, l’on peut se créer des personnages imaginaires, qui viendront calmer nos angoisses existentielles. Certains fans d’artistes célèbres, comme ceux de Mylène Farmer ou de Johnny Halliday par exemple, calent toute leur identité sur le paraître de la star : même look vestimentaire, même mode de vie supposé, etc. Le fan est celui qui usurpe l’identité supposée d’un autre pour s’approprier une identité à lui, car la sienne lui fait particulièrement défaut. Et parce que, pour se construire une identité propre, il faut parvenir à s’aimer un peu, ce qui est souvent difficile.</alinea>
+        <alinea>Et puis, l’on peut se créer des personnages imaginaires, qui viendront calmer nos angoisses existentielles. Certains fans d’artistes célèbres, comme ceux de Mylène Farmer ou de Johnny Halliday par exemple, calent toute leur identité sur le paraître de la star : même look vestimentaire, même mode de vie supposé, etc. Le fan est celui qui usurpe l’identité supposée d’un autre pour s’approprier une identité à lui, car la sienne lui fait particulièrement défaut. Et parce que, pour se construire une identité propre, il faut parvenir à s’aimer un peu, ce qui est souvent difficile.</alinea>
       </para>
       <para>
-        <alinea>
-	Mais, bien pire : parvenir à s’aimer un peu nécessite de s’autoriser à tuer l’autre symboliquement. Quand l’enfant veut dépasser l’adulte, c’est certes en prenant modèle sur lui (part d’amour) mais aussi en tuant ce modèle pour s’en autonomiser (part de haine).</alinea>
+        <alinea>Mais, bien pire : parvenir à s’aimer un peu nécessite de s’autoriser à tuer l’autre symboliquement. Quand l’enfant veut dépasser l’adulte, c’est certes en prenant modèle sur lui (part d’amour) mais aussi en tuant ce modèle pour s’en autonomiser (part de haine).</alinea>
       </para>
-      </section2><section2><titre>	<marquage typemarq="italique">La </marquage>société</titre>
+      <titre2>
+        <marquage typemarq="italique">La</marquage>société</titre2>
       <para>
-        <alinea>
-	Dans le meilleur des cas, l’enfant s’autonomise peu à peu, et construit son identité, notamment à l’adolescence. Si l’on parle de « crise d’adolescence », c’est proprement dans le sens littéral du terme « crise », qui est un moment de révélation, de discernement. Au niveau psychologique, l’adolescence est l’âge où tout se joue, ou plutôt, où tout se rejoue, car l’adolescent rejoue ses conflits psychiques infantiles avec son entourage et, en fonction de sa solidité psychologique et affective et des réponses plus ou moins sécurisantes de l’entourage, il parviendra à construire un psychisme adulte. C’est à l’issue de l’adolescence que se stabilise une identité psychique, ou bien le basculement dans le délire (primo bouffée délirante).</alinea>
-      </para>
-      <para>
-        <alinea>
-	Tout passage adolescent rencontre nécessairement, à des degrés divers, des mécanismes d’ordre psychotique (perte de contact avec la réalité). Mais ces mécanismes ne se stabilisent pas nécessairement ensuite. Là encore, il est plongé dans le visuel, dans le regard de l’autre, le regard sur lui, l’image, les films. Le regard a un pouvoir fondateur ou destructeur de l’identité.</alinea>
+        <alinea>Dans le meilleur des cas, l’enfant s’autonomise peu à peu, et construit son identité, notamment à l’adolescence. Si l’on parle de « crise d’adolescence », c’est proprement dans le sens littéral du terme « crise », qui est un moment de révélation, de discernement. Au niveau psychologique, l’adolescence est l’âge où tout se joue, ou plutôt, où tout se rejoue, car l’adolescent rejoue ses conflits psychiques infantiles avec son entourage et, en fonction de sa solidité psychologique et affective et des réponses plus ou moins sécurisantes de l’entourage, il parviendra à construire un psychisme adulte. C’est à l’issue de l’adolescence que se stabilise une identité psychique, ou bien le basculement dans le délire (primo bouffée délirante).</alinea>
       </para>
       <para>
-        <alinea>
-	La société actuelle joue évidemment un rôle dans l’insécurisation affective chronique de tout un chacun, en utilisant nos peurs, en alimentant la confusion entre le réel et le virtuel, en présentant des images à charge traumatique à la télévision, sur lesquelles des enfants ou des adolescents peuvent tomber, à l’insu de leurs parents, ou même avec l’accord de ces derniers, qui ne savent plus eux-mêmes se protéger de la violence et de la charge émotionnelle de ces images. Le visuel est en effet en rapport avec ce que nous nommons la pulsion scopique, celle qui passe par l’image, l’œil, jusqu’au voyeurisme, et qui peut déstructurer psychiquement, sinon rendre fou (« l’œil était dans la tombe, et regardait Caïn », ce poème d’Hugo nous rappelle le poids du visuel, du regard).</alinea>
+        <alinea>Tout passage adolescent rencontre nécessairement, à des degrés divers, des mécanismes d’ordre psychotique (perte de contact avec la réalité). Mais ces mécanismes ne se stabilisent pas nécessairement ensuite. Là encore, il est plongé dans le visuel, dans le regard de l’autre, le regard sur lui, l’image, les films. Le regard a un pouvoir fondateur ou destructeur de l’identité.</alinea>
       </para>
       <para>
-        <alinea>
-	C’est ainsi que des enfants en bas âge se retrouvent devant « l’Ile de la Tentation », « Les experts  », etc. A-t-on à ce point perdu tout repère pour oublier que la sexualité d’un enfant de cinq ans est en pleine construction, et que lui présenter des images sensuelles et chaudes peut avoir un caractère d’effraction dans le psychisme, faire choc et traumatisme ? De même pour la violence et les diverses horreurs vues au journal télévisé ou sur des magazines, et qui font partie de la banalité quotidienne. Les mécanismes psychiques du pouvoir dévastateur des images ont des points communs avec celui des attouchements : le visuel effractif de la télévision vient fixer des représentations de la sexualité génitale alors que l’appareil psychique et l’appareil biologique ne sont pas prêts. Le touche-pipi de l’enfant, son tripotage, n’a rien à voir avec la jouissance adulte. Et provoquer un court-circuit entre les deux n’est pas sans dégât sur la construction psychologique de l’enfant.</alinea>
+        <alinea>La société actuelle joue évidemment un rôle dans l’insécurisation affective chronique de tout un chacun, en utilisant nos peurs, en alimentant la confusion entre le réel et le virtuel, en présentant des images à charge traumatique à la télévision, sur lesquelles des enfants ou des adolescents peuvent tomber, à l’insu de leurs parents, ou même avec l’accord de ces derniers, qui ne savent plus eux-mêmes se protéger de la violence et de la charge émotionnelle de ces images. Le visuel est en effet en rapport avec ce que nous nommons la pulsion scopique, celle qui passe par l’image, l’œil, jusqu’au voyeurisme, et qui peut déstructurer psychiquement, sinon rendre fou (« l’œil était dans la tombe, et regardait Caïn », ce poème d’Hugo nous rappelle le poids du visuel, du regard).</alinea>
       </para>
       <para>
-        <alinea>
-	Quels sont par exemple les « codes » de la réussite actuelle ? Avoir le plus d’argent possible en travaillant le moins possible, indépendamment des consignes politiques que nous avons pu recevoir. Voici ce qui nous est présenté en « modèle ».</alinea>
+        <alinea>C’est ainsi que des enfants en bas âge se retrouvent devant « l’Ile de la Tentation », « Les experts  », etc. A-t-on à ce point perdu tout repère pour oublier que la sexualité d’un enfant de cinq ans est en pleine construction, et que lui présenter des images sensuelles et chaudes peut avoir un caractère d’effraction dans le psychisme, faire choc et traumatisme ? De même pour la violence et les diverses horreurs vues au journal télévisé ou sur des magazines, et qui font partie de la banalité quotidienne. Les mécanismes psychiques du pouvoir dévastateur des images ont des points communs avec celui des attouchements : le visuel effractif de la télévision vient fixer des représentations de la sexualité génitale alors que l’appareil psychique et l’appareil biologique ne sont pas prêts. Le touche-pipi de l’enfant, son tripotage, n’a rien à voir avec la jouissance adulte. Et provoquer un court-circuit entre les deux n’est pas sans dégât sur la construction psychologique de l’enfant.</alinea>
       </para>
       <para>
-        <alinea>
-	Notre identité, avant d’être la nôtre, est d’abord le produit d’une famille et d’une société. Nous jouons d’ailleurs tous des rôles sociaux, plus ou moins. Je joue le rôle de la conférencière aujourd’hui, je suis donc en « représentation ». La représentation est toujours une façade sociale, à laquelle nous adhérons suffisamment pour nous y prêter. Vous avez sans doute rencontré des personnes qui, lorsqu’elles sont promues à un plus haut poste de responsabilité, « s’y croient », et jouent au chefaillon, par exemple. Ou même, prenons l’exemple des identités numériques. Combien de bons pères de familles jouent aux célibataires éplorés sur Meetic, en attente de l’âme sœur, qui viendra en réalité compléter la liste de leur tableau de chasse ?</alinea>
+        <alinea>Quels sont par exemple les « codes » de la réussite actuelle ? Avoir le plus d’argent possible en travaillant le moins possible, indépendamment des consignes politiques que nous avons pu recevoir. Voici ce qui nous est présenté en « modèle ».</alinea>
       </para>
       <para>
-        <alinea>
-	Lorsque l’on « joue à » avoir du pouvoir (au chef de famille, au chef d’entreprise, à la star, au notable…), l’on s’invente une histoire, une identité de façade. Un véritable « ravalement de façade » que chacun opère, en ravalant de lui tout ce qu’il estime être négatif aux yeux des autres. D’un point de vue psychologique, la pathologie commencera au moment où l’on devient dupe de son rôle, où le rôle social et le rôle que l’on s’attribue sur un plan imaginaire se confondent avec la croyance que nous ne sommes que ces rôles. C’est bien cette distance avec sa fonction d’empereur qu’Auguste évoquait avant sa mort en demandant : « Ai-je bien joué mon rôle ? »</alinea>
+        <alinea>Notre identité, avant d’être la nôtre, est d’abord le produit d’une famille et d’une société. Nous jouons d’ailleurs tous des rôles sociaux, plus ou moins. Je joue le rôle de la conférencière aujourd’hui, je suis donc en « représentation ». La représentation est toujours une façade sociale, à laquelle nous adhérons suffisamment pour nous y prêter. Vous avez sans doute rencontré des personnes qui, lorsqu’elles sont promues à un plus haut poste de responsabilité, « s’y croient », et jouent au chefaillon, par exemple. Ou même, prenons l’exemple des identités numériques. Combien de bons pères de familles jouent aux célibataires éplorés sur Meetic, en attente de l’âme sœur, qui viendra en réalité compléter la liste de leur tableau de chasse ?</alinea>
       </para>
       <para>
-        <alinea>
-	Ainsi, il m’est arrivé d’intervenir sur des sites d’entreprises particulièrement en souffrance, où des passages à l’acte suicidaires avaient eu cours. Il est étonnant de voir toujours le même scenario : tout le monde occulte l’existence du suicide en question, personne n’en parle, certains font semblant de se raconter leurs futures vacances, ou de médire sur le goût du café de la machine du service. L’essentiel de la charge émotionnelle est tue, le sujet est devenu tabou. C’est ce qu’en psychologie nous appelons « le clivage » : l’on fait comme si le suicide n’avait pas eu lieu alors qu’en privé, chacun sait qu’il a eu lieu. Alors ?</alinea>
+        <alinea>Lorsque l’on « joue à » avoir du pouvoir (au chef de famille, au chef d’entreprise, à la star, au notable…), l’on s’invente une histoire, une identité de façade. Un véritable « ravalement de façade » que chacun opère, en ravalant de lui tout ce qu’il estime être négatif aux yeux des autres. D’un point de vue psychologique, la pathologie commencera au moment où l’on devient dupe de son rôle, où le rôle social et le rôle que l’on s’attribue sur un plan imaginaire se confondent avec la croyance que nous ne sommes que ces rôles. C’est bien cette distance avec sa fonction d’empereur qu’Auguste évoquait avant sa mort en demandant : « Ai-je bien joué mon rôle ? »</alinea>
       </para>
       <para>
-        <alinea>
-	Chacun joue un rôle social où il s’agit de « sauvegarder les apparences » en écartant des représentations intérieures menaçantes. En somme, chacun est dédoublé entre sa vie publique (tout va bien) et sa vie privée (semée de cauchemars, de « je ne pense qu’à lui [la personne suicidée] quand je me couche, quand je me lève »…). Dans la vie publique, c’est-à-dire la vie de groupe, nous sommes assignés à l’ouverture, à parler positif, à penser positif, à se présenter en positif. Dans la vie individuelle, privée, nous pouvons alors faire émerger la part de pulsion de mort qui existe en chacun de nous, faire émerger ces représentations de mort. </alinea>
+        <alinea>Ainsi, il m’est arrivé d’intervenir sur des sites d’entreprises particulièrement en souffrance, où des passages à l’acte suicidaires avaient eu cours. Il est étonnant de voir toujours le même scenario : tout le monde occulte l’existence du suicide en question, personne n’en parle, certains font semblant de se raconter leurs futures vacances, ou de médire sur le goût du café de la machine du service. L’essentiel de la charge émotionnelle est tue, le sujet est devenu tabou. C’est ce qu’en psychologie nous appelons « le clivage » : l’on fait comme si le suicide n’avait pas eu lieu alors qu’en privé, chacun sait qu’il a eu lieu. Alors ?</alinea>
       </para>
-      </section2>
+      <para>
+        <alinea>Chacun joue un rôle social où il s’agit de « sauvegarder les apparences » en écartant des représentations intérieures menaçantes. En somme, chacun est dédoublé entre sa vie publique (tout va bien) et sa vie privée (semée de cauchemars, de « je ne pense qu’à lui [la personne suicidée] quand je me couche, quand je me lève »…). Dans la vie publique, c’est-à-dire la vie de groupe, nous sommes assignés à l’ouverture, à parler positif, à penser positif, à se présenter en positif. Dans la vie individuelle, privée, nous pouvons alors faire émerger la part de pulsion de mort qui existe en chacun de nous, faire émerger ces représentations de mort. </alinea>
+      </para>
     </section1>
     <section1>
-      <titre>
-	Du phénomène délirant</titre>
-      <section2><titre>	Le délire schizophrène</titre>
+      <titre>Du phénomène délirant</titre>
+      <titre2>Le délire schizophrène</titre2>
       <para>
-        <alinea>
-	Dans la psychopathologie, le dédoublement est surtout une notion que l’on utilisera pour la schizophrénie, qui est l’une des psychoses majeures. La psychose se définit sobrement par la perte de contact avec la réalité, ce qui peut se traduire de différentes façons et qui n’est pas sans poser un certain nombre de questions (à commencer par la définition de ladite « réalité » ).</alinea>
+        <alinea>Dans la psychopathologie, le dédoublement est surtout une notion que l’on utilisera pour la schizophrénie, qui est l’une des psychoses majeures. La psychose se définit sobrement par la perte de contact avec la réalité, ce qui peut se traduire de différentes façons et qui n’est pas sans poser un certain nombre de questions (à commencer par la définition de ladite « réalité » ).</alinea>
       </para>
       <para>
-        <alinea>
-	Pour le public non initié, la schizophrénie serait une double identité. C’est inexact d’un point de vue psychologique. « Squizô » en grec signifie diviser. C’est la « Spaltung » allemande. Le psychisme du patient schizophrène est en effet morcelé, la mémoire ne remplit pas son rôle de mise en lien de l’histoire individuelle, la personne peut être envahie de toutes parts (par des hallucinations auditives, sensorielles, etc.).</alinea>
+        <alinea>Pour le public non initié, la schizophrénie serait une double identité. C’est inexact d’un point de vue psychologique. « Squizô » en grec signifie diviser. C’est la « Spaltung » allemande. Le psychisme du patient schizophrène est en effet morcelé, la mémoire ne remplit pas son rôle de mise en lien de l’histoire individuelle, la personne peut être envahie de toutes parts (par des hallucinations auditives, sensorielles, etc.).</alinea>
       </para>
       <para>
-        <alinea>
-	Le sujet schizophrène est envahi par un morcellement d’identités, de bribes d’identité. Il est un mage, le fils de Dieu, un haut conseiller étatique, un agent secret et lui-même, tout à la fois. Rien ne fait lien entre ces différentes identités, et la séparation entre soi et autrui, entre son propre corps et celui d’autrui n’est pas bien opérée. Un de mes patients avaient ainsi la sensation que son bras s’étendait jusqu’à la porte de la pièce, qui était pourtant loin, mais aussi que d’autres pénétraient à distance dans son cerveau, pour le téléguider.</alinea>
+        <alinea>Le sujet schizophrène est envahi par un morcellement d’identités, de bribes d’identité. Il est un mage, le fils de Dieu, un haut conseiller étatique, un agent secret et lui-même, tout à la fois. Rien ne fait lien entre ces différentes identités, et la séparation entre soi et autrui, entre son propre corps et celui d’autrui n’est pas bien opérée. Un de mes patients avaient ainsi la sensation que son bras s’étendait jusqu’à la porte de la pièce, qui était pourtant loin, mais aussi que d’autres pénétraient à distance dans son cerveau, pour le téléguider.</alinea>
       </para>
       <para>
-        <alinea>
-	Souvent le délire est associé à une croyance. Mais qu’est-ce qui distingue la croyance schizophrène par exemple de la croyance de celui qui « s’y croit » lorsqu’il prend son rôle social trop à cœur ? Il s’agit en fait d’une croyance qui n’est pas restreinte à son statut de croyance, mais érigée en dogme (cas du prosélytisme religieux), avec certitude inébranlable et excessive, ce qui indique une défense. Cette certitude ne permet donc pas au sujet de reconnaître qu’il délire au moment où il délire. Cette adhésion à son délire lui donne plutôt l’assurance qu’il ne délire pas. La « critique du délire » ne pourra donc avoir lieu que dans l’après-coup du délire.</alinea>
+        <alinea>Souvent le délire est associé à une croyance. Mais qu’est-ce qui distingue la croyance schizophrène par exemple de la croyance de celui qui « s’y croit » lorsqu’il prend son rôle social trop à cœur ? Il s’agit en fait d’une croyance qui n’est pas restreinte à son statut de croyance, mais érigée en dogme (cas du prosélytisme religieux), avec certitude inébranlable et excessive, ce qui indique une défense. Cette certitude ne permet donc pas au sujet de reconnaître qu’il délire au moment où il délire. Cette adhésion à son délire lui donne plutôt l’assurance qu’il ne délire pas. La « critique du délire » ne pourra donc avoir lieu que dans l’après-coup du délire.</alinea>
       </para>
       <para>
-        <alinea>
-	Tout est affaire de langage, et de rapport au langage, de rapport que le délirant entretient avec le discours auquel il adhère. L’adhésion reste non partagée et c’est l’énonciation qui fait le délire, à savoir, le rapport du locuteur à ce qu’il dit. Dans une certaine mesure, le délirant est épris de son délire, captivé et aliéné par lui. C’est d’ailleurs la raison pour laquelle il ne peut entendre la parole de l’autre. Le schizophrène est pris de conviction pour ses multiples identités, qui se succèdent sans jamais se croiser. Chaque identité est vécue comme infaillible au moment où elle advient. Mais rien ne fait lien dans le sujet pour fédérer ces différentes appartenances identitaires. Il n’y a plus d’ouverture au monde, ni de nécessité qu’autrui adhère aux identités multiples vécues par le sujet. L’identité ne s’acquiert plus par le regard de l’autre, comme elle devrait s’acquérir, du moins en partie. Car, en somme, l’identité est le produit d’un croisement de regards sur soi, et de regards que chacun veut poser sur soi-même.</alinea>
+        <alinea>Tout est affaire de langage, et de rapport au langage, de rapport que le délirant entretient avec le discours auquel il adhère. L’adhésion reste non partagée et c’est l’énonciation qui fait le délire, à savoir, le rapport du locuteur à ce qu’il dit. Dans une certaine mesure, le délirant est épris de son délire, captivé et aliéné par lui. C’est d’ailleurs la raison pour laquelle il ne peut entendre la parole de l’autre. Le schizophrène est pris de conviction pour ses multiples identités, qui se succèdent sans jamais se croiser. Chaque identité est vécue comme infaillible au moment où elle advient. Mais rien ne fait lien dans le sujet pour fédérer ces différentes appartenances identitaires. Il n’y a plus d’ouverture au monde, ni de nécessité qu’autrui adhère aux identités multiples vécues par le sujet. L’identité ne s’acquiert plus par le regard de l’autre, comme elle devrait s’acquérir, du moins en partie. Car, en somme, l’identité est le produit d’un croisement de regards sur soi, et de regards que chacun veut poser sur soi-même.</alinea>
       </para>
       <para>
-        <alinea>
-	Deviens ce que tu es ?</alinea>
+        <alinea>Deviens ce que tu es ?</alinea>
       </para>
       <para>
-        <alinea>
-	Jérémy, un patient schizophrène, a un délire mégalomane. Il est en effet persuadé que d’un claquement de doigt, il peut se procurer toutes les richesses qu’il désire (la montre Cartier, la Mercedes…), mais aussi qu’il peut modifier son apparence. De fait, il est brun, de peau mate, avec des yeux noirs. En entretien, il montre comment il peut modifier la couleur de ses yeux d’un claquement de doigt : voici que selon lui il a des yeux verts, puis des yeux bleus…</alinea>
+        <alinea>Jérémy, un patient schizophrène, a un délire mégalomane. Il est en effet persuadé que d’un claquement de doigt, il peut se procurer toutes les richesses qu’il désire (la montre Cartier, la Mercedes…), mais aussi qu’il peut modifier son apparence. De fait, il est brun, de peau mate, avec des yeux noirs. En entretien, il montre comment il peut modifier la couleur de ses yeux d’un claquement de doigt : voici que selon lui il a des yeux verts, puis des yeux bleus…</alinea>
       </para>
       <para>
-        <alinea>
-	Or, pour l’observateur, rien n’est modifié par ce claquement de doigt. La tentation est grande, de relever cet écart entre le discours du délire et la « réalité » quotidienne. Or, indiquer cet écart au patient a pour seule conséquence de le renforcer dans ses défenses et de faire taire son délire (qui pourtant demeure). La position du clinicien ne doit dont pas être celle de « normer » la correspondance entre ce qu’il se représente et ce que le patient dit (ce qui serait alors une défense du clinicien lui-même), mais d’entendre le sens de ce délire. Ici, le délire prend son sens dans la mesure où le patient, une fois le délire quelque peu abrasé, révélera qu’il vivait très mal son identité de métis et les remarques racistes, et qu’il aurait par-dessus tout préféré « ne pas être le fils de son père » mais celui d’un homme blond aux yeux verts, « pour être assimilé comme un bon français ».<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>
+        <alinea>Or, pour l’observateur, rien n’est modifié par ce claquement de doigt. La tentation est grande, de relever cet écart entre le discours du délire et la« réalité »quotidienne. Or, indiquer cet écart au patient a pour seule conséquence de le renforcer dans ses défenses et de faire taire son délire (qui pourtant demeure). La position du clinicien ne doit dont pas être celle de« normer »la correspondance entre ce qu’il se représente et ce que le patient dit (ce qui serait alors une défense du clinicien lui-même), mais d’entendre le sens de ce délire. Ici, le délire prend son sens dans la mesure où le patient, une fois le délire quelque peu abrasé, révélera qu’il vivait très mal son identité de métis et les remarques racistes, et qu’il aurait par-dessus tout préféré« ne pas être le fils de son père »mais celui d’un homme blond aux yeux verts,« pour être assimilé comme un bon français ».<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>
         </alinea>
       </para>
       <para>
-        <alinea>
-	C’est en cela que les multiples appartenances identitaires de la schizophrénie se distinguent, par exemple, de la mythomanie. Dans la mythomanie, ce qui importe au sujet ce n’est pas tant de se croire le héros de son aventure que de le faire croire à son interlocuteur. Ce n’est qu’ensuite, après la validation par la parole de l’autre, qu’il pourra éventuellement s’autoriser à y croire. Dans la schizophrénie, on s’y croit, et on s’y croit jusqu’au bout. Le film « Le Locataire » de Polanski est une excellente occasion de découvrir le monde schizophrène, avec une entrée progressive dans le délire, où le spectateur vit lui-même des modifications dans ses perceptions et ses représentations : le film l’accompagne lui aussi à se poser des questions et à épouser l’entrée dans le délire.</alinea>
+        <alinea>C’est en cela que les multiples appartenances identitaires de la schizophrénie se distinguent, par exemple, de la mythomanie. Dans la mythomanie, ce qui importe au sujet ce n’est pas tant de se croire le héros de son aventure que de le faire croire à son interlocuteur. Ce n’est qu’ensuite, après la validation par la parole de l’autre, qu’il pourra éventuellement s’autoriser à y croire. Dans la schizophrénie, on s’y croit, et on s’y croit jusqu’au bout. Le film « Le Locataire » de Polanski est une excellente occasion de découvrir le monde schizophrène, avec une entrée progressive dans le délire, où le spectateur vit lui-même des modifications dans ses perceptions et ses représentations : le film l’accompagne lui aussi à se poser des questions et à épouser l’entrée dans le délire.</alinea>
       </para>
       <para>
-        <alinea>
-	En somme, le délire schizophrène est en effet une passion de soi (souffrance, aliénation), une « énonciation infatuée » (Lacan) par lequel le sujet s’attribue un nom, une généalogie, une mission, un destin…</alinea>
+        <alinea>En somme, le délire schizophrène est en effet une passion de soi (souffrance, aliénation), une « énonciation infatuée » (Lacan) par lequel le sujet s’attribue un nom, une généalogie, une mission, un destin…</alinea>
       </para>
       <para>
-        <alinea>
-	Dès lors, le dédoublement schizophrène pose les problématiques identitaires de l’énonciation (position et charge affective que le sujet prend par rapport à lui-même dans le langage) plutôt que de l’énoncé (questions de la vérité de ce qui peut être dit). C’est cela qui permet de distinguer les « jeux de rôle », où l’on emprunte de multiples identités sans en être dupes, des rôles que l’on s’attribue et auxquels l’on adhère sans critique et sans le besoin de la validation du regard d’autrui.</alinea>
+        <alinea>Dès lors, le dédoublement schizophrène pose les problématiques identitaires de l’énonciation (position et charge affective que le sujet prend par rapport à lui-même dans le langage) plutôt que de l’énoncé (questions de la vérité de ce qui peut être dit). C’est cela qui permet de distinguer les « jeux de rôle », où l’on emprunte de multiples identités sans en être dupes, des rôles que l’on s’attribue et auxquels l’on adhère sans critique et sans le besoin de la validation du regard d’autrui.</alinea>
       </para>
       <para>
-        <alinea>
-	Nous avons tous été tiraillés par cette tentation d’une autre identité, de plusieurs autres identités. Cette tentation délirante est une virtualité permanente de tout discours sur soi. J’aimerais ainsi conclure ce préambule sur une citation de Lacan qui m’est très chère :</alinea>
+        <alinea>Nous avons tous été tiraillés par cette tentation d’une autre identité, de plusieurs autres identités. Cette tentation délirante est une virtualité permanente de tout discours sur soi. J’aimerais ainsi conclure ce préambule sur une citation de Lacan qui m’est très chère :</alinea>
       </para>
       <para>
-        <alinea>
-	« Loin qu’elle soit pour la liberté une insulte, (la folie) est sa plus fidèle compagne, elle suit son mouvement comme une ombre. Et l’être de l’homme, non seulement ne peut pas être compris sans la folie, mais il ne serait pas l’être de l’homme s’il ne portait en lui la folie comme la limite de sa liberté » (1946, p. 151-193). </alinea>
+        <alinea>« Loin qu’elle soit pour la liberté une insulte, (la folie) est sa plus fidèle compagne, elle suit son mouvement comme une ombre. Et l’être de l’homme, non seulement ne peut pas être compris sans la folie, mais il ne serait pas l’être de l’homme s’il ne portait en lui la folie comme la limite de sa liberté » (1946, p. 151-193). </alinea>
       </para>
-      </section2>
     </section1>
     <section1>
-      <titre>
-	Étude critique : La folie familiale dans la <marquage typemarq="italique">Reine Margot</marquage> (1994) de Patrice Chéreau</titre>
-      <section2><titre>	Le délire paranoïaque</titre>
+      <titre>Étude critique : La folie familiale dans la<marquage typemarq="italique">Reine Margot</marquage>(1994) de Patrice Chéreau</titre>
+      <titre2>Le délire paranoïaque</titre2>
       <para>
-        <alinea>
-	Le délire paranoïaque est une autre manifestation du délire de persécution. Il se distingue du délire schizophrène par une apparente cohérence argumentative. Le délire schizophrène est en revanche morcelé, repérable pour un « novice ».</alinea>
+        <alinea>Le délire paranoïaque est une autre manifestation du délire de persécution. Il se distingue du délire schizophrène par une apparente cohérence argumentative. Le délire schizophrène est en revanche morcelé, repérable pour un « novice ».</alinea>
       </para>
       <para>
-        <alinea>
-	La paranoïa entretient des liens étroits avec le pouvoir. C’est l’un des systèmes de défense psychique les plus aboutis : parce que l’individu se sent persécuté, qu’il interprète sans cesse de nouvelles persécutions, il « contre-attaque » et persécute autrui. La logique est souvent binaire : les gentils (nous)/les méchants (eux) ; les valeurs sont inversées (vie/mort). La paranoïa est souvent une affaire collective, qu’elle soit familiale ou étatique. <marquage typemarq="italique">La Reine Margot</marquage>, de Patrice Chéreau, nous offre une illustration hors pair du système paranoïaque intra-familial.</alinea>
+        <alinea>La paranoïa entretient des liens étroits avec le pouvoir. C’est l’un des systèmes de défense psychique les plus aboutis : parce que l’individu se sent persécuté, qu’il interprète sans cesse de nouvelles persécutions, il « contre-attaque » et persécute autrui. La logique est souvent binaire : les gentils (nous)/les méchants (eux) ; les valeurs sont inversées (vie/mort). La paranoïa est souvent une affaire collective, qu’elle soit familiale ou étatique.<marquage typemarq="italique">La Reine Margot</marquage>, de Patrice Chéreau, nous offre une illustration hors pair du système paranoïaque intra-familial.</alinea>
       </para>
-      </section2><section2><titre>	Synopsis</titre>
+      <titre2>Synopsis</titre2>
       <para>
-        <alinea>
-	Nous sommes en 1572. Charles IX, devenu roi à l’âge de dix ans, a laissé à sa mère, Catherine de Médicis, les rênes officieux du pouvoir. Le protestant Henri de Navarre s’apprête à épouser Marguerite de Valois, dite Margot, catholique et fille de France, fille de Catherine de Médicis et sœur de Charles IX. Le mariage est arrangé et prend figure de mariage politique, destiné à apaiser les haines et rivalités entre catholiques et protestants, ainsi qu’à ménager les susceptibilités du pape Grégoire XIII et des États environnants. Á l’issue de ces noces, survient le plus grand massacre de l’histoire de France, la Saint-Barthélemy, où les catholiques, sur ordre du Roi, exécuteront les protestants (ironie du sort, Saint Barthélémy est d’ailleurs le saint patron des bouchers).</alinea>
+        <alinea>Nous sommes en 1572. Charles IX, devenu roi à l’âge de dix ans, a laissé à sa mère, Catherine de Médicis, les rênes officieux du pouvoir. Le protestant Henri de Navarre s’apprête à épouser Marguerite de Valois, dite Margot, catholique et fille de France, fille de Catherine de Médicis et sœur de Charles IX. Le mariage est arrangé et prend figure de mariage politique, destiné à apaiser les haines et rivalités entre catholiques et protestants, ainsi qu’à ménager les susceptibilités du pape Grégoire XIII et des États environnants. Á l’issue de ces noces, survient le plus grand massacre de l’histoire de France, la Saint-Barthélemy, où les catholiques, sur ordre du Roi, exécuteront les protestants (ironie du sort, Saint Barthélémy est d’ailleurs le saint patron des bouchers).</alinea>
       </para>
       <para>
-        <alinea>
-	Le réalisateur Patrice Chéreau en a fait un film dont il spécifia qu’ « il ne sera pas un film historique ». Cette affirmation peut s’entendre comme un désir de rupture avec le genre historique codifié, et l’instauration d’une mise en scène moderne, mais aussi comme un intérêt moindre pour des événements historiques que pour ce qu’ils signifient et dégagent de signification universelle. Le film <marquage typemarq="italique">La Reine Margot</marquage> de Patrice Chéreau illustre comment les intrigues du pouvoir émanent des intrigues familiales, orchestrées par la paranoïa maternelle.</alinea>
+        <alinea>Le réalisateur Patrice Chéreau en a fait un film dont il spécifia qu’ « il ne sera pas un film historique ». Cette affirmation peut s’entendre comme un désir de rupture avec le genre historique codifié, et l’instauration d’une mise en scène moderne, mais aussi comme un intérêt moindre pour des événements historiques que pour ce qu’ils signifient et dégagent de signification universelle. Le film<marquage typemarq="italique">La Reine Margot</marquage>de Patrice Chéreau illustre comment les intrigues du pouvoir émanent des intrigues familiales, orchestrées par la paranoïa maternelle.</alinea>
       </para>
-      </section2><section2><titre>	Thématique : un matriarcat tout puissant</titre>
+      <titre2>Thématique : un matriarcat tout puissant</titre2>
       <para>
-        <alinea>
-	La famille Médicis est tenue par une main de fer, celle de Catherine de Médicis. « Une famille un peu particulière, mais pas si mal, tu verras », spécifie le duc d’Anjou au protestant Henri de Navarre (joué par Daniel Auteuil dans le film). Les quatre enfants d’Henri II et Catherine de Médicis, François d’Alençon, Charles IX, Henri d’Anjou et Margot sont sous le joug de cette femme terrifiante, qui intrigue abusivement par le pouvoir terrestre et occulte. Son règne semble intangible, et Margot confirme cette évidence de la dynastie maternelle à Henri de Navarre :</alinea>
+        <alinea>La famille Médicis est tenue par une main de fer, celle de Catherine de Médicis. « Une famille un peu particulière, mais pas si mal, tu verras », spécifie le duc d’Anjou au protestant Henri de Navarre (joué par Daniel Auteuil dans le film). Les quatre enfants d’Henri II et Catherine de Médicis, François d’Alençon, Charles IX, Henri d’Anjou et Margot sont sous le joug de cette femme terrifiante, qui intrigue abusivement par le pouvoir terrestre et occulte. Son règne semble intangible, et Margot confirme cette évidence de la dynastie maternelle à Henri de Navarre :</alinea>
       </para>
       <para>
-        <alinea>
-	Mon frère est roi de France, les deux autres lui succéderont s’il n’a pas d’enfant, et leurs enfants leur succéderont à leur tour. Vos atouts sont bien faibles.</alinea>
+        <alinea>Mon frère est roi de France, les deux autres lui succéderont s’il n’a pas d’enfant, et leurs enfants leur succéderont à leur tour. Vos atouts sont bien faibles.</alinea>
       </para>
       <para>
-        <alinea>
-	Pour Catherine de Médicis, l’ennemi est intestin, il s’agit des protestants. L’entrée d’un protestant dans la famille, en la personne d’Henri de Navarre, est alors le prétexte d’un déferlement de haine et de violence, et l’occasion de manifester l’amplitude du pouvoir harceleur. Au nom du pouvoir d’ailleurs, cette mère n’hésite pas à sacrifier tous ses enfants hormis un seul, le duc d’Anjou :</alinea>
+        <alinea>Pour Catherine de Médicis, l’ennemi est intestin, il s’agit des protestants. L’entrée d’un protestant dans la famille, en la personne d’Henri de Navarre, est alors le prétexte d’un déferlement de haine et de violence, et l’occasion de manifester l’amplitude du pouvoir harceleur. Au nom du pouvoir d’ailleurs, cette mère n’hésite pas à sacrifier tous ses enfants hormis un seul, le duc d’Anjou :</alinea>
       </para>
       <para>
-        <alinea>
-	- Elle marie de force sa fille.</alinea>
+        <alinea>- Elle marie de force sa fille.</alinea>
       </para>
       <para>
-        <alinea>
-	- Elle feint de ne pas voir les abus incestueux de ses fils sur sa fille.</alinea>
+        <alinea>- Elle feint de ne pas voir les abus incestueux de ses fils sur sa fille.</alinea>
       </para>
       <para>
-        <alinea>
-	- Elle fait tuer le père substitutif de Charles IX, en la personne de l’Amiral de Coligny.</alinea>
+        <alinea>- Elle fait tuer le père substitutif de Charles IX, en la personne de l’Amiral de Coligny.</alinea>
       </para>
       <para>
-        <alinea>
-	- Elle fait tuer les protestants, amis de Charles IX.</alinea>
+        <alinea>- Elle fait tuer les protestants, amis de Charles IX.</alinea>
       </para>
       <para>
-        <alinea>
-	- Elle fait tuer Charles IX par empoisonnement, mais surtout par la voie du frère cadet, qui porte lui-même le livre.</alinea>
+        <alinea>- Elle fait tuer Charles IX par empoisonnement, mais surtout par la voie du frère cadet, qui porte lui-même le livre.</alinea>
       </para>
       <para>
-        <alinea>
-	- Elle fait sacrifier l’amour de Margot pour dissimuler son propre crime, en faisant tuer le Marquis de la Môle.</alinea>
+        <alinea>- Elle fait sacrifier l’amour de Margot pour dissimuler son propre crime, en faisant tuer le Marquis de la Môle.</alinea>
       </para>
       <para>
-        <alinea>
-	L’intentionnalité de départ de Catherine de Médicis n’était pas de tuer son propre fils mais Henri de Navarre. Ceci étant, d’un point de vue psychanalytique, il est fort pertinent de se demander si précisément ce n’était pas son désir profond, et donc s’il ne s’agit pas d’un acte manqué. En effet, une fois Charles IX décédé, la Reine peut mettre sur le trône son fils préféré, son amour incestueux, le duc d’Anjou. Sous cet aspect, la mort de Charles IX est bien plus indispensable que celle d’Henri de Navarre, qui d’ailleurs est le seul, avec Margot, à ne pas souhaiter la mort de Charles IX.</alinea>
+        <alinea>L’intentionnalité de départ de Catherine de Médicis n’était pas de tuer son propre fils mais Henri de Navarre. Ceci étant, d’un point de vue psychanalytique, il est fort pertinent de se demander si précisément ce n’était pas son désir profond, et donc s’il ne s’agit pas d’un acte manqué. En effet, une fois Charles IX décédé, la Reine peut mettre sur le trône son fils préféré, son amour incestueux, le duc d’Anjou. Sous cet aspect, la mort de Charles IX est bien plus indispensable que celle d’Henri de Navarre, qui d’ailleurs est le seul, avec Margot, à ne pas souhaiter la mort de Charles IX.</alinea>
       </para>
-      </section2><section2><titre>	Problématique : violation des interdits du meurtre et de l’inceste</titre>
+      <titre2>Problématique : violation des interdits du meurtre et de l’inceste</titre2>
       <para>
-        <alinea>
-	Au sein d’un climat familial meurtrier et incestueux, chaque personnage conserve des intérêts particuliers. Catherine de Médicis cherche à maintenir à tout prix son pouvoir au travers du règne de ses fils. Les protestants en cela représentent une menace pour le trône. Elle réserve un traitement tout autre à sa fille, qui ne peut être reine seule, donc qui ne représente pas l’enjeu du trône et du pouvoir au travers du trône. Margot s’en sort mieux que les autres du fait de sa place d’exclue, de rejetée, de mal aimée. Elle cherche d’ailleurs une compensation affective dans la série de ses amants, compensation à la fois émotionnelle et sensuelle mais aussi une puissance exercée sur les hommes, donc une reprise d’une forme de contrôle sur une vie de soumission à ses frères et à sa mère.</alinea>
+        <alinea>Au sein d’un climat familial meurtrier et incestueux, chaque personnage conserve des intérêts particuliers. Catherine de Médicis cherche à maintenir à tout prix son pouvoir au travers du règne de ses fils. Les protestants en cela représentent une menace pour le trône. Elle réserve un traitement tout autre à sa fille, qui ne peut être reine seule, donc qui ne représente pas l’enjeu du trône et du pouvoir au travers du trône. Margot s’en sort mieux que les autres du fait de sa place d’exclue, de rejetée, de mal aimée. Elle cherche d’ailleurs une compensation affective dans la série de ses amants, compensation à la fois émotionnelle et sensuelle mais aussi une puissance exercée sur les hommes, donc une reprise d’une forme de contrôle sur une vie de soumission à ses frères et à sa mère.</alinea>
       </para>
       <para>
-        <alinea>
-	Charles IX est le fils le plus fragile et instable de Catherine. Aux confins de la folie, il est dévoré par la malveillance et l’emprise de sa mère.</alinea>
+        <alinea>Charles IX est le fils le plus fragile et instable de Catherine. Aux confins de la folie, il est dévoré par la malveillance et l’emprise de sa mère.</alinea>
       </para>
       <para>
-        <alinea>
-	L’inceste est présent partout. Catherine de Médicis entretient une relation particulièrement ambiguë avec son fils le duc d’Anjou, qu’elle souhaiterait voir roi. Lui-même adore sa mère. En revanche, cette relation exclut l’amour pour les autres enfants, et surtout pour Margot. Cette dernière est sacrifiée en inceste auprès de ses trois frères. Cette dimension incestueuse se retrouve souvent dans les familles qui ne souhaitent pas « se mélanger » aux autres, de peur de perdre une noblesse et/ou la conservation de secrets de famille. Cet enfermement est souvent l’indicateur de psychose familiale, de deuils pathologiques et de manifestations symptomatiques de psychose individuelle, de fragilités psychologiques massives. Au sein du système familial totalitaire, l’on retrouve le bourreau (ici, la mère), les complices (le duc d’Anjou), les victimes consentantes (Charles IX) et les boucs émissaires, caractérisés par le refus d’être victime (Margot). Cette répartition des rôles illustre en psychologie le système paranoïaque, fondé sur une logique binaire du monde, où il est impossible d’être neutre.</alinea>
+        <alinea>L’inceste est présent partout. Catherine de Médicis entretient une relation particulièrement ambiguë avec son fils le duc d’Anjou, qu’elle souhaiterait voir roi. Lui-même adore sa mère. En revanche, cette relation exclut l’amour pour les autres enfants, et surtout pour Margot. Cette dernière est sacrifiée en inceste auprès de ses trois frères. Cette dimension incestueuse se retrouve souvent dans les familles qui ne souhaitent pas « se mélanger » aux autres, de peur de perdre une noblesse et/ou la conservation de secrets de famille. Cet enfermement est souvent l’indicateur de psychose familiale, de deuils pathologiques et de manifestations symptomatiques de psychose individuelle, de fragilités psychologiques massives. Au sein du système familial totalitaire, l’on retrouve le bourreau (ici, la mère), les complices (le duc d’Anjou), les victimes consentantes (Charles IX) et les boucs émissaires, caractérisés par le refus d’être victime (Margot). Cette répartition des rôles illustre en psychologie le système paranoïaque, fondé sur une logique binaire du monde, où il est impossible d’être neutre.</alinea>
       </para>
       <para>
-        <alinea>
-	Á aucun moment, Margot ne trouve d’aide auprès de ses frères. Elle est l’instrument de la haine maternelle, l’instrument du pouvoir, l’instrument même du réconfort de ses frères. Elle n’a donc pour solution que de faire alliance avec Henri de Navarre.</alinea>
+        <alinea>Á aucun moment, Margot ne trouve d’aide auprès de ses frères. Elle est l’instrument de la haine maternelle, l’instrument du pouvoir, l’instrument même du réconfort de ses frères. Elle n’a donc pour solution que de faire alliance avec Henri de Navarre.</alinea>
       </para>
       <para>
-        <alinea>
-	Première alliance de Margot à Henri de Navarre</alinea>
+        <alinea>Première alliance de Margot à Henri de Navarre</alinea>
       </para>
       <para>
-        <alinea>
-	Henri : « La vôtre [de mère] a tué la mienne »</alinea>
+        <alinea>Henri : « La vôtre [de mère] a tué la mienne »</alinea>
       </para>
       <para>
-        <alinea>
-	Margot : « Ne me haïssez pas trop vite »</alinea>
+        <alinea>Margot : « Ne me haïssez pas trop vite »</alinea>
       </para>
       <para>
-        <alinea>
-	De fait, Charles IX trouve un réconfort auprès de sa sœur incestueuse, mais ce réconfort est en écho avec la maltraitance maternelle. Jusqu’à la fin, elle lui donnera cette compensation empathique, jusqu’à accepter que soit souilléer sa robe blanche du sang empoisonné de son frère. Mais Charles IX ne lui accordera pas de s’enfuir avec Henri de Navarre, et encore moins la grâce pour son amant le Marquis de La Môle, montrant par là sa complicité au système familial, et au sacrifice de sa sœur.</alinea>
+        <alinea>De fait, Charles IX trouve un réconfort auprès de sa sœur incestueuse, mais ce réconfort est en écho avec la maltraitance maternelle. Jusqu’à la fin, elle lui donnera cette compensation empathique, jusqu’à accepter que soit souilléer sa robe blanche du sang empoisonné de son frère. Mais Charles IX ne lui accordera pas de s’enfuir avec Henri de Navarre, et encore moins la grâce pour son amant le Marquis de La Môle, montrant par là sa complicité au système familial, et au sacrifice de sa sœur.</alinea>
       </para>
       <para>
-        <alinea>
-	Répliques entre Charles IX et Henri de Navarre.</alinea>
+        <alinea>Répliques entre Charles IX et Henri de Navarre.</alinea>
       </para>
       <para>
-        <alinea>
-	Charles IX à Henri :</alinea>
+        <alinea>Charles IX à Henri :</alinea>
       </para>
       <para>
-        <alinea>
-	« Margot t’aime comme un frère, ce n’est pas pour ça qu’elle m’aime comme un mari… Tu as couché avec Margot ? »</alinea>
+        <alinea>« Margot t’aime comme un frère, ce n’est pas pour ça qu’elle m’aime comme un mari… Tu as couché avec Margot ? »</alinea>
       </para>
       <para>
-        <alinea>
-	Puis, alors qu’Henri de Navarre lui demande le départ de Margot avec lui, en échange de la vie qu’il lui a sauvée à la chasse :</alinea>
+        <alinea>Puis, alors qu’Henri de Navarre lui demande le départ de Margot avec lui, en échange de la vie qu’il lui a sauvée à la chasse :</alinea>
       </para>
       <para>
-        <alinea>
-	Charles IX : « Margot est à moi, elle ne partira jamais »</alinea>
+        <alinea>Charles IX : « Margot est à moi, elle ne partira jamais »</alinea>
       </para>
       <para>
-        <alinea>
-	En somme, la relation frère-sœur est fondée sur la propriété supérieure du frère sur la sœur, supérieure au point d’être en droit de connaître les détails de sa vie conjugale, en droit de détenir le droit de vie ou de mort sur sa sœur. La posture incestueuse dans sa dimension mortifère est exacerbée. Derrière ce refus du départ de Margot se cache aussi sans doute une pointe envieuse à l’égard d’Henri, pour lequel Margot a de l’amitié et avec lequel elle souhaite fuir. Bien plus, Charles IX, en interdisant la fuite à Margot, poursuit l’œuvre du système familial qui consiste à soumettre les récalcitrants internes.</alinea>
+        <alinea>En somme, la relation frère-sœur est fondée sur la propriété supérieure du frère sur la sœur, supérieure au point d’être en droit de connaître les détails de sa vie conjugale, en droit de détenir le droit de vie ou de mort sur sa sœur. La posture incestueuse dans sa dimension mortifère est exacerbée. Derrière ce refus du départ de Margot se cache aussi sans doute une pointe envieuse à l’égard d’Henri, pour lequel Margot a de l’amitié et avec lequel elle souhaite fuir. Bien plus, Charles IX, en interdisant la fuite à Margot, poursuit l’œuvre du système familial qui consiste à soumettre les récalcitrants internes.</alinea>
       </para>
       <para>
-        <alinea>
-	Margot vient elle-même supplier son frère, en vain. Charles IX sacrifie en effet l’innocent de La Môle tant par jalousie que pour une nouvelle fois protéger les crimes de la Mère infanticide. Il faut trouver un coupable, sinon les soupçons de la mort du Roi se porteront sur Catherine de Médicis. Et le système familial protège ses crimes intestins.</alinea>
+        <alinea>Margot vient elle-même supplier son frère, en vain. Charles IX sacrifie en effet l’innocent de La Môle tant par jalousie que pour une nouvelle fois protéger les crimes de la Mère infanticide. Il faut trouver un coupable, sinon les soupçons de la mort du Roi se porteront sur Catherine de Médicis. Et le système familial protège ses crimes intestins.</alinea>
       </para>
       <para>
-        <alinea>
-	Margot supplie son frère : « il n’a fait que m’aimer, ce n’est pas un crime ». Erreur, car aimer est un crime pour le système familial paranoïaque, si aimer implique de ne pas couvrir de façon solidaire les criminels internes à la famille. Charles IX avoue ainsi à Margot : « il ne faut pas qu’on sache l’autre crime », à savoir la mère infanticide, celle qui est à l’origine de sa propre mort. Dans la folie familiale, la victime doit couvrir son meurtrier, et une mère tue ses propres enfants. Même au-delà de sa propre mort, Charles IX refuse à Margot de vivre en Navarre, et de vivre son amour avec le Marquis de la Môle. L’inceste se prolonge au-delà de la mort, dans la pourriture des survivants ; et la loyauté familiale doit se poursuivre <marquage typemarq="italique">à n’importe quel prix</marquage>, jusque dans un sacrifice sans limite.</alinea>
+        <alinea>Margot supplie son frère : « il n’a fait que m’aimer, ce n’est pas un crime ». Erreur, car aimer est un crime pour le système familial paranoïaque, si aimer implique de ne pas couvrir de façon solidaire les criminels internes à la famille. Charles IX avoue ainsi à Margot : « il ne faut pas qu’on sache l’autre crime », à savoir la mère infanticide, celle qui est à l’origine de sa propre mort. Dans la folie familiale, la victime doit couvrir son meurtrier, et une mère tue ses propres enfants. Même au-delà de sa propre mort, Charles IX refuse à Margot de vivre en Navarre, et de vivre son amour avec le Marquis de la Môle. L’inceste se prolonge au-delà de la mort, dans la pourriture des survivants ; et la loyauté familiale doit se poursuivre<marquage typemarq="italique">à n’importe quel prix</marquage>, jusque dans un sacrifice sans limite.</alinea>
       </para>
       <para>
-        <alinea>
-	La Môle est donc décapité ; Margot fait enterrer ses bijoux avec lui et s’enfuit, portant sur ses genoux la tête sanguinolente tant aimée. Ce faisant, elle ose trahir la famille monstrueuse pour rompre la fatalité généalogique. En réponse à la jalousie de ses frères ainsi qu’à leur brutalité, Margot leur répliquera « La Môle m’a appris la jouissance », et c’est bien cette pulsion de vie qui la conduira en Navarre. Margot, du fait d’être victime de tous, ne tire en effet aucun avantage de l’appartenance familiale et développe ce faisant une position éthique, qui ne cautionne plus ce pouvoir totalitaire. En définitive, l’allié de Margot sera extérieur aux liens du sang, car Henri lui accorde l’asile : la Navarre sera « une terre d’asile pour Margot et pour tous ceux qu’elle aimera », dit Henri. Pour sortir vivant du système familial paranoïaque, il n’est qu’une seule issue : trouver des alliés extérieurs au système.</alinea>
+        <alinea>La Môle est donc décapité ; Margot fait enterrer ses bijoux avec lui et s’enfuit, portant sur ses genoux la tête sanguinolente tant aimée. Ce faisant, elle ose trahir la famille monstrueuse pour rompre la fatalité généalogique. En réponse à la jalousie de ses frères ainsi qu’à leur brutalité, Margot leur répliquera « La Môle m’a appris la jouissance », et c’est bien cette pulsion de vie qui la conduira en Navarre. Margot, du fait d’être victime de tous, ne tire en effet aucun avantage de l’appartenance familiale et développe ce faisant une position éthique, qui ne cautionne plus ce pouvoir totalitaire. En définitive, l’allié de Margot sera extérieur aux liens du sang, car Henri lui accorde l’asile : la Navarre sera « une terre d’asile pour Margot et pour tous ceux qu’elle aimera », dit Henri. Pour sortir vivant du système familial paranoïaque, il n’est qu’une seule issue : trouver des alliés extérieurs au système.</alinea>
       </para>
-      </section2><section2><titre>	Acmé : la jouissance mortifère et le sadisme</titre>
+      <titre2>Acmé : la jouissance mortifère et le sadisme</titre2>
       <para>
-        <alinea>
-	La perversion éclate à son maximum, renversant les valeurs, les objectifs, le langage. Le système paranoïaque renverse tout en son contraire.</alinea>
+        <alinea>La perversion éclate à son maximum, renversant les valeurs, les objectifs, le langage. Le système paranoïaque renverse tout en son contraire.</alinea>
       </para>
       <para>
-        <alinea>
-	Les noces, qui devraient symboliser un jour de fête et de fertilité, se transforment en horreur et en massacres innombrables. Ces noces symboles de paix sont renversées en symboles de guerre.</alinea>
+        <alinea>Les noces, qui devraient symboliser un jour de fête et de fertilité, se transforment en horreur et en massacres innombrables. Ces noces symboles de paix sont renversées en symboles de guerre.</alinea>
       </para>
       <para>
-        <alinea>
-	Le plaisir est systématiquement lié à l’instrumentalisation de l’autre, à sa mort physique et/ou psychique. Par exemple, Margot cherche des échappatoires dans une sexualité compulsive qui l’apaise. Ce faisant, elle-même objective l’homme ; elle se prostitue, maintenant ainsi une emprise psychologique. Sa suivante Henriette de Nevers éprouve quant à elle le plaisir voyeuriste de contempler les situations où Margot s’adonne à sa sexualité compulsive. Margot indique d’ailleurs : « Je veux que le plaisir me fasse entrevoir l’image de ma mort » et assume sa sexualité nymphomane : « Je vais coucher avec un protestant. Je continuerai à coucher avec les catholiques ».</alinea>
+        <alinea>Le plaisir est systématiquement lié à l’instrumentalisation de l’autre, à sa mort physique et/ou psychique. Par exemple, Margot cherche des échappatoires dans une sexualité compulsive qui l’apaise. Ce faisant, elle-même objective l’homme ; elle se prostitue, maintenant ainsi une emprise psychologique. Sa suivante Henriette de Nevers éprouve quant à elle le plaisir voyeuriste de contempler les situations où Margot s’adonne à sa sexualité compulsive. Margot indique d’ailleurs : « Je veux que le plaisir me fasse entrevoir l’image de ma mort » et assume sa sexualité nymphomane : « Je vais coucher avec un protestant. Je continuerai à coucher avec les catholiques ».</alinea>
       </para>
       <para>
-        <alinea>
-	L’intrication vie/mort, souillure/pureté se retrouve dans le massacre suivant les noces : « vous avez invité vos victimes à mes noces », hurle Margot à sa famille.</alinea>
+        <alinea>L’intrication vie/mort, souillure/pureté se retrouve dans le massacre suivant les noces : « vous avez invité vos victimes à mes noces », hurle Margot à sa famille.</alinea>
       </para>
       <para>
-        <alinea>
-	De même, Charles IX, au lieu de se focaliser sur l’horreur des massacres, préfère le voyeurisme consistant à se demander si Margot a partagé sa couche avec Henri de Navarre : « il s’est passé quelque chose cette nuit Margot, quelque chose de plus ? »</alinea>
+        <alinea>De même, Charles IX, au lieu de se focaliser sur l’horreur des massacres, préfère le voyeurisme consistant à se demander si Margot a partagé sa couche avec Henri de Navarre : « il s’est passé quelque chose cette nuit Margot, quelque chose de plus ? »</alinea>
       </para>
       <para>
-        <alinea>
-	Enfin, durant le massacre, les perversions sont à leur apogée. Le Duc d’Anjou semble éprouver un puissant plaisir dans la contemplation des meurtres, tandis qu’Henriette de Nevers, la suivante de Margot, poursuit sa séduction jusque dans le massacre.</alinea>
+        <alinea>Enfin, durant le massacre, les perversions sont à leur apogée. Le Duc d’Anjou semble éprouver un puissant plaisir dans la contemplation des meurtres, tandis qu’Henriette de Nevers, la suivante de Margot, poursuit sa séduction jusque dans le massacre.</alinea>
       </para>
       <para>
-        <alinea>
-	La religion est aussi retournée en son contraire : symbole de paix, elle devient œuvre de mort… Le Duc d’Anjou, encore tout recouvert du sang de ses crimes, se signe, tandis qu’Armagnac, contraint de se convertir, indique à Charles IX : « tu es roi d’un pays où plus rien ne s’agite, hormis les gibets », et que Catherine de Médicis se recouvre de deuil, alors qu’elle est le véritable commanditaire du massacre.</alinea>
+        <alinea>La religion est aussi retournée en son contraire : symbole de paix, elle devient œuvre de mort… Le Duc d’Anjou, encore tout recouvert du sang de ses crimes, se signe, tandis qu’Armagnac, contraint de se convertir, indique à Charles IX : « tu es roi d’un pays où plus rien ne s’agite, hormis les gibets », et que Catherine de Médicis se recouvre de deuil, alors qu’elle est le véritable commanditaire du massacre.</alinea>
       </para>
       <para>
-        <alinea>
-	Mais, surtout, l’amour est porteur de mort. Tout fonctionne en miroir de la personnalité de Catherine de Médicis qui, au lieu d’être une mère qui protège la vie, est une assoiffée du sacrifice d’autrui, notamment de ses enfants, tant dans le meurtre psychique (cas de Charles IX, qui est dépossédé de la moindre autonomie psychique) que dans le meurtre physique. De fait, Henri apprend à ses dépens que c’est par le vecteur de son amante, et à l’insu de cette dernière, que Catherine de Médicis tente de le tuer. L’empoisonneur avait en effet convaincu son amante d’augmenter ses pouvoirs de séduction par un rouge à lèvres qui se révélerait être une « poudre aphrodisiaque ». Là encore, l’amour est porteur de haine : « Cachez votre peine, cachez votre peur, cachez votre chagrin. Il ne faut pas leur montrer qu’on aime », dira Margot à Henri de Navarre. L’amour est le lieu de la vulnérabilité.</alinea>
+        <alinea>Mais, surtout, l’amour est porteur de mort. Tout fonctionne en miroir de la personnalité de Catherine de Médicis qui, au lieu d’être une mère qui protège la vie, est une assoiffée du sacrifice d’autrui, notamment de ses enfants, tant dans le meurtre psychique (cas de Charles IX, qui est dépossédé de la moindre autonomie psychique) que dans le meurtre physique. De fait, Henri apprend à ses dépens que c’est par le vecteur de son amante, et à l’insu de cette dernière, que Catherine de Médicis tente de le tuer. L’empoisonneur avait en effet convaincu son amante d’augmenter ses pouvoirs de séduction par un rouge à lèvres qui se révélerait être une « poudre aphrodisiaque ». Là encore, l’amour est porteur de haine : « Cachez votre peine, cachez votre peur, cachez votre chagrin. Il ne faut pas leur montrer qu’on aime », dira Margot à Henri de Navarre. L’amour est le lieu de la vulnérabilité.</alinea>
       </para>
-      </section2><section2><titre>	Déviation : manipulation incessante</titre>
+      <titre2>Déviation : manipulation incessante</titre2>
       <para>
-        <alinea>
-	Margot est la monnaie d’échange par excellence, monnaie d’échange entre les frères incestueux, monnaie d’échange entre Catherine de Médicis et le pape. Le duc d’Anjou force Margot et la pousse sur l’autel pour obtenir un cri qui sera censé vouloir dire « oui » au mariage. Margot est l’instrument de la paranoïa familiale ; elle en est le révélateur, le symptôme. Elle subit la haine de sa mère, laquelle commet des lapsus révélateurs : « Anjou va nous quitter. Mon cœur saigne, tu sais. Mes enfants, je les aime tant tous les trois… [parlant de ses fils, sous le regard insistant de Margot], je veux dire tous les quatre ».</alinea>
+        <alinea>Margot est la monnaie d’échange par excellence, monnaie d’échange entre les frères incestueux, monnaie d’échange entre Catherine de Médicis et le pape. Le duc d’Anjou force Margot et la pousse sur l’autel pour obtenir un cri qui sera censé vouloir dire « oui » au mariage. Margot est l’instrument de la paranoïa familiale ; elle en est le révélateur, le symptôme. Elle subit la haine de sa mère, laquelle commet des lapsus révélateurs : « Anjou va nous quitter. Mon cœur saigne, tu sais. Mes enfants, je les aime tant tous les trois… [parlant de ses fils, sous le regard insistant de Margot], je veux dire tous les quatre ».</alinea>
       </para>
       <para>
-        <alinea>
-	La manipulation consiste également à utiliser les sentiments des personnes contre elles, à se servir de toute bonté d’âme à des fins de mort. Margot suggère d’ailleurs à Henri de dissimuler ses sentiments, sinon il perdra les êtres chers et donnera des prises à un pouvoir harceleur sans limites. D’ailleurs, « la baronne » est envoyée pour tuer Henri à son insu, alors qu’elle-même croit avoir choisi des atouts de séduction, qui se révèleront être des instruments de mort. Le complot et la persécution sont le quotidien de cette famille.</alinea>
+        <alinea>La manipulation consiste également à utiliser les sentiments des personnes contre elles, à se servir de toute bonté d’âme à des fins de mort. Margot suggère d’ailleurs à Henri de dissimuler ses sentiments, sinon il perdra les êtres chers et donnera des prises à un pouvoir harceleur sans limites. D’ailleurs, « la baronne » est envoyée pour tuer Henri à son insu, alors qu’elle-même croit avoir choisi des atouts de séduction, qui se révèleront être des instruments de mort. Le complot et la persécution sont le quotidien de cette famille.</alinea>
       </para>
       <para>
-        <alinea>
-	Margot et Charles IX, les mal-aimés du pouvoir maternel, tentent chacun de trouver des échappatoires : Margot couche, tandis que Charles IX tente de s’émanciper de la mère totalitaire en créant une famille secrète (il a un fils) et en s’en remettant à l’Amiral de Coligny, le chef des protestants.</alinea>
+        <alinea>Margot et Charles IX, les mal-aimés du pouvoir maternel, tentent chacun de trouver des échappatoires : Margot couche, tandis que Charles IX tente de s’émanciper de la mère totalitaire en créant une famille secrète (il a un fils) et en s’en remettant à l’Amiral de Coligny, le chef des protestants.</alinea>
       </para>
       <para>
-        <alinea>
-	Charles IX à Coligny :</alinea>
+        <alinea>Charles IX à Coligny :</alinea>
       </para>
       <para>
-        <alinea>
-	« Grâce à toi, je me suis libéré de moi-même […] Ma mère n’est plus reine depuis que Coligny est mon père… »</alinea>
+        <alinea>« Grâce à toi, je me suis libéré de moi-même […] Ma mère n’est plus reine depuis que Coligny est mon père… »</alinea>
       </para>
       <para>
-        <alinea>
-	Mais l’Amiral, qui a compris la fragilité et les manques affectifs de Charles IX, l’utilise également. Ce faisant, Charles IX ne fait que passer d’une emprise à une autre. Charles IX balance donc entre la loyauté familiale à sa mère, qu’il sait meurtrière mais à laquelle il n’a pas la force de s’opposer, et la loyauté à une figure substitutive de père. Les figures parentales sont antithétiques ; il faut choisir entre l’une et l’autre, le monde binaire et manichéen  caractérise le système paranoïaque.</alinea>
+        <alinea>Mais l’Amiral, qui a compris la fragilité et les manques affectifs de Charles IX, l’utilise également. Ce faisant, Charles IX ne fait que passer d’une emprise à une autre. Charles IX balance donc entre la loyauté familiale à sa mère, qu’il sait meurtrière mais à laquelle il n’a pas la force de s’opposer, et la loyauté à une figure substitutive de père. Les figures parentales sont antithétiques ; il faut choisir entre l’une et l’autre, le monde binaire et manichéen  caractérise le système paranoïaque.</alinea>
       </para>
       <para>
-        <alinea>
-	D’ailleurs, Catherine de Médicis, qui a bien compris le danger politique de cette affection filiale pour son rival, orchestre le meurtre de l’Amiral de Coligny. Il faut éradiquer le risque que le royaume ne bascule dans le protestantisme, c’est-à-dire le risque que la dynastie ne s’éteigne. Ce faisant, elle brise une nouvelle fois son fils Charles IX qui, devant la souffrance occasionnée par une mère omnipotente qui tue sciemment la figure substitutive du père, exige un massacre inouï, qui marque d’autant l’horreur de la décision maternelle, et qui illustre une logique de désespoir. Sans doute d’ailleurs espère-t-il peut-être qu’une fois le massacre effectué, la Reine s’apaisera dans ses désirs sanguinaires.</alinea>
+        <alinea>D’ailleurs, Catherine de Médicis, qui a bien compris le danger politique de cette affection filiale pour son rival, orchestre le meurtre de l’Amiral de Coligny. Il faut éradiquer le risque que le royaume ne bascule dans le protestantisme, c’est-à-dire le risque que la dynastie ne s’éteigne. Ce faisant, elle brise une nouvelle fois son fils Charles IX qui, devant la souffrance occasionnée par une mère omnipotente qui tue sciemment la figure substitutive du père, exige un massacre inouï, qui marque d’autant l’horreur de la décision maternelle, et qui illustre une logique de désespoir. Sans doute d’ailleurs espère-t-il peut-être qu’une fois le massacre effectué, la Reine s’apaisera dans ses désirs sanguinaires.</alinea>
       </para>
       <para>
-        <alinea>
-	Charles IX à Catherine de Médicis : « Maintenant il faut aller jusqu’au bout… […] Vous voulez la mort de l’Amiral ? Moi aussi ! Moi aussi ! Mais alors tous les autres dans toute la France doivent y passer avec lui. Pas un seul ne doit rester. Pas un seul ne doit rester, qui puisse m’en faire le reproche ! […] J’ai dit tous !! »</alinea>
+        <alinea>Charles IX à Catherine de Médicis : « Maintenant il faut aller jusqu’au bout… […] Vous voulez la mort de l’Amiral ? Moi aussi ! Moi aussi ! Mais alors tous les autres dans toute la France doivent y passer avec lui. Pas un seul ne doit rester. Pas un seul ne doit rester, qui puisse m’en faire le reproche ! […] J’ai dit tous !! »</alinea>
       </para>
       <para>
-        <alinea>
-	Utilisant le désespoir de son fils qui ordonne de tuer ceux qu’il aime, Catherine de Médicis le prend au pied de la lettre. Pour une fois, les ordres du Roi sont respectés, tandis que la Reine n’avait pas eu besoin d’ordre du roi pour programmer le meurtre de l’Amiral de Coligny et annoncer à Charles IX qu’elle avait fait tirer sur l’amiral. Mais là, c’est différent : « le Roi a dit <marquage typemarq="italique">tous</marquage> ».</alinea>
+        <alinea>Utilisant le désespoir de son fils qui ordonne de tuer ceux qu’il aime, Catherine de Médicis le prend au pied de la lettre. Pour une fois, les ordres du Roi sont respectés, tandis que la Reine n’avait pas eu besoin d’ordre du roi pour programmer le meurtre de l’Amiral de Coligny et annoncer à Charles IX qu’elle avait fait tirer sur l’amiral. Mais là, c’est différent : « le Roi a dit<marquage typemarq="italique">tous</marquage> ».</alinea>
       </para>
-      </section2><section2><titre>	Tensions : haine, persécution et passion du pouvoir</titre>
+      <titre2>Tensions : haine, persécution et passion du pouvoir</titre2>
       <para>
-        <alinea>
-	Les frères se haïssent et haïssent Margot qui n’est là que pour leur appartenir. Elle est l’objet de tous, y compris de son amant le duc de Guise, qui s’illustre dans une crise de jalousie le jour de son mariage. Margot stipule bien cette appartenance, à l’issue de son mariage :</alinea>
+        <alinea>Les frères se haïssent et haïssent Margot qui n’est là que pour leur appartenir. Elle est l’objet de tous, y compris de son amant le duc de Guise, qui s’illustre dans une crise de jalousie le jour de son mariage. Margot stipule bien cette appartenance, à l’issue de son mariage :</alinea>
       </para>
       <para>
-        <alinea>
-	« Il ne sera jamais mon mari, vous serez toujours mes frères »…</alinea>
+        <alinea>« Il ne sera jamais mon mari, vous serez toujours mes frères »…</alinea>
       </para>
       <para>
-        <alinea>
-	De plus, l’Amiral de Coligny paie un tueur pour s’occuper de De Guise, ordre émanant sans doute de Charles IX, lui-même jaloux de l’amant de sa sœur. D’ailleurs, De Guise s’enquiert auprès de Margot : « Á qui as-tu donné ta virginité ? Á l’un de tes frères ? Auquel ? »</alinea>
+        <alinea>De plus, l’Amiral de Coligny paie un tueur pour s’occuper de De Guise, ordre émanant sans doute de Charles IX, lui-même jaloux de l’amant de sa sœur. D’ailleurs, De Guise s’enquiert auprès de Margot : « Á qui as-tu donné ta virginité ? Á l’un de tes frères ? Auquel ? »</alinea>
       </para>
       <para>
-        <alinea>
-	Henri de Navarre comprend bien la place familiale de Margot : « Vous croyez que votre famille vous protège ? […] Votre mère vous vendrait », et la qualifie de « monnaie d’échange », tandis que Margot évoque être « otage de [ses] frères, un objet pour eux ». En effet, Margot découvre l’amitié avec Henri de Navarre, et l’amour avec le Marquis de la Môle. Ses frères et sa mère n’auront de cesse de les lui ôter.</alinea>
+        <alinea>Henri de Navarre comprend bien la place familiale de Margot : « Vous croyez que votre famille vous protège ? […] Votre mère vous vendrait », et la qualifie de « monnaie d’échange », tandis que Margot évoque être « otage de [ses] frères, un objet pour eux ». En effet, Margot découvre l’amitié avec Henri de Navarre, et l’amour avec le Marquis de la Môle. Ses frères et sa mère n’auront de cesse de les lui ôter.</alinea>
       </para>
       <para>
-        <alinea>
-	Cela a été suggéré, le dénuement total de sens éthique et le primat de la persécution laissent supposer une construction familiale autour de la psychose paranoïaque : surveillance, vigilance accrue, méfiance organisée autour du sentiment de persécution, contrôle permanent et renversement systématique en son contraire (vie/mort, bien/mal), logique du complot subi et agi, etc. On est <marquage typemarq="italique">avec</marquage> Catherine de Médicis, ou <marquage typemarq="italique">contre</marquage>, sans intermédiaire possible. Le système est harceleur et ne tolère aucune contestation. Ainsi, les trois issues possibles sont la soumission, la fuite ou la mort.</alinea>
+        <alinea>Cela a été suggéré, le dénuement total de sens éthique et le primat de la persécution laissent supposer une construction familiale autour de la psychose paranoïaque : surveillance, vigilance accrue, méfiance organisée autour du sentiment de persécution, contrôle permanent et renversement systématique en son contraire (vie/mort, bien/mal), logique du complot subi et agi, etc. On est<marquage typemarq="italique">avec</marquage>Catherine de Médicis, ou<marquage typemarq="italique">contre</marquage>, sans intermédiaire possible. Le système est harceleur et ne tolère aucune contestation. Ainsi, les trois issues possibles sont la soumission, la fuite ou la mort.</alinea>
       </para>
       <para>
-        <alinea>
-	Á la question qu’est-ce que la trahison ?, Catherine de Médicis répond ainsi : « l’habileté à marcher dans le sens des événements ». Il devient nécessaire de forcer les événements. Catherine de Médicis consulte en effet l’avenir. Le guérisseur/empoisonneur lit dans les entrailles « une triple mort, suivi d’une déchéance ». La lecture occulte n’est pas acceptée par Catherine de Médicis, qui tente alors de violenter le destin, ce qui ne fera que précipiter son accomplissement. Le sentiment de toute-puissance est tel que Catherine de Médicis a l’illusion de pouvoir contrôler le pouvoir occulte et le pouvoir terrestre.</alinea>
+        <alinea>Á la question qu’est-ce que la trahison ?, Catherine de Médicis répond ainsi : « l’habileté à marcher dans le sens des événements ». Il devient nécessaire de forcer les événements. Catherine de Médicis consulte en effet l’avenir. Le guérisseur/empoisonneur lit dans les entrailles « une triple mort, suivi d’une déchéance ». La lecture occulte n’est pas acceptée par Catherine de Médicis, qui tente alors de violenter le destin, ce qui ne fera que précipiter son accomplissement. Le sentiment de toute-puissance est tel que Catherine de Médicis a l’illusion de pouvoir contrôler le pouvoir occulte et le pouvoir terrestre.</alinea>
       </para>
       <para>
-        <alinea>
-	La haine fratricide se retrouve dans le vœu concerté que Charles IX meure. Ce faisant, l’ennemi est toujours plus intestin que l’on ne l’imagine. Lors de la scène où Charles IX manque de mourir dépecé à la chasse, ses frères ne tirent pas pour tuer le sanglier, et contemplent avec plaisir l’événement. C’est Henri qui sauve le Roi, alors que le Roi vient de le trahir le matin même, en ordonnant son enfermement à la Bastille, sur ordre de sa mère. Charles IX, de même qu’il sacrifie sa sœur à la folie de sa mère, sacrifie pareillement son amitié pour Henri. La loyauté maternelle est bien plus forte, alors que les rivalités fraternelles explosent. En prenant le pouvoir, il s’agit sans doute aussi de capter davantage l’attention d’une mère si peu aimante pour autre chose que la stratégie. Charles IX regarde alors Anjou pour lui dire : « je ne suis pas encore mort et tu n’es pas encore roi ».</alinea>
+        <alinea>La haine fratricide se retrouve dans le vœu concerté que Charles IX meure. Ce faisant, l’ennemi est toujours plus intestin que l’on ne l’imagine. Lors de la scène où Charles IX manque de mourir dépecé à la chasse, ses frères ne tirent pas pour tuer le sanglier, et contemplent avec plaisir l’événement. C’est Henri qui sauve le Roi, alors que le Roi vient de le trahir le matin même, en ordonnant son enfermement à la Bastille, sur ordre de sa mère. Charles IX, de même qu’il sacrifie sa sœur à la folie de sa mère, sacrifie pareillement son amitié pour Henri. La loyauté maternelle est bien plus forte, alors que les rivalités fraternelles explosent. En prenant le pouvoir, il s’agit sans doute aussi de capter davantage l’attention d’une mère si peu aimante pour autre chose que la stratégie. Charles IX regarde alors Anjou pour lui dire : « je ne suis pas encore mort et tu n’es pas encore roi ».</alinea>
       </para>
       <para>
-        <alinea>
-	Puis Catherine de Médicis ordonne au troisième et cadet de ses fils de porter le livre de chasse ayant appartenu à De la Môle sur la table d’Henri de Navarre, livre dont elle aura bien pris soin d’empoisonner les pages. Le frère et la mère du Roi se retrouvent complices du même crime, comme s’ils l’avaient inconsciemment souhaité, Charles IX étant devenu un élément gênant pour la famille : trop fou pour être pleinement manipulé par sa mère, trop encombrant pour les désirs de royauté de ses frères.</alinea>
+        <alinea>Puis Catherine de Médicis ordonne au troisième et cadet de ses fils de porter le livre de chasse ayant appartenu à De la Môle sur la table d’Henri de Navarre, livre dont elle aura bien pris soin d’empoisonner les pages. Le frère et la mère du Roi se retrouvent complices du même crime, comme s’ils l’avaient inconsciemment souhaité, Charles IX étant devenu un élément gênant pour la famille : trop fou pour être pleinement manipulé par sa mère, trop encombrant pour les désirs de royauté de ses frères.</alinea>
       </para>
       <para>
-        <alinea>
-	L’empoisonneur du Royaume remplit également un rôle ambigu : annonceur de destinées fatales, pourvoyeur de poisons mais aussi révélateur. Face au poison dont meurt préalablement le chien de Charles IX, l’empoisonneur répond connaître assurément les composants du poison, « comme si je l’avais préparé moi-même ».</alinea>
+        <alinea>L’empoisonneur du Royaume remplit également un rôle ambigu : annonceur de destinées fatales, pourvoyeur de poisons mais aussi révélateur. Face au poison dont meurt préalablement le chien de Charles IX, l’empoisonneur répond connaître assurément les composants du poison, « comme si je l’avais préparé moi-même ».</alinea>
       </para>
-      </section2><section2><titre>	Résolution : trahir la folie familiale</titre>
+      <titre2>Résolution : trahir la folie familiale</titre2>
       <para>
-        <alinea>
-	Margot découvre l’amour avec le Marquis de la Môle, qui, parce qu’il a tout perdu, n’est pas dangereux et gagne l’amour : « Alors pour toi ce sera gratuit », lui indique Margot, qui comptait bien se prostituer lors de sa nuit de noces.</alinea>
+        <alinea>Margot découvre l’amour avec le Marquis de la Môle, qui, parce qu’il a tout perdu, n’est pas dangereux et gagne l’amour : « Alors pour toi ce sera gratuit », lui indique Margot, qui comptait bien se prostituer lors de sa nuit de noces.</alinea>
       </para>
       <para>
-        <alinea>
-	De plus, les protestants sont opprimés par le pouvoir de la Reine Mère tout autant que Margot l’est. Margot sauve donc la vie du Marquis de la Môle. Margot lui précise d’ailleurs : « Je suis avec toi du côté des opprimés. Je ne veux plus retourner du côté des bourreaux ». Suite à la nuit des massacres, alors qu’initialement elle prétendait « je suis des leurs », dans une loyauté familiale imposée, Margot trahit sa famille, dicte la conversion d’Henri et lui prodigue des conseils pour sauver sa vie.</alinea>
+        <alinea>De plus, les protestants sont opprimés par le pouvoir de la Reine Mère tout autant que Margot l’est. Margot sauve donc la vie du Marquis de la Môle. Margot lui précise d’ailleurs : « Je suis avec toi du côté des opprimés. Je ne veux plus retourner du côté des bourreaux ». Suite à la nuit des massacres, alors qu’initialement elle prétendait « je suis des leurs », dans une loyauté familiale imposée, Margot trahit sa famille, dicte la conversion d’Henri et lui prodigue des conseils pour sauver sa vie.</alinea>
       </para>
       <para>
-        <alinea>
-	Henri : « cette nuit j’ai appris la haine »</alinea>
+        <alinea>Henri : « cette nuit j’ai appris la haine »</alinea>
       </para>
       <para>
-        <alinea>
-	Margot : « apprenez l’hypocrisie : il faut vous convertir »</alinea>
+        <alinea>Margot : « apprenez l’hypocrisie : il faut vous convertir »</alinea>
       </para>
       <para>
-        <alinea>
-	Elle tente de convaincre Henri de fuir : « Jésus dirait à votre roi : exposez-vous à la noyade, exposez-vous aux vents de l’océan, partez de cette Cour. Mais n’attendez pas d’être la victime ou le témoin d’une catastrophe ! Moi je vous dis, fuyez ce soir, maintenant ! Ils ont tué votre mère la première, aujourd’hui ils ont voulu tuer Coligny, demain ce sera vous ». Margot lui sauve plusieurs fois la vie, et Henri lui accordera l’asile en terre de Navarre.</alinea>
+        <alinea>Elle tente de convaincre Henri de fuir : « Jésus dirait à votre roi : exposez-vous à la noyade, exposez-vous aux vents de l’océan, partez de cette Cour. Mais n’attendez pas d’être la victime ou le témoin d’une catastrophe ! Moi je vous dis, fuyez ce soir, maintenant ! Ils ont tué votre mère la première, aujourd’hui ils ont voulu tuer Coligny, demain ce sera vous ». Margot lui sauve plusieurs fois la vie, et Henri lui accordera l’asile en terre de Navarre.</alinea>
       </para>
       <para>
-        <alinea>
-	La seule façon de sauver sa vie pour Margot implique donc une trahison à une loyauté mortifère envers la famille. Cette trahison, Margot la paie du prix de la mort de son amant. Mais, en trahissant, elle obtient ce qu’elle n’avait jamais pu obtenir au sein du système : la liberté.</alinea>
+        <alinea>La seule façon de sauver sa vie pour Margot implique donc une trahison à une loyauté mortifère envers la famille. Cette trahison, Margot la paie du prix de la mort de son amant. Mais, en trahissant, elle obtient ce qu’elle n’avait jamais pu obtenir au sein du système : la liberté.</alinea>
       </para>
       <para>
-        <alinea>
-	En somme, « La Reine Margot » est un film sur la psychologie du pouvoir harceleur. La figure de Catherine de Médicis s’organise comme une personnalité paranoïaque qui ne tolère aucune résistance à son pouvoir, et ne s’embarrasse d’aucun scrupule pour mettre en place une stratégie de conservation ultime du pouvoir. L’emprise règne sur la famille, par le biais de ce matriarcat infernal. Seul le bouc émissaire du système paranoïaque parvient à raisonner, et s’enfuir, car il n’attend pas de compensation du harceleur. Sur le plan psychologique, certaines trahisons de systèmes familiaux sont nécessaires, pour pouvoir connaître la liberté, c’est-à-dire la santé psychique, et pouvoir respirer sa vie. Ces trahisons à la loyauté familiale impliquent des renoncements importants : acharnement sur celui qui souhaite fuir, brisure de ce qu’il a de plus cher, culpabilisation outrancière, etc.</alinea>
+        <alinea>En somme, « La Reine Margot » est un film sur la psychologie du pouvoir harceleur. La figure de Catherine de Médicis s’organise comme une personnalité paranoïaque qui ne tolère aucune résistance à son pouvoir, et ne s’embarrasse d’aucun scrupule pour mettre en place une stratégie de conservation ultime du pouvoir. L’emprise règne sur la famille, par le biais de ce matriarcat infernal. Seul le bouc émissaire du système paranoïaque parvient à raisonner, et s’enfuir, car il n’attend pas de compensation du harceleur. Sur le plan psychologique, certaines trahisons de systèmes familiaux sont nécessaires, pour pouvoir connaître la liberté, c’est-à-dire la santé psychique, et pouvoir respirer sa vie. Ces trahisons à la loyauté familiale impliquent des renoncements importants : acharnement sur celui qui souhaite fuir, brisure de ce qu’il a de plus cher, culpabilisation outrancière, etc.</alinea>
       </para>
-      </section2>
+      <para>
+        <alinea> </alinea>
+      </para>
     </section1>
   </corps>
   <partiesann>
     <grnote>
       <note id="sdfootnote1sym">
         <no>1</no>
-        <alinea>
-	 Exemple extrait du livre S. Barthélémy &amp; A. Bilheran, 2007, <marquage typemarq="italique">Le Délire</marquage>, Paris, Armand Colin, p. 22.</alinea>
+        <alinea> Exemple extrait du livre S. Barthélémy &amp; A. Bilheran, 2007,<marquage typemarq="italique">Le Délire</marquage>, Paris, Armand Colin, p. 22.</alinea>
       </note>
     </grnote>
   </partiesann>

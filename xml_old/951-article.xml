@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1217ear" typeart="autre" lang="fr" ordseq="1">
+  <admin>
+    <infoarticle>
+      <idpublic scheme="doi">null</idpublic>
+      <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
+        <descripteur>Cinéma</descripteur>
+        <descripteur>Tarantino, Quentin (1963-....)</descripteur>
+      </grdescripteur>
+      <nbpara>214</nbpara>
+      <nbmot>7796</nbmot>
+      <nbfig>0</nbfig>
+      <nbtabl>0</nbtabl>
+      <nbimage>0</nbimage>
+      <nbaudio>0</nbaudio>
+      <nbvideo>0</nbvideo>
+      <nbrefbiblio>0</nbrefbiblio>
+      <nbnote>62</nbnote>
+    </infoarticle>
+    <revue id="sp01868" lang="fr">
+      <titrerev>Sens public</titrerev>
+      <titrerevabr>sp</titrerevabr>
+      <idissnnum>2104-3272</idissnnum>
+      <directeur sexe="masculin">
+        <nompers>
+          <prenom>Marcello</prenom>
+          <nomfamille>Vitali-Rosati</nomfamille>
+        </nompers>
+      </directeur>
+      <redacteurchef typerc="invite" sexe="masculin" idrefs="th941">
+        <fonction lang="fr"/>
+        <nompers>
+          <prenom>Jean-Yves</prenom>
+          <nomfamille>Heurtebise</nomfamille>
+        </nompers>
+      </redacteurchef>
+    </revue>
+    <numero id="sp044">
+      <pub>
+        <annee>2015</annee>
+      </pub>
+      <pubnum>
+        <date typedate="publication">2015-03-18</date>
+      </pubnum>
+      <grtheme id="th941">
+        <theme>Je e(s)t un Autre - Philosophie et Esthétiques du dédoublement</theme>
+      </grtheme>
+    </numero>
+    <editeur>
+      <nomorg>Département des littératures de langue française</nomorg>
+    </editeur>
+    <prod>
+      <nomorg>Sens public</nomorg>
+    </prod>
+    <prodnum>
+      <nomorg>Sens public</nomorg>
+    </prodnum>
+    <diffnum>
+      <nomorg>Sens public</nomorg>
+    </diffnum>
+    <histpapier>
+      <alinea>néant</alinea>
+    </histpapier>
+    <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
+    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+  </admin>
+  <liminaire>
+    <grtitre>
+      <titre>Grandeur d’âme et désagrégation du moi</titre>
+    </grtitre>
+    <grauteur>
+      <auteur id="spAuthor784">
+        <nompers>
+          <prenom>Idriss</prenom>
+          <nomfamille>Aberkane</nomfamille>
+        </nompers>
+      </auteur>
+    </grauteur>
+    <resume lang="fr">
+      <alinea> À travers un paysage culturel populaire où les scènes d’action entraînent le spectateur dans la conscience de sa petitesse d’âme, nous suivons dans Kill Bill (vol. 2) le personnage de La Mariée (Uma Thurman), de son passé avec Bill (David Carradine) à son retour à la vie. En deux mots, Kill Bill amène une double conscience du dédoublement : à l’écran (celui des personnages) et en dehors (celui des spectateurs). Autour de cette représentation du dédoublement, nous voudrions étudier le thème de la grandeur d’âme face à son antithèse : la désagrégation du moi. Nous recourrons à la technique de l’intelligence pour relier de grands auteurs parmi les modernes comme Yeats, Eliot, Perse, Pirandello et avant eux Poe et Burton dans la continuité des Humanités occidentales. En particulier Poe et Burton, décisivement influencés par le soufisme, nous fournissent un lien entre expression de l’âme en Occident et spiritualité d’Orient.</alinea>
+    </resume>
+    <grmotcle lang="fr">
+      <motcle>Cinéma</motcle>
+      <motcle>Je e(s)t un Autre - Philosophie et Esthétiques du dédoublement</motcle>
+      <motcle>Quentin Tarantino</motcle>
+      <motcle>Dédoublement</motcle>
+    </grmotcle>
+  </liminaire>
+  <corps>
+    <section1>
+      <para>
+        <alinea>« Poeti, poeti ci siamo messi</alinea>
+      </para>
+      <para>
+        <alinea>tutte le maschere</alinea>
+      </para>
+      <para>
+        <alinea>ma uno non è che la propria persona »<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Giuseppe Ungaretti,<marquage typemarq="italique">Monologhetto</marquage>
+        </alinea>
+      </para>
+      <titre2> </titre2>
+      <titre2>Prologue</titre2>
+      <para>
+        <alinea>Une histoire-enseignement soufie illumine notre propos :</alinea>
+      </para>
+      <para>
+        <alinea>Un disciple demanda au maître s’il était licite de boire du vin en Islam. Le maître lui répondit :« Cela dépend de la grandeur de ton âme. Tu vois, si ton âme est comme une bassine et que tu y verses un verre de vin elle deviendra rouge. Mais si ton âme est comme la mer, une cuvée entière n’en changera pas la couleur » .</alinea>
+      </para>
+      <para>
+        <alinea>Ainsi Verlaine à Rimbaud : « Venez, chère grande âme, on vous appelle, on vous attend »<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi>. Le sens de<marquage typemarq="italique">Mahatma</marquage>est celui là : « grande âme » ; car la seule grandeur persistante d’un humain, qui né nu mourra nu au monde, c’est bien celle de son âme.</alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <para>
+        <alinea>***</alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">Projection du film Kill Bill Vol. 2 - résumé de l’intrigue</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Dans le volume 2 de Kill Bill « La Mariée » (Uma Thurman) a déjà pris sa revanche sur deux des tueurs de la cérémonie où Bill (David Carradine) l’a laissée pour morte. Elle affronte d’abord son frère Budd (Michael Madsen), puis son propre double, Elle Driver (Daryl Hannah), dans le chapitre explicitement intitulé « <marquage typemarq="italique">Elle and I </marquage>». « La Mariée » triomphe par la pratique de la patience et du dépassement que lui a enseigné son maître, le « cruel » Paï Mei, personnage très ambigu entre le Bien et le Mal qui fut aussi le maître de Bill et d’Elle Driver à qui il arracha un oeil. « La Mariée » retrouve la trace de Bill par l’entremise d’un de ses pères adoptifs. Désarmée en apprenant que l’enfant de Bill qu’elle portait le jour de son mariage est encore en vie, elle a une dernière discussion avec lui – durant laquelle Bill prononce son monologue mémorable sur les super-héros – avant de le tuer par la prise secrète que Paï Mei lui a confiée. « Et la paix est revenue dans la jungle ».</alinea>
+      </para>
+      <para>
+        <alinea>***</alinea>
+      </para>
+      <titre2>L’âme et le Monde</titre2>
+      <para>
+        <alinea>Un thème prégnant dans la poésie de T. S. Eliot est le perfectionnement de l’âme et son échec à apprendre dans le séjour terrestre qui est conditionné par la peur puis par son dépassement. La vie est perçue comme une difficile quête vers l’abandon – souvent rapprochée de la quête du Graal ou de la Pierre Philosophale – et dont le perfectionnement individuel est l’unique but. La peur inconsciente d’échouer dans cette tâche avait déjà fait écrire à Eliot sa<marquage typemarq="italique">Love Song of J. Alfred Prufrock</marquage>puis après le<marquage typemarq="italique">Waste Land</marquage>, le poème<marquage typemarq="italique">The Hollow Men</marquage>. C’est par l’abandon de soi que le poète parviendra à se libérer de cette peur (« <marquage typemarq="italique">even among these rocks</marquage> » dans<marquage typemarq="italique">Ash Wednesday</marquage>). Dans la première partie de<marquage typemarq="italique">Burnt Norton,</marquage>il chante clairement, à dépasser actuel et potentiel :</alinea>
+      </para>
+      <para>
+        <alinea>Go, go, go, said the bird: human kind</alinea>
+      </para>
+      <para>
+        <alinea>Cannot bear very much reality.</alinea>
+      </para>
+      <para>
+        <alinea>Time past and time future</alinea>
+      </para>
+      <para>
+        <alinea>What might have been and what has been</alinea>
+      </para>
+      <para>
+        <alinea>Point to one end, which is always present.<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Un poème d’Eliot en particulier marque la transition entre la terreur d’avoir vécu pour rien – dans une terre gaste où la vie est vaine tant que l’âme refuse tout apprentissage et se laisse envahir par la peur – à la contemplation sereine de la grande et inévitable destinée spirituelle de l’Humain qu’il développera dans les<marquage typemarq="italique">Quatre Quatuors</marquage>. Ce poème est<marquage typemarq="italique">Animula</marquage>, « la petite âme ». Toujours en s’inspirant – comme Eliot qui conclut son<marquage typemarq="italique">Waste Land</marquage>par « <marquage typemarq="italique">Shantih Shantih Shantih</marquage> » – de la métaphysique hindouiste selon laquelle la réincarnation joue un rôle irréversible dans le perfectionnement de l’âme humaine (même si elle est un cercle dont on pourrait s’échapper à tout moment), William Butler Yeats avait écrit :</alinea>
+      </para>
+      <para>
+        <alinea>I asked if I should pray,</alinea>
+      </para>
+      <para>
+        <alinea>But the Brahmin said,</alinea>
+      </para>
+      <para>
+        <alinea>“Pray for nothing, say</alinea>
+      </para>
+      <para>
+        <alinea>Every night in bed,</alinea>
+      </para>
+      <para>
+        <alinea>“I have been a king,</alinea>
+      </para>
+      <para>
+        <alinea>I have been a slave,</alinea>
+      </para>
+      <para>
+        <alinea>Nor is there anything,</alinea>
+      </para>
+      <para>
+        <alinea>Fool, rascal, knave,</alinea>
+      </para>
+      <para>
+        <alinea>That I have not been,</alinea>
+      </para>
+      <para>
+        <alinea>And yet upon my breast</alinea>
+      </para>
+      <para>
+        <alinea>A myriad heads have lain.<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Dans l’« échelle des êtres » (ou « science des signatures ») que l’on peut rattacher en Occident à Aristote ou Hermès Trismégiste, et en Orient à la grande progression de l’âme chez Rumi, Victor Hugo situera Dante à l’apex d’un tel devenir :</alinea>
+      </para>
+      <para>
+        <alinea>Écrit sur un exemplaire</alinea>
+      </para>
+      <para>
+        <alinea>de la Divina Commedia</alinea>
+      </para>
+      <para>
+        <alinea>Un soir, dans le chemin je vis passer un homme</alinea>
+      </para>
+      <para>
+        <alinea>Vêtu d’un grand manteau comme un consul de Rome,</alinea>
+      </para>
+      <para>
+        <alinea>Et qui me semblait noir sur la clarté des cieux.</alinea>
+      </para>
+      <para>
+        <alinea>Ce passant s’arrêta, fixant sur moi ses yeux</alinea>
+      </para>
+      <para>
+        <alinea>Brillants, et si profonds qu’ils en étaient sauvages,</alinea>
+      </para>
+      <para>
+        <alinea>Et me dit : « J’ai d’abord été, dans les vieux âges,</alinea>
+      </para>
+      <para>
+        <alinea>« Une haute montagne emplissant l’horizon ;</alinea>
+      </para>
+      <para>
+        <alinea>« Puis, âme encore aveugle et brisant ma prison,</alinea>
+      </para>
+      <para>
+        <alinea>« Je montai d’un degré dans l’échelle des êtres,</alinea>
+      </para>
+      <para>
+        <alinea>« Je fus un chêne, et j’eus des autels et des prêtres,</alinea>
+      </para>
+      <para>
+        <alinea>« Et je jetai des bruits étranges dans les airs ;</alinea>
+      </para>
+      <para>
+        <alinea>« Puis je fus un lion rêvant dans les déserts,</alinea>
+      </para>
+      <para>
+        <alinea>« Parlant à la nuit sombre avec sa voix grondante ;</alinea>
+      </para>
+      <para>
+        <alinea>« Maintenant, je suis homme, et je m’appelle Dante. »<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Cette « sauvagerie » d’une « voix grondante » nous la retrouverons dans la poésie de Burton, comme elle peut nous frapper dans l’esthétique de la violence cathartique chez Tarantino. Ainsi sur la volatilité de l’âme, Albert Camus interprètera Pindare d’une façon similaire en exergue du<marquage typemarq="italique">Mythe de Sisyphe</marquage> : « Ô mon âme n’aspire pas à la vie immortelle, mais épuise le champ du possible ».<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Sans s’éduquer en effet, l’âme qui aspire à l’immortalité n’y saura trouver qu’un enfer fait d’elle-même, et donc éternel, comme une lentille minuscule focalisée sur un seul point sombre du Tout. C’est la nuit de l’âme,<marquage typemarq="italique">Nux Animae</marquage>chantée par Ezra Pound<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>d’après Saint Jean de la Croix. Mais si l’âme grandit et transmue sa conscience (finalité de l’exercice mystique), elle dépassera « enfer ou ciel »<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi>étant consciente du Tout.</alinea>
+      </para>
+      <para>
+        <alinea>Dans l’œuvre d’Eliot,<marquage typemarq="italique">Animula</marquage>marque ainsi bien la transition entre désir de mourir par peur de l’échec et désir de vivre par amour pour soi-même. « Petite âme », exactement comme les soufis parlent de la<marquage typemarq="italique">Nafs</marquage>, « âme charnelle », âme mal élevée qui est instigatrice de tout mal dans son état dit « <marquage typemarq="italique">Ammara</marquage> » mais qu’il faut sans cesse interroger durant la vie matérielle. À la manière d’Al Sulami dans son traité<marquage typemarq="italique">Les maladies de l’âme et leurs remèdes<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi>
+          </marquage>(Xème  siècle) ou à la manière de Plotin décrivant le chemin du chercheur, Eliot chante les ballottements de la<marquage typemarq="italique">simple soul</marquage>à peine libérée de son union primordiale à l’Âme des âmes (c’est-à-dire<marquage typemarq="italique">God</marquage>).</alinea>
+      </para>
+      <para>
+        <alinea>Issues from the hand of God, the simple soul,</alinea>
+      </para>
+      <para>
+        <alinea>To a flat world of changing lights and noise,</alinea>
+      </para>
+      <para>
+        <alinea>To light, dark, dry, damp, chilly or warm,</alinea>
+      </para>
+      <para>
+        <alinea>Moving between the legs of tables and of chairs</alinea>
+      </para>
+      <para>
+        <alinea>Rising or falling,<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>On pourrait rapprocher cette petite âme de la Sybille qui exprime son désir de mourir en exergue du<marquage typemarq="italique">Waste Land</marquage>. Mourir au monde et mourir dans le monde ne sont pas les mêmes choses ; pour Plotin : « La grandeur d’âme c’est le dédain des choses ici bas. »<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Les poètes ont souvent chanté leur dialogue avec leur âme. Par exemple dans le<marquage typemarq="italique">Débat du Cœur et du Corps de Villon</marquage>, est mimé ce que les soufis appellent lutte entre le<marquage typemarq="italique">Qalb</marquage>, i.e. le cœur comme organe de la vision théophanique et la<marquage typemarq="italique">Nafs</marquage>, le complexe illusoire d’égos et d’automatismes qui barre l’accès au vrai Moi :</alinea>
+      </para>
+      <para>
+        <alinea>- Que penses-tu ? - Être homme de valeur.</alinea>
+      </para>
+      <para>
+        <alinea>- Tu as trente ans - C’est l’âge d’un mulet</alinea>
+      </para>
+      <para>
+        <alinea>- Est-ce enfance ? - Nenni. - C’est donc foleur</alinea>
+      </para>
+      <para>
+        <alinea>Qui te saisit ? - Par où ? Par le collet ?</alinea>
+      </para>
+      <para>
+        <alinea>- Rien ne connois. - Si fais. - Quoi ? - Mouche en lait ;</alinea>
+      </para>
+      <para>
+        <alinea>L’un est blanc, l’autre est noir, c’est la distance.</alinea>
+      </para>
+      <para>
+        <alinea>- Est-ce donc tout ? - Que veux-tu que je tance ?</alinea>
+      </para>
+      <para>
+        <alinea>C’en assez, je recommencerai.</alinea>
+      </para>
+      <para>
+        <alinea>- Tu es perdu ! - J’y mettrai résistance.<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>- Plus ne t’en dis. - Et je m’en passerai<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>On peut aussi citer Rimbaud, dont le « Bateau Ivre » comparable à l’<marquage typemarq="italique">animula</marquage>finit par s’abîmer, abandon par amour, après avoir voulu « descendre où  il voulait »…</alinea>
+      </para>
+      <para>
+        <alinea>Or moi, bateau perdu sous les cheveux des anses,</alinea>
+      </para>
+      <para>
+        <alinea>Jeté par l’ouragan dans l’éther sans oiseau,</alinea>
+      </para>
+      <para>
+        <alinea>Moi dont les Monitors et les voiliers des Hanses</alinea>
+      </para>
+      <para>
+        <alinea>N’auraient pas repêché la carcasse ivre d’eau<renvoi idref="sdfootnote14sym" typeref="note">14</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>…Yeats quand il parle directement de son « Anti-Self » dans<marquage typemarq="italique">Ego Dominus Tuus,…</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>I call to the mysterious one who yet</alinea>
+      </para>
+      <para>
+        <alinea>Shall walk the wet sands by the edge of the stream</alinea>
+      </para>
+      <para>
+        <alinea>And look most like me, being indeed my double,</alinea>
+      </para>
+      <para>
+        <alinea>And prove of all imaginable things</alinea>
+      </para>
+      <para>
+        <alinea>The most unlike, being my anti-self <renvoi idref="sdfootnote15sym" typeref="note">15</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>…ou encore Saint-John Perse chantant dans<marquage typemarq="italique">Anabase</marquage>(dont par ailleurs l’ésotérisme a déjà été étudié par Francis Pruner<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi>) :</alinea>
+      </para>
+      <para>
+        <alinea>Pour mon âme mêlée aux affaires lointaines<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi>(…)</alinea>
+      </para>
+      <para>
+        <alinea>(…) L’œil recule d’un siècle aux provinces de l’âme<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>…et enfin Baudelaire, bien sûr, comme dans son poème en Prose<marquage typemarq="italique">Any where out of the World</marquage>, et dans ses deux versions, en prose et en vers, de<marquage typemarq="italique">l’Invitation au Voyage</marquage>où il est question de la « douce langue natale » de l’âme, et dans ce sonnet dont Eliot s’est inspiré pour ses<marquage typemarq="italique">Quatre</marquage>
+          <marquage typemarq="italique">Quatuors </marquage>:</alinea>
+      </para>
+      <para>
+        <alinea>Sois sage, ô ma Douleur, et tiens-toi plus tranquille.</alinea>
+      </para>
+      <para>
+        <alinea>Tu réclamais le Soir; il descend; le voici:</alinea>
+      </para>
+      <para>
+        <alinea>Une atmosphère obscure enveloppe la ville,</alinea>
+      </para>
+      <para>
+        <alinea>Aux uns portant la paix, aux autres le souci.<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <titre2>
+        <marquage typemarq="italique">La paire des opposés, et l’entrelacs subtil du mal et du bien</marquage>
+      </titre2>
+      <para>
+        <alinea>On trouve dans la correspondance de Flaubert ces deux pièces fameuses, d’un grand intérêt anthropologique pour documenter notre analyse :« L’avenir nous tourmente et le passé nous retient, voilà pourquoi le présent nous échappe »<renvoi idref="sdfootnote20sym" typeref="note">20</renvoi>. Et puis :</alinea>
+      </para>
+      <para>
+        <alinea>Qui sait à quels sucs d’excréments nous devons le parfum des roses et la saveur des melons ? A-t-on compté tout ce qu’il faut de bassesses contemplées pour constituer une grandeur d’âme ? Tout ce qu’il faut avoir avalé de miasmes écœurants, subi de chagrins, enduré de supplices pour écrire une bonne page ? Nous sommes cela, nous autres, des vidangeurs et des jardiniers. Nous tirons des putréfactions de l’humanité des délectations pour elle-même. Nous faisons pousser des bannettes de fleurs sur ses misères étalées. Le Fait se distille dans la Forme et monte en haut, comme un pur encens de l’Esprit vers l’Eternel, l’immuable, l’absolu, l’idéal.<renvoi idref="sdfootnote21sym" typeref="note">21</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>L’Idéal, vers lequel le<marquage typemarq="italique">Spleen</marquage>repousse le poète, ce qui en fait une véritable<marquage typemarq="italique">bénédiction</marquage>, vient de la contemplation sereine de l’ordre du monde, et de l’élévation au-delà de chacun des points qui le composent, qu’ils soient chauds ou froids, blancs ou noirs. Il s’agit de prendre du recul comme l’hirondelle de T.S. Eliot dans le<marquage typemarq="italique">Waste Land </marquage>: « <marquage typemarq="italique">quando fiam uti Chelidon</marquage> ? »…. Richard Burton, dans le sens de Leibniz, écrit par ailleurs :</alinea>
+      </para>
+      <para>
+        <alinea>You cry the “Cruelty of Things’ is myst’ery to your purblind eye,</alinea>
+      </para>
+      <para>
+        <alinea>Which fixed upon a point in space the general project passes by:</alinea>
+      </para>
+      <para>
+        <alinea>For see! the Mammoth went his ways, became a mem’ory and a name;</alinea>
+      </para>
+      <para>
+        <alinea>While the half-reasoner with the hand<renvoi idref="sdfootnote22sym" typeref="note">22</renvoi>survives his rank and place to claim<renvoi idref="sdfootnote23sym" typeref="note">23</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Avec ses paires d’<marquage typemarq="italique">alteri nos</marquage>, son traitement ambigu du Bien et Mal aligné sur celui de Sergio Leone, et sa structure actancielle organisée autour de la réunion d’une particule à son antimatière, « La Mariée » à « Bill », qui auraient dû être réunis dans l’amour et le sont dans la haine, puis le pardon mais au lieu de la vie dans la mort, c’est la paire des opposés que nous invite à considérer le volume 2 de Kill Bill. Vie et Mort, Amour et Haine, Début et Fin, Beauté et Laideur, Coma et Conscience c’est-à-dire Sommeil et Eveil, Plaisir et Douleur, construction et destruction… Bien et Mal. Mais comme les deux principes cosmiques du Yin et du Yang dépassent finalement la dualité, formant unité dans leur vide médian (et dans le cercle de leur cosmogramme, symbole de l’un), toute paire est multiple de l’unité, comme la manière de gouverner de l’émir Abd-el Kader, grand soufi lui-même, tenait à l’harmonisation des contraires<renvoi idref="sdfootnote24sym" typeref="note">24</renvoi>. Ainsi en finalité les noms divins du soufisme sont des paires d’opposés qui par leur rapprochement signifient la<marquage typemarq="italique">wahdat al wujud</marquage>, unité de l’Être.</alinea>
+      </para>
+      <para>
+        <alinea>Je suis le Réel et la créature, le Seigneur et le serviteur.</alinea>
+      </para>
+      <para>
+        <alinea>Je suis le trône et le tapis, l’enfer et le paradis.</alinea>
+      </para>
+      <para>
+        <alinea>Je suis l’eau et le feu, l’azur et la terre ferme.</alinea>
+      </para>
+      <para>
+        <alinea>Je suis le combien et le comment, l’existence et le néant.</alinea>
+      </para>
+      <para>
+        <alinea>Je suis l’essence et la qualité, le proche et le lointain.</alinea>
+      </para>
+      <para>
+        <alinea>Tout ton être est Mon être, Je suis seul et solitaire.<renvoi idref="sdfootnote25sym" typeref="note">25</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Notre propos va essayer de fonctionner sur le même principe : le devenir d’une dialectique de paires opposés ou d’<marquage typemarq="italique">alteri-nos</marquage>finalement réunis, donc unifiés. Il s’agira de Marcel Proust et Sainte-Beuve pour une dialectique de la méthode, T. S. Eliot et Saint-John Perse, frères jumeaux du modernisme par le<marquage typemarq="italique">Waste Land</marquage>et<marquage typemarq="italique">Anabase</marquage>, Charles Baudelaire et Edgar Poe par leur fraternité dans le rapport à un monde glauque, William James et Luigi Pirandello qui partagent une même notion du soi social, Racine et Catulle sur l’amour et la haine, Bergson et Deleuze pour la cinématique de l’être et du devenir, et enfin le soufisme de Richard Francis Burton, notre point fixe et notre conclusion permanente en faveur de l’unité (« l’éternel, l’immuable, l’absolu, l’idéal… »), notre éternité narrative.</alinea>
+      </para>
+      <para>
+        <alinea>Suivons l’adage de Chilon de Lacédémone : « Considère la fin », c’est-à-dire dans la métaphysique soufie : comprend que toute vie, quelle que soit son atrocité est « <marquage typemarq="italique">Commedia</marquage> », que,<marquage typemarq="italique">Voyage au bout de la nuit,</marquage>elle finira bien…</alinea>
+      </para>
+      <para>
+        <alinea>Voilà comment Burton assure la cohésion de son poème pourtant plein de dualités, ses « couplets » dont la métrique, adaptation anglophone du<marquage typemarq="italique">Bahr-e-Tawil</marquage>arabe, évoque les « deux éternités »<renvoi idref="sdfootnote26sym" typeref="note">26</renvoi>qu’il y chante :</alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">There is no Good, there is no Bad; these be the whims of mortal will: </marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">What works me weal that call I ‘good, what harms and hurts I hold as ‘ill: </marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">They change with place, they shift with race; and, in the veriest span of Time, </marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">Each Vice has worn a Virtue’s crown; all Good was banned as Sin or Crime:</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">Like ravelled skeins they cross and twine, while this with that connects and blends; </marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">And only Khizr his eye shall see where one begins, where other ends</marquage>
+          <renvoi idref="sdfootnote27sym" typeref="note">27</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Il faudra se souvenir de ces couplets pour analyser le rapport entre le personnage de Beatrix Kiddo et le maître Paï Mei avec sa « cruelle tutelle » qui lui sauve malgré tout la vie. L’<marquage typemarq="italique">alter ego</marquage>du personnage de « la Mariée » est celui d’Elle Driver, à qui il manque un œil. Elle pourrait représenter sa vie alternative, si elle avait cédé à la colère face à son maître. Plusieurs fois, Beatrix se retrouve confrontée à des situations similaires à celles d’Elle Driver, mais Beatrix sait se contrôler et demeure maîtresse d’elle-même là où Elle représente l’ego indompté, son double qui aurait « mal tourné » en quelque sorte. Le titre même de ce chapitre où les deux personnages s’affrontent est bien « Elle est moi »… Quelle distance y a-t-il entre ce titre et l’idée que « Je est un autre » ?</alinea>
+      </para>
+      <para>
+        <alinea>À partir de Burton :<marquage typemarq="italique">There is no good, there is no bad,</marquage>nous pouvons amener d’autres méditations sur la grandeur d’âme. Considérons par exemple le lien entre le film de Tarantino et la poésie de T. S. Eliot. Nous avons cette injonction dans<marquage typemarq="italique">The Love Song of J. Alfred Prufrock</marquage>, qui est justement un poème d’amour envers soi-même, où un homme vieillissant décide d’un moment à l’autre de briser le carcan des convenances et des habitudes pour se révéler son moi et établir l’éternité dans la seconde :</alinea>
+      </para>
+      <para>
+        <alinea>Oh Do not ask “what is it ?’’</alinea>
+      </para>
+      <para>
+        <alinea>Let us go, and make our visit<renvoi idref="sdfootnote28sym" typeref="note">28</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>C’est de cette manière qu’il faudrait subir l’<marquage typemarq="italique">impression</marquage>du film<marquage typemarq="italique">Kill Bill</marquage>et c’est comme cela que nous l’aurons goûté : en<marquage typemarq="italique">suspendant le jugement.</marquage>C’est précisément ce qu’indique Burton en exergue de<marquage typemarq="italique">The</marquage>
+          <marquage typemarq="italique">Kasidah</marquage>. À la manière de William Blake dans son poème argumentaire<marquage typemarq="italique">All religions are one</marquage>, ou dans<marquage typemarq="italique">The Marriage of Heaven and Hell</marquage>, Burton énonce ces cinq principes :</alinea>
+      </para>
+      <para>
+        <alinea>The Author asserts that Happiness and Misery are equally divided and distributed in the world.</alinea>
+      </para>
+      <para>
+        <alinea>He makes Self-cultivation, with due regard to others, the sole and sufficient object of human life.</alinea>
+      </para>
+      <para>
+        <alinea>He suggests that the affections, the sympathies, and the “divine gift of Pity’ are man’s highest enjoyments.</alinea>
+      </para>
+      <para>
+        <alinea>He advocates suspension of judgment, with a proper suspicion of “Facts, the idlest of superstitions.’</alinea>
+      </para>
+      <para>
+        <alinea>Finally, although destructive to appearance, he is essentially reconstructive.<renvoi idref="sdfootnote29sym" typeref="note">29</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Ici,  sur son sucré comme son amer, sur l’aigre comme le doux, il ne faut que goûter le film<marquage typemarq="italique">Kill Bill :</marquage>« <marquage typemarq="italique">like a patient, etherised upon a table </marquage>», dirait Eliot. Un jugement immédiat, dans la répulsion ou le conditionnement, conduira le critique à tout manquer de la sagesse qu’il cache, comme l’élève superficiel verra en Paï Mei un monstre détestable, et l’élève attentif et humble, un grand sage qui peut lui sauver la vie. C’est de cette grande vertu passive, l’abandon,<marquage typemarq="italique">Abgeschiedenheit</marquage>de Maître Eckhart, que dépend toute la pureté du courant de conscience et donc toute la pureté de l’appréciation. Notre analyse n’est donc pas un jugement du film de Tarantino, elle est sa mise en service dans l’exploration de la nature<marquage typemarq="italique">de facto</marquage>désagrégée et inconstante de l’âme humaine, dans l’exploration du début et de la fin de la dualité de la psyché. C’est l’Humain qu’elle cible. Or il est intéressant que la tradition néolatine ait conservé ce terme pour décrire l’instigateur du mal : « <marquage typemarq="italique">Diavolus</marquage> », celui qui coupe en deux, qui divise : qui dédouble. Une grande part de la sagesse soufie tient à unifier le passé et le futur dans l’être (plutôt que dans le faire ou dans l’avoir), afin de l’établir dans l’éternité, qui est aussi l’unité dans ses deux sens : l’<marquage typemarq="italique">atome</marquage>et l’<marquage typemarq="italique">unification</marquage>. Le présent est l’unité du temps ; l’éternité aussi. Helen Gardner écrira ainsi du<marquage typemarq="italique">Waste Land</marquage> :« Le problème de l’histoire et du mécanisme du temps est l’un des grands thèmes du Waste Land ; il s’y mêle au désir du salut cosmique et personnel. Jamais poème n’a montré un sens plus profond de la pression du passé sur le présent et de son existence dans le présent. »<renvoi idref="sdfootnote30sym" typeref="note">30</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Plus qu’au souvenir qui est conscience, l’existence du passé dans le présent peut tenir au conditionnement qui transforme le présent en simple anticipation du futur au lieu de l’éternité (c’est-à-dire la sortie du temps) qu’il a vocation à être. Dans son discours au banquet Nobel Saint-John Perse déclare :</alinea>
+      </para>
+      <para>
+        <alinea>Et c’est d’une même étreinte, comme une seule grande strophe vivante, qu’elle [la poésie] embrasse au présent tout le passé et l’avenir, l’humain avec le surhumain, et tout l’espace planétaire avec l’espace universel. L’obscurité qu’on lui reproche ne tient pas à sa nature propre, qui est d’éclairer, mais à la nuit même qu’elle explore, et qu’elle se doit d’explorer : celle de l’âme elle-même et du mystère où baigne l’être humain.<renvoi idref="sdfootnote31sym" typeref="note">31</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Nous mentionnons le<marquage typemarq="italique">Waste Land</marquage>car il est un poème-clé pour comprendre la nature humaine en modernité. Mary Karr le préface ainsi :</alinea>
+      </para>
+      <para>
+        <alinea>Vous y croiserez une Sibylle qui prononce en grec son désir de mourir. Il y a une chanson d’ivrogne australienne. La langue de Dante est là, de même que des bribes de conversations de comptoir. Il y a le voyant aveugle d’Homère : Tirésias, le « vieil homme aux mamelles ridées » et une medium cinglée avec son paquet de Tarot foireux. Cette technique du collage est à présent amplement utilisée dans tous les média<renvoi idref="sdfootnote32sym" typeref="note">32</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Indubitablement il y a dans la quête de « Beatrix » quelque chose de Dante dont la polarité serait renversée : il s’agit bien d’une quête de l’Enfer au Paradis (la « Paix » « retrouvée dans la jungle », « selva » elle aussi chez Dante, conclut le film) mais qui serait motivée par la vengeance au lieu de l’Amour et bien sûr selon une narration non-linéaire, à la Orson Welles. Plus tôt Mary Karr écrivait aussi :«[cette technique du collage] Les bonds non linéaires entre les scènes de Quentin Tarantino dans Pulp Fiction en dérivent en partie ».</alinea>
+      </para>
+      <para>
+        <alinea>La force et la faiblesse de Tarantino en tant que cinéaste, c’est le montage. Il est toujours (explicitement ou non) divisé en chapitres pour faciliter son édition et son raccord non linéaire, surtout quand les épisodes sont mis en abyme pour transcender par une narration intriquée la conscience du film tout entier (ce qui est profondément le cas dans<marquage typemarq="italique">Inglorious Basterds</marquage>). Quant à la terre où évoluent les personnages déchus de<marquage typemarq="italique">Kill Bill</marquage>, celle où avance Beatrix Kiddo en trompant perpétuellement la mort et l’enfer des autres, c’est bien une terre gaste, un<marquage typemarq="italique">Waste Land</marquage>instable où la vie menace sans cesse de sombrer dans le désespoir. On y retrouve de tout, en effet : du cinéma de série B, de la production chinoise des années 1970, de nombreuses similarités avec<marquage typemarq="italique">La Mariée était en noir</marquage>de Truffaut, le David Carradine de la série<marquage typemarq="italique">Kung Fu</marquage>, un poster de Charles Bronson (dans la caravane de Budd) et du western à la Sergio Leone, avec des extraits de la bande son d’Ennio Morricone dans<marquage typemarq="italique">Pour une poignée de dollars</marquage>(lui-même alter ego du « Yojimbo » d’Akira Kurosawa). Pour ce dernier film, par ailleurs, comme dans tous les westerns de Leone, c’est le flou entre bien et mal, « Bon » et « Méchant » qui le distingue le mieux de ses contemporains. Dans<marquage typemarq="italique">Kill Bill</marquage>, on retrouve ce personnage-concept du Tirésias d’Eliot, un personnage sexuellement universel qui aurait déjà « tout souffert », tout connu de la souffrance d’une relation amoureuse du point de vue de l’égoïsme d’une femme comme d’un homme, si proche de l’<marquage typemarq="italique">alter ego</marquage>Tirésias de Guillaume Apollinaire, il articule par le recul de sa sagesse la sensation de cette « paix qui suit la compréhension » (<marquage typemarq="italique">Shantih Shantih Shantih</marquage>) dans le<marquage typemarq="italique">Waste Land</marquage>. Et si ce n’est pas tout à fait (mais pourtant bien dans la « langue vulgaire » qu’est cette culture populaire chez Tarantino), la lettre de Dante que nous retrouvons dans<marquage typemarq="italique">Kill Bill</marquage>, son esprit y est bien présent.<marquage typemarq="italique">Kill Bill</marquage>est une<marquage typemarq="italique">Commedia</marquage>c’est-à-dire qu’il finit bien, même à travers tous les cercles de l’enfer, le purgatoire et le Paradis. C’est une<marquage typemarq="italique">Commedia</marquage>moderniste, où Enfer et Paradis ne sont plus traversés linéairement, où le somptueux et le sordide sont entrelacés pour fracturer l’épopée en épopées plus courtes où se joue dans le confinement d’une scène ou d’un épisode quelque chose qui ressemble au film tout entier. Nous disons<marquage typemarq="italique">confinement</marquage> : il y a « la tombe solitaire de Paula Schulz », il y a le duel dans la caravane de Budd et il y a le<marquage typemarq="italique">close combat</marquage>avec Bill, un petit « cercle rouge », comme dans le film de Jean-Pierre Melville, où convergent les adversaires jusqu’au combat le plus rapproché. Ce confinement comme révélateur est différent et, je crois, complémentaire de celui que Sidney Lumet utilise pour révéler la psychologie de ses personnages et leur effort pour construire collectivement la Vérité, ce miroir brisé dans<marquage typemarq="italique">Twelve Angry Men</marquage>. Également dans la mise en scène, un des points qui sépare nettement Quentin Tarantino de Sergio Leone, est que Leone dans<marquage typemarq="italique">Le Bon, la Brute et le Truand</marquage>par exemple, a tendance à sur-dimensionner ses intérieurs : on le voit dans la scène où « La Brute », Sentenza, est introduite dans la maison de celui qu’il va tuer. Tarantino, lui, applique à l’espace ce que Leone n’applique qu’au temps quand il limite le confinement dans ses westerns aux gros plans sur les visages : le duel est un moment de vérité où se joue la vie après un interminable temps mort, alternance entre largeur et exigüité. Appliqué à l’espace, dans<marquage typemarq="italique">Kill Bill</marquage>« la Mariée » passe d’une tombe à l’immensité du désert, pour revenir se battre dans une caravane.</alinea>
+      </para>
+      <para>
+        <alinea>Une spécialité de Tarantino et une des clés de son succès public, c’est l’art de tailler des personnages très nets pour finalement les mettre dans des situations complètement inattendues qui révèlent une identité surprenante et brisent les clichés<renvoi idref="sdfootnote33sym" typeref="note">33</renvoi>. Il crée ainsi une grande valeur émotionnelle qui rend ses films agréables à regarder. Cette manière de revoir les clichés dans des situations inattendues lui fait par exemple construire un personnage de tueur : Vincent Vega dans<marquage typemarq="italique">Pulp Fiction</marquage>, pour lui faire nettoyer un pare-brise avec du lave-vitre pris « sous l’évier » d’un monsieur tout le monde lui-même mis dans la situation de cacher un cadavre dans son garage. Dans<marquage typemarq="italique">Kill Bill</marquage>
+          <marquage typemarq="italique">,</marquage>Budd a beau avoir été un grand tueur à gage, il est maintenant videur dans un petit<marquage typemarq="italique">dancing</marquage>et se laisse réprimander par son beauf de patron – preuve aussi de son stoïcisme en comparaison avec son frère. Dans le<marquage typemarq="italique">Volume 1</marquage>, la tueuse Vernita Green est devenue mère de famille, et dans le<marquage typemarq="italique">Volume 2</marquage>c’est au tour de Beatrix Kiddo « la Mariée », d’être proprement désarmée par le choc que lui inflige la vue de sa petite fille armée d’un pistolet à eau. Or l’art du contraste est parfait pour révéler le clair-obscur de Humanité, d’où l’intérêt du cinéma de Tarantino pour les sciences humaines. Alors qu’il met en lumière la superficialité de la plupart des éléments que nous utilisons pour constituer l’identité (sociale ou personnelle), il précède la révélation de l’identité véritable : Jules Winfield qui quitte sa vie de tueur dans<marquage typemarq="italique">Pulp Fiction</marquage>, peut-être pour devenir le pianiste qui est assassiné dans<marquage typemarq="italique">Kill Bill</marquage>(les deux personnages sont incarnés par Samuel L. Jackson), et Beatrix Kiddo qui, alors qu’on lui refuse son identité, que son nom est bipé tout au long du film et qu’on l’enterre vivante sous un nom qui est peut-être une sorte de « Jane Doe »<renvoi idref="sdfootnote34sym" typeref="note">34</renvoi>, apprend que rien ne fera d’elle ce qu’elle n’est pas. L’art du contraste à la Tarantino illumine ce fait qui nous échappe pourtant – et tant qu’il nous échappera nous ne serons pas libre – ce fait que le présent compte toujours infiniment plus que le passé et l’avenir dans notre sensualité (et le passé plus que le présent dans notre conditionnement). Nous pouvons avoir vécu dix ans dans le plaisir, nous ne vivrons pas mieux une heure de souffrance. Plaisir et peine ne se mettent pas en réserve. La nouvelle identité de Budd est forcée par son environnement (c’est une instance de l’effet Pygmalion, qui en psychologie sociale montre que nous construisons notre identité en rapport étroit avec l’image que s’en font nos pairs), cela rappelle aussi le « co-constructivisme » d’Edgar Morin qui serait appliqué à l’identité humaine. Maintenant, Budd est videur dans une boîte de<marquage typemarq="italique">strip-tease</marquage>et, malgré tout son passé, c’est tout.</alinea>
+      </para>
+      <titre2> </titre2>
+      <titre2>Gnose du soi et Grandeur d’âme</titre2>
+      <para>
+        <alinea>On a rappelé la poésie de T. S Eliot parce que, comme la ballade, elle utilise la technique du courant de conscience, qui est fondamentalement celle du cinéma où plus qu’aucune autre l’image présente « pèse plus lourd dans la tête de l’homme »<renvoi idref="sdfootnote35sym" typeref="note">35</renvoi>. Cette technique est remarquable pour traiter la construction difficile de la sensation de présent et par extension de la grandeur d’âme. Prufrock, ce personnage-crainte dans lequel Eliot chante ses angoisses, veut soudainement (présentement) faire dans son esprit une place nette à l’éternité :</alinea>
+      </para>
+      <para>
+        <alinea>Do I dare</alinea>
+      </para>
+      <para>
+        <alinea>Disturb the universe ?</alinea>
+      </para>
+      <para>
+        <alinea>In a minute there is time</alinea>
+      </para>
+      <para>
+        <alinea>For decisions and revisions which a minute will reverse</alinea>
+      </para>
+      <para>
+        <alinea>For I have known them all already; known them all-</alinea>
+      </para>
+      <para>
+        <alinea>Have known the evenings, mornings, afternoons,</alinea>
+      </para>
+      <para>
+        <alinea>I have measured out my life with coffee spoons;<renvoi idref="sdfootnote36sym" typeref="note">36</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>« J’ai mesuré ma vie en cuillères à café », voilà le courant de conscience qu’imprime sur nous et par le choc le film de Tarantino en passant si facilement du noir au blanc, du sang au rire. La surprise d’une émotion forte souligne notre méconnaissance de nous-mêmes, que nous n’étions pas conscients de la profondeur de cette gamme expressive qui est en nous. Ainsi va Maurice Bouchor :</alinea>
+      </para>
+      <para>
+        <alinea>Quand tu te connaîtras comme âme universelle,</alinea>
+      </para>
+      <para>
+        <alinea>Le foyer dont tu n’es qu’une pâle étincelle</alinea>
+      </para>
+      <para>
+        <alinea>T’absorbera : ton cœur ne pourra plus changer.</alinea>
+      </para>
+      <para>
+        <alinea>Le « moi » plein de désirs, qui seul fut l’étranger,</alinea>
+      </para>
+      <para>
+        <alinea>Ne t’empêchera plus de descendre en ton être.<renvoi idref="sdfootnote37sym" typeref="note">37</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>D’une façon intéressante, nous pourrions discuter ici de la physiologie du système visuel car elle démontre clairement sa saturabilité. Son signal le plus fort est celui d’une complète obscurité : la lumière, elle, ne fait qu’en réduire la fréquence jusqu’à l’annuler durant l’éblouissement. Comme l’obscurité possède un degré zéro que ne possède pas l’illumination, le système visuel humain est donc d’emblée conçu avec sa propre saturabilité. Il en va de même de notre répertoire émotionnel qui est fondamentalement saturable. Arrêtée par notre physiologie, nous possédons une gamme d’intensités données que nous ne pouvons pas dépasser. Nous posons ensuite ces invariants sur les épisodes que nous rencontrons dans le monde en ces « marqueurs somatiques » d’Antonio Damasio. Ainsi on peut s’extasier pour un morceau de chocolat comme pour une voiture de luxe. Si les préférences sont relatives, les émotions sont absolues. Prendre conscience de cet état de fait, c’est apprendre à nous connaître face à l’art comme face à la vie.</alinea>
+      </para>
+      <para>
+        <alinea>Or la connaissance de soi-même, gnose humaniste, est la priorité absolue de notre existence. Villon déplorait ainsi, en courant de conscience :</alinea>
+      </para>
+      <para>
+        <alinea>Je congnois bien mouches en laict ;</alinea>
+      </para>
+      <para>
+        <alinea>Je congnois à la robe l’homme ;</alinea>
+      </para>
+      <para>
+        <alinea>Je congnois le beau temps du laid ;</alinea>
+      </para>
+      <para>
+        <alinea>Je congnois au pommier la pomme ;</alinea>
+      </para>
+      <para>
+        <alinea>Je congnois l’arbre à voir la gomme ;</alinea>
+      </para>
+      <para>
+        <alinea>Je congnois quand tout est de mesme ;</alinea>
+      </para>
+      <para>
+        <alinea>Je congnois qui besongne ou chomme ;</alinea>
+      </para>
+      <para>
+        <alinea>Je congnois tout, fors que moy-mesme.<renvoi idref="sdfootnote38sym" typeref="note">38</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Que l’on pense comme Husserl que « toute conscience est conscience de quelque chose » (en faveur de quoi se situent les travaux de Bernard Baars, Stanislas Dehaene et Jean-Pierre Changeux<renvoi idref="sdfootnote39sym" typeref="note">39</renvoi>en neurosciences) ou bien comme les bouddhistes qu’il existe des états vides de la conscience (voir les travaux de Francisco Varela<renvoi idref="sdfootnote40sym" typeref="note">40</renvoi>), Eliot réconcilie les deux en chantant ces états pleins et ces états vides :« to be conscious is not to be in Time »<renvoi idref="sdfootnote41sym" typeref="note">41</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Le film de Tarantino rappelle une plus profonde conscience de soi-même (ce qui était une technique-clé dans la méthode de George Gurdjieff, le « rappel de soi »), c’est un des usages que l’on peut faire de la technique du choc, comme dans le<marquage typemarq="italique">Voyage au bout de la Nuit</marquage>de Louis-Ferdinand Céline, qui est aussi une forme de<marquage typemarq="italique">Commedia</marquage>, puisque la nuit y a un bout. Le film de Tarantino, comme<marquage typemarq="italique">Twelve Angry Men</marquage>procède d’une maïeutique par laquelle l’Humain explore l’univers de ses états psychologiques et spirituels. Dans cette maïeutique, la vertu reine est la grandeur d’âme, le fait de ne pas mesurer sa vie en cuillères à café, mieux comprendre le « <marquage typemarq="italique">general project »</marquage>dont parlait Burton. L’identité assise dans la grandeur d’âme devient absolument intemporelle (et heureux qui parvient à faire de son identité quelque chose d’intemporel). On intègre de cette façon la pensée du devenir chez Bergson, que le média de l’image-temps est fait pour illuminer :« Ce que la métaphysique saisit de la beauté extérieure à l’esprit, c’est ce qu’elle saisit dans l’esprit même : une tendance au changement en exercice continuel, un acte de création de perpétuelle nouveauté. »<renvoi idref="sdfootnote42sym" typeref="note">42</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Nous pouvons apprécier le cinéma de Tarantino sans le juger, en le lisant simplement comme une longue cinématique, courant de conscience où se succèdent les effets mentaux entre présent, passé, et expectative. Exactement comme disait Baudelaire, en cela précurseur du cinématographe, nous pouvons transformer nos esprits en une toile sur laquelle le conteur pourrait projeter son passé pour le rendre présent :</alinea>
+      </para>
+      <para>
+        <alinea>Nous voulons voyager sans vapeur et sans voile</alinea>
+      </para>
+      <para>
+        <alinea>Faites, pour égayer l’ennui de nos prisons,</alinea>
+      </para>
+      <para>
+        <alinea>Passer sur nos esprits, tendus comme une toile,</alinea>
+      </para>
+      <para>
+        <alinea>Vos souvenirs avec leurs cadres d’horizons<renvoi idref="sdfootnote43sym" typeref="note">43</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Les « prisons », Baudelaire les connaissait, qui écrivait de Poe, son<marquage typemarq="italique">alter ego :</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>De tous les documents que j’ai lus est résulté pour moi la conviction que les États-Unis ne furent pour Poe qu’une vaste prison qu’il parcourait avec l’agitation fiévreuse d’un être fait pour respirer dans un monde plus aromal, — qu’une grande barbarie éclairée au gaz, — et que sa vie intérieure, spirituelle de poète ou même d’ivrogne n’était qu’un effort perpétuel pour échapper à l’influence de cette atmosphère antipathique<renvoi idref="sdfootnote44sym" typeref="note">44</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Nous retrouvons cette « atmosphère antipathique », dans l’Amérique de la Grande Dépression où deux dessinateurs témoins de la misère créent ce personnage - largement détourné plus tard - de Superman, l’« homme de demain ». La mythologie des super-héros est au centre du monologue de Bill (ou du film « Incassable » de M. N. Shyamalan, qu’avait vu Tarantino, où le « méchant » ne peut justement se définir qu’en créant son ennemi le héros), et Beatrix Kiddo est une sorte d’indestructible « Wonder Woman ». Il est intéressant de s’arrêter sur ce personnage de Superman ; un de ses premiers épisodes dans<marquage typemarq="italique">Action Comics</marquage>présente bien le système de pensée de ses créateurs, Joe Schuster et Jerry Siegel. Sans les juger et sans eugénisme, Superman montre aux hommes au bord du gouffre ce qu’ils pourraient être. Dans l’épisode que nous mentionnons, il sauve la vie d’un boxeur qui s’est jeté d’un pont, puis lui rend confiance en lui-même en prenant sa place dans son prochain combat. Dans cette sorte de scène, le boxeur « s’encourage lui-même » en se voyant gagner depuis les tribunes : il se voit comme il pourrait être, à la troisième personne. Ainsi l’idéal du Superman original était celui d’une Pierre Philosophale humaine qui laisse aux hommes, comme les maîtres spirituels, la liberté de s’améliorer sans être jugé. Certes, les choses ont beaucoup changé depuis dans le mythe du Super-héros à l’américaine ; à présent, comme depuis Pascal, on l’avait anticipé qui veut faire l’Ange finit par faire la Bête…</alinea>
+      </para>
+      <para>
+        <alinea>D’où vient le mythe de la Pierre Philosophale ? Saadi de Chiraz écrivait : il y a de l’or faux car il y a de l’or Véritable, et Idries Shah commentera<renvoi idref="sdfootnote45sym" typeref="note">45</renvoi> : « le<marquage typemarq="italique">moi qui commande</marquage>, c’est ce qui se tient entre l’or faux et l’or véritable ». Le mot arabe pour ce moi qui commande est<marquage typemarq="italique">Nafs-I-Ammara</marquage>, dans les sept niveaux de développement de la<marquage typemarq="italique">nafs</marquage> : Le Moi qui commande (<marquage typemarq="italique">Nafs-I-Ammara</marquage>) qui fragmente, s’éperd et mène à une perception partielle de l’identité, le Moi qui regrette (<marquage typemarq="italique">Nafs-I-lawwama</marquage>), le Moi inspiré (<marquage typemarq="italique">Nafs-I-mulhama</marquage>), le Moi contenté (<marquage typemarq="italique">Nafs-I-Mutma’inna</marquage>), le Moi béatifié (<marquage typemarq="italique">Nafs-I-radiyya</marquage>), le Moi béatifiant (<marquage typemarq="italique">Nafs-I-mardiyya</marquage>) et enfin le Moi « pur », purifié et purifiant, commun à la métaphore de la pierre philosophale (<marquage typemarq="italique">Nafs-I-Safiyya</marquage>). Khaled Bentounès simplifie ce découpage en n’en mettant que trois étapes en valeur (<marquage typemarq="italique">Ammara</marquage>,<marquage typemarq="italique">Lawwama</marquage>et<marquage typemarq="italique">Mutma’inna</marquage>)<renvoi idref="sdfootnote46sym" typeref="note">46</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Non développée, la<marquage typemarq="italique">Nafs</marquage>, surmoi superficiel, est cette « cuillère à café » par laquelle on mesure l’expérience de sa subjectivité. Dans l’Anabase, qui est par ailleurs un<marquage typemarq="italique">alter ego</marquage>du Waste Land Saint-John Perse chante :</alinea>
+      </para>
+      <para>
+        <alinea>Qui n’a, louant la soif, bu l’eau des sables dans un casque,</alinea>
+      </para>
+      <para>
+        <alinea>je lui fais peu crédit au commerce de l’âme<renvoi idref="sdfootnote47sym" typeref="note">47</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>et puis :</alinea>
+      </para>
+      <para>
+        <alinea>Tant de douceur au cœur de l’homme, se peut-il qu’elle faille à trouver sa mesure ?... « Je vous parle, mon âme ! – mon âme tout enténébrée d’un parfum de cheval ! »<renvoi idref="sdfootnote48sym" typeref="note">48</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Où le parfum d’un cheval provoque une ténébreuse ivresse. Rappelons cette histoire soufie que l’on a citée en Prologue : «  si ton âme est comme la mer… ». Ici le but de notre analyse est de révéler – à la lumière de la littérature comparée – le phénomène de désagrégation du moi que provoque la petitesse d’âme et sa pleine capacité à s’« enténébrer » pour un oui ou pour un non. Nous pouvons introduire ce deuxième conte soufi : l’Histoire de la « poche magique »<renvoi idref="sdfootnote49sym" typeref="note">49</renvoi>. Il s’agit de l’histoire d’une princesse, « Nafisa », qui aimait les figues au point d’en manger jour et nuit. Son père promit sa main à qui parviendrait à l’en dégoûter. Trois frères qui vivent dans un pays où les figues sont abondantes décident de tenter leur chance, armés d’une énorme quantité de figues que la princesse engloutit sans difficulté lors des deux premières tentatives. C’est le cadet « Arif » (« le connaissant ») qui parvient à libérer la princesse de sa passion. Il rencontre sur son chemin un vieillard à qui il accepte de remettre la totalité de ses figues, et celui-ci lui retourne en échange une pièce de tissu qu’il lui coud à la place du cœur pour y mettre une seule figue sèche. Cette poche magique est une réserve de figues illimitée par laquelle Arif délivrera la princesse. Cette poche qui représente le cœur (<marquage typemarq="italique">qalb</marquage>) est ainsi la seule à pouvoir pacifier la passion de Nafisa, comme Ibn Arabi, maître spirituel de l’émir Abd-el-Kader, chantera « mon cœur est capable de toutes les formes ». Idries Shah note que d’une part « Nafisa » vient de « Nafs », voulant dire « petite âme » d’autre part les figues représentent tout ce qui vient de la Terre et par extension le monde. De même pour Plotin, la magnanimité, c’est le détachement du monde. Ainsi on parle à l’opposé des pusillanimes, que leur peur attache au monde, cet état « <marquage typemarq="italique">fixed upon a point in time </marquage>» que dénonce Burton. L’ordalie du film<marquage typemarq="italique">Kill Bill</marquage>voudrait faire passer l’âme de<marquage typemarq="italique">pusillus</marquage>à<marquage typemarq="italique">magnus.</marquage>Ainsi l’âme de l’homme accompli devient-elle plus vaste que le monde lui-même, et l’Homme passe de l’état d’influencé par le monde à l’état d’influence sur le monde. Swinburne chantera sur la mort de Richard Burton :</alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">A wider soul than the world was wide,</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">Whose praise made love of him one with pride,</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">What part has death or has time in him,</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">Who rode life’s lists as a God might ride?</marquage>
+          <renvoi idref="sdfootnote50sym" typeref="note">50</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Ainsi clairement la grandeur d’âme a fait à Burton traverser la vie « comme un dieu »; c’est cette même grandeur d’âme qui caractérise le bon spectateur de<marquage typemarq="italique">Kill Bill</marquage> , dont les scènes sont une ordalie visuelle qui met l’âme à l’épreuve. Finalement l’âme, comme dans le poème de Langston Hughes (<marquage typemarq="italique">The Negro Speaks of Rivers</marquage>) a « grandi, profonde comme les fleuves »<renvoi idref="sdfootnote51sym" typeref="note">51</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Ainsi la petitesse d’âme provoque la cyclothymie, au sens d’une variation d’<marquage typemarq="italique">Humeur</marquage>, comme entre Idéal et Spleen, Amour et Haine. On peut rapprocher en ce sens Catulle de Racine :</alinea>
+      </para>
+      <para>
+        <alinea>Odi et amo. Quare id faciam, fortasse requiris.</alinea>
+      </para>
+      <para>
+        <alinea>Nescio, sed fieri sentio et excrucior.</alinea>
+      </para>
+      <para>
+        <alinea>(<marquage typemarq="italique">Carmina</marquage>, LXXXV)</alinea>
+      </para>
+      <para>
+        <alinea>L’amour et la haine dans<marquage typemarq="italique">Andromaque</marquage>sont deux polarités qui s’inversent constamment. Il y a en cela assez de points communs entre Andromaque et<marquage typemarq="italique">Kill Bill</marquage>pour justifier une comparaison. La pièce de Racine commence par une accolade mais finit par le renversement de tout l’amour en haine, jusque dans la pureté innocente d’Astyanax, que l’on peut comparer à la fille de Beatrix dans<marquage typemarq="italique">Kill Bill</marquage>, là où le film de Tarantino commence (au volume 1) par un meurtre très violent mais finit par les retrouvailles d’une mère et de sa fille. Encore une fois, il faut « considérer la fin » ;<marquage typemarq="italique">Kill Bill</marquage>est malgré tout une Comédie, et<marquage typemarq="italique">Andromaque</marquage>une Tragédie.</alinea>
+      </para>
+      <para>
+        <alinea>La cyclothymie comme conséquence de la pusillanimité doit se comprendre face à la théorie de la désagrégation du moi de Pirandello<renvoi idref="sdfootnote52sym" typeref="note">52</renvoi>. Nous ne nous connaissons-pas nous-mêmes comme les autres nous connaissent, et à ce titre nous ne sommes pas seulement dédoublés mais « <marquage typemarq="italique">Uno, Nessuno e Centomila</marquage> ». Tous les personnages de<marquage typemarq="italique">Kill Bill</marquage>sont des personnages désagrégés : Bill n’a pas connu son père, Elle Driver déteste Beatrix et ne vit que pour l’avoir comme rivale, elle l’admire et la déteste au point de reproduire le meurtre de Budd en utilisant un mamba noir : « Black mamba » est un des pseudonymes de Beatrix. Cela semble vain, mais a un rôle dramatique bien précis : Bill («<marquage typemarq="italique"> AKA</marquage>
+          <marquage typemarq="italique">snake charmer</marquage> », c’est-à-dire le « charmeur de Serpents ») utilise son sérum de vérité pour lutter contre la désagrégation du moi de Beatrix. C’est une façon pour lui de libérer ce « Horla » qu’est la véritable identité de<marquage typemarq="italique">la Mariée</marquage>. William James, comme Pirandello, avait ainsi écrit :<marquage typemarq="italique">« Properly speaking, a man has as many social selves as there are individuals who recognize him. »<renvoi idref="sdfootnote53sym" typeref="note">53</renvoi>
+          </marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Pour conclure, nous avons parlé du film, mais assez peu de l’auteur. Analyser l’œuvre pour mieux connaître l’auteur, c’est la méthode de Proust et d’Eliot, celle qui parie du moi créateur est porteur de beaucoup plus d’information que le moi social, superficiel et menteur. Cela est juste à bien des égards, mais la méthode biographique de Sainte-Beuve, ici l’antagoniste de celle de Proust, a aussi son mot à dire. Quentin Tarantino est un réalisateur, scénariste et acteur – c’est-à-dire qu’il sait se voir à la troisième personne même s’il n’apparaît pas cette fois dans<marquage typemarq="italique">Kill Bill</marquage>. Il est né le 27 mai 1963 à Knoxville dans le Tennessee, dont il fera le lieu de naissance de plusieurs de ses personnages (Maynardville à 40 km de Knoxville, est le lieu de naissance du Lieutenant Aldo Raines dans<marquage typemarq="italique">Inglorious Basterds</marquage>). Tarantino n’a pas connu son père – comme Bill, dont il raconte qu’il « collectionnait les pères d’adoption » – acteur passionné de western, pilote d’avion et ceinture noire de karaté. Son père adoptif est un musicien, avec qui il rapportera avoir son souvenir le plus fort au cinéma : Bambi à 6 ans, qui le fera pleurer « des heures et des heures ». Sa mère divorcera de son nouveau mari quand il aura 10 ans, et le jeune Quentin quittera l’école à 15 ans. Ayant écrit son premier scénario pour le cinéma à 14 ans, il rejoindra la compagnie théâtrale de James Best à 18 ans en 1981. En 1983, il travaille au vidéo club<marquage typemarq="italique">Manhattan Beach</marquage>
+          <marquage typemarq="italique">Video</marquage>
+          <marquage typemarq="italique">Archive</marquage>, avant de percer au cinéma. Cinéphile brut et éclectique, Quentin Tarantino l’est à n’en pas douter. L’alter ego clair-obscur de son film<marquage typemarq="italique">La Mariée était en noir</marquage>de Truffaut (même s’il n’a pas confirmé l’avoir vu avant de réaliser<marquage typemarq="italique">Kill Bill</marquage>) n’est qu’une des nombreuses sources de cet admirateur prodigue de la nouvelle vague qui nommera sa maison de production<marquage typemarq="italique">A Band Apart</marquage>. Il est quelqu’un qui peut se moquer de la louange pour essayer de se satisfaire lui-même avant tout. Comme il le dira à Cannes en 2009 avec son équipe à la présentation d’<marquage typemarq="italique">Inglorious Basterds </marquage>:« Because we love making movies ! »</alinea>
+      </para>
+      <para>
+        <alinea>Peut-être «<marquage typemarq="italique"> love making</marquage> » et « <marquage typemarq="italique">making movies </marquage>» sont à ce point rapprochés dans l’esprit de Tarantino…</alinea>
+      </para>
+      <titre2>Épilogue :</titre2>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">Connais-toi toi-même et tu connaîtras l’Univers et les Dieux</marquage>, voilà sans ambiguïté l’unique raison d’être de l’Humanité, qui transcende l’absurde et fait de l’Humain le seul lieu légitime du « Pourquoi » métaphysique. Or s’il faut se connaître soi-même, c’est bien que « Je est un autre » comme disait Rimbaud. Souvent l’autre a plus à voir avec moi que moi-même. Ainsi quand Pope admoneste : « And all our knowledge is ourselves to know »<renvoi idref="sdfootnote54sym" typeref="note">54</renvoi>.Ou quand Villon écrit pour lui-même :</alinea>
+      </para>
+      <para>
+        <alinea>Vois que Salmon écrit en son rolet</alinea>
+      </para>
+      <para>
+        <alinea>« Homme sage, ce dit-il, a puissance</alinea>
+      </para>
+      <para>
+        <alinea>Sur planètes et sur leur influence. »<renvoi idref="sdfootnote55sym" typeref="note">55</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Il faut bien comprendre que si toute connaissance est connaissance de nous-mêmes, dans l’Être collectif notre connaissance tient à la connaissance d’autrui, d’où la méthode d’Hegel qui recommande de surmonter dialectiquement notre altérité réciproque. Comme le rappelait le 14ème Dalaï Lama : l’ennemi est à ce titre le meilleur des maîtres. Et<marquage typemarq="italique">Kill Bill</marquage>
+          <marquage typemarq="italique">vol.2</marquage>, ce film en deux mots truffé de<marquage typemarq="italique">duels,</marquage>exprime très bien la dualité.</alinea>
+      </para>
+      <para>
+        <alinea>Dans<marquage typemarq="italique">Apocalypse Now</marquage>de Francis Ford Coppola, le Colonel Kurtz (Marlon Brando) récite le poème<marquage typemarq="italique">The Hollow Men</marquage>juste avant d’être mis à mort…« We are the Hollow men »<renvoi idref="sdfootnote56sym" typeref="note">56</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>…pourtant être « creux » n’est pas une mauvaise chose quand l’on veut polir en soi l’organe de la vision théophanique…</alinea>
+      </para>
+      <para>
+        <alinea>Les coupes de l’Amour font le tour des seigneurs.</alinea>
+      </para>
+      <para>
+        <alinea>Elles les annihilent état après état</alinea>
+      </para>
+      <para>
+        <alinea>Je leur ai dit « ô vous les nobles, suis-je agréé ? »</alinea>
+      </para>
+      <para>
+        <alinea>Ils m’ont répondu : « ô jeune homme, la condition c’est d’être vide ! »<renvoi idref="sdfootnote57sym" typeref="note">57</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>…le malheur des « hommes creux » est donc en fait énoncé au vers suivant du poème d’Eliot :« We are the stuffed men »<renvoi idref="sdfootnote58sym" typeref="note">58</renvoi>.Comme il le déplore dans<marquage typemarq="italique">Ash Wednesday</marquage>, toujours à méditer sur les états vides de la conscience :</alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">Where shall the word be found, where will the word</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">Resound? Not here, there is not enough silence<renvoi idref="sdfootnote59sym" typeref="note">59</renvoi>.</marquage>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Ainsi Burton conclut-il son grand poème en distiques, avant de le sceller, autre harmonie des contraires, par la racine sémitique Shin-Lamedh-Mem « Unité de l’Âme » d’où proviennent les mots « Shalom » et « Islam » :</alinea>
+      </para>
+      <para>
+        <alinea>To seek the True, to glad the heart, such is of life the HIGHER LAW, </alinea>
+      </para>
+      <para>
+        <alinea>Whose differ’ence is the Man’s degree, the Man of gold, the Man of straw.<renvoi idref="sdfootnote60sym" typeref="note">60</renvoi> </alinea>
+      </para>
+      <para>
+        <alinea>Le personnage de Bill a méprisé son cœur, il se l’est prétendu brisé pour mettre à mort celle qu’il aimait ; elle le lui fait exploser dans la poitrine :</alinea>
+      </para>
+      <para>
+        <alinea>Thus, in discourse, the lovers whiled away</alinea>
+      </para>
+      <para>
+        <alinea>The night that waned and waned and brought no day.</alinea>
+      </para>
+      <para>
+        <alinea>They fell: for Heaven to them no hope imparts</alinea>
+      </para>
+      <para>
+        <alinea>Who hear not for the beating of their hearts.<renvoi idref="sdfootnote61sym" typeref="note">61</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Baudelaire nous a rappelé qu’enterrer le mal, c’était le faire fleurir. Ainsi va son épigramme aux<marquage typemarq="italique">Fleurs du Mal</marquage>, empruntée à Agrippa d’Aubigné :</alinea>
+      </para>
+      <para>
+        <alinea>On dit qu’il faut couler les exécrables choses</alinea>
+      </para>
+      <para>
+        <alinea>Dans le puits de l’oubli et au sépulcre encloses,</alinea>
+      </para>
+      <para>
+        <alinea>Et que par les escrits le mal ressuscité</alinea>
+      </para>
+      <para>
+        <alinea>Infectera les mœurs de la postérité ;</alinea>
+      </para>
+      <para>
+        <alinea>Mais le vice n’a point pour mère la science,</alinea>
+      </para>
+      <para>
+        <alinea>Et la vertu n’est pas fille de l’ignorance.<renvoi idref="sdfootnote62sym" typeref="note">62</renvoi>
+        </alinea>
+      </para>
+      <para>
+        <alinea>Souvent on a oublié ces vers à condamner Céline, ou ici Tarantino. Ainsi il faut connaître et reconnaître la dualité illusoire de notre humanité, et il faut se souvenir que la Vérité, vaste harmonie des contraires, est un miroir brisé.</alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+    </section1>
+  </corps>
+  <partiesann>
+    <grnote>
+      <note id="sdfootnote1sym">
+        <no>1</no>
+        <alinea> Giuseppe Ungaretti<marquage typemarq="italique">in</marquage>Allen Mandelbaum (trad), Giuseppe Ungaretti,<marquage typemarq="italique">Selected poems of Giuseppe Ungaretti</marquage>, Cornell University Press, 1975, p. 170. « Poètes poètes nous avons mis / déjà tous les masques/ Mais on n’est jamais que soi-même »</alinea>
+      </note>
+      <note id="sdfootnote2sym">
+        <no>2</no>
+        <alinea> Jacques Robichez,<marquage typemarq="italique">Verlaine entre Rimbaud &amp; Dieu,</marquage>Paris, SEDES, 1982, p. 37.</alinea>
+      </note>
+      <note id="sdfootnote3sym">
+        <no>3</no>
+        <alinea> T. S. Eliot,  Burnt Nortonin<marquage typemarq="italique">Four Quartets,</marquage>New York, Harcourt, 1971, pp. 13-14.  « Va, va, va dit l’oiseau, le genre humain / ne peut détenir trop de réalité/ Le temps passé et le temps futur/ Ce qui a eu lieu ou ce qui aurait pu avoir lieu / Montrent un seul point, qui est toujours présent ».</alinea>
+      </note>
+      <note id="sdfootnote4sym">
+        <no>4</no>
+        <alinea> William Butler Yeats “<marquage typemarq="italique">Mohini Chaterjee’’</marquage>
+          <marquage typemarq="italique">in</marquage>William Butler Yeats, Richard Finneran (ed.),<marquage typemarq="italique">The Yeats Reader</marquage>, NYC, Scribner Poetry, 2002, p. 115. « J’ai demandé si je devrais prier, / Mais le Brahmane dit, / Ne prie pour rien, dis / Chaque nuit dans ton lit, / « J’ai été un roi, / J’ai été un esclave/ Ni il n’est quoi que ce soit,/ Fou, racaille, coquin, / Que je n’ai été, / Et pourtant sur ma poitrine / Une myriade de têtes se sont posées. »</alinea>
+      </note>
+      <note id="sdfootnote5sym">
+        <no>5</no>
+        <alinea> Victor Hugo, « Écrit sur un exemplaire de la ’’Divina Commedia’’ »,<marquage typemarq="italique"/>daté « Juillet 1843 », in<marquage typemarq="italique">Contemplations,</marquage>livre III :<marquage typemarq="italique">Les luttes et les rêves</marquage>, poème d’ouverture ; in<marquage typemarq="italique">Oeuvres poétiques,</marquage>tome II, édition établie par P. Albouy, Paris, Gallimard, 1967, p. 568. Carlo Ossola note dans « A Lume Spento, Dante au XXème siècle » : « Dans le manuscrit ce poème a pour titre<marquage typemarq="italique">Dante</marquage>et il est à la base de l’ ’’échelle des êtres et métempsycoses’’ » (<marquage typemarq="italique">ibid.,</marquage>p. 1456).</alinea>
+      </note>
+      <note id="sdfootnote6sym">
+        <no>6</no>
+        <alinea> Albert Camus,<marquage typemarq="italique">Le Mythe de Sisyphe,</marquage>Paris, Gallimard, [1942], p. 15. Camus note : Pindare, 3Pythique.</alinea>
+      </note>
+      <note id="sdfootnote7sym">
+        <no>7</no>
+        <alinea> Ezra Pound, Pisan Cantos LXXIV p. 436 « Magna NUX animae », dans laquelle se trouvait bien le poète depuis sa prison du DTC près de Pise.</alinea>
+      </note>
+      <note id="sdfootnote8sym">
+        <no>8</no>
+        <alinea> Charles Baudelaire, « Le Voyage » : « Enfer ou Ciel, qu’importe / Au fond de l’inconnu, pour trouver du Nouveau ».</alinea>
+      </note>
+      <note id="sdfootnote9sym">
+        <no>9</no>
+        <alinea> Al Sulamî,<marquage typemarq="italique">Les Maladies de l’Ame et leur remèdes</marquage>, traduit de l’arabe par Abdul Karim Zein Milan, 1990.</alinea>
+      </note>
+      <note id="sdfootnote10sym">
+        <no>10</no>
+        <alinea> T. S. Eliot,<marquage typemarq="italique">Animula,</marquage>
+          <marquage typemarq="italique">in</marquage>T. S. Eliot, P. Leyris (trad, ed)<marquage typemarq="italique">La Terre Vaine et autres poèmes,</marquage>Paris, Seuil, 1976. « Émise des mains de Dieu, la petite âme, / Vers un monde plat de feux et de bruits qui changent,/ de clair, sombre, sec ou mouillé / chaud ou glacé, / Se meut entre les pieds des chaises et des tables, / Montant, s’effondrant. » Ce dernier « montant, s’effondrant » est assez typique dans la poésie moderniste. On retrouvera ce thème chez Saint-John Perse (Vents : « quand la violence eût renouvelé le lit des hommes sur la Terre ») et Eliot dans le<marquage typemarq="italique">Waste Land</marquage>citant Nerval « Le Prince d’Aquitaine à la tour (montée) abolie (descente) ».</alinea>
+      </note>
+      <note id="sdfootnote11sym">
+        <no>11</no>
+        <alinea> Plotin<marquage typemarq="italique">in</marquage>J. Barthélémy Saint-Hilaire,<marquage typemarq="italique">De l’école d’Alexandrie: rapport à l’Académie des sciences morales et politiques, précédé d’un essai sur la méthode des Alexandrins et le mysticisme, et suivi d’une traduction de morceaux choisis de Plotin</marquage>,Ladrange, 1845, p. 190.</alinea>
+      </note>
+      <note id="sdfootnote12sym">
+        <no>12</no>
+        <alinea> La même « résistance » décrite par Khaled Bentounès dans « L’Homme Intérieur à la Lumière du Coran ».</alinea>
+      </note>
+      <note id="sdfootnote13sym">
+        <no>13</no>
+        <alinea> François Villon,<marquage typemarq="italique">Le débat du Cœur</marquage>
+          <marquage typemarq="italique">et du Corps de Villon,</marquage>en forme de ballade, P.L Jacob (ed.),<marquage typemarq="italique">Œuvres Complètes de François Villon,</marquage>Paris, P. Janet, 1854, p. 193.</alinea>
+      </note>
+      <note id="sdfootnote14sym">
+        <no>14</no>
+        <alinea> Arthur Rimbaud, « Bateau Ivre »<marquage typemarq="italique">in</marquage>André Gide (ed)<marquage typemarq="italique">Anthologie de la poésie Française,</marquage>Paris, Gallimard, 1949, p. 634.</alinea>
+      </note>
+      <note id="sdfootnote15sym">
+        <no>15</no>
+        <alinea> William Butler Yeats<marquage typemarq="italique">Ego Dominus Tuus,</marquage>
+          <marquage typemarq="italique">in</marquage>R.J. Finneran (ed)<marquage typemarq="italique">The Yeats Reader,</marquage>NYC, Scribner Poetry, p. 71 : « J’en appelle au mystérieux qui / malgré tout marchera par les sables humides et le bord du ruisseau / Et aura mon apparence, étant mon double en effet / Et se prouvant de toute chose imaginable / Le plus distinct de moi, étant mon anti-moi. »</alinea>
+      </note>
+      <note id="sdfootnote16sym">
+        <no>16</no>
+        <alinea> Francis Pruner,<marquage typemarq="italique">L’ésotérisme de Saint-John Perse (dans Anabase),</marquage>Dijon, Klincksieck, 1977.</alinea>
+      </note>
+      <note id="sdfootnote17sym">
+        <no>17</no>
+        <alinea> Saint-John Perse,<marquage typemarq="italique">Anabase</marquage>
+          <marquage typemarq="italique">in</marquage>
+          <marquage typemarq="italique">Œuvres Complètes</marquage>, Paris, Gallimard, Pléiade, p. 100.</alinea>
+      </note>
+      <note id="sdfootnote18sym">
+        <no>18</no>
+        <alinea> Saint-John Perse,<marquage typemarq="italique">Ibid,</marquage>p. 111.</alinea>
+      </note>
+      <note id="sdfootnote19sym">
+        <no>19</no>
+        <alinea> Charles Baudelaire, « Recueillement » in<marquage typemarq="italique">Les Fleurs du Mal,</marquage>Paris, Bookking International, 1993, p. 236.</alinea>
+      </note>
+      <note id="sdfootnote20sym">
+        <no>20</no>
+        <alinea> Gustave Flaubert,<marquage typemarq="italique">Correspondance,</marquage>Publié par Louis Conard, 1933, Copie de l’exemplaire l’Université de Californie Numérisé le 25 nov 2008 (Google books), p. 279.</alinea>
+      </note>
+      <note id="sdfootnote21sym">
+        <no>21</no>
+        <alinea> Gustave Flaubert<marquage typemarq="italique">in</marquage>
+          <marquage typemarq="italique">Oeuvres Complètes, Correspondance</marquage>,deuxième série (L. Conard ed.), Paris, 1910 pp. 407 (c’est nous qui soulignons).</alinea>
+      </note>
+      <note id="sdfootnote22sym">
+        <no>22</no>
+        <alinea> « L’éléphant », note Burton, également dans le sens de<marquage typemarq="italique">l’éléphant dans le noir</marquage>dans le poème de Rumi où quatre curieux veulent apprendre ce qu’est un éléphant à tâtons dans le noir. D’où cette idée d’un « <marquage typemarq="italique">Half Reasoner </marquage>», penseur partiel. La vie doit donc se lire comme l’éléphant de la parabole, dans son intégralité, du début à la fin. Sa nature de<marquage typemarq="italique">Commedia</marquage>sera alors évidente, où tous maux sont surpassés par le Bien. Idries Shah donnera cette définition de l’éléphant « Dermis Probe », pachyderme, mais aussi, « sonde tactile » comme le chercheur à tâton. Le logo de la maison d’édition « The Overlook Press » qui éditera le roman<marquage typemarq="italique">Kara Kush</marquage>d’Idries Shah se trouve un éléphant dans un cercle, symbole du tout.</alinea>
+      </note>
+      <note id="sdfootnote23sym">
+        <no>23</no>
+        <alinea> Richard Burton,<marquage typemarq="italique">The Kasîdah of Haji Abdu el Yezdi,</marquage>London, The Octagon Press, 2004, p. 39. « Tu pleures sur la « Cruauté des choses », ce grand mystère à l’œil aveugle / Qui fixe un seul point dans l’espace manque tout du projet général : / regarde le Mammouth s’en est allé, rien qu’un souvenir et nom / Quand celui qui résonne à tâtons a survécu pour réclamer sa place et son rang ». </alinea>
+      </note>
+      <note id="sdfootnote24sym">
+        <no>24</no>
+        <alinea> Voir Ahmed Bouyerdene Abd-el-Kader,<marquage typemarq="italique">L’Harmonie des contraires</marquage>, Paris, Seuil, 2008.</alinea>
+      </note>
+      <note id="sdfootnote25sym">
+        <no>25</no>
+        <alinea> Emir Abd-el-Kader<marquage typemarq="italique">in</marquage>Michel Lagarde (ed)<marquage typemarq="italique">Le Livre des Haltes</marquage>(Kitâb al Mawaqif), Halte 358, vol 3, Brill, 2002, p. 322.</alinea>
+      </note>
+      <note id="sdfootnote26sym">
+        <no>26</no>
+        <alinea> “As stand we percht on point of Time, betwixt the two Eternities,/ Whose awful secrets gathering round with black profound oppress our eyes./’ « Comme nous tenons en équilibre sur un seul point du Temps, entre les deux Eternités / Dont les affreux secrets se rassemblent en obscurité profonde à nos yeux »</alinea>
+      </note>
+      <note id="sdfootnote27sym">
+        <no>27</no>
+        <alinea> Richard Burton,<marquage typemarq="italique">Ib</marquage>
+          <marquage typemarq="italique">id,</marquage>p. 35. « Il n’y a pas de Bien il n’y a pas de Mal ; ce sont les rêves d’une volonté mortelle / Ce qui me fait du bien je l’appelle bien, ce qui me blesse et me fait souffrir je le tiens pour mal : // Ils changent selon le lieu, sont déplacés par les races ; et dans le cours même du Temps / Chaque Vice a porté la couronne de la Vertu ; tout Bien a été banni comme un pêché ou un Crime : // Comme les soies de l’écheveau ils se croisent et s’enlacent, comme l’un à l’autre se connecte se mêle : /Et seul Khizr [le prophète Elijah avait noté Burton, symbole du soufi dans la sourate du Coran « La Caverne »] ses yeux verront où l’un commence ou l’autre finit ». </alinea>
+      </note>
+      <note id="sdfootnote28sym">
+        <no>28</no>
+        <alinea> T. S. Eliot, “The Love Song of J. Alfred Prufrock<marquage typemarq="italique">’</marquage>
+          <marquage typemarq="italique">in</marquage>T. S. Eliot, P. Leyris (trad, ed.)<marquage typemarq="italique">La Terre Vaine et Autres Poèmes,</marquage>Paris, Seuil, 1976, p. 10. / « Oh ne demande pas “qu’est-ce que c’est / Allons-y et visitons’ ».</alinea>
+      </note>
+      <note id="sdfootnote29sym">
+        <no>29</no>
+        <alinea> Richard Burton,<marquage typemarq="italique">Ibid,</marquage>p. 7 : « L’auteur asserte que Misère et Bonheur sont également divisés et distribués dans le monde./ Il fait du développement Personnel, avec un dû respect envers l’autre, l’objectif nécessaire et suffisant de la vie humaine. / Il suggère que les affections, les sympathies et le « divin don de miséricorde sont les plus hauts plaisirs de l’Homme. / Il défend la suspension du jugement, avec une certaine suspicion envers les « faits », la plus lasse des superstitions./ Finalement, bien que destructeur en [et envers NdT] apparence, il est essentiellement reconstructeur ».</alinea>
+      </note>
+      <note id="sdfootnote30sym">
+        <no>30</no>
+        <alinea> Helen Gardner, cité dans Richard Badenhausen,<marquage typemarq="italique">T. S. Eliot and the art of collaboration</marquage>
+          <marquage typemarq="italique">,</marquage>Cambridge(UK), Cambridge University Press, 2004, p. 183/ Cité aussi dans T. S. Eliot, Pierre Leyris (ed. trad.) Paris, Seuil, 1976, p. 94.</alinea>
+      </note>
+      <note id="sdfootnote31sym">
+        <no>31</no>
+        <alinea> Saint John Perse,<marquage typemarq="italique">Allocution au banquet Nobel</marquage>, 1960<marquage typemarq="italique">in</marquage>
+          <marquage typemarq="italique">Oeuvres complètes,</marquage>Paris, Gallimard, Pléiade, 1972, pp. 445-446.</alinea>
+      </note>
+      <note id="sdfootnote32sym">
+        <no>32</no>
+        <alinea> Mary Karr<marquage typemarq="italique">in</marquage>T.S. Eliot, Mary Karr (ed),<marquage typemarq="italique">The Waste Land and other writings,</marquage>NYC, The modern Library, 2001, p. xiv.</alinea>
+      </note>
+      <note id="sdfootnote33sym">
+        <no>33</no>
+        <alinea> On sait d’après ses interviews autour de<marquage typemarq="italique">Pulp Fiction</marquage>que Tarantino joue avec les clichés et leur rupture. Ce contraste produit un puissant effet artistique, comme en poésie par ailleurs, et Tarantino l’utilise surtout pour donner du souffle à ses films.</alinea>
+      </note>
+      <note id="sdfootnote34sym">
+        <no>34</no>
+        <alinea> C’est-à-dire le nom qu’on donne aux personnes trouvées aux États-Unis, le pendant masculin étant John Doe.</alinea>
+      </note>
+      <note id="sdfootnote35sym">
+        <no>35</no>
+        <alinea> Yves Bonnefoy, « Anti-Platon I»<marquage typemarq="italique">in</marquage>
+          <marquage typemarq="italique">Poèmes Paris</marquage>, Gallimard, Poésie, 1982, p. 33.</alinea>
+      </note>
+      <note id="sdfootnote36sym">
+        <no>36</no>
+        <alinea> Thomas Stearns Eliot, Pierre Leyris (éd), « The Love Song of J. Alfred Prufrock »<marquage typemarq="italique">in</marquage>
+          <marquage typemarq="italique">La Terre Vaine et autres poèmes,</marquage>Paris, Seuil, 1976, p. 14. « Est-ce que j’ose / Déranger l’Univers? / Dans une minute il y a du temps / pour des décisions et des révisions qu’une minute renversera / Car je les ai tous connus, déjà, tous connus / J’ai connu les soirs, les matins et les après-midis /j’ai mesuré ma vie dans une cuillère à café ; ».</alinea>
+      </note>
+      <note id="sdfootnote37sym">
+        <no>37</no>
+        <alinea> Maurice Bouchor,<marquage typemarq="italique">Le Chant de Vishnou</marquage>
+          <marquage typemarq="italique">.</marquage>
+          <marquage typemarq="italique"/>
+          <marquage typemarq="italique">Les Symboles</marquage>, Paris, G. Charpentier et Cie, [1888], p. 118.</alinea>
+      </note>
+      <note id="sdfootnote38sym">
+        <no>38</no>
+        <alinea> François Villon, « Ballade des menus propos »<marquage typemarq="italique">in</marquage>Villon, Dufournet (ed),<marquage typemarq="italique">Poésies</marquage>, Paris, Flammarion, 1984, p. 302.</alinea>
+      </note>
+      <note id="sdfootnote39sym">
+        <no>39</no>
+        <alinea> Voir par exemple : Dehaene S, Changeux JP.<marquage typemarq="italique">On going spontaneous activity controls access to consciousness: a neuronal model for inattentional blindness</marquage>. PLoS Biol. 2005 May;3(5):e141. Epub 2005 Apr 12 ou encore Dehaene S, Changeux JP, Naccache L, Sackur J, Sergent C.<marquage typemarq="italique">Conscious, preconscious, and subliminal processing: a testable taxonomy</marquage>Trends Cogn Sci. 2006 May;10(5):204-11. Epub 2006 Apr 17.</alinea>
+      </note>
+      <note id="sdfootnote40sym">
+        <no>40</no>
+        <alinea> Voir par exemple : Lutz A, Lachaux JP, Martinerie J, Varela FJ,<marquage typemarq="italique"/>
+          <marquage typemarq="italique">Guiding the study of brain dynamics by using first-person data: synchrony patterns correlate with ongoing conscious states during a simple visual task,</marquage>Proc Natl Acad Sci U S A. 2002 Feb 5;99(3):1586-91, Epub 2002 Jan 22. Natalie Depraz, Francisco J. Varela, Pierre Vermersch,<marquage typemarq="italique">On becoming aware: a pragmatics of experiencing</marquage>
+          <marquage typemarq="italique">Volume 43 de Advances in consciousness research</marquage>John Benjamins Publishing Company, 2003 et aussi Francisco J. Varela, Evan Thompson, Eleanor Rosch<marquage typemarq="italique">The embodied mind: cognitive science and human experience</marquage>Cambridge (MA), MIT Press, 1992.</alinea>
+      </note>
+      <note id="sdfootnote41sym">
+        <no>41</no>
+        <alinea> T. S. Eliot, « Four<marquage typemarq="italique"/>Quartets <marquage typemarq="italique">»</marquage>
+          <marquage typemarq="italique">in</marquage>
+          <marquage typemarq="italique">op cit</marquage>. p. 166 : « Être conscient ce n’est pas être dans le temps ».</alinea>
+      </note>
+      <note id="sdfootnote42sym">
+        <no>42</no>
+        <alinea> Henri Bergson,<marquage typemarq="italique">La Pensée et le Mouvant</marquage>(Maël Lemoine ed.), Paris, Bréal, 2002, p. 116.</alinea>
+      </note>
+      <note id="sdfootnote43sym">
+        <no>43</no>
+        <alinea> Charles Baudelaire,<marquage typemarq="italique">Les Fleurs du Mal</marquage>,<marquage typemarq="italique">op. cit</marquage>., p. 151.</alinea>
+      </note>
+      <note id="sdfootnote44sym">
+        <no>44</no>
+        <alinea> Charles Baudelaire.<marquage typemarq="italique">Oeuvres complètes de Charles Baudelaire,</marquage>Feli Gautier ed., Paris, NRF, [1928] Copie de l’exemplaire l’Université du Michigan Numérisé le 11 juin 2007 (google books), p. 17</alinea>
+      </note>
+      <note id="sdfootnote45sym">
+        <no>45</no>
+        <alinea> Voir Idries Shah,<marquage typemarq="italique">The Dermis Probe</marquage>, Cape, 1970.</alinea>
+      </note>
+      <note id="sdfootnote46sym">
+        <no>46</no>
+        <alinea> Khaled Bentounès,<marquage typemarq="italique">Thérapie de l’Âme</marquage>, Paris, Albin Michel, éditions Alphéé, [2009], p. 75.</alinea>
+      </note>
+      <note id="sdfootnote47sym">
+        <no>47</no>
+        <alinea> Saint-John Perse,<marquage typemarq="italique">Anabase</marquage>in<marquage typemarq="italique">Oeuvres complètes(Pléiade),</marquage>Paris, Gallimard, 1972, p. 94.</alinea>
+      </note>
+      <note id="sdfootnote48sym">
+        <no>48</no>
+        <alinea> Saint-John Perse,<marquage typemarq="italique">Ibid</marquage>. p. 106.</alinea>
+      </note>
+      <note id="sdfootnote49sym">
+        <no>49</no>
+        <alinea> Idries Shah, « La Poche Magique » in « l’art que personne ne possède » in<marquage typemarq="italique">Chercheurs de Vérité</marquage>(trad. Jean Néaumet), Paris, Albin Michel, [1984].</alinea>
+      </note>
+      <note id="sdfootnote50sym">
+        <no>50</no>
+        <alinea> Algernon Charles Swinburne, ’’<marquage typemarq="italique">On the Death of Richard Burton’’ in</marquage>
+          <marquage typemarq="italique">George Lafourcade La Jeunesse de Swinburne (1837-1867)</marquage>, Paris, Les Belles Lettres, 1928, p. 191. « Une âme plus grande que l’état le monde / dont l’éloge faisait de l’amour pour lui une fierté / quelle part ont le temps et la mort dans son celui / qui traversa comme un dieu les épisodes de la vie ? »</alinea>
+      </note>
+      <note id="sdfootnote51sym">
+        <no>51</no>
+        <alinea> Langston Hughes,<marquage typemarq="italique">The Negro Speaks of Rivers</marquage>in David Ernest Roessel (ed), Poems Knopf, 1999.</alinea>
+      </note>
+      <note id="sdfootnote52sym">
+        <no>52</no>
+        <alinea>
+          <marquage typemarq="italique"> Disgragzione dell’io</marquage>,. Voir le roman Luigi Pirandello, Giancarlo Mazzacurati (ed)<marquage typemarq="italique">Uno, Nessuno e Centomila,</marquage>Turin, Einaudi, 1994.</alinea>
+      </note>
+      <note id="sdfootnote53sym">
+        <no>53</no>
+        <alinea> William James,<marquage typemarq="italique">Principles of Psychology,</marquage>[1890], ch. 10. « À proprement parler, un homme a autant de mois sociaux qu’il y a d’individus pour le reconnaître. »</alinea>
+      </note>
+      <note id="sdfootnote54sym">
+        <no>54</no>
+        <alinea> Alexander Pope,<marquage typemarq="italique">Essay on Man</marquage> , Amsterdam, Evert Duyckinck, 1817, p. 58.</alinea>
+      </note>
+      <note id="sdfootnote55sym">
+        <no>55</no>
+        <alinea> François Villon,<marquage typemarq="italique">Le débat du cœur et du corps de Villon,</marquage>
+          <marquage typemarq="italique">in</marquage>
+          <marquage typemarq="italique">Op. Cit</marquage>p. 194.</alinea>
+      </note>
+      <note id="sdfootnote56sym">
+        <no>56</no>
+        <alinea> T S. Eliot, Ibid, p. 110 : « Nous sommes les homes creux ».</alinea>
+      </note>
+      <note id="sdfootnote57sym">
+        <no>57</no>
+        <alinea> Cheikh Alawi (Ahmed Benalioua),<marquage typemarq="italique">Extraits du Diwan,</marquage>Paris, les Amis de l’Islam, 1984, p. 8.</alinea>
+      </note>
+      <note id="sdfootnote58sym">
+        <no>58</no>
+        <alinea> T. S. Eliot,<marquage typemarq="italique">Ibid</marquage>, p. 110 : « Nous sommes les homes de paille ».</alinea>
+      </note>
+      <note id="sdfootnote59sym">
+        <no>59</no>
+        <alinea> T. S. Eliot, “Ash Wednesday’<marquage typemarq="italique">in</marquage>
+          <marquage typemarq="italique">Ibid</marquage>,p. 134 : « Où trouvera-t-on le verbe, et où le verbe / résonnera? Pas ici, il n’y a pas assez de silence. »</alinea>
+      </note>
+      <note id="sdfootnote60sym">
+        <no>60</no>
+        <alinea> Richard Burton,<marquage typemarq="italique">Ibid</marquage>, p. 63 : « Chercher la vérité et faire plaisir à son cœur, voilà de la vie la LOI SUPERIEURE ».</alinea>
+      </note>
+      <note id="sdfootnote61sym">
+        <no>61</no>
+        <alinea> Edgar Allan Poe, “Al Aaraaf’<marquage typemarq="italique">in</marquage>
+          <marquage typemarq="italique">Complete Poems,</marquage>NYC, Gramercy Books, [1992], p. 87 : « Ainsi à parler les amants égrainaient/ La nuit qui déclinait et déclinait sans apporter le jour. Il tombèrent : car le ciel ne laisse aucun espoir. / A ceux qui n’écoutent pas le battement de leur cœur. »</alinea>
+      </note>
+      <note id="sdfootnote62sym">
+        <no>62</no>
+        <alinea> Théodore d’Agrippa d’Aubigné, Cité par Baudelaire<marquage typemarq="italique">in</marquage>
+          <marquage typemarq="italique">Les Fleurs du Mal</marquage>, Paris, Bookking International, 1993, p. 11.</alinea>
+      </note>
+    </grnote>
+  </partiesann>
+</article>

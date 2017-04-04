@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1904ear" typeart="autre" lang="fr" ordseq="1">
+  <admin>
+    <infoarticle>
+      <idpublic scheme="doi">null</idpublic>
+      <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">
+        <descripteur>Société numérique</descripteur>
+        <descripteur>Space</descripteur>
+        <descripteur>Technology</descripteur>
+        <descripteur>Internet</descripteur>
+      </grdescripteur>
+      <nbpara>179</nbpara>
+      <nbmot>15943</nbmot>
+      <nbfig>0</nbfig>
+      <nbtabl>0</nbtabl>
+      <nbimage>0</nbimage>
+      <nbaudio>0</nbaudio>
+      <nbvideo>0</nbvideo>
+      <nbrefbiblio>0</nbrefbiblio>
+      <nbnote>0</nbnote>
+    </infoarticle>
+    <revue id="sp01868" lang="fr">
+      <titrerev>Sens public</titrerev>
+      <titrerevabr>sp</titrerevabr>
+      <idissnnum>2104-3272</idissnnum>
+      <directeur sexe="masculin">
+        <nompers>
+          <prenom>Marcello</prenom>
+          <nomfamille>Vitali-Rosati</nomfamille>
+        </nompers>
+      </directeur>
+    </revue>
+    <numero id="sp063">
+      <pub>
+        <annee>2016</annee>
+      </pub>
+      <pubnum>
+        <date typedate="publication">2016-01-04</date>
+      </pubnum>
+      <grtheme id="th">
+        <theme/>
+      </grtheme>
+    </numero>
+    <editeur>
+      <nomorg>Département des littératures de langue française</nomorg>
+    </editeur>
+    <prod>
+      <nomorg>Sens public</nomorg>
+    </prod>
+    <prodnum>
+      <nomorg>Sens public</nomorg>
+    </prodnum>
+    <diffnum>
+      <nomorg>Sens public</nomorg>
+    </diffnum>
+    <histpapier>
+      <alinea>néant</alinea>
+    </histpapier>
+    <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
+    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+  </admin>
+  <liminaire>
+    <grtitre>
+      <titre>What is editorialization?</titre>
+    </grtitre>
+    <grauteur>
+      <auteur id="spAuthor850">
+        <nompers>
+          <prenom>Marcello</prenom>
+          <nomfamille>Vitali Rosati</nomfamille>
+        </nompers>
+      </auteur>
+    </grauteur>
+    <grmotcle lang="fr">
+      <motcle>focus</motcle>
+      <motcle>Monde numérique</motcle>
+      <motcle>Espace public</motcle>
+      <motcle>Édition, presse et médias</motcle>
+      <motcle>Technologies</motcle>
+      <motcle>Internet</motcle>
+    </grmotcle>
+  </liminaire>
+  <corps>
+    <section1>
+      <titre2>Introduction</titre2>
+      <para>
+        <alinea>This paper is the result of eight years of work on the concept of editorialization that was done in the context of the international seminar “[Écritures numériques et éditorialisation-&gt;http://seminaire.sens-public.org]’, which I have been co-organizing with Nicolas Sauret since 2008. The definition of editorialization that has emerged has been collaborative, and I owe my reflections to a very large group of scholars. In particular, I will name Gérard Wormser and the network of<marquage typemarq="italique">Sens public</marquage>, Nicolas Sauret, Yannick Maignien, Louise Merzeau, Michael Sinatra, Anne-Laure Brisac, Carole Dely and Roberto Gac.</alinea>
+      </para>
+      <titre2>A History of the term</titre2>
+      <para>
+        <alinea>The word “editorialization’, in the sense that I use it, is a neologism in English. It comes from the French<marquage typemarq="italique">éditorialisation</marquage>. In English the word is a derivative of editorialize, which means – according to most dictionaries<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>– “to express an opinion in the form of an editorial’ or “to introduce opinion into the reporting of facts’. In French the word has acquired a broader meaning and is related in particular to digital culture and to digital forms of producing knowledge. This shift in meaning, from an idea that denotes the expression of opinion to one that suggests the production of knowledge in the digital age, is actually quite useful and not particularly problematic; as we will see, the digital version of the term retains its association with the notion of opinion in that it refers to the production of content that expresses a kind of opinion or that offers a better way to see or interpret the world.</alinea>
+      </para>
+      <para>
+        <alinea>A resematisation of this concept can also be very useful as a way of interpreting and understanding the structure of digital space and the forms of authority that are found in it. More than a simple concept, editorialization is a comprehensive theory. Before exploring the meaning of the term and the theoretical framework it sets, though, it is necessary to provide some history of the word in the French research community.</alinea>
+      </para>
+      <para>
+        <alinea>Since 2007, the word<marquage typemarq="italique">éditorialisation</marquage>has been used more and more in French, but it is sometimes very difficult to understand precisely the sense in which scholars have used the term, and even more difficult to track its usage during the last ten years. In 2004, Brigitte Guyot<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi>used the term to refer to both the devices that enable mediation between information and those who use it and to the process itself. She writes (I translate):</alinea>
+      </para>
+      <bloccitation>
+        <alinea>
+          <para>
+            <alinea>When a mediation device is involved in the first relationship between a piece of information and the one who uses it, an organizational order appears. There is a construction, an “editorialization’ that introduces mediation, but also a distance that is produced by the fact that an intellectual system is created (all the operations of translation and interpretation) and an organizational system (which manages accessibility and relationship modalities).</alinea>
+          </para>
+        </alinea>
+      </bloccitation>
+      <para>
+        <alinea>In this signification, editorialization becomes almost a synonym of “mediation’. The problem is that, in the formulation of Guyot, one could make the mistake of imagining that a non-mediated relationship with information is possible – which is clearly not the case, as the work of McLuhan and his disciples in media studies made clear. The fact that Guyot’s use of the word is problematic is also demonstrated by the fact that she removed it from the final version of her 2004 paper<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Bruno Bachimont outlined the concept of editorialization for the first time in 2007, in a chapter of the book<marquage typemarq="italique">L’indexation multimédia</marquage>entitled “Nouvelles tendances applicatives: de l’indexation à l’éditorialisation<marquage typemarq="italique">’</marquage>. In this text, Bachimont discusses the move towards indexation in what he refers to as “editorialization’ (I translate):</alinea>
+      </para>
+      <bloccitation>
+        <alinea>
+          <para>
+            <alinea>The central idea of this article is that digital content indexing introduces a new relationship between content and document. While in traditional indexing the challenge is to find the document containing the information that is sought, digital content indexing enables the finding of segments involved in the search for information and configures these segments. If the document is present in the search results in traditional indexing and searching, it is not the same in digital indexing. In the former type of indexing, the segments can dissociate from the content from which they are derived, losing their origin and documentary nature. By becoming resources, these segments are remobilized for the production of other content. The goal is no longer to find documents but to produce new ones using available resources. One thus moves away from indexing for research in favor of indexing for publication. Since the latter is carried out according to certain standards and norms, editorialization enables indexed segments to be enlisted in the editorial process for new publications<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>.</alinea>
+          </para>
+        </alinea>
+      </bloccitation>
+      <para>
+        <alinea>The concept of editorialization here serves to describe an editorial activity that is based on the indexed fragments of a document. Bachimont employs editorialization to explain an important shift: that of a non-digital document to a digital document. This shift consists of a transfer of information that is restructured in order to be adapted to a digital environment.</alinea>
+      </para>
+      <para>
+        <alinea>The term is thus related to digital environments and is used to explain the necessity of adapting non-digital content to digital support. Bachimont’s use of the word implies the following characteristics:</alinea>
+      </para>
+      <elemliste>
+        <alinea>A deep link between editing activity and the practice of producing content in the digital realm.</alinea>
+      </elemliste>
+      <elemliste>
+        <alinea>An element of fragmentation in the digital production of content.</alinea>
+      </elemliste>
+      <elemliste>
+        <alinea>The necessity of recontextualisation to adapt non-digital content to a digital environment.</alinea>
+      </elemliste>
+      <para>
+        <alinea>Due to increasing digital editorial activity in recent years, the concept has had great success and has been employed by many scholars and many actors in digital publishing. In particular, in 2008, Gérard Wormser, the director of<marquage typemarq="italique">Sens public</marquage>, began using “editorialization ’ to characterize the very peculiar activity of the journal and its network. One of the purposes of the research developed in<marquage typemarq="italique">Sens public’</marquage>s<marquage typemarq="italique"/>network was – and still is – to study the impact of digital technology on the circulation of knowledge. This study was both theoretical and practical: it was the topic of many papers published in the journal, and it was also at the center of the very organization of the journal.<marquage typemarq="italique">Sens public</marquage>was born in 2003 with the goal of renewing intellectual and academic exchanges for the purposes of taking advantage of the network possibilities produced by the web.<marquage typemarq="italique">Sens public</marquage>is thus not only a journal but a network of individuals scattered across the globe, a thematic network – sometimes with differing interests – a network of ideas and practices<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>. The concept of editorialization seems to be the most accurate way of describing what has happened at<marquage typemarq="italique">Sens public</marquage>. In 2008, it was clear that the process of edition – in the sense that it is used in traditional academic journals – was indeed happening at<marquage typemarq="italique">Sens public</marquage>, yet not everything being done could be described as edition, at least not in the traditional sense of the term. One cannot, for instance, discuss digital publishing without addressing the differences between printed and digital practices, and these differences must somehow be thoroughly addressed. At the same time, the particular role of the network of individuals behind the journal was very different from the network of an editorial board.</alinea>
+      </para>
+      <para>
+        <alinea>Editorialization, first and foremost, addresses these differences: it consists in editorial practices that cannot be lumped together with what we generally refer to as “editing’.</alinea>
+      </para>
+      <para>
+        <alinea>In order to structure the work on the new forms of production and circulation of knowledge in the digital environment, Gérard Wormser and I established, in 2008, a research laboratory at the Maison des sciences de l’homme Paris-Nord. The name Wormser proposed for the laboratory was: “Pratiques interdisciplinaires et circulation du savoir: vers une éditorialisation des SHS’ (Interdisciplinary practices and the circulation of knowledge: towards an editorialization of Human and social sciences).</alinea>
+      </para>
+      <para>
+        <alinea>In our request for the establishment of the MSH laboratory, we wrote (I translate):</alinea>
+      </para>
+      <bloccitation>
+        <alinea>It is important to understand how the aesthetics of new media and cognitive technologies are redefining practices and to share the outcomes of this transformation. Thus the concept of editorialization may be characterized by: the articulation of content production, technical and communicative factors, and the dynamics of contemporary exchanges in the humanities. This question branches across a range of accessible media and all of their records: accessibility, objectivity, legibility, comprehensiveness, tone, document structuring, links … How should we think about the encyclopedia of digital knowledge?</alinea>
+      </bloccitation>
+      <para>
+        <alinea>By re-appropriating the term editorialization we provided it with a broader definition so that it described any digital editorial activity as well as any activity that is native to digital space. Two aspects of our re-appropriation of the term were derived from Bachimont’s initial definition:</alinea>
+      </para>
+      <elemliste>
+        <alinea>The fact that the digital editorial gesture has its own specificity: techniques condition the structuring of thought.</alinea>
+      </elemliste>
+      <elemliste>
+        <alinea>The fact that there is a fragmentation of the editorial gesture in digital space: there is a complex relationship between fragment and fragment rearrangement in units of meaning.</alinea>
+      </elemliste>
+      <para>
+        <alinea>Moving from these aspects, the concept began to take on a broader meaning: it was a notion that could help illuminate how knowledge is produced in the digital age in general. This shift to a broader meaning coheres with the cultural implication of the word “digital’. If “the digital’ is not only about tools but in fact refers to a whole cultural environment, as Milad Doueihi shows in his<marquage typemarq="italique">Digital Cultures<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>
+          </marquage>then editorialization – the way of producing contents in digital environments – must have a cultural dimension as well. In other words, the difference between edition and editorialization is not only a difference of tools; rather, it signifies a broader cultural difference: editorialization is not the way we produce knowledge using digital tools; it is the way we produce knowledge in the age of the digital, or, better, in digital society.</alinea>
+      </para>
+      <para>
+        <alinea>Since 2008 the term has been used increasingly in France and in the francophone research community. Gérard Wormser, Nicolas Sauret, Anne-Laure Brisac and I created a permanent international workshop (Écritures numériques et éditorialisation: Digital Writing and Editorialization) to which – over the years – most of the scholars working on the topic have contributed, and the term editorialization has become an institutional concept. In April 2015, Jérôme Valluy completed an almost exhaustive bibliographical work on the term, finding more then seventy academic papers that had used it<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Still, in spite of its success, the term’s exact meaning has not yet been well defined. I will propose here an analysis of the different meanings of editorialization and examine their relationships.</alinea>
+      </para>
+      <titre2>What is editorialization?</titre2>
+      <para>
+        <alinea>We can identify three different definitions of editorialization: a restrictive definition, a more general definition<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi>, and a third definition that tries to combine the first two.</alinea>
+      </para>
+      <para>
+        <alinea>According to a restrictive definition, editorialization is the set of technical devices (networks, servers, platforms, CMS, algorithms of search engines), structures (hypertext, multimedia, metadata), and practices (annotation, comments, recommendations via social networks) that produce, organize, and enable the circulation of content on the web<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi>. In other words, editorialization is the process of producing and diffusing content in a digital environment. We could say that, in this sense, editorialization is what edition becomes under the influence of digital technologies. Obviously, this has an impact on the content itself: the concept of editorialization tries to stress how technology shapes content. Defined in this way, one could say, editorialization can be assimilated to content curation, or digital curation – which is the process of organizing content in a particular digital environment. But there is a crucial difference: the concept of editorialization has a cultural dimension that is not present in content curation. In fact, content curation is the practice of collecting, organizing, and displaying content in a particular environment. This puts the emphasis on a set of competencies that are necessary for the realization of good curation. On the contrary, editorialization refers to how tools, emerging practices,<marquage typemarq="italique">and</marquage>the structures determined by the tools engender a different relationship to the content itself. We could say that curation is the action of a specific individual or defined group, whereas editorialization refers to the ways this action is shaped by the characteristics of the digital environment. We should underline that these characteristics are not only technical but cultural.</alinea>
+      </para>
+      <para>
+        <alinea>Let us consider an example in order to better grasp this first definition. Imagine we have medical information about a particular disease – let us say, avian influenza. We have a description of the disease and a history of it, we have data about the pandemic, we have the list of the influenza’s types, we have statistics about mortality, and we have advice for people to prevent the contamination. The Canadian government could decide to create a platform to provide citizens with this information. For this purpose, a group of experts could curate all this content: they would edit the texts and adapt them to the target public, they would chose a way to display the data (graphics, tables, etc.), they would structure the platform and work on its ergonomics, and possibly they would create Twitter and Facebook accounts to promote the platform and to communicate information about it. All these actions fall into the category of what we would call curation. This platform would have users; they would interact with it, they would comment on its information, and possibly they would relay content on their social networks. They would likely reuse some of the information on other platforms, and they would post the link of the platform on other sites. The platform would be indexed by search engines, and algorithms would rank it in order to put it on a hierarchical list. The platform would occupy a particular position on the web: a symbolic position – less or more visible, or important, or reliable. These aspects would evolve over a course of days and weeks and months and years. This is editorialization. The accumulation of all these elements shapes content and gives it its meaning. We could say that curation is a part of editorialization and that editorialization is the whole process, that it takes into account everything that is involved in the production of the cultural meaning of content.</alinea>
+      </para>
+      <para>
+        <alinea>Thus editorialization shapes and structures content in a way that is not limited to a closed, well-defined context (such as a journal) or a group of predetermined individuals (editors and publishers). It involves an opening up of space (several platforms) and time (several different editors unbound by deadlines). This opening up is one of the key differences between curation and editorialization. It is also what distinguishes editorialization from edition.</alinea>
+      </para>
+      <para>
+        <alinea>The opening up of editorialization in relation to printed editing involves a certain loss of control on the part of the writer/editor/publisher with respect to content. The writer/editor/publisher become only part of an editorial process that has itself become much larger in scope.</alinea>
+      </para>
+      <para>
+        <alinea>Let us consider another example: the publication of an academic paper. The editorial team of an online journal works on the editing of the paper and publishes it. They correct the text, format it, mark it up (in html or xml, for instance), edit metadata, and finally publish it on the journal platform. This work is quite the same as traditional printed editing. But in the digital environment this is only the beginning of the process. The life of the paper, its visibility, and its circulation depend on a more complex structure, which involves comments, citations, re-use (including plagiarism), and indexation. For example, if Google puts the paper on the top of a results list, this is an important development that is comparable to the paper being put on the cover of a printed journal and the journal being placed in the window of a bookshop. We could say that there are uncontrolled aspects for the printed edition as well – being put in a bookshop window, for instance, is not the choice of the writer/editor/publisher – but the degree of control has clearly changed in digital space.</alinea>
+      </para>
+      <para>
+        <alinea>The obvious limitation of this first definition is that it considers the digital environment as a discrete, separated space. In this sense it is a web-centered definition that does not take into consideration the fluidity that exists between digital and pre-digital space<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>The second definition is an extension of the first and is based on the assumption that digital space determines an overlapping and ultimately a fusion between discourse and reality. I will explain this idea in detail later, but for the moment it is sufficient to understand it in its basic outlines: in the digitally connected world, to exist is to be editorialized. In digital space, an object must be connected and positioned in order for it to exist. For example, for a restaurant to exist, it has to be on TripAdvisor or on GoogeMaps or on some other platform that gives it a position and makes it visible and comprehensible. In order for a person to exist in digital space, s/he has to be a profile on Facebook or on Twitter or on Linkedn or on some other platform that classifies or makes the person visible. Editorialization is the condition for this existence. Now, if this is true, editorializing means not only producing content but also producing reality itself. According to this very broad definition, editorialization is a set of collective forms of negotiating reality. In other words, editorialization is the set of our social practices that lead us to understand, to organize, and to judge the world. The fact that the space we live in is digital space suggests that all these practices take place in digital space, which means that every practice tending towards the understanding, the organization, or the judgment of the world is an act of editorialization.</alinea>
+      </para>
+      <para>
+        <alinea>The problem with this second definition is that it is too general and too broad. It is difficult to imagine something that, in this broader sense, is not editorialization. This definition therefore risks being meaningless because it is too global. Further analysis shows us, though, that these two definitions can be fused to create a more efficient and operational definition. We can take all the acts of structuring content online – on the web or on other forms of the connected environment, like mobile apps – and consider these acts in their function of shaping our whole reality. In this sense, we can define editorialization as a set of individual and collective actions that take place in a digital online environment and that aim to structure the way we understand, organize, and judge the world. These actions are shaped by the digital environment in which they take place, and so editorialization, as the first definition makes clear, takes into account not only what people do but also how their actions are shaped and oriented by a particular environment. It is important to stress that, if we consider the word digital in a cultural sense, digital space is our primary space, the space in which we live. With this in mind, we can make a distinction between various digital environments – for instance, the web or some other form of connected environment – and digital space as a hybridization of these environments with the totality of our world. These considerations allow us to further modify our definition and to arrive at a final one:</alinea>
+      </para>
+      <para>
+        <alinea>Editorialization is the set of dynamics that produce and structure digital space. These dynamics can be understood as the interactions of individual and collective actions within a particular digital environment.</alinea>
+      </para>
+      <para>
+        <alinea>This definition implies three implicit aspects of editorialization that we should underline: a technological one, a cultural one and a practical one. It is crucial to understand that editorialization has a relationship with a “particular digital environment’, which means that editorialization is somehow related to specific technologies. The term editorialization was created in part as a way of understanding the impact of technology on the production of content, and certainly one aspect of editorialisation is the fact that there are certain devices, digital platforms, tools, networks, and protocols that, simultaneously, provide the context of the content and act as the elements that structure this content. This phenomenon has been studied by many scholars and defined, for example, as “affordance’<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>. The same consideration of the technological impact on content can be made for all content production and circulation technologies<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi>. The digital environment is prescriptive in the sense that it determines the form of the content it can host. Which means that the technological dimension is crucial for editorialization. At the same time, editorialization should not be reduced to a question of technology.</alinea>
+      </para>
+      <para>
+        <alinea>Indeed, there exists a very complex relationship between technology and culture, which is why the cultural dimension is also crucial to our definition of editorialization. Certainly, when trying to understand the structure of digital space, it is important to avoid falling into what has been called “technological determinism’<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi>, the view that technology’s development is something almost mechanical – a progression – that it determines cultural change. A techno-deterministic position holds that a culture is determined by the developments of its technology. In fact, though, culture and technology are bound in something like a circular relationship: the convergence of certain cultural ideas and technological advances brings about change, and this change is in turn affected by both cultural and technological elements. Or, to put it in simpler language: culture influences technology, and technology influences culture. It is quite impossible to separate these two processes. Thus editorialization also describes the ways our cultural traditions influence our ways of structuring content.</alinea>
+      </para>
+      <para>
+        <alinea>Let us now consider the example of the hypertext. The idea of hypertext existed before the development of the web. It is well known that Vannevar Bush talked about the idea in 1945<renvoi idref="sdfootnote14sym" typeref="note">14</renvoi>, that Ted Nelson later adapted Bush’s idea to informatics<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi>, and that, finally, Tim Berners-Lee was inspired by the idea when he conceived html. But we could go even further back in history to find the idea of the non-linear classification of content. It was present in the first library classification systems, in the 3rd century BC. The catalogues in the Library of Alexandria, for instance, used a key-word classification system<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi>. Without some understanding of the cultural history of non-linear classification, we will be unable to understand the hypertextual structure in its particular technological manifestation, the html.</alinea>
+      </para>
+      <para>
+        <alinea>The third element of editorialization is the practical one, which takes into account the fact that technological and cultural structures need practices in order to be actualized. Technological possibility and cultural tradition are not in themselves enough. If no one creates and uses hypertexts, then hypertexts would not exist. At the same time, practices are not simply applications of cultural and technological possibilities: practices are creative. This element underlines the crucial importance of collectivity in the editorialization process. The different forms of editorialization depend on the fact that specific actions become common – which means that groups of people begin doing them and they become practice. Consider the example of the hashtag. The action of putting a # before a word in the Twitter environment is a way of designating the word a keyword. This action was not predicted by the platform. Twitter was not conceived to manage keywords. Somebody began doing this, and then a group of people began doing the same thing, and then it became a practice. This practice obliged Twitter to adapt its platform to take into account the keyword – what we now refer to as “hashtag’. In other words, the practice influences the technology and shapes it, and – as the history of keywords clearly demonstrates – practices have a cultural background. In this way, the three aspects of editorialization – the technological, the cultural, and the practical – are merged. We can only separate them theoretically.</alinea>
+      </para>
+      <titre2>The processual nature of editorialization</titre2>
+      <para>
+        <alinea>In order to understand the peculiar nature of editorialization and to identify the characteristics that distinguish it from other forms of structuring content, we should analyze its attributes. We can list five main attributes that constitute editorialization: the processual, the performative, the ontological, the multiple, and the collective. Defining and explaining these attributes is the goal of the following pages.</alinea>
+      </para>
+      <para>
+        <alinea>First of all, editorialization is a process; more precisely, it is an open process. Editorialization is a series of actions in movement without a well-defined beginning or end. Each editorialization process is always in progress; it is always in dynamic motion. The processual nature of editorialization implies that it is very difficult to identify and isolate a single act of editorialization: every editorialization is in some way related to others, and it is impossible to sharply delimit a precise chain of actions. Let us consider the example of the publication of an academic paper. This example is very meaningful because it is similar to the printed edition and to publishing, and yet it is still very different. We could say that this example provides us with an<marquage typemarq="italique">a fortiori</marquage>argument: if we can establish that the publication of an academic paper online is an open process, then logic will dictate that all other forms of editorialization are open processes.</alinea>
+      </para>
+      <para>
+        <alinea>Publishing an academic paper in a printed journal is a process that to some extent can be defined and isolated: there is an author who writes the paper, the journal’s editorial board, probably two or three reviewers, and finally a group of people working for the publishing house that publishes the journal. We could count these people: there may be more of them (in the case of a big journal) or less (in the case of a little one), but the number will in any case be precise. The editorial process begins when the paper is proposed for publication by the author, and it ends when the journal is printed. Once the journal is printed, the paper is something that is stable and static. One could argue that the distribution of the journal, the reactions of its readers, and the number of citations it receives, etc. are also very important and should be considered as part of the editorial process. Although this is certainly true, it is also undeniable that the crucial moment of the printing signifies a discontinuity in the process: the paper will remain exactly as it appears at that moment. The specific group of people working on the publication follows the process from its beginning, when the author proposes the paper, to its end (or at least<marquage typemarq="italique">an</marquage>end), the printing.</alinea>
+      </para>
+      <para>
+        <alinea>In the case of an online paper, identifying its publication as an isolated and defined process is either more difficult or very arbitrary – not to say impossible. Let us consider the process from the moment the author has finished the paper and proposes it for publication. (We will set aside the writing phase, for the moment.) The beginning of the process is quite similar to the publication of an academic paper in a printed journal: there is an editorial board that is well-defined and composed of a precise number of persons, probably two or three reviewers, and a group of people who format the paper and publish it on the online platform. But the process is not finished at this point. First of all, the place the paper occupies is not yet decided. In a printed journal, the editor would decide where the paper will appear: in what position in the journal, on what pages, whether it will be on the cover or not. For an online paper, its position – and ultimately its meaning – depends on a set of factors that are external to the editorial group: the position it will occupy on a search engine results list, for instance. If, in the printed publication, relationships between different papers are proposed by the editor – who has purposely put certain material together in the same printed journal – in the case of an online paper, the relationships are created by other platforms, which aggregate the contents. For instance, Muse will index the paper and place it on key-words-based lists. The paper could be quoted and cited on several networks, perhaps Twitter or Academia, and a conversation about it could take place within the online community. Of course, the same structure of diffusion and commentary existed for the printed papers, but in the digital environment these structures become a part of the paper itself because they exist in the very same space of the paper. In the printed journal, following Genette’s analysis<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi>, one could distinguish between the text and the epitext because the epitext belonged to another space –another book or another journal. In the case of a digital paper, however, the commentary, the results list, and the social network recommendation are all in the same space: on the web. They become a part of the paper. Moreover, the paper is not fixed: one can change it very easily. The printed paper is impossible to change – unless one produces a second edition. The digital paper can be easily changed, and it can also be copied and re-used in other contexts. Even if the editor tries to limit these kinds of practices, they are part of the very nature of digital environment: copying demands no effort and thus becomes a common practice. The paper can be present in different forms in different places. For example, the practice of publishing a version of a paper for an institutional archive is more and more accepted. The life of the paper continues after the end of the editors’ work, and the editors have no more power to control it. The editorial process is open in space and in time: in space because it is not limited to a specific platform or to a specific group of persons – as was the case with the printed version; and in time because there is no single moment when the movement of the paper stops – as there is with the moment of printing.</alinea>
+      </para>
+      <para>
+        <alinea>In fact, even the beginning of the process – the writing phase – is more open. For instance, the author may have a blog, and the work on the paper could start with a first intuition written on a blog post. The author could then receive comments from colleagues or friends or readers, reading suggestions and other information, and further discussion: the work of writing the paper turns out to be an editorialization process as well.</alinea>
+      </para>
+      <para>
+        <alinea>The result of these developments is multi-layered instability: the journal is no longer a stable form of circulation<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi>because the access to a paper does not depend on the journal but rather on other platforms, like a search engine or a social network; and the paper becomes an instable object that can be fragmented: one can extract data from a paper and consider the data as original units that can be aggregated in many different ways<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi>. The processual nature of editorialization is thus very deeply related to the idea of fragmentation that was first underlined by Bachimont.</alinea>
+      </para>
+      <para>
+        <alinea>Certainly, these qualities to an extent characterize the printed edition as well. But again, this is in keeping with the thesis according to which there is no digital revolution, because digital culture is in continuity with pre-digital culture. The differences are more a question of degree than of quality. The cultural tendencies that we are witnessing now are tendencies that can be traced through the history of cultures. They are not completely new. The processual element that characterizes digital culture is a case in point: it is not an entirely new phenomenon, but it was less pronounced in printed culture, which insisted on the possibility of controlling a well-defined and delimited process.</alinea>
+      </para>
+      <titre2>The performative nature of editorialization</titre2>
+      <para>
+        <alinea>The concept of performativity has had an important theoretical impact in recent decades. Beginning with Austin’s work on the speech act<renvoi idref="sdfootnote20sym" typeref="note">20</renvoi>, moving on to performance studies in the field of theater<renvoi idref="sdfootnote21sym" typeref="note">21</renvoi>, and arriving at the application of performativity to the field of gender studies<renvoi idref="sdfootnote22sym" typeref="note">22</renvoi>, the definition of the concept has varied according to the context in which it has been used. For this reason, it is almost impossible to provide a definition of performance or performativity that everyone can agree on. For the purposes of this paper, performativity will be defined as the normative aspect of an action. Every action can be observed either by focusing on its determined aspect – its context, the constraints involved, etc. – or by focusing on its undecided aspect – how it is new, how it produces something that was not previously decided upon. The quality of performativity refers to the fact that a particular action produces something that was not predicted – was not predictable – before the action itself. In this sense, the notion of performativity denotes an approach to reality that does not focus on the essence of things and that rejects the paradigm of representation. I am aware that this definition is a simplification of a very complex subject, but for the purposes of this paper it is enough.</alinea>
+      </para>
+      <para>
+        <alinea>Editorialization is performative for two main reasons: first, it is a process that does not follow a pre-defined schema; and second, it does not represent reality but produces it. Editorialization is thus an open process. This is one of the main differences between editorialisation and the concept of the printed edition. The open aspect of editorialization is in sharp contrast to the printing tradition, where an established protocol has to be followed, one that is decided upon before the editing and publishing process begins. With editorialization there is no protocol, and the different steps are decided one-by-one. At the same time, a particular editorialization process can become normative, which means that it can become a model for other processes. Editorialization creates its own norms in a performative way. One may object that digital platforms predetermine the process: the act of posting photos on Facebook in some way reflects the degree to which Facebook determines behaviour and even the whole process of publication. This is obviously true, but it is also true that alternative uses of the platform remain possible and that it is sometimes very easy to get around the schema imposed by the platform. The Twitter hashtag is a clear example of the performativity of editorialization: the process takes a particular form that was not predicted, nor predictable, and this form then becomes a norm.</alinea>
+      </para>
+      <para>
+        <alinea>The other element of editorialization that places it in a performative paradigm is its operational nature. Editorialization is a performative act in the sense that it tends to operate on reality rather than represent it. We read and we write in digital space – and in particular on the web – but most of the time this reading and writing has a precise operational purpose. When we are organizing a trip and we buy plane tickets on Expedia, for instance, we are writing something – the names of the departure city and of the arrival city, a travel schedule, our preferences – and this writing aims to do something: it aims to realize the travel. The written page created on Expedia – the page where the itinerary is presented, with all the information about the journey – has a distinctly performative quality: the document itself produces the travel. One could object that this is a very specific example that is not representative of most of our reading and writing practices, but there are numerous less obvious examples of how editorialization fits a performative paradigm.</alinea>
+      </para>
+      <para>
+        <alinea>Take the example of a review on Tripadvisor. We could locate this action in a representational paradigm: the review represents the restaurant. In keeping with the paradigm, we have a signifier (the review) and a signified (the restaurant) – or, using the same paradigm, a sense and a reference<renvoi idref="sdfootnote23sym" typeref="note">23</renvoi>. But this interpretation does not truly reflect the reality of the reviewing practice. In writing a review, one<marquage typemarq="italique">produces</marquage>the restaurant. The review is a way of characterizing the restaurant: of making it more or less visible, for instance, or of deciding whether it is a fish or a meat restaurant. Writing a review means giving a particular existence to the restaurant. According to its rankings and reviews, the restaurant will take a particular position in the Tripadvisor space – in a way that is not unlike the changing of its position on a street. In order to say what the restaurant is, we must consider numerous factors, including its location (its address in the physical world), the name of its owner, and the dishes it serves, but also its position on Tripadvisor, its visibility on Google, and the collection of comments about it that can be found on online platforms. Editorialization contributes to the production of the restaurant because it is a part of its reality.</alinea>
+      </para>
+      <para>
+        <alinea>This consideration leads us to a discussion of the<marquage typemarq="italique">ontological</marquage>nature of editorialization.</alinea>
+      </para>
+      <titre2>The ontological nature of editorialization</titre2>
+      <para>
+        <alinea>Let us consider again the opposition between the representational paradigm and the performative paradigm. According to the representational paradigm, we have reality on one hand and discourse on the other: editorialization could be interpreted as a discourse on reality and therefore as a form of imitation or mimesis. This paradigm has been fundamentally important in the history of Western thought, from Plato all the way to contemporary aesthetics studies.</alinea>
+      </para>
+      <para>
+        <alinea>But in digital space reality is a sort of hybridization of connected and non-connected objects. In this sense, reality tends to identify with what Luciano Floridi calls the “infosphere’. This is Floridi’s definition of the infosphere:</alinea>
+      </para>
+      <bloccitation>
+        <alinea>Minimally, the infosphere denotes the whole informational environment constituted by all informational entities, their properties, interactions, processes, and mutual relations. It is an environment comparable to, but different from, cyberspace, which is only one of its sub-regions since the infosphere also includes offline and analogous spaces of information. Maximally, the infosphere is a concept that can also be used synonymously with reality, once we interpret the latter informationally. In this sense, the suggestion is that what is real is informational and what is informational is real<renvoi idref="sdfootnote24sym" typeref="note">24</renvoi>.</alinea>
+      </bloccitation>
+      <para>
+        <alinea>The development of the web of things is proof of this fusion of reality and the infosphere. Hybridization emerges between the platform and the book in the warehouse. From a technical perspective we cannot properly say that the uniform identifier of an object (URI, for “uniform resource identifier’) is a representation of that object. Indeed, the identifier has an operational power over the object, so that in a sense it becomes the object itself (the URI of Paris is not a representation of the city of Paris; it is the city itself). It is easy to demonstrate this thesis using the example of the distribution system: to order a book on Amazon and to receive it at home hardly requires any human action, and will in the future require less and less human action. Each product is identified by a unique identifier that can be handled on the network, and this operation directly affects the product itself. I click on a book on Amazon; a robot will search for this book in a warehouse and deposit it on a drone that will deliver it to my address. There is thus no difference between the object of the book and its URI. It is important to underline that a URI does not refer to an object as a commun name: the URI is not a generic identifier for a set of objects (like the word “book’), or a set of identical objects (the same book, available in different copies). It refers – or at least it can refer – to a particular object. In other words, a URI does not refer to “a book’ but to a particular book; it does not refer to “a copy of<marquage typemarq="italique">The 4th Revolution</marquage>by Luciano Floridi’, but to a particular copy, to the object itself.</alinea>
+      </para>
+      <para>
+        <alinea>We can take this example further. What is written about a particular object – a comment about a book posted on Amazon, for example – directly affects the object-book because the object-book shares the same space with the comments, the space of information, the space of the URI (and therefore the object itself), the comment, and the algorithm that handles the procurement and delivery.</alinea>
+      </para>
+      <para>
+        <alinea>It is therefore no longer appropriate to separate the discourse on the reality from the reality itself: the two are completely hybridized.</alinea>
+      </para>
+      <para>
+        <alinea>For these reasons, it is impossible to consider digital space from a purely aesthetic point of view: the paradigm of digital space is an operational paradigm. We do things in digital space; we do not simply<marquage typemarq="italique">look</marquage>at them. The critique that Alexander Galloway<renvoi idref="sdfootnote25sym" typeref="note">25</renvoi>directs at the work of Lev Manovich<renvoi idref="sdfootnote26sym" typeref="note">26</renvoi>is based on this principle. In<marquage typemarq="italique">The Language of New Media</marquage>, Manovich applies the paradigm of audiovisual media to interpret digital space: digital environments, he insists, must be understood as the space of screens and displays because they are something we look at. Galloway, however, points out that interfaces are not regulated by this looking structure but rather by an action structure. Cinema is about the aesthetic; digital is about action and therefore about ethics.</alinea>
+      </para>
+      <para>
+        <alinea>Let us consider some additional examples. If we look at the editorialization process of a city like Paris, for instance, we see that it would include all the digital maps of Paris (Google maps, Mappy, Openstreetmap); it would also include the trip reviews written by travelers on travel platforms such as Expedia and Tripadvisor, data on Wikipedia or Dbpedia, miscellaneous images, as well as institutional websites (the website of the City of Paris, the websites of its countless museums). When one walks in the city, one is located in an area that is produced by all these practices. To be in Paris is to be in a space in which walls, buildings, and architecture coexist with Google maps, information on restaurants, museum opening hours, and an endless variety of other narratives about the city. The city is formed by the aggregate of all these elements.</alinea>
+      </para>
+      <para>
+        <alinea>One notices the same phenomenon when looking at Facebook profiles. The Facebook algorithm takes into account the data produced by different profiles and does not consider there to be a difference between a profile and a person. A profile is a person, and as such may be the target of an advertisement or an element of a statistic – a count, for instance, of how many people like an event or how many people have studied at the University of Montreal.</alinea>
+      </para>
+      <para>
+        <alinea>Editorialization, we can therefore conclude, is a way of producing reality and not a way of representing it.</alinea>
+      </para>
+      <para>
+        <alinea>This conclusion suggests a problem: if we abandon the representational paradigm, it becomes impossible to distinguish between real and fake or truth and fiction. The logical definition of truth (Tarsky) is based on the idea of a correspondence between the signifier and the signified. According to Tarsky’s definition, “A’ is true if and only if A. For example: the sentence “it is raining’ is true if and only if it is actually raining. But this means that in order to be able to speak about truth, we must have a signifier (the sentence “it is raining’) and a signified (the actual world where it is raining). In the performative paradigm, this distinction is no longer pertinent. Which means that questions about the truth or the authenticiy of editorialization are misplaced.</alinea>
+      </para>
+      <titre2>The multiple nature of editorialization</titre2>
+      <para>
+        <alinea>The performative paradigm determines the multiple nature of editorialization: if every act of editorialization produces a reality, then reality must be multiple because there are multiple acts of editorialization. This structure raises an ontological problem, though: how can we define the essence of reality if there are many essences?</alinea>
+      </para>
+      <para>
+        <alinea>The advantage of the representational paradigm is that it is based on the idea of a unique reality that can be represented in different ways. According to this paradigm one can judge the value of a single representation by analyzing its resemblance to the original. Tarsky’s idea of truth is actually an expression of this comparison: we have the reality on the one hand, and the representation on the other, and we can check if the latter is faithful to the former. One could say that the essence of a thing is the right representation, the true one, the one that represents the thing itself most faithfully.</alinea>
+      </para>
+      <para>
+        <alinea>Abandoning the representational paradigm means confronting many different realities and not having the possibility of choosing between them. This is why editorialization produces a layered reality, a reality that is composed of several different and quite autonomous layers. And this is why the classical ontological approach is not useful for an analysis of digital space: digital space is multiple – originally multiple, one could say – and ontology seeks for an original unity. The ontological approach must be replaced by a meta-ontological approach, which means a theory that accepts an original multiplicity, the multiply-essential character of reality.</alinea>
+      </para>
+      <para>
+        <alinea>Let us look at some examples to illustrate this point. A Facebook profile, for instance, could be considered – according to the representational paradigm – as the representation of the user of whom the profile is the profile. This means that we have on the one hand a “real’ person, the user, and on the other a representation of this person, the profile. We could compare these two objects in order to understand whether the profile is “true’ or “false’, and whether it is faithful to the “original’ object. The idea beyond this paradigm is that the person has a unique essence and the profile tries to grasp this essence. The picture of the profile should thus be as close as possible to the person. The aesthetics of the Venetian Vedutismo tradition is a perfect example of this idea: a painting is only as good as it is close to reality, and the goal of a good painter is to push the resemblance to its apex.</alinea>
+      </para>
+      <para>
+        <alinea>But if we understand the online profile not as a form of representation, but rather as a kind of production of identity, we see that there can be many different identities for the same person: the Facebook profile, the Twitter profile, the blog profile, the profile defined on a platform like Amazon, the profile as it is defined by a research engine, and, finally, the person as a user, her/his cloths, etc. All these different forms create a dynamic conjuncture of circumstances that constitute identity. The person as a user is only one of many threads. The identity of Marcello Vitali-Rosati is created by my actions, what people think of me, my online profiles, the data collected on me by various platforms and algorithms, the narratives people produce about me on the web or in the university, the comments my students make about me, and so on. There is no “original’ object in all these. The reality is the superimposition and the dynamic overlapping of these multiple conjunctures. And it is actually possible – or even probable – that these conjunctures are not coherent: one can contradict the other. For instance, Marcello Vitali-Rosati can be at the same time a very good professor on the platform Ratemyprofessor.com and a very bad one according to the comments made about him on the Facebook page of the student association, a very good one in one semester and a very bad one in another. Clearly, the representational paradigm does not work here: there is not an “original’ and a representation. Instead, all the acts that produce reality are performative, and they are all original.</alinea>
+      </para>
+      <para>
+        <alinea>What does this leave us with, then? What is<marquage typemarq="italique">me</marquage>? What is the essence? In fact, there is no single essence but rather<marquage typemarq="italique">multiple</marquage>essences. If ontology is the science of the essence, then meta-ontology<renvoi idref="sdfootnote27sym" typeref="note">27</renvoi>is the ontology of multiple essences.</alinea>
+      </para>
+      <titre2>The collective nature of editorialization</titre2>
+      <para>
+        <alinea>Editorialization is always a collective process<renvoi idref="sdfootnote28sym" typeref="note">28</renvoi>. This point was made clear when we analyzed the processual nature of editorialization: it is an open and ongoing process, and it is not possible to draw a border around it. There is no single person or a predetermined group of persons who participate in the editorialization: the actor or actors of any editorialization are always part of an open collectivity. This collective dimension is also the main difference between editorialization and content curation. Moreover, without collective action, editorialization is not possible: the action of an individual – even if the individual happens to be a huge enterprise like Google – can never produce an editorialization.</alinea>
+      </para>
+      <para>
+        <alinea>Let us look more closely at the Google case. One could argue that Google produces a particular structure of content without taking into account the reactions of users. This model could thus be interpreted as Google-centered: there is only one actor who decides how contents are organized; and this actor is the enterprise that conceives and writes the algorithms. But this argument does not hold for three main reasons. First of all, if no one used Google, the algorithm would produce no editorialization. Google can structure content only because people use it. A search engine that is not used has no power to structure content because its structure would remain abstract; it would simply be dead writing, almost inexistent because no one would see it. The power of Google is determined by the fact that there are huge numbers of people using it, and this determines that the hierarchy it proposes becomes an actual structure of online content. A page is visible because Google indexes it and because people use Google to find web pages. Second of all, the algorithm is not static: it evolves according to practices and uses. Google must adapt the algorithm to the ways that it is used; if the company were not able to do so, its algorithm would quickly become obsolete. This is why the recording of users’ behaviors is crucial for Google: it has to study what people do in order to answer to their needs and even anticipate them. What people do directly affects the algorithm. Third of all, the algorithm is based on certain cultural values that are pre-determined by collective negotiation. As Dominique Cardon has shown<renvoi idref="sdfootnote29sym" typeref="note">29</renvoi>, PageRank is based on the idea of the citation index, which was developed within the academic community: without the collective interactions of this community, these values would simply not exist.</alinea>
+      </para>
+      <para>
+        <alinea>Another example illustrates how editorialization is never an individual process and always implies a collectivity: the creation of a profile on Facebook. When creating a profile on Facebook, a user could be led to believe that s/he is the only actor in this creation: I can define myself as I want. This idea was well-illustrated in the ’90s with the famous sketch of the dog sitting in front of a computer and saying, “on the Internet nobody knows you are a dog’. The idea was that we are completely free to construct our identities however we like. Virtual identity<renvoi idref="sdfootnote30sym" typeref="note">30</renvoi>appeared as the realization of the dream of auto-determination: to have the power to re-invent oneself in a completely autonomous way. The problem, in fact, seemed to be an excess of auto-determination: on the Internet individuals can pretend to be who they are not.</alinea>
+      </para>
+      <para>
+        <alinea>This dream of auto-determination is clearly false, though. As many scholars have pointed out, there are many factors determining our way of producing our profiles: the affordance of the platform, its influence on user behaviour, and the practices of other users. We have already talked about the ways in which the technical characteristics of a platform influence our behaviors: it is obvious that Facebook, for example, determines the way I create my profile; the platform is normative because it asks very precise things of me. It is the platform that decides what I have to say about myself and how, what is important and what is not, how often I write and to whom. These values are predetermined by the platform. And beside this platform determination there is also a set of collective practices and uses that are crucial to the production of my profile: if I am the picture that I chose and the status that I write, I am also the number of friends that I have, the comments that my friends leave on my wall, the pictures of me that other users post and that are tagged, and even the re-use of these pictures in other platforms or contexts.</alinea>
+      </para>
+      <para>
+        <alinea>Once again, we can underline a deep difference between editorialization and the curation of content. If I curate my profile, I am the master of the process: curating is about choosing the way we present and structure content. The editorialization of a profile is a set of collective interactions that determines who or what I am: what people know about me and what idea of me they have after looking at my profile.</alinea>
+      </para>
+      <para>
+        <alinea>When trying to grasp the concept of editorialization, it is important to understand a crucial problem: the fact that every editorialization is collective does not mean that every editorialization produces something that can be considered as “common’. In the Google and Facebook examples, the collective aspect clearly does not imply that at the end of the editorialization process we get something common: the data, the information, and the content that are produced are the property of a private company, and this company decides how these data are produced and for what purpose they are used after their production. In some cases of editorialization – Wikipedia, for instance – we get the feeling that something common is produced – even though it is difficult to separate one platform from others and it is obvious, for example, that the visibility and the efficiency of Wikipedia depends largely on the way Google indexes and references it.</alinea>
+      </para>
+      <para>
+        <alinea>The question that we may address therefore is this: how can digital space be made a public space?</alinea>
+      </para>
+      <para>
+        <alinea>In order to answer this question, let us look more closely at the structures of authority that are revealed by the concept of editorialization.</alinea>
+      </para>
+      <titre2>Editorialization and authority</titre2>
+      <para>
+        <alinea>The characteristics we have identified are the basis for an analysis of authority. If editorialization is what structures digital space, and if the structure of a space is the basis of authority then authority in digital space is created by editorialization.</alinea>
+      </para>
+      <para>
+        <alinea>Following this logic, we see that authority in digital space is processual, performative, multiple, non-representative, and collective. To gain a more precise understanding of what authority is in the digital age, we will examine each of these characteristics in turn.</alinea>
+      </para>
+      <para>
+        <alinea>It should first be emphasized that digital space is hybrid in nature. Digital space is not a self-contained space that is separated from a hypothetical non-digital one. Digital space is our actual space, a space where connected and non-connected objects are merged. This means that there is no separation between digital and non-digital forms of authority. Digital space is characterized by a hybridization of pre-digital forms of authority and digital ones. Many forms of institutionalized and stabilized authorities that existed before the advent of digital technologies are still operating in digital space, and they co-exist with forms of authority that are native to the digital age.</alinea>
+      </para>
+      <para>
+        <alinea>This point was underlined by Saskia Sassen with reference to the notion of “capabilities’ in her book<marquage typemarq="italique">Territory, Authority, Rights: From Medieval to Global Assemblages<renvoi idref="sdfootnote31sym" typeref="note">31</renvoi>
+          </marquage>. Capabilities are characteristics of a specific historical moment that, when organized in a different way, become the basis of the next historical moment. Sassen uses this concept to show that historical changes should not be interpreted as epistemological ruptures but rather as the reorganization of pre-existing cultural principles. In the shift from a medieval feudal order to the order of the nation state, certain medieval capabilities – for example, the notion of divine authority – remained in the political culture but surfaced in altered form: the possibility of a national sovereign, for instance, was guaranteed by the idea of divine authority.</alinea>
+      </para>
+      <para>
+        <alinea>Digital space should be considered as a new political order in which ancient forms of authority have been reorganized and have taken on new meanings.</alinea>
+      </para>
+      <titre2>Processual authorities</titre2>
+      <para>
+        <alinea>One characteristic of this re-organization is that digital authority privileges a dynamic and ongoing process over the crystallized static object. Digital authority legitimates something that is difficult to stop. Let us consider again the example of an academic paper. It is an organized, planned action that is destined to remain the same across time, and for the same reasons, signed. More than most pieces of writing, the academic paper demands an association with the traditional notion of the author. Someone takes responsibility for its content, even (and especially) after it has been produced. The signature, the name associated with the content, is the function granting its permanence across time. And yet, when analyzing the conditions of the existence of this content, one rapidly realizes that the signer cannot be considered as the author, as was the case with the printed journal. The authority that makes this specific content reliable is not the author. This is because the author is a static authority and so can grant legitimacy to a paper only if the paper is static. The editor is in the same situation: the editor can be an authority that legitimates a paper only if the paper can be understood in a defined and stable sense. As we saw in the previous pages, though, a paper cannot be considered an independent and coherent whole. It is impossible to decide when the process of its production begins and ends, and it is even more difficult to determine in any exhaustive way who is involved in its creation and circulation.</alinea>
+      </para>
+      <para>
+        <alinea>To illustrate this point it is only necessary to think about the ways an article is presented. It can be found on a website, on a browser. It is not a static page but a code closely connected to a series of other pages. What matters on the page is not only the content but its multiple dynamic relationships with other pages. It is impossible to determine where the content produced by the writer ends and where other content begin. The new reading practices support this thesis: one moves from an article to another, from a page to another page, from one piece of research to another, and very rarely does one stop to consider who has produced the content<renvoi idref="sdfootnote32sym" typeref="note">32</renvoi>. The signature of the author is, in effect, erased, and the path itself emerges in its place, along with the elements on the page that allow us to walk on the path: links, tags, an address bar, search engines. Of particular significance are the most common answers to the question “Where did you find this information?’: “On the Internet’ or “On Google’.</alinea>
+      </para>
+      <para>
+        <alinea>What has become important, then, is not the unity of a text produced by one person – and legitimated by her/him, or by an editor – but the collection of dynamic relationships this content maintains with other content. And these relationships, which are actually part of an open process, determine the existence of a piece of content. It is the ensemble of relationships and links that make the content accessible and visible, and thus bring it into existence. Completely independent content would be inaccessible, invisible, and thus non-existing.</alinea>
+      </para>
+      <para>
+        <alinea>One cannot therefore consider an article as an independent and static unit, and so the person signing it (or the group that first edited it) should not be considered an authority. The unit is constituted rather by the relationships that make content accessible. But these relationships are not determined by the person who signs an article and are only partially determined by the editors. Writing and reading actions are merged together in a general editorialization process. Authority becomes a question of the layout of the connections that constitute the space of the web. These connections can derive from the actions of a person reading and moving from one page to the next, or from a series of devices put in place on the web to create relationships, from simple links to algorithms of search engines or commercial platforms like Amazon. In this sense, the answer “I found this information on Google’ is not false because Google is one of the authorities legitimating the content.</alinea>
+      </para>
+      <para>
+        <alinea>Because the process stays open, however, the authority cannot legitimate an object: it has to legitimate a process. This processual authority is clearly not in complete opposition to the static authority: the name of the author, along with the names of the editors – and their authorities – are all a part of the process. Google’s algorithm is only one of the processual evaluations and legitimations of the paper, though it has a crucial authority function.</alinea>
+      </para>
+      <para>
+        <alinea>Another example that illustrates the processual nature of digital authority is Wikipedia. It should first be pointed out that Wikipedia is clearly a reflection of hybridized forms of authority. As many scholars have pointed out<renvoi idref="sdfootnote33sym" typeref="note">33</renvoi>, the dream of an encyclopedic space in which everyone is on the same level is false. O’Neil speaks of “cyberchiefs’ to show how there is a complex structure hierarchizing different kinds of users. Wikipedia is based on a very complex bureaucratic architecture that differentiates simple users from administrators and even experts. This means that some pre-digital forms of authority – in this case the authority of the author as the most competent person in a field – endure in digital space. At the same time, it is important to underline that the principles of an article’s legitimation on Wikipedia are processual. First of all, the underlying idea of Wikipedia is to maintain a level quality by adhering to certain formal rules. Wikipedia’s five pillars are clearly an attempt to define a processual form of authority rather than a static one. On Wikipedia, a piece of content is deemed reliable not because an expert has written it but because it has been produced respecting some very formal norms that strive to regulate the process. As Leitch points out<renvoi idref="sdfootnote34sym" typeref="note">34</renvoi>, this attempt has many paradoxes, and some forms of pre-digital authority necessarily infuse this processual authority, but the initial goals and principles of Wikipedia are nonetheless deserving of further analysis. They are:</alinea>
+      </para>
+      <listenonord signe="disque">
+        <elemliste>
+          <alinea>First pillar: Wikipedia is an encyclopedia: It combines many features of general and specialized encyclopedias, almanacs, and gazetteers. […]</alinea>
+        </elemliste>
+        <elemliste>
+          <alinea>Second pillar: Wikipedia is written from a neutral point of view. […]</alinea>
+        </elemliste>
+        <elemliste>
+          <alinea>Third pillar: Wikipedia is free content that anyone can use, edit, and distribute: Since all editors freely license their work to the public, no editor owns an article and any contributions can and will be mercilessly edited and redistributed. Respect copyright laws, and never plagiarize from sources. […]</alinea>
+        </elemliste>
+        <elemliste>
+          <alinea>Fourth pillar: Editors should treat each other with respect and civility: Respect your fellow Wikipedians, even when you disagree. Apply Wikipedia etiquette, and don’t engage in personal attacks. Seek consensus, avoid edit wars, and never disrupt Wikipedia to illustrate a point. Act in good faith, and assume good faith on the part of others. Be open and welcoming to newcomers. If a conflict arises, discuss it calmly on the nearest talk pages, follow dispute resolution, and remember that there are 5,013,630 articles on the English Wikipedia to work on and discuss.</alinea>
+        </elemliste>
+        <elemliste>
+          <alinea>Fifth pillar: Wikipedia has no firm rules: Wikipedia has policies and guidelines, but they are not carved in stone; their content and interpretation can evolve over time. Their principles and spirit matter more than their literal wording, and sometimes improving Wikipedia requires making an exception. Be bold but not reckless in updating articles, and do not agonize about making mistakes. Every past version of a page is saved, so any mistakes can be easily corrected.</alinea>
+        </elemliste>
+      </listenonord>
+      <para>
+        <alinea>These principles are processual: they say something about how the process of production should be structured, but they say nothing – or almost nothing – about a static validation or valuation of content. The only validation is the possibility of structuring the process. The first principle is a definition of the format of the content: Wikipedia content must be encyclopedic. This provides a format rule, which has the effect of conditioning and structuring the production process. The second is the most famous – and controversial – principle. As Leitch points out, it is impossible to determine what a neutral point of view is (because a neutral point of view is itself a point of view), and so the claim to represent a neutral point of view is not really a neutral position. But at the same time, the idea behind this principle is to provide a formal rule that makes possible an evaluation of the validity of the production process. This principle is often associated with the rule of always citing a source: anyone, regardless of their level of expertise, can evaluate the process of production of an article because they can just check to see if the article cites its sources or not. The third and fourth principles underline other process evaluation policies: the respect of copyright and the need for civility when resolving conflicts. The fifth and last principle most clearly aims to establish a processual form of authority: there are no firm rules, the production of knowledge is a process, everything can be changed, and all mistakes can be corrected. The reliability and the quality of Wikipedia rest on the fact that it is a regulated<marquage typemarq="italique">and</marquage>open process<renvoi idref="sdfootnote35sym" typeref="note">35</renvoi>. As O’Neil underlines, “Wikipedia depends on a radical redefinition of expertise, which is no longer embodied in a person but in a process: the aggregation of many points of view’<renvoi idref="sdfootnote36sym" typeref="note">36</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>Beside these principles there is the technical element: the platform itself. Wiki, the Content Management System used by Wikipedia, is designed to structure and organize the process of writing in a specific way. The CMS plays an important role in the production of authority: the way users interact, the way content is linked, the ways that algorithms verify that principles are respected, and even the extent to which the ergonomics and graphics are formal constraints structuring and influencing the production process. This is what Cardon calls “the recursive dependency of practices and rules’<renvoi idref="sdfootnote37sym" typeref="note">37</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea>This point brings us to another characteristic of digital authority: its performative quality.</alinea>
+      </para>
+      <titre2>Performative authorities</titre2>
+      <para>
+        <alinea>Editorialization, as we established earlier, is performative in the sense that it produces its own norms; it does not represent things but rather produces them. This self-producing quality also characterizes digital authority. This is made quite clear when we consider the deep relationship between activity and authority, which is something that has been demonstrated by many scholars<renvoi idref="sdfootnote38sym" typeref="note">38</renvoi>. The more active a user is, the more authority the user attains; acting, in digital space, means producing authority. We see this in the way that a simple user becomes an administrator – on Wikipedia, certainly, but also in many other discussion forums or platforms: administrators, it seems, are only very active users. Authority is about activity, irrespective of the kind or quality of the activity. A user is reliable because s/he is present.</alinea>
+      </para>
+      <para>
+        <alinea>This principle applies to users’ authority, but it is even more applicable to the authority of platforms: visibility depends on activity, and visibility produces authority. The more a platform is active, the more it is visible and the more it is considered reliable. Google and its classification philosophy (which is based on the citation index) is a very good example of this principle. The idea underlying PageRank is the fact that the more a piece of content is cited, the more authority it gains. But this implies a performative effect in the production of authority: being visible determines an increase in visibility, and an increase in visibility signifies an increase of authority. Authority in this sense tends to be concentrated in digital space.</alinea>
+      </para>
+      <titre2>Non-representative authorities</titre2>
+      <para>
+        <alinea>An important consequence of this element of performativity is that authority cannot be interpreted using a truth-based model. Authority does not guarantee that content – whether a sentence or any other fragment of information – corresponds to reality: authority is what creates reality. This is related to the ontological nature of editorialization. This characteristic is actually not specific to digital space. If we return to Arendt’s definition of authority<renvoi idref="sdfootnote39sym" typeref="note">39</renvoi>, we see that authority does not stem from the fact that we can verify its information. Authority is something we trust without any rational cause. In other words, something is true because an authority says that it is true. We cannot say, on the contrary, that an authority is an authority because it states the truth. But the fact that the authority<marquage typemarq="italique">produces</marquage>the truth means that it is impossible to verify what the authority says. Verification itself cannot be a criterion of authority.</alinea>
+      </para>
+      <para>
+        <alinea>It is therefore impossible to question authority on the basis of fact verification. This is a very important point: authority must be questioned – or at least questionable – if we do not want it to be transformed in absolute power.</alinea>
+      </para>
+      <para>
+        <alinea>This risk is something that is intrinsic to authority, but it is a risk that is perhaps more visible in digital space because of the ontological nature of editorialization. How is it possible, for example, to question the fact that the top-ranked result for a piece of research on Google is the most pertinent result? The higher a page is on the PageRank ranking, the more visible it is. And the more visible it is, the more it is viewed and cited. In the set of values decided by the algorithm, the most often-cited page is the most pertinent. The sentence “The first Google result is the more pertinent’ is true because of the fact that this page is the first Google result: Google authority produces the truth of the sentence, or more precisely it transforms it in a tautology. In order to question this structure we need another legitimating system, which means another authority that we can trust more than Google’s. In this instance, though, we would simply have two opposing truths.</alinea>
+      </para>
+      <para>
+        <alinea>Another example to illustrate the point is the Wikipedia principle of Verifiability (<liensimple xlink:type="simple" xlink:href="https://en.wikipedia.org/wiki/Wikipedia">https:// en.wikipedia.org/wiki/Wikipedia</liensimple>: Verifiability): reliability of information is not based on its truth (because no one can verify this truth) but on the fact that sources can be cited in support of the information. Verifiability is thus not the possibility of comparing the information with the facts, but just the possibility of comparing the information with other information<renvoi idref="sdfootnote40sym" typeref="note">40</renvoi>. This idea echoes what we said about metaontology: there is no essence of things but rather multiple essences: as many as there are discourses that can circulate in digital space, because there is no longer a separation between objects, facts, and discourses.</alinea>
+      </para>
+      <para>
+        <alinea>This leads us to the question of the relationship between the multiple nature of editorialization and authority.</alinea>
+      </para>
+      <titre2>Multiple authorities</titre2>
+      <para>
+        <alinea>Editorialization is always multiple. This multiplicity determines, in particular, the crisis of the concept of the “original’. In print-dominated culture, a pillar of authority was the production and the conservation of documents. The fact that a state owns the right to produce and conserve a birth certificate, for example, gives the state the authority to grant identity to its citizens. We trust the state when it tells us that a person was born this day and has this name because we know – even if we do not verify – that there is a document proving these facts. The original document is the proof and owning the original is a kind of authority. The possibility of verification exists, even if the proof is produced by the same authority that afterwards owns it. One could ask to see the original – or to have an authenticated copy, which means a copy that the authority confirms “conforms to the original’. In digital space, though, there is no more original, because of the multiplicity of each piece of information, or data, or document. The document is an entry on a database, but it is not possible to distinguish the entry on a particular database from the same entry in another database. A birth certificate can be on multiple databases simultaneously. It can be owned by multiple institutions and by multiple States, by universities where the person has studied, and by past and present employers. These entries can be exactly the same or they can be different; any number of variations is conceivable.</alinea>
+      </para>
+      <para>
+        <alinea>It is thus no longer possible to use the concept of the original as a proof of truth. Authority can make something reliable only through a validation process. Instead of basing the reliability of information on the existence of an original, it is now necessary to grant this reliability with the active recognition of information. For example, if an employer needs proof of an employee’s date of birth, instead of asking the employee to provide the original birth certificate, the authority could create a validation process that allows the employer to compare the information the employee has provided with the information that is available in the authority’s database. This is exactly what happens in semantic web practices, where an “authority’ is a Uniform Resource Identifier that identifies an object in a unique way on a specific database.</alinea>
+      </para>
+      <para>
+        <alinea>For example, if one wants to know the list of books published by me, and be sure that the author is me and not somebody else – for instance, an homonym – one can refer to the Library of Congress and learn that the URI corresponding to me is<liensimple xlink:type="simple" xlink:href="http://lccn.loc.gov/n2009013771">http://lccn.loc.gov/n2009013771</liensimple>. This link is a tool that enables the validation of my identity on the Library of Congress database. But the Library of Congress is only one of many authorities. One could decide, for instance, that, because I have written most of my books in French, it is better to trust the Bibliothèque Nationale de France: the URI for Marcello Vitali-Rosati is<liensimple xlink:type="simple" xlink:href="http://catalogue.bnf.fr/ark:/12148/cb15021926p/PUBLIC">http://catalogue.bnf.fr/ark:/12148/cb15021926p/PUBLIC</liensimple>, another “authority’. In one database I am the author of three books, in the other the author of five.</alinea>
+      </para>
+      <para>
+        <alinea>Digital space is thus characterized by the coexistence of many authorities, and these authorities can be very different and often contradictory. This multiplicity also determines that in digital space pre-digital authorities coexist with authorities that are native to digital space. For example, Google is an authority that determines and measures the pertinence of content, and an academic journal is an authority in much the same way. In digital space it is true that a page is pertinent because it is the first on a Google research list and that another is more pertinent because it is on the site of a well-known academic journal. In practice we accept that many authorities can coexist – even those that are very different from one another – and that we can trust all of them, though perhaps in different ways. We can trust Tripadvisor, Wikipedia, Google, and at the same time the institutional site of a university, an academic journal, or the website of the government – authorities that are all very different and that are based on very different models.</alinea>
+      </para>
+      <titre2>Collective authorities</titre2>
+      <para>
+        <alinea>The collective nature of editorialization is probably its most problematic aspect. Digital space is clearly a matter of collective dynamics: this is the main characteristic of a network. But what kind of collectivity is involved in editorialization processes? Digital space is produced by a continuous interaction between people, machines, algorithms, and platforms. This is what determines our definition of editorialization as the set of interactions of individual and collective actions within a particular digital environment. Authorities emerge from these interactions. The fact that PageRank has became an authority depends on the algorithm (its values, its rules) and on the platform (its graphics, its ergonomics), which in turn interact with multiple practices: people using Google, web masters adapting their sites for SEO, enterprises buying data, and so on. Authority grows based on these interactions. In this sense, authorities are not organized in a clear and stable hierarchy.</alinea>
+      </para>
+      <para>
+        <alinea>In the space of the nation state, there is certainly a collective aspect to authority. But this aspect is weaker because of a clear and stable hierarchy that organizes the relationships between authorities. An Aristotle specialist has the authority to decide whether a paper on Aristotle is good or not: her/his authority is granted by her/his degree, which is granted by a university, which is accredited by the State (in the case of a public university). The system is hierarchically organized: if we do not trust the State, it is difficult to trust the university, and if we do not trust the university, we will not trust the degree, and if we do not trust the degree, we will probably not recognize the scholar’s authority. Obviously, this model is not quite so monolithic. We can turn again to Saskia Sassen’s notion of capacity to understand that in the pre-digital academic model there was something that, organized in a different way, could produce the digital model. This is apparent, for example, in the concept of “peer’ and the system of the citation index according to which the value of a paper should not depend on the credentials of its author. In digital space, though, it becomes impossible to identify any kind of hierarchy because only the result of the dynamic interactions counts, and this result is never stable.</alinea>
+      </para>
+      <para>
+        <alinea>At the same time, the fact that authorities are not organized in a hierarchical way does not mean that some are not stronger than others. There are stronger and weaker authorities – according to their influence field, to the degree of trust they inspire, and to the number of people over whom they have authority. But the relationships between these authorities are not structured as they were in pre-digital society: there is no hierarchical relationship between Amazon’s authority and Google’s authority or Facebook’s.</alinea>
+      </para>
+      <para>
+        <alinea>In digital space, authorities can appear suddenly (and suddenly disappear), and they are always the result of the recursive dynamic between collective practices and digital structure. But what exactly does “collective’ mean?</alinea>
+      </para>
+      <para>
+        <alinea>I am using this term in a very formal sense, which means that I am not giving it any political signification: “collective’ is simply whatever involves more than one person. In this sense, everything in digital space is collective. But does this mean that everything is common? Does it mean, in other words, that some collectivity is the master of digital space and the primary actor of its production? And also, can we actually consider a juxtaposition of individuals as a collectivity? Clearly, this is far from true.</alinea>
+      </para>
+      <para>
+        <alinea>
+          <liensimple xlink:type="simple" xlink:href=""/>The strongest authorities in digital space are powerful enterprises for whom non-hierarchized organization offers the possibility of cultivating an ultra-capitalist model of liquid power, as Morozof has shown in his books<renvoi idref="sdfootnote41sym" typeref="note">41</renvoi>. Often the collective aspect is only a way of exploiting people to enrich a private enterprise. The cases of Uber and Airbandb are very meaningful: individuals one another; everything is evaluated. People make these evaluations – without being paid. Every person involved is in some way controlled by the others (drivers are evaluated by passengers, passengers are evaluated by drivers, hosts by guests, and guests by hosts). The enterprise exploits the mutual control of people in order to produce capital. This is what some scholars describe as digital labor<renvoi idref="sdfootnote42sym" typeref="note">42</renvoi>. Instead of producing commons, collectivities produce capital.</alinea>
+      </para>
+      <para>
+        <alinea>Is it possible to transform these structures? What are the collective interactions that can produce commons? What can be a common authority? These are urgent questions that should be addressed in order to keep developing what Geert Lovink calls a “Net criticism’<renvoi idref="sdfootnote43sym" typeref="note">43</renvoi>.</alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <titre2>
+        <marquage typemarq="italique">Bibliography:</marquage>
+      </titre2>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <para>
+        <alinea>ARENDT, Hannah,<marquage typemarq="italique">Between past and future: eight exercises in political thought</marquage>, New York, Penguin Books, 2006, 298p., coll. «Penguin classics».</alinea>
+      </para>
+      <para>
+        <alinea>AUSTIN, John Langshaw et URMSON, James Opie,<marquage typemarq="italique">How to do things with words: [the William James lectures delivered at Harvard University in 1955]</marquage>, Cambridge, Mass, Harvard Univ. Press, 2009, 168p.</alinea>
+      </para>
+      <para>
+        <alinea>BACHIMONT, Bruno, «Nouvelles tendances applicatives : de l’indexation à l’éditorialisation», in<marquage typemarq="italique">L’indexation multimédia</marquage>, Paris, Hermès, 2007, [<liensimple xlink:type="simple" xlink:href="http://cours.ebsi.umontreal.ca/sci6116/Ressources_files/BachimontFormatHerme%CC%80s.pdf">http://cours.ebsi.umontreal.ca/sci6116/Ressources_files/ Bachimont FormatHerme%CC%80s.pdf</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>BARBE, Lionel, MERZEAU, Louise et SCHAFER, Valérie,<marquage typemarq="italique">Wikipédia, objet scientifique non identifié</marquage>, Presses de l’Université Paris 10, 2015.</alinea>
+      </para>
+      <para>
+        <alinea>BEAUDE, Boris,<marquage typemarq="italique">Internet, changer l’espace, changer la société:</marquage>
+          <marquage typemarq="italique">l</marquage>
+          <marquage typemarq="italique">es logiques contemporaines de synchorisation</marquage>, FYP éditions, 2012, 256p. [<liensimple xlink:type="simple" xlink:href="http://www.beaude.net/icecs/">http://www.beaude.net/icecs/</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>BECK, Francois, RICHARD, Jean-Baptiste, NGUYEN-THANH, Viet [et al.], «Use of the Internet as a Health Information Resource Among French Young Adults: Results From a Nationally Representative Survey»,<marquage typemarq="italique">Journal of Medical Internet Research</marquage>, vol.16/5, mai 2014, [<liensimple xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051740/">http://www.ncbi.nlm.nih.gov /pmc/articles /PMC4051740/</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>BRIN, Sergey et PAGE, Lawrence, «The anatomy of a large-scale hypertextual Web search engine»,<marquage typemarq="italique">Computer Networks and ISDN Systems</marquage>, vol.30/1-7, avril 1998, p.107‑117.</alinea>
+      </para>
+      <para>
+        <alinea>BUSH, Vannevar, «As we may think»,<marquage typemarq="italique">Atlantic Magazine</marquage>, [<liensimple xlink:type="simple" xlink:href="http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/">http://www.theatlantic.com/magazine/archive/ 1945/07/as-we-may-think/303881/</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>BUTLER, Judith,<marquage typemarq="italique">Excitable speech: a politics of the performative</marquage>, New York, Routledge, 1997, 185p.</alinea>
+      </para>
+      <para>
+        <alinea>CARDON, Dominique,<marquage typemarq="italique">Dans l’esprit du PageRank</marquage>, vol.177, Paris, La Découverte, 2013, [<liensimple xlink:type="simple" xlink:href="http://www.cairn.info/resume.php?ID_ARTICLE=RES_177_0063">http:// www. cairn.info/resume.php?ID_ARTICLE=RES_177_0063</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>–<marquage typemarq="italique">La démocratie Internet : Promesses et limites</marquage>, Paris, Seuil, 2010, 102p.</alinea>
+      </para>
+      <para>
+        <alinea>– «Surveiller sans punir. La gouvernance de Wikipédia», inLionel Barbe, Louise Merzeau, Valérie Schafer, (éds.).<marquage typemarq="italique">Wikipédia, objet scientifique non identifié</marquage>, éds. Lionel Barbe, Louise Merzeau and Valérie Schafer, Nanterre, Presses universitaires de Paris Ouest, 2015, («Sciences humaines et sociales»), p.15‑39, [<liensimple xlink:type="simple" xlink:href="http://books.openedition.org/pupo/4092">http://books.openedition.org/pupo/4092</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>– with CASILLI, Antonio,<marquage typemarq="italique">Qu’est-ce que le digital labor ?</marquage>, Bry-sur-Marne, INA, 2015.</alinea>
+      </para>
+      <para>
+        <alinea>CHUN, Wendy Hui Kyong,<marquage typemarq="italique">Control and Freedom: Power and Paranoia in the Age of Fiber Optics</marquage>, Cambridge, Mass., The MIT Press, 2008, 368p.</alinea>
+      </para>
+      <para>
+        <alinea>DAHLGREN, Peter,<marquage typemarq="italique">The Political Web: Media, Participation and Alternative Democracy</marquage>, Basingstoke, Palgrave Macmillan, 2013, 203p.</alinea>
+      </para>
+      <para>
+        <alinea>DODGE, Martin et KITCHIN, Rob,<marquage typemarq="italique">Mapping Cyberspace</marquage>, London, Routledge, 2003, 281p.</alinea>
+      </para>
+      <para>
+        <alinea>DOUEIHI, Milad,<marquage typemarq="italique">Digital Cultures</marquage>, Cambridge, Mass., Harvard University Press, 2011, 208p.</alinea>
+      </para>
+      <para>
+        <alinea>DOUGLAS, J. Yellowlees,<marquage typemarq="italique">The end of books or books without end?: reading interactive narratives.</marquage>, Ann Arbor, Mich.; Wantage, University of Michigan Press ; University Presses Marketing, 1999.</alinea>
+      </para>
+      <para>
+        <alinea>EISENSTEIN, Elizabeth L.,<marquage typemarq="italique">The Printing Press as an Agent of Change</marquage>, Cambridge, Cambridge University Press, 1980, 820p.</alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">–</marquage>
+          <marquage typemarq="italique">The Printing Revolution in Early Modern Europe</marquage>, Cambridge; New York, Cambridge University Press, 2012, 401p.</alinea>
+      </para>
+      <para>
+        <alinea>FERRARIS, Maurizio,<marquage typemarq="italique">Âme et iPad</marquage>, Montréal, PUM, 2014, 216p., «Parcours numériques», [<liensimple xlink:type="simple" xlink:href="http://www.parcoursnumeriques-pum.ca/ameetipad">http://www.parcoursnumeriques-pum.ca/ameetipad</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>FLORIDI, Luciano,<marquage typemarq="italique">The 4th revolution: how the infosphere is reshaping human reality</marquage>, New York ; Oxford, Oxford University Press, 2014, 248p.</alinea>
+      </para>
+      <para>
+        <alinea>FREGE, Gottlob, «Sense and Reference»,<marquage typemarq="italique">The Philosophical Review</marquage>, vol.57/3, 1948, p.209‑230.</alinea>
+      </para>
+      <para>
+        <alinea>FUCHS, Christian and SEVIGNANI, Sebastian, «What Is Digital Labour? What Is Digital Work? What’s their Difference? And Why Do These Questions Matter for Understanding Social Media?»,<marquage typemarq="italique">tripleC: Communication, Capitalism &amp; Critique. Open Access Journal for a Global Sustainable Information Society</marquage>, vol.11/2, juin 2013, p.237‑293.</alinea>
+      </para>
+      <para>
+        <alinea>EBERLE-SINATRA, Michael et VITALI-ROSATI, Marcello,<marquage typemarq="italique">Pratiques de l’édition numérique</marquage>, Presses de l’Université de Montréal, 2014, (coll. «Parcours Numériques»), [<liensimple xlink:type="simple" xlink:href="http://parcoursnumeriques-pum.ca/pratiques">http://parcoursnumeriques-pum.ca/pratiques</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>GAC, Roberto,<marquage typemarq="italique">Bakhtine, le roman et l’intertexte</marquage>, Sens public 2012, [<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/article.php3?id_article=1007">http://www.sens-public.org /article .php3?id_article=1007</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>GALLOWAY, Alexander,<marquage typemarq="italique">The interface effect</marquage>, Cambridge, UK; Malden, MA, Polity, 2012.</alinea>
+      </para>
+      <para>
+        <alinea>GENETTE, Gérard,<marquage typemarq="italique">Seuils</marquage>, Paris, Seuil, coll. «Points» 2002, 426p.</alinea>
+      </para>
+      <para>
+        <alinea>GERVAIS, Bertrand, «Naviguer entre le texte et l’écran. Penser la lecture à l’ère de l’hypertextualité», in SALÄUN Jean-Michel and VANDERDORPE, Christian,<marquage typemarq="italique">Les défis de l’édition à l’ère de l’hypertexte</marquage>, Presses de l’ENSSIB, 2002, p.49-68.</alinea>
+      </para>
+      <para>
+        <alinea>GUYOT, Brigitte,<marquage typemarq="italique">Sciences de l’information et activité professionnelle</marquage>, vol.38, C.N.R.S. Editions, 2004, [<liensimple xlink:type="simple" xlink:href="http://www.cairn.info/resume.php?ID_ARTICLE=HERM_038_0038">http://www.cairn.info/resume.php?ID_ARTICLE=HERM_038_0038</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>HABERMAS, Jürgen,<marquage typemarq="italique">The Structural transformation of the public sphere: an inquiry into a category of bourgeois society</marquage>, Cambridge, Mass, MIT Press, 1999, 301p., coll. «Studies in contemporary German social thought».</alinea>
+      </para>
+      <para>
+        <alinea>HAMELINK, Cees Jan,<marquage typemarq="italique">The Ethics of Cyberspace</marquage>, London ; Thousand Oaks Calif., SAGE Publications Ltd, 2000, 220p.</alinea>
+      </para>
+      <para>
+        <alinea>LANDOW, George P,<marquage typemarq="italique">Hypertext: the convergence of contemporary critical theory and technology</marquage>, Baltimore, Johns Hopkins University Press, 1992.</alinea>
+      </para>
+      <para>
+        <alinea>LEITCH, Thomas,<marquage typemarq="italique">Wikipedia U: Knowledge, Authority, and Liberal Education in the Digital Age</marquage>, Baltimore, The Johns Hopkins University Press, 2014.</alinea>
+      </para>
+      <para>
+        <alinea>LESSIG, Lawrence,<marquage typemarq="italique">Code: And Other Laws of Cyberspace, Version 2.0</marquage>, New York, Basic Books, 2006, 432p.</alinea>
+      </para>
+      <para>
+        <alinea>LIMARE, Sophie,<marquage typemarq="italique">Surveiller et sourire: les artistes visuels et le regard numérique</marquage>, Montréal, PUM, 2015, coll. «Parcours numériques», [<liensimple xlink:type="simple" xlink:href="http://www.parcoursnumeriques-pum.ca/surveilleretsourire">http://www.parcoursnumeriques-pum.ca/surveilleretsourire</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>LOVINK, Geert,<marquage typemarq="italique">Dark fiber: tracking critical Internet culture</marquage>, Cambridge, Mass, MIT Press, 2002, 382p.</alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">–</marquage>
+          <marquage typemarq="italique">My First Recession</marquage>, Institute of Network Cultures, 2012, 217p.</alinea>
+      </para>
+      <para>
+        <alinea>MACKINNON, Rebecca,<marquage typemarq="italique">Consent of the Networked: The Worldwide Struggle For Internet Freedom</marquage>, First Trade Paper Edition edition, Basic Books, 2012, 322p.</alinea>
+      </para>
+      <para>
+        <alinea>MERTON, Robert, «The Matthew Effect in Science»,<marquage typemarq="italique">Science</marquage>, vol.159/3810, 1968, p.56‑63.</alinea>
+      </para>
+      <para>
+        <alinea>MONGIN, Olivier,<marquage typemarq="italique">La condition urbaine: la ville à l’heure de la mondialisation</marquage>, Paris, Seuil, 2007, 325p., coll. «Points Essais».</alinea>
+      </para>
+      <para>
+        <alinea>MOROZOV, Evgeny,<marquage typemarq="italique">The Net Delusion: The Dark Side of Internet Freedom</marquage>, Reprint edition, PublicAffairs, 2012, 432p.</alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">–</marquage>
+          <marquage typemarq="italique">To Save Everything, Click Here: The Folly of Technological Solutionism</marquage>, First Trade Paper Edition edition, PublicAffairs, 2013, 434p.</alinea>
+      </para>
+      <para>
+        <alinea>NELSON, T. H., «Complex Information Processing: A File Structure for the Complex, the Changing and the Indeterminate»,<marquage typemarq="italique">Proceedings of the 1965 20th National Conference</marquage>, New York, NY, USA, ACM, 1965, («ACM ’65»), p.84–100, [<liensimple xlink:type="simple" xlink:href="http://doi.acm.org/10.1145/800197.806036">http://doi.acm.org/10.1145/800197.806036</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>NORMAN, Donald A.,<marquage typemarq="italique">The design of everyday things</marquage>, 1st Basic paperback, New York, Basic Books, 2002, 257p.</alinea>
+      </para>
+      <para>
+        <alinea>O’DONNELL, Daniel Paul,<marquage typemarq="italique">A “Thought Piece’ on Digital Space as Simulation and the Loss of the Original,</marquage>[<liensimple xlink:type="simple" xlink:href="http://dpod.kakelbont.ca/2015/02/11/a-thought-piece-on-digital-space-as-simulation-and-the-loss-of-the-original/">http://dpod.kakelbont.ca/2015/02/11/a-thought-piece-on-digital-space-as-simulation-and-the-loss-of-the-original/</liensimple>], February 11, 2015.</alinea>
+      </para>
+      <para>
+        <alinea>O’KEEFFE, Jamie, WILLINSKY, John et MAGGIO, Lauren, «Public Access and Use of Health Research: An Exploratory Study of the National Institutes of Health (NIH) Public Access Policy Using Interviews and Surveys of Health Personnel»,<marquage typemarq="italique">Journal of Medical Internet Research</marquage>, vol.13/4, novembre 2011, p.e97.</alinea>
+      </para>
+      <para>
+        <alinea>O’NEIL, Mathieu,<marquage typemarq="italique">Cyberchiefs: autonomy and authority in online tribes</marquage>, New York: Palgrave Macmillan, 2009, 242p.</alinea>
+      </para>
+      <para>
+        <alinea>POLETTI, Anna and RAK, Julie,<marquage typemarq="italique">Identity Technologies: Constructing the Self Online</marquage>, Madison, Wisconsin, University of Wisconsin Press, 2014, 300p.</alinea>
+      </para>
+      <para>
+        <alinea>PRECIADO, Beatriz,<marquage typemarq="italique">Pornotopia: An Essay on Playboy’s Architecture and Biopolitics</marquage>, New York, Zone Books, 2014, 304p.</alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">–</marquage>with<marquage typemarq="italique"/>MESTRE, Serge,<marquage typemarq="italique">Pornotopie. Playboy et l’invention de la sexualité multimédia</marquage>, Paris, FLAMMARION, 2011, 256p.</alinea>
+      </para>
+      <para>
+        <alinea>ROSE, Mark,<marquage typemarq="italique">Authors and owners : the invention of copyright</marquage>, Cambridge, Mass., Harvard University Press, 1993.</alinea>
+      </para>
+      <para>
+        <alinea>SASSEN, Saskia,<marquage typemarq="italique">Losing Control?: Sovereignty in the Age of Globalization</marquage>, S.l., Columbia University Press, 2014, 128p.</alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">–</marquage>
+          <marquage typemarq="italique">Territory, authority, rights: from medieval to global assemblages</marquage>, Updated ed., 4. print., 1. paperback print, Princeton, N.J., Princeton Univ. Press, 2008, 493p.</alinea>
+      </para>
+      <para>
+        <alinea>
+          <marquage typemarq="italique">–</marquage>«Who owns our cities – and why this urban takeover should concern us all»,<marquage typemarq="italique">the Guardian</marquage>, novembre 2015, [<liensimple xlink:type="simple" xlink:href="http://www.theguardian.com/cities/2015/nov/24/who-owns-our-cities-and-why-this-urban-takeover-should-concern-us-all">http://www.theguardian.com/cities/2015/nov/24/who-owns-our-cities-and-why-this-urban-takeover-should-concern-us-all</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>SCHECHNER, Richard,<marquage typemarq="italique">Performance theory</marquage>, London, Routledge, 2009, 407p.</alinea>
+      </para>
+      <para>
+        <alinea>SCHROEDER, Ralph,<marquage typemarq="italique">Rethinking science, technology, and social change</marquage>, Stanford, Calif, Stanford University Press, 2007, 179p.</alinea>
+      </para>
+      <para>
+        <alinea>SEARLE, John R.,<marquage typemarq="italique">The Construction of Social Reality</marquage>, New York, Free Press, 1997, 256p.</alinea>
+      </para>
+      <para>
+        <alinea>SECKIN, Gul, «Health Information on the Web and Consumers’ Perspectives on Health Professionals’ Responses to Information Exchange»,<marquage typemarq="italique">Medicine 2.0</marquage>, vol.3/2, juillet 2014, [<liensimple xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4087097/">http://www.ncbi.nlm.nih.gov /pmc/articles/PMC4087097/</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>SLOANE, Sarah,<marquage typemarq="italique">Digital Fictions: Storytelling in a Material World</marquage>, Stamford, Conn., Ablex Pub., 2000.</alinea>
+      </para>
+      <para>
+        <alinea>STALLMAN, Richard, «Why Open Source misses the point of Free Software», [https://www.gnu.org/philosophy/open-source-misses-the-point.html].</alinea>
+      </para>
+      <para>
+        <alinea>STERN, Niels, GUÉDON, Jean-Claude et JENSEN, Thomas Wiben, «Crystals of Knowledge Production. An Intercontinental Conversation about Open Science and the Humanities»,<marquage typemarq="italique">Nordic Perspectives on Open Science</marquage>, vol.1, octobre 2015.</alinea>
+      </para>
+      <para>
+        <alinea>STRIPHAS, Ted, «Algorithmic culture»,<marquage typemarq="italique">European Journal of Cultural Studies</marquage>, vol.18/4-5, août 2015, p.395‑412.</alinea>
+      </para>
+      <para>
+        <alinea>SVENSSON, Patrik, «Envisioning the Digital Humanities», vol.6/1, 2012, [<liensimple xlink:type="simple" xlink:href="http://www.digitalhumanities.org/dhq/vol/6/1/000112/000112.html">http://www.digital humanities.org/dhq/vol/6/1/000112/000112.html</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>TRELEANI, Matteo, «Le spectre et l’automate. Deux figures du spectateur», in<marquage typemarq="italique">D’un écran à l’autre. Les mutations du spectateur</marquage>, Delavaud, G. Chateauvert, J., Harmattan, 2016.</alinea>
+      </para>
+      <para>
+        <alinea>VALLUY, Jérome, ««Editorialisation» (recherche bibliographique, avril 2015) -»,<marquage typemarq="italique">Terra-HN</marquage>, 2015, [http://www.reseau-terra.eu/article1333.html].</alinea>
+      </para>
+      <para>
+        <alinea>VIRILIO, Paul,<marquage typemarq="italique">Cybermonde, la politique du pire</marquage>, Textuel, 2010, 111p.</alinea>
+      </para>
+      <para>
+        <alinea>VITALI-ROSATI, Marcello, «Digital Paratext. Editorialization and the very death of the author», in<marquage typemarq="italique">Examining Paratextual Theory and its Applications in Digital Culture</marquage>, IGI Global, Nadine Desrochers and Daniel Apollon, 2014, p.110‑127, [<liensimple xlink:type="simple" xlink:href="http://www.igi-global.com/book/examining-paratextual-theory-its-applications/97342">http://www.igi-global.com/book/examining-paratextual-theory-its-applications /97342</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>–<marquage typemarq="italique">Égarements. Amour, mort et identités numériques</marquage>, Paris, Hermann, 2014, 138p., («Cultures Numériques»), [En ligne : http://vitalirosati.com/liseuse/spip.php?rubrique3].</alinea>
+      </para>
+      <para>
+        <alinea>– «Les revues littéraires en ligne : entre éditorialisation et réseaux d’intelligences»,<marquage typemarq="italique">Études françaises</marquage>, vol.50/3, 2014, p.83.</alinea>
+      </para>
+      <para>
+        <alinea>–<marquage typemarq="italique">Corps et virtuel : itinéraires à partir de Merleau-Ponty</marquage>, Paris, Harmattan, 2009.</alinea>
+      </para>
+      <para>
+        <alinea>–<marquage typemarq="italique">Riflessione e trascendenza: itinerari a partire da Levinas</marquage>, Pisa, ETS, 2003, 174p., [<liensimple xlink:type="simple" xlink:href="http://www.edizioniets.com/Recensioni.asp?N=88-467-0677-3">http://www.edizioniets.com/Recensioni.asp?N=88-467-0677-3</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>– «Voir l’invisible : Gygès et la pornographie Facebook»,<marquage typemarq="italique">Sens-Public</marquage>, juin 2012, [<liensimple xlink:type="simple" xlink:href="/spip.php?article912">http://sens-public.org/spip.php?article912</liensimple>].</alinea>
+      </para>
+      <para>
+        <alinea>WARNER, Michael,<marquage typemarq="italique">The letters of the Republic: publication and the public sphere in eighteenth-century America</marquage>, Cambridge, Mass., Harvard University Press, 1992, 205p.</alinea>
+      </para>
+      <para>
+        <alinea>WIENER, Norbert,<marquage typemarq="italique">Cybernetics: or control and communication in the animal and the machine</marquage>, John Wiley &amp; Sons, 1946.</alinea>
+      </para>
+      <para>
+        <alinea>WILLIAMS, Linda,<marquage typemarq="italique">Hard Core: Power, Pleasure, and the «Frenzy of the Visible», Expanded edition</marquage>, Berkeley, University of California Press, 1999, 398p.</alinea>
+      </para>
+      <para>
+        <alinea> </alinea>
+      </para>
+      <note id="sdfootnote1sym">
+        <no>1</no>
+        <alinea>Cf. for example the Collins, [<liensimple xlink:type="simple" xlink:href="http://www.collinsdictionary.com/dictionary/english/editorialize">http://www.collinsdictionary.com/dictionary/english/editorialize</liensimple>], the Merriam and Webster, [<liensimple xlink:type="simple" xlink:href="http://www.merriam-webster.com/dictionary/editorialize">http://www.merriam-webster.com/dictionary/editorialize</liensimple>], or the Cambridge [<liensimple xlink:type="simple" xlink:href="http://dictionary.cambridge.org/us/dictionary/english/editorialize">http://dictionary .cambridge.org/us/dictionary/english/</liensimple>
+          <liensimple xlink:type="simple" xlink:href="http://dictionary.cambridge.org/us/dictionary/english/editorialize">editorialize</liensimple>].</alinea>
+      </note>
+      <note id="sdfootnote2sym">
+        <no>2</no>
+        <alinea>Brigitte Guyot,<marquage typemarq="italique">Sciences de l’information et activité professionnelle</marquage>, vol.38, C.N.R.S. Editions, 2004, [<liensimple xlink:type="simple" xlink:href="http://www.cairn.info/resume.php?ID_ARTICLE=HERM_038_0038">http://www.cairn.info/resume.php?ID_ARTICLE=HERM_038_0038</liensimple>]. Draft version available on HAL, [http://archivesic.ccsd.cnrs.fr/ sic00001095/document].</alinea>
+      </note>
+      <note id="sdfootnote3sym">
+        <no>3</no>
+        <alinea>
+          <marquage typemarq="italique">Ibid</marquage>.</alinea>
+      </note>
+      <note id="sdfootnote4sym">
+        <no>4</no>
+        <alinea>Bruno Bachimont, «Nouvelles tendances applicatives: de l’indexation à l’éditorialisation», in<marquage typemarq="italique">L’indexation multimédia</marquage>, Paris, Hermès, 2007, [En ligne :<liensimple xlink:type="simple" xlink:href="http://cours.ebsi.umontreal.ca/sci6116/Ressources_files/BachimontFormatHerme%CC%80s.pdf">http://cours.ebsi.umontreal.ca/sci6116/Ressources_files /BachimontFormatHerme%CC%80s.pdf</liensimple>].</alinea>
+      </note>
+      <note id="sdfootnote5sym">
+        <no>5</no>
+        <alinea>Marcello, Vitali-Rosati «Les revues littéraires en ligne: entre éditorialisation et réseaux d’intelligences»,<marquage typemarq="italique">Études françaises</marquage>, vol.50/3, 2014, p.83.</alinea>
+      </note>
+      <note id="sdfootnote6sym">
+        <no>6</no>
+        <alinea>Milad Doueihi,<marquage typemarq="italique">Digital Cultures</marquage>, Cambridge, Mass, Harvard University Press, 2011.</alinea>
+      </note>
+      <note id="sdfootnote7sym">
+        <no>7</no>
+        <alinea>Jérome Valluy, ««Editorialisation» (recherche bibliographique, avril 2015) -»,<marquage typemarq="italique">Terra-HN</marquage>, 2015, [En ligne :<liensimple xlink:type="simple" xlink:href="http://www.reseau-terra.eu/article1333.html">http://www.reseau-terra.eu/article1333.html</liensimple>].</alinea>
+      </note>
+      <note id="sdfootnote8sym">
+        <no>8</no>
+        <alinea>Roberto Gac has underlined the existence of these two definitions in a forthcoming paper:<marquage typemarq="italique">Éditorialisation et littérature. Du roman à l’intertexte.</marquage>This paper will be soon published on<marquage typemarq="italique">Sens public.</marquage>
+        </alinea>
+      </note>
+      <note id="sdfootnote9sym">
+        <no>9</no>
+        <alinea>Marcello Vitali-Rosati, «Digital Paratext. Editorialization and the very death of the author», in<marquage typemarq="italique">Examining Paratextual Theory and its Applications in Digital Culture</marquage>, IGI Global, Nadine Desrochers and Daniel Apollon, 2014, p.110‑127.</alinea>
+      </note>
+      <note id="sdfootnote10sym">
+        <no>10</no>
+        <alinea>For a discussion on the relationship between digital and non digital space in academic publications, see Daniel Paul O’Donnell,<marquage typemarq="italique">A “Thought Piece’ on Digital Space as Simulation and the Loss of the Original,</marquage>[<liensimple xlink:type="simple" xlink:href="http://dpod.kakelbont.ca/2015/02/11/a-thought-piece-on-digital-space-as-simulation-and-the-loss-of-the-original/">http://dpod.kakelbont.ca/2015/02/11/a-thought-piece-on-digital-space-as-simulation-and-the-loss-of-the-original/</liensimple>], February 11, 2015.</alinea>
+      </note>
+      <note id="sdfootnote11sym">
+        <no>11</no>
+        <alinea>Donald A. Norman,<marquage typemarq="italique">The Design of Everyday Things,</marquage>New York, Basic Books, 2002.</alinea>
+      </note>
+      <note id="sdfootnote12sym">
+        <no>12</no>
+        <alinea>See, for example, Michael Warner,<marquage typemarq="italique">The Letters of the Republic: Publication and the Public Sphere in Eighteenth-Century America</marquage>. 2. print. Cambridge, Mass, Harvard University Press, 1992.</alinea>
+      </note>
+      <note id="sdfootnote13sym">
+        <no>13</no>
+        <alinea>See for example, Friedrich Kittler,<marquage typemarq="italique">Optical Media</marquage>. Translated by Anthony Enns, 1 edition, Cambridge, UK ; Malden, MA, Polity, 2009. Or R. Schroeder,<marquage typemarq="italique">Rethinking Science, Technology, and Social Change</marquage>. Stanford, Calif: Stanford University Press, 2007.</alinea>
+      </note>
+      <note id="sdfootnote14sym">
+        <no>14</no>
+        <alinea>Vannevar Bush, “As We May Think.’<marquage typemarq="italique">Atlantic Magazine 1945,</marquage>[<liensimple xlink:type="simple" xlink:href="http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/">http://www.theatlantic.com/magazine /archive/ 1945/07/as-we-may-think/303881/</liensimple>].</alinea>
+      </note>
+      <note id="sdfootnote15sym">
+        <no>15</no>
+        <alinea>Theodor H. Nelson, 1965. “Complex Information Processing: A File Structure for the Complex, the Changing and the Indeterminate.’ In<marquage typemarq="italique">Proceedings of the 1965 20th National Conference</marquage>, 84–100. New York: ACM, 1965.</alinea>
+      </note>
+      <note id="sdfootnote16sym">
+        <no>16</no>
+        <alinea>Milad Doueihi,<marquage typemarq="italique">Pour un humanisme numérique,</marquage>
+          <marquage typemarq="italique">op. cit</marquage>
+          <marquage typemarq="italique">.</marquage>
+        </alinea>
+      </note>
+      <note id="sdfootnote17sym">
+        <no>17</no>
+        <alinea>Gérard Genette,<marquage typemarq="italique">Seuils</marquage>, Paris, Seuil, coll. «Points», 2002.</alinea>
+      </note>
+      <note id="sdfootnote18sym">
+        <no>18</no>
+        <alinea>Marcello Vitali-Rosati, «Les revues littéraires en ligne : entre éditorialisation et réseaux d’intelligences»,<marquage typemarq="italique">art</marquage>.<marquage typemarq="italique">cit</marquage>.</alinea>
+      </note>
+      <note id="sdfootnote19sym">
+        <no>19</no>
+        <alinea>Niels Stern, Jean-Claude Guédon et Thomas Wiben Jensen, «Crystals of Knowledge Production. An Intercontinental Conversation about Open Science and the Humanities»,<marquage typemarq="italique">Nordic Perspectives on Open Science</marquage>, vol.1, octobre 2015, p.1.</alinea>
+      </note>
+      <note id="sdfootnote20sym">
+        <no>20</no>
+        <alinea>John Langshaw Austin,<marquage typemarq="italique">How to Do Things with Words [the William James Lectures Delivered at Harvard University in 1955]</marquage>. 2. ed., [repr.]. Cambridge, Mass, Harvard University Press, 2009.</alinea>
+      </note>
+      <note id="sdfootnote21sym">
+        <no>21</no>
+        <alinea>Richard Schechner,<marquage typemarq="italique">Performance Theory,</marquage>London, Routledge, coll. «Routledge Classic», 2009.</alinea>
+      </note>
+      <note id="sdfootnote22sym">
+        <no>22</no>
+        <alinea>Judith Butler,<marquage typemarq="italique">Excitable Speech: A Politics of the Performative,</marquage>New York, Routledge, 1997.</alinea>
+      </note>
+      <note id="sdfootnote23sym">
+        <no>23</no>
+        <alinea>Gottlob Frege, « Sense and Reference »,<marquage typemarq="italique">The Philosophical Review,</marquage>vol. 57, n°3, 1948, p. 209-230.</alinea>
+      </note>
+      <note id="sdfootnote24sym">
+        <no>24</no>
+        <alinea>Luciano Floridi,<marquage typemarq="italique">The 4th revolution: how the infosphere is reshaping human reality</marquage>, First edition, New York, Oxford, Oxford University Press, 2014, p. 41.</alinea>
+      </note>
+      <note id="sdfootnote25sym">
+        <no>25</no>
+        <alinea>Alexander Galloway,<marquage typemarq="italique">The Interface Effect,</marquage>Cambridge, UK / Malden, MA, Polity, 2012.</alinea>
+      </note>
+      <note id="sdfootnote26sym">
+        <no>26</no>
+        <alinea>Lev Manovich,<marquage typemarq="italique">The Language of New Media,</marquage>Cambridge, Mass., MIT Press, 2002.</alinea>
+      </note>
+      <note id="sdfootnote27sym">
+        <no>27</no>
+        <alinea>I have already spoken about meta-ontology in my books<marquage typemarq="italique">Corps et virtuel : itinéraires à partir de Merleau-Ponty</marquage>, Paris, Harmattan, 2009, and<marquage typemarq="italique">Riflessione e trascendenza: itinerari a partire da Levinas</marquage>, Pisa, ETS, 2003, («Filosofia», 63), [<liensimple xlink:type="simple" xlink:href="http://www.edizioniets.com/Recensioni.asp?N=88-467-0677-3">http://www.edizioniets.com/Recensioni.asp?N=88-467-0677-3</liensimple>]. Also see this paper published in Sens public: Marcello Vitali-Rosati, «Voir l’invisible : Gygès et la pornographie Facebook»,<marquage typemarq="italique">Sens-Public</marquage>, juin 2012, [<liensimple xlink:type="simple" xlink:href="/spip.php?article912">http://sens-public.org/spip.php?article912</liensimple>].</alinea>
+      </note>
+      <note id="sdfootnote28sym">
+        <no>28</no>
+        <alinea>This aspect has been underlined, for example, by Louise Merzeau, «Éditorialisation collaborative d’un événement»,<marquage typemarq="italique">Communication &amp; Organisation</marquage>,<marquage typemarq="italique">43</marquage>(1), 2014, p. 105-122. The collective aspect of editorialization is also analyzed by Roberto Gac in his theory of intertext, see for example Roberto GAC,<marquage typemarq="italique">Bakhtine, le roman et l’intertexte</marquage>, Sens public 2012,<liensimple xlink:type="simple" xlink:href="http://www.sens-public.org/article.php3?id_article=1007">http://www.sens-public.org/article.php3?id_article=1007</liensimple>. My work has been deeply influenced to many discussions I have had with Roberto Gac on this topic.</alinea>
+      </note>
+      <note id="sdfootnote29sym">
+        <no>29</no>
+        <alinea>Dominique Cardon,<marquage typemarq="italique">Dans l’esprit du PageRank</marquage>, Paris, La Découverte, 2013, [<liensimple xlink:type="simple" xlink:href="http://www.cairn.info/resume.php?ID_ARTICLE=RES_177_0063">http://www.cairn. info/resume.php?ID_ARTICLE=RES_177_0063</liensimple>].</alinea>
+      </note>
+      <note id="sdfootnote30sym">
+        <no>30</no>
+        <alinea>My book<marquage typemarq="italique">Égarements</marquage>(Marcello Vitali-Rosati,<marquage typemarq="italique">Égarements, Amour, mort et identité</marquage>
+          <marquage typemarq="italique">s</marquage>
+          <marquage typemarq="italique">numérique</marquage>
+          <marquage typemarq="italique">s</marquage>, Paris, Herman, 2014) treats this topic and in particular the relationship between auto-determination and hetero-determination of identity.</alinea>
+      </note>
+      <note id="sdfootnote31sym">
+        <no>31</no>
+        <alinea>Saskia Sassen,<marquage typemarq="italique">Territory, authority, rights: from medieval to global assemblages</marquage>, Princeton, N.J., Princeton Univ. Press, 2008.</alinea>
+      </note>
+      <note id="sdfootnote32sym">
+        <no>32</no>
+        <alinea>Niels Stern, Jean-Claude Guédon et Thomas Wiben Jensen, «Crystals of Knowledge Production. An Intercontinental Conversation about Open Science and the Humanities»,<marquage typemarq="italique">art</marquage>.<marquage typemarq="italique">cit</marquage>., p.1.</alinea>
+      </note>
+      <note id="sdfootnote33sym">
+        <no>33</no>
+        <alinea>See Thomas Leitch,<marquage typemarq="italique">Wikipedia U: Knowledge, Authority, and Liberal Education in the Digital Age</marquage>, Baltimore, The Johns Hopkins University Press, 2014. And Mathieu O’NEIL,<marquage typemarq="italique">Cyberchiefs: autonomy and authority in online tribes</marquage>, New York: Palgrave Macmillan, 2009</alinea>
+      </note>
+      <note id="sdfootnote34sym">
+        <no>34</no>
+        <alinea>Thomas Leitch,<marquage typemarq="italique">ibid</marquage>. p 38.</alinea>
+      </note>
+      <note id="sdfootnote35sym">
+        <no>35</no>
+        <alinea>Dominique Cardon, «Surveiller sans punir. La gouvernance de Wikipédia», inLionel Barbe, Louise Merzeau, Valérie Schafer, (éds.).<marquage typemarq="italique">Wikipédia, objet scientifique non identifié</marquage>, éds. Lionel Barbe, Louise Merzeau et Valérie Schafer, Nanterre, Presses universitaires de Paris Ouest, 2015, («Sciences humaines et sociales»), p.15‑39, [<liensimple xlink:type="simple" xlink:href="http://books.openedition.org/pupo/4092">http://books.openedition.org/pupo/4092</liensimple>]. Consulté le 1 janvier 2016.</alinea>
+      </note>
+      <note id="sdfootnote36sym">
+        <no>36</no>
+        <alinea>O’Neil,<marquage typemarq="italique">ibid</marquage>., p. 149.</alinea>
+      </note>
+      <note id="sdfootnote37sym">
+        <no>37</no>
+        <alinea>Dominique Cardon, «Surveiller sans punir. La gouvernance de Wikipédia»,<marquage typemarq="italique">op</marquage>.<marquage typemarq="italique">cit</marquage>. p. 19.</alinea>
+      </note>
+      <note id="sdfootnote38sym">
+        <no>38</no>
+        <alinea>For example Thomas Leitch,<marquage typemarq="italique">op</marquage>.<marquage typemarq="italique">cit</marquage>., and Dominique Cardon,<marquage typemarq="italique">La démocratie Internet: Promesses et limites</marquage>, Paris, Seuil, 2010.</alinea>
+      </note>
+      <note id="sdfootnote39sym">
+        <no>39</no>
+        <alinea>Hannah Arendt,<marquage typemarq="italique">Between past and future: eight exercises in political thought</marquage>, New York, Penguin Books, 2006, coll. «Penguin classics».</alinea>
+      </note>
+      <note id="sdfootnote40sym">
+        <no>40</no>
+        <alinea>Dominique Cardon, «Surveiller sans punir. La gouvernance de Wikipédia»,<marquage typemarq="italique">op</marquage>.<marquage typemarq="italique">cit</marquage>. p. 27-28.</alinea>
+      </note>
+      <note id="sdfootnote41sym">
+        <no>41</no>
+        <alinea>Evgeny Morozov,<marquage typemarq="italique">The Net Delusion: The Dark Side of Internet Freedom</marquage>, Reprint edition, PublicAffairs, 2012, And<marquage typemarq="italique">To Save Everything, Click Here: The Folly of Technological Solutionism</marquage>, First Trade Paper Edition edition, PublicAffairs, 2013.</alinea>
+      </note>
+      <note id="sdfootnote42sym">
+        <no>42</no>
+        <alinea>Dominique Cardon and Antonio Casilli,<marquage typemarq="italique">Qu’est-ce que le digital labor ?</marquage>, Bry-sur-Marne, INA, 2015. Christian Fuchs and Sebastian Sevignani, «What Is Digital Labour? What Is Digital Work? What’s their Difference? And Why Do These Questions Matter for Understanding Social Media?»,<marquage typemarq="italique">tripleC: Communication, Capitalism &amp; Critique. Open Access Journal for a Global Sustainable Information Society</marquage>, vol.11/2, juin 2013, p.237‑293.</alinea>
+      </note>
+      <note id="sdfootnote43sym">
+        <no>43</no>
+        <alinea>Geert Lovink,<marquage typemarq="italique">Dark fiber: tracking critical Internet culture</marquage>, Cambridge, Mass, MIT Press, 2002.</alinea>
+      </note>
+    </section1>
+  </corps>
+  <partiesann/>
+</article>
