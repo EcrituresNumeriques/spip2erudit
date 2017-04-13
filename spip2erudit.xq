@@ -3,11 +3,19 @@ xquery version "3.0" ;
 (:~
  : This module transforms SPIP XML export to erudit XML
  :
- : @version 0.3
+ : @version 0.4
  : @since 2015-11-04
- : @date 2016-05
- : @author emchateau
+ : @date 2017-04-13
+ : @author emchateau + lakonis
  :
+ : traité 2017-04-13:
+ :   - suppr balise <histpapier>
+ :   - gestion attribut lang pour balise <partiesann>
+ :   - gestion attribut lang pour balise racine
+ :   - gestion attribut idref/horstheme pour balise racine
+ :   - gestion <droitauteur> = creativecommons
+ :   - gestion <grtheme> Varia si n'appartient pas à un dossier
+ :   - dans <grmotcles> suppression mots-clé titre de dossier, mot-clé admin
  : @todo br, num structure, titres h2 etc.
  : @todo object (vidéos)
  : @todo multiple p notes
@@ -32,19 +40,19 @@ declare variable $local:groupes := fn:doc($local:base || 'groupes.xml') ;
  : @return for each article write an XML file named with its id prefixed by "sens-public-" in the $path directory
  :)
 declare function writeArticles($refs as map(*)*) as document-node()* {
-  let $path := $local:base || '/xml/'
+  let $path := $local:base || '/xml-test/'
   let $rubriques := map {
   '55' : 'Revue en ligne',
-  '58' : 'Essais',
-  '60' : 'Créations',
+  '58' : 'Essai',
+  '60' : 'Création',
   '65' : 'L édition papier de Sens Public',
-  '68' : 'Archives',
-  '71' : 'Infos Revue',
-  '76' : 'Lectures',
+  '68' : 'Archive',
+  '71' : 'info revue',
+  '76' : 'Lecture',
   '107': 'Actes de colloque',
-  '109': 'Dossiers',
-  '113': 'Entretiens',
-  '114': 'Chroniques',
+  '109': 'Sommaire dossier', (:109 = Dossiers sur Spip :)
+  '113': 'Entretien',
+  '114': 'Chronique',
   '115': 'Qui sommes-nous ?',
   '116': '2. Infos générales',
   '118': 'Lu sur le web',
@@ -75,9 +83,12 @@ declare function getArticle( $article as element(), $ref as map(*) ) as element(
   let $corps := <corps>{ getRestruct(getCleaned($content)) }</corps>
   let $biblio := getBiblio($content)
   let $grnote := getNote($content)
-  let $liminaire := getLiminaire($article)
+  let $liminaire := getLiminaire($article, $ref)
   let $admin := getAdmin($article, $corps, $biblio, $grnote, $ref)
   let $typeart := map:get( $ref, 'rubrique')
+  let $issue := map:get($ref, 'issue')
+  let $idref := if ($issue) then ("{ 'th' || $issue }") else ()
+  let $horstheme := if ($issue) then ("non") else ("oui")
   return
     <article
       xmlns="http://www.erudit.org/xsd/article"
@@ -87,12 +98,14 @@ declare function getArticle( $article as element(), $ref as map(*) ) as element(
       qualtraitement="complet"
       idproprio="{map:get($ref, 'id')}"
       typeart="{$typeart}"
-      lang="fr"
+      lang="{fn:data($article/spip:lang)}"
+      idref="{$idref}"
+      horstheme="{$horstheme}"
       ordseq="1">{
         $admin,
         $liminaire,
         $corps,
-        <partiesann>{(
+        <partiesann lang="{fn:data($article/spip:lang)}">{(
           $biblio,
           $grnote
         )}</partiesann>
@@ -210,11 +223,8 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref
       <diffnum>
         <nomorg>Sens public</nomorg>
       </diffnum>
-      <histpapier>
-        <alinea>néant</alinea>
-      </histpapier>
       <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
-      <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+      <droitsauteur>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>     
     </admin>
 };
 
@@ -223,6 +233,8 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref
  : @param $article the SPIP article
  : @param $ref the article’s references
  : @return the grDescripteur XML erudit element
+ :
+ : todo : ne pas prendre les mots-clé admin
  :)
 declare function getDescripteurs( $article as element(), $ref as map(*) ) as element()* {
 let $descripteurs :=
@@ -319,10 +331,18 @@ declare function getIssue( $idSeq as xs:string* ) as xs:string* {
 declare function getTheme( $article as element(), $ref as map(*) ) as element() {
   let $issue := map:get($ref, 'issue')
   let $theme := db:open('sens-public')/spip:SPIP/spip:spip_articles[spip:id_article=$issue]/spip:titre
-  return
-   <grtheme id="{ 'th' || $issue }">
-     <theme>{ $theme/text() }</theme>
-   </grtheme>
+  return (if ($issue) then (
+    <grtheme id="{ 'th' || $issue }" >
+         <theme>{$theme/text()}</theme>
+    </grtheme>
+  )
+  else (
+    <grtheme>
+         <theme>Varia</theme>
+    </grtheme>    
+  )
+)
+   
 };
 
 (:~
@@ -337,12 +357,12 @@ declare function getTheme( $article as element(), $ref as map(*) ) as element() 
  : @param $article the SPIP article
  : @return the liminaire xml erudit element
  :)
-declare function getLiminaire( $article as element() ) as element() {
+declare function getLiminaire( $article as element(), $ref as map(*) ) as element() {
   <liminaire>
-    { getTitre($article),
+    { getTitre($article, $ref),
       getAuteurs($article),
       getResume($article),
-      getMotclef($article) }
+      getMotclef($article, $ref) }
   </liminaire>
 };
 
@@ -353,8 +373,14 @@ declare function getLiminaire( $article as element() ) as element() {
  :
  : @todo regex for unmarked sub-titles
  :)
-declare function getTitre($article as element() ) as element() {
+declare function getTitre($article as element(), $ref as map(*) ) as element() {
+  let $issue := map:get($ref, 'issue')
+  let $theme := db:open('sens-public')/spip:SPIP/spip:spip_articles[spip:id_article=$issue]/spip:titre
+  let $typeart := map:get( $ref, 'rubrique')
+  return
   <grtitre>
+    <surtitre>{ $theme/text() }</surtitre>
+    <surtitre2>{ $typeart }</surtitre2>
     <titre>{ passthru($article/spip:titre, map{ '':'' }) }</titre>
     { if ( $article/spip:soustitre != () )
         then <sstitre>{ passthru($article/spip:soustitre, map{ '':'' }) }</sstitre>
@@ -417,13 +443,20 @@ return
  : @return a sequence of grmotclef xml erudit element for various languages
  : @todo group by language fn:analyze-string($string, '\[([a-z]{2})\](.*?)')
  :)
-declare function getMotclef( $article as element() ) as element() {
+declare function getMotclef( $article as element(), $ref as map(*) ) as element() {
+  let $issue := map:get($ref, 'issue')
+  let $theme := db:open('sens-public')/spip:SPIP/spip:spip_articles[spip:id_article=$issue]/spip:titre
+  return
   <grmotcle lang="fr">
     {
       for $id in db:open('sens-public')//spip:spip_mots_articles[spip:id_article = $article/spip:id_article]/spip:id_mot
       let $mot := db:open('sens-public')//spip:spip_mots[spip:id_mot = $id]
       return if ($mot/spip:titre/spip:multi)
         then let $mot := fn:tokenize($mot/spip:titre/spip:multi/text(), '\[[a-z]{2}\]') return <motcle>{ $mot[2] }</motcle>
+        else if ($mot/spip:titre/text() = $theme/text()) then () 
+        else if ($mot/spip:titre/text() = "focus" ) then () 
+        else if ($mot/spip:titre/text() = "focuscreation" ) then () 
+        else if ($mot/spip:titre/text() = "essais" ) then () 
         else <motcle>{ $mot/spip:titre/text() }</motcle>
     }
   </grmotcle>
@@ -760,7 +793,7 @@ declare function functx:substring-after-last-match
  : @return a map sequence with the article references from the identifiants.xml file
  : @rmq change [1] to the volume you want to transform
  :)
-let $doc := $local:base || 'identifiants.xml'
+let $doc := $local:base || 'identifiants_test.xml'
 let $refs := for $article in fn:doc($doc)//sp:article
 return map {
   'id' : fn:data($article/@id),
