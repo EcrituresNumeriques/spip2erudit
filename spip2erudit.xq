@@ -10,12 +10,13 @@ xquery version "3.0" ;
  :
  : traité 2017-04-13:
  :   - suppr balise <histpapier>
- :   - gestion attribut lang pour balise <partiesann>
- :   - gestion attribut lang pour balise racine
- :   - gestion attribut idref/horstheme pour balise racine
+ :   - gestion attribut @lang pour balise <partiesann>
+ :   - gestion attribut @lang pour balise racine
+ :   - gestion attribut @idref/@horstheme pour balise racine et supprime l'un ou l'autre
  :   - gestion <droitauteur> = creativecommons
  :   - gestion <grtheme> Varia si n'appartient pas à un dossier
  :   - dans <grmotcles> suppression mots-clé titre de dossier, mot-clé admin
+ :   - gestion attribut @typeart dans balise racine
  : @todo br, num structure, titres h2 etc.
  : @todo object (vidéos)
  : @todo multiple p notes
@@ -65,6 +66,8 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
     let $ref := map:put( $ref, 'rubrique', map:get( $rubriques, $article/spip:id_rubrique/text()))
     let $file := map:get($ref, 'num') || '-article' || '.xml'
     let $article := getArticle($article, $ref)
+    let $issue := map:get($ref, 'issue')
+    let $article := if ($issue) then functx:remove-attributes($article, ('horstheme')) else functx:remove-attributes($article, ('idref'))
     return file:write($path || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
 };
 
@@ -85,10 +88,11 @@ declare function getArticle( $article as element(), $ref as map(*) ) as element(
   let $grnote := getNote($content)
   let $liminaire := getLiminaire($article, $ref)
   let $admin := getAdmin($article, $corps, $biblio, $grnote, $ref)
-  let $typeart := map:get( $ref, 'rubrique')
+  let $typeart := getTypeart(map:get( $ref, 'rubrique'))
   let $issue := map:get($ref, 'issue')
-  let $idref := if ($issue) then ("{ 'th' || $issue }") else ()
-  let $horstheme := if ($issue) then ("non") else ("oui")
+  let $idref := if ($issue) then ( 'th' || $issue ) else ()
+  let $horstheme := if ($issue) then () else ("oui")
+  let $ordseq := map:get($ref, 'n')
   return
     <article
       xmlns="http://www.erudit.org/xsd/article"
@@ -101,7 +105,7 @@ declare function getArticle( $article as element(), $ref as map(*) ) as element(
       lang="{fn:data($article/spip:lang)}"
       idref="{$idref}"
       horstheme="{$horstheme}"
-      ordseq="1">{
+      ordseq="{$ordseq}">{
         $admin,
         $liminaire,
         $corps,
@@ -111,6 +115,50 @@ declare function getArticle( $article as element(), $ref as map(*) ) as element(
         )}</partiesann>
     }</article>
 };
+
+
+(:~
+ : ~:~:~:~:~:~:~:~:~
+ : 3 functx functions
+ : ~:~:~:~:~:~:~:~:~
+ :)
+
+declare function functx:remove-attributes
+  ( $elements as element()* ,
+    $names as xs:string* )  as element() {
+
+   for $element in $elements
+   return element
+     {fn:node-name($element)}
+     {$element/@*[fn:not(functx:name-test(fn:name(),$names))],
+      $element/node() }
+ } ;
+ 
+declare function functx:name-test
+  ( $testname as xs:string? ,
+    $names as xs:string* )  as xs:boolean {
+
+$testname = $names
+or
+$names = '*'
+or
+functx:substring-after-if-contains($testname,':') =
+   (for $name in $names
+   return fn:substring-after($name,'*:'))
+or
+fn:substring-before($testname,':') =
+   (for $name in $names[fn:contains(.,':*')]
+   return fn:substring-before($name,':*'))
+ } ;
+
+declare function functx:substring-after-if-contains
+  ( $arg as xs:string? ,
+    $delim as xs:string )  as xs:string? {
+
+   if (fn:contains($arg,$delim))
+   then fn:substring-after($arg,$delim)
+   else $arg
+ } ;
 
 
 (:~
@@ -125,6 +173,18 @@ declare function getBiblio($content as element()) {
       return insert node <refbiblio>{ $refbiblio/alinea/node() }</refbiblio> into $biblio/biblio
     return $biblio
 };
+
+(:~
+ : This function gets the typeart
+ : @param $rubrique the article's rubriqueto be tested
+ : @return the restricted type of article according to Erudit Schema
+ :)
+declare function getTypeart($rubrique as item()) {
+    if			($rubrique = "Essai") 	then "article"
+    else if ($rubrique = "Lecture") then "compterendu"
+    else																 "autre"
+};
+
 
 (:~
  : This function get the notes
