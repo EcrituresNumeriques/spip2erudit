@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1910ear" typeart="Actes de colloque" lang="fr" ordseq="1">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1910ear" typeart="autre" lang="en" horstheme="oui" ordseq="10">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -11,7 +11,7 @@
         <descripteur>Internet</descripteur>
       </grdescripteur>
       <nbpara>147</nbpara>
-      <nbmot>6578</nbmot>
+      <nbmot>6586</nbmot>
       <nbfig>4</nbfig>
       <nbtabl>0</nbtabl>
       <nbimage>4</nbimage>
@@ -38,8 +38,8 @@
       <pubnum>
         <date typedate="publication">2016-03-06</date>
       </pubnum>
-      <grtheme id="th">
-        <theme/>
+      <grtheme>
+        <theme>Varia</theme>
       </grtheme>
     </numero>
     <editeur>
@@ -54,14 +54,13 @@
     <diffnum>
       <nomorg>Sens public</nomorg>
     </diffnum>
-    <histpapier>
-      <alinea>néant</alinea>
-    </histpapier>
     <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
-    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+    <droitsauteur>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
   </admin>
   <liminaire>
     <grtitre>
+      <surtitre/>
+      <surtitre2>Actes de colloque</surtitre2>
       <titre>Digital Praxis for Disseminating the French Language and Culture Globally</titre>
     </grtitre>
     <grauteur>
@@ -82,507 +81,676 @@
   </liminaire>
   <corps>
     <section1>
-      <titre3>
-        <marquage typemarq="italique">Translated into english by Amudha Lingeswaraan</marquage>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	<marquage typemarq="italique">Translated into english by Amudha Lingeswaraan</marquage>
       </titre3>
-      <titre3>Christophe PREMAT, Deputy for French residents overseas, for the Third constituency of Northern Europe</titre3>
-      <para>
-        <alinea> </alinea>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	Christophe PREMAT, Deputy for French residents overseas, for the Third constituency of Northern Europe</titre3>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <para>
-        <alinea>Honourable Ministers,</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Honourable Ministers,</alinea>
       </para>
-      <para>
-        <alinea>Ladies and Gentlemen,</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Ladies and Gentlemen,</alinea>
       </para>
-      <para>
-        <alinea>Advisors of the Assembly of French Citizens Overseas,</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Advisors of the Assembly of French Citizens Overseas,</alinea>
       </para>
-      <para>
-        <alinea>Distinguished Ambassadors,</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Distinguished Ambassadors,</alinea>
       </para>
-      <para>
-        <alinea>Dear representatives of the Government and economic stakeholders,</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Dear representatives of the Government and economic stakeholders,</alinea>
       </para>
-      <para>
-        <alinea> </alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <para>
-        <alinea>I thank you for coming here to discuss the issues involved in promoting the Francophonie through digital praxis. The French Citizens abroad are meeting for the first time after the reform. I am delighted that they are having a new forum to voice their views. With the increasing mobility of our fellow citizens, I firmly believe that digital praxis can bring solutions.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	I thank you for coming here to discuss the issues involved in promoting the Francophonie through digital praxis. The French Citizens abroad are meeting for the first time after the reform. I am delighted that they are having a new forum to voice their views. With the increasing mobility of our fellow citizens, I firmly believe that digital praxis can bring solutions.</alinea>
       </para>
-      <para>
-        <alinea>Likewise, the Attali report on August 26 to the French President highlights digital praxis as a platform for promoting French language and French people beyond our borders.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Likewise, the Attali report on August 26 to the French President highlights digital praxis as a platform for promoting French language and French people beyond our borders.</alinea>
       </para>
-      <para>
-        <alinea>The round table will address issues based around three themes:</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The round table will address issues based around three themes:</alinea>
       </para>
-      <para>
-        <alinea>• Digital praxis facilitates access to lifelong learning. The training courses must be professional and qualifying to facilitate international mobility. The Attali report rightly suggests to develop digital educational content, MOOCs (Massive Online Open Courses) known in French as FLOTs (Formations en Ligne Ouvertes à Tous).</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	• Digital praxis facilitates access to lifelong learning. The training courses must be professional and qualifying to facilitate international mobility. The Attali report rightly suggests to develop digital educational content, MOOCs (Massive Online Open Courses) known in French as FLOTs (Formations en Ligne Ouvertes à Tous).</alinea>
       </para>
-      <para>
-        <alinea>• Digital Praxis fosters the development of a media and content-based French economy.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	• Digital Praxis fosters the development of a media and content-based French economy.</alinea>
       </para>
-      <para>
-        <alinea>• Digital Praxis promotes access to French-language education. The French-speaking countries are establishing a foothold in the digital market.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	• Digital Praxis promotes access to French-language education. The French-speaking countries are establishing a foothold in the digital market.</alinea>
       </para>
-      <para>
-        <alinea>Our discussions will certainly be very fruitful. I call Gérard Wormser who does us the honour of moderating this round table.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Our discussions will certainly be very fruitful. I call Gérard Wormser who does us the honour of moderating this round table.</alinea>
       </para>
-      <figure>
+      <figure xmlns:xlink="http://www.w3.org/1999/xlink">
         <objetmedia flot="bloc">
           <image id="img4497" typeimage="figure"/>
         </objetmedia>
       </figure>
-      <titre3> </titre3>
-      <titre3>Gérard WORMSER, philosopher and editor of the journal Sens Public</titre3>
-      <para>
-        <alinea> </alinea>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	 </titre3>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	Gérard WORMSER, philosopher and editor of the journal Sens Public</titre3>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <para>
-        <alinea>There is a need to develop e-learning courses and to enable students to access qualifying courses.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	There is a need to develop e-learning courses and to enable students to access qualifying courses.</alinea>
       </para>
-      <para>
-        <alinea>Those who are taking online courses must have degrees recognized by the University.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Those who are taking online courses must have degrees recognized by the University.</alinea>
       </para>
-      <para>
-        <alinea>Proposal no. 44 provides students with a digital platform for monitoring.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Proposal no. 44 provides students with a digital platform for monitoring.</alinea>
       </para>
-      <para>
-        <alinea>The French High school abroad is a wonderful tool. Students are not monitored at this stage but are a great strength for our country.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The French High school abroad is a wonderful tool. Students are not monitored at this stage but are a great strength for our country.</alinea>
       </para>
-      <para>
-        <alinea>I would encourage you to download the Ferry report 3.0 on digital education.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	I would encourage you to download the Ferry report 3.0 on digital education.</alinea>
       </para>
-      <figure>
+      <figure xmlns:xlink="http://www.w3.org/1999/xlink">
         <objetmedia flot="bloc">
           <image id="img4498" typeimage="figure"/>
         </objetmedia>
       </figure>
-      <titre3> </titre3>
-      <titre3>Axelle LEMAIRE, Deputy Minister for Digital Affairs</titre3>
-      <para>
-        <alinea> </alinea>
-      </para>
-      <para>
-        <alinea>The honourable Member, dear Christophe, Distinguished Ambassadors,</alinea>
-      </para>
-      <para>
-        <alinea>I would like to thank you for the invitation. We are both elected representatives from Northern Europe. Christophe is a French language specialist and I am a digital technology expert.</alinea>
-      </para>
-      <para>
-        <alinea>This is the first time I am speaking on this twofold theme. Interestingly enough, La Francophonie is at the heart of my own personal story. I am a French-speaking citizen in Quebec that Gille Vigneault called “the vast land without borders, a French-speaking nation from within, the invisible, spiritual, mental, moral land that is in each of you.’</alinea>
-      </para>
-      <para>
-        <alinea>The digital field falling under my responsibility involves another value community, form of friendship, cooperation, sharing through innovative tools, but essentially similar in their ways of being and doing.</alinea>
-      </para>
-      <para>
-        <alinea>The Francophone diffusion curve systematically follows the projected deployment of Internet use in Africa. Between 1998 and today, the number of Internet users has increased from three hundred thousand to three billion.</alinea>
-      </para>
-      <para>
-        <alinea>With the digital and Francophone future in Africa, we need to rethink our analytic models based on a pre-eminence of European speakers for decades.</alinea>
-      </para>
-      <para>
-        <alinea>We must enhance the worldwide use of French vis-à-vis English. My colleague Annick Girardin will expand on educational issues related to learning French. We need to widen access to French language through digital praxis. As a result, I launched the French version of the online interactive platform called CODECADEMY that offers free coding classes with real professional opportunities and provides young people, wherever they are, with an avenue for creative expression in the digital world.</alinea>
-      </para>
-      <para>
-        <alinea>Developing educational content from the digital content Frameworks, scientific-cultural terminology and value will increasingly be created by using digital educational tools. I commend the pilot action undertaken by the AEFE, which in association with the CNED is capable of testing innovative solutions in this highly innovative field.</alinea>
-      </para>
-      <para>
-        <alinea>The figures show the parallelism between digital praxis and Francophonie, which is now finding it hard to exist in the digital world.</alinea>
-      </para>
-      <para>
-        <alinea>First, since digital praxis was born in Silicon Valley and its historical roots are so deep that American soft power now dominates the digital world to a point where all the vocabulary borrowed from this universe is in English. I am often accused of using the words “start up’, “scale up’, “digital’, “corporate venture’, “business angels’, “coding’, “and clusters’ but translating them in French is virtually impossible! It is here that the Francophonie has a role to play. Communities must stimulate open content production. Launched in June 2012, through an agreement between Wikimedia France and the French University Institute of the Francophonie, the AFRIPEDIA project aims at promoting access to Wikipedia in French-speaking Africa. Technology enables the dissemination of co-developed and freely shared knowledge. Overall, the programme contributes to creating a Wikipedia community where the people of French-speaking Africa can express themselves and share their culture.</alinea>
-      </para>
-      <para>
-        <alinea>An economic issue in the Attali report has caught my attention. The prospect of French becoming a worldwide spoken language presents a major market opportunity. Digital praxis has the advantage of lifting barriers to entry, which will be rewarding for the most challenging and fastest growing markets. French groups hold all the aces to be able to benefit from the development of the Francophonie, but foreign groups, which are currently much better prepared to target international markets, could rapidly overtake them.</alinea>
-      </para>
-      <para>
-        <alinea>For example, Africa is the second largest market for telephony in the world with phones selling four times as much as the computers. If less than 5% of Africa’s population is now having access to smartphones, this is expected to rise to nearly 20% in 2017.</alinea>
-      </para>
-      <para>
-        <alinea>At issue is not the question of using Africa’s resources but pursuing innovation and economic development policies drawing on the potential of the various partners within a framework of co-construction and co-development. I chose to attend the ICT 4 All (Digital Praxis for All) Forum, in Tunis, a strategic crossroads for the growing African digital market between Europe, Sub-Saharan Africa and the Middle East. The Forum marked the first anniversary of the Franco-Tunisian Digital Alliance (AFTN). Tunisian and French firms agreed to work towards aligning their outputs to foster interactions, synergies, staff exchanges and to expand internationally. The summit in Dubai will see the launching of the Franco-Tunisian trade fair. This alliance pairs people sharing a common language. US investors often came to London crossing the Atlantic Ocean due to a common language that explains the Anglo-Saxon law and similar cultural, social perceptions. They would have to go through the same exercise in Europe. The online presence of various languages is increasing despite the difficulty in measuring the exact proportion of content in each language. French falls in between the 4th and the 8th place. The Francophone and Francophile community offers a forum for cooperation and experience sharing. A common vocabulary is needed to promote understanding, trading, civil society working, greater trust and transparency. This vocabulary must include common frames of reference (in mapping), comparable formats (in accounting).</alinea>
-      </para>
-      <para>
-        <alinea>The translation of software documentation, including free software must be encouraged. It is worth mentioning the exemplary work of the French speaking Libre Software Users’ Association (AFUL), a key education player under the framework agreement with the French Ministry of National Education (since 1988) and the University Agency for French-speaking Communities (AUF) (since 1999). Finally, the greatest challenge is around Internet governance. The French-speaking countries must help developing Internet governance that makes up different languages and cultural backgrounds. This multi-actor governance must be inclusive, transparent and independent.</alinea>
-      </para>
-      <para>
-        <alinea>The Francophonie can tackle this serious threat to Internet governance. A few days after my appointment, I attended the World Summit in São Paulo. We had Russia, China and Iran in favour of content monitoring and others opposed to a free Internet for big platforms called OTT (over-the-top). Since this is, the virtual sphere that relies on market rules without protection of citizens’ personal data and cultural diversity. A third option is to build a more open and fair governance for the French-speaking countries to venture into large emerging economies like Brazil and India. This is a geopolitical game. Two weeks ago, at the United Nations General Assembly in New York, the President of the French Republic spoke about the Open Government Partnership (OGP). The OGP is an international association, which unites governments seeking best practices on Open Government and the open use of public data for reuse by the citizens to enhance growth, legitimacy and democratic credibility of their action. I hope the Francophonie will intervene in the same way as it did with international official bodies. However, the OGP is important in view of the issues at stake.</alinea>
-      </para>
-      <para>
-        <alinea>I would like to conclude quoting Boutros Boutros-Ghali, 20 years before the Internet, in Kotonou: “the Francophonie has necessarily to be subversive and imaginative’. This statement could have been converted into a digital format because the people involved consider themselves as hackers who can subvert an established order. We can always support this manifesto.</alinea>
-      </para>
-      <para>
-        <alinea> </alinea>
-      </para>
-      <titre3>Angélique DELORME and Adrienne BROTONS, reporters for Jacques Attali on Digital Francophonie</titre3>
-      <para>
-        <alinea> </alinea>
-      </para>
-      <para>
-        <alinea>Angélique DELORME, Supreme Court Judge, at the French Council of State,</alinea>
-      </para>
-      <para>
-        <alinea>Madam Secretary of State, the honourable Member, Ladies and Gentlemen,</alinea>
-      </para>
-      <para>
-        <alinea> </alinea>
-      </para>
-      <para>
-        <alinea>We are representing Mr. Attali, who could not be here this evening.</alinea>
-      </para>
-      <para>
-        <alinea>The presentation will be divided into three parts: (1) The connection between disseminating language and economic development, (2) digital praxis contributing to language development and (3) the different proposals in the report.</alinea>
-      </para>
-      <para>
-        <alinea>We used the macroeconomic theory of “gravity’ to demonstrate that sharing a common language leads to 65% additional exchange with the respective community, both at the micro- and the macro-economic levels. French products sell well within the Francophone countries that share a common language and philosophy. Trust within the business community is essential for developing trade relations. Sharing a common language also promotes co-development. The business location hinges on the capacity of the industries to recruit employees speaking the language of the firm’s country of origin. Like Renault began operations in Brazil in 1996, importing a car assembly plant, delivering French language training to Brazilian workers who are required to understand a number of French terms. Sharing a common language creates a North-South industry partnership in the French-speaking countries, a dynamic business environment through employment and training resulting from the dissemination of technical knowledge and improvement of staff skills.</alinea>
-      </para>
-      <para>
-        <alinea>Francophone identity was seen as a strong economic asset. Globally, the consumer trend is for differentiated products needed to break away from the Anglo-Saxon mould.</alinea>
-      </para>
-      <para>
-        <alinea>Francophone identity attracts any consumer and not just French-speaking consumers. We have analysed the worldwide trend of increased interest in the French language, culture and products among non-French-speaking people. French products also include Francophone products.</alinea>
-      </para>
-      <para>
-        <alinea>The consumption of Francophone music is significant in Asian countries far beyond the French-speaking African countries. This attractive Francophone identity goes on to explain the international appeal of businesses like agri-food, music, cinema, medicine, law and tourism in France.</alinea>
-      </para>
-      <para>
-        <alinea>Therefore, the Francophonie will foster development or the economic decline of the French-speaking countries.</alinea>
-      </para>
-      <titre3>Angélique DELORME, Supreme Court Judge, at the French Council of State</titre3>
-      <para>
-        <alinea> </alinea>
-      </para>
-      <para>
-        <alinea>I thank the honourable member for his invitation.</alinea>
-      </para>
-      <para>
-        <alinea>The report contains several proposals demonstrating why digital praxis is a tremendous asset intended for spreading the French language throughout the world. Let me make three points.</alinea>
-      </para>
-      <para>
-        <alinea>• Internet users</alinea>
-      </para>
-      <para>
-        <alinea>• language technology</alinea>
-      </para>
-      <para>
-        <alinea>• updating the traditional sectors through digital praxis</alinea>
-      </para>
-      <para>
-        <alinea>Internet use is booming with 3 billion Internet users worldwide. Mobile Internet usage via “smartphones’ is greatly on the rise. These “intelligent devices’ allow writing content, in real time. The ongoing explosion of new content on the Internet creates real competition among languages. Most information on Wikipedia is in English, pointing to its predominance on the Internet, but that does not mean the overwhelming success of the language.</alinea>
-      </para>
-      <para>
-        <alinea>Jacques Attali illustrates his point with a metaphor: “Everyone would have become a Christian with the invention of printing’, but that was not the case with the Bible being the first printed text. Likewise, the Internet is not necessarily a great win for the English language, which has become a sort of Esperanto, a common language without identity. Internet users want content in their own language and authors continue writing in their own language.</alinea>
-      </para>
-      <para>
-        <alinea>Language technology is a booming sector that is set to transform the mobile Internet experience. It involves machine translation, where a text message sent in French will be received in German. It is closely connected to general linguistics (creating a word cloud). The French language needs to ensure integrating into the software because this high-value added sector is limited to only five or six languages automatically translated and embedded in the software.</alinea>
-      </para>
-      <para>
-        <alinea>Unfortunately, major pioneering groups in the US have acquired French SMEs like SISTRAN specializing in machine translation with our excellent digital engineers. We have our part to play in capturing this core digital business with 66,000 French people living and working within the San Francisco Bay Area.</alinea>
-      </para>
-      <para>
-        <alinea>Let me finish with various sectors influenced by digital praxis.</alinea>
-      </para>
-      <para>
-        <alinea>Culture: TV and mass culture: DTT generated a worldwide explosion in the number of channels with the advantage of mobile applications collecting Francophone music. Digital praxis has revolutionized the music business. Today, we can listen to French-speaking singers like STROMAE in India, whereas earlier only a CD was available in music stores. The use of mobile platforms for downloading music could boost this sector. NETFLIX provides a quick and effective distribution of films within and beyond the French-speaking countries through digital praxis.</alinea>
-      </para>
-      <para>
-        <alinea>Education: will be the subject of broad discussion with regard to MOOCs (FLOTs) and language learning applications for mobile devices like smartphones.</alinea>
-      </para>
-      <para>
-        <alinea>e-Health: covers other gestation areas with opportunities through videoconferencing for consulting an online doctor. The language is critical to the quality of French medicine in Vietnam, where many doctors have received training in France.</alinea>
-      </para>
-      <para>
-        <alinea>Finance: in Africa, microcredit serves as a numeric tool for mobile banking by letting a traveller do his banking online rather than by ATM.</alinea>
-      </para>
-      <para>
-        <alinea>The lack of a proactive digital policy may involve a threat to the French language owing to the rise of many local-language channels through the growth of DTT in Africa. The failure to advance bilingualism may imply the disappearance of the use of French and this would spell disaster to the Francophone community.</alinea>
-      </para>
-      <para>
-        <alinea>This has led to a content war on the Internet. France is now lagging behind, occupying the eighth position in terms of content while French is the fifth language spoken worldwide.</alinea>
-      </para>
-      <para>
-        <alinea>A brief overview of Mr. Attali’s proposals for digital praxis:</alinea>
-      </para>
-      <para>
-        <alinea>Proposal number 5: Tailoring the CNED course to sociological and technological changes in line with the Ministry of Foreign Affairs</alinea>
-      </para>
-      <listenonord signe="disque">
-        <elemliste>
-          <alinea>Proposal number 6: Developing qualifying French MOOCS (FLOTs)</alinea>
-        </elemliste>
-        <elemliste>
-          <alinea>Proposal number 10: Distributing textbooks and software at French schools in developing countries</alinea>
-        </elemliste>
-        <elemliste>
-          <alinea>Proposal number 16: Starting a French-language business for Netflix</alinea>
-        </elemliste>
-        <elemliste>
-          <alinea>Proposal number 18: Seeking support from the French CNC for subtitling films in five langages</alinea>
-        </elemliste>
-        <elemliste>
-          <alinea>Proposal number 26: Implementing a French industrial policy for digital technology</alinea>
-        </elemliste>
-        <elemliste>
-          <alinea>Proposal number 44: Creating a digital platform for identifying students who have received part of their education in a French High school abroad or in a university in France or a French-speaking university</alinea>
-        </elemliste>
-      </listenonord>
-      <para>
-        <alinea> </alinea>
-      </para>
-      <titre3>Raphaël TAÏEB, director of ’livrescolaire.fr’</titre3>
-      <para>
-        <alinea>The honourable member, Ladies and Gentlemen, I would like to thank you for inviting me to broach a topical issue. I should like to start by presenting livrescolaire.fr building on statements from Minister Axelle Lemaire.</alinea>
-      </para>
-      <para>
-        <alinea>At livrescolaire.fr, we believe in “Co-developing open resources’, “Developing digital resources based on tablets’ and “Thinking internationally’. We are techno-publishers. As a technology start-up and publishing company, we compile textbooks in both paper and digital format.</alinea>
-      </para>
-      <para>
-        <alinea>We rely on a community of 1,000 teachers within France and in French schools abroad for content creation. We co-develop free and Open Source web resources under a Creative Commons licence.</alinea>
-      </para>
-      <para>
-        <alinea>With this successful model, 35,000 professors are using student textbooks in France and abroad. We are now focusing on the college and high school. Among 35,000 college professors, one in three professors engages with 250,000 students.</alinea>
-      </para>
-      <para>
-        <alinea>In 2009, we began using Open Source. The early 2010 saw the launch of iPad with the advent of an educational and digital revolution through our first collaborative free Open Source online textbook. At that time, we forged ahead of the US and California when the Governor Arnold Schwarzenegger had invited contributions to that end. We had entered the US market by creating a website similar to the one created in France that gathered an American community of fifty teachers teaching French as a foreign language to produce a textbook. We have demonstrated that France could be at the leading edge of digital and education issues.</alinea>
-      </para>
-      <para>
-        <alinea>Focusing on our growth, we had proposed an innovative business model to the local authorities in France. Almost 250 million euros are spent annually on purchasing textbooks. With fixed funding for designing a manual including content creation, purchase of icons and maps, and data collection by communities through open tenders). We would have placed free content on the web using open source software. We had met with twenty local communities but there was no response. America has now overtaken France, offering an extensive range of free Open Source online textbooks.</alinea>
-      </para>
-      <para>
-        <alinea>I recommend implementing a strong policy in light of the proposal number 10 to: “distribute free textbooks and software among French schools in developing countries’. Offering textbooks at a lower price reduces the increasing cost of schooling for children and spreads French culture. We are working on finding the local champions in the countries involved for co-developing content and producing Open Source educational resources.</alinea>
-      </para>
-      <para>
-        <alinea>Proposal number 26 for implementing a French industrial policy on digital technologies supports French e-learning companies with access to capital funds. It is proving very hard for digital and education start-ups to raise institutional funds despite guaranteeing an innovative educational project in France. Innovation in the field of digital education is pursued through public-private investment fund. Digital teaching can provide personalized education to students by supporting adaptive learning through the adaptation of content. We have developed an application in the field of grammar for identifying student difficulties with a scope for reviewing the basics.</alinea>
-      </para>
-      <para>
-        <alinea> </alinea>
-      </para>
-      <titre3>Olivier NUSSE, President of the French Music Export Office (BUREX) and Director of Mercury</titre3>
-      <para>
-        <alinea> </alinea>
-      </para>
-      <para>
-        <alinea>The honourable member, I thank you for the invitation. I am a producer of Universal Music Group. The widely anticipated Attali report articulates the importance of exporting French music and recommends, “building on the successful French-speaking music artists everywhere to encourage learning French’. Digital praxis has revolutionized the French music industry, relying on export-led growth. The French-language production sector is also doing well with Daft Punk and David Guetta being French. In 2013, 17 of the top 20 best-selling albums were in French in France. Today’s French artists like Fauve for rock, Christine and the Queens for songs or Zaz for variety, including Stromae for urban electronic music are the wonderful ambassadors of our language. A whole generation of artists are motivated by them to sing in French.</alinea>
-      </para>
-      <para>
-        <alinea>France is fortunate in having the French Music Export Office that was created using public-private capital about twenty years ago by independent and big producers of the phonographic industry. The main funding comes from the Ministries of Culture and Foreign Affairs. The BUREX is mainly responsible for developing export strategies, providing market intelligence and assistance for promoting artists’ projects. It can also grant financial aid to support development projects on recording or the performing arts. The BUREX has five offices abroad, in Berlin, London, Tokyo, New York and São Paulo.</alinea>
-      </para>
-      <para>
-        <alinea>With the borders, becoming porous, digital music is now available everywhere on all platforms. However, the field presence remains essential in helping artists to set up their project. The BUREX primarily supports Francophone projects that represent over one-third of French projects. It is equally important to scale up such projects in non-French-speaking countries like Germany, the 3rd global music market.</alinea>
-      </para>
-      <para>
-        <alinea>Since 1992, the BUREX has published and distributed teaching materials entitled ‘Génération française’ to French teachers around the world via the diplomatic network. The office in Berlin offers a song compilation with French lyrics used for French-language teaching through associated teaching materials. Hence, 200,000 students throughout Germany are having access to French-language training.</alinea>
-      </para>
-      <para>
-        <alinea>Recently, the BUREX has merged with Francophonie diffusion that sets out to promote Francophone music production with foreign media. Traditionally, music is promoted through sending discs to foreign media, and since 2000, through a distribution platform. We need to rethink how to use this platform at the BUREX 2.0.</alinea>
-      </para>
-      <para>
-        <alinea>The Attali report reiterates that the music industry has an export turnover of 239 million euros in France, and a total of 574 million euros, which is two times more than the turnover of the film industry. Yet, music receives eight times less public funding than films. Music is perhaps the fastest way to spread the Francophonie among young people. French music is especially popular in the non-French-speaking countries. At least one French song makes the top 100 on the streaming music platform Deezer in one hundred and twenty-five countries.</alinea>
-      </para>
-      <para>
-        <alinea>Stromae became known by disseminating content on the Internet in Belgium and continues to achieve success singing in French. Returning from a tour in the United States, where he sang in French to an American audience, Stromae is an incredibly positive ambassador for French music. The French touch Pop music is also in great demand. It is, therefore, a most opportune moment to develop tools for promoting French music.</alinea>
-      </para>
-      <para>
-        <alinea>We must extend the BUREX network by opening offices in other countries, notably in Africa where there are 100 million French-speaking people. The major recording companies are starting to settle there, where more than 80% of the population is connected to a mobile network. With opportunities via social networks and streaming platforms, there is emerging a model from mobiles that will be promoted in the near future. It is estimated that Africa has 30% to 40% of fans of francophone artists on the Internet.</alinea>
-      </para>
-      <para>
-        <alinea>We must mobilise the cultural network of the Quai d’Orsay, mainly the cultural attachés dedicated to cinema. We are fortunate enough to have the second largest global diplomatic network, which must support French music. The BUREX must modernize this digital platform by developing dedicated French music interfaces. This tool aims to maximize functionality for our partners in the field. We will also develop mobile phone applications as well as and informative and entertaining content for music. We have a severely limited budget for development of French music. The BUREX has only 3.1 million euros, whereas the British, Swedes and Koreans are setting out to invest in export. We can drive the French music business forward, with an expected growth of at least 5% in the coming years by investing in marketing tools.</alinea>
-      </para>
-      <para>
-        <alinea> </alinea>
-      </para>
-      <titre3>Clara DANON, Head of the Digital Mission Wing of the Ministry of Higher Education and Research</titre3>
-      <para>
-        <alinea> </alinea>
-      </para>
-      <para>
-        <alinea>I would like to explain the national policy established for online and digital training. Nobody uses the term CLOs, the official name of FLOTs or CLOMs, because it means the opposite of openness. Other speakers have used the English equivalent but we are striving for French language terms.</alinea>
-      </para>
-      <para>
-        <alinea>Distance learning or online training has been ongoing for a long time. The FLOTs are different from modern technologies that let several tens or even hundreds of thousands of people to connect at the same time. Furthermore, there is a significant global demand for lifelong learning. It is estimated that the number of students will increase from 100 to 198 million by 2025. This would require creating universities to accommodate 30,000 students a week. We move towards new learning approaches combining distance and presence.</alinea>
-      </para>
-      <para>
-        <alinea>The FLOTs are open because they are free with no prerequisites. However, new business models are springing up because the free portion is combined with paid services. It simply involves certifying the FLOTs and peer collaboration because it is not possible to monitor 30,000 people. Learners are thus supposed to help each other.</alinea>
-      </para>
-      <para>
-        <alinea>In the United States, large prestigious institutions have embarked on online programmes. Why not let the French institutions that are supposed to be autonomous do the same? The France Digital University initiative has been launched to drive synergy of skills and improve the visibility of the online training program, offered by French universities. This technical platform is based on a quality charter to enhance the trust in content and a joint animation for openness within the business ecosystem by mobilizing start-ups and major groups.</alinea>
-      </para>
-      <para>
-        <alinea>There is a continuous growth of the FLOT’s on this platform. Today, we have sixty-four completed over a few weeks because the FLOT training is shorter than the traditional training. We expect ninety-two FLOTs in 2015 with forty higher education institutions involving all disciplines like law, environment or mathematics. Such content can be highly specific or open to the public. However, half of the users hold at least a master’s degree. Consequently, this is a lifelong learning tool for autonomous individuals. We pay close attention to the security and confidentiality of data stored on the portal. The data collected should not be exploited commercially. It must be used for research because we are moving towards personalised learning practices. Under certain conditions, the platform is open to both French and foreign institutions including Francophone institutions. Certain institutions in the French-speaking parts of Belgium and in North Africa or in Africa wish to co-develop using this platform. A critical mass of institutions is arising. The training sessions are delivered in French including other languages because some courses are multilingual. 18 % of the people taking the FLOTs available on this platform are foreigners and 13 % are from French-speaking countries.</alinea>
-      </para>
-      <para>
-        <alinea>Using this platform built on open resources for more people to gain access to knowledge must produce revenues. We also need to increase the visibility of the platform. We must ensure co-developing content with the French-speaking countries, in particular African countries to produce contextualised content meeting specific needs. The partnership with the association of Francophone universities (AUF) is valuable with regard to African countries seeking training on malaria. Finally, there is need for online certification.</alinea>
-      </para>
-      <para>
-        <alinea>Digital praxis may also encourage mobility because online training incorporates physical presence in the host country. This allows distance learning of subject matter as well as the French language and culture. The FLOTS are a great asset to the Francophonie.</alinea>
-      </para>
-      <figure>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	 </titre3>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	Axelle LEMAIRE, Deputy Minister for Digital Affairs</titre3>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The honourable Member, dear Christophe, Distinguished Ambassadors,</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	I would like to thank you for the invitation. We are both elected representatives from Northern Europe. Christophe is a French language specialist and I am a digital technology expert.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	This is the first time I am speaking on this twofold theme. Interestingly enough, La Francophonie is at the heart of my own personal story. I am a French-speaking citizen in Quebec that Gille Vigneault called “the vast land without borders, a French-speaking nation from within, the invisible, spiritual, mental, moral land that is in each of you.’</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The digital field falling under my responsibility involves another value community, form of friendship, cooperation, sharing through innovative tools, but essentially similar in their ways of being and doing.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The Francophone diffusion curve systematically follows the projected deployment of Internet use in Africa. Between 1998 and today, the number of Internet users has increased from three hundred thousand to three billion.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	With the digital and Francophone future in Africa, we need to rethink our analytic models based on a pre-eminence of European speakers for decades.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	We must enhance the worldwide use of French vis-à-vis English. My colleague Annick Girardin will expand on educational issues related to learning French. We need to widen access to French language through digital praxis. As a result, I launched the French version of the online interactive platform called CODECADEMY that offers free coding classes with real professional opportunities and provides young people, wherever they are, with an avenue for creative expression in the digital world.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Developing educational content from the digital content Frameworks, scientific-cultural terminology and value will increasingly be created by using digital educational tools. I commend the pilot action undertaken by the AEFE, which in association with the CNED is capable of testing innovative solutions in this highly innovative field.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The figures show the parallelism between digital praxis and Francophonie, which is now finding it hard to exist in the digital world.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	First, since digital praxis was born in Silicon Valley and its historical roots are so deep that American soft power now dominates the digital world to a point where all the vocabulary borrowed from this universe is in English. I am often accused of using the words “start up’, “scale up’, “digital’, “corporate venture’, “business angels’, “coding’, “and clusters’ but translating them in French is virtually impossible! It is here that the Francophonie has a role to play. Communities must stimulate open content production. Launched in June 2012, through an agreement between Wikimedia France and the French University Institute of the Francophonie, the AFRIPEDIA project aims at promoting access to Wikipedia in French-speaking Africa. Technology enables the dissemination of co-developed and freely shared knowledge. Overall, the programme contributes to creating a Wikipedia community where the people of French-speaking Africa can express themselves and share their culture.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	An economic issue in the Attali report has caught my attention. The prospect of French becoming a worldwide spoken language presents a major market opportunity. Digital praxis has the advantage of lifting barriers to entry, which will be rewarding for the most challenging and fastest growing markets. French groups hold all the aces to be able to benefit from the development of the Francophonie, but foreign groups, which are currently much better prepared to target international markets, could rapidly overtake them.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	For example, Africa is the second largest market for telephony in the world with phones selling four times as much as the computers. If less than 5% of Africa’s population is now having access to smartphones, this is expected to rise to nearly 20% in 2017.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	At issue is not the question of using Africa’s resources but pursuing innovation and economic development policies drawing on the potential of the various partners within a framework of co-construction and co-development. I chose to attend the ICT 4 All (Digital Praxis for All) Forum, in Tunis, a strategic crossroads for the growing African digital market between Europe, Sub-Saharan Africa and the Middle East. The Forum marked the first anniversary of the Franco-Tunisian Digital Alliance (AFTN). Tunisian and French firms agreed to work towards aligning their outputs to foster interactions, synergies, staff exchanges and to expand internationally. The summit in Dubai will see the launching of the Franco-Tunisian trade fair. This alliance pairs people sharing a common language. US investors often came to London crossing the Atlantic Ocean due to a common language that explains the Anglo-Saxon law and similar cultural, social perceptions. They would have to go through the same exercise in Europe. The online presence of various languages is increasing despite the difficulty in measuring the exact proportion of content in each language. French falls in between the 4th and the 8th place. The Francophone and Francophile community offers a forum for cooperation and experience sharing. A common vocabulary is needed to promote understanding, trading, civil society working, greater trust and transparency. This vocabulary must include common frames of reference (in mapping), comparable formats (in accounting).</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The translation of software documentation, including free software must be encouraged. It is worth mentioning the exemplary work of the French speaking Libre Software Users’ Association (AFUL), a key education player under the framework agreement with the French Ministry of National Education (since 1988) and the University Agency for French-speaking Communities (AUF) (since 1999). Finally, the greatest challenge is around Internet governance. The French-speaking countries must help developing Internet governance that makes up different languages and cultural backgrounds. This multi-actor governance must be inclusive, transparent and independent.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The Francophonie can tackle this serious threat to Internet governance. A few days after my appointment, I attended the World Summit in São Paulo. We had Russia, China and Iran in favour of content monitoring and others opposed to a free Internet for big platforms called OTT (over-the-top). Since this is, the virtual sphere that relies on market rules without protection of citizens’ personal data and cultural diversity. A third option is to build a more open and fair governance for the French-speaking countries to venture into large emerging economies like Brazil and India. This is a geopolitical game. Two weeks ago, at the United Nations General Assembly in New York, the President of the French Republic spoke about the Open Government Partnership (OGP). The OGP is an international association, which unites governments seeking best practices on Open Government and the open use of public data for reuse by the citizens to enhance growth, legitimacy and democratic credibility of their action. I hope the Francophonie will intervene in the same way as it did with international official bodies. However, the OGP is important in view of the issues at stake.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	I would like to conclude quoting Boutros Boutros-Ghali, 20 years before the Internet, in Kotonou: “the Francophonie has necessarily to be subversive and imaginative’. This statement could have been converted into a digital format because the people involved consider themselves as hackers who can subvert an established order. We can always support this manifesto.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
+      </para>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	Angélique DELORME and Adrienne BROTONS, reporters for Jacques Attali on Digital Francophonie</titre3>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Angélique DELORME, Supreme Court Judge, at the French Council of State,</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Madam Secretary of State, the honourable Member, Ladies and Gentlemen,</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	We are representing Mr. Attali, who could not be here this evening.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The presentation will be divided into three parts: (1) The connection between disseminating language and economic development, (2) digital praxis contributing to language development and (3) the different proposals in the report.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	We used the macroeconomic theory of “gravity’ to demonstrate that sharing a common language leads to 65% additional exchange with the respective community, both at the micro- and the macro-economic levels. French products sell well within the Francophone countries that share a common language and philosophy. Trust within the business community is essential for developing trade relations. Sharing a common language also promotes co-development. The business location hinges on the capacity of the industries to recruit employees speaking the language of the firm’s country of origin. Like Renault began operations in Brazil in 1996, importing a car assembly plant, delivering French language training to Brazilian workers who are required to understand a number of French terms. Sharing a common language creates a North-South industry partnership in the French-speaking countries, a dynamic business environment through employment and training resulting from the dissemination of technical knowledge and improvement of staff skills.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Francophone identity was seen as a strong economic asset. Globally, the consumer trend is for differentiated products needed to break away from the Anglo-Saxon mould.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Francophone identity attracts any consumer and not just French-speaking consumers. We have analysed the worldwide trend of increased interest in the French language, culture and products among non-French-speaking people. French products also include Francophone products.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The consumption of Francophone music is significant in Asian countries far beyond the French-speaking African countries. This attractive Francophone identity goes on to explain the international appeal of businesses like agri-food, music, cinema, medicine, law and tourism in France.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Therefore, the Francophonie will foster development or the economic decline of the French-speaking countries.</alinea>
+      </para>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	Angélique DELORME, Supreme Court Judge, at the French Council of State</titre3>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	I thank the honourable member for his invitation.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The report contains several proposals demonstrating why digital praxis is a tremendous asset intended for spreading the French language throughout the world. Let me make three points.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	• Internet users</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	• language technology</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	• updating the traditional sectors through digital praxis</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Internet use is booming with 3 billion Internet users worldwide. Mobile Internet usage via “smartphones’ is greatly on the rise. These “intelligent devices’ allow writing content, in real time. The ongoing explosion of new content on the Internet creates real competition among languages. Most information on Wikipedia is in English, pointing to its predominance on the Internet, but that does not mean the overwhelming success of the language.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Jacques Attali illustrates his point with a metaphor: “Everyone would have become a Christian with the invention of printing’, but that was not the case with the Bible being the first printed text. Likewise, the Internet is not necessarily a great win for the English language, which has become a sort of Esperanto, a common language without identity. Internet users want content in their own language and authors continue writing in their own language.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Language technology is a booming sector that is set to transform the mobile Internet experience. It involves machine translation, where a text message sent in French will be received in German. It is closely connected to general linguistics (creating a word cloud). The French language needs to ensure integrating into the software because this high-value added sector is limited to only five or six languages automatically translated and embedded in the software.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Unfortunately, major pioneering groups in the US have acquired French SMEs like SISTRAN specializing in machine translation with our excellent digital engineers. We have our part to play in capturing this core digital business with 66,000 French people living and working within the San Francisco Bay Area.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Let me finish with various sectors influenced by digital praxis.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Culture: TV and mass culture: DTT generated a worldwide explosion in the number of channels with the advantage of mobile applications collecting Francophone music. Digital praxis has revolutionized the music business. Today, we can listen to French-speaking singers like STROMAE in India, whereas earlier only a CD was available in music stores. The use of mobile platforms for downloading music could boost this sector. NETFLIX provides a quick and effective distribution of films within and beyond the French-speaking countries through digital praxis.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Education: will be the subject of broad discussion with regard to MOOCs (FLOTs) and language learning applications for mobile devices like smartphones.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	e-Health: covers other gestation areas with opportunities through videoconferencing for consulting an online doctor. The language is critical to the quality of French medicine in Vietnam, where many doctors have received training in France.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Finance: in Africa, microcredit serves as a numeric tool for mobile banking by letting a traveller do his banking online rather than by ATM.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The lack of a proactive digital policy may involve a threat to the French language owing to the rise of many local-language channels through the growth of DTT in Africa. The failure to advance bilingualism may imply the disappearance of the use of French and this would spell disaster to the Francophone community.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	This has led to a content war on the Internet. France is now lagging behind, occupying the eighth position in terms of content while French is the fifth language spoken worldwide.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	A brief overview of Mr. Attali’s proposals for digital praxis:</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Proposal number 5: Tailoring the CNED course to sociological and technological changes in line with the Ministry of Foreign Affairs</alinea>
+      </para>
+      <listenonord xmlns:xlink="http://www.w3.org/1999/xlink" signe="disque">
+	<elemliste>
+		<alinea>
+			Proposal number 6: Developing qualifying French MOOCS (FLOTs)</alinea>
+	</elemliste>
+	<elemliste>
+		<alinea>
+			Proposal number 10: Distributing textbooks and software at French schools in developing countries</alinea>
+	</elemliste>
+	<elemliste>
+		<alinea>
+			Proposal number 16: Starting a French-language business for Netflix</alinea>
+	</elemliste>
+	<elemliste>
+		<alinea>
+			Proposal number 18: Seeking support from the French CNC for subtitling films in five langages</alinea>
+	</elemliste>
+	<elemliste>
+		<alinea>
+			Proposal number 26: Implementing a French industrial policy for digital technology</alinea>
+	</elemliste>
+	<elemliste>
+		<alinea>
+			Proposal number 44: Creating a digital platform for identifying students who have received part of their education in a French High school abroad or in a university in France or a French-speaking university</alinea>
+	</elemliste>
+</listenonord>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
+      </para>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	Raphaël TAÏEB, director of ’livrescolaire.fr’</titre3>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The honourable member, Ladies and Gentlemen, I would like to thank you for inviting me to broach a topical issue. I should like to start by presenting livrescolaire.fr building on statements from Minister Axelle Lemaire.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	At livrescolaire.fr, we believe in “Co-developing open resources’, “Developing digital resources based on tablets’ and “Thinking internationally’. We are techno-publishers. As a technology start-up and publishing company, we compile textbooks in both paper and digital format.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	We rely on a community of 1,000 teachers within France and in French schools abroad for content creation. We co-develop free and Open Source web resources under a Creative Commons licence.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	With this successful model, 35,000 professors are using student textbooks in France and abroad. We are now focusing on the college and high school. Among 35,000 college professors, one in three professors engages with 250,000 students.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	In 2009, we began using Open Source. The early 2010 saw the launch of iPad with the advent of an educational and digital revolution through our first collaborative free Open Source online textbook. At that time, we forged ahead of the US and California when the Governor Arnold Schwarzenegger had invited contributions to that end. We had entered the US market by creating a website similar to the one created in France that gathered an American community of fifty teachers teaching French as a foreign language to produce a textbook. We have demonstrated that France could be at the leading edge of digital and education issues.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Focusing on our growth, we had proposed an innovative business model to the local authorities in France. Almost 250 million euros are spent annually on purchasing textbooks. With fixed funding for designing a manual including content creation, purchase of icons and maps, and data collection by communities through open tenders). We would have placed free content on the web using open source software. We had met with twenty local communities but there was no response. America has now overtaken France, offering an extensive range of free Open Source online textbooks.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	I recommend implementing a strong policy in light of the proposal number 10 to: “distribute free textbooks and software among French schools in developing countries’. Offering textbooks at a lower price reduces the increasing cost of schooling for children and spreads French culture. We are working on finding the local champions in the countries involved for co-developing content and producing Open Source educational resources.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Proposal number 26 for implementing a French industrial policy on digital technologies supports French e-learning companies with access to capital funds. It is proving very hard for digital and education start-ups to raise institutional funds despite guaranteeing an innovative educational project in France. Innovation in the field of digital education is pursued through public-private investment fund. Digital teaching can provide personalized education to students by supporting adaptive learning through the adaptation of content. We have developed an application in the field of grammar for identifying student difficulties with a scope for reviewing the basics.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
+      </para>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	Olivier NUSSE, President of the French Music Export Office (BUREX) and Director of Mercury</titre3>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The honourable member, I thank you for the invitation. I am a producer of Universal Music Group. The widely anticipated Attali report articulates the importance of exporting French music and recommends, “building on the successful French-speaking music artists everywhere to encourage learning French’. Digital praxis has revolutionized the French music industry, relying on export-led growth. The French-language production sector is also doing well with Daft Punk and David Guetta being French. In 2013, 17 of the top 20 best-selling albums were in French in France. Today’s French artists like Fauve for rock, Christine and the Queens for songs or Zaz for variety, including Stromae for urban electronic music are the wonderful ambassadors of our language. A whole generation of artists are motivated by them to sing in French.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	France is fortunate in having the French Music Export Office that was created using public-private capital about twenty years ago by independent and big producers of the phonographic industry. The main funding comes from the Ministries of Culture and Foreign Affairs. The BUREX is mainly responsible for developing export strategies, providing market intelligence and assistance for promoting artists’ projects. It can also grant financial aid to support development projects on recording or the performing arts. The BUREX has five offices abroad, in Berlin, London, Tokyo, New York and São Paulo.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	With the borders, becoming porous, digital music is now available everywhere on all platforms. However, the field presence remains essential in helping artists to set up their project. The BUREX primarily supports Francophone projects that represent over one-third of French projects. It is equally important to scale up such projects in non-French-speaking countries like Germany, the 3rd global music market.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Since 1992, the BUREX has published and distributed teaching materials entitled ‘Génération française’ to French teachers around the world via the diplomatic network. The office in Berlin offers a song compilation with French lyrics used for French-language teaching through associated teaching materials. Hence, 200,000 students throughout Germany are having access to French-language training.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Recently, the BUREX has merged with Francophonie diffusion that sets out to promote Francophone music production with foreign media. Traditionally, music is promoted through sending discs to foreign media, and since 2000, through a distribution platform. We need to rethink how to use this platform at the BUREX 2.0.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The Attali report reiterates that the music industry has an export turnover of 239 million euros in France, and a total of 574 million euros, which is two times more than the turnover of the film industry. Yet, music receives eight times less public funding than films. Music is perhaps the fastest way to spread the Francophonie among young people. French music is especially popular in the non-French-speaking countries. At least one French song makes the top 100 on the streaming music platform Deezer in one hundred and twenty-five countries.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Stromae became known by disseminating content on the Internet in Belgium and continues to achieve success singing in French. Returning from a tour in the United States, where he sang in French to an American audience, Stromae is an incredibly positive ambassador for French music. The French touch Pop music is also in great demand. It is, therefore, a most opportune moment to develop tools for promoting French music.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	We must extend the BUREX network by opening offices in other countries, notably in Africa where there are 100 million French-speaking people. The major recording companies are starting to settle there, where more than 80% of the population is connected to a mobile network. With opportunities via social networks and streaming platforms, there is emerging a model from mobiles that will be promoted in the near future. It is estimated that Africa has 30% to 40% of fans of francophone artists on the Internet.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	We must mobilise the cultural network of the Quai d’Orsay, mainly the cultural attachés dedicated to cinema. We are fortunate enough to have the second largest global diplomatic network, which must support French music. The BUREX must modernize this digital platform by developing dedicated French music interfaces. This tool aims to maximize functionality for our partners in the field. We will also develop mobile phone applications as well as and informative and entertaining content for music. We have a severely limited budget for development of French music. The BUREX has only 3.1 million euros, whereas the British, Swedes and Koreans are setting out to invest in export. We can drive the French music business forward, with an expected growth of at least 5% in the coming years by investing in marketing tools.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
+      </para>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	Clara DANON, Head of the Digital Mission Wing of the Ministry of Higher Education and Research</titre3>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	I would like to explain the national policy established for online and digital training. Nobody uses the term CLOs, the official name of FLOTs or CLOMs, because it means the opposite of openness. Other speakers have used the English equivalent but we are striving for French language terms.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Distance learning or online training has been ongoing for a long time. The FLOTs are different from modern technologies that let several tens or even hundreds of thousands of people to connect at the same time. Furthermore, there is a significant global demand for lifelong learning. It is estimated that the number of students will increase from 100 to 198 million by 2025. This would require creating universities to accommodate 30,000 students a week. We move towards new learning approaches combining distance and presence.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The FLOTs are open because they are free with no prerequisites. However, new business models are springing up because the free portion is combined with paid services. It simply involves certifying the FLOTs and peer collaboration because it is not possible to monitor 30,000 people. Learners are thus supposed to help each other.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	In the United States, large prestigious institutions have embarked on online programmes. Why not let the French institutions that are supposed to be autonomous do the same? The France Digital University initiative has been launched to drive synergy of skills and improve the visibility of the online training program, offered by French universities. This technical platform is based on a quality charter to enhance the trust in content and a joint animation for openness within the business ecosystem by mobilizing start-ups and major groups.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	There is a continuous growth of the FLOT’s on this platform. Today, we have sixty-four completed over a few weeks because the FLOT training is shorter than the traditional training. We expect ninety-two FLOTs in 2015 with forty higher education institutions involving all disciplines like law, environment or mathematics. Such content can be highly specific or open to the public. However, half of the users hold at least a master’s degree. Consequently, this is a lifelong learning tool for autonomous individuals. We pay close attention to the security and confidentiality of data stored on the portal. The data collected should not be exploited commercially. It must be used for research because we are moving towards personalised learning practices. Under certain conditions, the platform is open to both French and foreign institutions including Francophone institutions. Certain institutions in the French-speaking parts of Belgium and in North Africa or in Africa wish to co-develop using this platform. A critical mass of institutions is arising. The training sessions are delivered in French including other languages because some courses are multilingual. 18 % of the people taking the FLOTs available on this platform are foreigners and 13 % are from French-speaking countries.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Using this platform built on open resources for more people to gain access to knowledge must produce revenues. We also need to increase the visibility of the platform. We must ensure co-developing content with the French-speaking countries, in particular African countries to produce contextualised content meeting specific needs. The partnership with the association of Francophone universities (AUF) is valuable with regard to African countries seeking training on malaria. Finally, there is need for online certification.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Digital praxis may also encourage mobility because online training incorporates physical presence in the host country. This allows distance learning of subject matter as well as the French language and culture. The FLOTS are a great asset to the Francophonie.</alinea>
+      </para>
+      <figure xmlns:xlink="http://www.w3.org/1999/xlink">
         <objetmedia flot="bloc">
           <image id="img4499" typeimage="figure"/>
         </objetmedia>
       </figure>
-      <titre3>Annick GIRARDIN, Secretary of State for the Francophonie</titre3>
-      <para>
-        <alinea> </alinea>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	Annick GIRARDIN, Secretary of State for the Francophonie</titre3>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <para>
-        <alinea>I would have liked to split my time with my colleague Mrs. Axelle Lemaire to highlight the fact that digital praxis and the Francophonie are inseparable. However, let me say it differently.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	I would have liked to split my time with my colleague Mrs. Axelle Lemaire to highlight the fact that digital praxis and the Francophonie are inseparable. However, let me say it differently.</alinea>
       </para>
-      <para>
-        <alinea>Digital praxis provides the opportunity to successfully spread and teach the French language. It is not the only solution but is a key element for promoting our language. A prophecy of 800 million French speakers in the middle of the century that comes to our attention will only be achieved through new techniques for spreading the French language.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Digital praxis provides the opportunity to successfully spread and teach the French language. It is not the only solution but is a key element for promoting our language. A prophecy of 800 million French speakers in the middle of the century that comes to our attention will only be achieved through new techniques for spreading the French language.</alinea>
       </para>
-      <para>
-        <alinea>The French Institute’s experience in offering distance education shows that this mode of instruction brings about three changes. The learner who is at the center for reverse education begins to learn before developing interaction with teachers. The teachers are no longer acting as trainers but as facilitators, or coaches. Courses are evaluated and validated within a new framework. The changing teaching methods beckon us to anticipate future trends and to adjust to new realities.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The French Institute’s experience in offering distance education shows that this mode of instruction brings about three changes. The learner who is at the center for reverse education begins to learn before developing interaction with teachers. The teachers are no longer acting as trainers but as facilitators, or coaches. Courses are evaluated and validated within a new framework. The changing teaching methods beckon us to anticipate future trends and to adjust to new realities.</alinea>
       </para>
-      <para>
-        <alinea>Digital praxis opens up new opportunities for supporting French education. The “100,000 professors for Africa’ program launched this year focuses on distance education for teachers and on networking through devices developed by the French Institute. The program relies on a digital vocational French education base and on the social network of French teachers. These two tools will be presented next month at the Francophonie Summit to be held in Dakar. The devices complement those developed by the International Organization of la Francophonie and, which regrettably cannot receive more support from us. The revolution in digital education involves the use of DVD to complement the teachers’ work. Moreover, RFI and TV5 Monde develop French language training programs on their stations and their websites. The two networks are exceptional tools.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Digital praxis opens up new opportunities for supporting French education. The “100,000 professors for Africa’ program launched this year focuses on distance education for teachers and on networking through devices developed by the French Institute. The program relies on a digital vocational French education base and on the social network of French teachers. These two tools will be presented next month at the Francophonie Summit to be held in Dakar. The devices complement those developed by the International Organization of la Francophonie and, which regrettably cannot receive more support from us. The revolution in digital education involves the use of DVD to complement the teachers’ work. Moreover, RFI and TV5 Monde develop French language training programs on their stations and their websites. The two networks are exceptional tools.</alinea>
       </para>
-      <para>
-        <alinea>The provision of French language training and French education must be part of the comprehensive offering. If we fail to do so, our language will become less interesting and less useful. I am convinced that the French language will live on, thriving into the world, as an opportunity by those who practice it. The Francophonie must also convey a positive and dynamic message. It must be culturally and economically appealing in terms of training, entry into the labour market and business potential. The availability of networks to spread content to the most remote regions will bring about this change. Electricity is necessary. France is now encouraging public and private actors to get more involved in the immense Access Network Project in Africa.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The provision of French language training and French education must be part of the comprehensive offering. If we fail to do so, our language will become less interesting and less useful. I am convinced that the French language will live on, thriving into the world, as an opportunity by those who practice it. The Francophonie must also convey a positive and dynamic message. It must be culturally and economically appealing in terms of training, entry into the labour market and business potential. The availability of networks to spread content to the most remote regions will bring about this change. Electricity is necessary. France is now encouraging public and private actors to get more involved in the immense Access Network Project in Africa.</alinea>
       </para>
-      <para>
-        <alinea>When it comes to content, our program aims at making a widespread online course offering for every form of learning. The success of this program depends on the increased provision of vocational and university training in French. The late French offer catches up. Moreover, we must continue to innovate, using the digital tablets to replace traditional textbooks. The French Development Agency is trying it out at colleges in Madagascar, Niger and Senegal. This type of innovation falls out of scope. Last week, I received the Minister of Education and Culture of Uruguay, an observer member of la Francophonie who mentioned about the distribution of a low-cost laptop to each student. Following an experiment conducted in 2007, the practice became widespread leading to the distribution of more than 500,000 laptops. Today the country benefits from the development of the online content offering. They wished to develop distance education in English and, I was asked to develop a French online course. We are yet to know which of the public or private actor in France will be at the forefront to meet this solvent demand. The Attali report invites us to work collectively to respond in a timely fashion.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	When it comes to content, our program aims at making a widespread online course offering for every form of learning. The success of this program depends on the increased provision of vocational and university training in French. The late French offer catches up. Moreover, we must continue to innovate, using the digital tablets to replace traditional textbooks. The French Development Agency is trying it out at colleges in Madagascar, Niger and Senegal. This type of innovation falls out of scope. Last week, I received the Minister of Education and Culture of Uruguay, an observer member of la Francophonie who mentioned about the distribution of a low-cost laptop to each student. Following an experiment conducted in 2007, the practice became widespread leading to the distribution of more than 500,000 laptops. Today the country benefits from the development of the online content offering. They wished to develop distance education in English and, I was asked to develop a French online course. We are yet to know which of the public or private actor in France will be at the forefront to meet this solvent demand. The Attali report invites us to work collectively to respond in a timely fashion.</alinea>
       </para>
-      <para>
-        <alinea>We must not address the Francophonie as a separate issue. Instead, it has to fit in with our solidarity and development policy. Therefore, we are in favour of creating the Franco-African Foundation for growth, to develop an exchange of young talent, university learning partnerships, as well as a digital platform. We will ensure that the Francophonie participates fully because we must use all channels to promote the French language. I hope that the innovation for development involves the Francophonie. We have a development policy for the sixteen top priority countries, all of which are French-speaking countries, except one country. Often, our responses are formulated in English with the support of our European neighbours. In the French-speaking African countries, the activities aimed at preventing climate risks or strengthening health systems are most effective when conducted in French. The Minister of Guinea told me that the UN had appointed an English coordinator, as head of the mission to fight against Ebola. He does not speak French while many French-speaking countries are in the West African region. We need to be vigilant on this issue. Other languages must not compete with the Francophonie. We must strive to ensure that our language is at the forefront of concrete and innovative projects involving public and private entities.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	We must not address the Francophonie as a separate issue. Instead, it has to fit in with our solidarity and development policy. Therefore, we are in favour of creating the Franco-African Foundation for growth, to develop an exchange of young talent, university learning partnerships, as well as a digital platform. We will ensure that the Francophonie participates fully because we must use all channels to promote the French language. I hope that the innovation for development involves the Francophonie. We have a development policy for the sixteen top priority countries, all of which are French-speaking countries, except one country. Often, our responses are formulated in English with the support of our European neighbours. In the French-speaking African countries, the activities aimed at preventing climate risks or strengthening health systems are most effective when conducted in French. The Minister of Guinea told me that the UN had appointed an English coordinator, as head of the mission to fight against Ebola. He does not speak French while many French-speaking countries are in the West African region. We need to be vigilant on this issue. Other languages must not compete with the Francophonie. We must strive to ensure that our language is at the forefront of concrete and innovative projects involving public and private entities.</alinea>
       </para>
-      <para>
-        <alinea> </alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <titre3>Hélène FARNAUD-DEFROMONT, Director of the Agency for French Education Abroad</titre3>
-      <para>
-        <alinea> </alinea>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	Hélène FARNAUD-DEFROMONT, Director of the Agency for French Education Abroad</titre3>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <para>
-        <alinea>The Agency for French Teaching Abroad (AEFE) includes the French schools abroad approved by the French Ministry of National Education and, which offer French programs. This school year, 500 schools in over 133 countries cater for 327,000 students. France is the only country in the world to have such a network resulting from a proactive policy. The network has a threefold mission:</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The Agency for French Teaching Abroad (AEFE) includes the French schools abroad approved by the French Ministry of National Education and, which offer French programs. This school year, 500 schools in over 133 countries cater for 327,000 students. France is the only country in the world to have such a network resulting from a proactive policy. The network has a threefold mission:</alinea>
       </para>
-      <para>
-        <alinea>• Integration of French students residing abroad ;</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	• Integration of French students residing abroad ;</alinea>
       </para>
-      <para>
-        <alinea>• Integration of foreign students who choose the French education system ;</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	• Integration of foreign students who choose the French education system ;</alinea>
       </para>
-      <para>
-        <alinea>• Educational cooperation in a number of countries where institutions close inward on themselves; Our institutions are increasingly open to the language and culture of their host countries.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	• Educational cooperation in a number of countries where institutions close inward on themselves; Our institutions are increasingly open to the language and culture of their host countries.</alinea>
       </para>
-      <para>
-        <alinea>Hence, the Francophonie is a transversal concept. For example, of the 327,000 students enrolled this year, more than 200,000 are not French. The majority of them are not native French speakers. French is therefore the language of the school according to parental choice. This is a major challenge in terms of teaching methods employed in our institutions. We are trying to be a step ahead because we teach trilingual children. We teach excellent French speakers and we are working to make sure that they progress in their native language and they learn English. These trilingual children approach higher education with ease. The Francophonie coexists harmoniously with other languages.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Hence, the Francophonie is a transversal concept. For example, of the 327,000 students enrolled this year, more than 200,000 are not French. The majority of them are not native French speakers. French is therefore the language of the school according to parental choice. This is a major challenge in terms of teaching methods employed in our institutions. We are trying to be a step ahead because we teach trilingual children. We teach excellent French speakers and we are working to make sure that they progress in their native language and they learn English. These trilingual children approach higher education with ease. The Francophonie coexists harmoniously with other languages.</alinea>
       </para>
-      <para>
-        <alinea>Innovation is the implementation of the institutional rebuilding plan and this makes digital praxis a priority for the French education system. We have documented a number of innovations implemented spontaneously by our teaching staff. We share these innovations with the Ministry of National Education. One such innovation is the paperless certification system in the Baccalaureate. Our goal is to have all documents automated within two years. Currently two thirds of the 15,000 students have their documents automated. To accomplish this, we use a French technology in line with the Ministry of National Education.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Innovation is the implementation of the institutional rebuilding plan and this makes digital praxis a priority for the French education system. We have documented a number of innovations implemented spontaneously by our teaching staff. We share these innovations with the Ministry of National Education. One such innovation is the paperless certification system in the Baccalaureate. Our goal is to have all documents automated within two years. Currently two thirds of the 15,000 students have their documents automated. To accomplish this, we use a French technology in line with the Ministry of National Education.</alinea>
       </para>
-      <para>
-        <alinea>Digital praxis is required for creating an international network and best practices in work and communication between teachers and institutions. Like others, we are prone to international crises, be it political or health. The Ebola virus attacking West Africa mainly affects us, as we have institutions in Equatorial Guinea and Nigeria. The authorities have postponed the new school year by three weeks in all the educational institutions throughout the country. All our students and teachers were present on 2 September in the facility. For these three weeks to be covered, we have put in place an educational platform, which allows everyone to stay home. At the time of the French intervention in Mali, teachers had created an educational platform for students of the Liberty school.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Digital praxis is required for creating an international network and best practices in work and communication between teachers and institutions. Like others, we are prone to international crises, be it political or health. The Ebola virus attacking West Africa mainly affects us, as we have institutions in Equatorial Guinea and Nigeria. The authorities have postponed the new school year by three weeks in all the educational institutions throughout the country. All our students and teachers were present on 2 September in the facility. For these three weeks to be covered, we have put in place an educational platform, which allows everyone to stay home. At the time of the French intervention in Mali, teachers had created an educational platform for students of the Liberty school.</alinea>
       </para>
-      <para>
-        <alinea>In spring next year, we will introduce the first mathematics MOOC in French tailored for public schools. This MOOC will be co-developed by the French network abroad. The creation of a specific educational platform for teaching philosophy is one reason for families wanting to enrol their children in French schools. We are facing a shortage of philosophy teachers</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	In spring next year, we will introduce the first mathematics MOOC in French tailored for public schools. This MOOC will be co-developed by the French network abroad. The creation of a specific educational platform for teaching philosophy is one reason for families wanting to enrol their children in French schools. We are facing a shortage of philosophy teachers</alinea>
       </para>
-      <figure>
+      <figure xmlns:xlink="http://www.w3.org/1999/xlink">
         <objetmedia flot="bloc">
           <image id="img4500" typeimage="figure"/>
         </objetmedia>
       </figure>
-      <titre3>Pierre OUEDRAOGO, Director of Digital Mission for the Francophonie at the International Organization of la Francophonie</titre3>
-      <para>
-        <alinea> </alinea>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	Pierre OUEDRAOGO, Director of Digital Mission for the Francophonie at the International Organization of la Francophonie</titre3>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <para>
-        <alinea>The Digital Agenda was adopted in 2012. From a technical perspective, an American company is addressing the issue of the domain name “.fr’. The sharp companies draw profit from this environment where everything is allowed. The “wine’ or the “champagne’ must be reserved. It is better to capture the soft power.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The Digital Agenda was adopted in 2012. From a technical perspective, an American company is addressing the issue of the domain name “.fr’. The sharp companies draw profit from this environment where everything is allowed. The “wine’ or the “champagne’ must be reserved. It is better to capture the soft power.</alinea>
       </para>
-      <para>
-        <alinea>If we lose the diacritics, we lose part of the soul of our language. We must become the owners of technology.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	If we lose the diacritics, we lose part of the soul of our language. We must become the owners of technology.</alinea>
       </para>
-      <para>
-        <alinea>The Charter of la Francophonie sets out a number of humanist values. We believe that Francophones should work together. All Francophones should benefit from the public paying for a tool.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	The Charter of la Francophonie sets out a number of humanist values. We believe that Francophones should work together. All Francophones should benefit from the public paying for a tool.</alinea>
       </para>
-      <para>
-        <alinea>Regarding the Internet ecosystem, those who win are countries that create ecosystems for sharing. There are countries where people do not talk to each other and pay a very high price for an outside expertise while it is already available at home.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Regarding the Internet ecosystem, those who win are countries that create ecosystems for sharing. There are countries where people do not talk to each other and pay a very high price for an outside expertise while it is already available at home.</alinea>
       </para>
-      <para>
-        <alinea>We seem to be timid with Francophones who cannot stand up. Innovation is the answer, according to the forum organized in Namur. We need to invest in new technologies to enable young people and women to dare and create.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	We seem to be timid with Francophones who cannot stand up. Innovation is the answer, according to the forum organized in Namur. We need to invest in new technologies to enable young people and women to dare and create.</alinea>
       </para>
-      <para>
-        <alinea>Experiences show that starting to learn in the national language improves learning French (IFAM). The issue of tutoring underlies the FLOTS and the CLOMS.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Experiences show that starting to learn in the national language improves learning French (IFAM). The issue of tutoring underlies the FLOTS and the CLOMS.</alinea>
       </para>
-      <para>
-        <alinea>When we bring Francophone Africans and Anglophones together, we find that Francophones are less daring. We need a francophone society that is economically strong because if we are the poorest and the last ones, our language will die.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	When we bring Francophone Africans and Anglophones together, we find that Francophones are less daring. We need a francophone society that is economically strong because if we are the poorest and the last ones, our language will die.</alinea>
       </para>
-      <para>
-        <alinea> </alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <titre3>Audience</titre3>
-      <para>
-        <alinea> </alinea>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	Audience</titre3>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <para>
-        <alinea>1. We need to be smarter with digital praxis for meeting the needs of Francophones and Francophiles. The Americans have invested more than 500 million dollars in the MOOCs. Are we not missing a new action? If we do not gain market shares, then we must not be surprised that others take them for us.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	1. We need to be smarter with digital praxis for meeting the needs of Francophones and Francophiles. The Americans have invested more than 500 million dollars in the MOOCs. Are we not missing a new action? If we do not gain market shares, then we must not be surprised that others take them for us.</alinea>
       </para>
-      <para>
-        <alinea>                   </alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	                   </alinea>
       </para>
-      <para>
-        <alinea>2. I am the President of the learning industry association. There is not much public money available with the Francophonie and Europe having a huge market. The Americans are astonished by our underfunded status because we have 7 million euros when they have 70 million euros. The Americans are planning to invest 1.6 billion euros. It is foreseen as the Blue Ocean because there will be huge profits.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	2. I am the President of the learning industry association. There is not much public money available with the Francophonie and Europe having a huge market. The Americans are astonished by our underfunded status because we have 7 million euros when they have 70 million euros. The Americans are planning to invest 1.6 billion euros. It is foreseen as the Blue Ocean because there will be huge profits.</alinea>
       </para>
-      <para>
-        <alinea> </alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <para>
-        <alinea>3. Digital praxis is a cross-cutting issue. We have not looked at food safety for further discussion.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	3. Digital praxis is a cross-cutting issue. We have not looked at food safety for further discussion.</alinea>
       </para>
-      <para>
-        <alinea> </alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <para>
-        <alinea>4. The future of the Francophonie is not just a question of economics. It is important that the Francophonie exists in time and if the trend continues, predictions will be made. Thus, the people must speak French tomorrow or the day after. We must share the responsibility to achieve this. The French, Canadians, Walloons, Swiss people and the Africans must themselves get involved. Africa must import anything it consumes because it has no domestic market. The African market can facilitate the dissemination of the Francophonie. This is very important because there is a plurality of cultures even with a common language.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	4. The future of the Francophonie is not just a question of economics. It is important that the Francophonie exists in time and if the trend continues, predictions will be made. Thus, the people must speak French tomorrow or the day after. We must share the responsibility to achieve this. The French, Canadians, Walloons, Swiss people and the Africans must themselves get involved. Africa must import anything it consumes because it has no domestic market. The African market can facilitate the dissemination of the Francophonie. This is very important because there is a plurality of cultures even with a common language.</alinea>
       </para>
-      <para>
-        <alinea> </alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <para>
-        <alinea>5. I am quite shocked at gaining market shares from teaching because we have very low returns on the MOOCs. I think we should not invest huge amounts of money simply because the Americans are doing it.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	5. I am quite shocked at gaining market shares from teaching because we have very low returns on the MOOCs. I think we should not invest huge amounts of money simply because the Americans are doing it.</alinea>
       </para>
-      <para>
-        <alinea> </alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <para>
-        <alinea> </alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <titre3>Clara DANON, Head of the Digital Mission Wing of the Ministry of Higher Education and Research</titre3>
-      <para>
-        <alinea> </alinea>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	Clara DANON, Head of the Digital Mission Wing of the Ministry of Higher Education and Research</titre3>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <para>
-        <alinea>Only 10 % of the learners are getting certified and many do not want to go all the way. Institutions can use these courses as products that attract the persons to enrol in degree programs.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Only 10 % of the learners are getting certified and many do not want to go all the way. Institutions can use these courses as products that attract the persons to enrol in degree programs.</alinea>
       </para>
-      <para>
-        <alinea>People have been prompted to think about distance learning. The MOOCs are not the alpha and omega. Success also involves online human tutoring. Companies are demanding that employees should not stay on longer in training.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	People have been prompted to think about distance learning. The MOOCs are not the alpha and omega. Success also involves online human tutoring. Companies are demanding that employees should not stay on longer in training.</alinea>
       </para>
-      <para>
-        <alinea> </alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <titre3>Christophe PREMAT, Deputy for French residents overseas, for the Third constituency of Northern Europe</titre3>
-      <para>
-        <alinea> </alinea>
+      <titre3 xmlns:xlink="http://www.w3.org/1999/xlink">
+	Christophe PREMAT, Deputy for French residents overseas, for the Third constituency of Northern Europe</titre3>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <para>
-        <alinea>We have identified three key areas this evening.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	We have identified three key areas this evening.</alinea>
       </para>
-      <para>
-        <alinea>From the prophetic age of the Francophonie:</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	From the prophetic age of the Francophonie:</alinea>
       </para>
-      <para>
-        <alinea>• We code in a newspeak that disseminates standards. We need to think about having more Francophone networks ;</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	• We code in a newspeak that disseminates standards. We need to think about having more Francophone networks ;</alinea>
       </para>
-      <para>
-        <alinea>• Digital education: there may be a market opening. We must promote multilingualism with the Francophonie.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	• Digital education: there may be a market opening. We must promote multilingualism with the Francophonie.</alinea>
       </para>
-      <para>
-        <alinea>• We must reinstate a strong political project for restoring the Francophonie. Since the Kinshasa summit in 2012, the OIF has begun laying the foundation of an economic organization. It had to be done almost 40 years after the Treaty of Niamey. We now need to have a debate on the structuring of emerging markets.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	• We must reinstate a strong political project for restoring the Francophonie. Since the Kinshasa summit in 2012, the OIF has begun laying the foundation of an economic organization. It had to be done almost 40 years after the Treaty of Niamey. We now need to have a debate on the structuring of emerging markets.</alinea>
       </para>
-      <para>
-        <alinea>• North Francophonie: it is necessary to explore gaps. Alongside the OIF, it would be interesting to find other partners for promoting multilingualism.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	• North Francophonie: it is necessary to explore gaps. Alongside the OIF, it would be interesting to find other partners for promoting multilingualism.</alinea>
       </para>
     </section1>
   </corps>
-  <partiesann/>
+  <partiesann lang="en"/>
 </article>

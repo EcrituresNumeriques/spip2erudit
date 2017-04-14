@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1906ear" typeart="Lectures" lang="fr" ordseq="1">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1906ear" typeart="compterendu" lang="fr" horstheme="oui" ordseq="12">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -9,7 +9,7 @@
         <descripteur>France</descripteur>
       </grdescripteur>
       <nbpara>53</nbpara>
-      <nbmot>4369</nbmot>
+      <nbmot>4435</nbmot>
       <nbfig>0</nbfig>
       <nbtabl>0</nbtabl>
       <nbimage>0</nbimage>
@@ -36,8 +36,8 @@
       <pubnum>
         <date typedate="publication">2016-02-03</date>
       </pubnum>
-      <grtheme id="th">
-        <theme/>
+      <grtheme>
+        <theme>Varia</theme>
       </grtheme>
     </numero>
     <editeur>
@@ -52,14 +52,13 @@
     <diffnum>
       <nomorg>Sens public</nomorg>
     </diffnum>
-    <histpapier>
-      <alinea>néant</alinea>
-    </histpapier>
     <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
-    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+    <droitsauteur>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
   </admin>
   <liminaire>
     <grtitre>
+      <surtitre/>
+      <surtitre2>Lecture</surtitre2>
       <titre>René Daumal et l’enseignement de Gurdjieff</titre>
     </grtitre>
     <grauteur>
@@ -74,7 +73,6 @@
       <alinea> René Daumal, auteur du célèbre Mont Analogue, suivit l’enseignement gurdjieffien entre 1932 et 1944, année de sa mort. Il fut emporté par la tuberculose à l’âge de 36 ans laissant son œuvre littéraire inachevée. Cette note de lecture sur l’ouvrage collectif rédigé par quelques élèves de l’Institut Gurdjieff de Paris, met en relief la recherche, à la fois poétique et spirituelle, de René Daumal. L’article n’étant pas un essai, mais une simple note de lecture, le lecteur trouvera en bas de page l’accès, dûment signalé, aux références sur l’œuvre et la vie de l’écrivain, répertoriées minutieusement dans le livre publié par « Le Bois d’Orion ».</alinea>
     </resume>
     <grmotcle lang="fr">
-      <motcle>focus</motcle>
       <motcle>Arts et lettres</motcle>
       <motcle>Poésie</motcle>
       <motcle>France</motcle>
@@ -82,366 +80,440 @@
   </liminaire>
   <corps>
     <section1>
-      <para>
-        <alinea>La maison d’édition « Le Bois d’Orion » vient de publier un livre sur René Daumal (Boulzicourt 1908 - Paris 1944) et l’enseignement de Georges Gurdjieff (Alexandropol 1870 - Neuilly 1949), ouvrage collectif<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>rédigé par des élèves de l’Institut Gurdjieff de Paris. Daumal, reconnu comme un écrivain de génie par ses pairs, en particulier par les écrivains surréalistes, rencontra Gurdjieff à Paris grâce au peintre et metteur en scène Alexandre de Salzmann. Celui-ci, membre cofondateur de l’<marquage typemarq="italique">Institut pour le Développement Harmonique de l’Homme</marquage>, installé au château du Prieuré d’Avon, près de Fontainebleau, était l’un des plus fidèles assistants du maître caucasien. En 1923, alors qu’il travaillait au Théâtre des Champs-Élysées dans l’équipe du directeur Jean Hébertot, il avait veillé à la réalisation du ballet de Gurdjieff « La Lutte des Mages<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> ». Antonin Artaud et Louis Jouvet faisaient également partie des artistes proches de Hébertot et de Alexandre de Salzmann pendant cette période historique du théâtre parisien, où Stravinsky et les ballets russes de Diaghilev s’étaient produits quelques années plus tôt. Alexandre de Salzmann (né à Tiflis en 1874, d’une famille d’origine allemande), introduisit le poète auprès de Gurdjieff au mois de novembre 1932. Peut-être Daumal en avait-il déjà entendu parler lorsqu’il était en khâgne au lycée Henri IV de Paris (Simone Weil était l’une de ses camarades), ou lors de ses échanges avec le groupe de Breton, mais ce n’est qu’à partir des années 30 qu’il fait référence explicite à Gurdjieff dans ses écrits et dans sa correspondance.</alinea>
-      </para>
-      <para>
-        <alinea>De nombreuses lettres et citations, soigneusement classées par le collectif responsable de la rédaction du livre<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>, permettent au lecteur de se faire une idée de l’évolution de Daumal à travers l’enseignement gurdjieffien. Il est étonnant que l’auteur de la<marquage typemarq="italique">Grande Beuverie</marquage>
-          <renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>, texte en prose d’une drôlerie exquise qui rappelle l’humour d’Alfred Jarry et des « pataphysiciens<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi> », se soit astreint à la discipline spirituelle si rigoureuse exigée par Gurdjieff. Au début du chapitre « René Daumal, chercheur de vérité », un extrait de son texte<marquage typemarq="italique">Le souvenir déterminant</marquage>(1943) permet de comprendre les motivations du poète :</alinea>
-      </para>
-      <bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <para>
-            <alinea>Vers l’âge de six ans, aucune croyance religieuse ne m’ayant été inculquée, le problème de la mort se présenta à moi dans toute sa nudité. Je passais des nuits atroces, griffé au ventre et pris à la gorge par l’angoisse du néant, du « plus rien du tout<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>. »</alinea>
-          </para>
-        </alinea>
-      </bloccitation>
-      <para>
-        <alinea>Cette prise de conscience de la mort en pleine enfance va déterminer la trajectoire vitale de l’écrivain. Normalement, la conscience de la mort en tant que phénomène qui nous concerne personnellement (et non pas comme une simple donnée statistique qui touche surtout les autres), advient après l’enfance… si elle advient. Notre société est organisée de façon à faire de la mort un évènement extérieur à notre être et, dans le meilleur des cas, à la faire passer comme une bonne occasion de consommer des biens marchands spécialement conçus pour soulager et effacer la peur qu’elle engendre : cérémonies funéraires, pierres tombales, fleurs, faire-part dans les journaux, assurances-vie pour les héritiers, discours et même banquets et musiques ad hoc. Daumal enfant eut le privilège, en quelque sorte, d’éprouver profondément la peur de la mort en tant qu’angoisse du néant. À partir de là, sa conscience éveillée précocement ne pouvait plus se perdre dans le sommeil, il était bien obligé de chercher une explication à cette anxiété aussi abstraite qu’absolue. Alexandre de Salzmann et son épouse, Jeanne, tous deux disciples de Gurdjieff depuis leur rencontre avec le maître spirituel à Tiflis en 1919, lui apporteraient les moyens d’une quête intérieure qui allait devenir de plus en plus intense. Dans les lettres échangées avec Madame de Salzmann, rassemblées dans le chapitre « Correspondance Jeanne de Salzmann / René Daumal », le poète – abandonnant toute vanité littéraire – laissera jaillir quelques fulgurances du subtil cheminement de son esprit :</alinea>
+	La maison d’édition « Le Bois d’Orion » vient de publier un livre sur René Daumal (Boulzicourt 1908 - Paris 1944) et l’enseignement de Georges Gurdjieff (Alexandropol 1870 - Neuilly 1949), ouvrage collectif<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi> rédigé par des élèves de l’Institut Gurdjieff de Paris. Daumal, reconnu comme un écrivain de génie par ses pairs, en particulier par les écrivains surréalistes, rencontra Gurdjieff à Paris grâce au peintre et metteur en scène Alexandre de Salzmann. Celui-ci, membre cofondateur de l’<marquage typemarq="italique">Institut pour le Développement Harmonique de l’Homme</marquage>, installé au château du Prieuré d’Avon, près de Fontainebleau, était l’un des plus fidèles assistants du maître caucasien. En 1923, alors qu’il travaillait au Théâtre des Champs-Élysées dans l’équipe du directeur Jean Hébertot, il avait veillé à la réalisation du ballet de Gurdjieff « La Lutte des Mages<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> ». Antonin Artaud et Louis Jouvet faisaient également partie des artistes proches de Hébertot et de Alexandre de Salzmann pendant cette période historique du théâtre parisien, où Stravinsky et les ballets russes de Diaghilev s’étaient produits quelques années plus tôt. Alexandre de Salzmann (né à Tiflis en 1874, d’une famille d’origine allemande), introduisit le poète auprès de Gurdjieff au mois de novembre 1932. Peut-être Daumal en avait-il déjà entendu parler lorsqu’il était en khâgne au lycée Henri IV de Paris (Simone Weil était l’une de ses camarades), ou lors de ses échanges avec le groupe de Breton, mais ce n’est qu’à partir des années 30 qu’il fait référence explicite à Gurdjieff dans ses écrits et dans sa correspondance.</alinea>
       </para>
-      <bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <para>
-            <alinea>Je vois maintenant que ce que j’appelais "activité", c’était au contraire, de la "passivité agitée" qui ne pouvait qu’aggraver le mal. J’ai compris, ces derniers temps, que devenir actif en pensée, c’était rendre passive cette agitation, l’apaiser en lui enlevant son ferment. Et ce ferment, c’est l’illusion d’une volonté propre. Ma pensée n’est active que dans les moments où je renonce à une pensée "personnelle", et cela extérieurement a les apparences d’une passivité, d’une soumission<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>.</alinea>
-          </para>
-        </alinea>
-      </bloccitation>
-      <para>
-        <alinea>En réalité, rien de plus éloigné de l’intrépide auteur du<marquage typemarq="italique">Mont Analogue</marquage>
-          <renvoi idref="sdfootnote8sym" typeref="note">8</renvoi>qu’une quelconque soumission à une idéologie, à un carcan étranger à son être profond. Lorsqu’il parle de renoncer à une « pensée personnelle », il fait référence à ce va-et-vient agité des associations qui inondent constamment notre cerveau, agitation prise trompeusement pour une vraie pensée. La véritable « pensée » ne peut advenir qu’après l’apaisement du maelström qui agite notre vie psychique, apaisement que Daumal allait trouver dans l’apprentissage et dans la pratique méthodique des exercices, parfois très complexes, de l’enseignement de Gurdjieff.</alinea>
+	De nombreuses lettres et citations, soigneusement classées par le collectif responsable de la rédaction du livre<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>, permettent au lecteur de se faire une idée de l’évolution de Daumal à travers l’enseignement gurdjieffien. Il est étonnant que l’auteur de la <marquage typemarq="italique">Grande Beuverie</marquage>
+          <renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>, texte en prose d’une drôlerie exquise qui rappelle l’humour d’Alfred Jarry et des « pataphysiciens<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi> », se soit astreint à la discipline spirituelle si rigoureuse exigée par Gurdjieff. Au début du chapitre « René Daumal, chercheur de vérité », un extrait de son texte <marquage typemarq="italique">Le souvenir déterminant</marquage> (1943) permet de comprendre les motivations du poète :</alinea>
       </para>
-      <para>
-        <alinea>On peut se poser la question sur le mécanisme de la pensée, en deçà de son contenu, chez les « penseurs » réputés classiques, des philosophes tels que Descartes, Kant, Hegel, Marx, ou des écrivains comme Proust, Rilke, Pessoa, Sartre, etc. Il faut faire la différence entre ce qui se passe d’ordinaire dans l’intimité de notre psyché, constamment ballottée par les associations et les émotions (sur ce point, par exemple, il n’y a aucune différence entre un Proust et sa gouvernante, Céleste Albaret) et l’écriture. Sartre, graphomane reconnu, avait l’habitude d’écrire du matin au soir. Tandis qu’il écrivait, son attention était posée forcément sur l’écriture, barrage plus au moins efficace contre le déferlement chaotique des associations et le bavardage intérieur. C’est sans doute le cas pour n’importe quel écrivain, mais dès lors qu’il arrête d’écrire, il retombe inéluctablement à son niveau habituel. Or, quand Daumal parle de la « pensée active », il ne fait pas non plus référence à ce qu’on pourrait appeler une « pensée scripturale », pensée plus ordonnée et cohérente que la pensée ordinaire (qu’il qualifie de « chatouillements internes » dans<marquage typemarq="italique">La Grande Beuverie</marquage>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	<para>
+            <alinea>
+		Vers l’âge de six ans, aucune croyance religieuse ne m’ayant été inculquée, le problème de la mort se présenta à moi dans toute sa nudité. Je passais des nuits atroces, griffé au ventre et pris à la gorge par l’angoisse du néant, du « plus rien du tout<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>. »</alinea>
+          </para>
+</alinea>
+      </bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Cette prise de conscience de la mort en pleine enfance va déterminer la trajectoire vitale de l’écrivain. Normalement, la conscience de la mort en tant que phénomène qui nous concerne personnellement (et non pas comme une simple donnée statistique qui touche surtout les autres), advient après l’enfance… si elle advient. Notre société est organisée de façon à faire de la mort un évènement extérieur à notre être et, dans le meilleur des cas, à la faire passer comme une bonne occasion de consommer des biens marchands spécialement conçus pour soulager et effacer la peur qu’elle engendre : cérémonies funéraires, pierres tombales, fleurs, faire-part dans les journaux, assurances-vie pour les héritiers, discours et même banquets et musiques ad hoc. Daumal enfant eut le privilège, en quelque sorte, d’éprouver profondément la peur de la mort en tant qu’angoisse du néant. À partir de là, sa conscience éveillée précocement ne pouvait plus se perdre dans le sommeil, il était bien obligé de chercher une explication à cette anxiété aussi abstraite qu’absolue. Alexandre de Salzmann et son épouse, Jeanne, tous deux disciples de Gurdjieff depuis leur rencontre avec le maître spirituel à Tiflis en 1919, lui apporteraient les moyens d’une quête intérieure qui allait devenir de plus en plus intense. Dans les lettres échangées avec Madame de Salzmann, rassemblées dans le chapitre « Correspondance Jeanne de Salzmann / René Daumal », le poète – abandonnant toute vanité littéraire – laissera jaillir quelques fulgurances du subtil cheminement de son esprit :</alinea>
+      </para>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	<para>
+            <alinea>
+		Je vois maintenant que ce que j’appelais "activité", c’était au contraire, de la "passivité agitée" qui ne pouvait qu’aggraver le mal. J’ai compris, ces derniers temps, que devenir actif en pensée, c’était rendre passive cette agitation, l’apaiser en lui enlevant son ferment. Et ce ferment, c’est l’illusion d’une volonté propre. Ma pensée n’est active que dans les moments où je renonce à une pensée "personnelle", et cela extérieurement a les apparences d’une passivité, d’une soumission<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>.</alinea>
+          </para>
+</alinea>
+      </bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	En réalité, rien de plus éloigné de l’intrépide auteur du <marquage typemarq="italique">Mont Analogue</marquage>
+          <renvoi idref="sdfootnote8sym" typeref="note">8</renvoi> qu’une quelconque soumission à une idéologie, à un carcan étranger à son être profond. Lorsqu’il parle de renoncer à une « pensée personnelle », il fait référence à ce va-et-vient agité des associations qui inondent constamment notre cerveau, agitation prise trompeusement pour une vraie pensée. La véritable « pensée » ne peut advenir qu’après l’apaisement du maelström qui agite notre vie psychique, apaisement que Daumal allait trouver dans l’apprentissage et dans la pratique méthodique des exercices, parfois très complexes, de l’enseignement de Gurdjieff.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	On peut se poser la question sur le mécanisme de la pensée, en deçà de son contenu, chez les « penseurs » réputés classiques, des philosophes tels que Descartes, Kant, Hegel, Marx, ou des écrivains comme Proust, Rilke, Pessoa, Sartre, etc. Il faut faire la différence entre ce qui se passe d’ordinaire dans l’intimité de notre psyché, constamment ballottée par les associations et les émotions (sur ce point, par exemple, il n’y a aucune différence entre un Proust et sa gouvernante, Céleste Albaret) et l’écriture. Sartre, graphomane reconnu, avait l’habitude d’écrire du matin au soir. Tandis qu’il écrivait, son attention était posée forcément sur l’écriture, barrage plus au moins efficace contre le déferlement chaotique des associations et le bavardage intérieur. C’est sans doute le cas pour n’importe quel écrivain, mais dès lors qu’il arrête d’écrire, il retombe inéluctablement à son niveau habituel. Or, quand Daumal parle de la « pensée active », il ne fait pas non plus référence à ce qu’on pourrait appeler une « pensée scripturale », pensée plus ordonnée et cohérente que la pensée ordinaire (qu’il qualifie de « chatouillements internes » dans <marquage typemarq="italique">La Grande Beuverie</marquage>
           <renvoi idref="sdfootnote9sym" typeref="note">9</renvoi>), mais pas pour autant moins mécanique. En effet, elle se prête à tous types de dérapages, appelés « inspirations » par les romanciers ou « digressions » par les philosophes. Daumal parle d’une pensée qui se produit sur un autre plan, auquel on ne peut accéder que par un travail psychique particulier.</alinea>
       </para>
-      <para>
-        <alinea>Paul Valéry, l’auteur de<marquage typemarq="italique">Monsieur Teste</marquage>(son alter ego, dans une certaine mesure), commençait sa journée en faisant comme lui des exercices « spirituels » qu’il s’imposait avec rigueur et dont il transcrivait les résultats dans ses<marquage typemarq="italique">Cahiers</marquage>. Toutefois, ces exercices, dont il est indirectement question dans le dialogue entre l’auteur et son personnage, étaient strictement intellectuels, abstraits, scripturaux. Cela dit, peut-on comparer en mettant sur un même plan le dialogue imaginaire entre Valéry et Monsieur Teste, personnage narcissique beaucoup plus snob que sage, fasciné par son obscure vacuité, avec le dialogue épistolaire, plein de modestie et de lumière, entre René Daumal et Madame de Salzmann ? Pensant peut-être à son fameux, mais somme toute superflu personnage, Valéry disait que l’apport d’un poète à la vie d’un pays n’est pas plus significatif que l’apport fait par un bon joueur de quilles. Daumal, critique implacable de la littérature contemporaine, l’aurait sans doute approuvé. Les « exercices » qu’il pratiquait, dont quelques fragments sont décrits dans l’ouvrage collectif, avaient une autre qualité que ceux testés par Monsieur Valéry : ils supposent le travail de l’attention en tant qu’énergie psychique et non en tant que simple idée<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>.</alinea>
-      </para>
-      <para>
-        <alinea>Avant de les découvrir, Daumal avait exploré les textes de quelques sages orientaux, parmi lesquels Omar Khayyâm (1048-1131), dont il traduisit du persan un certain nombre de ses poèmes. Ceux-ci sont inclus dans le chapitre « Traduction du persan des quatrains d’Omar Khayyâm par Alexandre de Salzmann, avec l’aide de René Daumal ». Voici la traduction de Daumal pour l’un d’entre eux, plutôt festif et alcoolisé :</alinea>
-      </para>
-      <bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <para>
-            <alinea>Afin de racheter le son de</alinea>
-          </para>
-          <para>
-            <alinea>la flûte, vendons</alinea>
-          </para>
-          <para>
-            <alinea>la couronne de Khan et</alinea>
-          </para>
-          <para>
-            <alinea>la tiare de Key</alinea>
-          </para>
-          <para>
-            <alinea>- vendons le turban, l’étoffe</alinea>
-          </para>
-          <para>
-            <alinea>en soie rouge-</alinea>
-          </para>
-          <para>
-            <alinea>le chapelet pour louer Dieu</alinea>
-          </para>
-          <para>
-            <alinea>qui en évidence n’est</alinea>
-          </para>
-          <para>
-            <alinea>qu’hypocrisie,</alinea>
-          </para>
-          <para>
-            <alinea>oui, pour une coupe de</alinea>
-          </para>
-          <para>
-            <alinea>vin… vendons-les<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>.</alinea>
-          </para>
-        </alinea>
-      </bloccitation>
-      <para>
-        <alinea>Chaque quatrain présenté est confronté à la version proposée par J.B. Nicolas dans sa traduction publiée à Paris au XIXe siècle. Le livre collectif qui vient de paraître offre les textes accompagnés des fac-similés, où il est possible d’apprécier la belle calligraphie de Daumal<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi>. Mais, au-delà de la beauté poétique de ses quatrains, le sage persan ne lui apporta pas de réponse à ce qu’il cherchait, pas plus que les écrits traditionnels de l’Inde, que Daumal étudiait dans leur langue originale, le sanskrit : « Ces textes me laissent insatisfait : aucun moyen pratique ne m’est donné… », se plaignait-il<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi>. C’est justement ce qu’il va trouver dans l’enseignement de Gurdjieff : une méthode de travail et non une simple « philosophie ».</alinea>
+	Paul Valéry, l’auteur de <marquage typemarq="italique">Monsieur Teste</marquage> (son alter ego, dans une certaine mesure), commençait sa journée en faisant comme lui des exercices « spirituels » qu’il s’imposait avec rigueur et dont il transcrivait les résultats dans ses <marquage typemarq="italique">Cahiers</marquage>. Toutefois, ces exercices, dont il est indirectement question dans le dialogue entre l’auteur et son personnage, étaient strictement intellectuels, abstraits, scripturaux. Cela dit, peut-on comparer en mettant sur un même plan le dialogue imaginaire entre Valéry et Monsieur Teste, personnage narcissique beaucoup plus snob que sage, fasciné par son obscure vacuité, avec le dialogue épistolaire, plein de modestie et de lumière, entre René Daumal et Madame de Salzmann ? Pensant peut-être à son fameux, mais somme toute superflu personnage, Valéry disait que l’apport d’un poète à la vie d’un pays n’est pas plus significatif que l’apport fait par un bon joueur de quilles. Daumal, critique implacable de la littérature contemporaine, l’aurait sans doute approuvé. Les « exercices » qu’il pratiquait, dont quelques fragments sont décrits dans l’ouvrage collectif, avaient une autre qualité que ceux testés par Monsieur Valéry : ils supposent le travail de l’attention en tant qu’énergie psychique et non en tant que simple idée<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>.</alinea>
       </para>
-      <para>
-        <alinea>Daumal, le chantre de<marquage typemarq="italique">Poésie noire, poésie blanche</marquage>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Avant de les découvrir, Daumal avait exploré les textes de quelques sages orientaux, parmi lesquels Omar Khayyâm (1048-1131), dont il traduisit du persan un certain nombre de ses poèmes. Ceux-ci sont inclus dans le chapitre « Traduction du persan des quatrains d’Omar Khayyâm par Alexandre de Salzmann, avec l’aide de René Daumal ». Voici la traduction de Daumal pour l’un d’entre eux, plutôt festif et alcoolisé :</alinea>
+      </para>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	<para>
+            <alinea>
+		Afin de racheter le son de</alinea>
+          </para>
+	<para>
+            <alinea>
+		la flûte, vendons</alinea>
+          </para>
+	<para>
+            <alinea>
+		la couronne de Khan et</alinea>
+          </para>
+	<para>
+            <alinea>
+		la tiare de Key</alinea>
+          </para>
+	<para>
+            <alinea>
+		- vendons le turban, l’étoffe</alinea>
+          </para>
+	<para>
+            <alinea>
+		en soie rouge-</alinea>
+          </para>
+	<para>
+            <alinea>
+		le chapelet pour louer Dieu</alinea>
+          </para>
+	<para>
+            <alinea>
+		qui en évidence n’est</alinea>
+          </para>
+	<para>
+            <alinea>
+		qu’hypocrisie,</alinea>
+          </para>
+	<para>
+            <alinea>
+		oui, pour une coupe de</alinea>
+          </para>
+	<para>
+            <alinea>
+		vin… vendons-les<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>.</alinea>
+          </para>
+</alinea>
+      </bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Chaque quatrain présenté est confronté à la version proposée par J.B. Nicolas dans sa traduction publiée à Paris au XIXe siècle. Le livre collectif qui vient de paraître offre les textes accompagnés des fac-similés, où il est possible d’apprécier la belle calligraphie de Daumal<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi>. Mais, au-delà de la beauté poétique de ses quatrains, le sage persan ne lui apporta pas de réponse à ce qu’il cherchait, pas plus que les écrits traditionnels de l’Inde, que Daumal étudiait dans leur langue originale, le sanskrit : « Ces textes me laissent insatisfait : aucun moyen pratique ne m’est donné… », se plaignait-il<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi>. C’est justement ce qu’il va trouver dans l’enseignement de Gurdjieff : une méthode de travail et non une simple « philosophie ».</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Daumal, le chantre de <marquage typemarq="italique">Poésie noire, poésie blanche</marquage>
           <renvoi idref="sdfootnote14sym" typeref="note">14</renvoi>, déchiré par les horreurs de la Grande Guerre et le développement progressif des violences fascistes et nazies après l’armistice de 1918, écrasé par les conséquences du krach capitaliste en 1929 (fils d’un modeste instituteur, il n’avait pas de travail stable, pas de domicile fixe, il ne mangeait pas à sa faim) s’intéressa aussi, à l’égal de Breton et des surréalistes, au marxisme et à la révolution socialiste comme solution aux ravages du capitalisme. Il écrit, en 1935 :</alinea>
       </para>
-      <bloccitation>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <para>
-            <alinea>« Conscience révolutionnaire est un pléonasme. »</alinea>
+	<para>
+            <alinea>
+		« Conscience révolutionnaire est un pléonasme. »</alinea>
           </para>
-          <para>
-            <alinea>« Conscience : libérer l’homme du moi-individuel. »</alinea>
+	<para>
+            <alinea>
+		« Conscience : libérer l’homme du moi-individuel. »</alinea>
           </para>
-          <para>
-            <alinea>« Conscience : libérer le social des moi-individuels. »</alinea>
+	<para>
+            <alinea>
+		« Conscience : libérer le social des moi-individuels. »</alinea>
           </para>
-          <para>
-            <alinea>« Conscience : amener à la surface consciente les couches profondes de l’Inconscient. »</alinea>
+	<para>
+            <alinea>
+		« Conscience : amener à la surface consciente les couches profondes de l’Inconscient. »</alinea>
           </para>
-          <para>
-            <alinea>« Révolution : amener au pouvoir les couches profondes de la société<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi> ».</alinea>
+	<para>
+            <alinea>
+		« Révolution : amener au pouvoir les couches profondes de la société<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi> ».</alinea>
           </para>
-        </alinea>
+</alinea>
       </bloccitation>
-      <para>
-        <alinea>Mais, de toute évidence, atteint de tuberculose dès l’âge de 21 ans, déclaré « incurable » à 31, au seuil de la Deuxième Guerre mondiale, le militantisme politique n’était pas son chemin. Son problème le plus crucial continuait à être la pensée ou, plutôt, les différents types de pensées qui peuvent se développer dans notre psyché.</alinea>
-      </para>
-      <bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <para>
-            <alinea>Parti pour une course de 2 jours en montagne, je me trouvai seul, sans rencontrer un être humain, pendant 30 heures. Arrivé au refuge, je m’aperçus soudain que je bavardais sans arrêt : je racontais à des interlocuteurs imaginaires ce que je voyais, mes plans pour le lendemain, etc. Depuis mon enfance, tout mon temps m’apparut comme se passant à bavarder ainsi. Tout en préparant le feu et mon repas, j’entrepris de lutter contre ce bavardage. Mon attention n’arrivait à l’interrompre que pour quelques secondes : aussitôt la mécanique se remettait à tourner…<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi>,</alinea>
-          </para>
-        </alinea>
-      </bloccitation>
-      <para>
-        <alinea>note Daumal dans un carnet daté de septembre 1941, lorsqu’il fait une cure à Pelvoux. Puis, dans ce même carnet, il écrit :</alinea>
+	Mais, de toute évidence, atteint de tuberculose dès l’âge de 21 ans, déclaré « incurable » à 31, au seuil de la Deuxième Guerre mondiale, le militantisme politique n’était pas son chemin. Son problème le plus crucial continuait à être la pensée ou, plutôt, les différents types de pensées qui peuvent se développer dans notre psyché.</alinea>
       </para>
-      <bloccitation>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <para>
-            <alinea>J’essayais de me souvenir au moins de ce qui caractérisait ce saut d’un ordre de pensées à un autre. Quand je fis ce saut, c’est que brusquement je m’étais tu. La pensée par mots, ayant épuisé ses ressources en essayant de cerner de tous côtés l’idée, était arrêtée nette, finie, bouclée sur elle-même. Le deuxième ordre de pensées est donc une pensée sans mots et sa vitesse est d’un ordre supérieur. En même temps, il y avait dans ce saut une émotion, la pensée était devenue émotionnelle. Et cette émotion n’était pas autre chose que la pensée de mon sentiment – de mon essence – constatant soudain : « c’est de moi qu’il s’agit ».</alinea>
+	<para>
+            <alinea>
+		Parti pour une course de 2 jours en montagne, je me trouvai seul, sans rencontrer un être humain, pendant 30 heures. Arrivé au refuge, je m’aperçus soudain que je bavardais sans arrêt : je racontais à des interlocuteurs imaginaires ce que je voyais, mes plans pour le lendemain, etc. Depuis mon enfance, tout mon temps m’apparut comme se passant à bavarder ainsi. Tout en préparant le feu et mon repas, j’entrepris de lutter contre ce bavardage. Mon attention n’arrivait à l’interrompre que pour quelques secondes : aussitôt la mécanique se remettait à tourner…<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi>,</alinea>
           </para>
-        </alinea>
+</alinea>
       </bloccitation>
-      <para>
-        <alinea>Et encore :</alinea>
-      </para>
-      <bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <para>
-            <alinea>C’est seulement quand la pensée discursive – par mots, associations – s’applique à faire proprement son travail, dans ses limites, que l’on peut sauter hors de ces limites<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi>.</alinea>
-          </para>
-        </alinea>
-      </bloccitation>
-      <para>
-        <alinea>Il y aurait donc au moins deux types de pensée, la pensée discursive, soumise aux règles de la logique traditionnelle, et la pensée non discursive, sans mots, où la logique formelle n’est plus opérationnelle. Mais l’une n’exclut pas l’autre<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi>. Une dizaine d’années après son premier contact avec l’enseignement de Gurdjieff, Daumal avait atteint un sommet très haut dans son processus d’élévation spirituelle, hauteur qu’il désespérait de conquérir lorsqu’il était encore lycéen, comme il le raconte dans le résumé de sa vie, rédigé à l’intention de son médecin en 1939 :</alinea>
+	note Daumal dans un carnet daté de septembre 1941, lorsqu’il fait une cure à Pelvoux. Puis, dans ce même carnet, il écrit :</alinea>
       </para>
-      <bloccitation>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <para>
-            <alinea>De 15 à 17 ans je commence à douter, à remettre tout en question (…), je me mets à faire toutes sortes d’expériences « pour voir », avec des camarades (sujets « brillants » au lycée, mais un peu détraqués) : alcool, tabac, noctambulisme, etc. J’essaie de m’asphyxier (C.Cl 4 ou benzine) pour étudier comment disparaît la conscience et quel pouvoir j’ai sur elle (…) À 17 ans et demi, par manque de raison de vivre, essai de suicide ; je sens brusquement mon lien avec ma famille et ma responsabilité envers mon frère cadet<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi>…</alinea>
+	<para>
+            <alinea>
+		J’essayais de me souvenir au moins de ce qui caractérisait ce saut d’un ordre de pensées à un autre. Quand je fis ce saut, c’est que brusquement je m’étais tu. La pensée par mots, ayant épuisé ses ressources en essayant de cerner de tous côtés l’idée, était arrêtée nette, finie, bouclée sur elle-même. Le deuxième ordre de pensées est donc une pensée sans mots et sa vitesse est d’un ordre supérieur. En même temps, il y avait dans ce saut une émotion, la pensée était devenue émotionnelle. Et cette émotion n’était pas autre chose que la pensée de mon sentiment – de mon essence – constatant soudain : « c’est de moi qu’il s’agit ».</alinea>
           </para>
-        </alinea>
+</alinea>
       </bloccitation>
-      <para>
-        <alinea>Encore adolescent, il avait créé le groupe des<marquage typemarq="italique">Phrères simplistes</marquage>avec ses camarades du lycée de Reims – Roger Vailland, Robert Meyrat et Roger Gilbert-Lecomte – pour mettre en pratique une « métaphysique expérimentale », recherche émouvante et téméraire, associée dangereusement à l’usage de substances chimiques et de drogues diverses, comme il l’avoue dans<marquage typemarq="italique">Chaque fois que l’aube paraît</marquage>
-          <renvoi idref="sdfootnote20sym" typeref="note">20</renvoi>. Un peu plus tard, secondé toujours par Roger Vailland et Roger Gilbert-Lecomte, il fonde la revue du<marquage typemarq="italique">Grand Jeu</marquage>(1928). Proche, au moment de sa parution, d’André Breton (en dépit de la méfiance que le groupe du<marquage typemarq="italique">Grand Jeu</marquage>éprouvait à l’égard de ce dernier à cause de l’importance qu’il donnait au subconscient et à l’écriture automatique), la revue prendra par la suite une position critique assez sévère face au surréalisme. Dès lors, malgré les efforts de conciliation entrepris par Aragon, une dissension définitive se produira à partir du troisième et dernier numéro, où Daumal interpelle personnellement Breton, dans une lettre teintée par un ton prophétique :</alinea>
-      </para>
-      <bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <para>
-            <alinea>Pour une fois, vous avez devant vous des hommes qui, se tenant à l’écart de vous, vous critiquant même souvent avec sévérité, ne vont pas pour cela vous insulter à tort et à travers […] Prenez garde, André Breton, de figurer plus tard dans les manuels d’histoire littéraire, alors que si nous briguions quelque honneur, ce serait celui d’être inscrits pour la postérité dans l’histoire des cataclysmes.</alinea>
-          </para>
-        </alinea>
-      </bloccitation>
-      <para>
-        <alinea>Ses amis n’apprécièrent guère ce qu’ils croyaient être un renoncement à la littérature. Ils craignaient aussi l’influence grandissante de Alexandre de Salzmann, qui avait intégré Daumal aux réunions des « chercheurs de vérité » qu’il dirigeait. « Je m’effraie de la réputation de théosophe qui vous est faite à Paris. Quand on me parle de vous, on me dit que vous avez sombré dans l’occultisme, avec un ton de désespoir », s’inquiète Léon Pierre-Quint, l’un de ses éditeurs<renvoi idref="sdfootnote21sym" typeref="note">21</renvoi>. Jean Paulhan, directeur de la<marquage typemarq="italique">NRF</marquage>et bras droit de Gaston Gallimard, s’inquiète à son tour d’une dérive qui pourrait le priver d’un romancier à succès. Pour le tranquilliser, Daumal, en toute naïveté et honnêteté, lui écrit :</alinea>
+	Et encore :</alinea>
       </para>
-      <bloccitation>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <para>
-            <alinea>Eh bien, je veux vous rassurer. Lorsque notre groupe rencontra A. de Salzmann, chacun de nous devina aussitôt en lui un homme pour qui la recherche de la vérité primait tout, qui avait dû aller déjà très loin dans cette recherche, et dont la seule présence nous demandait d’être plus responsables, nous interdisait de mentir. C’est pourquoi je suis allé vers lui et c’est pourquoi, peu à peu, les autres s’en sont écartés<renvoi idref="sdfootnote22sym" typeref="note">22</renvoi>...</alinea>
+	<para>
+            <alinea>
+		C’est seulement quand la pensée discursive – par mots, associations – s’applique à faire proprement son travail, dans ses limites, que l’on peut sauter hors de ces limites<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi>.</alinea>
           </para>
-        </alinea>
+</alinea>
       </bloccitation>
-      <para>
-        <alinea>Daumal tenait à nier et à récuser toute confusion entre la voie qu’il avait découverte, et les faux chemins, les faux gourous qui proposaient, pour quelques sous et sans effort, leurs formules miraculeuses dans le Paris des années 30 :</alinea>
-      </para>
-      <bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <para>
-            <alinea>Il y a aujourd’hui chez toi, peuple intellectuel de Paris, quelques abrutissements particulièrement en vogue. Je veux parler d’une mystique à vomir, d’un occultisme à relents scatologiques, de toutes ces pseudo-religions qui sont l’opium des intellectuels. Je dis ici que toutes leurs religions, leurs mystiques, leurs astrologies, leurs sagesses, leurs initiés crasseux, leurs lamas antisémites, leurs brahmanes constipés, j’en jetterais des tonnes au fumier (…) Je les ai bien regardés, ces amateurs de mystère (…) Fuyons-les, ces fuyards de la réalité, ces conseillers de désertion<renvoi idref="sdfootnote23sym" typeref="note">23</renvoi> ,</alinea>
-          </para>
-        </alinea>
-      </bloccitation>
-      <para>
-        <alinea>s’indigne-t-il dans un article intitulé « À propos de nouvelles religions et au revoir ».</alinea>
+	Il y aurait donc au moins deux types de pensée, la pensée discursive, soumise aux règles de la logique traditionnelle, et la pensée non discursive, sans mots, où la logique formelle n’est plus opérationnelle. Mais l’une n’exclut pas l’autre<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi>. Une dizaine d’années après son premier contact avec l’enseignement de Gurdjieff, Daumal avait atteint un sommet très haut dans son processus d’élévation spirituelle, hauteur qu’il désespérait de conquérir lorsqu’il était encore lycéen, comme il le raconte dans le résumé de sa vie, rédigé à l’intention de son médecin en 1939 :</alinea>
       </para>
-      <para>
-        <alinea>Étrange peuple intellectuel de Paris ! Il avait fini, après quelques hésitations mondaines, par célébrer la musique de Stravinsky et les ballets russes de Diaghilev, mais il refusait de reconnaître et d’accepter l’apport d’un enseignement psychologique oriental profondément révolutionnaire comme celui de Gurdjieff. Freud, penseur occidental dûment certifié, semblait, en fin de compte, plus convenable, moins dangereux. Le buveur socratique de<marquage typemarq="italique">La Grande Beuverie</marquage>(où Daumal met en question romanciers et critiques, les « ruminssiés » et les « kirittiks »), l’alpiniste spirituel du<marquage typemarq="italique">Mont Analogue</marquage>(dont l’écriture, providentiellement inachevée, constitue une initiation poétique vers les plus hauts sommets de l’esprit<renvoi idref="sdfootnote24sym" typeref="note">24</renvoi>), dénonce avec colère et mépris l’amalgame abusif entre l’enseignement gurdjieffien et le charlatanisme à la mode de Paris. Ce charlatanisme et ces amalgames vont se prolonger au cours des années 50-60 dans les pamphlets de quelques journalistes comme J.F. Revel ou Louis Pauwels, « kirittiks » largement ignorants de la pensée de Gurdjieff, malgré leurs prétentions de « connaisseurs » d’un enseignement qu’ils avaient à peine frôlé. Ils le dénigrent avec la malhonnêteté intellectuelle de la bourgeoisie bien-pensante, prête à tous les mensonges lorsqu’il s’agit de protéger leurs valeurs surannées. Chez Daumal, en revanche, il y a une grande exigence d’honnêteté intellectuelle, d’acuité critique, qu’il applique également sans hésiter à la fausse « activité poétique », ce qui explique en partie la disparition du<marquage typemarq="italique">Grand Jeu</marquage>, la cassure avec son groupe et son éloignement définitif de ses camarades de jeunesse :</alinea>
-      </para>
-      <bloccitation>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <para>
-            <alinea>J’ai cru pendant quelque temps que l’activité poétique suffirait à ma vie. J’ai dû déchanter. Je suis bien placé pour le dire ici, et tant pis si je trahis la confrérie, que l’exercice littéraire dit de nos jours "poésie" est fait pour les neuf dixièmes et plus de bluff éhonté, de mascarade, d’ignorance de tout (…), d’irresponsabilité, de vanité, d’amour propre aux dix millions de replis et de paresse ; c’est-à-dire fait de néants multiformes, d’absences, de creux voilé de vagues mirages. Sinon, oui, ce serait une voie possible. Ce serait même la seule voie, mais ce ne serait plus un exercice littéraire<renvoi idref="sdfootnote25sym" typeref="note">25</renvoi>,</alinea>
+	<para>
+            <alinea>
+		De 15 à 17 ans je commence à douter, à remettre tout en question (…), je me mets à faire toutes sortes d’expériences « pour voir », avec des camarades (sujets « brillants » au lycée, mais un peu détraqués) : alcool, tabac, noctambulisme, etc. J’essaie de m’asphyxier (C.Cl 4 ou benzine) pour étudier comment disparaît la conscience et quel pouvoir j’ai sur elle (…) À 17 ans et demi, par manque de raison de vivre, essai de suicide ; je sens brusquement mon lien avec ma famille et ma responsabilité envers mon frère cadet<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi>…</alinea>
           </para>
-        </alinea>
+</alinea>
       </bloccitation>
-      <para>
-        <alinea>écrit-il en 1935 dans<marquage typemarq="italique">La vie des Basiles</marquage>.</alinea>
-      </para>
-      <para>
-        <alinea>On peut comprendre que ses anciens compagnons n’aient pas été flattés par une telle vision de la littérature. « Ne deviens jamais un écrivain » lui conseillait de son côté Alexandre de Salzmann, tout en lui demandant, paradoxalement, d’écrire sans cesse. C’est ce que Daumal confie à Jeanne de Salzmann dans une lettre datant de 1943 :</alinea>
-      </para>
-      <bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <para>
-            <alinea>Une de mes grandes difficultés en ce moment, c’est d’arriver à « jouer mon rôle en tant qu’écrivain ». Je me souviens vivement de l’injonction de votre mari : « Surtout, ne deviens jamais un écrivain ! », ce qui ne l’empêchait pas de me dire : « écrivez donc ceci, écrivez donc cela ». La tâche est donc de continuer à écrire sans devenir écrivain. Il y a dans l’art un élément diabolique, parce que le facteur « plaisir » y est indispensable. Si j’écris sans plaisir comme un écolier un pensum, ce sera mauvais. Mais si je me livre au plaisir, je suis perdu. Il faut que le plaisir soit seulement le signe du bien faire et que je n’en jouisse pas<renvoi idref="sdfootnote26sym" typeref="note">26</renvoi>.</alinea>
-          </para>
-        </alinea>
-      </bloccitation>
-      <para>
-        <alinea>Écrire sans devenir écrivain, voilà le défi paradoxal qui lui était imposé par l’enseignement de Gurdjieff. Comme le rappellent les rédacteurs du chapitre « René Daumal, chercheur de vérité », cette injonction de ne jamais devenir « écrivain » l’engageait à se manifester sans s’identifier à ses manifestations, sans se croire être devenu quelque chose, ou quelqu’un, non par une hypothétique modestie, mais pour aller encore plus loin dans la recherche de la véritable conscience<renvoi idref="sdfootnote27sym" typeref="note">27</renvoi>. Vu sous cet angle, la littérature n’est pas une fin en soi, elle n’est que le moyen, le chemin pour quelque chose de plus haut, comme l’ascension du<marquage typemarq="italique">Mont Analogue</marquage>le signale poétiquement. La vieille rengaine de « l’art pour l’art » n’a plus de sens pour Daumal et cela à une période de l’histoire de la littérature où les « Kirittiks » commençaient à se faufiler sournoisement entre les « Fabricateurs de Discours Inutiles » et le public :</alinea>
+	Encore adolescent, il avait créé le groupe des <marquage typemarq="italique">Phrères simplistes</marquage> avec ses camarades du lycée de Reims – Roger Vailland, Robert Meyrat et Roger Gilbert-Lecomte – pour mettre en pratique une « métaphysique expérimentale », recherche émouvante et téméraire, associée dangereusement à l’usage de substances chimiques et de drogues diverses, comme il l’avoue dans <marquage typemarq="italique">Chaque fois que l’aube paraît</marquage>
+          <renvoi idref="sdfootnote20sym" typeref="note">20</renvoi>. Un peu plus tard, secondé toujours par Roger Vailland et Roger Gilbert-Lecomte, il fonde la revue du <marquage typemarq="italique">Grand Jeu</marquage> (1928). Proche, au moment de sa parution, d’André Breton (en dépit de la méfiance que le groupe du <marquage typemarq="italique">Grand Jeu</marquage> éprouvait à l’égard de ce dernier à cause de l’importance qu’il donnait au subconscient et à l’écriture automatique), la revue prendra par la suite une position critique assez sévère face au surréalisme. Dès lors, malgré les efforts de conciliation entrepris par Aragon, une dissension définitive se produira à partir du troisième et dernier numéro, où Daumal interpelle personnellement Breton, dans une lettre teintée par un ton prophétique :</alinea>
       </para>
-      <bloccitation>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <para>
-            <alinea>Chaque kirittik a pour le moins cinq romans, trois essais, deux ouvrages philosophiques, soixante-douze recueils de poèmes, quinze Vies d’hommes illustres, vingt livres de Mémoires, trente pamphlets et de piles de journaux et de revues à absorber avant la fin de la semaine (…) Après lire, les Kirittiks écrivent. Leur tâche est de dépister parmi les écrits qui se publient, tout ce qui pourrait, plus ou moins directement, être utile à quoi que ce soit<renvoi idref="sdfootnote28sym" typeref="note">28</renvoi>…</alinea>
+	<para>
+            <alinea>
+		Pour une fois, vous avez devant vous des hommes qui, se tenant à l’écart de vous, vous critiquant même souvent avec sévérité, ne vont pas pour cela vous insulter à tort et à travers […] Prenez garde, André Breton, de figurer plus tard dans les manuels d’histoire littéraire, alors que si nous briguions quelque honneur, ce serait celui d’être inscrits pour la postérité dans l’histoire des cataclysmes.</alinea>
           </para>
-        </alinea>
+</alinea>
       </bloccitation>
-      <para>
-        <alinea>Parmi d’autres chapitres de l’ouvrage collectif, on trouve « Note sur le théâtre », où Alexandre de Salzmann dénonce la frivolité qui menace le théâtre contemporain : « Le théâtre, tel qu’il est maintenant (…) a complètement oublié son essence et son but. Il est devenu un misérable passe-temps, il a perdu tout son sens<renvoi idref="sdfootnote29sym" typeref="note">29</renvoi>. » Cependant, le chapitre le plus important est, sans aucun doute, celui de la correspondance de Daumal avec Jeanne de Salzmann<renvoi idref="sdfootnote30sym" typeref="note">30</renvoi>. Daumal est déjà très proche de sa mort et il le sait. Son guide, Alexandre de Salzmann, est décédé en 1934 ravagé par la même maladie, la tuberculose, maladie dévastatrice qui allait trouver son remède dans la streptomycine en 1944… l’année de sa propre mort. Depuis plusieurs années Madame de Salzmann, sachant que Daumal était aussi pauvre que malade, avait fait tout son possible pour l’aider matériellement, lui et sa femme, Véra. Elle s’arrangeait même pour leur faire arriver, en dépit de ses propres difficultés en pleine Occupation nazie, de la nourriture, des vêtements et de l’argent pour ses cures à la montagne. Mais, bien sûr, ce fut au niveau spirituel que l’aide de Madame de Salzmann, elle-même guidée par Gurdjieff, devint décisive pour le détacher de la souffrance de son corps malade et pour le guérir de son angoisse de la mort et du néant. Dans une lettre envoyée de Paris pendant l’été de 1943, alors que René Daumal se trouvait dans les Alpes pour une dernière et vaine tentative de guérison de sa maladie pulmonaire, Madame de Salzmann – précisant la différence entre le « moi-corps » et le « Je » – lui écrit ceci :</alinea>
-      </para>
-      <bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <para>
-            <alinea>Quand vous arriverez à vous tenir dans votre tête, dans votre pensée et sentiment, et que là sera votre centre de gravité, vous verrez que "je" est libre de tout. Rien de la vie ordinaire, rien du ‘moi’ ne le concerne, aucune peine, aucun grief, aucune douleur, aucune larme, aucun attachement ; cela ne le concerne pas, est étranger à sa nature. Sa nature est d’Être<renvoi idref="sdfootnote31sym" typeref="note">31</renvoi>.</alinea>
+	Ses amis n’apprécièrent guère ce qu’ils croyaient être un renoncement à la littérature. Ils craignaient aussi l’influence grandissante de Alexandre de Salzmann, qui avait intégré Daumal aux réunions des « chercheurs de vérité » qu’il dirigeait. « Je m’effraie de la réputation de théosophe qui vous est faite à Paris. Quand on me parle de vous, on me dit que vous avez sombré dans l’occultisme, avec un ton de désespoir », s’inquiète Léon Pierre-Quint, l’un de ses éditeurs<renvoi idref="sdfootnote21sym" typeref="note">21</renvoi>. Jean Paulhan, directeur de la <marquage typemarq="italique">NRF</marquage> et bras droit de Gaston Gallimard, s’inquiète à son tour d’une dérive qui pourrait le priver d’un romancier à succès. Pour le tranquilliser, Daumal, en toute naïveté et honnêteté, lui écrit :</alinea>
+      </para>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	<para>
+            <alinea>
+		Eh bien, je veux vous rassurer. Lorsque notre groupe rencontra A. de Salzmann, chacun de nous devina aussitôt en lui un homme pour qui la recherche de la vérité primait tout, qui avait dû aller déjà très loin dans cette recherche, et dont la seule présence nous demandait d’être plus responsables, nous interdisait de mentir. C’est pourquoi je suis allé vers lui et c’est pourquoi, peu à peu, les autres s’en sont écartés<renvoi idref="sdfootnote22sym" typeref="note">22</renvoi>...</alinea>
           </para>
-        </alinea>
+</alinea>
       </bloccitation>
-      <para>
-        <alinea> </alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Daumal tenait à nier et à récuser toute confusion entre la voie qu’il avait découverte, et les faux chemins, les faux gourous qui proposaient, pour quelques sous et sans effort, leurs formules miraculeuses dans le Paris des années 30 :</alinea>
       </para>
-      <para>
-        <alinea> </alinea>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	<para>
+            <alinea>
+		Il y a aujourd’hui chez toi, peuple intellectuel de Paris, quelques abrutissements particulièrement en vogue. Je veux parler d’une mystique à vomir, d’un occultisme à relents scatologiques, de toutes ces pseudo-religions qui sont l’opium des intellectuels. Je dis ici que toutes leurs religions, leurs mystiques, leurs astrologies, leurs sagesses, leurs initiés crasseux, leurs lamas antisémites, leurs brahmanes constipés, j’en jetterais des tonnes au fumier (…) Je les ai bien regardés, ces amateurs de mystère (…) Fuyons-les, ces fuyards de la réalité, ces conseillers de désertion<renvoi idref="sdfootnote23sym" typeref="note">23</renvoi> ,</alinea>
+          </para>
+</alinea>
+      </bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	s’indigne-t-il dans un article intitulé « À propos de nouvelles religions et au revoir ».</alinea>
       </para>
-      <note id="sdfootnote1sym">
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Étrange peuple intellectuel de Paris ! Il avait fini, après quelques hésitations mondaines, par célébrer la musique de Stravinsky et les ballets russes de Diaghilev, mais il refusait de reconnaître et d’accepter l’apport d’un enseignement psychologique oriental profondément révolutionnaire comme celui de Gurdjieff. Freud, penseur occidental dûment certifié, semblait, en fin de compte, plus convenable, moins dangereux. Le buveur socratique de <marquage typemarq="italique">La Grande Beuverie </marquage>(où Daumal met en question romanciers et critiques, les « ruminssiés » et les « kirittiks »), l’alpiniste spirituel du <marquage typemarq="italique">Mont Analogue</marquage> (dont l’écriture, providentiellement inachevée, constitue une initiation poétique vers les plus hauts sommets de l’esprit<renvoi idref="sdfootnote24sym" typeref="note">24</renvoi>), dénonce avec colère et mépris l’amalgame abusif entre l’enseignement gurdjieffien et le charlatanisme à la mode de Paris. Ce charlatanisme et ces amalgames vont se prolonger au cours des années 50-60 dans les pamphlets de quelques journalistes comme J.F. Revel ou Louis Pauwels, « kirittiks » largement ignorants de la pensée de Gurdjieff, malgré leurs prétentions de « connaisseurs » d’un enseignement qu’ils avaient à peine frôlé. Ils le dénigrent avec la malhonnêteté intellectuelle de la bourgeoisie bien-pensante, prête à tous les mensonges lorsqu’il s’agit de protéger leurs valeurs surannées. Chez Daumal, en revanche, il y a une grande exigence d’honnêteté intellectuelle, d’acuité critique, qu’il applique également sans hésiter à la fausse « activité poétique », ce qui explique en partie la disparition du <marquage typemarq="italique">Grand Jeu</marquage>, la cassure avec son groupe et son éloignement définitif de ses camarades de jeunesse :</alinea>
+      </para>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	<para>
+            <alinea>
+		J’ai cru pendant quelque temps que l’activité poétique suffirait à ma vie. J’ai dû déchanter. Je suis bien placé pour le dire ici, et tant pis si je trahis la confrérie, que l’exercice littéraire dit de nos jours "poésie" est fait pour les neuf dixièmes et plus de bluff éhonté, de mascarade, d’ignorance de tout (…), d’irresponsabilité, de vanité, d’amour propre aux dix millions de replis et de paresse ; c’est-à-dire fait de néants multiformes, d’absences, de creux voilé de vagues mirages. Sinon, oui, ce serait une voie possible. Ce serait même la seule voie, mais ce ne serait plus un exercice littéraire<renvoi idref="sdfootnote25sym" typeref="note">25</renvoi>,</alinea>
+          </para>
+</alinea>
+      </bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	écrit-il en 1935 dans <marquage typemarq="italique">La vie des Basiles</marquage>.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	On peut comprendre que ses anciens compagnons n’aient pas été flattés par une telle vision de la littérature. « Ne deviens jamais un écrivain » lui conseillait de son côté Alexandre de Salzmann, tout en lui demandant, paradoxalement, d’écrire sans cesse. C’est ce que Daumal confie à Jeanne de Salzmann dans une lettre datant de 1943 :</alinea>
+      </para>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	<para>
+            <alinea>
+		Une de mes grandes difficultés en ce moment, c’est d’arriver à « jouer mon rôle en tant qu’écrivain ». Je me souviens vivement de l’injonction de votre mari : « Surtout, ne deviens jamais un écrivain ! », ce qui ne l’empêchait pas de me dire : « écrivez donc ceci, écrivez donc cela ». La tâche est donc de continuer à écrire sans devenir écrivain. Il y a dans l’art un élément diabolique, parce que le facteur « plaisir » y est indispensable. Si j’écris sans plaisir comme un écolier un pensum, ce sera mauvais. Mais si je me livre au plaisir, je suis perdu. Il faut que le plaisir soit seulement le signe du bien faire et que je n’en jouisse pas<renvoi idref="sdfootnote26sym" typeref="note">26</renvoi>.</alinea>
+          </para>
+</alinea>
+      </bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Écrire sans devenir écrivain, voilà le défi paradoxal qui lui était imposé par l’enseignement de Gurdjieff. Comme le rappellent les rédacteurs du chapitre « René Daumal, chercheur de vérité », cette injonction de ne jamais devenir « écrivain » l’engageait à se manifester sans s’identifier à ses manifestations, sans se croire être devenu quelque chose, ou quelqu’un, non par une hypothétique modestie, mais pour aller encore plus loin dans la recherche de la véritable conscience<renvoi idref="sdfootnote27sym" typeref="note">27</renvoi>. Vu sous cet angle, la littérature n’est pas une fin en soi, elle n’est que le moyen, le chemin pour quelque chose de plus haut, comme l’ascension du <marquage typemarq="italique">Mont Analogue</marquage> le signale poétiquement. La vieille rengaine de « l’art pour l’art » n’a plus de sens pour Daumal et cela à une période de l’histoire de la littérature où les « Kirittiks » commençaient à se faufiler sournoisement entre les « Fabricateurs de Discours Inutiles » et le public :</alinea>
+      </para>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	<para>
+            <alinea>
+		Chaque kirittik a pour le moins cinq romans, trois essais, deux ouvrages philosophiques, soixante-douze recueils de poèmes, quinze Vies d’hommes illustres, vingt livres de Mémoires, trente pamphlets et de piles de journaux et de revues à absorber avant la fin de la semaine (…) Après lire, les Kirittiks écrivent. Leur tâche est de dépister parmi les écrits qui se publient, tout ce qui pourrait, plus ou moins directement, être utile à quoi que ce soit<renvoi idref="sdfootnote28sym" typeref="note">28</renvoi>…</alinea>
+          </para>
+</alinea>
+      </bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Parmi d’autres chapitres de l’ouvrage collectif, on trouve « Note sur le théâtre », où Alexandre de Salzmann dénonce la frivolité qui menace le théâtre contemporain : « Le théâtre, tel qu’il est maintenant (…) a complètement oublié son essence et son but. Il est devenu un misérable passe-temps, il a perdu tout son sens<renvoi idref="sdfootnote29sym" typeref="note">29</renvoi>. » Cependant, le chapitre le plus important est, sans aucun doute, celui de la correspondance de Daumal avec Jeanne de Salzmann<renvoi idref="sdfootnote30sym" typeref="note">30</renvoi>. Daumal est déjà très proche de sa mort et il le sait. Son guide, Alexandre de Salzmann, est décédé en 1934 ravagé par la même maladie, la tuberculose, maladie dévastatrice qui allait trouver son remède dans la streptomycine en 1944… l’année de sa propre mort. Depuis plusieurs années Madame de Salzmann, sachant que Daumal était aussi pauvre que malade, avait fait tout son possible pour l’aider matériellement, lui et sa femme, Véra. Elle s’arrangeait même pour leur faire arriver, en dépit de ses propres difficultés en pleine Occupation nazie, de la nourriture, des vêtements et de l’argent pour ses cures à la montagne. Mais, bien sûr, ce fut au niveau spirituel que l’aide de Madame de Salzmann, elle-même guidée par Gurdjieff, devint décisive pour le détacher de la souffrance de son corps malade et pour le guérir de son angoisse de la mort et du néant. Dans une lettre envoyée de Paris pendant l’été de 1943, alors que René Daumal se trouvait dans les Alpes pour une dernière et vaine tentative de guérison de sa maladie pulmonaire, Madame de Salzmann – précisant la différence entre le « moi-corps » et le « Je » – lui écrit ceci :</alinea>
+      </para>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	<para>
+            <alinea>
+		Quand vous arriverez à vous tenir dans votre tête, dans votre pensée et sentiment, et que là sera votre centre de gravité, vous verrez que "je" est libre de tout. Rien de la vie ordinaire, rien du ‘moi’ ne le concerne, aucune peine, aucun grief, aucune douleur, aucune larme, aucun attachement ; cela ne le concerne pas, est étranger à sa nature. Sa nature est d’Être<renvoi idref="sdfootnote31sym" typeref="note">31</renvoi>.</alinea>
+          </para>
+</alinea>
+      </bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
+      </para>
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote1sym">
         <no>1</no>
-        <alinea>Collectif constitué par Wangeman A.M., Auger C., Décant P., Pian J., Nicolescu B., René Daumal et l’enseignement de Gurdjieff, Le Bois d’Orion, L’Isle-sur-la-Sorgue, 2015.</alinea>
+        <alinea>
+	 Collectif constitué par Wangeman A.M., Auger C., Décant P., Pian J., Nicolescu B., René Daumal et l’enseignement de Gurdjieff, Le Bois d’Orion, L’Isle-sur-la-Sorgue, 2015.</alinea>
       </note>
-      <note id="sdfootnote2sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote2sym">
         <no>2</no>
-        <alinea>Ce même ballet fut présenté au Carnegie Hall à New York en avril 1924.</alinea>
+        <alinea>
+	 Ce même ballet fut présenté au Carnegie Hall à New York en avril 1924.</alinea>
       </note>
-      <note id="sdfootnote3sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote3sym">
         <no>3</no>
-        <alinea>Collectif sous la direction de Besarab Nicolescu, physicien théoricien au CNRS. Il est l’auteur de « La Philosophie de la Nature de Gurdjieff », essai où il montre la surprenante justesse et le bien-fondé de la cosmogonie et de la cosmologie gurdjeffiennes, qui prévoient les avancées de la physique atomique et de l’astrophysique moderne. (« La Philosophie de la Nature de Gurdjieff », in<marquage typemarq="italique">Les Dossiers H</marquage>, G.I.Gurdjieff, L’Âge d’Homme, Paris, 1992, p. 267.)</alinea>
+        <alinea>
+	 Collectif sous la direction de Besarab Nicolescu, physicien théoricien au CNRS. Il est l’auteur de « La Philosophie de la Nature de Gurdjieff », essai où il montre la surprenante justesse et le bien-fondé de la cosmogonie et de la cosmologie gurdjeffiennes, qui prévoient les avancées de la physique atomique et de l’astrophysique moderne. (« La Philosophie de la Nature de Gurdjieff », in <marquage typemarq="italique">Les Dossiers H</marquage>, G.I.Gurdjieff, L’Âge d’Homme, Paris, 1992, p. 267.)</alinea>
       </note>
-      <note id="sdfootnote4sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote4sym">
         <no>4</no>
-        <alinea>Daumal,<marquage typemarq="italique">La Grande Beuverie</marquage>, L’Imaginaire, Gallimard, Paris 2004.</alinea>
+        <alinea>
+	 Daumal, <marquage typemarq="italique">La Grande Beuverie</marquage>, L’Imaginaire, Gallimard, Paris 2004.</alinea>
       </note>
-      <note id="sdfootnote5sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote5sym">
         <no>5</no>
-        <alinea>Alfred Jarry (Laval 1873 – Paris 1907), auteur de la pièce<marquage typemarq="italique">Ubu Roi</marquage>et inventeur de la « pataphysique », la « science des solutions imaginaires ». Daumal et ses « phrères simplistes » du lycée de Reims, le considéraient comme l’un de leurs « prophètes ».</alinea>
+        <alinea>
+	 Alfred Jarry (Laval 1873 – Paris 1907), auteur de la pièce <marquage typemarq="italique">Ubu Roi</marquage> et inventeur de la « pataphysique », la « science des solutions imaginaires ». Daumal et ses « phrères simplistes » du lycée de Reims, le considéraient comme l’un de leurs « prophètes ».</alinea>
       </note>
-      <note id="sdfootnote6sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote6sym">
         <no>6</no>
-        <alinea>Collectif,<marquage typemarq="italique">op</marquage>.<marquage typemarq="italique">cit</marquage>., p.19.</alinea>
+        <alinea>
+	 Collectif, <marquage typemarq="italique">op</marquage>. <marquage typemarq="italique">cit</marquage>., p.19.</alinea>
       </note>
-      <note id="sdfootnote7sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote7sym">
         <no>7</no>
-        <alinea>Lettre à Mme de Salzmann, Pelvoux, le 7 juillet 1943,<marquage typemarq="italique">Ibid</marquage>., p. 256.</alinea>
+        <alinea>
+	 Lettre à Mme de Salzmann, Pelvoux, le 7 juillet 1943, <marquage typemarq="italique">Ibid</marquage>., p. 256.</alinea>
       </note>
-      <note id="sdfootnote8sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote8sym">
         <no>8</no>
-        <alinea>Daumal,<marquage typemarq="italique">Le Mont Analogue</marquage>, L’Imaginaire, Gallimard, Paris, 2006.</alinea>
+        <alinea>
+	 Daumal, <marquage typemarq="italique">Le Mont Analogue</marquage>, L’Imaginaire, Gallimard, Paris, 2006.</alinea>
       </note>
-      <note id="sdfootnote9sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote9sym">
         <no>9</no>
-        <alinea>Daumal,<marquage typemarq="italique">La Grande Beuverie</marquage>,<marquage typemarq="italique">op.</marquage>
-          <marquage typemarq="italique">cit</marquage>., p.30.</alinea>
+        <alinea>
+	 Daumal, <marquage typemarq="italique">La Grande Beuverie</marquage>, <marquage typemarq="italique">op.</marquage> <marquage typemarq="italique">cit</marquage>., p.30.</alinea>
       </note>
-      <note id="sdfootnote10sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote10sym">
         <no>10</no>
-        <alinea>Gac R., « Freud / Gurdjieff », in<marquage typemarq="italique">Portrait d’un Psychiatre Incinéré</marquage>, Éditions de la Différence, Paris 1999, p. 215.</alinea>
+        <alinea>
+	 Gac R., « Freud / Gurdjieff », in <marquage typemarq="italique">Portrait d’un Psychiatre Incinéré</marquage>, Éditions de la Différence, Paris 1999, p. 215.</alinea>
       </note>
-      <note id="sdfootnote11sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote11sym">
         <no>11</no>
-        <alinea>Collectif,<marquage typemarq="italique">op. cit</marquage>., p.71.</alinea>
+        <alinea>
+	 Collectif, <marquage typemarq="italique">op. cit</marquage>., p.71.</alinea>
       </note>
-      <note id="sdfootnote12sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote12sym">
         <no>12</no>
         <alinea>
-          <marquage typemarq="italique">Ibid</marquage>., p.73 – 76.</alinea>
+	 <marquage typemarq="italique">Ibid</marquage>., p.73 – 76.</alinea>
       </note>
-      <note id="sdfootnote13sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote13sym">
         <no>13</no>
         <alinea>
-          <marquage typemarq="italique">Ibid</marquage>., p.44, note 15.</alinea>
+	 <marquage typemarq="italique">Ibid</marquage>., p.44, note 15.</alinea>
       </note>
-      <note id="sdfootnote14sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote14sym">
         <no>14</no>
-        <alinea>Daumal,<marquage typemarq="italique">Poésie noire, poésie blanche</marquage>, Collection blanche, Gallimard, 1954.</alinea>
+        <alinea>
+	 Daumal, <marquage typemarq="italique">Poésie noire, poésie blanche</marquage>, Collection blanche, Gallimard, 1954.</alinea>
       </note>
-      <note id="sdfootnote15sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote15sym">
         <no>15</no>
-        <alinea>Collectif,<marquage typemarq="italique">op</marquage>.<marquage typemarq="italique">cit</marquage>., p.107.</alinea>
+        <alinea>
+	 Collectif, <marquage typemarq="italique">op</marquage>. <marquage typemarq="italique">cit</marquage>., p.107.</alinea>
       </note>
-      <note id="sdfootnote16sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote16sym">
         <no>16</no>
         <alinea>
-          <marquage typemarq="italique">Ibid</marquage>., p. 52-53.</alinea>
+	 <marquage typemarq="italique">Ibid</marquage>., p. 52-53.</alinea>
       </note>
-      <note id="sdfootnote17sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote17sym">
         <no>17</no>
         <alinea>
-          <marquage typemarq="italique">Ibid</marquage>., p. 52-53.</alinea>
+	 <marquage typemarq="italique">Ibid</marquage>., p. 52-53.</alinea>
       </note>
-      <note id="sdfootnote18sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote18sym">
         <no>18</no>
-        <alinea>La « logique de la transcendance » conçue par Marcello Vitali Rosati, logique qui va au-delà de la logique formelle, permet de saisir l’iconologie de la psyché, mais elle ne peut pas, bien entendu, s’appliquer à une pensée sans mots. (Cf. « Il problema del soggetto » in<marquage typemarq="italique">Riflessione e trascenden</marquage>
+        <alinea>
+	 La « logique de la transcendance » conçue par Marcello Vitali Rosati, logique qui va au-delà de la logique formelle, permet de saisir l’iconologie de la psyché, mais elle ne peut pas, bien entendu, s’appliquer à une pensée sans mots. (Cf. « Il problema del soggetto » in <marquage typemarq="italique">Riflessione e trascenden</marquage>
           <marquage typemarq="italique">za</marquage>, Edizioni ETS, Pisa, 2003, p. 112.)</alinea>
       </note>
-      <note id="sdfootnote19sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote19sym">
         <no>19</no>
-        <alinea>Collectif,<marquage typemarq="italique">op. cit</marquage>., p. 24, note 14.</alinea>
+        <alinea>
+	 Collectif, <marquage typemarq="italique">op. cit</marquage>., p. 24, note 14.</alinea>
       </note>
-      <note id="sdfootnote20sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote20sym">
         <no>20</no>
         <alinea>
-          <marquage typemarq="italique">Ibid</marquage>., p.24, note 16.</alinea>
+	 <marquage typemarq="italique">Ibid</marquage>., p.24, note 16.</alinea>
       </note>
-      <note id="sdfootnote21sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote21sym">
         <no>21</no>
         <alinea>
-          <marquage typemarq="italique">Ibid</marquage>., p.27, note 25.</alinea>
+	 <marquage typemarq="italique">Ibid</marquage>., p.27, note 25.</alinea>
       </note>
-      <note id="sdfootnote22sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote22sym">
         <no>22</no>
         <alinea>
-          <marquage typemarq="italique">Ibid</marquage>., p.27, note 24.</alinea>
+	 <marquage typemarq="italique">Ibid</marquage>., p.27, note 24.</alinea>
       </note>
-      <note id="sdfootnote23sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote23sym">
         <no>23</no>
         <alinea>
-          <marquage typemarq="italique">Ibid</marquage>., p.27, note 26.</alinea>
+	 <marquage typemarq="italique">Ibid</marquage>., p.27, note 26.</alinea>
       </note>
-      <note id="sdfootnote24sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote24sym">
         <no>24</no>
-        <alinea>La lecture est arrêtée par une virgule inattendue. Cela produit un extraordinaire effet esthétique lorsqu’on la découvre, car le lecteur est déjà bien équipé et prêt pour commencer l’ascension du Mont Analogue. Il doit se résigner à renoncer à la fiction et comprendre que le sommet à conquérir se trouve en lui-même…</alinea>
+        <alinea>
+	 La lecture est arrêtée par une virgule inattendue. Cela produit un extraordinaire effet esthétique lorsqu’on la découvre, car le lecteur est déjà bien équipé et prêt pour commencer l’ascension du Mont Analogue. Il doit se résigner à renoncer à la fiction et comprendre que le sommet à conquérir se trouve en lui-même…</alinea>
       </note>
-      <note id="sdfootnote25sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote25sym">
         <no>25</no>
-        <alinea>Collectif.,<marquage typemarq="italique">op</marquage>.<marquage typemarq="italique">cit</marquage>., p. 29, note 32.</alinea>
+        <alinea>
+	 Collectif., <marquage typemarq="italique">op</marquage>. <marquage typemarq="italique">cit</marquage>., p. 29, note 32.</alinea>
       </note>
-      <note id="sdfootnote26sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote26sym">
         <no>26</no>
         <alinea>
-          <marquage typemarq="italique">Ibid</marquage>., p. 29, note 31.</alinea>
+	 <marquage typemarq="italique">Ibid</marquage>., p. 29, note 31.</alinea>
       </note>
-      <note id="sdfootnote27sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote27sym">
         <no>27</no>
-        <alinea>Le « lecteur-écrivain » de l’intertexte, s’inscrit dans cette perspective de détachement du « moi-auteur ». (Cf. Roberto Gac, “Bakhtine, le roman et l’intertexte’,<marquage typemarq="italique">Sens Public</marquage>)</alinea>
+        <alinea>
+	 Le « lecteur-écrivain » de l’intertexte, s’inscrit dans cette perspective de détachement du « moi-auteur ». (Cf. Roberto Gac, “Bakhtine, le roman et l’intertexte’, <marquage typemarq="italique">Sens Public</marquage>)</alinea>
       </note>
-      <note id="sdfootnote28sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote28sym">
         <no>28</no>
-        <alinea>Daumal,<marquage typemarq="italique">La Grande Beuverie</marquage>,<marquage typemarq="italique">op</marquage>.<marquage typemarq="italique">cit</marquage>., p. 93.</alinea>
+        <alinea>
+	 Daumal, <marquage typemarq="italique">La Grande Beuverie</marquage>, <marquage typemarq="italique">op</marquage>.<marquage typemarq="italique">cit</marquage>., p. 93.</alinea>
       </note>
-      <note id="sdfootnote29sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote29sym">
         <no>29</no>
-        <alinea>Alexandre de Salzmann, Le théâtre déchu,<marquage typemarq="italique">op</marquage>.<marquage typemarq="italique">cit</marquage>., p. 172. Alexandre de Salzmann ne savait pas que quelques décennies plus tard, Peter Brook, l’un des plus grands metteurs en scène de notre temps, deviendrait un pilier de l’Institut Gurdjieff de Paris et, secondairement, un subtil réformateur du théâtre contemporain.</alinea>
+        <alinea>
+	 Alexandre de Salzmann, Le théâtre déchu, <marquage typemarq="italique">op</marquage>.<marquage typemarq="italique">cit</marquage>., p. 172. Alexandre de Salzmann ne savait pas que quelques décennies plus tard, Peter Brook, l’un des plus grands metteurs en scène de notre temps, deviendrait un pilier de l’Institut Gurdjieff de Paris et, secondairement, un subtil réformateur du théâtre contemporain.</alinea>
       </note>
-      <note id="sdfootnote30sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote30sym">
         <no>30</no>
-        <alinea>Collectif,<marquage typemarq="italique">op. cit</marquage>., Correspondance Jeanne de Salzmann/René Daumal, p.249.</alinea>
+        <alinea>
+	 Collectif, <marquage typemarq="italique">op. cit</marquage>., Correspondance Jeanne de Salzmann/René Daumal, p.249.</alinea>
       </note>
-      <note id="sdfootnote31sym">
+      <note xmlns:xlink="http://www.w3.org/1999/xlink" id="sdfootnote31sym">
         <no>31</no>
-        <alinea>Collectif,<marquage typemarq="italique">op. cit</marquage>., p.258.</alinea>
+        <alinea>
+	 Collectif, <marquage typemarq="italique">op. cit</marquage>., p.258.</alinea>
       </note>
     </section1>
   </corps>
-  <partiesann/>
+  <partiesann lang="fr"/>
 </article>

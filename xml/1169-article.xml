@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1897ear" typeart="Essais" lang="fr" ordseq="1">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1897ear" typeart="article" lang="fr" horstheme="oui" ordseq="5">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -8,7 +8,7 @@
         <descripteur>Pensée politique et sociale</descripteur>
       </grdescripteur>
       <nbpara>46</nbpara>
-      <nbmot>7426</nbmot>
+      <nbmot>7506</nbmot>
       <nbfig>0</nbfig>
       <nbtabl>0</nbtabl>
       <nbimage>0</nbimage>
@@ -35,8 +35,8 @@
       <pubnum>
         <date typedate="publication">2015-11-15</date>
       </pubnum>
-      <grtheme id="th">
-        <theme/>
+      <grtheme>
+        <theme>Varia</theme>
       </grtheme>
     </numero>
     <editeur>
@@ -51,14 +51,13 @@
     <diffnum>
       <nomorg>Sens public</nomorg>
     </diffnum>
-    <histpapier>
-      <alinea>néant</alinea>
-    </histpapier>
     <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
-    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+    <droitsauteur>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
   </admin>
   <liminaire>
     <grtitre>
+      <surtitre/>
+      <surtitre2>Essai</surtitre2>
       <titre>Traduire un au-delà en un déjà-là: les ressorts charismatiques de la voix politologique de Jacques Rancière</titre>
     </grtitre>
     <grauteur>
@@ -73,523 +72,729 @@
       <alinea>Cet article interprète le succès des écrits de Jacques Rancière dans le champ de la théorie politique en travaillant les notions de voix théorique et d’emprise charismatique. En reprenant à Jean-Luc Évard la problématisation du charisme comme effet d’une traduction d’un au-delà en un déjà-là, il devient possible de lire les interventions de Rancière comme des redescriptions captivantes de l’égalité des intelligences. La formulation de l’égalité comme point de départ plutôt que comme fin politique est également sensible dans la voix parlée de Rancière et c’est cette séduisante traduction conceptuelle que ses traducteurs anglophones cherchent à rendre dans leur langue.</alinea>
     </resume>
     <grmotcle lang="fr">
-      <motcle>focus</motcle>
       <motcle>Philosophie</motcle>
       <motcle>Politique et société</motcle>
     </grmotcle>
   </liminaire>
   <corps>
     <section1>
-      <para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <marquage typemarq="italique">Ça ne pourra pas toujours ne pas arriver</marquage>
+	<marquage typemarq="italique">Ça ne pourra pas toujours ne pas arriver</marquage>
         </alinea>
       </para>
-      <para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <marquage typemarq="italique">Nous entrerons là où nous sommes déjà</marquage>
+	<marquage typemarq="italique">Nous entrerons là où nous sommes déjà</marquage>
         </alinea>
       </para>
-      <para>
-        <alinea>Gaston Miron</alinea>
-      </para>
-      <para>
-        <alinea> </alinea>
-      </para>
-      <para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <marquage typemarq="italique">Nous y sommes. Soyons-y !</marquage>
+	Gaston Miron</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	<marquage typemarq="italique">Nous y sommes. Soyons-y !</marquage>
         </alinea>
       </para>
-      <para>
-        <alinea>Réjean Ducharme</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Réjean Ducharme</alinea>
       </para>
-      <para>
-        <alinea> </alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
-      <para>
-        <alinea>Jacques Rancière séduit. Le praticien de la pensée politique est lu, entendu, discuté, cité et critiqué dans plusieurs pays et dans plusieurs réseaux de recherche et d’enseignement. Il ne séduit pas tout le monde, bien entendu, et ceux et celles qu’il séduit, il ne les séduit pas tout le temps. Néanmoins, Rancière a acquis ce qu’il faut sans doute appeler « une voix », au sens où il a<marquage typemarq="italique">voix au chapitre</marquage>aux frontières du champ disciplinaire de la pensée politique contemporaine. Cela signifie essentiellement que son nom a sa place sur la carte du champ en question : selon plusieurs cartographes, il peut et même doit y être compté.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Jacques Rancière séduit. Le praticien de la pensée politique est lu, entendu, discuté, cité et critiqué dans plusieurs pays et dans plusieurs réseaux de recherche et d’enseignement. Il ne séduit pas tout le monde, bien entendu, et ceux et celles qu’il séduit, il ne les séduit pas tout le temps. Néanmoins, Rancière a acquis ce qu’il faut sans doute appeler « une voix », au sens où il a <marquage typemarq="italique">voix au chapitre</marquage> aux frontières du champ disciplinaire de la pensée politique contemporaine. Cela signifie essentiellement que son nom a sa place sur la carte du champ en question : selon plusieurs cartographes, il peut et même doit y être compté.</alinea>
       </para>
-      <para>
-        <alinea>La voix de Rancière est d’abord une voix en langue française, celle dans laquelle il pense, écrit et parle le plus souvent. Toutefois, depuis plusieurs années il a aussi acquis une voix dans d’autres langues, dont l’anglais et le portugais (dans ce dernier cas, surtout au Brésil), grâce aux traductions de ses écrits. Le succès international de Rancière peut être documenté. D’une part, les librairies universitaires gardent des exemplaires de ses livres, le plus souvent dans la section « Philosophie ». D’autre part, il est possible de répertorier avec précision un nombre significatif de livres, d’articles et de numéros de revue consacrés à ses travaux, et en particulier à sa pensée de l’émancipation intellectuelle<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>. À l’aune de ce succès, énonçons que non seulement Rancière<marquage typemarq="italique">a</marquage>, mais aussi qu’il<marquage typemarq="italique">est</marquage>une voix.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	La voix de Rancière est d’abord une voix en langue française, celle dans laquelle il pense, écrit et parle le plus souvent. Toutefois, depuis plusieurs années il a aussi acquis une voix dans d’autres langues, dont l’anglais et le portugais (dans ce dernier cas, surtout au Brésil), grâce aux traductions de ses écrits. Le succès international de Rancière peut être documenté. D’une part, les librairies universitaires gardent des exemplaires de ses livres, le plus souvent dans la section « Philosophie ». D’autre part, il est possible de répertorier avec précision un nombre significatif de livres, d’articles et de numéros de revue consacrés à ses travaux, et en particulier à sa pensée de l’émancipation intellectuelle<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>. À l’aune de ce succès, énonçons que non seulement Rancière <marquage typemarq="italique">a</marquage>, mais aussi qu’il <marquage typemarq="italique">est </marquage>une voix.</alinea>
       </para>
-      <para>
-        <alinea>Puisqu’il a d’abord été et qu’il demeure une voix dans le champ de la pensée, de la philosophie ou de la théorie politique, avant d’avoir été lu, entendu et travaillé dans les champs de la littérature, de l’esthétique, de la pédagogie ou même des études interdisciplinaires, Rancière est une voix politologique. Cette qualification déplaira sans doute à son lectorat (dont je fais partie), puisque dans ses travaux il questionne la possibilité même d’une science (une -logie) du et de la politique (de l’action au sein de la<marquage typemarq="italique">polis</marquage>, de la cité). Toutefois, Rancière se soucie de politologie au sens étymologique du terme puisque son objet privilégié est la parole politique (les<marquage typemarq="italique">logoi</marquage>qui circulent dans la<marquage typemarq="italique">polis</marquage>sur la<marquage typemarq="italique">polis</marquage>). Plusieurs de ses interventions s’intéressent aux pratiques par lesquelles certaines paroles (<marquage typemarq="italique">logoi</marquage>) sont qualifiées de « proprement politiques » alors que d’autres se voient refuser ce titre et sont réduites au statut de bruit (<marquage typemarq="italique">phonè</marquage>), selon la distinction d’Aristote. La voix politologique de Rancière énonce justement que la politique a trait à cette distribution des voix audibles et inaudibles, à ce partage de la parole et du bruit<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi>.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Puisqu’il a d’abord été et qu’il demeure une voix dans le champ de la pensée, de la philosophie ou de la théorie politique, avant d’avoir été lu, entendu et travaillé dans les champs de la littérature, de l’esthétique, de la pédagogie ou même des études interdisciplinaires, Rancière est une voix politologique. Cette qualification déplaira sans doute à son lectorat (dont je fais partie), puisque dans ses travaux il questionne la possibilité même d’une science (une -logie) du et de la politique (de l’action au sein de la <marquage typemarq="italique">polis</marquage>, de la cité). Toutefois, Rancière se soucie de politologie au sens étymologique du terme puisque son objet privilégié est la parole politique (les <marquage typemarq="italique">logoi</marquage> qui circulent dans la <marquage typemarq="italique">polis</marquage> sur la <marquage typemarq="italique">polis</marquage>). Plusieurs de ses interventions s’intéressent aux pratiques par lesquelles certaines paroles (<marquage typemarq="italique">logoi</marquage>) sont qualifiées de « proprement politiques » alors que d’autres se voient refuser ce titre et sont réduites au statut de bruit (<marquage typemarq="italique">phonè</marquage>), selon la distinction d’Aristote. La voix politologique de Rancière énonce justement que la politique a trait à cette distribution des voix audibles et inaudibles, à ce partage de la parole et du bruit<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi>.</alinea>
       </para>
-      <para>
-        <alinea>Dans ce texte, je cherche à expliciter les ressorts du succès de la voix politologique de Jacques Rancière, cas exemplaire du succès d’une voix de la théorie politique contemporaine. Je mettrai à l’épreuve l’hypothèse suivante : une voix théorique tend à devenir audible comme telle lorsqu’elle se fait<marquage typemarq="italique">parole charismatique</marquage>, au sens donné à ce syntagme par le traducteur et philosophe Jean-Luc Évard. Dans un premier temps, je retracerai la remarquable conceptualisation de l’ « emprise charismatique » par Évard. Selon lui, « l’au-delà des métaphysiques et des théologies est en réalité un<marquage typemarq="italique">déjà-là</marquage> » et il nomme charismatique « l’emprise qu’exerce sur autrui celui qui présente et représente que l’au-delà<marquage typemarq="italique">est</marquage>ce déjà-là<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi> ». Dans un deuxième temps, je montrerai que cette perspective d’Évard sur la traduction d’un au-delà en un déjà-là permet de saisir certains ressorts du succès de la voix de Rancière comme penseur de l’émancipation. Une brève analyse de la voix parlée de Rancière, s’inscrivant dans la continuité des « portraits oratoires » composés par Claude Jaeglé et de la théorie du « masque acoustique » d’Elias Canetti, permettra alors d’approcher la singularité de sa voix écrite. Une synthèse des interventions de Rancière depuis<marquage typemarq="italique">Le maître ignorant. Cinq leçons sur l’émancipation intellectuelle</marquage>(1987) montrera ensuite qu’il insiste pour énoncer que l’égalité des intelligences doit être posée non comme la fin (au-delà) d’une politique émancipatrice, mais comme son axiome, son point de départ (déjà-là). L’axiomatisation de « l’opinion de l’égalité » permettrait d’interrompre la reproduction de l’inégalité qui est à la fois présupposée et instaurée par la pensée dite critique<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>. Dans un troisième et dernier temps, je montrerai que les traducteurs de Rancière en langue anglaise se concentrent de deux façons sur l’aspect charismatique de sa voix écrite. D’une part, la traduction par Rancière d’un au-delà en un déjà-là de l’égalité est précisément ce que ses traducteurs cherchent à rendre audible ou lisible dans leur propre langue. Traduire Rancière serait donc toujours-déjà un geste de retraduction. D’autre part, c’est parce que la voix politologique de Rancière en français se voit attribuer une forme d’emprise charismatique qu’il fait l’objet de traductions en d’autres langues. Ce double constat sera illustré par une synthèse des différends qui persistent quant à la traduction du concept de « partage du sensible » en langue anglaise. Ce concept crucial dans les écrits de Rancière est de plus en plus repris par des lecteurs et des lectrices qui s’en servent pour théoriser à leur tour et, peut-être, se forger ainsi leur propre voix politologique et politique. Ce sinueux parcours entre les énoncés d’Évard et ceux de Rancière, et entre divers modes de traduction, permettra aux lectrices et aux lecteurs d’affiner leur compréhension de ces œuvres qui n’ont encore jamais été explicitement mises en résonance.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Dans ce texte, je cherche à expliciter les ressorts du succès de la voix politologique de Jacques Rancière, cas exemplaire du succès d’une voix de la théorie politique contemporaine. Je mettrai à l’épreuve l’hypothèse suivante : une voix théorique tend à devenir audible comme telle lorsqu’elle se fait <marquage typemarq="italique">parole charismatique</marquage>, au sens donné à ce syntagme par le traducteur et philosophe Jean-Luc Évard. Dans un premier temps, je retracerai la remarquable conceptualisation de l’ « emprise charismatique » par Évard. Selon lui, « l’au-delà des métaphysiques et des théologies est en réalité un <marquage typemarq="italique">déjà-là</marquage> » et il nomme charismatique « l’emprise qu’exerce sur autrui celui qui présente et représente que l’au-delà <marquage typemarq="italique">est</marquage> ce déjà-là<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi> ». Dans un deuxième temps, je montrerai que cette perspective d’Évard sur la traduction d’un au-delà en un déjà-là permet de saisir certains ressorts du succès de la voix de Rancière comme penseur de l’émancipation. Une brève analyse de la voix parlée de Rancière, s’inscrivant dans la continuité des « portraits oratoires » composés par Claude Jaeglé et de la théorie du « masque acoustique » d’Elias Canetti, permettra alors d’approcher la singularité de sa voix écrite. Une synthèse des interventions de Rancière depuis <marquage typemarq="italique">Le maître ignorant. Cinq leçons sur l’émancipation intellectuelle</marquage> (1987) montrera ensuite qu’il insiste pour énoncer que l’égalité des intelligences doit être posée non comme la fin (au-delà) d’une politique émancipatrice, mais comme son axiome, son point de départ (déjà-là). L’axiomatisation de « l’opinion de l’égalité » permettrait d’interrompre la reproduction de l’inégalité qui est à la fois présupposée et instaurée par la pensée dite critique<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>. Dans un troisième et dernier temps, je montrerai que les traducteurs de Rancière en langue anglaise se concentrent de deux façons sur l’aspect charismatique de sa voix écrite. D’une part, la traduction par Rancière d’un au-delà en un déjà-là de l’égalité est précisément ce que ses traducteurs cherchent à rendre audible ou lisible dans leur propre langue. Traduire Rancière serait donc toujours-déjà un geste de retraduction. D’autre part, c’est parce que la voix politologique de Rancière en français se voit attribuer une forme d’emprise charismatique qu’il fait l’objet de traductions en d’autres langues. Ce double constat sera illustré par une synthèse des différends qui persistent quant à la traduction du concept de « partage du sensible » en langue anglaise. Ce concept crucial dans les écrits de Rancière est de plus en plus repris par des lecteurs et des lectrices qui s’en servent pour théoriser à leur tour et, peut-être, se forger ainsi leur propre voix politologique et politique. Ce sinueux parcours entre les énoncés d’Évard et ceux de Rancière, et entre divers modes de traduction, permettra aux lectrices et aux lecteurs d’affiner leur compréhension de ces œuvres qui n’ont encore jamais été explicitement mises en résonance.</alinea>
       </para>
     </section1>
     <section1>
-      <titre>L’emprise charismatique : écoute, voix et écarts</titre>
-      <para>
-        <alinea>Dans une perspective analytique soucieuse à la fois de l’histoire des idées et des résonances contemporaines que produisent certains mots, il faut d’abord reconnaître que le charisme a mauvaise réputation dans les sciences sociales et les humanités. Lorsque le mot est utilisé comme un concept, il est généralement fait référence à sa définition par Max Weber comme une source et un type de domination légitime : la domination charismatique, qui repose sur « la soumission extraordinaire au caractère sacré, à la vertu héroïque ou à la valeur exemplaire d’une personne », et que Weber distinguait de la domination traditionnelle et de la domination légale<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>. Dans un passage souvent cité, le père de la sociologie interprétative définit le charisme comme</alinea>
+      <titre xmlns:xlink="http://www.w3.org/1999/xlink">
+	L’emprise charismatique : écoute, voix et écarts</titre>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Dans une perspective analytique soucieuse à la fois de l’histoire des idées et des résonances contemporaines que produisent certains mots, il faut d’abord reconnaître que le charisme a mauvaise réputation dans les sciences sociales et les humanités. Lorsque le mot est utilisé comme un concept, il est généralement fait référence à sa définition par Max Weber comme une source et un type de domination légitime : la domination charismatique, qui repose sur « la soumission extraordinaire au caractère sacré, à la vertu héroïque ou à la valeur exemplaire d’une personne », et que Weber distinguait de la domination traditionnelle et de la domination légale<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>. Dans un passage souvent cité, le père de la sociologie interprétative définit le charisme comme</alinea>
       </para>
-      <bloccitation>
-        <alinea>[…] la qualité extraordinaire (à l’origine déterminée de façon magique tant chez les prophètes et les sages, thérapeutes et juristes, que chez les chefs des peuples chasseurs et les héros guerriers) d’un personnage, qui est, pour ainsi dire, doué de forces ou de caractères surnaturels ou surhumains ou tout au moins en dehors de la vie quotidienne, inaccessibles au commun des mortels; ou encore qui est considéré comme envoyé par Dieu ou comme un exemple, et en conséquence considéré comme un « chef » [Führer]<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>.</alinea>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	[…] la qualité extraordinaire (à l’origine déterminée de façon magique tant chez les prophètes et les sages, thérapeutes et juristes, que chez les chefs des peuples chasseurs et les héros guerriers) d’un personnage, qui est, pour ainsi dire, doué de forces ou de caractères surnaturels ou surhumains ou tout au moins en dehors de la vie quotidienne, inaccessibles au commun des mortels; ou encore qui est considéré comme envoyé par Dieu ou comme un exemple, et en conséquence considéré comme un « chef » [Führer]<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>.</alinea>
       </bloccitation>
-      <para>
-        <alinea>Or, le fait que les traducteurs de Weber incluent entre crochets le mot allemand Führer dans ce passage clé rappelle le lien qui s’est établi historiquement entre cette définition « axiologiquement neutre » de la domination charismatique et la critique normative des formes politiques désignées par des mots de conjuration comme dictature, tyrannie, culte de la personnalité, fascisme et totalitarisme. Charisme serait le nom du puissant et dangereux pouvoir de séduction qui rendrait possibles ces formes politiques.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Or, le fait que les traducteurs de Weber incluent entre crochets le mot allemand Führer dans ce passage clé rappelle le lien qui s’est établi historiquement entre cette définition « axiologiquement neutre » de la domination charismatique et la critique normative des formes politiques désignées par des mots de conjuration comme dictature, tyrannie, culte de la personnalité, fascisme et totalitarisme. Charisme serait le nom du puissant et dangereux pouvoir de séduction qui rendrait possibles ces formes politiques.</alinea>
       </para>
-      <para>
-        <alinea>Dans ce contexte, attribuer du charisme à un auteur ou à ses écrits peut assurément avoir une visée et des effets polémiques. Une telle attribution peut avoir pour effet – ou donner l’impression de chercher à avoir pour effet – de disqualifier une prise de parole en la rapprochant de pratiques langagières qui ont tenté de légitimer des gestes d’une violence inouïe. Dans une collectivité qui cherche à faire science – dans la communauté des politologues –, cela peut aussi avoir pour effet de disqualifier une parole en l’assignant à un registre perçu et décrit comme irrationnel, exalté ou religieux (assignation qui peut, en pratique, fonctionner sans définition claire de l’irrationalité, de l’exaltation ou de la religiosité). Ici, il est donc utile d’insister : l’effet recherché par l’usage du terme charisme pour qualifier le succès de la voix politologique de Rancière est la compréhension fine de cette séduction et non sa disqualification polémique. C’est d’ailleurs parce que je suis moi-même séduit par plusieurs de ses textes qu’il me semble important de saisir les mécanismes par lesquels opère la « séduction Rancière<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi> ». Cette saisie est requise pour en arriver à poser la question critique qu’Elias Canetti soulevait quant à l’emprise que Karl Kraus exerça sur lui à la fin des années 1920, emprise dont il se dit heureux de s’être libéré mais dont il se sait aussi redevable : « [q]u’a-t-il fait passer en moi au point que je ne saurais plus le séparer de ma personne<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi> ? » Il n’est bien entendu pas anodin, ici, que Canetti réponde qu’en plus du « sentiment d’absolue responsabilité<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi> », Kraus lui a « ouvert l’oreille », et qu’il ajoute : « [d]epuis que je l’ai entendu, il ne m’est plus possible de ne pas entendre moi-même<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi> ». Cela n’est pas anodin, car si je propose de qualifier de charismatique l’emprise exercée par Rancière ou ses écrits, c’est précisément parce que Jean-Luc Évard a récemment développé une analyse porteuse de l’aspect auriculaire de l’emprise charismatique. Le charisme serait une question d’écoute, de la capacité de faire ou de donner à entendre.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Dans ce contexte, attribuer du charisme à un auteur ou à ses écrits peut assurément avoir une visée et des effets polémiques. Une telle attribution peut avoir pour effet – ou donner l’impression de chercher à avoir pour effet – de disqualifier une prise de parole en la rapprochant de pratiques langagières qui ont tenté de légitimer des gestes d’une violence inouïe. Dans une collectivité qui cherche à faire science – dans la communauté des politologues –, cela peut aussi avoir pour effet de disqualifier une parole en l’assignant à un registre perçu et décrit comme irrationnel, exalté ou religieux (assignation qui peut, en pratique, fonctionner sans définition claire de l’irrationalité, de l’exaltation ou de la religiosité). Ici, il est donc utile d’insister : l’effet recherché par l’usage du terme charisme pour qualifier le succès de la voix politologique de Rancière est la compréhension fine de cette séduction et non sa disqualification polémique. C’est d’ailleurs parce que je suis moi-même séduit par plusieurs de ses textes qu’il me semble important de saisir les mécanismes par lesquels opère la « séduction Rancière<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi> ». Cette saisie est requise pour en arriver à poser la question critique qu’Elias Canetti soulevait quant à l’emprise que Karl Kraus exerça sur lui à la fin des années 1920, emprise dont il se dit heureux de s’être libéré mais dont il se sait aussi redevable : « [q]u’a-t-il fait passer en moi au point que je ne saurais plus le séparer de ma personne<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi> ? » Il n’est bien entendu pas anodin, ici, que Canetti réponde qu’en plus du « sentiment d’absolue responsabilité<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi> », Kraus lui a « ouvert l’oreille », et qu’il ajoute : « [d]epuis que je l’ai entendu, il ne m’est plus possible de ne pas entendre moi-même<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi> ». Cela n’est pas anodin, car si je propose de qualifier de charismatique l’emprise exercée par Rancière ou ses écrits, c’est précisément parce que Jean-Luc Évard a récemment développé une analyse porteuse de l’aspect auriculaire de l’emprise charismatique. Le charisme serait une question d’écoute, de la capacité de faire ou de donner à entendre.</alinea>
       </para>
-      <para>
-        <alinea>Dans La religion perverse, le philosophe et traducteur germaniste questionne notre compréhension effective des concepts de charisme et de religion séculière, souvent utilisés ensemble pour expliquer le succès des régimes totalitaires au siècle dernier<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>. Évard montre que plusieurs usages de ces concepts prennent pour acquis ce qu’il s’agit d’expliquer, soit le succès indéniable mais apparemment irrationnel de certaines logiques politiques et l’emprise remarquable de quelques-uns sur plusieurs. Charisme et religion séculière devraient aujourd’hui être (ré)entendus comme les noms d’un problème, plutôt que comme des réponses ou des clés de lecture dont la valeur a été démontrée, prouvée. Cette modulation de l’entendement importe politologiquement et politiquement, car</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Dans La religion perverse, le philosophe et traducteur germaniste questionne notre compréhension effective des concepts de charisme et de religion séculière, souvent utilisés ensemble pour expliquer le succès des régimes totalitaires au siècle dernier<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>. Évard montre que plusieurs usages de ces concepts prennent pour acquis ce qu’il s’agit d’expliquer, soit le succès indéniable mais apparemment irrationnel de certaines logiques politiques et l’emprise remarquable de quelques-uns sur plusieurs. Charisme et religion séculière devraient aujourd’hui être (ré)entendus comme les noms d’un problème, plutôt que comme des réponses ou des clés de lecture dont la valeur a été démontrée, prouvée. Cette modulation de l’entendement importe politologiquement et politiquement, car</alinea>
       </para>
-      <bloccitation>
-        <alinea>[…] l’émergence de l’offre charismatique, dès la fin du XIXe siècle, aura été l’événement inattendu auquel la philosophie politique n’aura pas su répondre – pas autrement, du moins, qu’en lui opposant l’hypothèse des « religions politiques » ou « séculières ». Hypothèse molle, nous avons dit pourquoi : non seulement, depuis Tocqueville, elle efface la différence catégorielle de la religion et de l’utopie ou celle de la religion et de l’idéologie, mais de manière plus générale, il lui est indifférent de ne pas du tout pouvoir définir ce qu’elle entend par « religion » (sous ce terme passe-partout, elle subsume tour à tour des pratiques rituelles ou liturgiques, des croyances, des images du monde, des résidus dogmatiques, etc<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi>.).</alinea>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	[…] l’émergence de l’offre charismatique, dès la fin du XIXe siècle, aura été l’événement inattendu auquel la philosophie politique n’aura pas su répondre – pas autrement, du moins, qu’en lui opposant l’hypothèse des « religions politiques » ou « séculières ». Hypothèse molle, nous avons dit pourquoi : non seulement, depuis Tocqueville, elle efface la différence catégorielle de la religion et de l’utopie ou celle de la religion et de l’idéologie, mais de manière plus générale, il lui est indifférent de ne pas du tout pouvoir définir ce qu’elle entend par « religion » (sous ce terme passe-partout, elle subsume tour à tour des pratiques rituelles ou liturgiques, des croyances, des images du monde, des résidus dogmatiques, etc<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi>.).</alinea>
       </bloccitation>
-      <para>
-        <alinea>Relisant et liant ensemble un corpus hétérogène formé des écrits de trois acteurs de la révolution conservatrice allemande des années 1920-1930 – l’historien Ernst Kantorowicz, le philosophe Martin Heidegger et Joseph Goebbels, romancier puis ministre de la propagande du IIIe Reich –, Évard énonce que</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Relisant et liant ensemble un corpus hétérogène formé des écrits de trois acteurs de la révolution conservatrice allemande des années 1920-1930 – l’historien Ernst Kantorowicz, le philosophe Martin Heidegger et Joseph Goebbels, romancier puis ministre de la propagande du IIIe Reich –, Évard énonce que</alinea>
       </para>
-      <bloccitation>
-        <alinea>[c]e qui, dans le totalitarisme, passe le totalitarisme tient moins à ce qu’il dit de l’homme à venir comme absolu de volonté infatuée d’infinitude et ce qu’il tait de l’aboulie secrète de cet homme, qu’à ce qu’il fait des morts. Dans l’art de la citation telle que pratiquée par nos trois auteurs se dessin[e] le style d’une culture, puisque, en lui, se dit comment en elle c’est à la parole des morts que nous demandons de nous prédire l’avenir<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi>.</alinea>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	[c]e qui, dans le totalitarisme, passe le totalitarisme tient moins à ce qu’il dit de l’homme à venir comme absolu de volonté infatuée d’infinitude et ce qu’il tait de l’aboulie secrète de cet homme, qu’à ce qu’il fait des morts. Dans l’art de la citation telle que pratiquée par nos trois auteurs se dessin[e] le style d’une culture, puisque, en lui, se dit comment en elle c’est à la parole des morts que nous demandons de nous prédire l’avenir<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi>.</alinea>
       </bloccitation>
-      <para>
-        <alinea>Kantorowicz se fait ainsi le ventriloque de Frédéric II, Heidegger, celui de Hölderlin, et Goebbels, celui de Dostoïevski, de Van Gogh et de Jésus. Dans leurs écrits, chacun attribue au(x) prédécesseur(s) qu’il ventriloque la capacité d’avoir perçu et annoncé hier ce qui se trame aujourd’hui, ce qui est sur le point d’advenir ou d’être empêché.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Kantorowicz se fait ainsi le ventriloque de Frédéric II, Heidegger, celui de Hölderlin, et Goebbels, celui de Dostoïevski, de Van Gogh et de Jésus. Dans leurs écrits, chacun attribue au(x) prédécesseur(s) qu’il ventriloque la capacité d’avoir perçu et annoncé hier ce qui se trame aujourd’hui, ce qui est sur le point d’advenir ou d’être empêché.</alinea>
       </para>
-      <para>
-        <alinea>Dans Métaphonies, Évard poursuit cette réflexion et souligne que l’offre et la demande charismatiques fonctionnent en attribuant à certains morts, mais aussi à certains vivants, une singulière capacité d’écoute des bruits du monde, de ce qui s’y prépare et s’y joue.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Dans Métaphonies, Évard poursuit cette réflexion et souligne que l’offre et la demande charismatiques fonctionnent en attribuant à certains morts, mais aussi à certains vivants, une singulière capacité d’écoute des bruits du monde, de ce qui s’y prépare et s’y joue.</alinea>
       </para>
-      <bloccitation>
-        <alinea>Le secret de la subjugation charismatique est d’ordre auriculaire : Je ne peux m’initier à l’extase de l’au-delà et du déjà-là que si, renonçant à voir, j’apprends à entendre. Commune au héros et au saint, à la puissance et à la gloire, cette règle le fut aussi au paganisme et au monothéisme. Ce qui subjugue immobilise. L’extase visée par le mystique et par la collectivité charismatique rapproche aussi le vivant de sa mort<renvoi idref="sdfootnote14sym" typeref="note">14</renvoi>.</alinea>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Le secret de la subjugation charismatique est d’ordre auriculaire : Je ne peux m’initier à l’extase de l’au-delà et du déjà-là que si, renonçant à voir, j’apprends à entendre. Commune au héros et au saint, à la puissance et à la gloire, cette règle le fut aussi au paganisme et au monothéisme. Ce qui subjugue immobilise. L’extase visée par le mystique et par la collectivité charismatique rapproche aussi le vivant de sa mort<renvoi idref="sdfootnote14sym" typeref="note">14</renvoi>.</alinea>
       </bloccitation>
-      <para>
-        <alinea>À partir d’une réflexion sur l’opto-logocentrisme de la culture occidentale, c’est-à-dire, sur la valorisation ou la prédominance de la vision et de la parole raisonnable (logos) sur le bruit (phonè) ou le tohu-bohu qui serait pourtant originel, Évard parvient ainsi à préciser ce qu’il entend par charisme. Citant des récits sur le pouvoir de séduction de Charlotte Corday, la charismatique assassine du charismatique Marat, Évard écrit qu’elle</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	À partir d’une réflexion sur l’opto-logocentrisme de la culture occidentale, c’est-à-dire, sur la valorisation ou la prédominance de la vision et de la parole raisonnable (logos) sur le bruit (phonè) ou le tohu-bohu qui serait pourtant originel, Évard parvient ainsi à préciser ce qu’il entend par charisme. Citant des récits sur le pouvoir de séduction de Charlotte Corday, la charismatique assassine du charismatique Marat, Évard écrit qu’elle</alinea>
       </para>
-      <bloccitation>
-        <alinea>[…] devait sa grâce envoûtante à sa capacité d’enseigner qu’ « entendre c’est plus que voir » : ce « plus » cote et jalonne l’au-delà du voir, il déjoue le platonisme éreinté qui voudrait déduire du voir phénoménal la vision du sage affranchi de cette phénoménalité (ou la vision du prophète émancipé des superstitions et de la sorcellerie), il révèle, non pas une lumière libérée de la matière dont l’opacité la condamnait au simple scintillement, ce prodrome apocalyptique et entropique de la nuit des temps, non, il révèle qu’au-delà de l’apparaître et du disparaître nous habitons déjà des harmoniques. L’au-delà des métaphysiques et des théologies est en réalité un déjà-là, comme la voix de Charlotte se présente à qui l’écoute aussi bien que son visage à qui la voit – mais, précisément, pour lui donner comme étant déjà-là l’au-delà de ce visage et de toute vision. J’appelle « charismatique » l’emprise qu’exerce sur autrui celui qui présente et représente que l’au-delà est ce déjà-là : il l’est déjà, puisqu’il y a au moins quelqu’un parmi nous pour l’attester sans phrase, par le chant de sa voix, et il est aussi « au-delà » de nous puisqu’il n’y a que ce quelqu’un pour l’attester. (Je dis : « charismatique. » Je pourrais aussi bien dire : « orphique. » Orphée a été le premier médium légendaire du déjà-là<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi>.)</alinea>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	[…] devait sa grâce envoûtante à sa capacité d’enseigner qu’ « entendre c’est plus que voir » : ce « plus » cote et jalonne l’au-delà du voir, il déjoue le platonisme éreinté qui voudrait déduire du voir phénoménal la vision du sage affranchi de cette phénoménalité (ou la vision du prophète émancipé des superstitions et de la sorcellerie), il révèle, non pas une lumière libérée de la matière dont l’opacité la condamnait au simple scintillement, ce prodrome apocalyptique et entropique de la nuit des temps, non, il révèle qu’au-delà de l’apparaître et du disparaître nous habitons déjà des harmoniques. L’au-delà des métaphysiques et des théologies est en réalité un déjà-là, comme la voix de Charlotte se présente à qui l’écoute aussi bien que son visage à qui la voit – mais, précisément, pour lui donner comme étant déjà-là l’au-delà de ce visage et de toute vision. J’appelle « charismatique » l’emprise qu’exerce sur autrui celui qui présente et représente que l’au-delà est ce déjà-là : il l’est déjà, puisqu’il y a au moins quelqu’un parmi nous pour l’attester sans phrase, par le chant de sa voix, et il est aussi « au-delà » de nous puisqu’il n’y a que ce quelqu’un pour l’attester. (Je dis : « charismatique. » Je pourrais aussi bien dire : « orphique. » Orphée a été le premier médium légendaire du déjà-là<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi>.)</alinea>
       </bloccitation>
-      <para>
-        <alinea>C’est précisément « parce qu’il est un déjà-là, différé », que l’au-delà est séduisant. Le charisme, dans cette perspective, est « l’art de réduire l’écart de l’au-delà et du déjà-là » par un travail de représentation de ce qui a lieu et de ce qui est possible<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi>.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	C’est précisément « parce qu’il est un déjà-là, différé », que l’au-delà est séduisant. Le charisme, dans cette perspective, est « l’art de réduire l’écart de l’au-delà et du déjà-là » par un travail de représentation de ce qui a lieu et de ce qui est possible<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi>.</alinea>
       </para>
-      <para>
-        <alinea>Un tel art est perceptible chez de nombreux écrivains, poètes et romanciers – chez Miron et Ducharme, par exemple, que je cite en exergue. Dans le poème « Retour à nulle », Gaston Miron fait deux choses en écrivant : « Ça ne peut pas toujours ne pas arriver / Nous entrerons là où nous sommes déjà<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi> ». D’une part, il réitère un trope important et mobilisateur du mouvement indépendantiste québécois : l’idée d’un cheminement « normal » de toute nation digne de ce nom vers la souveraineté étatique comme signe de son émancipation (au-delà). D’autre part, il module ce télos « idéal » et la perception de la situation contemporaine en prophétisant que la liberté est d’ores et déjà possible et effective au moment où il écrit (déjà-là). Réjean Ducharme fait en quelque sorte l’opération inverse à la dernière ligne de L’océantume en énonçant d’abord « Nous y sommes », puis en formulant l’invitation ou le mot d’ordre « Soyons-y ! », qui fait entendre la nécessité d’intensifier l’expérience de la liberté dont les conditions seraient toujours-déjà réunies<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi>.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Un tel art est perceptible chez de nombreux écrivains, poètes et romanciers – chez Miron et Ducharme, par exemple, que je cite en exergue. Dans le poème « Retour à nulle », Gaston Miron fait deux choses en écrivant : « Ça ne peut pas toujours ne pas arriver / Nous entrerons là où nous sommes déjà<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi> ». D’une part, il réitère un trope important et mobilisateur du mouvement indépendantiste québécois : l’idée d’un cheminement « normal » de toute nation digne de ce nom vers la souveraineté étatique comme signe de son émancipation (au-delà). D’autre part, il module ce télos « idéal » et la perception de la situation contemporaine en prophétisant que la liberté est d’ores et déjà possible et effective au moment où il écrit (déjà-là). Réjean Ducharme fait en quelque sorte l’opération inverse à la dernière ligne de L’océantume en énonçant d’abord « Nous y sommes », puis en formulant l’invitation ou le mot d’ordre « Soyons-y ! », qui fait entendre la nécessité d’intensifier l’expérience de la liberté dont les conditions seraient toujours-déjà réunies<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi>.</alinea>
       </para>
-      <para>
-        <alinea>Il importe de noter que l’analyse de la logique opératoire du charisme comme traduction d’un au-delà en un déjà-là et comme pratique de réduction de l’écart entre les deux n’est pas seulement le fait d’artistes, de mystiques et de politiques. Selon Évard,</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Il importe de noter que l’analyse de la logique opératoire du charisme comme traduction d’un au-delà en un déjà-là et comme pratique de réduction de l’écart entre les deux n’est pas seulement le fait d’artistes, de mystiques et de politiques. Selon Évard,</alinea>
       </para>
-      <bloccitation>
-        <alinea>[t]out être apte à ce travail sur l’imaginaire et le perceptible, le sien aussi bien que celui d’autrui, se fait par là même opérateur charismatique, comme il y eut des opératrices téléphoniques : il modifie l’échelle des intensités sensitives et perceptives qui, à tout humain, dicte la différence élémentaire du là et du là-bas, en règle les écarts télémétriques et téléphoniques, lui permet donc d’algébriser les formes d’un monde autre dans celles du monde établi. L’opérateur charismatique intervient donc deux fois dans le champ des énergies : d’une part, en séducteur, il autorise l’exertion des sens, la réduction des intervalles de temps et d’espace grâce à laquelle l’au-delà et le déjà-là tendent à se confondre; d’autre part, en censeur, il subjugue, il canalise le flux d’énergies ainsi libérées, y imprime un rythme, une ponctuation, la scansion sans laquelle le moment centrifuge l’emporterait sur le moment centripète et délierait irréversiblement les énergies<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi>.</alinea>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	[t]out être apte à ce travail sur l’imaginaire et le perceptible, le sien aussi bien que celui d’autrui, se fait par là même opérateur charismatique, comme il y eut des opératrices téléphoniques : il modifie l’échelle des intensités sensitives et perceptives qui, à tout humain, dicte la différence élémentaire du là et du là-bas, en règle les écarts télémétriques et téléphoniques, lui permet donc d’algébriser les formes d’un monde autre dans celles du monde établi. L’opérateur charismatique intervient donc deux fois dans le champ des énergies : d’une part, en séducteur, il autorise l’exertion des sens, la réduction des intervalles de temps et d’espace grâce à laquelle l’au-delà et le déjà-là tendent à se confondre; d’autre part, en censeur, il subjugue, il canalise le flux d’énergies ainsi libérées, y imprime un rythme, une ponctuation, la scansion sans laquelle le moment centrifuge l’emporterait sur le moment centripète et délierait irréversiblement les énergies<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi>.</alinea>
       </bloccitation>
-      <para>
-        <alinea>Les chercheurs, savants et intellectuels parfois qualifiés de charismatiques interviennent aussi selon cette double modalité de séduction et de censure auriculaires. Pour saisir ce qui me semble être le charisme singulier de la voix politologique écrite de Rancière, il sera d’ailleurs utile de faire un détour par sa voix parlée, par ce qu’il donne littéralement à entendre.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Les chercheurs, savants et intellectuels parfois qualifiés de charismatiques interviennent aussi selon cette double modalité de séduction et de censure auriculaires. Pour saisir ce qui me semble être le charisme singulier de la voix politologique écrite de Rancière, il sera d’ailleurs utile de faire un détour par sa voix parlée, par ce qu’il donne littéralement à entendre.</alinea>
       </para>
     </section1>
     <section1>
-      <titre>Les voix de Jacques Rancière : entre paroles et écritures</titre>
-      <para>
-        <alinea>À l’occasion de cette réflexion sur les rapports entre voix, traduction et théorie, remarquons que la réputation passablement mauvaise du charisme dans les milieux savants fait écho à la mauvaise réputation de la voix dans le monde de l’élaboration théorique. Comme l’écrit Claude Jaeglé dans son<marquage typemarq="italique">Portrait silencieux de Jacques Lacan</marquage>, qui propose une analyse de la et des voix – au sens physique, sonore – du psychanalyste, « [l]e monde savant ne sait comment traiter son propre charisme. Le mot lui est détestable. Il connote une variable séductrice qui ne peut faire partie des paramètres de la connaissance<renvoi idref="sdfootnote20sym" typeref="note">20</renvoi> ». Ce diagnostic suit le constat selon lequel</alinea>
+      <titre xmlns:xlink="http://www.w3.org/1999/xlink">
+	Les voix de Jacques Rancière : entre paroles et écritures</titre>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	À l’occasion de cette réflexion sur les rapports entre voix, traduction et théorie, remarquons que la réputation passablement mauvaise du charisme dans les milieux savants fait écho à la mauvaise réputation de la voix dans le monde de l’élaboration théorique. Comme l’écrit Claude Jaeglé dans son <marquage typemarq="italique">Portrait silencieux de Jacques Lacan</marquage>, qui propose une analyse de la et des voix – au sens physique, sonore – du psychanalyste, « [l]e monde savant ne sait comment traiter son propre charisme. Le mot lui est détestable. Il connote une variable séductrice qui ne peut faire partie des paramètres de la connaissance<renvoi idref="sdfootnote20sym" typeref="note">20</renvoi> ». Ce diagnostic suit le constat selon lequel</alinea>
       </para>
-      <bloccitation>
-        <alinea>[…] le monde savant répugne par principe à l’idée que le grain de la voix puisse apprécier ou déprécier la qualité d’un raisonnement. La science ne se conçoit pas comme ce qui a lieu personnellement pour le chercheur au cours de son travail scientifique mais comme la méthode qui permet de mener ce travail à bien en dépit du chercheur comme personne<renvoi idref="sdfootnote21sym" typeref="note">21</renvoi>.</alinea>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	[…] le monde savant répugne par principe à l’idée que le grain de la voix puisse apprécier ou déprécier la qualité d’un raisonnement. La science ne se conçoit pas comme ce qui a lieu personnellement pour le chercheur au cours de son travail scientifique mais comme la méthode qui permet de mener ce travail à bien en dépit du chercheur comme personne<renvoi idref="sdfootnote21sym" typeref="note">21</renvoi>.</alinea>
       </bloccitation>
-      <para>
-        <alinea>C’est pour cela que la communauté scientifique se raconte à elle-même « le mythe de la voix désaffectée », qui est le mythe d’une absence de désir et de séduction. Cette mythique voix monotone est audible dans plusieurs rencontres académiques : conférences, colloques, symposiums, etc., mais ces événements permettent aussi de voir que certains orateurs se démarquent par ce qu’il faut sans doute nommer leur charisme.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	C’est pour cela que la communauté scientifique se raconte à elle-même « le mythe de la voix désaffectée », qui est le mythe d’une absence de désir et de séduction. Cette mythique voix monotone est audible dans plusieurs rencontres académiques : conférences, colloques, symposiums, etc., mais ces événements permettent aussi de voir que certains orateurs se démarquent par ce qu’il faut sans doute nommer leur charisme.</alinea>
       </para>
-      <para>
-        <alinea>Selon Jaeglé, Lacan déstabilisait la communauté savante en s’exprimant en public par des intonations intempestives, intenses mais imprévisibles, entrecoupées de maints silences étonnamment longs. Le charisme attribué au psychanalyste par ses partisans<marquage typemarq="italique">et</marquage>par ses détracteurs aurait été lié au fait que sa performance vocale donnait à son auditoire l’impression rare d’assister à l’élaboration publique d’une pensée au présent, plutôt qu’à l’exposition calme et linéaire des résultats d’une recherche passée, achevée en privé. Les voix de Lacan, selon Jaeglé, suggèrent que l’objet même de ses recherches défie toute possibilité d’achèvement. Si l’inconscient est un au-delà qui se refuse à une cartographie complète, il est toujours-déjà structurant et agissant.<marquage typemarq="italique">Ça parle</marquage>et<marquage typemarq="italique">ça s’entend</marquage>... Suivant les analyses d’Évard, il est possible d’interpréter le charisme de Lacan comme l’effet de la perception par son auditoire d’un art singulier, chez lui, de réduire l’écart entre l’au-delà et le déjà-là de l’inconscient. En séducteur, Lacan rassemblait ses intuitions dans des formules énigmatiques qui parviennent encore à moduler les perceptions que nous avons des souffrances de l’âme. En censeur, Lacan contrôlait strictement la publication de son enseignement sous forme écrite. L’obscurité quasi légendaire de sa plume semble même servir à interdire les lectures rapides, ou du moins, à offrir une résistance à la répétition.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Selon Jaeglé, Lacan déstabilisait la communauté savante en s’exprimant en public par des intonations intempestives, intenses mais imprévisibles, entrecoupées de maints silences étonnamment longs. Le charisme attribué au psychanalyste par ses partisans <marquage typemarq="italique">et</marquage> par ses détracteurs aurait été lié au fait que sa performance vocale donnait à son auditoire l’impression rare d’assister à l’élaboration publique d’une pensée au présent, plutôt qu’à l’exposition calme et linéaire des résultats d’une recherche passée, achevée en privé. Les voix de Lacan, selon Jaeglé, suggèrent que l’objet même de ses recherches défie toute possibilité d’achèvement. Si l’inconscient est un au-delà qui se refuse à une cartographie complète, il est toujours-déjà structurant et agissant. <marquage typemarq="italique">Ça parle </marquage>et <marquage typemarq="italique">ça s’entend</marquage>... Suivant les analyses d’Évard, il est possible d’interpréter le charisme de Lacan comme l’effet de la perception par son auditoire d’un art singulier, chez lui, de réduire l’écart entre l’au-delà et le déjà-là de l’inconscient. En séducteur, Lacan rassemblait ses intuitions dans des formules énigmatiques qui parviennent encore à moduler les perceptions que nous avons des souffrances de l’âme. En censeur, Lacan contrôlait strictement la publication de son enseignement sous forme écrite. L’obscurité quasi légendaire de sa plume semble même servir à interdire les lectures rapides, ou du moins, à offrir une résistance à la répétition.</alinea>
       </para>
-      <para>
-        <alinea>Dans son remarquable<marquage typemarq="italique">Portrait oratoire de Gilles Deleuze aux yeux jaunes</marquage>, Jaeglé montrait déjà que le grain de la voix (ou, plus généralement, le style) a partie liée avec l’expression et la réception d’une pensée et l’évaluation de sa vérité, du moins pour qui assiste à sa présentation de vive voix ou par des enregistrements<renvoi idref="sdfootnote22sym" typeref="note">22</renvoi>. À cet égard, notons que les technologies digitales permettent aujourd’hui une multiplication des enregistrements de « voix théoriques » et facilitent leur circulation. Plusieurs heures des cours de Deleuze, des séminaires de Lacan, mais aussi des conférences de Michel Foucault ou des cours de Leo Strauss, par exemple, sont archivées et audibles gratuitement<renvoi idref="sdfootnote23sym" typeref="note">23</renvoi>. Dans le cas de Rancière, des conférences et des interventions médiatiques enregistrées permettent à son lectorat contemporain (et futur) de devenir un véritable auditoire.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Dans son remarquable <marquage typemarq="italique">Portrait oratoire de Gilles Deleuze aux yeux jaunes</marquage>, Jaeglé montrait déjà que le grain de la voix (ou, plus généralement, le style) a partie liée avec l’expression et la réception d’une pensée et l’évaluation de sa vérité, du moins pour qui assiste à sa présentation de vive voix ou par des enregistrements<renvoi idref="sdfootnote22sym" typeref="note">22</renvoi>. À cet égard, notons que les technologies digitales permettent aujourd’hui une multiplication des enregistrements de « voix théoriques » et facilitent leur circulation. Plusieurs heures des cours de Deleuze, des séminaires de Lacan, mais aussi des conférences de Michel Foucault ou des cours de Leo Strauss, par exemple, sont archivées et audibles gratuitement<renvoi idref="sdfootnote23sym" typeref="note">23</renvoi>. Dans le cas de Rancière, des conférences et des interventions médiatiques enregistrées permettent à son lectorat contemporain (et futur) de devenir un véritable auditoire.</alinea>
       </para>
-      <para>
-        <alinea>Les portraits de Jaeglé rappellent la théorie du « masque acoustique » de Canetti. « C’est l’apparence d’un homme telle qu’elle se révèle à travers sa langue, la façon toujours identique de s’exprimer, cette langue qui est née en même temps que lui, qui n’appartient qu’à lui et qui ne mourra qu’avec lui, que j’appelle “masque acoustique’<renvoi idref="sdfootnote24sym" typeref="note">24</renvoi> ». Comme le concept de charisme, le concept de masque acoustique requiert d’être « appliqué » à des instances ou des cas chaque fois uniques. En effet, si une même « théorie » peut rendre compte du charisme ou du masque acoustique de Lacan et de Rancière, par exemple, ce charisme et ce masque diffèrent nécessairement entre eux. Or, les enregistrements de Rancière permettent bien de bâtir un tel portrait sonore de son masque singulier<renvoi idref="sdfootnote25sym" typeref="note">25</renvoi>.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Les portraits de Jaeglé rappellent la théorie du « masque acoustique » de Canetti. « C’est l’apparence d’un homme telle qu’elle se révèle à travers sa langue, la façon toujours identique de s’exprimer, cette langue qui est née en même temps que lui, qui n’appartient qu’à lui et qui ne mourra qu’avec lui, que j’appelle “masque acoustique’<renvoi idref="sdfootnote24sym" typeref="note">24</renvoi> ». Comme le concept de charisme, le concept de masque acoustique requiert d’être « appliqué » à des instances ou des cas chaque fois uniques. En effet, si une même « théorie » peut rendre compte du charisme ou du masque acoustique de Lacan et de Rancière, par exemple, ce charisme et ce masque diffèrent nécessairement entre eux. Or, les enregistrements de Rancière permettent bien de bâtir un tel portrait sonore de son masque singulier<renvoi idref="sdfootnote25sym" typeref="note">25</renvoi>.</alinea>
       </para>
-      <para>
-        <alinea>La voix parlée de Rancière se déploie selon un rythme syncopé parfois à la limite du bégaiement. Sa parole est plus fluide que celle de Lacan, mais d’aucuns auront l’impression qu’ils entendent un orateur peu expérimenté, nerveux, avec très peu de basses dans la voix, un peu comme si Rancière était voué à demeurer ce jeune étudiant brillant qui parle trop haut et trop vite devant la classe qui l’impressionne malgré lui. Des mots et des parties de phrases sont ainsi répétés, repris, relancés rapidement avant d’enchaîner sur des énoncés limpides. Le ton et le débit se rapprochent parfois de la litanie, mais d’une litanie nonchalante, sans dévotion, lorsque l’orateur signale par un rire solitaire qu’il raconte pour une énième fois ce qu’il considère être des lieux communs absurdes. Cela donne l’impression qu’il est contraint par son interlocuteur ou son objet de répéter des lectures ou des logiques dominantes, déjà reçues et trop entendues, auxquelles il s’oppose depuis longtemps déjà. Répéter ces évidences semble toutefois requis pour en formuler la critique. Cette répétition permet de situer le propos de l’orateur dans la sphère des discours en circulation. Le ton parfois las de Rancière lorsqu’il réitère ainsi des tropes dominants pour les démonter sert à souligner que ces voix qu’il ventriloque circulent depuis longtemps et que plusieurs voix contemporaines sont des variations simples sur de vieux thèmes ou de vieilles logiques. Rancière rend ainsi audible l’aspect<marquage typemarq="italique">kitsch</marquage>de ce qui est pris pour acquis et reste impensé. Corollairement, l’existence rendue muette de possibilités de phraser autrement ce qui est perçu comme déjà-là et qui semble donné émerge des interstices de la répétition. Rancière rend perceptible<marquage typemarq="italique">un autre déjà-là</marquage>. Toutefois, il est également remarquable que ses énoncés « originaux », qui sont associés à son nom et perçus comme étant capables de perforer la sphère de la circulation répétitive, sont aussi vocalisés sur un ton d’évidence : nous savons déjà depuis longtemps que « la théorie » ne parvient pas à saturer les possibles, ni à rendre compte de ce qui est vécu et senti; nous savons bien que nous vivons<marquage typemarq="italique">autre chose</marquage>… Notons enfin que ces caractéristiques de la répétition et de l’énonciation rancièriennes sont aussi repérables lorsqu’il s’exprime en langue anglaise. Il s’agit donc bien là de<marquage typemarq="italique">son</marquage>masque acoustique.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	La voix parlée de Rancière se déploie selon un rythme syncopé parfois à la limite du bégaiement. Sa parole est plus fluide que celle de Lacan, mais d’aucuns auront l’impression qu’ils entendent un orateur peu expérimenté, nerveux, avec très peu de basses dans la voix, un peu comme si Rancière était voué à demeurer ce jeune étudiant brillant qui parle trop haut et trop vite devant la classe qui l’impressionne malgré lui. Des mots et des parties de phrases sont ainsi répétés, repris, relancés rapidement avant d’enchaîner sur des énoncés limpides. Le ton et le débit se rapprochent parfois de la litanie, mais d’une litanie nonchalante, sans dévotion, lorsque l’orateur signale par un rire solitaire qu’il raconte pour une énième fois ce qu’il considère être des lieux communs absurdes. Cela donne l’impression qu’il est contraint par son interlocuteur ou son objet de répéter des lectures ou des logiques dominantes, déjà reçues et trop entendues, auxquelles il s’oppose depuis longtemps déjà. Répéter ces évidences semble toutefois requis pour en formuler la critique. Cette répétition permet de situer le propos de l’orateur dans la sphère des discours en circulation. Le ton parfois las de Rancière lorsqu’il réitère ainsi des tropes dominants pour les démonter sert à souligner que ces voix qu’il ventriloque circulent depuis longtemps et que plusieurs voix contemporaines sont des variations simples sur de vieux thèmes ou de vieilles logiques. Rancière rend ainsi audible l’aspect <marquage typemarq="italique">kitsch</marquage> de ce qui est pris pour acquis et reste impensé. Corollairement, l’existence rendue muette de possibilités de phraser autrement ce qui est perçu comme déjà-là et qui semble donné émerge des interstices de la répétition. Rancière rend perceptible <marquage typemarq="italique">un autre déjà-là</marquage>. Toutefois, il est également remarquable que ses énoncés « originaux », qui sont associés à son nom et perçus comme étant capables de perforer la sphère de la circulation répétitive, sont aussi vocalisés sur un ton d’évidence : nous savons déjà depuis longtemps que « la théorie » ne parvient pas à saturer les possibles, ni à rendre compte de ce qui est vécu et senti; nous savons bien que nous vivons <marquage typemarq="italique">autre chose</marquage>… Notons enfin que ces caractéristiques de la répétition et de l’énonciation rancièriennes sont aussi repérables lorsqu’il s’exprime en langue anglaise. Il s’agit donc bien là de <marquage typemarq="italique">son</marquage> masque acoustique.</alinea>
       </para>
-      <para>
-        <alinea>Pour son lectorat, l’écoute de la voix parlée de Rancière peut rendre perceptible, dans ses textes, l’empressement et l’irritation ressentis face aux discours dominants et répétés (en retour, cette possibilité suggère que la « voix » écrite est fonction de la voix parlée, et vice versa). Cet empressement et cette irritation sont moins clairement perceptibles sous sa plume, bien qu’il consacre beaucoup d’espace à citer, reprendre et critiquer les paroles qui circulent déjà, sur un mode qui rappelle la pratique de la « citation acoustique » que Canetti repérait chez Kraus – sans l’atmosphère de tribunal, sans la dramaturgie fiévreuse des accusations, des verdicts et des « exécutions textuelles » viennoises<renvoi idref="sdfootnote26sym" typeref="note">26</renvoi>. Dans tous les cas, les formes de l’expression parlée et écrite de Rancière  semblent mises au service d’un contenu politique et politologique précis.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Pour son lectorat, l’écoute de la voix parlée de Rancière peut rendre perceptible, dans ses textes, l’empressement et l’irritation ressentis face aux discours dominants et répétés (en retour, cette possibilité suggère que la « voix » écrite est fonction de la voix parlée, et vice versa). Cet empressement et cette irritation sont moins clairement perceptibles sous sa plume, bien qu’il consacre beaucoup d’espace à citer, reprendre et critiquer les paroles qui circulent déjà, sur un mode qui rappelle la pratique de la « citation acoustique » que Canetti repérait chez Kraus – sans l’atmosphère de tribunal, sans la dramaturgie fiévreuse des accusations, des verdicts et des « exécutions textuelles » viennoises<renvoi idref="sdfootnote26sym" typeref="note">26</renvoi>. Dans tous les cas, les formes de l’expression parlée et écrite de Rancière  semblent mises au service d’un contenu politique et politologique précis.</alinea>
       </para>
-      <para>
-        <alinea>Sur le plan du contenu verbal, en effet, le trope que Rancière cherche le plus souvent à débusquer, à rendre audible et à démonter par de telles citations acoustiques – le discours dont il tente d’interrompre la circulation en prenant la parole – est celui qui énonce que l’émancipation est une marche à la fois nécessaire et impossible de l’inégalité vers l’égalité. Dans ce récit politique répandu, l’inégalité est posée comme un déjà-là dont personne ne sort jamais vraiment, en vérité, puisqu’elle serait la forme « naturelle » de structuration de l’existence grégaire d’<marquage typemarq="italique">homo sapiens</marquage>. L’égalité, pour sa part, est présentée comme un au-delà sous la forme d’un idéal régulateur qui n’est jamais tout à fait réalisé, individuellement ou collectivement, ou qui est même inatteignable « en ce monde », même s’il est foncièrement désirable. Ce trope entre en résonance avec les discours eschatologiques et religieux sur la rédemption à venir<renvoi idref="sdfootnote27sym" typeref="note">27</renvoi>.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Sur le plan du contenu verbal, en effet, le trope que Rancière cherche le plus souvent à débusquer, à rendre audible et à démonter par de telles citations acoustiques – le discours dont il tente d’interrompre la circulation en prenant la parole – est celui qui énonce que l’émancipation est une marche à la fois nécessaire et impossible de l’inégalité vers l’égalité. Dans ce récit politique répandu, l’inégalité est posée comme un déjà-là dont personne ne sort jamais vraiment, en vérité, puisqu’elle serait la forme « naturelle » de structuration de l’existence grégaire d’<marquage typemarq="italique">homo sapiens</marquage>. L’égalité, pour sa part, est présentée comme un au-delà sous la forme d’un idéal régulateur qui n’est jamais tout à fait réalisé, individuellement ou collectivement, ou qui est même inatteignable « en ce monde », même s’il est foncièrement désirable. Ce trope entre en résonance avec les discours eschatologiques et religieux sur la rédemption à venir<renvoi idref="sdfootnote27sym" typeref="note">27</renvoi>.</alinea>
       </para>
-      <para>
-        <alinea>S’il est une parole singulière qu’énonce avec insistance la voix politologique de Rancière, par la parole ou l’écriture, c’est que cette façon de poser le problème politique de l’égalité empêche sa résolution. À chaque fois que la question de l’émancipation est formulée ainsi (dans le marxisme, par exemple, ou dans le libéralisme optimiste, mais aussi dans l’art dit engagé), l’énonciation du problème instaure en pratique la situation d’inégalité intellectuelle dont l’énonciateur plus ou moins charismatique affirme ensuite qu’il faut apprendre à en sortir, mais que, précisément, la capacité d’apprentissage requise est très inégalement distribuée.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	S’il est une parole singulière qu’énonce avec insistance la voix politologique de Rancière, par la parole ou l’écriture, c’est que cette façon de poser le problème politique de l’égalité empêche sa résolution. À chaque fois que la question de l’émancipation est formulée ainsi (dans le marxisme, par exemple, ou dans le libéralisme optimiste, mais aussi dans l’art dit engagé), l’énonciation du problème instaure en pratique la situation d’inégalité intellectuelle dont l’énonciateur plus ou moins charismatique affirme ensuite qu’il faut apprendre à en sortir, mais que, précisément, la capacité d’apprentissage requise est très inégalement distribuée.</alinea>
       </para>
-      <para>
-        <alinea>En contrepoint, dans<marquage typemarq="italique">Le maître ignorant</marquage>et dans plusieurs textes ultérieurs<renvoi idref="sdfootnote28sym" typeref="note">28</renvoi>, Rancière se fait le ventriloque de l’ « émancipateur » Joseph Jacotot qui a montré au début du XIX<exposant>e</exposant>siècle que cette logique de la réduction de l’inégalité est celle de la « méthode abrutissante » de la pédagogie scolaire, mise en œuvre pour perpétuer la domination des maîtres. C’est d’elle qu’il faut s’émanciper, car cette « méthode » formule le problème de l’apprentissage (une émancipation) comme une marche que l’élève doit apprendre à entreprendre pour passer d’une position d’ignorance initiale à une position de savoir, de sa position « naturelle » à la position d’élévation « cultivée » qui est précisément celle du maître proposant de guider l’élève et de le tirer vers lui. Le savoir du maître explicateur est double : il est « […] de savoir reconnaître la distance entre la matière enseignée et le sujet à instruire, la distance aussi entre<marquage typemarq="italique">apprendre</marquage>et<marquage typemarq="italique">comprendre</marquage>. L’explicateur est celui qui pose et abolit la distance, qui la déploie et la résorbe au sein de sa parole<renvoi idref="sdfootnote29sym" typeref="note">29</renvoi> ». Ce que le maître doit savoir enseigner et inculquer à l’élève, ce qu’il doit parvenir à lui faire croire pour que son emprise puisse s’exercer, c’est donc à la fois son ignorance et l’idée que le maître seul peut l’aider à en sortir bientôt. L’écart n’est ainsi jamais comblé.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	En contrepoint, dans <marquage typemarq="italique">Le maître ignorant</marquage> et dans plusieurs textes ultérieurs<renvoi idref="sdfootnote28sym" typeref="note">28</renvoi>, Rancière se fait le ventriloque de l’ « émancipateur » Joseph Jacotot qui a montré au début du XIX<exposant>e</exposant> siècle que cette logique de la réduction de l’inégalité est celle de la « méthode abrutissante » de la pédagogie scolaire, mise en œuvre pour perpétuer la domination des maîtres. C’est d’elle qu’il faut s’émanciper, car cette « méthode » formule le problème de l’apprentissage (une émancipation) comme une marche que l’élève doit apprendre à entreprendre pour passer d’une position d’ignorance initiale à une position de savoir, de sa position « naturelle » à la position d’élévation « cultivée » qui est précisément celle du maître proposant de guider l’élève et de le tirer vers lui. Le savoir du maître explicateur est double : il est « […] de savoir reconnaître la distance entre la matière enseignée et le sujet à instruire, la distance aussi entre <marquage typemarq="italique">apprendre</marquage> et <marquage typemarq="italique">comprendre</marquage>. L’explicateur est celui qui pose et abolit la distance, qui la déploie et la résorbe au sein de sa parole<renvoi idref="sdfootnote29sym" typeref="note">29</renvoi> ». Ce que le maître doit savoir enseigner et inculquer à l’élève, ce qu’il doit parvenir à lui faire croire pour que son emprise puisse s’exercer, c’est donc à la fois son ignorance et l’idée que le maître seul peut l’aider à en sortir bientôt. L’écart n’est ainsi jamais comblé.</alinea>
       </para>
-      <para>
-        <alinea>La solution de Jacotot, ce « maître ignorant » qui a fait l’expérience de la possibilité d’enseigner ce qu’il ignore, et celle de Rancière, son ventriloque, consiste à renverser le point de départ pour interrompre la reproduction de cette logique abrutissante<renvoi idref="sdfootnote30sym" typeref="note">30</renvoi>. Partir, dès lors, non pas de « l’opinion » commune de l’inégalité des êtres pensants et parlants, présentée comme un fait irréfutable, mais de « l’opinion » d’une égalité fondamentale des intelligences. Il ne s’agit pas de prouver cet axiome (par définition indémontrable), mais de vérifier en pratique ce que nous pouvons faire différemment en partant de l’idée que nous sommes déjà des égaux, plutôt que d’invoquer l’espérance de le devenir un jour<renvoi idref="sdfootnote31sym" typeref="note">31</renvoi>.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	La solution de Jacotot, ce « maître ignorant » qui a fait l’expérience de la possibilité d’enseigner ce qu’il ignore, et celle de Rancière, son ventriloque, consiste à renverser le point de départ pour interrompre la reproduction de cette logique abrutissante<renvoi idref="sdfootnote30sym" typeref="note">30</renvoi>. Partir, dès lors, non pas de « l’opinion » commune de l’inégalité des êtres pensants et parlants, présentée comme un fait irréfutable, mais de « l’opinion » d’une égalité fondamentale des intelligences. Il ne s’agit pas de prouver cet axiome (par définition indémontrable), mais de vérifier en pratique ce que nous pouvons faire différemment en partant de l’idée que nous sommes déjà des égaux, plutôt que d’invoquer l’espérance de le devenir un jour<renvoi idref="sdfootnote31sym" typeref="note">31</renvoi>.</alinea>
       </para>
-      <para>
-        <alinea>C’est par ce renversement du point de départ que, dans les mots d’Évard, Rancière intervient en politologue charismatique dans « le champ des énergies ». Il effectue un « travail sur l’imaginaire et le perceptible, le sien aussi bien que celui d’autrui », et se fait « opérateur charismatique » en modifiant « l’<marquage typemarq="italique">échelle</marquage>des intensités sensitives et perceptives » qui permettent « d’algébriser les formes d’un monde autre dans celles du monde établi<renvoi idref="sdfootnote32sym" typeref="note">32</renvoi> ». Comme je l’indiquerai plus bas, c’est ce pouvoir opérationnel qui est attribué à Rancière (ou à ses textes les plus « parlants ») par ceux et celles qui affirment sentir et penser autrement ce qui se joue dans la vie politique depuis qu’ils ou elles l’ont lu ou entendu. C’est aussi un tel pouvoir de modulation de l’imaginaire et du perceptible que Rancière attribue aux écrits de Jacotot, découverts au hasard de ses recherches dans les archives des collectifs ouvriers des années 1830, en préparant<marquage typemarq="italique">La nuit des prolétaires<renvoi idref="sdfootnote33sym" typeref="note">33</renvoi>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	C’est par ce renversement du point de départ que, dans les mots d’Évard, Rancière intervient en politologue charismatique dans « le champ des énergies ». Il effectue un « travail sur l’imaginaire et le perceptible, le sien aussi bien que celui d’autrui », et se fait « opérateur charismatique » en modifiant « l’<marquage typemarq="italique">échelle</marquage> des intensités sensitives et perceptives » qui permettent « d’algébriser les formes d’un monde autre dans celles du monde établi<renvoi idref="sdfootnote32sym" typeref="note">32</renvoi> ». Comme je l’indiquerai plus bas, c’est ce pouvoir opérationnel qui est attribué à Rancière (ou à ses textes les plus « parlants ») par ceux et celles qui affirment sentir et penser autrement ce qui se joue dans la vie politique depuis qu’ils ou elles l’ont lu ou entendu. C’est aussi un tel pouvoir de modulation de l’imaginaire et du perceptible que Rancière attribue aux écrits de Jacotot, découverts au hasard de ses recherches dans les archives des collectifs ouvriers des années 1830, en préparant <marquage typemarq="italique">La nuit des prolétaires<renvoi idref="sdfootnote33sym" typeref="note">33</renvoi>
           </marquage>. Il s’agissait là d’un premier livre de ventriloquie redonnant à lire la parole oubliée ou tue des ouvriers qui, déjà, écrivaient des poèmes, fabulaient des possibles et pratiquaient la pensée politique au quotidien, alors que des « savants » bourgeois travaillaient chaque jour à construire et à solidifier l’emprise de la théorie de l’ignorance crasse qui serait le lot indépassable de la « condition ouvrière », selon la « nouvelle » science sociologique.</alinea>
       </para>
-      <para>
-        <alinea>La traduction d’un au-delà en un déjà-là de l’égalité que Rancière a perçue dans les écrits de Jacotot semble avoir exercée une certaine emprise sur lui, comme la traduction par Louis Althusser d’un au-delà en un déjà-là de la pratique théorique dans la lutte des classes l’avait saisie dans ses années de formation, avant qu’il ne démonte patiemment les ressorts de cette emprise et de l’aura du « maître savant » dans<marquage typemarq="italique">La leçon d’Althusser<renvoi idref="sdfootnote34sym" typeref="note">34</renvoi>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	La traduction d’un au-delà en un déjà-là de l’égalité que Rancière a perçue dans les écrits de Jacotot semble avoir exercée une certaine emprise sur lui, comme la traduction par Louis Althusser d’un au-delà en un déjà-là de la pratique théorique dans la lutte des classes l’avait saisie dans ses années de formation, avant qu’il ne démonte patiemment les ressorts de cette emprise et de l’aura du « maître savant » dans <marquage typemarq="italique">La leçon d’Althusser<renvoi idref="sdfootnote34sym" typeref="note">34</renvoi>
           </marquage>. Le passage d’Althusser à Jacotot montre bien que les emprises charismatiques ne se valent pas toutes, précisément dans la mesure où elles n’impliquent pas les mêmes politiques. Les conditions et les effets d’emprises de ce type dépendent de leurs ancrages, de leurs points de départ ou de leurs axiomes, qui à la fois traduisent des pratiques actuelles et demandent à être retraduits en des pratiques nouvelles.</alinea>
       </para>
     </section1>
     <section1>
-      <titre>Partage du sensible et pratique de la traduction</titre>
-      <para>
-        <alinea>Pour désigner ce plan des ancrages, des points de départ ou des axiomes de différentes pratiques politiques, Rancière a créé plusieurs concepts dont celui de<marquage typemarq="italique">partage du sensible</marquage>. Il est utile de le citer longuement, ici, pour donner à lire le fonctionnement de son écriture et rendre perceptibles les ressorts de son pouvoir de séduction. Selon Rancière,</alinea>
+      <titre xmlns:xlink="http://www.w3.org/1999/xlink">
+	Partage du sensible et pratique de la traduction</titre>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Pour désigner ce plan des ancrages, des points de départ ou des axiomes de différentes pratiques politiques, Rancière a créé plusieurs concepts dont celui de <marquage typemarq="italique">partage du sensible</marquage>. Il est utile de le citer longuement, ici, pour donner à lire le fonctionnement de son écriture et rendre perceptibles les ressorts de son pouvoir de séduction. Selon Rancière,</alinea>
       </para>
-      <bloccitation>
-        <alinea>[l]e partage du sensible fait voir qui peut avoir part au commun en fonction de ce qu’il fait, du temps et de l’espace dans lesquels cette activité s’exerce. Avoir telle ou telle « occupation » définit ainsi des compétences ou des incompétences au commun. Cela définit le fait d’être ou non visible dans un espace commun, doué d’une parole commune, etc. Il y a donc, à la base de la politique, une « esthétique » qui n’a rien à voir avec cette « esthétisation de la politique », propre à l’ « âge des masses », dont parle [Walter] Benjamin. Cette esthétique n’est pas à entendre au sens d’une saisie perverse de la politique par une volonté d’art, par la pensée du peuple comme œuvre d’art. Si l’on tient à l’analogie, on peut l’entendre en un sens kantien – éventuellement revisité par Foucault –, comme le système des formes<marquage typemarq="italique">a priori</marquage>déterminant ce qui se donne à ressentir. C’est un découpage des temps et des espaces, du visible et de l’invisible, de la parole et du bruit qui définit à la fois le lieu et l’enjeu de la politique comme forme d’expérience. La politique porte sur ce qu’on voit et ce qu’on peut en dire, sur qui a la compétence pour voir et la qualité pour dire, sur les propriétés des espaces et les possibles du temps<renvoi idref="sdfootnote35sym" typeref="note">35</renvoi>.</alinea>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	[l]e partage du sensible fait voir qui peut avoir part au commun en fonction de ce qu’il fait, du temps et de l’espace dans lesquels cette activité s’exerce. Avoir telle ou telle « occupation » définit ainsi des compétences ou des incompétences au commun. Cela définit le fait d’être ou non visible dans un espace commun, doué d’une parole commune, etc. Il y a donc, à la base de la politique, une « esthétique » qui n’a rien à voir avec cette « esthétisation de la politique », propre à l’ « âge des masses », dont parle [Walter] Benjamin. Cette esthétique n’est pas à entendre au sens d’une saisie perverse de la politique par une volonté d’art, par la pensée du peuple comme œuvre d’art. Si l’on tient à l’analogie, on peut l’entendre en un sens kantien – éventuellement revisité par Foucault –, comme le système des formes <marquage typemarq="italique">a priori</marquage> déterminant ce qui se donne à ressentir. C’est un découpage des temps et des espaces, du visible et de l’invisible, de la parole et du bruit qui définit à la fois le lieu et l’enjeu de la politique comme forme d’expérience. La politique porte sur ce qu’on voit et ce qu’on peut en dire, sur qui a la compétence pour voir et la qualité pour dire, sur les propriétés des espaces et les possibles du temps<renvoi idref="sdfootnote35sym" typeref="note">35</renvoi>.</alinea>
       </bloccitation>
-      <para>
-        <alinea>Ce concept est descriptif, il ventriloque plusieurs façons de penser bien établies, ainsi que des possibilités de penser autrement, en jouant sur les résonances du mot partage. Il y a partage du sensible dès qu’un « système d’évidences sensibles […] donne à voir en même temps l’existence d’un commun et les découpages qui y définissent les places et les parts respectives<renvoi idref="sdfootnote36sym" typeref="note">36</renvoi> ». En d’autres mots, dans la vie politique, il y a<marquage typemarq="italique">toujours</marquage>partage du sensible. Les luttes portent précisément sur<marquage typemarq="italique">quel</marquage>partage prévaut en fait et en droit.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Ce concept est descriptif, il ventriloque plusieurs façons de penser bien établies, ainsi que des possibilités de penser autrement, en jouant sur les résonances du mot partage. Il y a partage du sensible dès qu’un « système d’évidences sensibles […] donne à voir en même temps l’existence d’un commun et les découpages qui y définissent les places et les parts respectives<renvoi idref="sdfootnote36sym" typeref="note">36</renvoi> ». En d’autres mots, dans la vie politique, il y a <marquage typemarq="italique">toujours</marquage> partage du sensible. Les luttes portent précisément sur <marquage typemarq="italique">quel</marquage> partage prévaut en fait et en droit.</alinea>
       </para>
-      <para>
-        <alinea>En « séducteur » (selon le mot d’Évard), Rancière invite ainsi son lectorat à calibrer différemment sa perception de la vie politique comme problème du « vivre ensemble » ou du « monde commun » en lui rappelant que l’identification de quelque commun que ce soit implique logiquement de tracer une ou des ligne(s) de démarcation, des parts exclusives. Tout système d’inclusion/exclusion implique nécessairement une exclusion préalable de ce qui ne participe pas du tout au système, ni même sur le mode d’une « non participation ». En « censeur », Rancière semble donc ne pas autoriser<marquage typemarq="italique">tous</marquage>les usages de « son » concept, même si cette censure demeure implicite et qu’elle a plus cours dans les conflits d’interprètes ou d’épigones que dans ses textes. Affirmer que, dans une configuration politique quelconque, il n’y a<marquage typemarq="italique">pas</marquage>de partage du sensible, c’est un contre-sens selon l’élaboration citée plus haut, même si cela peut être audible selon une acception normative du mot partage (on souhaite un<marquage typemarq="italique">autre</marquage>partage, un « vrai », etc.). Que telle collectivité ne soit pas incluse dans un processus décisionnel, ou qu’elle soit exclue des prétendants légitimes à l’autorité politique en général, cela signifie précisément qu’elle s’est vue assignée à un côté ou à un bord de la ligne qui distingue ceux et celles qui ont part à<marquage typemarq="italique">ce</marquage>commun-ci et ceux et celles qui sont ici « sans part ». Cependant, le partage<marquage typemarq="italique">général</marquage>du sensible est précisément cette distribution ou cette partition des parts et des sans-part<renvoi idref="sdfootnote37sym" typeref="note">37</renvoi>. L’analogie avec l’esthétique transcendantale selon Kant ou sa réélaboration foucaldienne dans le registre de l’a priori historique<renvoi idref="sdfootnote38sym" typeref="note">38</renvoi>signale bien le plan « structural » sur lequel Rancière déploie son concept, voire son système – même s’il refuse l’idée de système. La modulation de l’imaginaire et du perceptible qu’implique l’axiome de l’égalité des intelligences ne promet donc pas une fin<marquage typemarq="italique">du</marquage>partage du sensible, mais l’expérimentation d’<marquage typemarq="italique">autres</marquage>partages du sensible, plus égalitaires que celui des ordres hiérarchiques et des places assignées sans appel qui tient déjà si mal en place.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	En « séducteur » (selon le mot d’Évard), Rancière invite ainsi son lectorat à calibrer différemment sa perception de la vie politique comme problème du « vivre ensemble » ou du « monde commun » en lui rappelant que l’identification de quelque commun que ce soit implique logiquement de tracer une ou des ligne(s) de démarcation, des parts exclusives. Tout système d’inclusion/exclusion implique nécessairement une exclusion préalable de ce qui ne participe pas du tout au système, ni même sur le mode d’une « non participation ». En « censeur », Rancière semble donc ne pas autoriser <marquage typemarq="italique">tous</marquage> les usages de « son » concept, même si cette censure demeure implicite et qu’elle a plus cours dans les conflits d’interprètes ou d’épigones que dans ses textes. Affirmer que, dans une configuration politique quelconque, il n’y a <marquage typemarq="italique">pas</marquage> de partage du sensible, c’est un contre-sens selon l’élaboration citée plus haut, même si cela peut être audible selon une acception normative du mot partage (on souhaite un <marquage typemarq="italique">autre</marquage> partage, un « vrai », etc.). Que telle collectivité ne soit pas incluse dans un processus décisionnel, ou qu’elle soit exclue des prétendants légitimes à l’autorité politique en général, cela signifie précisément qu’elle s’est vue assignée à un côté ou à un bord de la ligne qui distingue ceux et celles qui ont part à <marquage typemarq="italique">ce</marquage> commun-ci et ceux et celles qui sont ici « sans part ». Cependant, le partage <marquage typemarq="italique">général </marquage>du sensible est précisément cette distribution ou cette partition des parts et des sans-part<renvoi idref="sdfootnote37sym" typeref="note">37</renvoi>. L’analogie avec l’esthétique transcendantale selon Kant ou sa réélaboration foucaldienne dans le registre de l’a priori historique<renvoi idref="sdfootnote38sym" typeref="note">38</renvoi> signale bien le plan « structural » sur lequel Rancière déploie son concept, voire son système – même s’il refuse l’idée de système. La modulation de l’imaginaire et du perceptible qu’implique l’axiome de l’égalité des intelligences ne promet donc pas une fin <marquage typemarq="italique">du</marquage> partage du sensible, mais l’expérimentation d’<marquage typemarq="italique">autres </marquage>partages du sensible, plus égalitaires que celui des ordres hiérarchiques et des places assignées sans appel qui tient déjà si mal en place.</alinea>
       </para>
-      <para>
-        <alinea>L’axiome ou l’« opinion » de l’égalité des intelligences n’est pas purement arbitraire, bien qu’en tant qu’axiome il soit strictement indémontrable. Dans son écriture, Rancière le rend plausible de plusieurs façons, notamment en proposant une redescription de l’expérience commune qui consiste à donner ou recevoir un ordre. Une situation hiérarchique est ainsi utilisée pour montrer qu’en son sein repose déjà une égalité première. Partant d’un discours reçu sur le caractère naturel de « l’ordre du commandement » et jouant sur les harmoniques du mot ordre, qui nomme à la fois une configuration et un type d’énoncé, Rancière rend perceptible<marquage typemarq="italique">un autre déjà-là</marquage>.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	L’axiome ou l’« opinion » de l’égalité des intelligences n’est pas purement arbitraire, bien qu’en tant qu’axiome il soit strictement indémontrable. Dans son écriture, Rancière le rend plausible de plusieurs façons, notamment en proposant une redescription de l’expérience commune qui consiste à donner ou recevoir un ordre. Une situation hiérarchique est ainsi utilisée pour montrer qu’en son sein repose déjà une égalité première. Partant d’un discours reçu sur le caractère naturel de « l’ordre du commandement » et jouant sur les harmoniques du mot ordre, qui nomme à la fois une configuration et un type d’énoncé, Rancière rend perceptible <marquage typemarq="italique">un autre déjà-là</marquage>.</alinea>
       </para>
-      <bloccitation>
-        <alinea>Il y a de l’ordre dans la société parce que les uns commandent et que les autres obéissent. Mais pour obéir à un ordre deux choses au moins sont requises : il faut comprendre l’ordre et il faut comprendre qu’il faut lui obéir. Et pour cela, il faut déjà être l’égal de celui qui vous commande. C’est cette égalité qui ronge tout ordre naturel. Sans doute les inférieurs obéissent-ils dans la quasi-totalité des cas. Reste que l’ordre social est renvoyé par là à sa contingence dernière. L’inégalité n’est en dernière instance possible que par l’égalité. […] Il n’y a de politique que lorsque ces machineries [inégalitaires] sont interrompues par l’effet d’une présupposition qui leur est tout à fait étrangère et sans laquelle pourtant, en dernière instance, aucune d’elles ne pourrait fonctionner : la présupposition de l’égalité de n’importe qui avec n’importe qui, soit, en définitive, l’effectivité paradoxale de la pure contingence de tout ordre<renvoi idref="sdfootnote39sym" typeref="note">39</renvoi>.</alinea>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Il y a de l’ordre dans la société parce que les uns commandent et que les autres obéissent. Mais pour obéir à un ordre deux choses au moins sont requises : il faut comprendre l’ordre et il faut comprendre qu’il faut lui obéir. Et pour cela, il faut déjà être l’égal de celui qui vous commande. C’est cette égalité qui ronge tout ordre naturel. Sans doute les inférieurs obéissent-ils dans la quasi-totalité des cas. Reste que l’ordre social est renvoyé par là à sa contingence dernière. L’inégalité n’est en dernière instance possible que par l’égalité. […] Il n’y a de politique que lorsque ces machineries [inégalitaires] sont interrompues par l’effet d’une présupposition qui leur est tout à fait étrangère et sans laquelle pourtant, en dernière instance, aucune d’elles ne pourrait fonctionner : la présupposition de l’égalité de n’importe qui avec n’importe qui, soit, en définitive, l’effectivité paradoxale de la pure contingence de tout ordre<renvoi idref="sdfootnote39sym" typeref="note">39</renvoi>.</alinea>
       </bloccitation>
-      <para>
-        <alinea>Plusieurs lecteurs et lectrices de Rancière (notamment ceux et celles qui dirigent des ouvrages collectifs centrés sur son œuvre) ont témoigné du fait que de tels écrits et que des concepts comme celui de partage du sensible ont participé à transformer leurs façons de percevoir la vie politique et le travail politologique. Outre les témoignages explicites d’appréciation du travail de Rancière, il faut aussi considérer les témoignages implicites qui passent par l’appropriation de certains concepts ou énoncés par des chercheurs qui les utilisent à leurs propres fins, dans leurs propres efforts de théorisation, ou encore par la traduction de textes de Rancière dans une autre langue que le français. À mon sens, il faut voir dans la décision même de traduire Rancière – du moins, avant que cette décision ne s’arrime directement à des intérêts monétaires, fonctions d’une popularité internationale elle-même due à la circulation de premières traductions – le signe d’une expérience de lecture qui a été le lieu d’une emprise que je nomme charismatique.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Plusieurs lecteurs et lectrices de Rancière (notamment ceux et celles qui dirigent des ouvrages collectifs centrés sur son œuvre) ont témoigné du fait que de tels écrits et que des concepts comme celui de partage du sensible ont participé à transformer leurs façons de percevoir la vie politique et le travail politologique. Outre les témoignages explicites d’appréciation du travail de Rancière, il faut aussi considérer les témoignages implicites qui passent par l’appropriation de certains concepts ou énoncés par des chercheurs qui les utilisent à leurs propres fins, dans leurs propres efforts de théorisation, ou encore par la traduction de textes de Rancière dans une autre langue que le français. À mon sens, il faut voir dans la décision même de traduire Rancière – du moins, avant que cette décision ne s’arrime directement à des intérêts monétaires, fonctions d’une popularité internationale elle-même due à la circulation de premières traductions – le signe d’une expérience de lecture qui a été le lieu d’une emprise que je nomme charismatique.</alinea>
       </para>
-      <para>
-        <alinea>L’appropriation de concepts et la traduction de Rancière peuvent et même doivent en fait souvent aller de paire, puisque les concepts ont été créés et partagés en langue française. Davide Panagia, par exemple, se sert du concept de partage du sensible dans<marquage typemarq="italique">The Political Life of Sensation</marquage>et il choisit le plus souvent de le traduire en anglais par « <marquage typemarq="italique">the partition of the sensible</marquage> ». Panagia reconnaît toutefois qu’il n’y a pas de consensus sur la traduction « adéquate » de ce concept, car il utilise plusieurs traductions dans un même paragraphe, y compris la non traduction, écrivant « <marquage typemarq="italique">distribution of the sensible</marquage> » puis « <marquage typemarq="italique">the partition or division of the sensible</marquage>(partage du sensible)<renvoi idref="sdfootnote40sym" typeref="note">40</renvoi> ». La traduction anglaise du livre<marquage typemarq="italique">Le partage du sensible. Esthétique et politique</marquage>par Gabriel Rockhill porte le titre<marquage typemarq="italique">The Politics of Aesthetics : The Distribution of the Sensible</marquage>, mais dans son « glossaire des termes techniques », Rockhill lui-même indique que sa traduction n’est pas constante : il rend parfois partage du sensible par « <marquage typemarq="italique">distribution of the sensible</marquage> » et parfois par « <marquage typemarq="italique">partition of the sensible</marquage> », selon les phrases ou les paragraphes<renvoi idref="sdfootnote41sym" typeref="note">41</renvoi>. Cette situation de volatilité ou de souplesse de la traduction a forcé les directeurs d’un ouvrage collectif récent à inclure une série de termes équivalents dans l’index : « <marquage typemarq="italique">distribution of the sensible</marquage> », « <marquage typemarq="italique">division of the sensible</marquage> », « partage du sensible », « <marquage typemarq="italique">partition of the sensible</marquage> » et « <marquage typemarq="italique">sharing of the sensible</marquage> », chaque terme étant suivi de l’indication « <marquage typemarq="italique">see also</marquage> » et des autres termes<renvoi idref="sdfootnote42sym" typeref="note">42</renvoi>. Toute la difficulté réside dans le désir de rendre à la fois l’ambiguïté ou les diverses résonances du terme français « partage » dans une autre langue<renvoi idref="sdfootnote43sym" typeref="note">43</renvoi>, et de maintenir ou de réactiver l’efficace du concept, de rendre son caractère porteur ou séduisant tel qu’il est ressenti en français comme traduction d’un au-delà en un déjà-là. Le fait que Rancière utilise « <marquage typemarq="italique">distribution of the sensible</marquage> » lorsqu’il écrit en anglais<renvoi idref="sdfootnote44sym" typeref="note">44</renvoi>n’a d’ailleurs pas suffi à stabiliser la traduction. Le charisme, ici, ne serait donc pas une domination personnelle.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	L’appropriation de concepts et la traduction de Rancière peuvent et même doivent en fait souvent aller de paire, puisque les concepts ont été créés et partagés en langue française. Davide Panagia, par exemple, se sert du concept de partage du sensible dans <marquage typemarq="italique">The Political Life of Sensation</marquage> et il choisit le plus souvent de le traduire en anglais par « <marquage typemarq="italique">the partition of the sensible</marquage> ». Panagia reconnaît toutefois qu’il n’y a pas de consensus sur la traduction « adéquate » de ce concept, car il utilise plusieurs traductions dans un même paragraphe, y compris la non traduction, écrivant « <marquage typemarq="italique">distribution of the sensible</marquage> » puis « <marquage typemarq="italique">the partition or division of the sensible</marquage> (partage du sensible)<renvoi idref="sdfootnote40sym" typeref="note">40</renvoi> ». La traduction anglaise du livre <marquage typemarq="italique">Le partage du sensible. Esthétique et politique</marquage> par Gabriel Rockhill porte le titre <marquage typemarq="italique">The Politics of Aesthetics : The Distribution of the Sensible</marquage>, mais dans son « glossaire des termes techniques », Rockhill lui-même indique que sa traduction n’est pas constante : il rend parfois partage du sensible par « <marquage typemarq="italique">distribution of the sensible</marquage> » et parfois par « <marquage typemarq="italique">partition of the sensible</marquage> », selon les phrases ou les paragraphes<renvoi idref="sdfootnote41sym" typeref="note">41</renvoi>. Cette situation de volatilité ou de souplesse de la traduction a forcé les directeurs d’un ouvrage collectif récent à inclure une série de termes équivalents dans l’index : « <marquage typemarq="italique">distribution of the sensible</marquage> », « <marquage typemarq="italique">division of the sensible</marquage> », « partage du sensible », « <marquage typemarq="italique">partition of the sensible</marquage> » et « <marquage typemarq="italique">sharing of the sensible</marquage> », chaque terme étant suivi de l’indication « <marquage typemarq="italique">see also</marquage> » et des autres termes<renvoi idref="sdfootnote42sym" typeref="note">42</renvoi>. Toute la difficulté réside dans le désir de rendre à la fois l’ambiguïté ou les diverses résonances du terme français « partage » dans une autre langue<renvoi idref="sdfootnote43sym" typeref="note">43</renvoi>, et de maintenir ou de réactiver l’efficace du concept, de rendre son caractère porteur ou séduisant tel qu’il est ressenti en français comme traduction d’un au-delà en un déjà-là. Le fait que Rancière utilise « <marquage typemarq="italique">distribution of the sensible</marquage> » lorsqu’il écrit en anglais<renvoi idref="sdfootnote44sym" typeref="note">44</renvoi> n’a d’ailleurs pas suffi à stabiliser la traduction. Le charisme, ici, ne serait donc pas une domination personnelle.</alinea>
       </para>
     </section1>
     <section1>
-      <titre>« Nous habitons déjà des<marquage typemarq="italique">harmoniques</marquage> »</titre>
-      <para>
-        <alinea>L’étude du succès de la voix politologique de Jacques Rancière comme l’effet d’une emprise charismatique qui opère via la traduction d’un au-delà en un déjà-là de l’égalité et du partage du sensible est doublement intéressante pour une réflexion sur les rapports entre voix, théorie et traduction. D’une part, il est avéré que Rancière est populaire dans le monde contemporain de l’élaboration théorique, du moins dans le champ de la pensée politique dite critique. L’étude du succès de sa voix politologique peut alors participer à affiner notre compréhension du succès des voix théoriques en général. D’autre part, et surtout, les concepts et les travaux de Rancière participent à rendre compte de leur propre succès, c’est-à-dire que la voix de Rancière peut aider à comprendre le fait qu’il<marquage typemarq="italique">a</marquage>et<marquage typemarq="italique">est</marquage>une « voix théorique » désormais traduite en plusieurs langues. En effet, le concept de partage du sensible, à l’instar du concept d’emprise charismatique d’Évard, ou de la voix de Charlotte Corday, fait entendre « qu’<marquage typemarq="italique">au-delà</marquage>de l’apparaître et du disparaître nous habitons déjà des<marquage typemarq="italique">harmoniques<renvoi idref="sdfootnote45sym" typeref="note">45</renvoi>
+      <titre xmlns:xlink="http://www.w3.org/1999/xlink">
+	« Nous habitons déjà des <marquage typemarq="italique">harmoniques</marquage> »</titre>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	L’étude du succès de la voix politologique de Jacques Rancière comme l’effet d’une emprise charismatique qui opère via la traduction d’un au-delà en un déjà-là de l’égalité et du partage du sensible est doublement intéressante pour une réflexion sur les rapports entre voix, théorie et traduction. D’une part, il est avéré que Rancière est populaire dans le monde contemporain de l’élaboration théorique, du moins dans le champ de la pensée politique dite critique. L’étude du succès de sa voix politologique peut alors participer à affiner notre compréhension du succès des voix théoriques en général. D’autre part, et surtout, les concepts et les travaux de Rancière participent à rendre compte de leur propre succès, c’est-à-dire que la voix de Rancière peut aider à comprendre le fait qu’il <marquage typemarq="italique">a</marquage> et <marquage typemarq="italique">est</marquage> une « voix théorique » désormais traduite en plusieurs langues. En effet, le concept de partage du sensible, à l’instar du concept d’emprise charismatique d’Évard, ou de la voix de Charlotte Corday, fait entendre « qu’<marquage typemarq="italique">au-delà</marquage> de l’apparaître et du disparaître nous habitons déjà des <marquage typemarq="italique">harmoniques<renvoi idref="sdfootnote45sym" typeref="note">45</renvoi>
           </marquage> ». Dans ce cas, les différends quant à la traduction « adéquate » du concept de partage du sensible en langue anglaise suggèrent que le geste de traduction cherche à s’inscrire dans les harmoniques particulières d’une langue selon des modalités qui sont homologues à celles par lesquels le concept traduit s’inscrit dans les harmoniques de la langue d’origine.</alinea>
       </para>
-      <para>
-        <alinea>Selon mon expérience de locuteur, par exemple, dans les harmoniques politiques de la langue anglaise contemporaine le terme « <marquage typemarq="italique">partition</marquage> » porte des résonances trop exclusivistes pour rendre seul le mot français partage. Ce mot évoque entre autres le spectre de la partition violente de l’Inde et la création du Pakistan en 1947, événement connu comme « <marquage typemarq="italique">the Great Partition</marquage> ». Le mot « <marquage typemarq="italique">distribution</marquage> », pour sa part, garde des harmoniques utilitaristes et volontaristes. Cela suggère alors que « le sensible » peut être « distribué » ou « redistribué » selon un projet « rationnel » qu’il s’agirait simplement de mettre à exécution. Or, le concept de Rancière désigne précisément le plan sur lequel nous traçons et retraçons dans le langage des lignes de démarcation et d’articulation entre « rationnel » et « irrationnel », ou entre « sensible » et « intelligible », par exemple. Les harmoniques de la langue anglaise requièrent alors de moduler la façon dont nous entendons le mot « <marquage typemarq="italique">distribution</marquage> », par exemple en misant sur la façon dont Michel Serres, déjà, utilisait le terme au sens « pré-ensembliste » de « donne aléatoire » ou de « pré-ordre » dans le quatrième volume de la série<marquage typemarq="italique">Hermès</marquage>(et ce, même si le partage du sensible n’est pas, à proprement parler, aléatoire)<renvoi idref="sdfootnote46sym" typeref="note">46</renvoi>.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Selon mon expérience de locuteur, par exemple, dans les harmoniques politiques de la langue anglaise contemporaine le terme « <marquage typemarq="italique">partition</marquage> » porte des résonances trop exclusivistes pour rendre seul le mot français partage. Ce mot évoque entre autres le spectre de la partition violente de l’Inde et la création du Pakistan en 1947, événement connu comme « <marquage typemarq="italique">the Great Partition</marquage> ». Le mot « <marquage typemarq="italique">distribution</marquage> », pour sa part, garde des harmoniques utilitaristes et volontaristes. Cela suggère alors que « le sensible » peut être « distribué » ou « redistribué » selon un projet « rationnel » qu’il s’agirait simplement de mettre à exécution. Or, le concept de Rancière désigne précisément le plan sur lequel nous traçons et retraçons dans le langage des lignes de démarcation et d’articulation entre « rationnel » et « irrationnel », ou entre « sensible » et « intelligible », par exemple. Les harmoniques de la langue anglaise requièrent alors de moduler la façon dont nous entendons le mot « <marquage typemarq="italique">distribution</marquage> », par exemple en misant sur la façon dont Michel Serres, déjà, utilisait le terme au sens « pré-ensembliste » de « donne aléatoire » ou de « pré-ordre » dans le quatrième volume de la série <marquage typemarq="italique">Hermès</marquage> (et ce, même si le partage du sensible n’est pas, à proprement parler, aléatoire)<renvoi idref="sdfootnote46sym" typeref="note">46</renvoi>.</alinea>
       </para>
-      <para>
-        <alinea>Quoi qu’il en soit,lL’analyse du succès de la voix politologique de Rancière comme effet de ce que Jean-Luc Évard nomme « emprise charismatique » permet de décloisonner les réflexions critiques sur la notion de charisme du carcan dans lequel l’ont enfermé les interprétations « post-wébériennes » des phénomènes de dictature, de tyrannie, de culte de la personnalité, de fascisme et de totalitarisme. En pratique, la plupart des analyses du charisme politique semblent incapables de se passer de l’État comme structure ou institution dans et par laquelle cette capacité de séduction ou cet art de réduire l’écart entre l’au-delà et le déjà-là s’exerce effectivement comme puissance publique<renvoi idref="sdfootnote47sym" typeref="note">47</renvoi>. Avec la voix écrite d’Évard en tête, il devient toutefois possible de saisir les ressorts du pouvoir de séduction inextricablement intellectuel<marquage typemarq="italique">et</marquage>politique d’énoncés qui invitent à « accueillir les forces et les déterminations qui sont déjà là », tout comme « on accuse réception de ce qui est adressé à soi<renvoi idref="sdfootnote48sym" typeref="note">48</renvoi> ». Puisqu’aujourd’hui plusieurs énoncés de ce type circulent et demandent à être accueillis, dépliés, repris et relancés pour donner lieu à une nouvelle pensée politique, la pratique d’une « charismatologie » contemporaine qui soit capable d’analyser de telles pratiques de traduction semble requise, politiquement et politologiquement. Ce texte aura cherché à mettre en œuvre une telle pratique, afin d’inciter d’autres recherches à venir.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Quoi qu’il en soit,lL’analyse du succès de la voix politologique de Rancière comme effet de ce que Jean-Luc Évard nomme « emprise charismatique » permet de décloisonner les réflexions critiques sur la notion de charisme du carcan dans lequel l’ont enfermé les interprétations « post-wébériennes » des phénomènes de dictature, de tyrannie, de culte de la personnalité, de fascisme et de totalitarisme. En pratique, la plupart des analyses du charisme politique semblent incapables de se passer de l’État comme structure ou institution dans et par laquelle cette capacité de séduction ou cet art de réduire l’écart entre l’au-delà et le déjà-là s’exerce effectivement comme puissance publique<renvoi idref="sdfootnote47sym" typeref="note">47</renvoi>. Avec la voix écrite d’Évard en tête, il devient toutefois possible de saisir les ressorts du pouvoir de séduction inextricablement intellectuel <marquage typemarq="italique">et</marquage> politique d’énoncés qui invitent à « accueillir les forces et les déterminations qui sont déjà là », tout comme « on accuse réception de ce qui est adressé à soi<renvoi idref="sdfootnote48sym" typeref="note">48</renvoi> ». Puisqu’aujourd’hui plusieurs énoncés de ce type circulent et demandent à être accueillis, dépliés, repris et relancés pour donner lieu à une nouvelle pensée politique, la pratique d’une « charismatologie » contemporaine qui soit capable d’analyser de telles pratiques de traduction semble requise, politiquement et politologiquement. Ce texte aura cherché à mettre en œuvre une telle pratique, afin d’inciter d’autres recherches à venir.</alinea>
       </para>
-      <para>
-        <alinea> </alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
     </section1>
   </corps>
-  <partiesann>
-    <grbiblio>
+  <partiesann lang="fr">
+    <grbiblio xmlns:xlink="http://www.w3.org/1999/xlink">
       <biblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Association « Siècle deleuzien », <marquage typemarq="italique">La voix de Gilles Deleuze en ligne </marquage>[en ligne], Université Paris 8. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www2.univ-paris8.fr/deleuze/">http://www2.univ-paris8.fr/deleuze/</liensimple>&amp;gt; (consulté le 2 août 2015).</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Baudrillard, Jean, <marquage typemarq="italique">De la séduction</marquage>, Paris, Galilée, 1980.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Bernier, Émilie, « Accuser le communisme. L’<marquage typemarq="italique">Éthique</marquage> de Spinoza, le biopouvoir et l’immédiateté de la révolution », <marquage typemarq="italique">Cahiers des imaginaires</marquage> vol. 8, n<exposant>o</exposant> 12, 2015, p. 9-30.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Bowman, Paul (dir.), <marquage typemarq="italique">Rancière and Film</marquage>, Edinbourg, Edinburgh University Press, 2013.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Bowman, Paul et Richard Stamp (dir.), <marquage typemarq="italique">Reading Rancière : Critical Dissensus</marquage>, Londres et New York, Continuum, 2011.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Canetti, Elias, <marquage typemarq="italique">Masse et puissance</marquage> [1960], trad. Robert Rovini, Paris, Éditions Gallimard, 1966.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Canetti, Elias, <marquage typemarq="italique">Histoire d’une vie, 1921-1931 : le flambeau dans l’oreille</marquage> [1980]<marquage typemarq="italique">,</marquage>trad. Michel-François Demet, Paris, Albin Michel, 1982.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Canetti, Elias, <marquage typemarq="italique">La conscience des mots. Essais</marquage> [1974], trad. Roger Lewinter, Paris, Albin Michel, 1984.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Chambers, Samuel Allen, <marquage typemarq="italique">The Lessons of Rancière</marquage>, Oxford, Oxford University Press, 2013.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Cornu, Laurence et Patrice Vermeren (dir.), <marquage typemarq="italique">La philosophie déplacée. Autour de Jacques Rancière – Colloque de Cerisy</marquage>, Bourg-en-Bresse, Horlieu Éditions, 2003.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Deranty, Jean-Philippe (dir.), <marquage typemarq="italique">Jacques Rancière : Key Concepts</marquage>, Durham, Acumen, 2010.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Deranty, Jean-Philippe et Alison Ross (dir.), <marquage typemarq="italique">Jacques Rancière and the Contemporary Scene : The Philosophy of Radical Equality</marquage>, Londres et New York, Continuum, 2012.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Derrida, Jacques, <marquage typemarq="italique">D’un ton apocalyptique adopté naguère en philosophie</marquage>, Paris, Éditions Galilée, 1983.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Derycke, Marc et Michel Peroni (sous la dir.), <marquage typemarq="italique">Figures du maître ignorant : savoir et émancipation</marquage>, Saint-Étienne, Publications de l’Université de Saint-Étienne, 2010.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Davis, Oliver (dir.), <marquage typemarq="italique">Rancière Now : Current Perspectives on Jacques Rancière</marquage>, Cambridge, Polity Press, 2013.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Ducharme, Réjean, <marquage typemarq="italique">L’océantume</marquage>, Paris, Gallimard, 1968.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Dufresne, Marion, « Le masque rituel revisité : rôle et fonction du “masque acoustique’ dans la production dramatique d’Elias Canetti », dans M. Grimberg, M.-T. Mourey, E. Rothmund, W. Sabler, A.-M. Saint-Gille et M. Silhouette (dir.),<marquage typemarq="italique">Recherches sur le monde germanique. Regards, approches, objets</marquage>, Paris, Presses de l’Université de Paris-Sorbonne, 2003, p. 141-154.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Évard, Jean-Luc, <marquage typemarq="italique">La religion perverse. Essai sur le charisme</marquage>, Monaco, Éditions du Rocher, 2008.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Évard, Jean-Luc, <marquage typemarq="italique">Métaphonies. Essai sur la rumeur</marquage>, Trocy-en-Multien, Éditions de la revue Conférence, 2013.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Festival En première ligne, « L’égalité, une pensée à part entière ? Rencontre avec Jacques Rancière » [en ligne], Remue.net. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://remue.net/spip.php?article7063">http://remue.net/spip.php?article7063</liensimple>&amp;gt; (consulté le 2 août 2015).</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Foucault, Michel, <marquage typemarq="italique">L’archéologie du savoir</marquage>, Paris, Gallimard, 1969.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Game, Jérôme et Aliocha Wald Lasowski (dir.), <marquage typemarq="italique">Jacques Rancière et la politique de l’esthétique</marquage>, Paris, Éditions des archives contemporaines, 2009.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Giavrini, Laurence, Florence Botello et Élisabeth Castadot, « S’émanciper. Avec Jacques Rancière », dossier critique n<exposant>o</exposant> 9, <marquage typemarq="italique">Acta fabula</marquage> vol. 11, n<exposant>o</exposant> 7, 2010.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Jdey, Adney (dir.), <marquage typemarq="italique">Politiques de l’image. Questions pour Jacques Rancière</marquage>, Bruxelles, La Lettre volée, 2013.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Jaeglé, Claude, <marquage typemarq="italique">Portrait oratoire de Gilles Deleuze aux yeux jaunes</marquage>, Paris, Presses Universitaires de France, 2005.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Jaeglé, Claude, <marquage typemarq="italique">Portrait silencieux de Jacques Lacan</marquage>, Paris, Presses Universitaires de France, 2010.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Jalbert, Martin (dir.), « Jacques Rancière : le dissensus à l’œuvre », <marquage typemarq="italique">Spirale</marquage> n<exposant>o</exposant>220, 2008.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Labrecque, Simon, <marquage typemarq="italique">Aesthetics of politics : refolding distributions of importance</marquage>, thèse de doctorat en science politique, University of Victoria, 2014.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Leonelli, Ludovic, <marquage typemarq="italique">La Séduction Baudrillard</marquage>, Paris, École normale supérieure des beaux-arts, 2007.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>May, Todd, <marquage typemarq="italique">The Political Thought of Jacques Rancière : Creating Equality</marquage>, University Park, Pensylvania State University Press, 2008.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Media Resources Center, <marquage typemarq="italique">Michel Foucault Audio Archive </marquage>[en ligne], University of California Berkeley. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.lib.berkeley.edu/MRC/foucault/mfaa.html">http://www.lib.berkeley.edu/MRC/foucault/mfaa.html</liensimple>&amp;gt; (consulté le 2 août 2015).</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Michaud, Yves, Patrick Cingolani, Arlette Farge, Pierre Campion, Michel Feher, Yves Duroux et Olivier Roy, « Autour de Jacques Rancière », <marquage typemarq="italique">Critique</marquage> n<exposant>os</exposant> 601-602, 1997.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Miron, Gaston, <marquage typemarq="italique">Poèmes épars</marquage>, éd. préparée par Marie-Andrée Beaudet et Pierre Nepveu, Montréal, Éditions de l’Hexagone, 2003.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Monod, Jean-Claude, <marquage typemarq="italique">Qu’est-ce qu’un chef en démocratie ? Politiques du charisme</marquage>. Paris : Éditions du Seuil, 2012.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Panagia, Davide, <marquage typemarq="italique">The Political Life of Sensation</marquage>, Durham, Duke University Press, 2009.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Pasquier, Renaud (dir.), « Jacques Rancière, l’indiscipliné », <marquage typemarq="italique">Labyrinthe </marquage>n<exposant>o</exposant> 17, 2004.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Peñafiel, Ricardo, « Le <marquage typemarq="italique">sens</marquage> des casseroles. Charivaris, <marquage typemarq="italique">cacerolazos</marquage> et création d’espaces publics transgressifs dans et par le bruit », <marquage typemarq="italique">Cahiers des imaginaires</marquage>vol. 8, n<exposant>o</exposant> 11 2015, p. 9-28.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Rancière, Jacques, <marquage typemarq="italique">La mésentente. Philosophie et politique</marquage>, Paris, Éditions Galilée, 1995.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Rancière, Jacques, <marquage typemarq="italique">Le partage du sensible. Esthétique et politique</marquage>, Paris, Éditions La Fabrique, 2000.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Rancière, Jacques, <marquage typemarq="italique">Le maître ignorant. Cinq leçons sur l’émancipation intellectuelle</marquage> [1987], Paris, 10/18, 2004.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Rancière, Jacques, <marquage typemarq="italique">The Politics of Aesthetics : The Distribution of the Sensible</marquage>, trad. et intro. Gabriel Rockhill, Londres et New York, Continuum, 2004.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Rancière, Jacques, <marquage typemarq="italique">La nuit des prolétaires. Archives du rêve ouvrier</marquage> [1981], Paris, Hachette littératures, 2008.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Rancière, Jacques, <marquage typemarq="italique">Le spectateur émancipé</marquage>, Paris, Éditions La Fabrique, 2008.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Rancière, Jacques, « A few remarks on the method of Jacques Rancière »,<marquage typemarq="italique">Parallax</marquage> vol. 15, n<exposant>o</exposant> 3, 2009, p. 114-123.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Rancière, Jacques, <marquage typemarq="italique">La leçon d’Althusser</marquage> [1974], Paris, Éditions La Fabrique, 2011.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Rockhill, Gabriel et Philip Watts (dir.), <marquage typemarq="italique">Jacques Rancière : History, Politics, Aesthetics</marquage>, Durham, Duke University Press, 2009.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Ruby, Christian, <marquage typemarq="italique">L’interruption : Jacques Rancière et la politique</marquage>, Paris, Éditions La Fabrique, 2009.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Serres, Michel, <marquage typemarq="italique">La distribution. Hermès IV</marquage>, Paris, Éditions de Minuit, 1977.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Tanke, Joseph, <marquage typemarq="italique">Jacques Rancière : An Introduction</marquage>, Londres et New York, Continuum, 2011.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Tanke, Joseph (dir.), « Jacques Rancière », <marquage typemarq="italique">Symposium. Revue canadienne de philosophie continentale</marquage>, vol. 15, n<exposant>o</exposant> 2, 2011.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>The Leo Strauss Center, <marquage typemarq="italique">Courses : Audio &amp; Transcripts </marquage>[en ligne], University of Chicago. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://leostrausscenter.uchicago.edu/courses">http://leostrausscenter.uchicago.edu/courses</liensimple>&amp;gt; (consulté le 2 août 2015).</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Valas, Patrick, <marquage typemarq="italique">Audiophones de Jacques Lacan (1) </marquage>[en ligne]. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.valas.fr/Audiophones-de-Jacques-Lacan-1-audios-et-liens-videos,027">http://www.valas.fr/Audiophones-de-Jacques-Lacan-1-audios-et-liens-videos,027</liensimple>&amp;gt; (consulté le 2 août 2015).</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>VOEGELIN, Eric, <marquage typemarq="italique">Les religions politiques</marquage> [1938], trad. Jacob Schmutz,Paris, Éditions du Cerf, 1994.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Weber, Max, <marquage typemarq="italique">Économie et société, 1 : Les catégories de la sociologie</marquage>, trad. sous la dir. de Jacques Chavy et Éric de Dampierre, Paris, Pocket, 1995.</refbiblio>
-        <refbiblio> </refbiblio>
-        <refbiblio>Zone d’attraction, « Une révolte logique : Jacques Rancière » [en ligne], Radio libertaire, 13 novembre 2009. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.zonesdattraction.org/spip.php?article50">http://www.zonesdattraction.org/spip.php?article50</liensimple>&amp;gt; (consulté le 2 août 2015).</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Association « Siècle deleuzien », <marquage typemarq="italique">La voix de Gilles Deleuze en ligne </marquage>[en ligne], Université Paris 8. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www2.univ-paris8.fr/deleuze/">http://www2.univ-paris8.fr/deleuze/</liensimple>&amp;gt; (consulté le 2 août 2015).</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Baudrillard, Jean, <marquage typemarq="italique">De la séduction</marquage>, Paris, Galilée, 1980.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Bernier, Émilie, « Accuser le communisme. L’<marquage typemarq="italique">Éthique</marquage> de Spinoza, le biopouvoir et l’immédiateté de la révolution », <marquage typemarq="italique">Cahiers des imaginaires</marquage> vol. 8, n<exposant>o</exposant> 12, 2015, p. 9-30.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Bowman, Paul (dir.), <marquage typemarq="italique">Rancière and Film</marquage>, Edinbourg, Edinburgh University Press, 2013.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Bowman, Paul et Richard Stamp (dir.), <marquage typemarq="italique">Reading Rancière : Critical Dissensus</marquage>, Londres et New York, Continuum, 2011.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Canetti, Elias, <marquage typemarq="italique">Masse et puissance</marquage> [1960], trad. Robert Rovini, Paris, Éditions Gallimard, 1966.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Canetti, Elias, <marquage typemarq="italique">Histoire d’une vie, 1921-1931 : le flambeau dans l’oreille</marquage> [1980]<marquage typemarq="italique">,</marquage>trad. Michel-François Demet, Paris, Albin Michel, 1982.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Canetti, Elias, <marquage typemarq="italique">La conscience des mots. Essais</marquage> [1974], trad. Roger Lewinter, Paris, Albin Michel, 1984.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Chambers, Samuel Allen, <marquage typemarq="italique">The Lessons of Rancière</marquage>, Oxford, Oxford University Press, 2013.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Cornu, Laurence et Patrice Vermeren (dir.), <marquage typemarq="italique">La philosophie déplacée. Autour de Jacques Rancière – Colloque de Cerisy</marquage>, Bourg-en-Bresse, Horlieu Éditions, 2003.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Deranty, Jean-Philippe (dir.), <marquage typemarq="italique">Jacques Rancière : Key Concepts</marquage>, Durham, Acumen, 2010.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Deranty, Jean-Philippe et Alison Ross (dir.), <marquage typemarq="italique">Jacques Rancière and the Contemporary Scene : The Philosophy of Radical Equality</marquage>, Londres et New York, Continuum, 2012.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Derrida, Jacques, <marquage typemarq="italique">D’un ton apocalyptique adopté naguère en philosophie</marquage>, Paris, Éditions Galilée, 1983.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Derycke, Marc et Michel Peroni (sous la dir.), <marquage typemarq="italique">Figures du maître ignorant : savoir et émancipation</marquage>, Saint-Étienne, Publications de l’Université de Saint-Étienne, 2010.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Davis, Oliver (dir.), <marquage typemarq="italique">Rancière Now : Current Perspectives on Jacques Rancière</marquage>, Cambridge, Polity Press, 2013.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Ducharme, Réjean, <marquage typemarq="italique">L’océantume</marquage>, Paris, Gallimard, 1968.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Dufresne, Marion, « Le masque rituel revisité : rôle et fonction du “masque acoustique’ dans la production dramatique d’Elias Canetti », dans M. Grimberg, M.-T. Mourey, E. Rothmund, W. Sabler, A.-M. Saint-Gille et M. Silhouette (dir.),<marquage typemarq="italique">Recherches sur le monde germanique. Regards, approches, objets</marquage>, Paris, Presses de l’Université de Paris-Sorbonne, 2003, p. 141-154.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Évard, Jean-Luc, <marquage typemarq="italique">La religion perverse. Essai sur le charisme</marquage>, Monaco, Éditions du Rocher, 2008.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Évard, Jean-Luc, <marquage typemarq="italique">Métaphonies. Essai sur la rumeur</marquage>, Trocy-en-Multien, Éditions de la revue Conférence, 2013.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Festival En première ligne, « L’égalité, une pensée à part entière ? Rencontre avec Jacques Rancière » [en ligne], Remue.net. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://remue.net/spip.php?article7063">http://remue.net/spip.php?article7063</liensimple>&amp;gt; (consulté le 2 août 2015).</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Foucault, Michel, <marquage typemarq="italique">L’archéologie du savoir</marquage>, Paris, Gallimard, 1969.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Game, Jérôme et Aliocha Wald Lasowski (dir.), <marquage typemarq="italique">Jacques Rancière et la politique de l’esthétique</marquage>, Paris, Éditions des archives contemporaines, 2009.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Giavrini, Laurence, Florence Botello et Élisabeth Castadot, « S’émanciper. Avec Jacques Rancière », dossier critique n<exposant>o</exposant> 9, <marquage typemarq="italique">Acta fabula</marquage> vol. 11, n<exposant>o</exposant> 7, 2010.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Jdey, Adney (dir.), <marquage typemarq="italique">Politiques de l’image. Questions pour Jacques Rancière</marquage>, Bruxelles, La Lettre volée, 2013.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Jaeglé, Claude, <marquage typemarq="italique">Portrait oratoire de Gilles Deleuze aux yeux jaunes</marquage>, Paris, Presses Universitaires de France, 2005.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Jaeglé, Claude, <marquage typemarq="italique">Portrait silencieux de Jacques Lacan</marquage>, Paris, Presses Universitaires de France, 2010.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Jalbert, Martin (dir.), « Jacques Rancière : le dissensus à l’œuvre », <marquage typemarq="italique">Spirale</marquage> n<exposant>o</exposant>220, 2008.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Labrecque, Simon, <marquage typemarq="italique">Aesthetics of politics : refolding distributions of importance</marquage>, thèse de doctorat en science politique, University of Victoria, 2014.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Leonelli, Ludovic, <marquage typemarq="italique">La Séduction Baudrillard</marquage>, Paris, École normale supérieure des beaux-arts, 2007.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	May, Todd, <marquage typemarq="italique">The Political Thought of Jacques Rancière : Creating Equality</marquage>, University Park, Pensylvania State University Press, 2008.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Media Resources Center, <marquage typemarq="italique">Michel Foucault Audio Archive </marquage>[en ligne], University of California Berkeley. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.lib.berkeley.edu/MRC/foucault/mfaa.html">http://www.lib.berkeley.edu/MRC/foucault/mfaa.html</liensimple>&amp;gt; (consulté le 2 août 2015).</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Michaud, Yves, Patrick Cingolani, Arlette Farge, Pierre Campion, Michel Feher, Yves Duroux et Olivier Roy, « Autour de Jacques Rancière », <marquage typemarq="italique">Critique</marquage> n<exposant>os</exposant> 601-602, 1997.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Miron, Gaston, <marquage typemarq="italique">Poèmes épars</marquage>, éd. préparée par Marie-Andrée Beaudet et Pierre Nepveu, Montréal, Éditions de l’Hexagone, 2003.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Monod, Jean-Claude, <marquage typemarq="italique">Qu’est-ce qu’un chef en démocratie ? Politiques du charisme</marquage>. Paris : Éditions du Seuil, 2012.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Panagia, Davide, <marquage typemarq="italique">The Political Life of Sensation</marquage>, Durham, Duke University Press, 2009.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Pasquier, Renaud (dir.), « Jacques Rancière, l’indiscipliné », <marquage typemarq="italique">Labyrinthe </marquage>n<exposant>o</exposant> 17, 2004.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Peñafiel, Ricardo, « Le <marquage typemarq="italique">sens</marquage> des casseroles. Charivaris, <marquage typemarq="italique">cacerolazos</marquage> et création d’espaces publics transgressifs dans et par le bruit », <marquage typemarq="italique">Cahiers des imaginaires</marquage>vol. 8, n<exposant>o</exposant> 11 2015, p. 9-28.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Rancière, Jacques, <marquage typemarq="italique">La mésentente. Philosophie et politique</marquage>, Paris, Éditions Galilée, 1995.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Rancière, Jacques, <marquage typemarq="italique">Le partage du sensible. Esthétique et politique</marquage>, Paris, Éditions La Fabrique, 2000.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Rancière, Jacques, <marquage typemarq="italique">Le maître ignorant. Cinq leçons sur l’émancipation intellectuelle</marquage> [1987], Paris, 10/18, 2004.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Rancière, Jacques, <marquage typemarq="italique">The Politics of Aesthetics : The Distribution of the Sensible</marquage>, trad. et intro. Gabriel Rockhill, Londres et New York, Continuum, 2004.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Rancière, Jacques, <marquage typemarq="italique">La nuit des prolétaires. Archives du rêve ouvrier</marquage> [1981], Paris, Hachette littératures, 2008.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Rancière, Jacques, <marquage typemarq="italique">Le spectateur émancipé</marquage>, Paris, Éditions La Fabrique, 2008.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Rancière, Jacques, « A few remarks on the method of Jacques Rancière »,<marquage typemarq="italique">Parallax</marquage> vol. 15, n<exposant>o</exposant> 3, 2009, p. 114-123.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Rancière, Jacques, <marquage typemarq="italique">La leçon d’Althusser</marquage> [1974], Paris, Éditions La Fabrique, 2011.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Rockhill, Gabriel et Philip Watts (dir.), <marquage typemarq="italique">Jacques Rancière : History, Politics, Aesthetics</marquage>, Durham, Duke University Press, 2009.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Ruby, Christian, <marquage typemarq="italique">L’interruption : Jacques Rancière et la politique</marquage>, Paris, Éditions La Fabrique, 2009.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Serres, Michel, <marquage typemarq="italique">La distribution. Hermès IV</marquage>, Paris, Éditions de Minuit, 1977.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Tanke, Joseph, <marquage typemarq="italique">Jacques Rancière : An Introduction</marquage>, Londres et New York, Continuum, 2011.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Tanke, Joseph (dir.), « Jacques Rancière », <marquage typemarq="italique">Symposium. Revue canadienne de philosophie continentale</marquage>, vol. 15, n<exposant>o</exposant> 2, 2011.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	The Leo Strauss Center, <marquage typemarq="italique">Courses : Audio &amp; Transcripts </marquage>[en ligne], University of Chicago. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://leostrausscenter.uchicago.edu/courses">http://leostrausscenter.uchicago.edu/courses</liensimple>&amp;gt; (consulté le 2 août 2015).</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Valas, Patrick, <marquage typemarq="italique">Audiophones de Jacques Lacan (1) </marquage>[en ligne]. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.valas.fr/Audiophones-de-Jacques-Lacan-1-audios-et-liens-videos,027">http://www.valas.fr/Audiophones-de-Jacques-Lacan-1-audios-et-liens-videos,027</liensimple>&amp;gt; (consulté le 2 août 2015).</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	VOEGELIN, Eric, <marquage typemarq="italique">Les religions politiques</marquage> [1938], trad. Jacob Schmutz,Paris, Éditions du Cerf, 1994.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Weber, Max, <marquage typemarq="italique">Économie et société, 1 : Les catégories de la sociologie</marquage>, trad. sous la dir. de Jacques Chavy et Éric de Dampierre, Paris, Pocket, 1995.</refbiblio>
+        <refbiblio>
+	 </refbiblio>
+        <refbiblio>
+	Zone d’attraction, « Une révolte logique : Jacques Rancière » [en ligne], Radio libertaire, 13 novembre 2009. &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.zonesdattraction.org/spip.php?article50">http://www.zonesdattraction.org/spip.php?article50</liensimple>&amp;gt; (consulté le 2 août 2015).</refbiblio>
       </biblio>
     </grbiblio>
-    <grnote>
+    <grnote xmlns:xlink="http://www.w3.org/1999/xlink">
       <note id="sdfootnote1sym">
         <no>1</no>
-        <alinea>En français, en plus des ouvrages qui mettent les travaux de Rancière en relation avec un ou plusieurs autres auteurs, dont Pierre Bourdieu et Joseph Jacotot, mentionnons notamment : Jdey, Adney (dir.),<marquage typemarq="italique">Politiques de l’image. Questions pour Jacques Rancière</marquage>, Bruxelles : La Lettre volée, 2013; Game, Jérôme et Aliocha Wald Lasowski (dir.),<marquage typemarq="italique">Jacques Rancière et la politique de l’esthétique</marquage>, Paris : Éditions des archives contemporaines, 2009; Ruby, Christian,<marquage typemarq="italique">L’interruption : Jacques Rancière et la politique</marquage>, Paris : Éditions La Fabrique, 2009; et Cornu, Laurence et Patrice Vermeren (dir.),<marquage typemarq="italique">La philosophie déplacée. Autour de Jacques Rancière – Colloque de Cerisy</marquage>, Bourg-en-Bresse : Horlieu Éditions, 2003. Mentionnons également ces dossiers ou numéros de revue : Tanke, Joseph (dir.), « Jacques Rancière », in<marquage typemarq="italique">Symposium. Revue canadienne de philosophie continentale,</marquage>vol. 15, n<exposant>o</exposant>2, 2011; Giavrini, Laurence, Florence Botello et Élisabeth Castadot, « S’émanciper. Avec Jacques Rancière », dossier critique n<exposant>o</exposant>9, in<marquage typemarq="italique">Acta fabula,</marquage>vol. 11, n<exposant>o</exposant>7, 2010; Jalbert, Martin (dir.), « Jacques Rancière : le dissensus à l’œuvre », in<marquage typemarq="italique">Spirale</marquage>n<exposant>o</exposant>220, 2008; Pasquier, Renaud (dir.), « Jacques Rancière, l’indiscipliné », in<marquage typemarq="italique">Labyrinthe,</marquage>n<exposant>o</exposant>17, 2004; et Michaud, Yves, Patrick Cingolani, Arlette Farge, Pierre Campion, Michel Feher, Yves Duroux et Olivier Roy, « Autour de Jacques Rancière », in<marquage typemarq="italique">Critique,</marquage>n<exposant>os</exposant>601-602, 1997. En anglais, mentionnons ces ouvrages récents : Bowman, Paul (dir.),<marquage typemarq="italique">Rancière and Film</marquage>, Edinbourg : Edinburgh University Press, 2013; Chambers, Samuel Allen,<marquage typemarq="italique">The Lessons of Rancière</marquage>, Oxford : Oxford University Press, 2013; Davis, Oliver (dir.),<marquage typemarq="italique">Rancière Now: Current Perspectives on Jacques Rancière</marquage>, Cambridge : Polity Press, 2013; Deranty, Jean-Philippe et Alison Ross (dir.),<marquage typemarq="italique">Jacques Rancière and the Contemporary Scene: The Philosophy of Radical Equality</marquage>, Londres et New York : Continuum, 2012; Bowman, Paul et Richard Stamp (dir.),<marquage typemarq="italique">Reading Rancière : Critical Dissensus</marquage>, Londres et New York : Continuum, 2011; Tanke, Joseph J.,<marquage typemarq="italique">Jacques Rancière : An Introduction</marquage>, Londres et New York : Continuum, 2011; Deranty, Jean-Philippe (dir.),<marquage typemarq="italique">Jacques Rancière : Key Concepts</marquage>, Durham : Acumen, 2010; Rockhill, Gabriel et Philip Watts (dir.),<marquage typemarq="italique">Jacques Rancière: History, Politics, Aesthetics</marquage>, Durham : Duke University Press, 2009; et May, Todd,<marquage typemarq="italique">The Political Thought of Jacques Rancière : Creating Equality</marquage>, University Park : Pensylvania State University Press, 2008.</alinea>
+        <alinea>
+	 En français, en plus des ouvrages qui mettent les travaux de Rancière en relation avec un ou plusieurs autres auteurs, dont Pierre Bourdieu et Joseph Jacotot, mentionnons notamment : Jdey, Adney (dir.), <marquage typemarq="italique">Politiques de l’image. Questions pour Jacques Rancière</marquage>, Bruxelles : La Lettre volée, 2013; Game, Jérôme et Aliocha Wald Lasowski (dir.), <marquage typemarq="italique">Jacques Rancière et la politique de l’esthétique</marquage>, Paris : Éditions des archives contemporaines, 2009; Ruby, Christian, <marquage typemarq="italique">L’interruption : Jacques Rancière et la politique</marquage>, Paris : Éditions La Fabrique, 2009; et Cornu, Laurence et Patrice Vermeren (dir.), <marquage typemarq="italique">La philosophie déplacée. Autour de Jacques Rancière – Colloque de Cerisy</marquage>, Bourg-en-Bresse : Horlieu Éditions, 2003. Mentionnons également ces dossiers ou numéros de revue : Tanke, Joseph (dir.), « Jacques Rancière », in <marquage typemarq="italique">Symposium. Revue canadienne de philosophie continentale,</marquage> vol. 15, n<exposant>o</exposant> 2, 2011; Giavrini, Laurence, Florence Botello et Élisabeth Castadot, « S’émanciper. Avec Jacques Rancière », dossier critique n<exposant>o</exposant> 9, in <marquage typemarq="italique">Acta fabula,</marquage> vol. 11, n<exposant>o</exposant> 7, 2010; Jalbert, Martin (dir.), « Jacques Rancière : le dissensus à l’œuvre », in <marquage typemarq="italique">Spirale</marquage> n<exposant>o</exposant> 220, 2008; Pasquier, Renaud (dir.), « Jacques Rancière, l’indiscipliné », in <marquage typemarq="italique">Labyrinthe,</marquage> n<exposant>o</exposant> 17, 2004; et Michaud, Yves, Patrick Cingolani, Arlette Farge, Pierre Campion, Michel Feher, Yves Duroux et Olivier Roy, « Autour de Jacques Rancière », in <marquage typemarq="italique">Critique,</marquage> n<exposant>os</exposant> 601-602, 1997. En anglais, mentionnons ces ouvrages récents : Bowman, Paul (dir.), <marquage typemarq="italique">Rancière and Film</marquage>, Edinbourg : Edinburgh University Press, 2013; Chambers, Samuel Allen, <marquage typemarq="italique">The Lessons of Rancière</marquage>, Oxford : Oxford University Press, 2013; Davis, Oliver (dir.), <marquage typemarq="italique">Rancière Now: Current Perspectives on Jacques Rancière</marquage>, Cambridge : Polity Press, 2013; Deranty, Jean-Philippe et Alison Ross (dir.), <marquage typemarq="italique">Jacques Rancière and the Contemporary Scene: The Philosophy of Radical Equality</marquage>, Londres et New York : Continuum, 2012; Bowman, Paul et Richard Stamp (dir.), <marquage typemarq="italique">Reading Rancière : Critical Dissensus</marquage>, Londres et New York : Continuum, 2011; Tanke, Joseph J., <marquage typemarq="italique">Jacques Rancière : An Introduction</marquage>, Londres et New York : Continuum, 2011; Deranty, Jean-Philippe (dir.), <marquage typemarq="italique">Jacques Rancière : Key Concepts</marquage>, Durham : Acumen, 2010; Rockhill, Gabriel et Philip Watts (dir.), <marquage typemarq="italique">Jacques Rancière: History, Politics, Aesthetics</marquage>, Durham : Duke University Press, 2009; et May, Todd, <marquage typemarq="italique">The Political Thought of Jacques Rancière : Creating Equality</marquage>, University Park : Pensylvania State University Press, 2008.</alinea>
       </note>
       <note id="sdfootnote2sym">
         <no>2</no>
-        <alinea>Voir, par exemple, Rancière, Jacques,<marquage typemarq="italique">La mésentente. Philosophie et politique</marquage>, Paris : Éditions Galilée, 1995, et Rancière, Jacques,<marquage typemarq="italique">Le partage du sensible. Esthétique et politique</marquage>, Paris : Éditions La Fabrique, 2000.</alinea>
+        <alinea>
+	 Voir, par exemple, Rancière, Jacques, <marquage typemarq="italique">La mésentente. Philosophie et politique</marquage>, Paris : Éditions Galilée, 1995, et Rancière, Jacques, <marquage typemarq="italique">Le partage du sensible. Esthétique et politique</marquage>, Paris : Éditions La Fabrique, 2000.</alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>
-        <alinea>Évard, Jean-Luc, Métaphonies. Essai sur la rumeur, Trocy-en-Multien : Éditions de la revue Conférence, 2013, p. 159-160. La réflexion qui a rendu possible cette description opératoire de l’emprise charismatique a été amorcée dans Évard, Jean-Luc, La religion perverse. Essai sur le charisme, Monaco : Éditions du Rocher, 2008.</alinea>
+        <alinea>
+	 Évard, Jean-Luc, Métaphonies. Essai sur la rumeur, Trocy-en-Multien : Éditions de la revue Conférence, 2013, p. 159-160. La réflexion qui a rendu possible cette description opératoire de l’emprise charismatique a été amorcée dans Évard, Jean-Luc, La religion perverse. Essai sur le charisme, Monaco : Éditions du Rocher, 2008.</alinea>
       </note>
       <note id="sdfootnote4sym">
         <no>4</no>
-        <alinea>Pour une présentation succincte de cet argument, voir « Les mésaventures de la pensée critique », dans Rancière, Jacques,<marquage typemarq="italique">Le spectateur émancipé</marquage>, Paris : Éditions La Fabrique, 2008, p. 30-55. Voir également Rancière, Jacques,<marquage typemarq="italique">Le maître ignorant. Cinq leçons sur l’ém</marquage>
+        <alinea>
+	 Pour une présentation succincte de cet argument, voir « Les mésaventures de la pensée critique », dans Rancière, Jacques, <marquage typemarq="italique">Le spectateur émancipé</marquage>, Paris : Éditions La Fabrique, 2008, p. 30-55. Voir également Rancière, Jacques, <marquage typemarq="italique">Le maître ignorant. Cinq leçons sur l’ém</marquage>
           <marquage typemarq="italique">ancipation intellectuelle</marquage>, Paris : 10/18, 2004 [1987].</alinea>
       </note>
       <note id="sdfootnote5sym">
         <no>5</no>
-        <alinea>Weber, Max,<marquage typemarq="italique">Économie et société, 1 : Les catégories de la sociologie</marquage>, trad. sous la dir. de Jacques Chavy et Éric de Dampierre, Paris : Pocket, 1995, p. 289.</alinea>
+        <alinea>
+	 Weber, Max, <marquage typemarq="italique">Économie et société, 1 : Les catégories de la sociologie</marquage>, trad. sous la dir. de Jacques Chavy et Éric de Dampierre, Paris : Pocket, 1995, p. 289.</alinea>
       </note>
       <note id="sdfootnote6sym">
         <no>6</no>
         <alinea>
-          <marquage typemarq="italique">Ibid.</marquage>, p. 320 (derniers crochets dans le texte).</alinea>
+	<marquage typemarq="italique"> Ibid.</marquage>, p. 320 (derniers crochets dans le texte).</alinea>
       </note>
       <note id="sdfootnote7sym">
         <no>7</no>
-        <alinea>Cette expression rappelle le titre de Ludovic Leonelli,<marquage typemarq="italique">La Séduction Baudrillard</marquage>, Paris : École normale supérieure des beaux-arts, 2007. Pour l’élaboration d’un concept philosophique de séduction, voir Baudrillard, Jean,<marquage typemarq="italique">De la séduction</marquage>, Paris : Galilée, 1980. Dans cet article, cependant, j’utilise « séduction » dans son sens le plus commun, soit comme le nom d’un effet d’attraction, d’attirance ou de charme, une capacité de plaire dont la cause peut être le charisme. L’énoncé premier de ce texte est : Rancière séduit, plaît, attire. L’objectif est de saisir comment cela se produit.</alinea>
+        <alinea>
+	 Cette expression rappelle le titre de Ludovic Leonelli, <marquage typemarq="italique">La Séduction Baudrillard</marquage>, Paris : École normale supérieure des beaux-arts, 2007. Pour l’élaboration d’un concept philosophique de séduction, voir Baudrillard, Jean, <marquage typemarq="italique">De la séduction</marquage>, Paris : Galilée, 1980. Dans cet article, cependant, j’utilise « séduction » dans son sens le plus commun, soit comme le nom d’un effet d’attraction, d’attirance ou de charme, une capacité de plaire dont la cause peut être le charisme. L’énoncé premier de ce texte est : Rancière séduit, plaît, attire. L’objectif est de saisir comment cela se produit.</alinea>
       </note>
       <note id="sdfootnote8sym">
         <no>8</no>
-        <alinea>Canetti, Elias, « Karl Kraus. École de la résistance » [1960], dans<marquage typemarq="italique">La conscience des mots. Essais</marquage>[1974], trad. Roger Lewinter, Paris : Albin Michel, 1984, p. 57.</alinea>
+        <alinea>
+	 Canetti, Elias, « Karl Kraus. École de la résistance » [1960], dans <marquage typemarq="italique">La conscience des mots. Essais</marquage> [1974], trad. Roger Lewinter, Paris : Albin Michel, 1984, p. 57.</alinea>
       </note>
       <note id="sdfootnote9sym">
         <no>9</no>
-        <alinea>Ibid.</alinea>
+        <alinea>
+	 Ibid.</alinea>
       </note>
       <note id="sdfootnote10sym">
         <no>10</no>
         <alinea>
-          <marquage typemarq="italique">Ibid.</marquage>, p. 58. Sur le rôle conjoint de Kraus et de Veza Canetti dans cette modulation auriculaire, voir Canetti, Elias,  « L’apprentissage de l’oreille », dans<marquage typemarq="italique">Histoire d’une vie, 1921-1931 : le flambeau dans l’oreille</marquage>[1980]<marquage typemarq="italique">,</marquage>trad. Michel-François Demet, Paris : Albin Michel, 1982, p. 227-236.</alinea>
+	<marquage typemarq="italique">Ibid.</marquage>, p. 58. Sur le rôle conjoint de Kraus et de Veza Canetti dans cette modulation auriculaire, voir Canetti, Elias,  « L’apprentissage de l’oreille », dans <marquage typemarq="italique">Histoire d’une vie, 1921-1931 : le flambeau dans l’oreille</marquage> [1980]<marquage typemarq="italique">,</marquage> trad. Michel-François Demet, Paris : Albin Michel, 1982, p. 227-236.</alinea>
       </note>
       <note id="sdfootnote11sym">
         <no>11</no>
-        <alinea>L’expression « religion séculière » désigne l’existence de comportements dévotionnels hors du domaine « proprement religieux » ou traditionnellement qualifié comme tel. Dans le langage courant, une idéologie, mais aussi un sport peut ainsi être qualifié de « religion séculière » (le hockey au Canada, ou le rugby en Nouvelle-Zélande, par exemple). Une religion séculière élève au rang « supramondain » une idée ou un phénomène « intramondain », pour reprendre la caractérisation des « religions politiques » par Eric Voegelin, dans<marquage typemarq="italique">Les religions politiques</marquage>[1938], trad. Jacob Schmutz, Paris : Éditions du Cerf, 1994. Évard travaille explicitement la conceptualisation développée par Voegelin pour saisir les ressorts du succès du national-socialisme en Allemagne dans les années 1930.</alinea>
+        <alinea>
+	 L’expression « religion séculière » désigne l’existence de comportements dévotionnels hors du domaine « proprement religieux » ou traditionnellement qualifié comme tel. Dans le langage courant, une idéologie, mais aussi un sport peut ainsi être qualifié de « religion séculière » (le hockey au Canada, ou le rugby en Nouvelle-Zélande, par exemple). Une religion séculière élève au rang « supramondain » une idée ou un phénomène « intramondain », pour reprendre la caractérisation des « religions politiques » par Eric Voegelin, dans <marquage typemarq="italique">Les religions politiques</marquage> [1938], trad. Jacob Schmutz, Paris : Éditions du Cerf, 1994. Évard travaille explicitement la conceptualisation développée par Voegelin pour saisir les ressorts du succès du national-socialisme en Allemagne dans les années 1930.</alinea>
       </note>
       <note id="sdfootnote12sym">
         <no>12</no>
-        <alinea>Évard, La religion perverse, op. cit., p. 178.</alinea>
+        <alinea>
+	 Évard, La religion perverse, op. cit., p. 178.</alinea>
       </note>
       <note id="sdfootnote13sym">
         <no>13</no>
         <alinea>
-          <marquage typemarq="italique">Ibid.</marquage>, p. 42.</alinea>
+	<marquage typemarq="italique">Ibid.</marquage>, p. 42.</alinea>
       </note>
       <note id="sdfootnote14sym">
         <no>14</no>
-        <alinea>Évard,<marquage typemarq="italique">Métaphonies</marquage>,<marquage typemarq="italique">op. cit.</marquage>, p. 170.</alinea>
+        <alinea>
+	 Évard, <marquage typemarq="italique">Métaphonies</marquage>, <marquage typemarq="italique">op. cit.</marquage>, p. 170.</alinea>
       </note>
       <note id="sdfootnote15sym">
         <no>15</no>
         <alinea>
-          <marquage typemarq="italique">Ibid.</marquage>, p. 159-160.</alinea>
+	<marquage typemarq="italique"> Ibid.</marquage>, p. 159-160.</alinea>
       </note>
       <note id="sdfootnote16sym">
         <no>16</no>
         <alinea>
-          <marquage typemarq="italique">Ibid.</marquage>, p. 161.</alinea>
+	<marquage typemarq="italique"> Ibid.</marquage>, p. 161.</alinea>
       </note>
       <note id="sdfootnote17sym">
         <no>17</no>
-        <alinea>Miron, Gaston, « Retour à nulle part », dans<marquage typemarq="italique">Poèmes épars</marquage>, éd. préparée par Marie-Andrée Beaudet et Pierre Nepveu, Montréal : Éditions de l’Hexagone, 2003, p. 61.</alinea>
+        <alinea>
+	 Miron, Gaston, « Retour à nulle part », dans <marquage typemarq="italique">Poèmes épars</marquage>, éd. préparée par Marie-Andrée Beaudet et Pierre Nepveu, Montréal : Éditions de l’Hexagone, 2003, p. 61.</alinea>
       </note>
       <note id="sdfootnote18sym">
         <no>18</no>
-        <alinea>Ducharme, Réjean,<marquage typemarq="italique">L’océantume</marquage>, Paris, Gallimard, 1968, p. 190. Je remercie Émilie Bernier de m’avoir fait connaître ce passage qui entre en résonance avec l’argumentaire qu’elle développe dans Bernier, Émilie, « Accuser le communisme. L’<marquage typemarq="italique">Éthique</marquage>de Spinoza, le biopouvoir et l’immédiateté de la révolution »,<marquage typemarq="italique">Cahiers des imaginaires,</marquage>vol. 8, n<exposant>o</exposant>12, 2015, p. 9-30.</alinea>
+        <alinea>
+	 Ducharme, Réjean, <marquage typemarq="italique">L’océantume</marquage>, Paris, Gallimard, 1968, p. 190. Je remercie Émilie Bernier de m’avoir fait connaître ce passage qui entre en résonance avec l’argumentaire qu’elle développe dans Bernier, Émilie, « Accuser le communisme. L’<marquage typemarq="italique">Éthique</marquage> de Spinoza, le biopouvoir et l’immédiateté de la révolution », <marquage typemarq="italique">Cahiers des imaginaires,</marquage> vol. 8, n<exposant>o</exposant> 12, 2015, p. 9-30.</alinea>
       </note>
       <note id="sdfootnote19sym">
         <no>19</no>
-        <alinea>Évard,<marquage typemarq="italique">Métaphonies</marquage>,<marquage typemarq="italique">op. cit.</marquage>, p. 164-165.</alinea>
+        <alinea>
+	 Évard, <marquage typemarq="italique">Métaphonies</marquage>, <marquage typemarq="italique">op. cit.</marquage>, p. 164-165.</alinea>
       </note>
       <note id="sdfootnote20sym">
         <no>20</no>
-        <alinea>Jaeglé, Claude,<marquage typemarq="italique">Portrait silencieux de Jacques Lacan</marquage>, Paris : Presses Universitaires de France, 2010, p. 144.</alinea>
+        <alinea>
+	 Jaeglé, Claude, <marquage typemarq="italique">Portrait silencieux de Jacques Lacan</marquage>, Paris : Presses Universitaires de France, 2010, p. 144.</alinea>
       </note>
       <note id="sdfootnote21sym">
         <no>21</no>
         <alinea>
-          <marquage typemarq="italique">Ibid.</marquage>, p. 141. Sur cet idéal commun à la science et à la philosophie de « rendre la différence tonale inaudible », voir aussi Derrida, Jacques,<marquage typemarq="italique">D’un ton apocalyptique adopté naguère en philosophie</marquage>, Paris : Éditions Galilée, 1983, p. 18.</alinea>
+	<marquage typemarq="italique"> Ibid.</marquage>, p. 141. Sur cet idéal commun à la science et à la philosophie de « rendre la différence tonale inaudible », voir aussi Derrida, Jacques, <marquage typemarq="italique">D’un ton apocalyptique adopté naguère en philosophie</marquage>, Paris : Éditions Galilée, 1983, p. 18.</alinea>
       </note>
       <note id="sdfootnote22sym">
         <no>22</no>
-        <alinea>Jaeglé, Claude,<marquage typemarq="italique">Portrait oratoire de Gilles Deleuze aux yeux jaunes</marquage>, Paris : Presses Universitaires de France, 2005.</alinea>
+        <alinea>
+	 Jaeglé, Claude, <marquage typemarq="italique">Portrait oratoire de Gilles Deleuze aux yeux jaunes</marquage>, Paris : Presses Universitaires de France, 2005.</alinea>
       </note>
       <note id="sdfootnote23sym">
         <no>23</no>
-        <alinea>Pour Deleuze, voir<marquage typemarq="italique">La voix de Gilles Deleuze en ligne</marquage>[en ligne], Association « Siècle deleuzien », Université Paris 8 : &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www2.univ-paris8.fr/deleuze/">http://www2.univ-paris8.fr/deleuze/</liensimple>&amp;gt; (consulté le 2 août 2015). Pour Lacan, voir<marquage typemarq="italique">Audiophones de Jacques Lacan (1)</marquage>[en ligne], Patrick Valas : &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.valas.fr/Audiophones-de-Jacques-Lacan-1-audios-et-liens-videos,027">http://www.valas.fr/Audiophones-de-Jacques-Lacan-1-audios-et-liens-videos,027</liensimple>&amp;gt; (consulté le 2 août 2015). Pour Foucault, voir<marquage typemarq="italique">Michel Foucault Audio Archive</marquage>[en ligne], Media Ressources Center, University of California Berkeley : &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.lib.berkeley.edu/MRC/foucault/mfaa.html">http://www.lib.berkeley.edu/MRC/foucault/mfaa.html</liensimple>&amp;gt; (consulté le 2 août 2015). Enfin, pour Strauss, voir<marquage typemarq="italique">Courses : Audio &amp; Transcripts</marquage>[en ligne], The Leo Strauss Center, University of Chicago : &amp;lt;<liensimple xlink:type="simple" xlink:href="http://leostrausscenter.uchicago.edu/courses">http://leostrausscenter.uchicago.edu/courses</liensimple>&amp;gt; (consulté le 2 août 2015). Dans un autre article, je tenterai d’analyser systématiquement les conditions de production et de circulation des ces archives philosophiques sonores.</alinea>
+        <alinea>
+	 Pour Deleuze, voir <marquage typemarq="italique">La voix de Gilles Deleuze en ligne </marquage>[en ligne], Association « Siècle deleuzien », Université Paris 8 : &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www2.univ-paris8.fr/deleuze/">http://www2.univ-paris8.fr/deleuze/</liensimple>&amp;gt; (consulté le 2 août 2015). Pour Lacan, voir <marquage typemarq="italique">Audiophones de Jacques Lacan (1) </marquage>[en ligne], Patrick Valas : &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.valas.fr/Audiophones-de-Jacques-Lacan-1-audios-et-liens-videos,027">http://www.valas.fr/Audiophones-de-Jacques-Lacan-1-audios-et-liens-videos,027</liensimple>&amp;gt; (consulté le 2 août 2015). Pour Foucault, voir <marquage typemarq="italique">Michel Foucault Audio Archive </marquage>[en ligne], Media Ressources Center, University of California Berkeley : &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.lib.berkeley.edu/MRC/foucault/mfaa.html">http://www.lib.berkeley.edu/MRC/foucault/mfaa.html</liensimple>&amp;gt; (consulté le 2 août 2015). Enfin, pour Strauss, voir <marquage typemarq="italique">Courses : Audio &amp; Transcripts </marquage>[en ligne], The Leo Strauss Center, University of Chicago : &amp;lt;<liensimple xlink:type="simple" xlink:href="http://leostrausscenter.uchicago.edu/courses">http://leostrausscenter.uchicago.edu/courses</liensimple>&amp;gt; (consulté le 2 août 2015). Dans un autre article, je tenterai d’analyser systématiquement les conditions de production et de circulation des ces archives philosophiques sonores.</alinea>
       </note>
       <note id="sdfootnote24sym">
         <no>24</no>
-        <alinea>Canetti, Elias, entretien accordé au journal viennois<marquage typemarq="italique">Der Sonntag</marquage>le 19 avril 1937, cité et traduit dans Dufresne, Marion, « Le masque rituel revisité : rôle et fonction du “masque acoustique’ dans la production dramatique d’Elias Canetti », dans M. Grimberg, M.-T. Mourey, E. Rothmund, W. Sabler, A.-M. Saint-Gille et M. Silhouette (dir.),<marquage typemarq="italique">Recherches sur le monde germanique. Regards, approches, objets</marquage>, Paris : Presses de l’Université de Paris-Sorbonne, 2003, p. 143.</alinea>
+        <alinea>
+	 Canetti, Elias, entretien accordé au journal viennois <marquage typemarq="italique">Der Sonntag</marquage> le 19 avril 1937, cité et traduit dans Dufresne, Marion, « Le masque rituel revisité : rôle et fonction du “masque acoustique’ dans la production dramatique d’Elias Canetti », dans M. Grimberg, M.-T. Mourey, E. Rothmund, W. Sabler, A.-M. Saint-Gille et M. Silhouette (dir.), <marquage typemarq="italique">Recherches sur le monde germanique. Regards, approches, objets</marquage>, Paris : Presses de l’Université de Paris-Sorbonne, 2003, p. 143.</alinea>
       </note>
       <note id="sdfootnote25sym">
         <no>25</no>
-        <alinea>Le portrait oratoire de Jacques Rancière présenté dans le paragraphe suivant a été composé à partir de l’écoute de plusieurs documents sonores, dont « Une révolte logique : Jacques Rancière » [en ligne], Zone d’attraction, Radio libertaire, 13 novembre 2009 : &amp;lt;<liensimple xlink:type="simple" xlink:href="http://www.zonesdattraction.org/spip.php?article50">http://www.zonesdattraction.org/spip.php?article50</liensimple>&amp;gt; (consulté le 2 août 2015) et « L’égalité, une pensée à part entière ? Rencontre avec Jacques Rancière » [en ligne], Festival En première ligne, Remue.net : &amp;lt;<liensimple xlink:type="simple" xlink:href="http://remue.net/spip.php?article7063">http://remue.net/spip.php?article7063</liensimple>&amp;gt; (consulté le 2 août 2015). En anglais, mentionnons la conférence conjointe<marquage typemarq="italique">Jacques Rancière and Peter Sloterdijk debate Aesthetics and Modernity</marquage>[en ligne], Centre for Philosophy, Literature and the Arts, University of Warwick, mai 2008, &amp;lt;&amp;gt; (consulté le 2 août 2015).</alinea>
+        <alinea>
+	 Le portrait oratoire de Jacques Rancière présenté dans le paragraphe suivant a été composé à partir de l’écoute de plusieurs documents sonores, dont « Une révolte logique : Jacques Rancière » [en ligne], Zone d’attraction, Radio libertaire, 13 novembre 2009 : &amp;lt; <liensimple xlink:type="simple" xlink:href="http://www.zonesdattraction.org/spip.php?article50">http://www.zonesdattraction.org/spip.php?article50</liensimple>&amp;gt; (consulté le 2 août 2015) et « L’égalité, une pensée à part entière ? Rencontre avec Jacques Rancière » [en ligne], Festival En première ligne, Remue.net : &amp;lt;<liensimple xlink:type="simple" xlink:href="http://remue.net/spip.php?article7063">http://remue.net/spip.php?article7063</liensimple>&amp;gt; (consulté le 2 août 2015). En anglais, mentionnons la conférence conjointe <marquage typemarq="italique">Jacques Rancière and Peter Sloterdijk debate Aesthetics and Modernity </marquage>[en ligne], Centre for Philosophy, Literature and the Arts, University of Warwick, mai 2008, &amp;lt;&amp;gt; (consulté le 2 août 2015).</alinea>
       </note>
       <note id="sdfootnote26sym">
         <no>26</no>
-        <alinea>Canetti, « Karl Kraus »,<marquage typemarq="italique">loc. cit.</marquage>, p. 60-62.</alinea>
+        <alinea>
+	 Canetti, « Karl Kraus », <marquage typemarq="italique">loc. cit.</marquage>, p. 60-62.</alinea>
       </note>
       <note id="sdfootnote27sym">
         <no>27</no>
-        <alinea>Sur l’importance d’un tel au-delà « différé » pour les grandes religions, voir Canetti, Elias, « Lenteur ou l’éloignement du but », dans<marquage typemarq="italique">Masse et puissance</marquage>[1960], trad. Robert Rovini, Paris : Éditions Gallimard, 1966, p. 38-41.</alinea>
+        <alinea>
+	 Sur l’importance d’un tel au-delà « différé » pour les grandes religions, voir Canetti, Elias, « Lenteur ou l’éloignement du but », dans <marquage typemarq="italique">Masse et puissance</marquage> [1960], trad. Robert Rovini, Paris : Éditions Gallimard, 1966, p. 38-41.</alinea>
       </note>
       <note id="sdfootnote28sym">
         <no>28</no>
-        <alinea>Voir entre autres Rancière, Jacques,<marquage typemarq="italique">Le spectateur émancipé</marquage>,<marquage typemarq="italique">op. cit</marquage>., p. 30-55 et la contribution de Rancière à l’ouvrage collectif inspiré de ses travaux sur Jacotot, Derycke, Marc, et Michel Peroni (sous la dir.),<marquage typemarq="italique">Figures du maître ignorant : savoir et émancipation</marquage>, Saint-Étienne : Publications de l’Université de Saint-Étienne, 2010.</alinea>
+        <alinea>
+	 Voir entre autres Rancière, Jacques, <marquage typemarq="italique">Le spectateur émancipé</marquage>, <marquage typemarq="italique">op. cit</marquage>., p. 30-55 et la contribution de Rancière à l’ouvrage collectif inspiré de ses travaux sur Jacotot, Derycke, Marc, et Michel Peroni (sous la dir.), <marquage typemarq="italique">Figures du maître ignorant : savoir et émancipation</marquage>, Saint-Étienne : Publications de l’Université de Saint-Étienne, 2010.</alinea>
       </note>
       <note id="sdfootnote29sym">
         <no>29</no>
-        <alinea>Rancière, Le maître ignorant,<marquage typemarq="italique">op. cit.</marquage>, p. 13.</alinea>
+        <alinea>
+	 Rancière, Le maître ignorant, <marquage typemarq="italique">op. cit.</marquage>, p. 13.</alinea>
       </note>
       <note id="sdfootnote30sym">
         <no>30</no>
         <alinea>
-          <marquage typemarq="italique">Ibid.</marquage>, p. 15.</alinea>
+	<marquage typemarq="italique"> Ibid.</marquage>, p. 15.</alinea>
       </note>
       <note id="sdfootnote31sym">
         <no>31</no>
         <alinea>
-          <marquage typemarq="italique">Ibid.</marquage>, p. 79.</alinea>
+	<marquage typemarq="italique"> Ibid.</marquage>, p. 79.</alinea>
       </note>
       <note id="sdfootnote32sym">
         <no>32</no>
-        <alinea>Évard,<marquage typemarq="italique">Métaphonies</marquage>,<marquage typemarq="italique">op. cit.</marquage>, p. 164-165.</alinea>
+        <alinea>
+	 Évard, <marquage typemarq="italique">Métaphonies</marquage>, <marquage typemarq="italique">op. cit.</marquage>, p. 164-165.</alinea>
       </note>
       <note id="sdfootnote33sym">
         <no>33</no>
-        <alinea>Rancière, Jacques,<marquage typemarq="italique">La nuit des prolétaires. Archives du rêve ouvrier</marquage>, Paris : Hachette littératures, 2008 [1981].</alinea>
+        <alinea>
+	 Rancière, Jacques, <marquage typemarq="italique">La nuit des prolétaires. Archives du rêve ouvrier</marquage>, Paris : Hachette littératures, 2008 [1981].</alinea>
       </note>
       <note id="sdfootnote34sym">
         <no>34</no>
-        <alinea>Rancière, Jacques,<marquage typemarq="italique">La leçon d’Althusser</marquage>, Paris : Éditions La Fabrique, 2011 [1974].</alinea>
+        <alinea>
+	 Rancière, Jacques, <marquage typemarq="italique">La leçon d’Althusser</marquage>, Paris : Éditions La Fabrique, 2011 [1974].</alinea>
       </note>
       <note id="sdfootnote35sym">
         <no>35</no>
-        <alinea>Rancière, Le partage du sensible, op. cit., p. 13-14.</alinea>
+        <alinea>
+	 Rancière, Le partage du sensible, op. cit., p. 13-14.</alinea>
       </note>
       <note id="sdfootnote36sym">
         <no>36</no>
         <alinea>
-          <marquage typemarq="italique">Ibid</marquage>., p. 12.</alinea>
+	<marquage typemarq="italique"> Ibid</marquage>., p. 12.</alinea>
       </note>
       <note id="sdfootnote37sym">
         <no>37</no>
-        <alinea>Pour une opinion différente, selon laquelle le concept permet par exemple de parler de ceux « qui n’ont pas de statut à gouverner, qui n’ont aucune part dans le partage du sensible », voir Peñafiel, Ricardo, « Le<marquage typemarq="italique">sens</marquage>des casseroles. Charivaris,<marquage typemarq="italique">cacerolazos</marquage>et création d’espaces publics transgressifs dans et par le bruit »,<marquage typemarq="italique">Cahiers des imaginaires</marquage>, vol. 8, n<exposant>o</exposant>11, 2015, p. 11 note 5.</alinea>
+        <alinea>
+	 Pour une opinion différente, selon laquelle le concept permet par exemple de parler de ceux « qui n’ont pas de statut à gouverner, qui n’ont aucune part dans le partage du sensible », voir Peñafiel, Ricardo, « Le <marquage typemarq="italique">sens</marquage> des casseroles. Charivaris, <marquage typemarq="italique">cacerolazos</marquage> et création d’espaces publics transgressifs dans et par le bruit », <marquage typemarq="italique">Cahiers des imaginaires</marquage>, vol. 8, n<exposant>o</exposant> 11, 2015, p. 11 note 5.</alinea>
       </note>
       <note id="sdfootnote38sym">
         <no>38</no>
-        <alinea>Foucault, Michel,<marquage typemarq="italique">L’archéologie du savoir</marquage>, Paris : Gallimard, 1969, p. 166-173.</alinea>
+        <alinea>
+	 Foucault, Michel, <marquage typemarq="italique">L’archéologie du savoir</marquage>, Paris : Gallimard, 1969, p. 166-173.</alinea>
       </note>
       <note id="sdfootnote39sym">
         <no>39</no>
-        <alinea>Rancière,<marquage typemarq="italique">La mésentente</marquage>,<marquage typemarq="italique">op. cit.</marquage>, p. 37.</alinea>
+        <alinea>
+	 Rancière, <marquage typemarq="italique">La mésentente</marquage>, <marquage typemarq="italique">op. cit.</marquage>, p. 37.</alinea>
       </note>
       <note id="sdfootnote40sym">
         <no>40</no>
-        <alinea>Panagia, Davide,<marquage typemarq="italique">The Political Life of Sensation</marquage>, Durham: Duke University Press, 2009, p. 41.</alinea>
+        <alinea>
+	 Panagia, Davide, <marquage typemarq="italique">The Political Life of Sensation</marquage>, Durham: Duke University Press, 2009, p. 41.</alinea>
       </note>
       <note id="sdfootnote41sym">
         <no>41</no>
-        <alinea>Rancière, Jacques,<marquage typemarq="italique">The Politics of Aesthetics : The Distribution of the Sensible</marquage>, trad. et intro. Gabriel Rockhill, Londres et New York : Continuum, 2004, p. 85.</alinea>
+        <alinea>
+	 Rancière, Jacques, <marquage typemarq="italique">The Politics of Aesthetics : The Distribution of the Sensible</marquage>, trad. et intro. Gabriel Rockhill, Londres et New York : Continuum, 2004, p. 85.</alinea>
       </note>
       <note id="sdfootnote42sym">
         <no>42</no>
-        <alinea>Voir l’index dans Deranty et Ross (dir.),<marquage typemarq="italique">op. cit</marquage>.</alinea>
+        <alinea>
+	 Voir l’index dans Deranty et Ross (dir.), <marquage typemarq="italique">op. cit</marquage>.</alinea>
       </note>
       <note id="sdfootnote43sym">
         <no>43</no>
-        <alinea>Panagia, Davide, « “<marquage typemarq="italique">Partage du sensible</marquage>’ : the distribution of the sensible », dans Deranty (dir.),<marquage typemarq="italique">op. cit.</marquage>, p. 95-103.</alinea>
+        <alinea>
+	 Panagia, Davide, « “<marquage typemarq="italique">Partage du sensible</marquage>’ : the distribution of the sensible », dans Deranty (dir.), <marquage typemarq="italique">op. cit.</marquage>, p. 95-103.</alinea>
       </note>
       <note id="sdfootnote44sym">
         <no>44</no>
-        <alinea>Rancière, Jacques, « A few remarks on the method of Jacques Rancière »,<marquage typemarq="italique">Parallax,</marquage>vol. 15, n<exposant>o</exposant>3, p. 115 et p.120-121.</alinea>
+        <alinea>
+	 Rancière, Jacques, « A few remarks on the method of Jacques Rancière », <marquage typemarq="italique">Parallax, </marquage>vol. 15, n<exposant>o</exposant> 3, p. 115 et p.120-121.</alinea>
       </note>
       <note id="sdfootnote45sym">
         <no>45</no>
-        <alinea>Évard,<marquage typemarq="italique">Métaphonies</marquage>,<marquage typemarq="italique">op. cit.</marquage>, p. 159.</alinea>
+        <alinea>
+	 Évard, <marquage typemarq="italique">Métaphonies</marquage>, <marquage typemarq="italique">op. cit.</marquage>, p. 159.</alinea>
       </note>
       <note id="sdfootnote46sym">
         <no>46</no>
-        <alinea>Serres, Michel,<marquage typemarq="italique">La distribution. Hermès IV</marquage>, Paris : Éditions de Minuit, 1977, p. 13-14. J’ai proposé cette lecture conjointe de Rancière et de Serres en anglais dans ma thèse sur la question générale « qu’est-ce qui importe politiquement ? ». Voir Labrecque, Simon,<marquage typemarq="italique">Aesthetics of politics : refolding distributions of importance</marquage>, thèse de doctorat en science politique, University of Victoria, 2014.</alinea>
+        <alinea>
+	 Serres, Michel, <marquage typemarq="italique">La distribution. Hermès IV</marquage>, Paris : Éditions de Minuit, 1977, p. 13-14. J’ai proposé cette lecture conjointe de Rancière et de Serres en anglais dans ma thèse sur la question générale « qu’est-ce qui importe politiquement ? ». Voir Labrecque, Simon, <marquage typemarq="italique">Aesthetics of politics : refolding distributions of importance</marquage>, thèse de doctorat en science politique, University of Victoria, 2014.</alinea>
       </note>
       <note id="sdfootnote47sym">
         <no>47</no>
-        <alinea>Voir par exemple Monod, Jean-Claude,<marquage typemarq="italique">Qu’est-ce qu’un chef en démocratie ? Politiques du charisme</marquage>, Paris : Éditions du Seuil, 2012.</alinea>
+        <alinea>
+	 Voir par exemple Monod, Jean-Claude, <marquage typemarq="italique">Qu’est-ce qu’un chef en démocratie ? Politiques du charisme</marquage>, Paris : Éditions du Seuil, 2012.</alinea>
       </note>
       <note id="sdfootnote48sym">
         <no>48</no>
-        <alinea>Bernier, « Accuser le communisme »,<marquage typemarq="italique">loc. cit.</marquage>, p.15.</alinea>
+        <alinea>
+	 Bernier, « Accuser le communisme », <marquage typemarq="italique">loc. cit.</marquage>, p.15.</alinea>
       </note>
       <note id="">
         <no>http://www2.warwick.ac.uk/fac/arts/french/about/staff/sh2/ranciere-sloterdijk.mp3</no>
-        <alinea>Centre for Philosophy, Literature and the Arts, <marquage typemarq="italique">Jacques Rancière and Peter Sloterdijk debate Aesthetics and Modernity </marquage>[en ligne], University of Warwick, mai 2008. &amp;lt;&amp;gt; (consulté le 2 août 2015).</alinea>
+        <alinea>
+	Centre for Philosophy, Literature and the Arts, <marquage typemarq="italique">Jacques Rancière and Peter Sloterdijk debate Aesthetics and Modernity </marquage>[en ligne], University of Warwick, mai 2008. &amp;lt;&amp;gt; (consulté le 2 août 2015).</alinea>
       </note>
     </grnote>
   </partiesann>

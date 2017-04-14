@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1215ear" typeart="Essais" lang="fr" ordseq="1">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1215ear" typeart="article" lang="fr" idref="th941" ordseq="2">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -8,7 +8,7 @@
         <descripteur>Danse</descripteur>
       </grdescripteur>
       <nbpara>15</nbpara>
-      <nbmot>2200</nbmot>
+      <nbmot>2222</nbmot>
       <nbfig>0</nbfig>
       <nbtabl>0</nbtabl>
       <nbimage>0</nbimage>
@@ -58,20 +58,19 @@
     <diffnum>
       <nomorg>Sens public</nomorg>
     </diffnum>
-    <histpapier>
-      <alinea>néant</alinea>
-    </histpapier>
     <schema nom="Erudit Article" version="3.0.0" lang="fr"/>
-    <droitsauteur>Tous droits réservés © <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
+    <droitsauteur>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) <nomorg>Sens-Public</nomorg>, 2015</droitsauteur>
   </admin>
   <liminaire>
     <grtitre>
-      <titre>L'être aux aguets : une esthétique de la distraction</titre>
+      <surtitre>Je e(s)t un Autre - Philosophie et Esthétiques du dédoublement</surtitre>
+      <surtitre2>Essai</surtitre2>
+      <titre>L'être aux aguets : une esthétique de la distraction </titre>
     </grtitre>
     <grauteur>
       <auteur id="spAuthor991">
         <nompers>
-          <prenom>Ariane</prenom>
+          <prenom>Ariane </prenom>
           <nomfamille>Maugery</nomfamille>
         </nompers>
       </auteur>
@@ -82,154 +81,189 @@
     <grmotcle lang="fr">
       <motcle>Philosophie</motcle>
       <motcle>Danse</motcle>
-      <motcle>Je e(s)t un Autre - Philosophie et Esthétiques du dédoublement</motcle>
     </grmotcle>
   </liminaire>
   <corps>
     <section1>
-      <bloccitation>
-        <alinea>« J’ai envie de voler, de nager, d’aboyer, de beugler, de hurler. Je voudrais avoir des ailes, une carapace, une écorce, souffler de la fumée, porter une trompe, tordre mon corps, me diviser partout, être un tout, m’émaner avec les odeurs, me développer comme les plantes, couler comme l’eau, vibrer comme le son, briller comme la lumière, me blottir sur toutes les formes, pénétrer chaque atome, descendre jusqu’au fond de la matière - être la matière. »</alinea>
-      </bloccitation>
-      <bloccitation>
-        <alinea>Gustave Flaubert, La tentation de Saint-Antoine</alinea>
-      </bloccitation>
-      <para>
-        <alinea>La danse et les pratiques plastiques contemporaines, relevant d’une esthétique de la présentation, invitent à ne pas ajouter, enfler le flux de la vie et ainsi à ne pas freiner ni doubler le réel d’un autre réel fait de conscience et de représentations forcément différées, telle la pratique d’un Richard Long dont « le caractère inaugural », selon Georges Descombes, « tient à ce qu’il invente une nouvelle procédure pour voir toujours les mêmes choses. On peut dire qu’il ajoute très peu au monde, presque rien ».<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi>En effet, ces pratiques suggèrent de participer à une coexistence rythmique avec le monde, d’entrer dans « la cadence de l’absence qui pénètre dans la présence ».<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi>Déambuler, flâner parmi les choses, « être à l’heure du monde »<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi>dans les paysages, le réel, se couler dans les flux, dans la prégnance de l’instant, multiple dans son surgissement impromptu.</alinea>
-      </para>
-      <para>
-        <alinea>Dans ces pratiques de l’intensité, la notion d’expérimentation est importante et donne tout son sens à des pratiques qui ne privilégient pas le résultat, la résolution de l’œuvre dans sa formalité, mais plutôt la dynamique d’une proposition en acte. Expérimenter ne consiste pas ainsi à composer des objets morts mais à mettre en œuvre, dans l’immédiateté de l’instant, la sobriété d’un contact direct avec la réalité brute. Pour reprendre les mots de Clément Rosset dans son<marquage typemarq="italique">Traité de l’idiotie</marquage>, il n’est « pas question ici de valeur ajoutée » mais d’une « perception pierreuse », « cas privilégié de contact, vivace et rugueux avec le réel ».<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi>Comme la perception de l’ivrogne, la perception de l’homme en état de désarroi amoureux et l’état philosophique, l’œuvre d’art constitue « une voix privilégiée d’accès au réel », en tant qu’elle y participe concrètement, d’une façon déterminée et singulière en révélant sa simplicité, son caractère irréductiblement idiot, unique. Donner à percevoir le corps comme pierreux, matière brute sans reflet, participe de cette vision rugueuse qui résiste et bute sur le réel pour ne « tirer des choses que le sentiment de leur présence silencieuse ».  Ainsi Carlotta Ikeda tente-t-elle dans ses danses macabres de « disparaître pour trouver l’état zéro » et ainsi « ressourcer l’énergie ». Ce regard minéral s’oppose au regard de l’homme sobre doué d’une faculté anti-perceptive qui, « puant de l’âme »,<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi>ne voit qu’à travers une palette de doubles, d’images qu’il substitue au réel en le mettant à l’écart, afin de lui conférer quelque signifiance rapportée. La duplication qui est une réalité de fait, tend à se constituer comme refus de la singularité du réel.</alinea>
-      </para>
-      <para>
-        <alinea>« Le réel n’est admis que sous certaines conditions et seulement jusqu’à un certain point : s’il abuse et se montre déplaisant, la tolérance est suspendue. Un arrêt de perception met alors la conscience à l’abri de tout spectacle indésirable. Quant au réel, s’il insiste et tient absolument à être perçu, il pourra toujours aller se faire voir<marquage typemarq="italique">ailleurs</marquage>. »<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi>En d’autres termes, arrêter de percevoir implique nécessairement le passage à l’ordre de l’illusion qui se substitue imperceptiblement à la perception simple. L’illusion, cet «ailleurs», ce double évoqué par Rosset, déplace le réel, alors que l’imaginaire n’y touche pas, de même que le refoulement déplace les désirs et les pensées indésirables. Ces représentations émanant d’une perception ordinaire viennent à la fois combler et voiler le simple fait que telle chose, dans sa « singularité stupéfiante », existe ici-et-maintenant, bien loin de la saisir comme l’amoureux, l’ivrogne ou l’artiste comme « émergence insolite dans le champ de l’existence ».<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>
-        </alinea>
-      </para>
-      <para>
-        <alinea>Ces trois personnages, auxquels s’ajoute le philosophe, ont tous en commun cette perception rugueuse qui s’arrête sur des petites choses banales et simples, des petits riens qui échappent à une conscience objectivante, puisque aucune valeur ne s’y ajoute, n’amenant aucun sens final, aucune résolution cognitive sur tel ou tel aspect du réel. L’allégresse, cette pensée sans arrière pensée, toute entière insérée dans le réel et qui n’a pas de double, définit ce contact rugueux, cet amour du réel qui enveloppe une joie sans objet, irreprésentable, celle d’exister. Car ce qui définit l’allégresse selon Rosset, ce « sentiment du réel », ne consiste pas en un quelconque désir identifiable envers tel objet particulier mais au « fait ontologique, le fait même d’exister ».<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi>Comme la réalité est « idiote » c’est-à-dire simple, unique et univoque, l’idiot est celui qui ne voit pas double et saisit donc le réel comme réel et non comme l’ersatz d’un ailleurs. L’ivresse de l’ivrogne qui se détache des représentations du monde et perçoit simple, telle cette fleur qui n’est que ce qu’elle est, à la fois nécessaire et fortuite, ainsi que l’ivresse amoureuse et artistique qui n’éliminent pas le réel, ni ne redessinent une image de son idéal, se confondent toutes dans l’ivresse du réel.</alinea>
-      </para>
-      <para>
-        <alinea>Celle-ci qualifie, in fine, cette disponibilité intense non orientée par des thématiques et intentions conscientes, non médiatisée par des représentations, cette lucidité collant au réel qui œuvre dans l’improvisation plastique et dansée. L’artiste en tant qu’il ne s’abstrait pas du réel mais, au contraire, y prend place en son milieu, fait œuvre de cette lucidité envers le caractère existant de ce qui est. La dimension fondamentale de la réalité se confond donc avec « le sentiment jubilatoire de l’existence ».<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi>
-        </alinea>
-      </para>
-      <titre2>« Glisser dans la chorégraphie du réel »<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>
-      </titre2>
-      <para>
-        <alinea>Lorsque nous marchons au hasard, traversant une diversité de lieux singuliers, des « non-lieux » tels que des espaces vides, inhabités, des zones interstitielles, notre attention diffuse se porte alors sur une nuée de faits, d’éléments, de fragments, dans une disponibilité particulière. Le regard touche à distance, suit le contour de cette pierre lisse, résiste musculairement, glisse sur le métal d’une porte, s’incruste dans l’écorce des arbres, établit des relations dynamiques et s’approprie l’espace de façon kinesthésique par la sensation musculaire liée au mouvement. En quelque sorte, en nous projetant en imagination dans un lieu, nous y avons déjà dessiné les lignes de forces et créé une geste latente en résonance avec la sensation d’espace. En fait, méditer en marchant consiste précisément à élargir le champ de l’attention en fonction de la vision périphérique.</alinea>
-      </para>
-      <para>
-        <alinea>Dans la pratique za-zen qui signifie « s’asseoir », la méditation dans la tradition du bouddhisme zen, la posture tient une place fondamentale et devient même, dans une phase du processus, l’objet même de la concentration : « Assis paisiblement sans rien faire, /le printemps vient et l’herbe croît d’elle-même ».<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi>Dans l’état zen qui signifie immersion, nous perdons notre relation mentale au passé et à l’avenir pour nous laisser être dans un pur présent. Regarder une montagne dans l’état zen ne consiste pas à l’objectiver, bien au contraire. En fait, on devient cette montagne. Nous cessons de centrer le monde sur un point de vue particulier et nous cessons d’imaginer l’existence d’un moi. D’ailleurs pour la philosophie zen, philosopher, c’est apprendre à disparaître. En za-zen, il s’agit de se concentrer sur la posture, la respiration et l’attitude de l’esprit pour laisser « passer les perceptions, les émotions, les formations mentales comme les nuages dans le ciel ou l’eau dans la rivière ».<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi>La méditation se fonde alors sur la conscience du corps dans l’environnement, une expérience essentiellement tactile.</alinea>
-      </para>
-      <para>
-        <alinea>Le présent n’est pas un état fixe mais un état mobile, un état de transformation continue, un présent-devenir. Si tout est flux, pris dans un devenir, il s’agit de se mettre en état de disponibilité pour se fondre et ne pas faire obstruction à cette fluidité intrinsèque du monde. Par conséquent, agir en artiste en ce sens, matérialise simplement une certaine manière de vivre, proche d’une certaine sagesse extrême-orientale, qui implique un état d’éveil constant, un être aux aguets animal en quelque sorte, pour accueillir et épouser la multiplicité du monde.</alinea>
-      </para>
-      <para>
-        <alinea>À  travers des pratiques de l’instant qui incorporent le corps comme révélateur de l’espace et comme matière fluctuante et versatile, la danse, traversée de champs de forces à travers des configurations fragiles et éphémères, nous met ainsi en présence d’individus dissous, comme en réponse au souhait de Deleuze, seulement des flux,<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi>permettant d’intensifier la vie, de se joindre à la fluidité de l’imperceptible et de restituer l’expérience intense d’une présence immanente en devenir.</alinea>
-      </para>
-      <para>
-        <alinea>Le corps dansant ne présente plus des personnages mais se rapproche comme le dit Deleuze d’une « variation atmosphérique, un changement de teinte, une molécule imperceptible, une population discrète, un brouillard ou une nuée de gouttes. »<renvoi idref="sdfootnote14sym" typeref="note">14</renvoi>C’est que cette conscience du corps qui n’est pas conscience réflexive, se révèle plus proche d’une trame discontinue, criblée de trous. Cette « conscience-gruyère » chez Paxton symptomatise le fait que « quelque chose se produit qui est trop rapide pour la pensée ».<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi>
-        </alinea>
-      </para>
-      <para>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
         <alinea>
-          <marquage typemarq="gras">Corps conducteur transi par une diversité de flux, le corps dansant semble porté par une logique inorganique, par un « continuum d’intensités ». Précisons que le continuum n’est pas une continuité puisqu’il se déroule sur le mode de la fracture, de la rupture et appartient de ce fait au régime de l’hétérogène. Le continuum est un écoulement polyrythmique, une articulation complexe entre des séries d’espaces, des situations hétérogènes, des seuils, des passages et des plans. Comme le montage vidéographique qui repose sur la fragmentation de plans et sur l’enchaînement de morceaux hétérogènes, le corps dansant s’expose comme ce continuum d’intensités où circulent des densités, des concentrations et des détentes d’énergies disparates qui « vont en se différenciant »,</marquage> <marquage typemarq="gras">comme dirait Deleuze. Le corps dansant contemporain apparaît comme un corps feuilleté, traversé par d’imperceptibles micro-mouvements qui se chevauchent ou glissent les uns sur les autres, dessinant des cartes d’intensités qui définissent des syntaxes de trajets d’énergies.</marquage>
+	« J’ai envie de voler, de nager, d’aboyer, de beugler, de hurler. Je voudrais avoir des ailes, une carapace, une écorce, souffler de la fumée, porter une trompe, tordre mon corps, me diviser partout, être un tout, m’émaner avec les odeurs, me développer comme les plantes, couler comme l’eau, vibrer comme le son, briller comme la lumière, me blottir sur toutes les formes, pénétrer chaque atome, descendre jusqu’au fond de la matière - être la matière. »</alinea>
+      </bloccitation>
+      <bloccitation xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Gustave Flaubert, La tentation de Saint-Antoine</alinea>
+      </bloccitation>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	La danse et les pratiques plastiques contemporaines, relevant d’une esthétique de la présentation, invitent à ne pas ajouter, enfler le flux de la vie et ainsi à ne pas freiner ni doubler le réel d’un autre réel fait de conscience et de représentations forcément différées, telle la pratique d’un Richard Long dont « le caractère inaugural », selon Georges Descombes, « tient à ce qu’il invente une nouvelle procédure pour voir toujours les mêmes choses. On peut dire qu’il ajoute très peu au monde, presque rien ».<renvoi idref="sdfootnote1sym" typeref="note">1</renvoi> En effet, ces pratiques suggèrent de participer à une coexistence rythmique avec le monde, d’entrer dans « la cadence de l’absence qui pénètre dans la présence ».<renvoi idref="sdfootnote2sym" typeref="note">2</renvoi> Déambuler, flâner parmi les choses, « être à l’heure du monde »<renvoi idref="sdfootnote3sym" typeref="note">3</renvoi> dans les paysages, le réel, se couler dans les flux, dans la prégnance de l’instant, multiple dans son surgissement impromptu.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Dans ces pratiques de l’intensité, la notion d’expérimentation est importante et donne tout son sens à des pratiques qui ne privilégient pas le résultat, la résolution de l’œuvre dans sa formalité, mais plutôt la dynamique d’une proposition en acte. Expérimenter ne consiste pas ainsi à composer des objets morts mais à mettre en œuvre, dans l’immédiateté de l’instant, la sobriété d’un contact direct avec la réalité brute. Pour reprendre les mots de Clément Rosset dans son <marquage typemarq="italique">Traité de l’idiotie</marquage>, il n’est « pas question ici de valeur ajoutée » mais d’une « perception pierreuse », « cas privilégié de contact, vivace et rugueux avec le réel ».<renvoi idref="sdfootnote4sym" typeref="note">4</renvoi> Comme la perception de l’ivrogne, la perception de l’homme en état de désarroi amoureux et l’état philosophique, l’œuvre d’art constitue « une voix privilégiée d’accès au réel », en tant qu’elle y participe concrètement, d’une façon déterminée et singulière en révélant sa simplicité, son caractère irréductiblement idiot, unique. Donner à percevoir le corps comme pierreux, matière brute sans reflet, participe de cette vision rugueuse qui résiste et bute sur le réel pour ne « tirer des choses que le sentiment de leur présence silencieuse ».  Ainsi Carlotta Ikeda tente-t-elle dans ses danses macabres de « disparaître pour trouver l’état zéro » et ainsi « ressourcer l’énergie ». Ce regard minéral s’oppose au regard de l’homme sobre doué d’une faculté anti-perceptive qui, « puant de l’âme »,<renvoi idref="sdfootnote5sym" typeref="note">5</renvoi> ne voit qu’à travers une palette de doubles, d’images qu’il substitue au réel en le mettant à l’écart, afin de lui conférer quelque signifiance rapportée. La duplication qui est une réalité de fait, tend à se constituer comme refus de la singularité du réel.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	« Le réel n’est admis que sous certaines conditions et seulement jusqu’à un certain point : s’il abuse et se montre déplaisant, la tolérance est suspendue. Un arrêt de perception met alors la conscience à l’abri de tout spectacle indésirable. Quant au réel, s’il insiste et tient absolument à être perçu, il pourra toujours aller se faire voir <marquage typemarq="italique">ailleurs</marquage>. »<renvoi idref="sdfootnote6sym" typeref="note">6</renvoi> En d’autres termes, arrêter de percevoir implique nécessairement le passage à l’ordre de l’illusion qui se substitue imperceptiblement à la perception simple. L’illusion, cet «ailleurs», ce double évoqué par Rosset, déplace le réel, alors que l’imaginaire n’y touche pas, de même que le refoulement déplace les désirs et les pensées indésirables. Ces représentations émanant d’une perception ordinaire viennent à la fois combler et voiler le simple fait que telle chose, dans sa « singularité stupéfiante », existe ici-et-maintenant, bien loin de la saisir comme l’amoureux, l’ivrogne ou l’artiste comme « émergence insolite dans le champ de l’existence ».<renvoi idref="sdfootnote7sym" typeref="note">7</renvoi>
         </alinea>
       </para>
-      <para>
-        <alinea>Les danseurs et plasticiens mettent en œuvre une fluidité sensitive qui relève d’une pensée non représentative, un mode de pensée qui ne dépend pas d’une attention cognitive contrôlée. On est dans l’émergence d’une pensée non-réflexive qui n’est pas posée par l’acte d’un sujet pensant mais qui est liée à cette dimension non thétique de sens que constituent selon Maldiney, dans son analyse autour du processus de l’apparaître des formes dans l’art,<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi>les articulations spatio-temporelles primordiales de toute situation. Cette disponibilité à travers l’abandon traverse le corps dansant qui donne à voir à l’œuvre le sommeil même, le processus d’endormissement de la conscience vigile, cet entraînement par la chute dans le sommeil qui, loin d’exprimer une perte de conscience, comme l’écrit intensément Jean-Luc Nancy, participe d’une « plongée consciente de la conscience dans l’inconscience ».<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi>Il ressort de ces pages que l’art, cette ivresse lucide, apparaît étrangement proche du processus instable du sommeil. Quelque part, les artistes contemporains proposent au spectateur de dormir ensemble, de partager par une écoute sensible cette conscience singulière fondée sur « l’absentement de soi en soi »,<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi>un devenir-végétal, de fait, une mise en rythme du monde, cette « cadence primordiale de l’endormissement », ce « battement initial entre quelque chose et rien ».<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Ces trois personnages, auxquels s’ajoute le philosophe, ont tous en commun cette perception rugueuse qui s’arrête sur des petites choses banales et simples, des petits riens qui échappent à une conscience objectivante, puisque aucune valeur ne s’y ajoute, n’amenant aucun sens final, aucune résolution cognitive sur tel ou tel aspect du réel. L’allégresse, cette pensée sans arrière pensée, toute entière insérée dans le réel et qui n’a pas de double, définit ce contact rugueux, cet amour du réel qui enveloppe une joie sans objet, irreprésentable, celle d’exister. Car ce qui définit l’allégresse selon Rosset, ce « sentiment du réel », ne consiste pas en un quelconque désir identifiable envers tel objet particulier mais au « fait ontologique, le fait même d’exister ».<renvoi idref="sdfootnote8sym" typeref="note">8</renvoi> Comme la réalité est « idiote » c’est-à-dire simple, unique et univoque, l’idiot est celui qui ne voit pas double et saisit donc le réel comme réel et non comme l’ersatz d’un ailleurs. L’ivresse de l’ivrogne qui se détache des représentations du monde et perçoit simple, telle cette fleur qui n’est que ce qu’elle est, à la fois nécessaire et fortuite, ainsi que l’ivresse amoureuse et artistique qui n’éliminent pas le réel, ni ne redessinent une image de son idéal, se confondent toutes dans l’ivresse du réel.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Celle-ci qualifie, in fine, cette disponibilité intense non orientée par des thématiques et intentions conscientes, non médiatisée par des représentations, cette lucidité collant au réel qui œuvre dans l’improvisation plastique et dansée. L’artiste en tant qu’il ne s’abstrait pas du réel mais, au contraire, y prend place en son milieu, fait œuvre de cette lucidité envers le caractère existant de ce qui est. La dimension fondamentale de la réalité se confond donc avec « le sentiment jubilatoire de l’existence ».<renvoi idref="sdfootnote9sym" typeref="note">9</renvoi>
         </alinea>
       </para>
-      <para>
-        <alinea>Dans leur recherche de littéralité, d’une qualité de présence neutre, non affectée, déchargée du moi-je et de l’ego, les danseurs et plasticiens travaillent au plus près des mouvements du monde, à partir d’un ancrage dans le réel, afin de rendre visible, tactile, sonore, cette musicalité immanente du corps dans sa relation au monde, ce battement entre le réel et le virtuel, dans son bras-le-corps avec l’instant. Si danser c’est lancer irrésolument un corps dans l’espace, le vertige apparaît donc constitutif de la friction de milieux variés, d’espaces-temps hétérogènes et de seuils perceptifs dans la mise en rythme du corps, qui tient de cette perception périphérique, acentrée et témoigne de cette disponibilité erratique primordiale, cette écoute du monde, toujours en procès, lui-même dansant.</alinea>
+      <titre2 xmlns:xlink="http://www.w3.org/1999/xlink">
+	« Glisser dans la chorégraphie du réel »<renvoi idref="sdfootnote10sym" typeref="note">10</renvoi>
+      </titre2>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Lorsque nous marchons au hasard, traversant une diversité de lieux singuliers, des « non-lieux » tels que des espaces vides, inhabités, des zones interstitielles, notre attention diffuse se porte alors sur une nuée de faits, d’éléments, de fragments, dans une disponibilité particulière. Le regard touche à distance, suit le contour de cette pierre lisse, résiste musculairement, glisse sur le métal d’une porte, s’incruste dans l’écorce des arbres, établit des relations dynamiques et s’approprie l’espace de façon kinesthésique par la sensation musculaire liée au mouvement. En quelque sorte, en nous projetant en imagination dans un lieu, nous y avons déjà dessiné les lignes de forces et créé une geste latente en résonance avec la sensation d’espace. En fait, méditer en marchant consiste précisément à élargir le champ de l’attention en fonction de la vision périphérique.</alinea>
       </para>
-      <para>
-        <alinea>À  travers leurs pratiques plastiques et dansées, les artistes qui s’immiscent dans la mouvance du monde nous mettent ainsi en présence du caractère dru de tout réel qui n’est que changement et nous font réaliser, au sens fort, c’est-à-dire en prenant « conscience du caractère réel du réel »,<renvoi idref="sdfootnote20sym" typeref="note">20</renvoi>la dangerosité de toute fixation de conduite en morale quelconque ou de toute ossification de l’activité de penser en idées reçues, apprises, trouvées et conservées comme en réserve.</alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Dans la pratique za-zen qui signifie « s’asseoir », la méditation dans la tradition du bouddhisme zen, la posture tient une place fondamentale et devient même, dans une phase du processus, l’objet même de la concentration : « Assis paisiblement sans rien faire, /le printemps vient et l’herbe croît d’elle-même ».<renvoi idref="sdfootnote11sym" typeref="note">11</renvoi> Dans l’état zen qui signifie immersion, nous perdons notre relation mentale au passé et à l’avenir pour nous laisser être dans un pur présent. Regarder une montagne dans l’état zen ne consiste pas à l’objectiver, bien au contraire. En fait, on devient cette montagne. Nous cessons de centrer le monde sur un point de vue particulier et nous cessons d’imaginer l’existence d’un moi. D’ailleurs pour la philosophie zen, philosopher, c’est apprendre à disparaître. En za-zen, il s’agit de se concentrer sur la posture, la respiration et l’attitude de l’esprit pour laisser « passer les perceptions, les émotions, les formations mentales comme les nuages dans le ciel ou l’eau dans la rivière ».<renvoi idref="sdfootnote12sym" typeref="note">12</renvoi> La méditation se fonde alors sur la conscience du corps dans l’environnement, une expérience essentiellement tactile.</alinea>
       </para>
-      <para>
-        <alinea> </alinea>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Le présent n’est pas un état fixe mais un état mobile, un état de transformation continue, un présent-devenir. Si tout est flux, pris dans un devenir, il s’agit de se mettre en état de disponibilité pour se fondre et ne pas faire obstruction à cette fluidité intrinsèque du monde. Par conséquent, agir en artiste en ce sens, matérialise simplement une certaine manière de vivre, proche d’une certaine sagesse extrême-orientale, qui implique un état d’éveil constant, un être aux aguets animal en quelque sorte, pour accueillir et épouser la multiplicité du monde.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	À  travers des pratiques de l’instant qui incorporent le corps comme révélateur de l’espace et comme matière fluctuante et versatile, la danse, traversée de champs de forces à travers des configurations fragiles et éphémères, nous met ainsi en présence d’individus dissous, comme en réponse au souhait de Deleuze, seulement des flux,<renvoi idref="sdfootnote13sym" typeref="note">13</renvoi> permettant d’intensifier la vie, de se joindre à la fluidité de l’imperceptible et de restituer l’expérience intense d’une présence immanente en devenir.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Le corps dansant ne présente plus des personnages mais se rapproche comme le dit Deleuze d’une « variation atmosphérique, un changement de teinte, une molécule imperceptible, une population discrète, un brouillard ou une nuée de gouttes. »<renvoi idref="sdfootnote14sym" typeref="note">14</renvoi> C’est que cette conscience du corps qui n’est pas conscience réflexive, se révèle plus proche d’une trame discontinue, criblée de trous. Cette « conscience-gruyère » chez Paxton symptomatise le fait que « quelque chose se produit qui est trop rapide pour la pensée ».<renvoi idref="sdfootnote15sym" typeref="note">15</renvoi>
+        </alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	<marquage typemarq="gras">Corps conducteur transi par une diversité de flux, le corps dansant semble porté par une logique inorganique, par un « continuum d’intensités ». Précisons que le continuum n’est pas une continuité puisqu’il se déroule sur le mode de la fracture, de la rupture et appartient de ce fait au régime de l’hétérogène. Le continuum est un écoulement polyrythmique, une articulation complexe entre des séries d’espaces, des situations hétérogènes, des seuils, des passages et des plans. Comme le montage vidéographique qui repose sur la fragmentation de plans et sur l’enchaînement de morceaux hétérogènes, le corps dansant s’expose comme ce continuum d’intensités où circulent des densités, des concentrations et des détentes d’énergies disparates qui « vont en se différenciant »,</marquage> <marquage typemarq="gras">comme dirait Deleuze. Le corps dansant contemporain apparaît comme un corps feuilleté, traversé par d’imperceptibles micro-mouvements qui se chevauchent ou glissent les uns sur les autres, dessinant des cartes d’intensités qui définissent des syntaxes de trajets d’énergies.</marquage>
+        </alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Les danseurs et plasticiens mettent en œuvre une fluidité sensitive qui relève d’une pensée non représentative, un mode de pensée qui ne dépend pas d’une attention cognitive contrôlée. On est dans l’émergence d’une pensée non-réflexive qui n’est pas posée par l’acte d’un sujet pensant mais qui est liée à cette dimension non thétique de sens que constituent selon Maldiney, dans son analyse autour du processus de l’apparaître des formes dans l’art,<renvoi idref="sdfootnote16sym" typeref="note">16</renvoi> les articulations spatio-temporelles primordiales de toute situation. Cette disponibilité à travers l’abandon traverse le corps dansant qui donne à voir à l’œuvre le sommeil même, le processus d’endormissement de la conscience vigile, cet entraînement par la chute dans le sommeil qui, loin d’exprimer une perte de conscience, comme l’écrit intensément Jean-Luc Nancy, participe d’une « plongée consciente de la conscience dans l’inconscience ».<renvoi idref="sdfootnote17sym" typeref="note">17</renvoi> Il ressort de ces pages que l’art, cette ivresse lucide, apparaît étrangement proche du processus instable du sommeil. Quelque part, les artistes contemporains proposent au spectateur de dormir ensemble, de partager par une écoute sensible cette conscience singulière fondée sur « l’absentement de soi en soi »,<renvoi idref="sdfootnote18sym" typeref="note">18</renvoi> un devenir-végétal, de fait, une mise en rythme du monde, cette « cadence primordiale de l’endormissement », ce « battement initial entre quelque chose et rien ».<renvoi idref="sdfootnote19sym" typeref="note">19</renvoi>
+        </alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	Dans leur recherche de littéralité, d’une qualité de présence neutre, non affectée, déchargée du moi-je et de l’ego, les danseurs et plasticiens travaillent au plus près des mouvements du monde, à partir d’un ancrage dans le réel, afin de rendre visible, tactile, sonore, cette musicalité immanente du corps dans sa relation au monde, ce battement entre le réel et le virtuel, dans son bras-le-corps avec l’instant. Si danser c’est lancer irrésolument un corps dans l’espace, le vertige apparaît donc constitutif de la friction de milieux variés, d’espaces-temps hétérogènes et de seuils perceptifs dans la mise en rythme du corps, qui tient de cette perception périphérique, acentrée et témoigne de cette disponibilité erratique primordiale, cette écoute du monde, toujours en procès, lui-même dansant.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	À  travers leurs pratiques plastiques et dansées, les artistes qui s’immiscent dans la mouvance du monde nous mettent ainsi en présence du caractère dru de tout réel qui n’est que changement et nous font réaliser, au sens fort, c’est-à-dire en prenant « conscience du caractère réel du réel »,<renvoi idref="sdfootnote20sym" typeref="note">20</renvoi> la dangerosité de toute fixation de conduite en morale quelconque ou de toute ossification de l’activité de penser en idées reçues, apprises, trouvées et conservées comme en réserve.</alinea>
+      </para>
+      <para xmlns:xlink="http://www.w3.org/1999/xlink">
+        <alinea>
+	 </alinea>
       </para>
     </section1>
   </corps>
-  <partiesann>
-    <grnote>
+  <partiesann lang="fr">
+    <grnote xmlns:xlink="http://www.w3.org/1999/xlink">
       <note id="sdfootnote1sym">
         <no>1</no>
-        <alinea> Georges Decombes,<marquage typemarq="italique">Voie Suisse. L’itinéraire genevois</marquage>, Canton de Genève, Diffusion Office du Livre, 1991, p. 53. Cité par Gilles A. Tiberghien, « La marche, émergence et fin de l’œuvre », op. cit., p. 245.</alinea>
+        <alinea>
+	 Georges Decombes, <marquage typemarq="italique">Voie Suisse. L’itinéraire genevois</marquage>, Canton de Genève, Diffusion Office du Livre, 1991, p. 53. Cité par Gilles A. Tiberghien, « La marche, émergence et fin de l’œuvre », op. cit., p. 245.</alinea>
       </note>
       <note id="sdfootnote2sym">
         <no>2</no>
-        <alinea> Jean-Luc Nancy, op. cit., p. 61.</alinea>
+        <alinea>
+	 Jean-Luc Nancy, op. cit., p. 61.</alinea>
       </note>
       <note id="sdfootnote3sym">
         <no>3</no>
-        <alinea> Gilles Deleuze, Félix Guattari,<marquage typemarq="italique">Mille plateaux, Capitalisme et schizophrénie 2</marquage>, op. cit., p. 343.</alinea>
+        <alinea>
+	 Gilles Deleuze, Félix Guattari, <marquage typemarq="italique">Mille plateaux, Capitalisme et schizophrénie 2</marquage>, op. cit., p. 343.</alinea>
       </note>
       <note id="sdfootnote4sym">
         <no>4</no>
-        <alinea> Clément Rosset<marquage typemarq="italique">, Le réel. Traité de l’idiotie</marquage>, Les Editions de Minuit, Collection « Critique », 1977, p. 46.</alinea>
+        <alinea>
+	 Clément Rosset<marquage typemarq="italique">, Le réel. Traité de l’idiotie</marquage>, Les Editions de Minuit, Collection « Critique », 1977, p. 46.</alinea>
       </note>
       <note id="sdfootnote5sym">
         <no>5</no>
-        <alinea> Le consul de Malcom Lowry cité par Rosset jette un “Both your soul stink’, « vous puez tous deux de l’âme » à Yvonne, sa femme, et Hugh, son demi-frère, qui ne cessent de faire proliférer les doubles, de ne parler que d’images. Malcom Lowry<marquage typemarq="italique">, Au dessous du volcan, Gallimard</marquage>, Folio, p. 521 cité par Clément Rosset, op. cit., p. 44.</alinea>
+        <alinea>
+	 Le consul de Malcom Lowry cité par Rosset jette un “Both your soul stink’, « vous puez tous deux de l’âme » à Yvonne, sa femme, et Hugh, son demi-frère, qui ne cessent de faire proliférer les doubles, de ne parler que d’images. Malcom Lowry<marquage typemarq="italique">, Au dessous du volcan, Gallimard</marquage>, Folio, p. 521 cité par Clément Rosset, op. cit., p. 44.</alinea>
       </note>
       <note id="sdfootnote6sym">
         <no>6</no>
-        <alinea> Clément Rosset,<marquage typemarq="italique">Le réel</marquage> <marquage typemarq="italique">et son double</marquage>, Editions Gallimard, 1976/1984, pp. 10-11.</alinea>
+        <alinea>
+	 Clément Rosset, <marquage typemarq="italique">Le réel</marquage> <marquage typemarq="italique">et son double</marquage>, Editions Gallimard, 1976/1984, pp. 10-11.</alinea>
       </note>
       <note id="sdfootnote7sym">
         <no>7</no>
-        <alinea> Clément Rosset,<marquage typemarq="italique">Le réel. Traité de l’idiotie</marquage>, op. cit., p. 41.</alinea>
+        <alinea>
+	 Clément Rosset, <marquage typemarq="italique">Le réel. Traité de l’idiotie</marquage>, op. cit., p. 41.</alinea>
       </note>
       <note id="sdfootnote8sym">
         <no>8</no>
-        <alinea> Clément Rosset, op. cit., p. 78.</alinea>
+        <alinea>
+	 Clément Rosset, op. cit., p. 78.</alinea>
       </note>
       <note id="sdfootnote9sym">
         <no>9</no>
-        <alinea> Clément Rosset,<marquage typemarq="italique">Principes de sagesse et de folie</marquage>, Les Editions de Minuit, Collection « Critique », Paris, 1991, p. 44.</alinea>
+        <alinea>
+	 Clément Rosset, <marquage typemarq="italique">Principes de sagesse et de folie</marquage>, Les Editions de Minuit, Collection « Critique », Paris, 1991, p. 44.</alinea>
       </note>
       <note id="sdfootnote10sym">
         <no>10</no>
-        <alinea> Christophe Haleb, Dossier de presse de<marquage typemarq="italique">Corps Capitale</marquage>disponible à l’adresse Internet :       &amp;lt;http://www.lazouze.com&amp;gt;</alinea>
+        <alinea>
+	 Christophe Haleb, Dossier de presse de <marquage typemarq="italique">Corps Capitale</marquage> disponible à l’adresse Internet :       &amp;lt;http://www.lazouze.com&amp;gt;</alinea>
       </note>
       <note id="sdfootnote11sym">
         <no>11</no>
-        <alinea> Poème Zen cité par Roland Barthes dans<marquage typemarq="italique">Fragment d’un discours amoureux</marquage>, OCIII 678, tiré du livre d’Alan W. Watts, L<marquage typemarq="italique">e bouddhisme zen</marquage>, Chapitre II : « Assis paisiblement sans rien faire », Editions Petite Bibliothèque Payot, Paris, 1960/2003, p. 188.</alinea>
+        <alinea>
+	 Poème Zen cité par Roland Barthes dans <marquage typemarq="italique">Fragment d’un discours amoureux</marquage>, OCIII 678, tiré du livre d’Alan W. Watts, L<marquage typemarq="italique">e bouddhisme zen</marquage>, Chapitre II : « Assis paisiblement sans rien faire », Editions Petite Bibliothèque Payot, Paris, 1960/2003, p. 188.</alinea>
       </note>
       <note id="sdfootnote12sym">
         <no>12</no>
-        <alinea> Taisen Deshimaru, « Posture d’éveil »,<marquage typemarq="italique">La Pratique</marquage>
-          <marquage typemarq="italique">du Zen</marquage>, Editions Albin Michel, Collection Spiritualités vivantes, Paris, 1981, (1ère édition chez Seguers en 1974), p. 42.</alinea>
+        <alinea>
+	 Taisen Deshimaru, « Posture d’éveil », <marquage typemarq="italique">La Pratique</marquage> <marquage typemarq="italique">du Zen</marquage>, Editions Albin Michel, Collection Spiritualités vivantes, Paris, 1981, (1ère édition chez Seguers en 1974), p. 42.</alinea>
       </note>
       <note id="sdfootnote13sym">
         <no>13</no>
-        <alinea> « Cesser de se penser comme un moi pour vivre comme un flux, un ensemble de flux en relation avec d’autres flux, hors de soi et en soi. », Gilles Deleuze,<marquage typemarq="italique">Critique et Clinique</marquage>, Editions de Minuit, 1993, p. 68.</alinea>
+        <alinea>
+	 « Cesser de se penser comme un moi pour vivre comme un flux, un ensemble de flux en relation avec d’autres flux, hors de soi et en soi. », Gilles Deleuze, <marquage typemarq="italique">Critique et Clinique</marquage>, Editions de Minuit, 1993, p. 68.</alinea>
       </note>
       <note id="sdfootnote14sym">
         <no>14</no>
-        <alinea> Gilles Deleuze, Claire Parnet,<marquage typemarq="italique">Dialogues</marquage>, Editions Champs Flammarion, 1996, p. 81.</alinea>
+        <alinea>
+	 Gilles Deleuze, Claire Parnet, <marquage typemarq="italique">Dialogues</marquage>, Editions Champs Flammarion, 1996, p. 81.</alinea>
       </note>
       <note id="sdfootnote15sym">
         <no>15</no>
-        <alinea> Steve Paxton cité par José Gil dans « La danse, le corps, l’inconscient »,<marquage typemarq="italique">Revue terrain</marquage>, n°35, « Danser », Septembre 2000, p. 33. </alinea>
+        <alinea>
+	 Steve Paxton cité par José Gil dans « La danse, le corps, l’inconscient », <marquage typemarq="italique">Revue terrain</marquage>, n°35, « Danser », Septembre 2000, p. 33. </alinea>
       </note>
       <note id="sdfootnote16sym">
         <no>16</no>
-        <alinea> Henri Maldiney,<marquage typemarq="italique">Regard, Parole, Espace</marquage>, Editions L’Age d’Homme, Collection « amers », Lausanne, 1973/1994.</alinea>
+        <alinea>
+	 Henri Maldiney, <marquage typemarq="italique">Regard, Parole, Espace</marquage>, Editions L’Age d’Homme, Collection « amers », Lausanne, 1973/1994.</alinea>
       </note>
       <note id="sdfootnote17sym">
         <no>17</no>
-        <alinea> Jean-Luc Nancy,<marquage typemarq="italique">Tombe de sommeil</marquage>, Editions Galilée, Collections « Lignes fictives », 2007, p. 24.</alinea>
+        <alinea>
+	 Jean-Luc Nancy, <marquage typemarq="italique">Tombe de sommeil</marquage>, Editions Galilée, Collections « Lignes fictives », 2007, p. 24.</alinea>
       </note>
       <note id="sdfootnote18sym">
         <no>18</no>
-        <alinea> Jean-Luc Nancy, op. cit., p. 67.</alinea>
+        <alinea>
+	 Jean-Luc Nancy, op. cit., p. 67.</alinea>
       </note>
       <note id="sdfootnote19sym">
         <no>19</no>
-        <alinea> Jean-Luc Nancy, op. cit., p. 63.</alinea>
+        <alinea>
+	 Jean-Luc Nancy, op. cit., p. 63.</alinea>
       </note>
       <note id="sdfootnote20sym">
         <no>20</no>
-        <alinea> « Réaliser, c’est prendre conscience de ce qu’on voit, de ce qu’on sait. » François Jullien,<marquage typemarq="italique">Un sage est sans idée, ou l’autre de la philosophie</marquage>, Première partie, ch.VII : « Etalement de l’évidence », Editions du Seuil, Collection L’ordre philosophique, 1998, p. 75.</alinea>
+        <alinea>
+	 « Réaliser, c’est prendre conscience de ce qu’on voit, de ce qu’on sait. » François Jullien, <marquage typemarq="italique">Un sage est sans idée, ou l’autre de la philosophie</marquage>, Première partie, ch.VII : « Etalement de l’évidence », Editions du Seuil, Collection L’ordre philosophique, 1998, p. 75.</alinea>
       </note>
     </grnote>
   </partiesann>

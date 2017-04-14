@@ -41,7 +41,7 @@ declare variable $local:groupes := fn:doc($local:base || 'groupes.xml') ;
  : @return for each article write an XML file named with its id prefixed by "sens-public-" in the $path directory
  :)
 declare function writeArticles($refs as map(*)*) as document-node()* {
-  let $path := $local:base || '/xml-test/'
+  let $path := $local:base || '/xml/'
   let $rubriques := map {
   '55' : 'Revue en ligne',
   '58' : 'Essai',
@@ -853,7 +853,7 @@ declare function functx:substring-after-last-match
  : @return a map sequence with the article references from the identifiants.xml file
  : @rmq change [1] to the volume you want to transform
  :)
-let $doc := $local:base || 'identifiants_test.xml'
+let $doc := $local:base || 'identifiants.xml'
 let $refs := for $article in fn:doc($doc)//sp:article
 return map {
   'id' : fn:data($article/@id),
