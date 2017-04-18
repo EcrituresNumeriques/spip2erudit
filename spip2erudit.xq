@@ -3,9 +3,9 @@ xquery version "3.0" ;
 (:~
  : This module transforms SPIP XML export to erudit XML
  :
- : @version 0.4
+ : @version 0.5
  : @since 2015-11-04
- : @date 2017-04-13
+ : @date 2017-04-18
  : @author emchateau + lakonis
  :
  : traité 2017-04-13:
@@ -17,6 +17,9 @@ xquery version "3.0" ;
  :   - gestion <grtheme> Varia si n'appartient pas à un dossier
  :   - dans <grmotcles> suppression mots-clé titre de dossier, mot-clé admin
  :   - gestion attribut @typeart dans balise racine
+ : traité le 2017-04-18:
+ :   - cas particulier Sommaire de dossier : gestion attribut @idref, <surtitre>
+ :   - gestion balise <surtitre> pour article Varia (hors-dossier)
  : @todo br, num structure, titres h2 etc.
  : @todo object (vidéos)
  : @todo multiple p notes
@@ -62,8 +65,10 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
   for $ref in $refs
   return
     let $article := db:open('sens-public')//spip:spip_articles[spip:id_article = map:get($ref, 'num')]
-    let $ref := map:put( $ref, 'issue', getIssue($article/spip:id_article/text())[1] )
     let $ref := map:put( $ref, 'rubrique', map:get( $rubriques, $article/spip:id_rubrique/text()))
+    let $ref := if ($article/spip:id_rubrique/text() = '109') 
+                then map:put( $ref, 'issue', map:get($ref, 'num'))
+                else map:put( $ref, 'issue', getIssue($article/spip:id_article/text())[1] )
     let $file := map:get($ref, 'num') || '-article' || '.xml'
     let $article := getArticle($article, $ref)
     let $issue := map:get($ref, 'issue')
@@ -176,7 +181,7 @@ declare function getBiblio($content as element()) {
 
 (:~
  : This function gets the typeart
- : @param $rubrique the article's rubriqueto be tested
+ : @param $rubrique the article's rubrique to be tested
  : @return the restricted type of article according to Erudit Schema
  :)
 declare function getTypeart($rubrique as item()) {
@@ -435,11 +440,15 @@ declare function getLiminaire( $article as element(), $ref as map(*) ) as elemen
  :)
 declare function getTitre($article as element(), $ref as map(*) ) as element() {
   let $issue := map:get($ref, 'issue')
-  let $theme := db:open('sens-public')/spip:SPIP/spip:spip_articles[spip:id_article=$issue]/spip:titre
+  let $theme := if (map:get($ref, 'rubrique')='Sommaire dossier') 
+                then $article/spip:titre/text()
+                else if ($issue)
+                then db:open('sens-public')/spip:SPIP/spip:spip_articles[spip:id_article=$issue]/spip:titre/text()
+                else ("Varia")
   let $typeart := map:get( $ref, 'rubrique')
   return
   <grtitre>
-    <surtitre>{ $theme/text() }</surtitre>
+    <surtitre>{ $theme }</surtitre>
     <surtitre2>{ $typeart }</surtitre2>
     <titre>{ passthru($article/spip:titre, map{ '':'' }) }</titre>
     { if ( $article/spip:soustitre != () )
