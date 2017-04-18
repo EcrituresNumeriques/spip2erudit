@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028812ar" typeart="autre" lang="fr" horstheme="oui" ordseq="1">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.erudit.org/xsd/article" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd" qualtraitement="complet" idproprio="1028812ar" typeart="autre" lang="fr" idref="th1090" ordseq="1">
   <admin>
     <infoarticle>
       <idpublic scheme="doi">null</idpublic>
@@ -30,6 +30,20 @@
           <nomfamille>Vitali-Rosati</nomfamille>
         </nompers>
       </directeur>
+      <redacteurchef typerc="invite" sexe="masculin" idrefs="th1090">
+        <fonction lang="fr"/>
+        <nompers>
+          <prenom>Michael E.</prenom>
+          <nomfamille>Sinatra</nomfamille>
+        </nompers>
+      </redacteurchef>
+      <redacteurchef typerc="invite" sexe="masculin" idrefs="th1090">
+        <fonction lang="fr"/>
+        <nompers>
+          <prenom>Stéfan</prenom>
+          <nomfamille>Sinclair</nomfamille>
+        </nompers>
+      </redacteurchef>
     </revue>
     <numero id="sp01946">
       <pub>
@@ -38,8 +52,8 @@
       <pubnum>
         <date typedate="publication">2015-02-23</date>
       </pubnum>
-      <grtheme>
-        <theme>Varia</theme>
+      <grtheme id="th1090">
+        <theme>Repenser le numérique au 21ème siècle</theme>
       </grtheme>
     </numero>
     <editeur>
@@ -59,7 +73,7 @@
   </admin>
   <liminaire>
     <grtitre>
-      <surtitre/>
+      <surtitre>Repenser le numérique au 21ème siècle</surtitre>
       <surtitre2>Sommaire dossier</surtitre2>
       <titre>Repenser le numérique au 21ème siècle</titre>
     </grtitre>
