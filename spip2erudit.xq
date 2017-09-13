@@ -20,6 +20,16 @@ xquery version "3.0" ;
  : traité le 2017-04-18:
  :   - cas particulier Sommaire de dossier : gestion attribut @idref, <surtitre>
  :   - gestion balise <surtitre> pour article Varia (hors-dossier)
+ :
+ : traité le 2017-07-05 (traitement correctifs Erudit):
+ :   - ajout attribut image xlink:type (https://gitlab.erudit.org/EcrituresNumeriques/senspublic/commit/fabe452402ca8de73b9e6f153549fb78898357ea)
+ : traité le 2017-09-11/12 (traitements correctifs Erudit):
+     - traitement des balises vides (voir sur Notes Suivi correctif) :
+        - para/alinea vide
+        - liensimple pour des ancres vides (contrairement à Spip, on considèrera que les ancres de retour sont placées au niveau de la note et non du paragraphe qui contient la note)
+ : 	- 
+ :
+ : OLD TODO
  : @todo br, num structure, titres h2 etc.
  : @todo object (vidéos)
  : @todo multiple p notes
@@ -45,6 +55,7 @@ declare variable $local:groupes := fn:doc($local:base || 'groupes.xml') ;
  :)
 declare function writeArticles($refs as map(*)*) as document-node()* {
   let $path := $local:base || '/xml/'
+  let $pathtest := $local:base || '/xmltest/'
   let $rubriques := map {
   '55' : 'Revue en ligne',
   '58' : 'Essai',
@@ -73,7 +84,7 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
     let $article := getArticle($article, $ref)
     let $issue := map:get($ref, 'issue')
     let $article := if ($issue) then functx:remove-attributes($article, ('horstheme')) else functx:remove-attributes($article, ('idref'))
-    return file:write($path || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
+    return file:write($pathtest || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
 };
 
 
@@ -628,6 +639,7 @@ declare function p($node as element(spip:p)+, $options as map(*)) {
   case ( $node/spip:* instance of element(spip:figure) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
   case ( $node/spip:* instance of element(spip:audio) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
   case ( $node/spip:* instance of element(spip:blockquote) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
+  case ($node[fn:normalize-space(.)='']) return ()
   case ($node[fn:normalize-space(.)='Bibliographie'])
     return
       <grbiblio>
@@ -673,8 +685,14 @@ declare function a($node as element(spip:a)+, $options as map(*)) {
   switch ($node)
   case ($node[fn:contains(@href, 'sym')]) return <renvoi idref="{fn:substring-after($node/@href, '#')}" typeref="note">{ fn:data($node) }</renvoi>
   case ($node[fn:contains(@href, 'anc')]) return ()
+  case ($node[fn:not(@href)]) return ()
   default return <liensimple xlink:type="simple" xlink:href="{$node/@href}">{passthru($node, $options)}</liensimple>
+  
 };
+
+(: let $test := <a name='coucou'>coucou</a>
+return if ($test[not(@href)]) then "pas de href" else "y a un href"
+ :)
 
 (: @todo a[1] is potentially subject to bug :)
 declare function em($node as element(spip:em)+, $options as map(*)) {
@@ -722,7 +740,7 @@ declare function img($node as element(spip:img)+, $options as map(*)) {
            </legende>
       else () }
     <objetmedia flot="bloc">
-      <image id="{$imageName}" typeimage="figure">{
+      <image id="{$imageName}" typeimage="figure" xlink:type="simple">{
         if ($node/@alt) then attribute desc {fn:string($node/@alt)} else ()
       }</image>
     </objetmedia>
@@ -862,7 +880,7 @@ declare function functx:substring-after-last-match
  : @return a map sequence with the article references from the identifiants.xml file
  : @rmq change [1] to the volume you want to transform
  :)
-let $doc := $local:base || 'identifiants.xml'
+let $doc := $local:base || 'identifianttest.xml'
 let $refs := for $article in fn:doc($doc)//sp:article
 return map {
   'id' : fn:data($article/@id),
