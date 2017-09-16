@@ -1117,8 +1117,8 @@
     <entry>
         <label><multi>[fr]Roman[en]Fiction[it]Romanzi</multi></label>
         <url>http://catalogue.bnf.fr/ark:/12148/cb11940505s</url>
-        <id>Roman</id>
-        <term>FRBNF119405056</term>
+        <id>FRBNF119405056</id>
+        <term>Roman</term>
     </entry>
     <entry>
         <label><multi>[fr]Théâtre[en]Theater[it]Teatro</multi></label>
