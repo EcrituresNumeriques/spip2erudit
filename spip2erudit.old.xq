@@ -27,9 +27,6 @@ xquery version "3.0" ;
      - traitement des balises vides (voir sur Notes Suivi correctif) :
         - para/alinea vide
         - liensimple pour des ancres vides (contrairement à Spip, on considèrera que les ancres de retour sont placées au niveau de la note et non du paragraphe qui contient la note)
- :       
- : traité le 2017-09-18 (intégration de map keywords pour accélérer le script : les joins des "tables" sont fait en amont et les tables sont passés en arguments) 
- :       
  : 	- 
  :
  : OLD TODO
@@ -50,8 +47,6 @@ declare default function namespace 'local' ;
 
 declare variable $local:base := file:base-dir() ;
 declare variable $local:groupes := fn:doc($local:base || 'groupes.xml') ;
-
-
 
 
 (:~
@@ -78,38 +73,15 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
   '118': 'Lu sur le web',
   '119': '3. Autres informations'
   }
-  
-  (: construit une map clé-valeur avec id-article id.s-keyword.s :)
-  let $keywords_articles := db:open('sens-public')//spip:spip_mots_articles
-  let $mapArticleKeyword := map:merge(
-    for $keyword in $keywords_articles
-     return map {$keyword/spip:id_article : $keyword/spip:id_mot => fn:string()},
-     map { 'duplicates': 'combine' }
-    )
-
-  (: construit une map clé-valeur avec id-keyword keyword :)
-  let $Keywords := db:open('sens-public')//spip:spip_mots
-  (: return $Keywords :)
-  let $mapKeywords := map:merge(
-    for $keyword in $Keywords
-     return map {$keyword/spip:id_mot : $keyword/spip:titre => fn:string()},
-     map { 'duplicates': 'combine' }
-  )
-
   for $ref in $refs
   return
-    let $idArticle := map:get($ref, 'num')
-    let $article := db:open('sens-public')//spip:spip_articles[spip:id_article = $idArticle]
+    let $article := db:open('sens-public')//spip:spip_articles[spip:id_article = map:get($ref, 'num')]
     let $ref := map:put( $ref, 'rubrique', map:get( $rubriques, $article/spip:id_rubrique/text()))
     let $ref := if ($article/spip:id_rubrique/text() = '109') 
                 then map:put( $ref, 'issue', map:get($ref, 'num'))
                 else map:put( $ref, 'issue', getIssue($article/spip:id_article/text())[1] )
     let $file := map:get($ref, 'num') || '-article' || '.xml'
-    let $keywords := array { 
-                      for $idKeyword in $mapArticleKeyword($idArticle)
-                      return $mapKeywords($idKeyword)
-                     }
-    let $article := getArticle($article, $ref, $keywords)
+    let $article := getArticle($article, $ref)
     let $issue := map:get($ref, 'issue')
     let $article := if ($issue) then functx:remove-attributes($article, ('horstheme')) else functx:remove-attributes($article, ('idref'))
     return file:write($pathtest || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
@@ -125,13 +97,13 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
  : @todo solve the corps direct constructor by working on getRestruct
  : @todo define ordseq
  :)
-declare function getArticle( $article as element(), $ref as map(*), $keywords as array(*) ) as element() {
+declare function getArticle( $article as element(), $ref as map(*) ) as element() {
   let $content := getContent($article/spip:texte, map{ '':'' })
   let $corps := <corps>{ getRestruct(getCleaned($content)) }</corps>
   let $biblio := getBiblio($content)
   let $grnote := getNote($content)
-  let $liminaire := getLiminaire($article, $ref, $keywords)
-  let $admin := getAdmin($article, $corps, $biblio, $grnote, $ref, $keywords)
+  let $liminaire := getLiminaire($article, $ref)
+  let $admin := getAdmin($article, $corps, $biblio, $grnote, $ref)
   let $typeart := getTypeart(map:get( $ref, 'rubrique'))
   let $issue := map:get($ref, 'issue')
   let $idref := if ($issue) then ( 'th' || $issue ) else ()
@@ -285,11 +257,11 @@ declare function getRestruct($element as element()) {
  : @todo check if word count include notes etc.
  : @todo add numero id <numero id="approchesind02027">
  :)
-declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref as map(*), $keywords as array(*) ) as element() {
+declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref as map(*) ) as element() {
     <admin>
       <infoarticle>
         <idpublic scheme="doi">null</idpublic>
-        { getDescripteurs($article, $ref, $keywords) }
+        { getDescripteurs($article, $ref) }
         <nbpara>{ fn:count($corps//para) }</nbpara>
         <nbmot>{ functx:word-count(fn:string($corps)) }</nbmot>
         <nbfig>{ fn:count($corps//figure) }</nbfig>
@@ -340,15 +312,13 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref
  :
  : todo : ne pas prendre les mots-clé admin
  :)
-declare function getDescripteurs( $article as element(), $ref as map(*), $keywords as array(*) ) as element()* {
+declare function getDescripteurs( $article as element(), $ref as map(*) ) as element()* {
 let $descripteurs :=
-  (: for $id in db:open('sens-public')//spip:spip_mots_articles[spip:id_article = $article/spip:id_article]/spip:id_mot
-    let $mot := db:open('sens-public')//spip:spip_mots[spip:id_mot = $id] :)
-
-  for $mot at $num in 1 to array:size($keywords)
+  for $id in db:open('sens-public')//spip:spip_mots_articles[spip:id_article = $article/spip:id_article]/spip:id_mot
+    let $mot := db:open('sens-public')//spip:spip_mots[spip:id_mot = $id]
     let $entry := $local:groupes/sp:list/sp:entry
-  return if ( xs:string(fn:data($mot)) = fn:data($entry/sp:label))
-    then <descripteur>{ fn:data($entry[fn:data(sp:label) = fn:data($mot)]/sp:term) }</descripteur> (:Vérifier qu'on ait besoin de fn:data($mot) sur cette ligne et à la précédente.:)
+  return if ( fn:data($mot/spip:titre) = fn:data($entry/sp:label) )
+    then <descripteur>{ fn:data($entry[fn:data(sp:label) = fn:data($mot/spip:titre)]/sp:term) }</descripteur>
     else ()
 return if ($descripteurs)
   then <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">{$descripteurs}</grdescripteur>
@@ -463,12 +433,12 @@ declare function getTheme( $article as element(), $ref as map(*) ) as element() 
  : @param $article the SPIP article
  : @return the liminaire xml erudit element
  :)
-declare function getLiminaire( $article as element(), $ref as map(*), $keywords as array(*)  ) as element() {
+declare function getLiminaire( $article as element(), $ref as map(*) ) as element() {
   <liminaire>
     { getTitre($article, $ref),
       getAuteurs($article),
       getResume($article),
-      getMotclef($article, $ref, $keywords) }
+      getMotclef($article, $ref) }
   </liminaire>
 };
 
@@ -553,38 +523,23 @@ return
  : @return a sequence of grmotclef xml erudit element for various languages
  : @todo group by language fn:analyze-string($string, '\[([a-z]{2})\](.*?)')
  :)
-declare function getMotclef( $article as element(), $ref as map(*), $keywords as array(*)  ) as element() {
+declare function getMotclef( $article as element(), $ref as map(*) ) as element() {
   let $issue := map:get($ref, 'issue')
   let $theme := db:open('sens-public')/spip:SPIP/spip:spip_articles[spip:id_article=$issue]/spip:titre
-  let $lang := "fr"
   return
-  <grmotcle lang="{$lang}">
+  <grmotcle lang="fr">
     {
-      for $mot at $num in 1 to array:size($keywords)
-      return if (fn:starts-with($keywords($mot), '['))
-        then <motcle>{ getMultiKeywords($keywords($mot), $lang) }</motcle>
-        else if ($keywords($mot) = $theme/text()) then () 
-        else if ($keywords($mot) = "focus" ) then () 
-        else if ($keywords($mot) = "focuscreation" ) then () 
-        else if ($keywords($mot) = "essais" ) then () 
-        else <motcle>{ $keywords($mot) }</motcle>
+      for $id in db:open('sens-public')//spip:spip_mots_articles[spip:id_article = $article/spip:id_article]/spip:id_mot
+      let $mot := db:open('sens-public')//spip:spip_mots[spip:id_mot = $id]
+      return if ($mot/spip:titre/spip:multi)
+        then let $mot := fn:tokenize($mot/spip:titre/spip:multi/text(), '\[[a-z]{2}\]') return <motcle>{ $mot[2] }</motcle>
+        else if ($mot/spip:titre/text() = $theme/text()) then () 
+        else if ($mot/spip:titre/text() = "focus" ) then () 
+        else if ($mot/spip:titre/text() = "focuscreation" ) then () 
+        else if ($mot/spip:titre/text() = "essais" ) then () 
+        else <motcle>{ $mot/spip:titre/text() }</motcle>
     }
   </grmotcle>
-};
-
-(:~
- : this function returns a map of langage:keywords
- : @param a multi-language keyword : "[fr]Cinéma[en]Cinema[it]Cinema"
- : @return a map of items with language:keywords : "fr: Cinéma"
- :)
-declare function getMultiKeywords( $text as xs:string, $lang as xs:string ) as xs:string {
-  let $tokenizedText := array {fn:tokenize($text,"\[|\]")}
-  let $sizeLoop := array:size($tokenizedText) idiv 2 
-  let $mapLangKeyw := map:merge(
-    for $num in 1 to $sizeLoop
-    return map{ $tokenizedText($num*2) : $tokenizedText($num*2+1)}
-  )
-  return $mapLangKeyw($lang)
 };
 
 (:~
@@ -919,24 +874,6 @@ declare function functx:substring-after-last-match
 
    fn:replace($arg,fn:concat('^.*',$regex),'')
  };
-
-(: construit une map clé-valeur avec id-article id.s-auteur.s :)
-let $auteurs_articles := db:open('sens-public')//spip:spip_auteurs_articles
-let $mapArticleAuteur := map:merge(
-  for $article in $auteurs_articles
-   return map {$article/spip:id_article : $article/spip:id_auteur => fn:string()},
-   map { 'duplicates': 'combine' }
-  )
-
-(: construit une map clé-valeur avec id-auteur nom*prénom :)
-let $auteurs_articles := db:open('sens-public')//spip:spip_auteurs
-let $mapAuteurs := map:merge(
-  for $article in $auteurs_articles
-   return map {$article/spip:id_auteur : $article/spip:nom => fn:string()},
-   map { 'duplicates': 'combine' }
-  )
-
-
 
 (:~
  : This fuction gets the articles references
