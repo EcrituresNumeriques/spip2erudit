@@ -347,8 +347,8 @@ let $descripteurs :=
 
   for $mot at $num in 1 to array:size($keywords)
     let $entry := $local:groupes/sp:list/sp:entry
-  return if ( xs:string(fn:data($mot)) = fn:data($entry/sp:label))
-    then <descripteur>{ fn:data($entry[fn:data(sp:label) = fn:data($mot)]/sp:term) }</descripteur> (:Vérifier qu'on ait besoin de fn:data($mot) sur cette ligne et à la précédente.:)
+  return if ( $keywords($mot) = fn:data($entry/sp:label))
+    then <descripteur>{ fn:data($entry[fn:data(sp:label) = $keywords($mot)]/sp:term) }</descripteur> 
     else ()
 return if ($descripteurs)
   then <grdescripteur lang="fr" scheme="http://rameau.bnf.fr">{$descripteurs}</grdescripteur>
