@@ -61,6 +61,7 @@ declare variable $local:groupes := fn:doc($local:base || 'groupes.xml') ;
 declare function writeArticles($refs as map(*)*) as document-node()* {
   let $path := $local:base || '/xml/'
   let $pathtest := $local:base || '/xmltest/'
+  let $pathgitlab := '/home/nicolas/gitlab/senspublic/data/phase1/articleEN/'
   let $rubriques := map {
   '55' : 'Revue en ligne',
   '58' : 'Essai',
@@ -112,7 +113,7 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
     let $article := getArticle($article, $ref, $keywords)
     let $issue := map:get($ref, 'issue')
     let $article := if ($issue) then functx:remove-attributes($article, ('horstheme')) else functx:remove-attributes($article, ('idref'))
-    return file:write($pathtest || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
+    return file:write($pathgitlab || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
 };
 
 
