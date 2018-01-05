@@ -301,7 +301,7 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref
         <nbrefbiblio>{ fn:count($biblio//refbiblio) }</nbrefbiblio>
         <nbnote>{ fn:count($grnote//note) }</nbnote>
       </infoarticle>
-      <revue id="sp01868" lang="fr">
+      <revue id="sp02131" lang="fr">
         <titrerev>Sens public</titrerev>
         <titrerevabr>sp</titrerevabr>
         <idissnnum>2104-3272</idissnnum>
