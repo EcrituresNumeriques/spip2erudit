@@ -35,6 +35,7 @@ xquery version "3.0" ;
  :   - correction pour les figcaption de figure et pour les title de img (mais traitement manuel pour les autres pb, notamment les images codées en dur dans la base)
  : traité le 2018-01-06 (traitement correctifs Erudit):
  :   - id numero et id article = ""
+ :   - supp balise DOI (voir commit https://gitlab.erudit.org/EcrituresNumeriques/senspublic/commit/d580b7071d2f722e44c628ed7993ee265534f59b)
  : OLD TODO
  : @todo br, num structure, titres h2 etc.
  : @todo object (vidéos)
@@ -296,7 +297,6 @@ declare function getRestruct($element as element()) {
 declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref as map(*), $keywords as array(*) ) as element() {
     <admin>
       <infoarticle>
-        <idpublic scheme="doi">null</idpublic>
         { getDescripteurs($article, $ref, $keywords) }
         <nbpara>{ fn:count($corps//para) }</nbpara>
         <nbmot>{ functx:word-count(fn:string($corps)) }</nbmot>
