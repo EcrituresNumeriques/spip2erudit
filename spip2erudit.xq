@@ -33,7 +33,8 @@ xquery version "3.0" ;
  : traité le 2018-01-05 (traitement correctifs Erudit):
  :   - maj id revue voir commit https://gitlab.erudit.org/EcrituresNumeriques/senspublic/commit/11e86d9d7187c795c87955a1388ad1a2e8f35ab6
  :   - correction pour les figcaption de figure et pour les title de img (mais traitement manuel pour les autres pb, notamment les images codées en dur dans la base)
- :
+ : traité le 2018-01-06 (traitement correctifs Erudit):
+ :   - id numero et id article = ""
  : OLD TODO
  : @todo br, num structure, titres h2 etc.
  : @todo object (vidéos)
@@ -140,6 +141,8 @@ declare function getArticle( $article as element(), $ref as map(*), $keywords as
   let $idref := if ($issue) then ( 'th' || $issue ) else ()
   let $horstheme := if ($issue) then () else ("oui")
   let $ordseq := map:get($ref, 'n')
+(: idproprio="{map:get($ref, 'id')}" :)
+(: on conserve l'id article Erudit vide pour livraison Erudit:)
   return
     <article
       xmlns="http://www.erudit.org/xsd/article"
@@ -147,7 +150,7 @@ declare function getArticle( $article as element(), $ref as map(*), $keywords as
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd"
       qualtraitement="complet"
-      idproprio="{map:get($ref, 'id')}"
+      idproprio="" 
       typeart="{$typeart}"
       lang="{fn:data($article/spip:lang)}"
       idref="{$idref}"
@@ -288,6 +291,8 @@ declare function getRestruct($element as element()) {
  : @todo check if word count include notes etc.
  : @todo add numero id <numero id="approchesind02027">
  :)
+(: <numero id="{ map:get($ref, 'vol') }"> :)
+(: on conserve numero/@id vide pour Erudit :)
 declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref as map(*), $keywords as array(*) ) as element() {
     <admin>
       <infoarticle>
@@ -309,7 +314,8 @@ declare function getAdmin( $article as element(), $corps, $biblio, $grnote, $ref
         <idissnnum>2104-3272</idissnnum>
         { getDirector($article, $ref), getRedacteurchef($article, $ref) }
       </revue>
-      <numero id="{ map:get($ref, 'vol') }">
+      
+      <numero id=""> 
         <pub>
           <annee>{ getDate($article, 4) }</annee>
         </pub>
