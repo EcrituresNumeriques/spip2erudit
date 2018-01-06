@@ -840,7 +840,7 @@ declare function br($node as element(spip:br), $options as map(*)) {
  :)
 
 (:~
- : This function give an index of nodes
+ : This function gives an index of nodes
  : @source http://www.xqueryfunctions.com/xq/functx_index-of-node.html
  :)
 declare function functx:index-of-node($nodes as node()* ,
