@@ -31,7 +31,8 @@ xquery version "3.0" ;
  : traité le 2017-09-18 (intégration de map keywords pour accélérer le script : les joins des "tables" sont fait en amont et les tables sont passés en arguments) 
  :       
  : traité le 2018-01-05 (traitement correctifs Erudit):
- :   - correction pour les figcaption de figure et pour les title de img 
+ :   - maj id revue voir commit https://gitlab.erudit.org/EcrituresNumeriques/senspublic/commit/11e86d9d7187c795c87955a1388ad1a2e8f35ab6
+ :   - correction pour les figcaption de figure et pour les title de img (mais traitement manuel pour les autres pb, notamment les images codées en dur dans la base)
  :
  : OLD TODO
  : @todo br, num structure, titres h2 etc.
