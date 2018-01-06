@@ -30,7 +30,8 @@ xquery version "3.0" ;
  :       
  : traité le 2017-09-18 (intégration de map keywords pour accélérer le script : les joins des "tables" sont fait en amont et les tables sont passés en arguments) 
  :       
- : 	- 
+ : traité le 2018-01-05 (traitement correctifs Erudit):
+ :   - correction pour les figcaption de figure et pour les title de img 
  :
  : OLD TODO
  : @todo br, num structure, titres h2 etc.
@@ -778,16 +779,17 @@ declare function span($node as element(spip:span)+, $options as map(*)) {
 declare function img($node as element(spip:img)+, $options as map(*)) {
   let $regex := 'IMG/(\w){3}/'
   let $imageName := functx:substring-after-last-match($node/@src, $regex)
+  let $figcaption := $node/@title
   return
   <figure>
-    { if ($node/@alt != '')
+    { if ($figcaption)
       then <legende lang="fr">
-             <alinea>{$node/@alt}</alinea>
+             <alinea>{$figcaption}</alinea>
            </legende>
       else () }
     <objetmedia flot="bloc">
       <image id="{$imageName}" typeimage="figure" xlink:type="simple">{
-        if ($node/@alt) then attribute desc {fn:string($node/@alt)} else ()
+        if ($figcaption) then attribute desc {$figcaption} else ()
       }</image>
     </objetmedia>
   </figure>
@@ -795,13 +797,13 @@ declare function img($node as element(spip:img)+, $options as map(*)) {
 
 declare function figure($node as element(spip:figure)+, $options as map(*)) {
   <figure>
-    { if ($node/figcaption)
+    { if ($node/spip:figcaption)
       then <legende lang="fr">
-             <alinea>{$node/figcaption/text()}</alinea>
+             <alinea>{$node/spip:figcaption/text()}</alinea>
            </legende>
       else () }
     <objetmedia flot="bloc">
-      <image id="{$node/spip:img/@src}" typeimage="figure"/>
+      <image id="{$node/spip:img/@src}" typeimage="figure" xlink:type="simple"/>
     </objetmedia>
   </figure>
 };
@@ -944,12 +946,13 @@ let $mapAuteurs := map:merge(
  : @return a map sequence with the article references from the identifiants.xml file
  : @rmq change [1] to the volume you want to transform
  :)
-let $doc := $local:base || 'identifianttest.xml'
-let $refs := for $article in fn:doc($doc)//sp:article
+(: let $doc := $local:base || 'identifianttest.xml' :)
+let $doc := '/home/nicolas/gitlab/senspublic/data/phase1/articleErudit/identifiantsEchantillon.xml'
+let $refs := for $article in fn:doc($doc)//*:article
 return map {
   'id' : fn:data($article/@id),
   'num' : fn:data($article),
-  'vol' : fn:data($article/parent::sp:*/@id),
+  'vol' : fn:data($article/parent::*/@id),
   'n' : fn:data($article/@n)
   }
 
