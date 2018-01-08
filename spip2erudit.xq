@@ -39,6 +39,10 @@ xquery version "3.0" ;
  : traité le 2018-01-07 (traitement correctifs Erudit):
  :   - prise en compte des balises <cite>
  :   - suppression balise <exposant> contenant un espace insécable
+ : traité le 2018-01-08 (traitement correctifs Erudit):
+ :   - traitement balise marquage vide 
+ :   - élargissement de l'échantillon et réorganisation des dossiers de sortie
+ :   - todo: affiner le test sur spip:a qui évacue tous les liens contenant "anc"
  : OLD TODO
  : @todo br, num structure, titres h2 etc.
  : @todo object (vidéos)
@@ -108,6 +112,7 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
   return
     let $idArticle := map:get($ref, 'num')
     let $article := db:open('sens-public')//spip:spip_articles[spip:id_article = $idArticle]
+    
     let $ref := map:put( $ref, 'rubrique', map:get( $rubriques, $article/spip:id_rubrique/text()))
     let $ref := if ($article/spip:id_rubrique/text() = '109') 
                 then map:put( $ref, 'issue', map:get($ref, 'num'))
@@ -120,7 +125,8 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
     let $article := getArticle($article, $ref, $keywords)
     let $issue := map:get($ref, 'issue')
     let $article := if ($issue) then functx:remove-attributes($article, ('horstheme')) else functx:remove-attributes($article, ('idref'))
-    return file:write($pathgitlab || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
+    let $annee := $article//annee
+    return file:write($pathgitlab || $annee || '/' || $file, $article, map { 'method' : 'xml', 'indent' : 'yes', 'omit-xml-declaration' : 'no'})
 };
 
 
@@ -767,6 +773,8 @@ declare function em($node as element(spip:em)+, $options as map(*)) {
   switch ($node)
   case ($node/spip:span[1]/spip:a[1][fn:contains(@href, 'sym')]) return passthru($node, $options)
   case ($node/spip:a[1][fn:contains(@href, 'sym')]) return passthru($node, $options)
+  case ($node[fn:normalize-space(.) = ' ']) return passthru($node, $options)
+  case ($node[fn:normalize-space(.) = '']) return ()
   default return <marquage typemarq="italique">{ passthru($node, $options) }</marquage>
 };
 
@@ -774,6 +782,8 @@ declare function i($node as element(spip:i)+, $options as map(*)) {
   switch ($node)
   case ($node/spip:span[1]/spip:a[1][fn:contains(@href, 'sym')]) return passthru($node, $options)
   case ($node/spip:a[1][fn:contains(@href, 'sym')]) return passthru($node, $options)
+  case ($node[fn:normalize-space(.) = ' ']) return passthru($node, $options)
+  case ($node[fn:normalize-space(.) = '']) return ()
   default return <marquage typemarq="italique">{ passthru($node, $options) }</marquage>
 };
 
@@ -969,7 +979,7 @@ let $mapAuteurs := map:merge(
  : @rmq change [1] to the volume you want to transform
  :)
 (: let $doc := $local:base || 'identifianttest.xml' :)
-let $doc := '/home/nicolas/gitlab/senspublic/data/phase1/articleErudit/identifiantsEchantillon.xml'
+let $doc := '/home/nicolas/gitlab/senspublic/data/phase1/articleEN/identifiantsEchantillon2.xml'
 let $refs := for $article in fn:doc($doc)//*:article
 return map {
   'id' : fn:data($article/@id),
