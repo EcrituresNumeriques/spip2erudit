@@ -23,7 +23,7 @@
 		<article n="8" id="1028819ar">1011</article>
 		<article n="9" id="1028820ar">990</article>
 		<article n="10" id="1028821ar">997</article>
-		<article n="11" id="1028822ar">1123</article>
+		<article n="11" id="1028822ar">1123</article> <!-- erreur, il s'agit de 1023 pour le dossier 1090 -->
 		<!-- varia -->
 		<article n="12" id="1907ear">1178</article>
 		<article n="13" id="1906ear">1176</article>
@@ -36,7 +36,7 @@
 		<article n="20" id="1895ear">1167</article>
 		<article n="21" id="1894ear">1166</article>
 		<article n="22" id="1893ear">1165</article>
-		
+
 	</livraison>
 	<livraison id="sp063">
 		<article n="1" id="1904ear">1059</article>
@@ -52,7 +52,7 @@
 		<article n="10" id="1910ear">1182</article>
 		<article n="11" id="1911ear">1181</article>
 		<article n="12" id="1909ear">1180</article>
-		<article n="13" id="1908ear">1179</article>	
+		<article n="13" id="1908ear">1179</article>
 	</livraison>
 	<!-- Varia : 1124, 1110, 1131, 1132, 1169 -->
 	<livraison id="sp064">
