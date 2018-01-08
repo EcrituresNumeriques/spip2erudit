@@ -36,6 +36,9 @@ xquery version "3.0" ;
  : traité le 2018-01-06 (traitement correctifs Erudit):
  :   - id numero et id article = ""
  :   - supp balise DOI (voir commit https://gitlab.erudit.org/EcrituresNumeriques/senspublic/commit/d580b7071d2f722e44c628ed7993ee265534f59b)
+ : traité le 2018-01-07 (traitement correctifs Erudit):
+ :   - prise en compte des balises <cite>
+ :   - suppression balise <exposant> contenant un espace insécable
  : OLD TODO
  : @todo br, num structure, titres h2 etc.
  : @todo object (vidéos)
@@ -622,6 +625,7 @@ declare function dispatch($node as node()*, $options as map(*)) as item()* {
     case element(spip:h4) return h4($node, $options)
     case element(spip:p) return p($node, $options)
     case element(spip:blockquote) return blockquote($node, $options)
+    case element(spip:cite) return cite($node, $options)
     case element(spip:ul) return ul($node, $options)
     case element(spip:li) return li($node, $options)
     case element(spip:a) return a($node, $options)
@@ -693,6 +697,7 @@ declare function p($node as element(spip:p)+, $options as map(*)) {
   case ( $node/spip:* instance of element(spip:figure) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
   case ( $node/spip:* instance of element(spip:audio) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
   case ( $node/spip:* instance of element(spip:blockquote) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
+  case ( $node/spip:* instance of element(spip:cite) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
   case ($node[fn:normalize-space(.)='']) return ()
   case ($node[fn:normalize-space(.)='Bibliographie'])
     return
@@ -719,6 +724,15 @@ declare function p($node as element(spip:p)+, $options as map(*)) {
 (: @todo refine :)
 declare function blockquote($node as element(spip:blockquote)+, $options as map(*)) {
   <bloccitation><alinea>{ passthru($node, $options) }</alinea></bloccitation>
+};
+
+(: ajout d'une fonction cite() qui nécessitera un post-traitement manuel :)
+declare function cite($node as element(spip:cite)+, $options as map(*)) {
+  switch ($node)
+  case ($node[parent::spip:blockquote]) return passthru($node, $options)
+  case ($node[parent::spip:p]) return<citation>{passthru($node, $options)}</citation>
+  default return passthru($node,$options)
+
 };
 
 declare function ul($node as element(spip:ul)+, $options as map(*)) {
@@ -770,6 +784,7 @@ declare function strong($node as element(spip:strong)+, $options as map(*)) {
 declare function sup($node as element(spip:sup)+, $options as map(*)) {
   switch ($node)
   case ($node[fn:contains(@href, 'sym')]) return passthru($node, $options)
+  case ($node[fn:normalize-space(.) = ' ']) return ()
   case ($node[fn:normalize-space(.) != '']) return <exposant>{ passthru($node, $options) }</exposant>
   default return ()
 };
