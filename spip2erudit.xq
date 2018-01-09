@@ -701,13 +701,13 @@ declare function h4($node as element(spip:h4)+, $options as map(*)) {
 (: @issue bug with multiple p notes ex 1139, note 1 :)
 declare function p($node as element(spip:p)+, $options as map(*)) {
   switch ($node)
-  case ( $node/spip:* instance of element(spip:img) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
-  case ( $node/spip:* instance of element(spip:figure) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
-  case ( $node/spip:* instance of element(spip:audio) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
+  case ( $node/child::*[1] instance of element(spip:img)   and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
+  case ( $node/spip:* instance of element(spip:figure)     and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
+  case ( $node/spip:* instance of element(spip:audio)      and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
   case ( $node/spip:* instance of element(spip:blockquote) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
-  case ( $node/spip:* instance of element(spip:cite) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
-  case ($node[fn:normalize-space(.)='']) return ()
-  case ($node[fn:normalize-space(.)='Bibliographie'])
+  case ( $node/spip:* instance of element(spip:cite)       and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
+  case ( $node[fn:normalize-space(.)=''] and (fn:not($node/child::*))) return ()
+  case ( $node[fn:normalize-space(.)='Bibliographie'])
     return
       <grbiblio>
         <biblio/>
@@ -812,31 +812,30 @@ declare function span($node as element(spip:span)+, $options as map(*)) {
 };
 
 
-(: @todo other elements available in erudit xml :)
+(: @todo pourquoi les images /p/img ne sortent pas... :)
 declare function img($node as element(spip:img)+, $options as map(*)) {
   let $regex := 'IMG/(\w){3}/'
   let $imageName := functx:substring-after-last-match($node/@src, $regex)
-  let $figcaption := $node/@title
-  return
-  <figure>
+  (: @todo quelques images ont attribut name au lieu de title  :)
+  let $figcaption := fn:data($node/@title)
+  return <figure>
     { if ($figcaption)
       then <legende lang="fr">
              <alinea>{$figcaption}</alinea>
            </legende>
       else () }
-    <objetmedia flot="bloc">
-      <image id="{$imageName}" typeimage="figure" xlink:type="simple">{
-        if ($figcaption) then attribute desc {$figcaption} else ()
-      }</image>
-    </objetmedia>
-  </figure>
+      <objetmedia flot="bloc">
+        <image id="{$imageName}" typeimage="figure" xlink:type="simple"></image>
+      </objetmedia>
+    </figure>
 };
+
 
 declare function figure($node as element(spip:figure)+, $options as map(*)) {
   <figure>
     { if ($node/spip:figcaption)
       then <legende lang="fr">
-             <alinea>{$node/spip:figcaption/text()}</alinea>
+             <alinea>{ passthru($node/spip:figcaption, $options) }</alinea>
            </legende>
       else () }
     <objetmedia flot="bloc">
