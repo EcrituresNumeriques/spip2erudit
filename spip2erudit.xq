@@ -40,9 +40,11 @@ xquery version "3.0" ;
  :   - prise en compte des balises <cite>
  :   - suppression balise <exposant> contenant un espace insécable
  : traité le 2018-01-08 (traitement correctifs Erudit):
- :   - traitement balise marquage vide 
+ :   - traitement balise marquage vide i, em, strong
  :   - élargissement de l'échantillon et réorganisation des dossiers de sortie
- :   - todo: affiner le test sur spip:a qui évacue tous les liens contenant "anc"
+ :   - affinage du test sur spip:a qui évacue tous les potentiels liens externes contenant "anc" ou "sym" -> fn:ends-with
+ :
+ :
  : OLD TODO
  : @todo br, num structure, titres h2 etc.
  : @todo object (vidéos)
@@ -712,14 +714,14 @@ declare function p($node as element(spip:p)+, $options as map(*)) {
       </grbiblio>
   case ($node[fn:normalize-space(.)='Notes']) return
       <grnote/>
-  case ($node[spip:a[fn:contains(@href, 'anc')]]) return
+  case ($node[spip:a[fn:ends-with(@href, 'anc')]]) return
     <note id="{$node/spip:a/@name}">{
            (<no>{ passthru($node/spip:a[1], $options) }</no>,
            <alinea>{ passthru($node, $options) }</alinea>
          )
          }</note>
   case ($node[parent::spip:li]) return <alinea>{ passthru($node, $options) }</alinea>
-  case ($node[preceding-sibling::spip:a[fn:contains(@href, 'anc')]]) return
+  case ($node[preceding-sibling::spip:a[fn:ends-with(@href, 'anc')]]) return
     <alinea>{ passthru($node, $options) }</alinea>
   default return
     <para>
@@ -757,8 +759,8 @@ declare function li($node as element(spip:li)+, $options as map(*)) {
 
 declare function a($node as element(spip:a)+, $options as map(*)) {
   switch ($node)
-  case ($node[fn:contains(@href, 'sym')]) return <renvoi idref="{fn:substring-after($node/@href, '#')}" typeref="note">{ fn:data($node) }</renvoi>
-  case ($node[fn:contains(@href, 'anc')]) return ()
+  case ($node[fn:ends-with(@href, 'sym')]) return <renvoi idref="{fn:substring-after($node/@href, '#')}" typeref="note">{ fn:data($node) }</renvoi>
+  case ($node[fn:ends-with(@href, 'anc')]) return ()
   case ($node[fn:not(@href)]) return ()
   default return <liensimple xlink:type="simple" xlink:href="{$node/@href}">{passthru($node, $options)}</liensimple>
   
@@ -771,8 +773,8 @@ return if ($test[not(@href)]) then "pas de href" else "y a un href"
 (: @todo a[1] is potentially subject to bug :)
 declare function em($node as element(spip:em)+, $options as map(*)) {
   switch ($node)
-  case ($node/spip:span[1]/spip:a[1][fn:contains(@href, 'sym')]) return passthru($node, $options)
-  case ($node/spip:a[1][fn:contains(@href, 'sym')]) return passthru($node, $options)
+  case ($node/spip:span[1]/spip:a[1][fn:ends-with(@href, 'sym')]) return passthru($node, $options)
+  case ($node/spip:a[1][fn:ends-with(@href, 'sym')]) return passthru($node, $options)
   case ($node[fn:normalize-space(.) = ' ']) return passthru($node, $options)
   case ($node[fn:normalize-space(.) = '']) return ()
   default return <marquage typemarq="italique">{ passthru($node, $options) }</marquage>
@@ -780,20 +782,23 @@ declare function em($node as element(spip:em)+, $options as map(*)) {
 
 declare function i($node as element(spip:i)+, $options as map(*)) {
   switch ($node)
-  case ($node/spip:span[1]/spip:a[1][fn:contains(@href, 'sym')]) return passthru($node, $options)
-  case ($node/spip:a[1][fn:contains(@href, 'sym')]) return passthru($node, $options)
+  case ($node/spip:span[1]/spip:a[1][fn:ends-with(@href, 'sym')]) return passthru($node, $options)
+  case ($node/spip:a[1][fn:ends-with(@href, 'sym')]) return passthru($node, $options)
   case ($node[fn:normalize-space(.) = ' ']) return passthru($node, $options)
   case ($node[fn:normalize-space(.) = '']) return ()
   default return <marquage typemarq="italique">{ passthru($node, $options) }</marquage>
 };
 
 declare function strong($node as element(spip:strong)+, $options as map(*)) {
-  <marquage typemarq="gras">{ passthru($node, $options) }</marquage>
+  switch($node)
+  case ($node[fn:normalize-space(.) = ' ']) return passthru($node, $options)
+  case ($node[fn:normalize-space(.) = '']) return ()
+  default return <marquage typemarq="gras">{ passthru($node, $options) }</marquage>
 };
 
 declare function sup($node as element(spip:sup)+, $options as map(*)) {
   switch ($node)
-  case ($node[fn:contains(@href, 'sym')]) return passthru($node, $options)
+  case ($node[fn:ends-with(@href, 'sym')]) return passthru($node, $options)
   case ($node[fn:normalize-space(.) = ' ']) return ()
   case ($node[fn:normalize-space(.) != '']) return <exposant>{ passthru($node, $options) }</exposant>
   default return ()
