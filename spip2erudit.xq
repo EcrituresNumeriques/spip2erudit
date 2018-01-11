@@ -43,6 +43,8 @@ xquery version "3.0" ;
  :   - traitement balise marquage vide i, em, strong
  :   - élargissement de l'échantillon et réorganisation des dossiers de sortie
  :   - affinage du test sur spip:a qui évacue tous les potentiels liens externes contenant "anc" ou "sym" -> fn:ends-with
+ : traité le 2018-01-10 (traitement correctifs Erudit):
+ :   - trouvé une solution pour sortir les images des paragraphes <p><img/></p> => <figure>
  :
  :
  : OLD TODO
@@ -699,35 +701,48 @@ declare function h4($node as element(spip:h4)+, $options as map(*)) {
 
 (: @todo alinea with br :)
 (: @issue bug with multiple p notes ex 1139, note 1 :)
+(: replaced switch/case with if then else following this answer https://stackoverflow.com/a/48198596/5341625 :)
 declare function p($node as element(spip:p)+, $options as map(*)) {
-  switch ($node)
-  case ( $node/child::*[1] instance of element(spip:img)   and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
-  case ( $node/spip:* instance of element(spip:figure)     and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
-  case ( $node/spip:* instance of element(spip:audio)      and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
-  case ( $node/spip:* instance of element(spip:blockquote) and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
-  case ( $node/spip:* instance of element(spip:cite)       and fn:not($node/text()[fn:normalize-space(.) != '']) ) return passthru($node, $options)
-  case ( $node[fn:normalize-space(.)=''] and (fn:not($node/child::*))) return ()
-  case ( $node[fn:normalize-space(.)='Bibliographie'])
-    return
+    if (
+    (
+      $node/* instance of element(spip:img) 
+      or $node/* instance of element(spip:figure) 
+      or $node/* instance of element(spip:blockquote)
+      or $node/* instance of element(spip:audio)
+      or $node/* instance of element(spip:cite)
+    ) 
+    and fn:not($node/text()[fn:normalize-space(.)])
+  ) then passthru($node, $options)
+    else if (
+      $node[fn:normalize-space(.)=''] and (fn:not($node/child::*))
+    ) then ()
+    else if (
+      $node[fn:normalize-space(.)='Bibliographie']
+    ) then
       <grbiblio>
         <biblio/>
       </grbiblio>
-  case ($node[fn:normalize-space(.)='Notes']) return
-      <grnote/>
-  case ($node[spip:a[fn:ends-with(@href, 'anc')]]) return
-    <note id="{$node/spip:a/@name}">{
+    else if (
+      $node[fn:normalize-space(.)='Notes']
+    ) then <grnote/>
+    else if (
+      $node[spip:a[fn:ends-with(@href, 'anc')]]
+    ) then 
+      <note id="{$node/spip:a/@name}">{
            (<no>{ passthru($node/spip:a[1], $options) }</no>,
            <alinea>{ passthru($node, $options) }</alinea>
          )
          }</note>
-  case ($node[parent::spip:li]) return <alinea>{ passthru($node, $options) }</alinea>
-  case ($node[preceding-sibling::spip:a[fn:ends-with(@href, 'anc')]]) return
-    <alinea>{ passthru($node, $options) }</alinea>
-  default return
-    <para>
-      <alinea>{ passthru($node, $options) }</alinea>
-    </para>
+    else if (
+      $node[parent::spip:li]
+      or $node[preceding-sibling::spip:a[fn:ends-with(@href, 'anc')]]
+    ) then <alinea>{ passthru($node, $options) }</alinea>
+    else
+      <para>
+        <alinea>{ passthru($node, $options) }</alinea>
+      </para>
 };
+
 
 (: @todo refine :)
 declare function blockquote($node as element(spip:blockquote)+, $options as map(*)) {
