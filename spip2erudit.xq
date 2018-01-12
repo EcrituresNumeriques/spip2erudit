@@ -45,6 +45,8 @@ xquery version "3.0" ;
  :   - affinage du test sur spip:a qui évacue tous les potentiels liens externes contenant "anc" ou "sym" -> fn:ends-with
  : traité le 2018-01-10 (traitement correctifs Erudit):
  :   - trouvé une solution pour sortir les images des paragraphes <p><img/></p> => <figure>
+ : traité le 2018-01-12 (traitement correctifs Erudit):
+ :   - traitement horstheme='oui' -> pas de grtheme voir https://gitlab.erudit.org/EcrituresNumeriques/senspublic/commit/852fdf6da297abd7ad3538944cf3f59f82bbea49
  :
  :
  : OLD TODO
@@ -464,11 +466,7 @@ declare function getTheme( $article as element(), $ref as map(*) ) as element() 
          <theme>{$theme/text()}</theme>
     </grtheme>
   )
-  else (
-    <grtheme>
-         <theme>Varia</theme>
-    </grtheme>    
-  )
+  else ()
 )
    
 };
