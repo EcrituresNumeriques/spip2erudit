@@ -47,7 +47,7 @@ xquery version "3.0" ;
  :   - trouvé une solution pour sortir les images des paragraphes <p><img/></p> => <figure>
  : traité le 2018-01-12 (traitement correctifs Erudit):
  :   - traitement horstheme='oui' -> pas de grtheme voir https://gitlab.erudit.org/EcrituresNumeriques/senspublic/commit/852fdf6da297abd7ad3538944cf3f59f82bbea49
- :
+ :   - traitement des bibliographies : amélioration du test pour p/biblio et ajout test h2/biblio pour article 1152, 1184
  :
  : OLD TODO
  : @todo br, num structure, titres h2 etc.
@@ -466,7 +466,7 @@ declare function getTheme( $article as element(), $ref as map(*) ) as element() 
          <theme>{$theme/text()}</theme>
     </grtheme>
   )
-  else ()
+  else <grtheme/>
 )
    
 };
@@ -685,8 +685,16 @@ declare function h1($node as element(spip:h1)+, $options as map(*)) {
 };
 
 (: @todo treat titles level :)
+(: bibliographie dans h2 pour articles 1152, 1184  :)
 declare function h2($node as element(spip:h2)+, $options as map(*)) {
-  <titre2>{ passthru($node, $options) }</titre2>
+    if (
+      fn:starts-with(fn:normalize-space($node), 'Bibliographie')
+    )    
+    then
+      <grbiblio>
+        <biblio/>
+      </grbiblio>
+    else <titre2>{ passthru($node, $options) }</titre2>
 };
 
 declare function h3($node as element(spip:h3)+, $options as map(*)) {
@@ -715,7 +723,7 @@ declare function p($node as element(spip:p)+, $options as map(*)) {
       $node[fn:normalize-space(.)=''] and (fn:not($node/child::*))
     ) then ()
     else if (
-      $node[fn:normalize-space(.)='Bibliographie']
+      fn:starts-with(fn:normalize-space($node), 'Bibliographie')
     ) then
       <grbiblio>
         <biblio/>
