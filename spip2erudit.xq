@@ -48,6 +48,9 @@ xquery version "3.0" ;
  : traité le 2018-01-12 (traitement correctifs Erudit):
  :   - traitement horstheme='oui' -> pas de grtheme voir https://gitlab.erudit.org/EcrituresNumeriques/senspublic/commit/852fdf6da297abd7ad3538944cf3f59f82bbea49
  :   - traitement des bibliographies : amélioration du test pour p/biblio et ajout test h2/biblio pour article 1152, 1184
+ : traité le 2018-01-17 (traitement correctifs Erudit):
+ :   - viré la déclaration xmlns:xlink qui s'ajoute partout.. solution possible, ajouter dans la fonction p un namespace pour para (pas solutionné..)
+ :   - fonction getTheme can return ()
  :
  : OLD TODO
  : @todo br, num structure, titres h2 etc.
@@ -161,9 +164,8 @@ declare function getArticle( $article as element(), $ref as map(*), $keywords as
 (: on conserve l'id article Erudit vide pour livraison Erudit:)
   return
     <article
-      xmlns="http://www.erudit.org/xsd/article"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.erudit.org/xsd/article"
       xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/3.0.0/eruditarticle.xsd"
       qualtraitement="complet"
       idproprio="" 
@@ -458,7 +460,7 @@ declare function getIssue( $idSeq as xs:string* ) as xs:string* {
  :
  : @todo add a treatment for theme mixed content
  :)
-declare function getTheme( $article as element(), $ref as map(*) ) as element() {
+declare function getTheme( $article as element(), $ref as map(*) )  {
   let $issue := map:get($ref, 'issue')
   let $theme := db:open('sens-public')/spip:SPIP/spip:spip_articles[spip:id_article=$issue]/spip:titre
   return (if ($issue) then (
@@ -466,7 +468,7 @@ declare function getTheme( $article as element(), $ref as map(*) ) as element() 
          <theme>{$theme/text()}</theme>
     </grtheme>
   )
-  else <grtheme/>
+  else ()
 )
    
 };
