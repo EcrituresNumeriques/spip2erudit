@@ -1005,8 +1005,9 @@ let $mapAuteurs := map:merge(
  : @return a map sequence with the article references from the identifiants.xml file
  : @rmq change [1] to the volume you want to transform
  :)
-(: let $doc := $local:base || 'identifianttest.xml' :)
-let $doc := '/home/nicolas/gitlab/senspublic/data/phase1/articleEN/identifiantsEchantillon2.xml'
+  (: pour traiter un seul fichier, lancer sur un fichier identifiant unique :)
+  (: let $doc := '/home/nicolas/gitlab/SP-archives/articleEN/identifiantsSP1145.xml' :)
+let $doc := $local:base || 'identifianttest.xml'
 let $refs := for $article in fn:doc($doc)//*:article
 return map {
   'id' : fn:data($article/@id),
