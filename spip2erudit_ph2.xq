@@ -17,6 +17,12 @@ xquery version "3.0" ;
  : @todo br, num structure, titres h2 etc.
  : @todo object (vidéos)
  : @todo multiple p notes
+ :
+ : Traité (phase 2) 30jan2018
+ : - traite les articles du csv
+ : - précise le test sur "Notes" pour <grnote/>
+ : - récupère l'ordseq depuis le csv
+ : 
  :)
 
 declare default element namespace 'http://www.erudit.org/xsd/article' ;
@@ -694,7 +700,7 @@ declare function p($node as element(spip:p)+, $options as map(*)) {
         <biblio/>
       </grbiblio>
     else if (
-      $node[fn:normalize-space(.)='Notes']
+      fn:starts-with(fn:normalize-space($node), 'Notes')
     ) then <grnote/>
     else if (
       $node[spip:a[fn:ends-with(@href, 'anc')]]
@@ -771,7 +777,7 @@ declare function i($node as element(spip:i)+, $options as map(*)) {
   case ($node/spip:span[1]/spip:a[1][fn:ends-with(@href, 'sym')]) return passthru($node, $options)
   case ($node/spip:a[1][fn:ends-with(@href, 'sym')]) return passthru($node, $options)
   case ($node[fn:normalize-space(.) = ' ']) return passthru($node, $options)
-  case ($node[fn:normalize-space(.) = '']) return ()
+  case ($node[fn:normalize-space(.) = '']) return 'XXvXX '
   default return <marquage typemarq="italique">{ passthru($node, $options) }</marquage>
 };
 
@@ -977,7 +983,7 @@ return map {
   'id' : fn:data($record/*:rubrique),
   'num' : fn:data($record/*:id),
   'vol' : fn:data($record/*:dossier),
-  'n' : '1'
+  'n' : fn:data($record/*:ordseq)
   }
 
 return writeArticles($refs)
