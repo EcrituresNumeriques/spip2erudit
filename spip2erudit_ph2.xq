@@ -21,7 +21,10 @@ xquery version "3.0" ;
  : Traité (phase 2) 30jan2018
  : - traite les articles du csv
  : - précise le test sur "Notes" pour <grnote/>
- : - récupère l'ordseq depuis le csv
+ : - récupère l'ordseq depuis le csv :
+ : Traité (phase 2) 14fev2018
+ : - recupere la rubrique (corrigée selon #essais) depuis le csv et non depuis la base spip
+
  : 
  :)
 
@@ -90,7 +93,7 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
     return if (fn:data($article/spip:status) != 'publie') 
     then () 
     else
-    let $ref := map:put( $ref, 'rubrique', map:get( $rubriques, $article/spip:id_rubrique/text()))
+    let $ref := map:put( $ref, 'rubrique', map:get( $rubriques, map:get($ref, 'rubnum')))
     let $ref := if ($article/spip:id_rubrique/text() = '109') 
                 then map:put( $ref, 'issue', map:get($ref, 'num'))
                 else map:put( $ref, 'issue', getIssue($article/spip:id_article/text())[1] )
@@ -217,6 +220,7 @@ declare function getBiblio($content as element()) {
  : @return the restricted type of article according to Erudit Schema
  :)
 declare function getTypeart($rubrique as item()) {
+(: ajouter une règle, si mot-clé #essais, passer en article quelque soit la rubrique :)
     if			($rubrique = "Essai") 	then "article"
     else if ($rubrique = "Lecture") then "compterendu"
     else																 "autre"
@@ -978,9 +982,9 @@ let $options := map { 'separator': 'semicolon', 'header': "true", 'format':'dire
 let $csv := fn:unparsed-text($local:base || 'SP20151007_ALL_KJ.csv')
 let $baserefs := csv:parse($csv, $options )
 
-let $refs := for $record in $baserefs//*:record[fn:substring(fn:data(*:datePub),1,4) >= '2003']
+let $refs := for $record in $baserefs//*:record[fn:substring(fn:data(*:datePub),1,4) >= '2015']
 return map {
-  'id' : fn:data($record/*:rubrique),
+  'rubnum' : fn:data($record/*:rubrique4Erudit),
   'num' : fn:data($record/*:id),
   'vol' : fn:data($record/*:dossier),
   'n' : fn:data($record/*:ordseq)
