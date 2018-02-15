@@ -24,6 +24,8 @@ xquery version "3.0" ;
  : - récupère l'ordseq depuis le csv :
  : Traité (phase 2) 14fev2018
  : - recupere la rubrique (corrigée selon #essais) depuis le csv et non depuis la base spip
+ : Traité (phase 2) 15fev2018
+ : - ne prend en compte que les articles de la base csv ayant un ordseq.
 
  : 
  :)
@@ -982,12 +984,15 @@ let $options := map { 'separator': 'semicolon', 'header': "true", 'format':'dire
 let $csv := fn:unparsed-text($local:base || 'SP20151007_ALL_KJ.csv')
 let $baserefs := csv:parse($csv, $options )
 
-let $refs := for $record in $baserefs//*:record[fn:substring(fn:data(*:datePub),1,4) >= '2015']
-return map {
-  'rubnum' : fn:data($record/*:rubrique4Erudit),
-  'num' : fn:data($record/*:id),
-  'vol' : fn:data($record/*:dossier),
-  'n' : fn:data($record/*:ordseq)
-  }
+let $refs := for $record in $baserefs//*:record[fn:substring(fn:data(*:datePub),1,4) = '2011']
+  return 
+    if ($record/*:ordseq != '') then
+     map {
+      'rubnum' : fn:data($record/*:rubrique4Erudit),
+      'num' : fn:data($record/*:id),
+      'vol' : fn:data($record/*:dossier),
+      'n' : fn:data($record/*:ordseq)
+     }
+   else ()
 
 return writeArticles($refs)
