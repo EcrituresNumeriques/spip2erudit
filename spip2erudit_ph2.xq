@@ -96,9 +96,10 @@ declare function writeArticles($refs as map(*)*) as document-node()* {
     then () 
     else
     let $ref := map:put( $ref, 'rubrique', map:get( $rubriques, map:get($ref, 'rubnum')))
-    let $ref := if ($article/spip:id_rubrique/text() = '109') 
+    (: remplacé par colonne dossier dans csv :)
+    (: let $ref := if ($article/spip:id_rubrique/text() = '109') 
                 then map:put( $ref, 'issue', map:get($ref, 'num'))
-                else map:put( $ref, 'issue', getIssue($article/spip:id_article/text())[1] )
+                else map:put( $ref, 'issue', getIssue($article/spip:id_article/text())[1] ) :)
     let $file := map:get($ref, 'num') || '-article' || '.xml'
     let $keywords := array { 
                       for $idKeyword in $mapArticleKeyword($idArticle)
@@ -478,7 +479,7 @@ declare function getLiminaire( $article as element(), $ref as map(*), $keywords 
  :)
 declare function getTitre($article as element(), $ref as map(*) ) as element() {
   let $issue := map:get($ref, 'issue')
-  let $theme := if (map:get($ref, 'rubrique')='Sommaire dossier') 
+  let $theme := if (map:get($ref, 'rubnum') = map:get($ref, 'num')) 
                 then $article/spip:titre/text()
                 else if ($issue)
                 then db:open('sens-public')/spip:SPIP/spip:spip_articles[spip:id_article=$issue]/spip:titre/text()
@@ -984,13 +985,13 @@ let $options := map { 'separator': 'semicolon', 'header': "true", 'format':'dire
 let $csv := fn:unparsed-text($local:base || 'SP20151007_ALL_KJ.csv')
 let $baserefs := csv:parse($csv, $options )
 
-let $refs := for $record in $baserefs//*:record[fn:substring(fn:data(*:datePub),1,4) = '2011']
+let $refs := for $record in $baserefs//*:record[fn:substring(fn:data(*:datePub),1,4) = '2016']
   return 
     if ($record/*:ordseq != '') then
      map {
       'rubnum' : fn:data($record/*:rubrique4Erudit),
       'num' : fn:data($record/*:id),
-      'vol' : fn:data($record/*:dossier),
+      'issue' : fn:data($record/*:dossier),
       'n' : fn:data($record/*:ordseq)
      }
    else ()
