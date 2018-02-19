@@ -986,8 +986,10 @@ let $csv := fn:unparsed-text($local:base || 'SP20151007_ALL_KJ.csv')
 let $baserefs := csv:parse($csv, $options )
 
 let $refs := for $record in $baserefs//*:record[fn:substring(fn:data(*:datePub),1,4) = '2016']
+  let $phase := $record/*:phase[1] => fn:data()
+  let $test := 'ph2'
   return 
-    if ($record/*:ordseq != '') then
+    if (fn:contains($phase, $test)) then
      map {
       'rubnum' : fn:data($record/*:rubrique4Erudit),
       'num' : fn:data($record/*:id),
