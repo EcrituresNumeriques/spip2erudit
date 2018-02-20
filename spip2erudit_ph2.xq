@@ -701,6 +701,9 @@ declare function p($node as element(spip:p)+, $options as map(*)) {
       $node[fn:normalize-space(.)=''] and (fn:not($node/child::*))
     ) then ()
     else if (
+      $node[fn:normalize-space(.)=' '] and (fn:not($node/child::*))
+    ) then ()
+    else if (
       fn:starts-with(fn:normalize-space($node), 'Bibliographie')
     ) then
       <grbiblio>
@@ -985,7 +988,7 @@ let $options := map { 'separator': 'semicolon', 'header': "true", 'format':'dire
 let $csv := fn:unparsed-text($local:base || 'SP20151007_ALL_KJ.csv')
 let $baserefs := csv:parse($csv, $options )
 
-let $refs := for $record in $baserefs//*:record[*:id = '73']
+let $refs := for $record in $baserefs//*:record[*:id = '727']
   return 
      map {
       'rubnum' : fn:data($record/*:rubrique4Erudit),
