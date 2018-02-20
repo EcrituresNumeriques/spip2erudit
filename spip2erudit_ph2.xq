@@ -775,7 +775,7 @@ declare function em($node as element(spip:em)+, $options as map(*)) {
   case ($node/spip:span[1]/spip:a[1][fn:ends-with(@href, 'sym')]) return passthru($node, $options)
   case ($node/spip:a[1][fn:ends-with(@href, 'sym')]) return passthru($node, $options)
   case ($node[fn:normalize-space(.) = ' ']) return passthru($node, $options)
-  case ($node[fn:normalize-space(.) = '']) return ()
+  case ($node[fn:normalize-space(.) = '']) return 'XXemXX'
   default return <marquage typemarq="italique">{ passthru($node, $options) }</marquage>
 };
 
@@ -784,21 +784,21 @@ declare function i($node as element(spip:i)+, $options as map(*)) {
   case ($node/spip:span[1]/spip:a[1][fn:ends-with(@href, 'sym')]) return passthru($node, $options)
   case ($node/spip:a[1][fn:ends-with(@href, 'sym')]) return passthru($node, $options)
   case ($node[fn:normalize-space(.) = ' ']) return passthru($node, $options)
-  case ($node[fn:normalize-space(.) = '']) return 'XXvXX '
+  case ($node[fn:normalize-space(.) = '']) return 'XXiXX '
   default return <marquage typemarq="italique">{ passthru($node, $options) }</marquage>
 };
 
 declare function strong($node as element(spip:strong)+, $options as map(*)) {
   switch($node)
   case ($node[fn:normalize-space(.) = ' ']) return passthru($node, $options)
-  case ($node[fn:normalize-space(.) = '']) return ()
+  case ($node[fn:normalize-space(.) = '']) return 'XXstXX'
   default return <marquage typemarq="gras">{ passthru($node, $options) }</marquage>
 };
 
 declare function sup($node as element(spip:sup)+, $options as map(*)) {
   switch ($node)
-  case ($node[fn:ends-with(@href, 'sym')]) return passthru($node, $options)
-  case ($node[fn:normalize-space(.) = ' ']) return ()
+  case ($node/spip:a[fn:ends-with(@href, 'sym')]) return passthru($node, $options)
+  case ($node[fn:normalize-space(.) = ' ']) return 'XXsupXX'
   case ($node[fn:normalize-space(.) != '']) return <exposant>{ passthru($node, $options) }</exposant>
   default return ()
 };
@@ -985,7 +985,16 @@ let $options := map { 'separator': 'semicolon', 'header': "true", 'format':'dire
 let $csv := fn:unparsed-text($local:base || 'SP20151007_ALL_KJ.csv')
 let $baserefs := csv:parse($csv, $options )
 
-let $refs := for $record in $baserefs//*:record[fn:substring(fn:data(*:datePub),1,4) = '2016']
+let $refs := for $record in $baserefs//*:record[*:id = '73']
+  return 
+     map {
+      'rubnum' : fn:data($record/*:rubrique4Erudit),
+      'num' : fn:data($record/*:id),
+      'issue' : fn:data($record/*:dossier),
+      'n' : fn:data($record/*:ordseq)
+     }
+
+(: let $refs := for $record in $baserefs//*:record[fn:substring(fn:data(*:datePub),1,4) = '2016']
   let $phase := $record/*:phase[1] => fn:data()
   let $test := 'ph2'
   return 
@@ -996,6 +1005,6 @@ let $refs := for $record in $baserefs//*:record[fn:substring(fn:data(*:datePub),
       'issue' : fn:data($record/*:dossier),
       'n' : fn:data($record/*:ordseq)
      }
-   else ()
+   else () :)
 
 return writeArticles($refs)
